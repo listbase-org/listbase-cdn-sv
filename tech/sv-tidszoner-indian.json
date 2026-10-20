@@ -1,0 +1,112 @@
+{
+  "id": "sv-tidszoner-indian",
+  "name": "Tidszoner – Indian (7)",
+  "title": "Tidszoner – Indian (7)",
+  "description": "Tidszoner vars IANA-identifierare börjar med 'Indian/', med namn på svenska.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stad",
+      "label": "Stad",
+      "type": "string"
+    },
+    {
+      "key": "standardnamn",
+      "label": "Standardnamn",
+      "type": "string"
+    },
+    {
+      "key": "sommarnamn",
+      "label": "Sommarnamn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Indian/Christmas",
+      "region": "Indian",
+      "stad": "Julön",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Indian/Cocos",
+      "region": "Indian",
+      "stad": "Kokosöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Indian/Comoro",
+      "region": "Indian",
+      "stad": "Komorerna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Indian/Kerguelen",
+      "region": "Indian",
+      "stad": "Kerguelenöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Indian/Mahe",
+      "region": "Indian",
+      "stad": "Mahé",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Indian/Maldives",
+      "region": "Indian",
+      "stad": "Maldiverna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Indian/Reunion",
+      "region": "Indian",
+      "stad": "Réunion",
+      "standardnamn": "",
+      "sommarnamn": ""
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner – Indian (7) - Gratis nedladdning",
+    "description": "Tidszoner vars IANA-identifierare börjar med 'Indian/', med namn på svenska. Innehåller 7 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner – Indian (7) | ListBase",
+    "seo_description": "Ladda ner Tidszoner – Indian (7) — 7 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 7 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

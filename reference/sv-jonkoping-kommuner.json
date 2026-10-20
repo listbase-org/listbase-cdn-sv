@@ -1,0 +1,178 @@
+{
+  "id": "sv-jonkoping-kommuner",
+  "name": "Kommuner i Jönköpings län",
+  "title": "Kommuner i Jönköpings län",
+  "description": "13 kommuner i Jönköpings län (länskod 06, ISO SE-F , residensstad Jönköping). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "0604",
+      "name": "Aneby kommun",
+      "name_short": "Aneby",
+      "slug": "aneby",
+      "locality": "ANEBY",
+      "url": "http://www.aneby.se",
+      "num_postnummer": 149
+    },
+    {
+      "kommunkod": "0617",
+      "name": "Gnosjö kommun",
+      "name_short": "Gnosjö",
+      "slug": "gnosjo",
+      "locality": "GNOSJÖ",
+      "url": "http://www.gnosjo.se",
+      "num_postnummer": 114
+    },
+    {
+      "kommunkod": "0642",
+      "name": "Mullsjö kommun",
+      "name_short": "Mullsjö",
+      "slug": "mullsjo",
+      "locality": "MULLSJÖ",
+      "url": "http://www.mullsjo.se",
+      "num_postnummer": 133
+    },
+    {
+      "kommunkod": "0643",
+      "name": "Habo kommun",
+      "name_short": "Habo",
+      "slug": "habo",
+      "locality": "HABO",
+      "url": "http://www.habokommun.se",
+      "num_postnummer": 256
+    },
+    {
+      "kommunkod": "0662",
+      "name": "Gislaveds kommun",
+      "name_short": "Gislaved",
+      "slug": "gislaved",
+      "locality": "GISLAVED",
+      "url": "http://www.gislaved.se",
+      "num_postnummer": 120
+    },
+    {
+      "kommunkod": "0665",
+      "name": "Vaggeryds kommun",
+      "name_short": "Vaggeryd",
+      "slug": "vaggeryd",
+      "locality": "SKILLINGARYD",
+      "url": "http://www.vaggeryd.se",
+      "num_postnummer": 227
+    },
+    {
+      "kommunkod": "0680",
+      "name": "Jönköpings kommun",
+      "name_short": "Jönköping",
+      "slug": "jonkoping",
+      "locality": "JÖNKÖPING",
+      "url": "http://www.jonkoping.se",
+      "num_postnummer": 410
+    },
+    {
+      "kommunkod": "0682",
+      "name": "Nässjö kommun",
+      "name_short": "Nässjö",
+      "slug": "nassjo",
+      "locality": "NÄSSJÖ",
+      "url": "http://www.nassjo.se",
+      "num_postnummer": 137
+    },
+    {
+      "kommunkod": "0683",
+      "name": "Värnamo kommun",
+      "name_short": "Värnamo",
+      "slug": "varnamo",
+      "locality": "VÄRNAMO",
+      "url": "http://www.varnamo.se",
+      "num_postnummer": 119
+    },
+    {
+      "kommunkod": "0684",
+      "name": "Sävsjö kommun",
+      "name_short": "Sävsjö",
+      "slug": "savsjo",
+      "locality": "SÄVSJÖ",
+      "url": "http://www.savsjo.se",
+      "num_postnummer": 84
+    },
+    {
+      "kommunkod": "0685",
+      "name": "Vetlanda kommun",
+      "name_short": "Vetlanda",
+      "slug": "vetlanda",
+      "locality": "VETLANDA",
+      "url": "http://www.vetlanda.se",
+      "num_postnummer": 158
+    },
+    {
+      "kommunkod": "0686",
+      "name": "Eksjö kommun",
+      "name_short": "Eksjö",
+      "slug": "eksjo",
+      "locality": "EKSJÖ",
+      "url": "http://www.eksjo.se",
+      "num_postnummer": 133
+    },
+    {
+      "kommunkod": "0687",
+      "name": "Tranås kommun",
+      "name_short": "Tranås",
+      "slug": "tranas",
+      "locality": "TRANÅS",
+      "url": "http://www.tranas.se",
+      "num_postnummer": 78
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Jönköpings län - Gratis nedladdning",
+    "description": "13 kommuner i Jönköpings län (länskod 06, ISO SE-F , residensstad Jönköping). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 13 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Jönköpings län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Jönköpings län — 13 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 13 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

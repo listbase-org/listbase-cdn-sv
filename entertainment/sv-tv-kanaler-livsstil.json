@@ -1,0 +1,241 @@
+{
+  "id": "sv-tv-kanaler-livsstil",
+  "name": "Livsstilskanaler (Lifestyle TV channels)",
+  "title": "Livsstilskanaler (Lifestyle TV channels)",
+  "description": "Svenska TV-kanaler i kategorin \"lifestyle\" (Lifestyle) — 10 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "Boligkjopiblinde.se",
+      "name": "Boligkjop i blinde",
+      "alt_names": "Boligkjøp i blinde",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/boligkjop-i-blinde-no/details"
+    },
+    {
+      "id": 2,
+      "channel_id": "Boligkobiblinde.se",
+      "name": "Boligkob i blinde",
+      "alt_names": "Boligkøb i blinde",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/boligkob-i-blinde-dk/details"
+    },
+    {
+      "id": 3,
+      "channel_id": "BuyingBlindDenmark.se",
+      "name": "Buying Blind Denmark",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/buying-blind-denmark-se/details"
+    },
+    {
+      "id": 4,
+      "channel_id": "Kochenpatoppen.se",
+      "name": "Koch'en pa toppen",
+      "alt_names": "Koch'en på toppen",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/kochen-pa-toppen-dk/details"
+    },
+    {
+      "id": 5,
+      "channel_id": "MasterChefDanmarksstorstemadtalenter.se",
+      "name": "MasterChef Danmarks storste madtalenter",
+      "alt_names": "MasterChef Danmarks største madtalenter",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/masterchef-danmarks-storste-madtalenter-dk/details"
+    },
+    {
+      "id": 6,
+      "channel_id": "Medknivenforstruben.se",
+      "name": "Med kniven for struben",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/med-kniven-for-struben-dk/details"
+    },
+    {
+      "id": 7,
+      "channel_id": "Skonneombygninger.se",
+      "name": "Skonne ombygninger",
+      "alt_names": "Skønne ombygninger",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/skonne-ombygninger-dk/details"
+    },
+    {
+      "id": 8,
+      "channel_id": "StugfixarnaNorge.se",
+      "name": "Stugfixarna Norge",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/stugfixarna-norge-se/details"
+    },
+    {
+      "id": 9,
+      "channel_id": "TilMiddagHos.se",
+      "name": "Til Middag Hos",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "cooking, lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/til-middag-hos-dk/details"
+    },
+    {
+      "id": 10,
+      "channel_id": "TLC.se",
+      "name": "TLC",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tlcsverige.se/"
+    }
+  ],
+  "meta": {
+    "title": "Livsstilskanaler (Lifestyle TV channels) - Gratis nedladdning",
+    "description": "Svenska TV-kanaler i kategorin \"lifestyle\" (Lifestyle) — 10 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats. Innehåller 10 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Livsstilskanaler (Lifestyle TV channels) | ListBase",
+    "seo_description": "Ladda ner Livsstilskanaler (Lifestyle TV channels) — 10 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 10 poster / 13 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

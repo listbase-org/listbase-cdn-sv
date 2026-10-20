@@ -1,0 +1,1680 @@
+{
+  "id": "sv-halland-valdistrikt-2022",
+  "name": "Valdistrikt i Hallands län (val 2022)",
+  "title": "Valdistrikt i Hallands län (val 2022)",
+  "description": "203 valdistrikt i Hallands län (länskod 13) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 203,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "13150101",
+      "valdistrikt_namn": "Torup",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13150102",
+      "valdistrikt_namn": "Rydöbruk-Femsjö",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13150201",
+      "valdistrikt_namn": "Kinnared-Drängsered",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13150401",
+      "valdistrikt_namn": "Landeryd-Långaryd",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13150501",
+      "valdistrikt_namn": "Hyltebruk",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13150502",
+      "valdistrikt_namn": "Örnabäckshult",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13150503",
+      "valdistrikt_namn": "Staffansbo",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13150701",
+      "valdistrikt_namn": "Unnaryd-Jälluntofta",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800101",
+      "valdistrikt_namn": "Centrum norra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800102",
+      "valdistrikt_namn": "Centrum västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800103",
+      "valdistrikt_namn": "Centrum södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800104",
+      "valdistrikt_namn": "Galgberget västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800105",
+      "valdistrikt_namn": "Galgberget östra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800106",
+      "valdistrikt_namn": "Kärleken-Sofieberg västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800107",
+      "valdistrikt_namn": "Kärleken-Sofieberg östra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800108",
+      "valdistrikt_namn": "Mickedala",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800109",
+      "valdistrikt_namn": "Rotorp norra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800110",
+      "valdistrikt_namn": "Rotorp södra-Alet",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800111",
+      "valdistrikt_namn": "Kattegatt östra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800112",
+      "valdistrikt_namn": "Slottsjord-Kattegatt västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800201",
+      "valdistrikt_namn": "Centrum östra-Gamletull södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800202",
+      "valdistrikt_namn": "Gamletull västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800203",
+      "valdistrikt_namn": "Gamletull norra och östra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800204",
+      "valdistrikt_namn": "Furet",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800205",
+      "valdistrikt_namn": "Frennarp",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800206",
+      "valdistrikt_namn": "Nyatorp norra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800207",
+      "valdistrikt_namn": "Nyatorp södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800208",
+      "valdistrikt_namn": "Nyhem västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800209",
+      "valdistrikt_namn": "Nyhem östra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800210",
+      "valdistrikt_namn": "Nyhem södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800211",
+      "valdistrikt_namn": "Engelbrekt västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800212",
+      "valdistrikt_namn": "Östra Förstaden-Engelbrekt norra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800213",
+      "valdistrikt_namn": "Engelbrekt östra-Östra stranden",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800214",
+      "valdistrikt_namn": "Linehed södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800215",
+      "valdistrikt_namn": "Linehed norra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800216",
+      "valdistrikt_namn": "Gustavsfält norra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800217",
+      "valdistrikt_namn": "Gustavsfält södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800218",
+      "valdistrikt_namn": "Andersberg norra och västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800219",
+      "valdistrikt_namn": "Andersberg södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800301",
+      "valdistrikt_namn": "Vallås västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800302",
+      "valdistrikt_namn": "Vallås norra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800303",
+      "valdistrikt_namn": "Vallås östra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800304",
+      "valdistrikt_namn": "Vallås södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800305",
+      "valdistrikt_namn": "Snöstorp östra-Brogård",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800306",
+      "valdistrikt_namn": "Snöstorp västra och södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800307",
+      "valdistrikt_namn": "Fyllinge norra och östra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800308",
+      "valdistrikt_namn": "Fyllinge västra och södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800309",
+      "valdistrikt_namn": "Skedala-Marbäck",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800401",
+      "valdistrikt_namn": "Simlångsdalen",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800501",
+      "valdistrikt_namn": "Oskarström västra och södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800502",
+      "valdistrikt_namn": "Oskarström norra-Johansfors",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800503",
+      "valdistrikt_namn": "Oskarström östra-Skavböke",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800701",
+      "valdistrikt_namn": "Eldsberga-Tönnersjö",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800702",
+      "valdistrikt_namn": "Gullbranna-Laxvik",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800801",
+      "valdistrikt_namn": "Trönninge",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800901",
+      "valdistrikt_namn": "Söndrum centrum",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800902",
+      "valdistrikt_namn": "Söndrum södra-Eketånga",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800903",
+      "valdistrikt_namn": "Söndrum norra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800904",
+      "valdistrikt_namn": "Bäckagård centrum",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800905",
+      "valdistrikt_namn": "Bäckagård södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800906",
+      "valdistrikt_namn": "Bäckagård norra-Fammarp",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800907",
+      "valdistrikt_namn": "Frösakull östra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800908",
+      "valdistrikt_namn": "Frösakull västra-Tylösand",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13800909",
+      "valdistrikt_namn": "Stenhuggeriet-Sandhamn",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13801001",
+      "valdistrikt_namn": "Holm-Vapnö-Sperlingsholm",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13801101",
+      "valdistrikt_namn": "Gullbrandstorp södra-Villshärad",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13801102",
+      "valdistrikt_namn": "Gullbrandstorp norra-Onsjö",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13801103",
+      "valdistrikt_namn": "Haverdal",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13801104",
+      "valdistrikt_namn": "Harplinge",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13801201",
+      "valdistrikt_namn": "Steninge-Särdal",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13801401",
+      "valdistrikt_namn": "Getinge södra-Rävinge",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13801402",
+      "valdistrikt_namn": "Getinge norra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13801701",
+      "valdistrikt_namn": "Kvibille-Slättåkra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13801901",
+      "valdistrikt_namn": "Åled västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13801902",
+      "valdistrikt_namn": "Åled östra-Sennan",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810101",
+      "valdistrikt_namn": "Laholm Centrum",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810102",
+      "valdistrikt_namn": "Laholm Ö",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810103",
+      "valdistrikt_namn": "Laholm V",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810104",
+      "valdistrikt_namn": "Laholm N",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810105",
+      "valdistrikt_namn": "Mellbystrand",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810301",
+      "valdistrikt_namn": "Våxtorp",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810501",
+      "valdistrikt_namn": "Hasslöv-Skottorp",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810502",
+      "valdistrikt_namn": "Skummeslöv",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810601",
+      "valdistrikt_namn": "Hishult",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810701",
+      "valdistrikt_namn": "Ränneslöv",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810801",
+      "valdistrikt_namn": "Vallberga-Ysby",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13810901",
+      "valdistrikt_namn": "Knäred",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13811101",
+      "valdistrikt_namn": "Veinge",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13811102",
+      "valdistrikt_namn": "Tjärby",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820101",
+      "valdistrikt_namn": "FBG 1 V Gärdet-Hamnen-Gamla stan",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820102",
+      "valdistrikt_namn": "FBG 2 Arvidstorp",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820103",
+      "valdistrikt_namn": "FBG 3 Herting",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820104",
+      "valdistrikt_namn": "FBG 4 V Gärdet-Smedjeholm",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820105",
+      "valdistrikt_namn": "FBG 5 Centrum",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820106",
+      "valdistrikt_namn": "FBG 6 Ö Gärdet-Vindilen-Fajans",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820107",
+      "valdistrikt_namn": "FBG 7 N Skrea Strand",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820108",
+      "valdistrikt_namn": "FBG 8 Hjortsberg",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820109",
+      "valdistrikt_namn": "FBG 9 Tånga-Sloalyckan-V Tröinge",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820110",
+      "valdistrikt_namn": "FBG 10 Falkagård-Stafsinge",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820112",
+      "valdistrikt_namn": "FBG 12 S Skrea Strand-Ringsegård",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820201",
+      "valdistrikt_namn": "Skrea Samhälle-Ringsegård",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820202",
+      "valdistrikt_namn": "FBG 11 Slätten",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820301",
+      "valdistrikt_namn": "Årstad",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820601",
+      "valdistrikt_namn": "Slöinge",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820701",
+      "valdistrikt_namn": "Ugglarp-Långasand",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820801",
+      "valdistrikt_namn": "Skogstorp",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820901",
+      "valdistrikt_namn": "Glommen-Olofsbo",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13820902",
+      "valdistrikt_namn": "Långås-Morup",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13821001",
+      "valdistrikt_namn": "Ljungby",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13821101",
+      "valdistrikt_namn": "Tröingeberg",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13821102",
+      "valdistrikt_namn": "Vinbergs Samhälle och kyrkby",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13821201",
+      "valdistrikt_namn": "Vessigebro",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13821501",
+      "valdistrikt_namn": "Köinge-Okome",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13821901",
+      "valdistrikt_namn": "Ätran- Fegen",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13822301",
+      "valdistrikt_namn": "Ullared",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13822401",
+      "valdistrikt_namn": "Älvsered",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830121",
+      "valdistrikt_namn": "Värö",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830122",
+      "valdistrikt_namn": "Stråvalla",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830123",
+      "valdistrikt_namn": "Veddige V",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830124",
+      "valdistrikt_namn": "Veddige Ö",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830125",
+      "valdistrikt_namn": "Kungsäter-Gunnarsjö",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830126",
+      "valdistrikt_namn": "Bua",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830127",
+      "valdistrikt_namn": "Derome-Sällstorp",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830128",
+      "valdistrikt_namn": "Karl Gustav-Grimmared",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830129",
+      "valdistrikt_namn": "Tångaberg-Kärra-Åskloster",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830130",
+      "valdistrikt_namn": "Bläshammar-Trönningenäs",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830131",
+      "valdistrikt_namn": "Lindberg-Tofta-Torpa",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830132",
+      "valdistrikt_namn": "Valinge-Stamnared",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830133",
+      "valdistrikt_namn": "Barnabro-Lugnet-Getterön",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830134",
+      "valdistrikt_namn": "Trönninge-Göingegården",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830135",
+      "valdistrikt_namn": "Brunnsberg-Norrdal",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830136",
+      "valdistrikt_namn": "Stenåsa-Äckregården",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830137",
+      "valdistrikt_namn": "Gamleby",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830138",
+      "valdistrikt_namn": "Trädlyckan",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830139",
+      "valdistrikt_namn": "Håsten",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830140",
+      "valdistrikt_namn": "Karlberg",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830221",
+      "valdistrikt_namn": "Skällinge-Nösslinge",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830222",
+      "valdistrikt_namn": "Rolfstorp",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830223",
+      "valdistrikt_namn": "Träslöv N",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830224",
+      "valdistrikt_namn": "Grimeton-Gödestad-Hunnestad",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830225",
+      "valdistrikt_namn": "Varberg centrum S",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830226",
+      "valdistrikt_namn": "Varberg centrum N",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830227",
+      "valdistrikt_namn": "Lorensberg-Tranelyckan",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830228",
+      "valdistrikt_namn": "Lilla Träslöv",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830229",
+      "valdistrikt_namn": "Hästhaga-Rosenfred",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830230",
+      "valdistrikt_namn": "Mariedal",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830231",
+      "valdistrikt_namn": "Sörse-Apelvikshöjd",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830232",
+      "valdistrikt_namn": "Sörse-Ranelid",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830233",
+      "valdistrikt_namn": "Breared",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830234",
+      "valdistrikt_namn": "Träslöv S",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830235",
+      "valdistrikt_namn": "Apelviken-Nygård",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830236",
+      "valdistrikt_namn": "Spannarp",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830237",
+      "valdistrikt_namn": "Träslövsläge NV",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830238",
+      "valdistrikt_namn": "Träslövsläge SÖ",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830239",
+      "valdistrikt_namn": "Tvååker V",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830240",
+      "valdistrikt_namn": "Tvååker Ö",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13830241",
+      "valdistrikt_namn": "Sibbarp-Dagsås",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840101",
+      "valdistrikt_namn": "Innerstaden",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840102",
+      "valdistrikt_namn": "Västra Villastaden",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840103",
+      "valdistrikt_namn": "Ö Villastaden/Signeskulle/Gårdskulla",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840104",
+      "valdistrikt_namn": "Hålabäck",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840105",
+      "valdistrikt_namn": "Hammerö",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840106",
+      "valdistrikt_namn": "Hammerö Södra/Västra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840107",
+      "valdistrikt_namn": "Tingberget",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840201",
+      "valdistrikt_namn": "Varla Södra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840202",
+      "valdistrikt_namn": "Varla Norra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840203",
+      "valdistrikt_namn": "Tölö",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840204",
+      "valdistrikt_namn": "Fors",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840205",
+      "valdistrikt_namn": "Hede",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840206",
+      "valdistrikt_namn": "Björkris",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840301",
+      "valdistrikt_namn": "Anneberg",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840302",
+      "valdistrikt_namn": "Älvsåker",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840401",
+      "valdistrikt_namn": "Vallda Sandö",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840402",
+      "valdistrikt_namn": "Vallda Lerkil",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840403",
+      "valdistrikt_namn": "Vallda Bröndome",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840404",
+      "valdistrikt_namn": "Vallda Backa",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840501",
+      "valdistrikt_namn": "Kyvik",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840502",
+      "valdistrikt_namn": "Kullavik Centrum",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840503",
+      "valdistrikt_namn": "Släps Kullen",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840504",
+      "valdistrikt_namn": "Malevik/Släps Inland",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840505",
+      "valdistrikt_namn": "Bukärrs Centrum",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840506",
+      "valdistrikt_namn": "Särö",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840601",
+      "valdistrikt_namn": "Frillesås Landsbygd",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840602",
+      "valdistrikt_namn": "Frillesås Kust",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840801",
+      "valdistrikt_namn": "Ölmevalla Östra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840802",
+      "valdistrikt_namn": "Ölmanäs",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840803",
+      "valdistrikt_namn": "Åsa Centrum",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13840901",
+      "valdistrikt_namn": "Gällinge/Idala/Förlanda",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841201",
+      "valdistrikt_namn": "Fjärås Norra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841202",
+      "valdistrikt_namn": "Fjärås/Må",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841203",
+      "valdistrikt_namn": "Fjärås Södra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841301",
+      "valdistrikt_namn": "Hanhals",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841401",
+      "valdistrikt_namn": "Forsbäck/Oskarsberg",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841402",
+      "valdistrikt_namn": "Presse/Skällared",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841403",
+      "valdistrikt_namn": "Onsala Kyrka",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841404",
+      "valdistrikt_namn": "Onsala Rydet",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841405",
+      "valdistrikt_namn": "Gottskär",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841406",
+      "valdistrikt_namn": "Vässingö/Röda Holme",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841407",
+      "valdistrikt_namn": "Västra Onsala",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841408",
+      "valdistrikt_namn": "Kolla Norra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841409",
+      "valdistrikt_namn": "Kolla Södra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841411",
+      "valdistrikt_namn": "Södra Onsala",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    },
+    {
+      "valdistrikt_kod": "13841412",
+      "valdistrikt_namn": "Åsa kust",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13",
+      "lan_namn": "Hallands län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Hallands län (val 2022) - Gratis nedladdning",
+    "description": "203 valdistrikt i Hallands län (länskod 13) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 203 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Hallands län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Hallands län (val 2022) — 203 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 203 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

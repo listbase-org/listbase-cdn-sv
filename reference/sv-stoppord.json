@@ -1,0 +1,1024 @@
+{
+  "id": "sv-stoppord",
+  "name": "Stoppord",
+  "title": "Stoppord",
+  "description": "Standardlista över svenska stoppord (vanliga ord som brukar filtreras bort vid textanalys).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 331,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "all"
+    },
+    {
+      "word": "alla"
+    },
+    {
+      "word": "allas"
+    },
+    {
+      "word": "allt"
+    },
+    {
+      "word": "alltså"
+    },
+    {
+      "word": "andra"
+    },
+    {
+      "word": "andras"
+    },
+    {
+      "word": "annan"
+    },
+    {
+      "word": "annat"
+    },
+    {
+      "word": "arton"
+    },
+    {
+      "word": "artonde"
+    },
+    {
+      "word": "att"
+    },
+    {
+      "word": "av"
+    },
+    {
+      "word": "bakom"
+    },
+    {
+      "word": "bara"
+    },
+    {
+      "word": "bland"
+    },
+    {
+      "word": "blev"
+    },
+    {
+      "word": "bli"
+    },
+    {
+      "word": "blir"
+    },
+    {
+      "word": "blivit"
+    },
+    {
+      "word": "båda"
+    },
+    {
+      "word": "bådas"
+    },
+    {
+      "word": "både"
+    },
+    {
+      "word": "dag"
+    },
+    {
+      "word": "dagar"
+    },
+    {
+      "word": "dagarna"
+    },
+    {
+      "word": "dagen"
+    },
+    {
+      "word": "de"
+    },
+    {
+      "word": "del"
+    },
+    {
+      "word": "delen"
+    },
+    {
+      "word": "dem"
+    },
+    {
+      "word": "den"
+    },
+    {
+      "word": "denna"
+    },
+    {
+      "word": "deras"
+    },
+    {
+      "word": "dess"
+    },
+    {
+      "word": "dessa"
+    },
+    {
+      "word": "det"
+    },
+    {
+      "word": "detta"
+    },
+    {
+      "word": "dig"
+    },
+    {
+      "word": "din"
+    },
+    {
+      "word": "dina"
+    },
+    {
+      "word": "dit"
+    },
+    {
+      "word": "ditt"
+    },
+    {
+      "word": "dock"
+    },
+    {
+      "word": "dom"
+    },
+    {
+      "word": "du"
+    },
+    {
+      "word": "där"
+    },
+    {
+      "word": "därför"
+    },
+    {
+      "word": "då"
+    },
+    {
+      "word": "efter"
+    },
+    {
+      "word": "eftersom"
+    },
+    {
+      "word": "ej"
+    },
+    {
+      "word": "elfte"
+    },
+    {
+      "word": "eller"
+    },
+    {
+      "word": "elva"
+    },
+    {
+      "word": "en"
+    },
+    {
+      "word": "er"
+    },
+    {
+      "word": "era"
+    },
+    {
+      "word": "ert"
+    },
+    {
+      "word": "ett"
+    },
+    {
+      "word": "fall"
+    },
+    {
+      "word": "fanns"
+    },
+    {
+      "word": "fast"
+    },
+    {
+      "word": "fem"
+    },
+    {
+      "word": "femte"
+    },
+    {
+      "word": "femtio"
+    },
+    {
+      "word": "femtionde"
+    },
+    {
+      "word": "femton"
+    },
+    {
+      "word": "femtonde"
+    },
+    {
+      "word": "fick"
+    },
+    {
+      "word": "fin"
+    },
+    {
+      "word": "finnas"
+    },
+    {
+      "word": "finns"
+    },
+    {
+      "word": "fjorton"
+    },
+    {
+      "word": "fjortonde"
+    },
+    {
+      "word": "fjärde"
+    },
+    {
+      "word": "fler"
+    },
+    {
+      "word": "flera"
+    },
+    {
+      "word": "flesta"
+    },
+    {
+      "word": "fram"
+    },
+    {
+      "word": "framför"
+    },
+    {
+      "word": "från"
+    },
+    {
+      "word": "fyra"
+    },
+    {
+      "word": "fyrtio"
+    },
+    {
+      "word": "fyrtionde"
+    },
+    {
+      "word": "få"
+    },
+    {
+      "word": "får"
+    },
+    {
+      "word": "fått"
+    },
+    {
+      "word": "för"
+    },
+    {
+      "word": "före"
+    },
+    {
+      "word": "förra"
+    },
+    {
+      "word": "första"
+    },
+    {
+      "word": "ge"
+    },
+    {
+      "word": "genom"
+    },
+    {
+      "word": "ger"
+    },
+    {
+      "word": "gick"
+    },
+    {
+      "word": "gjorde"
+    },
+    {
+      "word": "gjort"
+    },
+    {
+      "word": "gälla"
+    },
+    {
+      "word": "gäller"
+    },
+    {
+      "word": "gällt"
+    },
+    {
+      "word": "gärna"
+    },
+    {
+      "word": "gå"
+    },
+    {
+      "word": "gång"
+    },
+    {
+      "word": "går"
+    },
+    {
+      "word": "gått"
+    },
+    {
+      "word": "gör"
+    },
+    {
+      "word": "göra"
+    },
+    {
+      "word": "ha"
+    },
+    {
+      "word": "hade"
+    },
+    {
+      "word": "haft"
+    },
+    {
+      "word": "han"
+    },
+    {
+      "word": "hans"
+    },
+    {
+      "word": "har"
+    },
+    {
+      "word": "hela"
+    },
+    {
+      "word": "heller"
+    },
+    {
+      "word": "hellre"
+    },
+    {
+      "word": "helst"
+    },
+    {
+      "word": "helt"
+    },
+    {
+      "word": "henne"
+    },
+    {
+      "word": "hennes"
+    },
+    {
+      "word": "heter"
+    },
+    {
+      "word": "hit"
+    },
+    {
+      "word": "hjälp"
+    },
+    {
+      "word": "hon"
+    },
+    {
+      "word": "honom"
+    },
+    {
+      "word": "hundra"
+    },
+    {
+      "word": "hundraen"
+    },
+    {
+      "word": "hundraett"
+    },
+    {
+      "word": "hur"
+    },
+    {
+      "word": "här"
+    },
+    {
+      "word": "i"
+    },
+    {
+      "word": "ibland"
+    },
+    {
+      "word": "icke"
+    },
+    {
+      "word": "igen"
+    },
+    {
+      "word": "in"
+    },
+    {
+      "word": "inför"
+    },
+    {
+      "word": "inga"
+    },
+    {
+      "word": "ingen"
+    },
+    {
+      "word": "inget"
+    },
+    {
+      "word": "innan"
+    },
+    {
+      "word": "inne"
+    },
+    {
+      "word": "inom"
+    },
+    {
+      "word": "inte"
+    },
+    {
+      "word": "inuti"
+    },
+    {
+      "word": "ja"
+    },
+    {
+      "word": "jag"
+    },
+    {
+      "word": "ju"
+    },
+    {
+      "word": "jämfört"
+    },
+    {
+      "word": "kan"
+    },
+    {
+      "word": "kom"
+    },
+    {
+      "word": "komma"
+    },
+    {
+      "word": "kommer"
+    },
+    {
+      "word": "kommit"
+    },
+    {
+      "word": "kunde"
+    },
+    {
+      "word": "kunna"
+    },
+    {
+      "word": "kunnat"
+    },
+    {
+      "word": "kvar"
+    },
+    {
+      "word": "kör"
+    },
+    {
+      "word": "legat"
+    },
+    {
+      "word": "ligga"
+    },
+    {
+      "word": "ligger"
+    },
+    {
+      "word": "lägga"
+    },
+    {
+      "word": "man"
+    },
+    {
+      "word": "med"
+    },
+    {
+      "word": "mellan"
+    },
+    {
+      "word": "men"
+    },
+    {
+      "word": "menar"
+    },
+    {
+      "word": "mer"
+    },
+    {
+      "word": "mera"
+    },
+    {
+      "word": "mig"
+    },
+    {
+      "word": "min"
+    },
+    {
+      "word": "mina"
+    },
+    {
+      "word": "mitt"
+    },
+    {
+      "word": "mittemot"
+    },
+    {
+      "word": "mot"
+    },
+    {
+      "word": "ned"
+    },
+    {
+      "word": "nederst"
+    },
+    {
+      "word": "nedersta"
+    },
+    {
+      "word": "nedre"
+    },
+    {
+      "word": "nej"
+    },
+    {
+      "word": "ner"
+    },
+    {
+      "word": "ni"
+    },
+    {
+      "word": "nio"
+    },
+    {
+      "word": "nionde"
+    },
+    {
+      "word": "nittio"
+    },
+    {
+      "word": "nittionde"
+    },
+    {
+      "word": "nitton"
+    },
+    {
+      "word": "nittonde"
+    },
+    {
+      "word": "nog"
+    },
+    {
+      "word": "noll"
+    },
+    {
+      "word": "nr"
+    },
+    {
+      "word": "nu"
+    },
+    {
+      "word": "nummer"
+    },
+    {
+      "word": "nya"
+    },
+    {
+      "word": "när"
+    },
+    {
+      "word": "nästa"
+    },
+    {
+      "word": "någon"
+    },
+    {
+      "word": "någonting"
+    },
+    {
+      "word": "något"
+    },
+    {
+      "word": "några"
+    },
+    {
+      "word": "nån"
+    },
+    {
+      "word": "nåt"
+    },
+    {
+      "word": "och"
+    },
+    {
+      "word": "också"
+    },
+    {
+      "word": "om"
+    },
+    {
+      "word": "oss"
+    },
+    {
+      "word": "på"
+    },
+    {
+      "word": "rakt"
+    },
+    {
+      "word": "redan"
+    },
+    {
+      "word": "sade"
+    },
+    {
+      "word": "sagt"
+    },
+    {
+      "word": "samt"
+    },
+    {
+      "word": "sedan"
+    },
+    {
+      "word": "sen"
+    },
+    {
+      "word": "ser"
+    },
+    {
+      "word": "sex"
+    },
+    {
+      "word": "sextio"
+    },
+    {
+      "word": "sextionde"
+    },
+    {
+      "word": "sexton"
+    },
+    {
+      "word": "sextonde"
+    },
+    {
+      "word": "sig"
+    },
+    {
+      "word": "sin"
+    },
+    {
+      "word": "sina"
+    },
+    {
+      "word": "sist"
+    },
+    {
+      "word": "sista"
+    },
+    {
+      "word": "siste"
+    },
+    {
+      "word": "sitt"
+    },
+    {
+      "word": "sitta"
+    },
+    {
+      "word": "sju"
+    },
+    {
+      "word": "sjunde"
+    },
+    {
+      "word": "sjuttio"
+    },
+    {
+      "word": "sjuttionde"
+    },
+    {
+      "word": "sjutton"
+    },
+    {
+      "word": "sjuttonde"
+    },
+    {
+      "word": "själv"
+    },
+    {
+      "word": "sjätte"
+    },
+    {
+      "word": "ska"
+    },
+    {
+      "word": "skall"
+    },
+    {
+      "word": "skriver"
+    },
+    {
+      "word": "skulle"
+    },
+    {
+      "word": "slutligen"
+    },
+    {
+      "word": "snart"
+    },
+    {
+      "word": "som"
+    },
+    {
+      "word": "står"
+    },
+    {
+      "word": "säga"
+    },
+    {
+      "word": "säger"
+    },
+    {
+      "word": "sätt"
+    },
+    {
+      "word": "så"
+    },
+    {
+      "word": "sådan"
+    },
+    {
+      "word": "sådana"
+    },
+    {
+      "word": "sådant"
+    },
+    {
+      "word": "ta"
+    },
+    {
+      "word": "tack"
+    },
+    {
+      "word": "tar"
+    },
+    {
+      "word": "till"
+    },
+    {
+      "word": "tills"
+    },
+    {
+      "word": "tio"
+    },
+    {
+      "word": "tionde"
+    },
+    {
+      "word": "tjugo"
+    },
+    {
+      "word": "tjugoen"
+    },
+    {
+      "word": "tjugoett"
+    },
+    {
+      "word": "tjugonde"
+    },
+    {
+      "word": "tjugotre"
+    },
+    {
+      "word": "tjugotvå"
+    },
+    {
+      "word": "tjungo"
+    },
+    {
+      "word": "tog"
+    },
+    {
+      "word": "tolfte"
+    },
+    {
+      "word": "tolv"
+    },
+    {
+      "word": "tre"
+    },
+    {
+      "word": "tredje"
+    },
+    {
+      "word": "trettio"
+    },
+    {
+      "word": "trettionde"
+    },
+    {
+      "word": "tretton"
+    },
+    {
+      "word": "trettonde"
+    },
+    {
+      "word": "tro"
+    },
+    {
+      "word": "tror"
+    },
+    {
+      "word": "två"
+    },
+    {
+      "word": "tvåhundra"
+    },
+    {
+      "word": "under"
+    },
+    {
+      "word": "upp"
+    },
+    {
+      "word": "ur"
+    },
+    {
+      "word": "ut"
+    },
+    {
+      "word": "utan"
+    },
+    {
+      "word": "utanför"
+    },
+    {
+      "word": "ute"
+    },
+    {
+      "word": "utom"
+    },
+    {
+      "word": "vad"
+    },
+    {
+      "word": "var"
+    },
+    {
+      "word": "vara"
+    },
+    {
+      "word": "varför"
+    },
+    {
+      "word": "varifrån"
+    },
+    {
+      "word": "varit"
+    },
+    {
+      "word": "varje"
+    },
+    {
+      "word": "varken"
+    },
+    {
+      "word": "vars"
+    },
+    {
+      "word": "varsågod"
+    },
+    {
+      "word": "vart"
+    },
+    {
+      "word": "vem"
+    },
+    {
+      "word": "vems"
+    },
+    {
+      "word": "verkligen"
+    },
+    {
+      "word": "vet"
+    },
+    {
+      "word": "vi"
+    },
+    {
+      "word": "vid"
+    },
+    {
+      "word": "vidare"
+    },
+    {
+      "word": "vilka"
+    },
+    {
+      "word": "vilkas"
+    },
+    {
+      "word": "vilken"
+    },
+    {
+      "word": "vilket"
+    },
+    {
+      "word": "vill"
+    },
+    {
+      "word": "visst"
+    },
+    {
+      "word": "väl"
+    },
+    {
+      "word": "värre"
+    },
+    {
+      "word": "vår"
+    },
+    {
+      "word": "våra"
+    },
+    {
+      "word": "vårt"
+    },
+    {
+      "word": "word"
+    },
+    {
+      "word": "än"
+    },
+    {
+      "word": "ändå"
+    },
+    {
+      "word": "ännu"
+    },
+    {
+      "word": "är"
+    },
+    {
+      "word": "även"
+    },
+    {
+      "word": "året"
+    },
+    {
+      "word": "åt"
+    },
+    {
+      "word": "åtminstone"
+    },
+    {
+      "word": "åtta"
+    },
+    {
+      "word": "åttio"
+    },
+    {
+      "word": "åttionde"
+    },
+    {
+      "word": "åttonde"
+    },
+    {
+      "word": "över"
+    },
+    {
+      "word": "övre"
+    }
+  ],
+  "meta": {
+    "title": "Stoppord - Gratis nedladdning",
+    "description": "Standardlista över svenska stoppord (vanliga ord som brukar filtreras bort vid textanalys). Innehåller 331 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Stoppord | ListBase",
+    "seo_description": "Ladda ner Stoppord — 331 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 331 poster / 1 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

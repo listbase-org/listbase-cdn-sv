@@ -1,0 +1,2056 @@
+{
+  "id": "sv-brandstationer",
+  "name": "Brandstationer i Sverige",
+  "title": "Brandstationer i Sverige",
+  "description": "Brandstationer i Sverige, hämtade från OpenStreetMap-punkter (amenity=fire_station). Namn, latitud och longitud (WGS84).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 403,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alfta Brandstation",
+      "latitude": 61.34354,
+      "longitude": 16.061891
+    },
+    {
+      "name": "Alingsås brandstation",
+      "latitude": 57.931196,
+      "longitude": 12.557853
+    },
+    {
+      "name": "Almunge Brandstation",
+      "latitude": 59.873973,
+      "longitude": 18.048364
+    },
+    {
+      "name": "Alnö brandstation",
+      "latitude": 62.422733,
+      "longitude": 17.428857
+    },
+    {
+      "name": "Alunda brandstation",
+      "latitude": 60.061685,
+      "longitude": 18.076622
+    },
+    {
+      "name": "Alvesta brandstation",
+      "latitude": 56.897013,
+      "longitude": 14.544976
+    },
+    {
+      "name": "Anderslöv Brandkår",
+      "latitude": 55.438575,
+      "longitude": 13.318582
+    },
+    {
+      "name": "Angereds brandstation",
+      "latitude": 57.797369,
+      "longitude": 12.043183
+    },
+    {
+      "name": "Annelunds brandstation",
+      "latitude": 57.992277,
+      "longitude": 13.094513
+    },
+    {
+      "name": "Arboga Brandstation",
+      "latitude": 59.388692,
+      "longitude": 15.846429
+    },
+    {
+      "name": "Arjeplogs Brandstation",
+      "latitude": 66.050469,
+      "longitude": 17.897513
+    },
+    {
+      "name": "Arkelstorp brandstationen",
+      "latitude": 56.173966,
+      "longitude": 14.281788
+    },
+    {
+      "name": "Aspö Räddningsvärn",
+      "latitude": 56.112436,
+      "longitude": 15.562686
+    },
+    {
+      "name": "Attunda Brandkår",
+      "latitude": 59.424873,
+      "longitude": 17.84861
+    },
+    {
+      "name": "Bergslagens Räddningstjänst",
+      "latitude": 59.765651,
+      "longitude": 14.521949
+    },
+    {
+      "name": "Bjurholms brandstation",
+      "latitude": 63.934451,
+      "longitude": 19.220965
+    },
+    {
+      "name": "Bjursås Brandstation",
+      "latitude": 60.737477,
+      "longitude": 15.453739
+    },
+    {
+      "name": "Bjuvs Räddningstjänsst",
+      "latitude": 56.074772,
+      "longitude": 12.933641
+    },
+    {
+      "name": "Bjärnums brandstation",
+      "latitude": 56.293013,
+      "longitude": 13.71074
+    },
+    {
+      "name": "Björkborns industribrandkår",
+      "latitude": 59.342288,
+      "longitude": 14.539533
+    },
+    {
+      "name": "Björsäters brandstation",
+      "latitude": 58.337217,
+      "longitude": 16.026699
+    },
+    {
+      "name": "Bodens Brandstation",
+      "latitude": 65.805711,
+      "longitude": 21.707821
+    },
+    {
+      "name": "Bollebygd Räddningstjänst",
+      "latitude": 57.669441,
+      "longitude": 12.574461
+    },
+    {
+      "name": "Bollnäs brand och ambulansstation",
+      "latitude": 61.35547,
+      "longitude": 16.362317
+    },
+    {
+      "name": "Borrby brandstation",
+      "latitude": 55.455894,
+      "longitude": 14.177627
+    },
+    {
+      "name": "Borås brandstation",
+      "latitude": 57.726461,
+      "longitude": 12.940892
+    },
+    {
+      "name": "Brand och Säkerhet",
+      "latitude": 63.303251,
+      "longitude": 18.725624
+    },
+    {
+      "name": "Brandförsvaret",
+      "latitude": 56.519513,
+      "longitude": 13.315005
+    },
+    {
+      "name": "Brandkåren Attunda",
+      "latitude": 59.506772,
+      "longitude": 17.65876
+    },
+    {
+      "name": "Brandkåren Attunda",
+      "latitude": 59.630194,
+      "longitude": 17.809588
+    },
+    {
+      "name": "Brandkåren Attunda",
+      "latitude": 59.639368,
+      "longitude": 17.906282
+    },
+    {
+      "name": "Brandstation",
+      "latitude": 56.881526,
+      "longitude": 14.813954
+    },
+    {
+      "name": "Brandstation",
+      "latitude": 57.646723,
+      "longitude": 14.723695
+    },
+    {
+      "name": "Brandstation",
+      "latitude": 58.135863,
+      "longitude": 15.684441
+    },
+    {
+      "name": "Brandstation",
+      "latitude": 59.174809,
+      "longitude": 17.447231
+    },
+    {
+      "name": "Brandstation",
+      "latitude": 59.360627,
+      "longitude": 18.15702
+    },
+    {
+      "name": "Brandstation",
+      "latitude": 59.503624,
+      "longitude": 13.308101
+    },
+    {
+      "name": "Brandstation",
+      "latitude": 62.753882,
+      "longitude": 15.420511
+    },
+    {
+      "name": "Brandstation",
+      "latitude": 63.116863,
+      "longitude": 16.358749
+    },
+    {
+      "name": "Brandstation",
+      "latitude": 63.897432,
+      "longitude": 20.548665
+    },
+    {
+      "name": "Brandstation 1943",
+      "latitude": 60.075678,
+      "longitude": 17.632716
+    },
+    {
+      "name": "Brandstation Avesta",
+      "latitude": 60.140512,
+      "longitude": 16.17111
+    },
+    {
+      "name": "Brandstation Brastad",
+      "latitude": 58.383626,
+      "longitude": 11.479683
+    },
+    {
+      "name": "Brandstation Färgelanda",
+      "latitude": 58.56173,
+      "longitude": 11.994984
+    },
+    {
+      "name": "Brandstation Hamburgsund",
+      "latitude": 58.557478,
+      "longitude": 11.282365
+    },
+    {
+      "name": "Brandstation Hedekas",
+      "latitude": 58.644671,
+      "longitude": 11.788508
+    },
+    {
+      "name": "Brandstation Krokek",
+      "latitude": 58.670124,
+      "longitude": 16.363893
+    },
+    {
+      "name": "Brandstation Kungsbacka",
+      "latitude": 57.48482,
+      "longitude": 12.084746
+    },
+    {
+      "name": "Brandstation Kungshamn",
+      "latitude": 58.364392,
+      "longitude": 11.271772
+    },
+    {
+      "name": "Brandstation Ljungskile",
+      "latitude": 58.240014,
+      "longitude": 11.912686
+    },
+    {
+      "name": "Brandstation Lysekil",
+      "latitude": 58.277318,
+      "longitude": 11.443482
+    },
+    {
+      "name": "Brandstation Munkedal",
+      "latitude": 58.474478,
+      "longitude": 11.664175
+    },
+    {
+      "name": "Brandstation Skaftö",
+      "latitude": 58.213046,
+      "longitude": 11.43414
+    },
+    {
+      "name": "Brandstation Tanumshede",
+      "latitude": 58.725832,
+      "longitude": 11.327648
+    },
+    {
+      "name": "Brandstation Uddevalla",
+      "latitude": 58.350201,
+      "longitude": 11.925108
+    },
+    {
+      "name": "Brandstation Viktoria",
+      "latitude": 59.84552,
+      "longitude": 17.713365
+    },
+    {
+      "name": "Brandstation Västermo",
+      "latitude": 59.289553,
+      "longitude": 16.080394
+    },
+    {
+      "name": "Brandstation Åmål",
+      "latitude": 59.050591,
+      "longitude": 12.691523
+    },
+    {
+      "name": "Brandstationen",
+      "latitude": 58.676507,
+      "longitude": 17.114024
+    },
+    {
+      "name": "Brandstationen Hyltebruk",
+      "latitude": 56.987236,
+      "longitude": 13.230314
+    },
+    {
+      "name": "Brandstationen i Broby",
+      "latitude": 56.254992,
+      "longitude": 14.080712
+    },
+    {
+      "name": "Brandstationen i Ed",
+      "latitude": 58.901194,
+      "longitude": 11.943876
+    },
+    {
+      "name": "Brandstationen i Glimåkra",
+      "latitude": 56.308756,
+      "longitude": 14.144755
+    },
+    {
+      "name": "Brandstationen Unnaryd",
+      "latitude": 56.961138,
+      "longitude": 13.527015
+    },
+    {
+      "name": "Brandthovda station 11",
+      "latitude": 59.616079,
+      "longitude": 16.612907
+    },
+    {
+      "name": "Bredbyns brandstation",
+      "latitude": 63.448358,
+      "longitude": 18.106316
+    },
+    {
+      "name": "Bräkne-Hoby Brandstation",
+      "latitude": 56.240035,
+      "longitude": 15.117873
+    },
+    {
+      "name": "Bränningen brandövningsfält",
+      "latitude": 58.079613,
+      "longitude": 11.841277
+    },
+    {
+      "name": "Brännkyrka brandstation",
+      "latitude": 59.28756,
+      "longitude": 17.982397
+    },
+    {
+      "name": "Brännö brandstation",
+      "latitude": 57.641992,
+      "longitude": 11.780297
+    },
+    {
+      "name": "Byrsta brandstation",
+      "latitude": 59.104325,
+      "longitude": 15.088663
+    },
+    {
+      "name": "Bärby brandstation",
+      "latitude": 59.88662,
+      "longitude": 17.616815
+    },
+    {
+      "name": "Bålsta Brandstation",
+      "latitude": 59.581027,
+      "longitude": 17.490847
+    },
+    {
+      "name": "Dalarö brandstation",
+      "latitude": 59.134276,
+      "longitude": 18.41091
+    },
+    {
+      "name": "Dalsjöfors Brandstation",
+      "latitude": 57.721261,
+      "longitude": 13.108319
+    },
+    {
+      "name": "Degeberga brandstation",
+      "latitude": 55.836317,
+      "longitude": 14.090506
+    },
+    {
+      "name": "Deltidsstation Allerum",
+      "latitude": 56.122262,
+      "longitude": 12.693075
+    },
+    {
+      "name": "Donsö brandstation",
+      "latitude": 57.604528,
+      "longitude": 11.796982
+    },
+    {
+      "name": "Edö brandstation",
+      "latitude": 59.466966,
+      "longitude": 18.632885
+    },
+    {
+      "name": "Ekerö brandstation",
+      "latitude": 59.289093,
+      "longitude": 17.811378
+    },
+    {
+      "name": "Eksjö Brandstation",
+      "latitude": 57.667697,
+      "longitude": 14.967447
+    },
+    {
+      "name": "Ellös brandstation",
+      "latitude": 58.182863,
+      "longitude": 11.481248
+    },
+    {
+      "name": "Eringsboda Brandstation",
+      "latitude": 56.440603,
+      "longitude": 15.364082
+    },
+    {
+      "name": "Falkenbergs brandstation",
+      "latitude": 56.91643,
+      "longitude": 12.50788
+    },
+    {
+      "name": "Farsta brandstation",
+      "latitude": 59.257825,
+      "longitude": 18.083825
+    },
+    {
+      "name": "Fellingsbro brandstation",
+      "latitude": 59.433919,
+      "longitude": 15.591109
+    },
+    {
+      "name": "Filipstads brandstation",
+      "latitude": 59.71455,
+      "longitude": 14.172996
+    },
+    {
+      "name": "Fire department",
+      "latitude": 59.838425,
+      "longitude": 13.135443
+    },
+    {
+      "name": "Fliseryds brandstation",
+      "latitude": 57.126279,
+      "longitude": 16.257637
+    },
+    {
+      "name": "Forshaga brandstation",
+      "latitude": 59.537955,
+      "longitude": 13.483973
+    },
+    {
+      "name": "Frillesås brandstation",
+      "latitude": 57.322867,
+      "longitude": 12.174761
+    },
+    {
+      "name": "Fristads brandstation",
+      "latitude": 57.827527,
+      "longitude": 13.010947
+    },
+    {
+      "name": "Fritsla Räddningstjänst",
+      "latitude": 57.56015,
+      "longitude": 12.78463
+    },
+    {
+      "name": "Fränsta brandstation",
+      "latitude": 62.500865,
+      "longitude": 16.184314
+    },
+    {
+      "name": "Frölunda brandstation",
+      "latitude": 57.659506,
+      "longitude": 11.899421
+    },
+    {
+      "name": "Frövi Brandstation",
+      "latitude": 59.466256,
+      "longitude": 15.359633
+    },
+    {
+      "name": "Gamla Brandstation",
+      "latitude": 60.612214,
+      "longitude": 16.906303
+    },
+    {
+      "name": "Getinge brandkår",
+      "latitude": 56.820365,
+      "longitude": 12.732237
+    },
+    {
+      "name": "Gimo brandstation",
+      "latitude": 60.173552,
+      "longitude": 18.175158
+    },
+    {
+      "name": "Gistad brandstation",
+      "latitude": 58.469229,
+      "longitude": 15.89461
+    },
+    {
+      "name": "Gnesta brandstation",
+      "latitude": 59.047951,
+      "longitude": 17.307345
+    },
+    {
+      "name": "Grimslöv brandstation",
+      "latitude": 56.737924,
+      "longitude": 14.542532
+    },
+    {
+      "name": "Gräsö Brandvärn",
+      "latitude": 60.442209,
+      "longitude": 18.411783
+    },
+    {
+      "name": "Guldsmedshyttans Brandstation",
+      "latitude": 59.695403,
+      "longitude": 15.100006
+    },
+    {
+      "name": "Gullspångs brandstation",
+      "latitude": 58.986985,
+      "longitude": 14.096953
+    },
+    {
+      "name": "Gästrike räddningstjänst",
+      "latitude": 60.5499,
+      "longitude": 16.289442
+    },
+    {
+      "name": "Gästrike Räddningstjänst",
+      "latitude": 60.615069,
+      "longitude": 16.779042
+    },
+    {
+      "name": "Gästrike räddningstjänst Korsnäs",
+      "latitude": 60.679212,
+      "longitude": 17.263084
+    },
+    {
+      "name": "Gävle brandstation",
+      "latitude": 60.676816,
+      "longitude": 17.152878
+    },
+    {
+      "name": "Gårda brandstation",
+      "latitude": 57.706721,
+      "longitude": 11.990975
+    },
+    {
+      "name": "Götene brandstation",
+      "latitude": 58.519308,
+      "longitude": 13.489984
+    },
+    {
+      "name": "Hagfors brandstation",
+      "latitude": 60.034238,
+      "longitude": 13.689137
+    },
+    {
+      "name": "Hallabro Brandstation",
+      "latitude": 56.389942,
+      "longitude": 15.099848
+    },
+    {
+      "name": "Hallstahammar Station 16",
+      "latitude": 59.607727,
+      "longitude": 16.249696
+    },
+    {
+      "name": "Haparanda Brandstation",
+      "latitude": 65.827713,
+      "longitude": 24.107615
+    },
+    {
+      "name": "Harplinge brandstation",
+      "latitude": 56.742773,
+      "longitude": 12.72341
+    },
+    {
+      "name": "Hasslö Brandstation",
+      "latitude": 56.10203,
+      "longitude": 15.473931
+    },
+    {
+      "name": "Henån brandstation",
+      "latitude": 58.230595,
+      "longitude": 11.65342
+    },
+    {
+      "name": "Hindås brandstation",
+      "latitude": 57.705187,
+      "longitude": 12.455024
+    },
+    {
+      "name": "Holmsjö Brandstation",
+      "latitude": 56.419114,
+      "longitude": 15.542535
+    },
+    {
+      "name": "Horndals brandstation",
+      "latitude": 60.290147,
+      "longitude": 16.402593
+    },
+    {
+      "name": "Horred räddningstjänst",
+      "latitude": 57.359417,
+      "longitude": 12.482692
+    },
+    {
+      "name": "Huddinge brandstation",
+      "latitude": 59.251583,
+      "longitude": 17.965605
+    },
+    {
+      "name": "Hällefors Gamla Brandstation",
+      "latitude": 59.785811,
+      "longitude": 14.504303
+    },
+    {
+      "name": "Häröns räddningsvärn",
+      "latitude": 58.016109,
+      "longitude": 11.511783
+    },
+    {
+      "name": "Högsäters brandstation",
+      "latitude": 58.648896,
+      "longitude": 12.052607
+    },
+    {
+      "name": "Höörs brandstation",
+      "latitude": 55.925396,
+      "longitude": 13.549123
+    },
+    {
+      "name": "Industribrandkåren Falkenbergs Terminal",
+      "latitude": 56.890704,
+      "longitude": 12.478783
+    },
+    {
+      "name": "Johannes brandstation",
+      "latitude": 59.337695,
+      "longitude": 18.064909
+    },
+    {
+      "name": "Jämjö Brandstation",
+      "latitude": 56.192818,
+      "longitude": 15.837516
+    },
+    {
+      "name": "Järlåsa brandstation",
+      "latitude": 59.887012,
+      "longitude": 17.191548
+    },
+    {
+      "name": "Jättendals Brandstation",
+      "latitude": 61.977728,
+      "longitude": 17.245422
+    },
+    {
+      "name": "Kalmar brandstation",
+      "latitude": 56.67428,
+      "longitude": 16.327552
+    },
+    {
+      "name": "Karesuvannon paloasema",
+      "latitude": 68.44268,
+      "longitude": 22.508332
+    },
+    {
+      "name": "Karholmens övningsanläggning",
+      "latitude": 57.705361,
+      "longitude": 11.787505
+    },
+    {
+      "name": "Karlsborgs Brandstation",
+      "latitude": 58.552707,
+      "longitude": 14.493471
+    },
+    {
+      "name": "Karlshamns brandstation",
+      "latitude": 56.181766,
+      "longitude": 14.848715
+    },
+    {
+      "name": "Karlskoga Brandstation",
+      "latitude": 59.322285,
+      "longitude": 14.53463
+    },
+    {
+      "name": "Karlskrona brandstation",
+      "latitude": 56.186158,
+      "longitude": 15.616939
+    },
+    {
+      "name": "Karlstads brandstation",
+      "latitude": 59.391968,
+      "longitude": 13.48852
+    },
+    {
+      "name": "Karungin paloasema",
+      "latitude": 66.04131,
+      "longitude": 24.01884
+    },
+    {
+      "name": "Karungin VPK",
+      "latitude": 66.04134,
+      "longitude": 24.018762
+    },
+    {
+      "name": "Katarina brandstation",
+      "latitude": 59.315579,
+      "longitude": 18.07789
+    },
+    {
+      "name": "Kiruna räddningstjänst",
+      "latitude": 67.845076,
+      "longitude": 20.28613
+    },
+    {
+      "name": "Kista Brandstation",
+      "latitude": 59.40581,
+      "longitude": 17.939738
+    },
+    {
+      "name": "Knivsta brandstation",
+      "latitude": 59.737099,
+      "longitude": 17.799017
+    },
+    {
+      "name": "Kode brandstation",
+      "latitude": 57.944769,
+      "longitude": 11.853255
+    },
+    {
+      "name": "Kolbäck station 17",
+      "latitude": 59.562038,
+      "longitude": 16.22333
+    },
+    {
+      "name": "Kortedala brandstation",
+      "latitude": 57.758149,
+      "longitude": 12.026702
+    },
+    {
+      "name": "Kristinehamns Brandstation",
+      "latitude": 59.310512,
+      "longitude": 14.099493
+    },
+    {
+      "name": "Kungsholmens brandstation",
+      "latitude": 59.331062,
+      "longitude": 18.033177
+    },
+    {
+      "name": "Kungsörs Brandstation",
+      "latitude": 59.421428,
+      "longitude": 16.102078
+    },
+    {
+      "name": "Kungälvs brandstation",
+      "latitude": 57.88011,
+      "longitude": 11.973019
+    },
+    {
+      "name": "Kvarsebo Brandvärn",
+      "latitude": 58.646401,
+      "longitude": 16.628221
+    },
+    {
+      "name": "Kyrkhult Brandvärn",
+      "latitude": 56.354489,
+      "longitude": 14.576679
+    },
+    {
+      "name": "Källö-Knippla brandstation",
+      "latitude": 57.74994,
+      "longitude": 11.651522
+    },
+    {
+      "name": "Kåge brandstation",
+      "latitude": 64.841438,
+      "longitude": 20.986262
+    },
+    {
+      "name": "Kållekärrs brandstation",
+      "latitude": 58.029057,
+      "longitude": 11.658504
+    },
+    {
+      "name": "Kålltorps brandstation",
+      "latitude": 57.718649,
+      "longitude": 12.030316
+    },
+    {
+      "name": "Köpings Brandstation",
+      "latitude": 59.509967,
+      "longitude": 15.988055
+    },
+    {
+      "name": "Landverks brandstation",
+      "latitude": 63.398738,
+      "longitude": 13.918778
+    },
+    {
+      "name": "Leksand",
+      "latitude": 60.722125,
+      "longitude": 15.015328
+    },
+    {
+      "name": "Lerums brandstation",
+      "latitude": 57.78358,
+      "longitude": 12.297751
+    },
+    {
+      "name": "Lessebo brandstation",
+      "latitude": 56.75699,
+      "longitude": 15.267644
+    },
+    {
+      "name": "Lidhult Deltid",
+      "latitude": 56.827811,
+      "longitude": 13.437196
+    },
+    {
+      "name": "Lidköpings brandstation",
+      "latitude": 58.502093,
+      "longitude": 13.128348
+    },
+    {
+      "name": "Lilla Edets brandstation",
+      "latitude": 58.13079,
+      "longitude": 12.135263
+    },
+    {
+      "name": "Limbacka brandstation",
+      "latitude": 57.240118,
+      "longitude": 12.187323
+    },
+    {
+      "name": "Lindome brandstation",
+      "latitude": 57.570393,
+      "longitude": 12.050268
+    },
+    {
+      "name": "Ljungby Räddningstjänst",
+      "latitude": 56.848273,
+      "longitude": 13.95182
+    },
+    {
+      "name": "Ljungskiles brandstation",
+      "latitude": 58.227725,
+      "longitude": 11.917813
+    },
+    {
+      "name": "Ljusdals Brandstation",
+      "latitude": 61.826009,
+      "longitude": 16.103778
+    },
+    {
+      "name": "Lundby brandstation",
+      "latitude": 57.711682,
+      "longitude": 11.926435
+    },
+    {
+      "name": "Lycksele Räddningstjänst",
+      "latitude": 64.59026,
+      "longitude": 18.696065
+    },
+    {
+      "name": "Lödöse brandstation",
+      "latitude": 58.032765,
+      "longitude": 12.156945
+    },
+    {
+      "name": "Lönsboda Brandstation",
+      "latitude": 56.39527,
+      "longitude": 14.308405
+    },
+    {
+      "name": "Maglehems Frivilliga Brandkår",
+      "latitude": 55.773015,
+      "longitude": 14.151174
+    },
+    {
+      "name": "Malmö Frivilliga Brandkår",
+      "latitude": 55.602311,
+      "longitude": 13.008835
+    },
+    {
+      "name": "Mariestads brandstation",
+      "latitude": 58.712928,
+      "longitude": 13.820402
+    },
+    {
+      "name": "Marstrands brandstation",
+      "latitude": 57.887687,
+      "longitude": 11.59304
+    },
+    {
+      "name": "Melleruds brandstation",
+      "latitude": 58.698817,
+      "longitude": 12.461075
+    },
+    {
+      "name": "Mjällby Brandstation",
+      "latitude": 56.044382,
+      "longitude": 14.671005
+    },
+    {
+      "name": "Mjöbäck Räddningstjänst",
+      "latitude": 57.316118,
+      "longitude": 12.876833
+    },
+    {
+      "name": "Mjölby brandstation",
+      "latitude": 58.327858,
+      "longitude": 15.134869
+    },
+    {
+      "name": "Mollösunds räddningsvärn",
+      "latitude": 58.073007,
+      "longitude": 11.471042
+    },
+    {
+      "name": "Mora brandstation",
+      "latitude": 60.991458,
+      "longitude": 14.529875
+    },
+    {
+      "name": "Möja Brandstation",
+      "latitude": 59.406295,
+      "longitude": 18.883287
+    },
+    {
+      "name": "Mölndals brandstation",
+      "latitude": 57.657847,
+      "longitude": 12.02112
+    },
+    {
+      "name": "Nacka brandstation",
+      "latitude": 59.308196,
+      "longitude": 18.154804
+    },
+    {
+      "name": "Nerikes brandkår",
+      "latitude": 58.983293,
+      "longitude": 14.621903
+    },
+    {
+      "name": "Nerikes Brandkår",
+      "latitude": 59.158542,
+      "longitude": 15.525992
+    },
+    {
+      "name": "Nerikes Brandkår",
+      "latitude": 59.305668,
+      "longitude": 14.941739
+    },
+    {
+      "name": "Nerikes brandkår Hjortkvarn",
+      "latitude": 58.898845,
+      "longitude": 15.433937
+    },
+    {
+      "name": "Nerikes brandkår Lindesberg",
+      "latitude": 59.602826,
+      "longitude": 15.20232
+    },
+    {
+      "name": "Nilivaara räddningsvärn",
+      "latitude": 67.22372,
+      "longitude": 21.612781
+    },
+    {
+      "name": "Njurunda brandstation",
+      "latitude": 62.297571,
+      "longitude": 17.378114
+    },
+    {
+      "name": "Nol brandstation",
+      "latitude": 57.918531,
+      "longitude": 12.066129
+    },
+    {
+      "name": "Nordkosters räddnigsvärn",
+      "latitude": 58.896974,
+      "longitude": 11.007748
+    },
+    {
+      "name": "Norrhälsinge räddningstjänst",
+      "latitude": 61.715683,
+      "longitude": 17.081849
+    },
+    {
+      "name": "Nävekvarn räddningsvärn",
+      "latitude": 58.629368,
+      "longitude": 16.801328
+    },
+    {
+      "name": "Olofstorps brandstation",
+      "latitude": 57.806582,
+      "longitude": 12.170017
+    },
+    {
+      "name": "Olofströms brandstation",
+      "latitude": 56.272164,
+      "longitude": 14.545861
+    },
+    {
+      "name": "Orrvikens brandstation",
+      "latitude": 63.104665,
+      "longitude": 14.437878
+    },
+    {
+      "name": "Orsa Brandstation",
+      "latitude": 61.122525,
+      "longitude": 14.62843
+    },
+    {
+      "name": "Osby Räddningstjänst",
+      "latitude": 56.385067,
+      "longitude": 13.984023
+    },
+    {
+      "name": "Oskarströms brandstation",
+      "latitude": 56.802327,
+      "longitude": 12.97193
+    },
+    {
+      "name": "Pellon paloasema",
+      "latitude": 66.772522,
+      "longitude": 23.962896
+    },
+    {
+      "name": "Piteå Brandstation",
+      "latitude": 65.31643,
+      "longitude": 21.466337
+    },
+    {
+      "name": "Porjus brandförsvar",
+      "latitude": 66.956687,
+      "longitude": 19.809409
+    },
+    {
+      "name": "Ramsele brandstation",
+      "latitude": 63.538595,
+      "longitude": 16.466207
+    },
+    {
+      "name": "Ronneby brandstation",
+      "latitude": 56.211901,
+      "longitude": 15.280745
+    },
+    {
+      "name": "Rosendals Brandstation",
+      "latitude": 59.832965,
+      "longitude": 17.635151
+    },
+    {
+      "name": "Ryssby frivilliga brandvärn",
+      "latitude": 56.863102,
+      "longitude": 14.160857
+    },
+    {
+      "name": "Räddningskåren Kramfors",
+      "latitude": 62.914466,
+      "longitude": 17.788012
+    },
+    {
+      "name": "Räddningsstation Kallerstad",
+      "latitude": 58.421009,
+      "longitude": 15.653702
+    },
+    {
+      "name": "Räddningsstation Kvillinge",
+      "latitude": 58.647311,
+      "longitude": 16.166082
+    },
+    {
+      "name": "Räddningsstation Lambohov",
+      "latitude": 58.390336,
+      "longitude": 15.582532
+    },
+    {
+      "name": "Räddningsstation Ljura",
+      "latitude": 58.581289,
+      "longitude": 16.207649
+    },
+    {
+      "name": "Räddningsstation Nordmaling",
+      "latitude": 63.568393,
+      "longitude": 19.492805
+    },
+    {
+      "name": "Räddningsstationen Valdemarsvik",
+      "latitude": 58.20851,
+      "longitude": 16.583015
+    },
+    {
+      "name": "Räddningstjänst Sollefteå",
+      "latitude": 63.174382,
+      "longitude": 17.227391
+    },
+    {
+      "name": "Räddningstjänst Strömstad",
+      "latitude": 58.949227,
+      "longitude": 11.192775
+    },
+    {
+      "name": "Räddningstjänsten",
+      "latitude": 58.164265,
+      "longitude": 13.574776
+    },
+    {
+      "name": "Räddningstjänsten",
+      "latitude": 58.482796,
+      "longitude": 16.310069
+    },
+    {
+      "name": "Räddningstjänsten",
+      "latitude": 59.010661,
+      "longitude": 16.211486
+    },
+    {
+      "name": "Räddningstjänsten",
+      "latitude": 59.022572,
+      "longitude": 12.246177
+    },
+    {
+      "name": "Räddningstjänsten",
+      "latitude": 59.231839,
+      "longitude": 14.435266
+    },
+    {
+      "name": "Räddningstjänsten",
+      "latitude": 59.874234,
+      "longitude": 14.987764
+    },
+    {
+      "name": "Räddningstjänsten",
+      "latitude": 59.886421,
+      "longitude": 12.298172
+    },
+    {
+      "name": "Räddningstjänsten",
+      "latitude": 60.345754,
+      "longitude": 15.755699
+    },
+    {
+      "name": "Räddningstjänsten",
+      "latitude": 60.405038,
+      "longitude": 15.590336
+    },
+    {
+      "name": "Räddningstjänsten",
+      "latitude": 64.90905,
+      "longitude": 19.476471
+    },
+    {
+      "name": "Räddningstjänsten Arvika",
+      "latitude": 59.661718,
+      "longitude": 12.593962
+    },
+    {
+      "name": "Räddningstjänsten Flen",
+      "latitude": 59.050318,
+      "longitude": 16.601232
+    },
+    {
+      "name": "Räddningstjänsten Funäsdalen",
+      "latitude": 62.550022,
+      "longitude": 12.509376
+    },
+    {
+      "name": "Räddningstjänsten Gäddede",
+      "latitude": 64.50414,
+      "longitude": 14.145476
+    },
+    {
+      "name": "Räddningstjänsten Herrljunga",
+      "latitude": 58.072759,
+      "longitude": 13.022265
+    },
+    {
+      "name": "Räddningstjänsten Höga Kusten-Ådalen",
+      "latitude": 62.636008,
+      "longitude": 17.921449
+    },
+    {
+      "name": "Räddningstjänsten Höllviken",
+      "latitude": 55.421187,
+      "longitude": 12.955616
+    },
+    {
+      "name": "Räddningstjänsten i Habo",
+      "latitude": 57.908011,
+      "longitude": 14.083538
+    },
+    {
+      "name": "Räddningstjänsten i Liatorp",
+      "latitude": 56.665192,
+      "longitude": 14.260084
+    },
+    {
+      "name": "Räddningstjänsten i Osby",
+      "latitude": 56.38531,
+      "longitude": 14.015057
+    },
+    {
+      "name": "Räddningstjänsten i Älmhult",
+      "latitude": 56.541387,
+      "longitude": 14.128916
+    },
+    {
+      "name": "Räddningstjänsten Jämtland - Östersund",
+      "latitude": 63.177243,
+      "longitude": 14.658868
+    },
+    {
+      "name": "Räddningstjänsten Jönköping",
+      "latitude": 57.782094,
+      "longitude": 14.224345
+    },
+    {
+      "name": "Räddningstjänsten Kalix",
+      "latitude": 65.869724,
+      "longitude": 23.147561
+    },
+    {
+      "name": "Räddningstjänsten Klintehamn",
+      "latitude": 57.388033,
+      "longitude": 18.205146
+    },
+    {
+      "name": "Räddningstjänsten Koppom",
+      "latitude": 59.71106,
+      "longitude": 12.154013
+    },
+    {
+      "name": "Räddningstjänsten Laholm",
+      "latitude": 56.50387,
+      "longitude": 13.033102
+    },
+    {
+      "name": "Räddningstjänsten Luleå",
+      "latitude": 65.608177,
+      "longitude": 22.131818
+    },
+    {
+      "name": "Räddningstjänsten Motala - Vadstena",
+      "latitude": 58.446394,
+      "longitude": 14.899354
+    },
+    {
+      "name": "Räddningstjänsten Motala - Vadstena",
+      "latitude": 58.556454,
+      "longitude": 15.048809
+    },
+    {
+      "name": "Räddningstjänsten Motala - Vadstena",
+      "latitude": 58.569461,
+      "longitude": 15.268399
+    },
+    {
+      "name": "Räddningstjänsten Motala - Vadstena",
+      "latitude": 58.714781,
+      "longitude": 15.360274
+    },
+    {
+      "name": "Räddningstjänsten Mönsterås",
+      "latitude": 57.039361,
+      "longitude": 16.439521
+    },
+    {
+      "name": "Räddningstjänsten Näsåker",
+      "latitude": 63.442126,
+      "longitude": 16.905525
+    },
+    {
+      "name": "Räddningstjänsten Oskarshamn",
+      "latitude": 57.25012,
+      "longitude": 16.450921
+    },
+    {
+      "name": "Räddningstjänsten Rättvik",
+      "latitude": 60.891663,
+      "longitude": 15.1446
+    },
+    {
+      "name": "Räddningstjänsten Sala-Heby",
+      "latitude": 59.922005,
+      "longitude": 16.613218
+    },
+    {
+      "name": "Räddningstjänsten Skåne Nordväst, Räddningsvärn Strövelstorp",
+      "latitude": 56.163441,
+      "longitude": 12.833923
+    },
+    {
+      "name": "Räddningstjänsten Skåne Nordväst, Station Berga",
+      "latitude": 56.082508,
+      "longitude": 12.732471
+    },
+    {
+      "name": "Räddningstjänsten Skåne Nordväst, Station Bårslöv",
+      "latitude": 56.014635,
+      "longitude": 12.796509
+    },
+    {
+      "name": "Räddningstjänsten Skåne Nordväst, Station Skånes Fagerhult",
+      "latitude": 56.369273,
+      "longitude": 13.466618
+    },
+    {
+      "name": "Räddningstjänsten Skåne Nordväst, Station Örkelljunga",
+      "latitude": 56.283262,
+      "longitude": 13.274772
+    },
+    {
+      "name": "Räddningstjänsten Sundsvall-Timrå",
+      "latitude": 62.382962,
+      "longitude": 17.330879
+    },
+    {
+      "name": "Räddningstjänsten Sydost - Brandstation Emmaboda",
+      "latitude": 56.630563,
+      "longitude": 15.532906
+    },
+    {
+      "name": "Räddningstjänsten Sydost - Brandstation Långasjö",
+      "latitude": 56.578099,
+      "longitude": 15.453282
+    },
+    {
+      "name": "Räddningstjänsten Sydost - Brandstation Rockneby",
+      "latitude": 56.799537,
+      "longitude": 16.352286
+    },
+    {
+      "name": "Räddningstjänsten Sydost - Brandstation Vissefjärda",
+      "latitude": 56.536225,
+      "longitude": 15.583594
+    },
+    {
+      "name": "Räddningstjänsten Sydost - Brandstation Åfors",
+      "latitude": 56.748684,
+      "longitude": 15.498489
+    },
+    {
+      "name": "Räddningstjänsten Sydost Alsterbro",
+      "latitude": 56.839323,
+      "longitude": 15.751516
+    },
+    {
+      "name": "Räddningstjänsten Sydost Alsterbro",
+      "latitude": 56.942644,
+      "longitude": 15.915831
+    },
+    {
+      "name": "Räddningstjänsten Sydost Nybro",
+      "latitude": 56.745593,
+      "longitude": 15.909912
+    },
+    {
+      "name": "Räddningstjänsten Sydost Påryd",
+      "latitude": 56.56778,
+      "longitude": 15.922523
+    },
+    {
+      "name": "Räddningstjänsten Sydost Voxtorp",
+      "latitude": 56.540458,
+      "longitude": 16.138428
+    },
+    {
+      "name": "Räddningstjänsten Värnamo",
+      "latitude": 57.180726,
+      "longitude": 14.004095
+    },
+    {
+      "name": "Räddningstjänsten Öland",
+      "latitude": 56.878646,
+      "longitude": 16.668647
+    },
+    {
+      "name": "Räddningstjänsten Östra Kronoberg",
+      "latitude": 56.49451,
+      "longitude": 15.119421
+    },
+    {
+      "name": "Räddningstjänsten Östra Kronoberg",
+      "latitude": 56.973894,
+      "longitude": 15.654414
+    },
+    {
+      "name": "Räddningstjänsten Övertorneå",
+      "latitude": 66.387719,
+      "longitude": 23.63725
+    },
+    {
+      "name": "Räddningstjänstens utbildningsanläggning",
+      "latitude": 58.583212,
+      "longitude": 16.24879
+    },
+    {
+      "name": "Räddningstjänstens övningsfält",
+      "latitude": 58.174537,
+      "longitude": 13.596983
+    },
+    {
+      "name": "Räddningsvärn Munka-Ljungby",
+      "latitude": 56.258599,
+      "longitude": 12.971527
+    },
+    {
+      "name": "Räddningtjänsten Kristanstad",
+      "latitude": 56.022235,
+      "longitude": 14.170623
+    },
+    {
+      "name": "Rävlanda brandstation",
+      "latitude": 57.657135,
+      "longitude": 12.498704
+    },
+    {
+      "name": "Rödeby Brandstation",
+      "latitude": 56.264997,
+      "longitude": 15.620044
+    },
+    {
+      "name": "Röke Räddningsvärn",
+      "latitude": 56.23786,
+      "longitude": 13.524891
+    },
+    {
+      "name": "Sandhamn Brandstation",
+      "latitude": 59.28769,
+      "longitude": 18.917265
+    },
+    {
+      "name": "Sigtuna Brandstation (Brandkåren Attunda)",
+      "latitude": 59.627908,
+      "longitude": 17.717811
+    },
+    {
+      "name": "Simlångdalens brandstation",
+      "latitude": 56.721781,
+      "longitude": 13.135088
+    },
+    {
+      "name": "Sjöräddningsstation",
+      "latitude": 59.677926,
+      "longitude": 18.749976
+    },
+    {
+      "name": "Skara brandstation",
+      "latitude": 58.385958,
+      "longitude": 13.45184
+    },
+    {
+      "name": "Skellefteå räddningstjänst",
+      "latitude": 64.743321,
+      "longitude": 21.02843
+    },
+    {
+      "name": "Skenes brandstation",
+      "latitude": 57.49515,
+      "longitude": 12.666858
+    },
+    {
+      "name": "Skultuna station 14",
+      "latitude": 59.719379,
+      "longitude": 16.427908
+    },
+    {
+      "name": "Skärhamns brandstation",
+      "latitude": 57.98624,
+      "longitude": 11.558067
+    },
+    {
+      "name": "Skövdes brandstation",
+      "latitude": 58.394595,
+      "longitude": 13.840704
+    },
+    {
+      "name": "Sollentuna brandstation",
+      "latitude": 59.439703,
+      "longitude": 17.926296
+    },
+    {
+      "name": "Solna brandstation",
+      "latitude": 59.361608,
+      "longitude": 17.988198
+    },
+    {
+      "name": "Sorsele räddningstjänst",
+      "latitude": 65.536494,
+      "longitude": 17.53196
+    },
+    {
+      "name": "SOS Alarm",
+      "latitude": 60.627452,
+      "longitude": 15.612983
+    },
+    {
+      "name": "SRTC Swedish Rescue Training Centre",
+      "latitude": 59.564644,
+      "longitude": 17.863246
+    },
+    {
+      "name": "Station 72",
+      "latitude": 61.857063,
+      "longitude": 12.727964
+    },
+    {
+      "name": "Station 73",
+      "latitude": 61.69246,
+      "longitude": 13.1447
+    },
+    {
+      "name": "Station Burlöv",
+      "latitude": 55.636846,
+      "longitude": 13.069367
+    },
+    {
+      "name": "Station Centrum",
+      "latitude": 55.602317,
+      "longitude": 13.009043
+    },
+    {
+      "name": "Station Centrum",
+      "latitude": 58.584964,
+      "longitude": 16.176698
+    },
+    {
+      "name": "Station Eslöv",
+      "latitude": 55.839076,
+      "longitude": 13.327585
+    },
+    {
+      "name": "Station Genarp",
+      "latitude": 55.607171,
+      "longitude": 13.397058
+    },
+    {
+      "name": "Station Hestra",
+      "latitude": 57.442168,
+      "longitude": 13.597633
+    },
+    {
+      "name": "Station Hyllie",
+      "latitude": 55.5655,
+      "longitude": 12.960246
+    },
+    {
+      "name": "Station Jägersro",
+      "latitude": 55.579958,
+      "longitude": 13.068764
+    },
+    {
+      "name": "Station Kävlinge",
+      "latitude": 55.78926,
+      "longitude": 13.102529
+    },
+    {
+      "name": "Station Lund",
+      "latitude": 55.693296,
+      "longitude": 13.224608
+    },
+    {
+      "name": "Station Löberöd",
+      "latitude": 55.774842,
+      "longitude": 13.503651
+    },
+    {
+      "name": "Station Löddeköpinge",
+      "latitude": 55.766936,
+      "longitude": 12.99522
+    },
+    {
+      "name": "Station Marieholm",
+      "latitude": 55.864732,
+      "longitude": 13.152033
+    },
+    {
+      "name": "Station Revinge",
+      "latitude": 55.72605,
+      "longitude": 13.464628
+    },
+    {
+      "name": "Station Skanör",
+      "latitude": 55.41035,
+      "longitude": 12.841161
+    },
+    {
+      "name": "Station Veberöd",
+      "latitude": 55.636262,
+      "longitude": 13.500176
+    },
+    {
+      "name": "Stenungsunds brandstation",
+      "latitude": 58.071646,
+      "longitude": 11.842927
+    },
+    {
+      "name": "Stockaryd Räddningskår Brandstation",
+      "latitude": 57.316737,
+      "longitude": 14.592399
+    },
+    {
+      "name": "Strängnäs Brandstation",
+      "latitude": 59.345032,
+      "longitude": 17.031273
+    },
+    {
+      "name": "Strängnäs Brandstation",
+      "latitude": 59.345894,
+      "longitude": 17.03133
+    },
+    {
+      "name": "Sturkö Brandstation",
+      "latitude": 56.110832,
+      "longitude": 15.682117
+    },
+    {
+      "name": "Stöde Brandstation",
+      "latitude": 62.41274,
+      "longitude": 16.578051
+    },
+    {
+      "name": "Surahammar Station 18",
+      "latitude": 59.702827,
+      "longitude": 16.216981
+    },
+    {
+      "name": "Svanesund brandstation",
+      "latitude": 58.142346,
+      "longitude": 11.805032
+    },
+    {
+      "name": "Svappavaara brandstation",
+      "latitude": 67.646005,
+      "longitude": 21.050027
+    },
+    {
+      "name": "Svedala brandstation",
+      "latitude": 55.515871,
+      "longitude": 13.239051
+    },
+    {
+      "name": "Svenljunga Räddningstjänst",
+      "latitude": 57.49832,
+      "longitude": 13.115125
+    },
+    {
+      "name": "Svängsta Brandstation",
+      "latitude": 56.257623,
+      "longitude": 14.77042
+    },
+    {
+      "name": "Säffle brandstation",
+      "latitude": 59.140648,
+      "longitude": 12.934557
+    },
+    {
+      "name": "Sävsjö Brand & Ambulansstation",
+      "latitude": 57.399566,
+      "longitude": 14.661354
+    },
+    {
+      "name": "Södertörns Brandförsvar",
+      "latitude": 58.920485,
+      "longitude": 17.937972
+    },
+    {
+      "name": "Södertörns brandförsvarsförbund",
+      "latitude": 59.190608,
+      "longitude": 17.625563
+    },
+    {
+      "name": "Södertörns Brandförsvarsförbund",
+      "latitude": 59.243449,
+      "longitude": 18.216045
+    },
+    {
+      "name": "Sölvesborgs brandstation",
+      "latitude": 56.052076,
+      "longitude": 14.57044
+    },
+    {
+      "name": "SÖRF Simrishamn",
+      "latitude": 55.547338,
+      "longitude": 14.336634
+    },
+    {
+      "name": "Tavelsjö brandstation",
+      "latitude": 64.039685,
+      "longitude": 20.051631
+    },
+    {
+      "name": "Teckomatorps Frivilliga Brandkår",
+      "latitude": 55.869454,
+      "longitude": 13.086574
+    },
+    {
+      "name": "Tibro brandstation",
+      "latitude": 58.421296,
+      "longitude": 14.165172
+    },
+    {
+      "name": "Tidaholms brandstation",
+      "latitude": 58.177149,
+      "longitude": 13.952466
+    },
+    {
+      "name": "Timrå brandstation",
+      "latitude": 62.491794,
+      "longitude": 17.328949
+    },
+    {
+      "name": "Tingsryd brandstation",
+      "latitude": 56.516417,
+      "longitude": 15.000481
+    },
+    {
+      "name": "TLO Deen UGS",
+      "latitude": 59.568285,
+      "longitude": 17.863592
+    },
+    {
+      "name": "Tollarps brandstation",
+      "latitude": 55.934295,
+      "longitude": 13.979447
+    },
+    {
+      "name": "Tornion VPK",
+      "latitude": 65.848072,
+      "longitude": 24.151409
+    },
+    {
+      "name": "Torshälla brandstation",
+      "latitude": 59.421135,
+      "longitude": 16.472592
+    },
+    {
+      "name": "Torslanda brandstation",
+      "latitude": 57.717168,
+      "longitude": 11.798751
+    },
+    {
+      "name": "Torsås Räddningsstation",
+      "latitude": 56.411072,
+      "longitude": 16.008606
+    },
+    {
+      "name": "Tranemo brandstation",
+      "latitude": 57.488341,
+      "longitude": 13.357575
+    },
+    {
+      "name": "Trollhättans brandstation",
+      "latitude": 58.297113,
+      "longitude": 12.323495
+    },
+    {
+      "name": "Tunnsjøen branndepot",
+      "latitude": 64.644076,
+      "longitude": 13.698362
+    },
+    {
+      "name": "Tvååker brandstation",
+      "latitude": 57.045238,
+      "longitude": 12.382188
+    },
+    {
+      "name": "Tyringe brandstation",
+      "latitude": 56.160374,
+      "longitude": 13.59381
+    },
+    {
+      "name": "Tystberga Brandstation",
+      "latitude": 58.848584,
+      "longitude": 17.24124
+    },
+    {
+      "name": "Täby brandstation",
+      "latitude": 59.434061,
+      "longitude": 18.076092
+    },
+    {
+      "name": "Tärendö Brandstation",
+      "latitude": 67.170349,
+      "longitude": 22.61438
+    },
+    {
+      "name": "Tågarps Frivilliga Brandkår",
+      "latitude": 55.925091,
+      "longitude": 12.954396
+    },
+    {
+      "name": "Töllsjö Räddningsvärn",
+      "latitude": 57.793465,
+      "longitude": 12.632859
+    },
+    {
+      "name": "Töreboda brandstation",
+      "latitude": 58.70467,
+      "longitude": 14.125254
+    },
+    {
+      "name": "Ullareds brandstation",
+      "latitude": 57.137879,
+      "longitude": 12.710014
+    },
+    {
+      "name": "Ulricehamn Räddningstjänst",
+      "latitude": 57.797279,
+      "longitude": 13.414905
+    },
+    {
+      "name": "Umeå brandstation",
+      "latitude": 63.834497,
+      "longitude": 20.246889
+    },
+    {
+      "name": "Undenäs brandstation",
+      "latitude": 58.655212,
+      "longitude": 14.399293
+    },
+    {
+      "name": "Upplands Väsby brandstation",
+      "latitude": 59.502747,
+      "longitude": 17.920579
+    },
+    {
+      "name": "Vallby station 10",
+      "latitude": 59.619051,
+      "longitude": 16.512055
+    },
+    {
+      "name": "Vallentuna brandstation",
+      "latitude": 59.531226,
+      "longitude": 18.087229
+    },
+    {
+      "name": "Varas brandstation",
+      "latitude": 58.267267,
+      "longitude": 12.962432
+    },
+    {
+      "name": "Varbergs brandstation",
+      "latitude": 57.124526,
+      "longitude": 12.275952
+    },
+    {
+      "name": "Vaxholms brandstation",
+      "latitude": 59.407657,
+      "longitude": 18.332523
+    },
+    {
+      "name": "Vellinge brandstation",
+      "latitude": 55.473758,
+      "longitude": 13.018947
+    },
+    {
+      "name": "Vessigebro brandstation",
+      "latitude": 56.977794,
+      "longitude": 12.649576
+    },
+    {
+      "name": "Virsbo Station 19",
+      "latitude": 59.876886,
+      "longitude": 16.04632
+    },
+    {
+      "name": "Visby Brandstation",
+      "latitude": 57.647379,
+      "longitude": 18.347486
+    },
+    {
+      "name": "Vislanda brandstation",
+      "latitude": 56.7903,
+      "longitude": 14.438438
+    },
+    {
+      "name": "Volvo Brandstation",
+      "latitude": 57.719966,
+      "longitude": 11.840252
+    },
+    {
+      "name": "Vrångö brandstation",
+      "latitude": 57.571743,
+      "longitude": 11.788917
+    },
+    {
+      "name": "Vällingby brandstation",
+      "latitude": 59.369337,
+      "longitude": 17.854062
+    },
+    {
+      "name": "Vänersborgs brandstation",
+      "latitude": 58.369897,
+      "longitude": 12.323667
+    },
+    {
+      "name": "Värmdö brandstation",
+      "latitude": 59.313283,
+      "longitude": 18.426012
+    },
+    {
+      "name": "Väse brandstation",
+      "latitude": 59.389049,
+      "longitude": 13.853769
+    },
+    {
+      "name": "Västerviks brandstation",
+      "latitude": 57.750026,
+      "longitude": 16.631487
+    },
+    {
+      "name": "Västra Torsås brandstation",
+      "latitude": 56.410881,
+      "longitude": 16.008774
+    },
+    {
+      "name": "Vålbergs brandstation",
+      "latitude": 59.394771,
+      "longitude": 13.192759
+    },
+    {
+      "name": "Vårby Brandstation",
+      "latitude": 59.263479,
+      "longitude": 17.892633
+    },
+    {
+      "name": "Vårgårda brandstation",
+      "latitude": 58.032988,
+      "longitude": 12.815114
+    },
+    {
+      "name": "Ystads Frivillige Bergnings-Corps",
+      "latitude": 55.430355,
+      "longitude": 13.820161
+    },
+    {
+      "name": "Älvdalens brandstation",
+      "latitude": 61.226345,
+      "longitude": 14.035193
+    },
+    {
+      "name": "Ängelholms räddningstjänst",
+      "latitude": 56.242189,
+      "longitude": 12.869888
+    },
+    {
+      "name": "Ärla brandstation",
+      "latitude": 59.281388,
+      "longitude": 16.672832
+    },
+    {
+      "name": "Åhus brandstation",
+      "latitude": 55.931295,
+      "longitude": 14.281148
+    },
+    {
+      "name": "Åkersberga Brandstation",
+      "latitude": 59.48077,
+      "longitude": 18.275784
+    },
+    {
+      "name": "Ålems brandstation",
+      "latitude": 56.954726,
+      "longitude": 16.382718
+    },
+    {
+      "name": "Öckerö Räddningstjänst",
+      "latitude": 57.705095,
+      "longitude": 11.657759
+    },
+    {
+      "name": "Öjersjö brandstation",
+      "latitude": 57.703699,
+      "longitude": 12.150279
+    },
+    {
+      "name": "Örebro Brandstation",
+      "latitude": 59.256101,
+      "longitude": 15.171171
+    },
+    {
+      "name": "Öregrunds brandstation",
+      "latitude": 60.33521,
+      "longitude": 18.437164
+    },
+    {
+      "name": "Österbybruks brandstation",
+      "latitude": 60.200389,
+      "longitude": 17.897532
+    },
+    {
+      "name": "Östermalms Brandstation",
+      "latitude": 59.340523,
+      "longitude": 18.085456
+    },
+    {
+      "name": "Österstationen",
+      "latitude": 59.267647,
+      "longitude": 15.239528
+    },
+    {
+      "name": "Östra Vemmerlövs Räddningsvärn",
+      "latitude": 55.582633,
+      "longitude": 14.238915
+    }
+  ],
+  "meta": {
+    "title": "Brandstationer i Sverige - Gratis nedladdning",
+    "description": "Brandstationer i Sverige, hämtade från OpenStreetMap-punkter (amenity=fire_station). Namn, latitud och longitud (WGS84). Innehåller 403 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Brandstationer i Sverige | ListBase",
+    "seo_description": "Ladda ner Brandstationer i Sverige — 403 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 403 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

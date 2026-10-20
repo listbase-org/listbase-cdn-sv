@@ -1,0 +1,961 @@
+{
+  "id": "sv-jonkoping-regso",
+  "name": "RegSO-områden i Jönköpings län",
+  "title": "RegSO-områden i Jönköpings län",
+  "description": "130 regionala statistikområden (RegSO) i Jönköpings län (länskod 06). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 130,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "0604R001",
+      "regso_namn": "Aneby nordvästra",
+      "kommun_kod": "0604",
+      "kommun_namn": "Aneby",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0604R002",
+      "regso_namn": "Aneby västra omland",
+      "kommun_kod": "0604",
+      "kommun_namn": "Aneby",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0604R003",
+      "regso_namn": "Aneby östra",
+      "kommun_kod": "0604",
+      "kommun_namn": "Aneby",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0604R004",
+      "regso_namn": "Aneby östra omland",
+      "kommun_kod": "0604",
+      "kommun_namn": "Aneby",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0617R001",
+      "regso_namn": "Gnosjö landsbygd",
+      "kommun_kod": "0617",
+      "kommun_namn": "Gnosjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0617R002",
+      "regso_namn": "Gnosjö tätort",
+      "kommun_kod": "0617",
+      "kommun_namn": "Gnosjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0617R003",
+      "regso_namn": "Hillerstorp tätort",
+      "kommun_kod": "0617",
+      "kommun_namn": "Gnosjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0642R001",
+      "regso_namn": "Mullsjö tätort nordvästra",
+      "kommun_kod": "0642",
+      "kommun_namn": "Mullsjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0642R002",
+      "regso_namn": "Mullsjö tätort nordöstra",
+      "kommun_kod": "0642",
+      "kommun_namn": "Mullsjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0642R003",
+      "regso_namn": "Mullsjö tätort södra",
+      "kommun_kod": "0642",
+      "kommun_namn": "Mullsjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0642R004",
+      "regso_namn": "Sandhem-Bjurbäck-Utvängstorp",
+      "kommun_kod": "0642",
+      "kommun_namn": "Mullsjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0643R001",
+      "regso_namn": "Bränninge",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0643R002",
+      "regso_namn": "Habo norra",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0643R003",
+      "regso_namn": "Habo södra",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0643R004",
+      "regso_namn": "Kyrkeryd-Kråkeryd",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0643R005",
+      "regso_namn": "Kärnekulla-Sjogarp",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0643R006",
+      "regso_namn": "Kärr",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0643R007",
+      "regso_namn": "Mölekullen-Centrum",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R001",
+      "regso_namn": "Anderstorp nordsydväst",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R002",
+      "regso_namn": "Anderstorp östra",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R003",
+      "regso_namn": "Broaryd-Gislaved omland",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R004",
+      "regso_namn": "Burseryd",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R005",
+      "regso_namn": "Gislaved nordväst",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R006",
+      "regso_namn": "Gislaved norra",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R007",
+      "regso_namn": "Gislaved södra",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R008",
+      "regso_namn": "Gislaved östra",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R009",
+      "regso_namn": "Hestra",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R010",
+      "regso_namn": "Reftele",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R011",
+      "regso_namn": "Smålandsstenar västra",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R012",
+      "regso_namn": "Smålandsstenar östra",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0662R013",
+      "regso_namn": "Smålandsstenar-Reftele omland",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0665R001",
+      "regso_namn": "Bondstorp-Byarum omland",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0665R002",
+      "regso_namn": "Hok-Svenarum omland",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0665R003",
+      "regso_namn": "Skillingaryd västra",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0665R004",
+      "regso_namn": "Skillingaryd östra",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0665R005",
+      "regso_namn": "Vaggeryd norra",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0665R006",
+      "regso_namn": "Vaggeryd västra",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0665R007",
+      "regso_namn": "Vaggeryd östra",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0665R008",
+      "regso_namn": "Åker-Tofteryd omland",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R001",
+      "regso_namn": "Bankeryd",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R002",
+      "regso_namn": "Barnarp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R003",
+      "regso_namn": "Barnarps-Tenhults landsbygder",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R004",
+      "regso_namn": "Bymarken",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R005",
+      "regso_namn": "Bäckalyckan-Västra Torpa",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R006",
+      "regso_namn": "Egna Hem-Stensholm",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R007",
+      "regso_namn": "Ekhagen",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R008",
+      "regso_namn": "Gråbo-Tormenås",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R009",
+      "regso_namn": "Gränna",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R010",
+      "regso_namn": "Gräshagen-Tokarp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R011",
+      "regso_namn": "Hisingstorp-Dalvik-Skänkeberg",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R012",
+      "regso_namn": "Hovslätt",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R013",
+      "regso_namn": "Huskvarna centrum",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R014",
+      "regso_namn": "Huskvarna söder",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R015",
+      "regso_namn": "Järstorp-Bottnaryd-Norra Unnaryd",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R016",
+      "regso_namn": "Jönköping centrum Väster",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R017",
+      "regso_namn": "Jönköping centrum Öster",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R018",
+      "regso_namn": "Kaxholmen",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R019",
+      "regso_namn": "Liljeholmen-Västra Rosenlund",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R020",
+      "regso_namn": "Ljungarum",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R021",
+      "regso_namn": "Norrahammar",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R022",
+      "regso_namn": "Norrängen",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R023",
+      "regso_namn": "Rosenlund-Vättersnäs",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R024",
+      "regso_namn": "Råslätt",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R025",
+      "regso_namn": "Samset-Mariebo",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R026",
+      "regso_namn": "Skärstad-Lekeryd",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R027",
+      "regso_namn": "Söder-Munksjöstaden",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R028",
+      "regso_namn": "Södra Munksjön-Kättilstorp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R029",
+      "regso_namn": "Taberg-Månsarp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R030",
+      "regso_namn": "Tenhult",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R031",
+      "regso_namn": "Trånghalla-Kortebo",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R032",
+      "regso_namn": "Visingsö-Örserum-Ölmstad",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R033",
+      "regso_namn": "Österängen",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R034",
+      "regso_namn": "Öxnehaga",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0680R035",
+      "regso_namn": "Öxnehaga centrum",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R001",
+      "regso_namn": "Bodafors",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R002",
+      "regso_namn": "Forserum",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R003",
+      "regso_namn": "Handskeryd",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R004",
+      "regso_namn": "Ingsberg-Nyhem-Hultet",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R005",
+      "regso_namn": "Malmbäck",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R006",
+      "regso_namn": "Norrboda-Västra Runneryd",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R007",
+      "regso_namn": "Nässjö centrum",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R008",
+      "regso_namn": "Nässjö norra landsbygd",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R009",
+      "regso_namn": "Nässjö södra landsbygd",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R010",
+      "regso_namn": "Nässjö västra landsbygd",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R011",
+      "regso_namn": "Södra Åker-Åkershäll-Södergården",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R012",
+      "regso_namn": "Åker-Målen",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0682R013",
+      "regso_namn": "Östra Runneryd",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R001",
+      "regso_namn": "Bor",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R002",
+      "regso_namn": "Bredaryd",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R003",
+      "regso_namn": "Centrum-Apladalen",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R004",
+      "regso_namn": "Forsheda",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R005",
+      "regso_namn": "Gröndal-Norregård",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R006",
+      "regso_namn": "Mossle",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R007",
+      "regso_namn": "Nylund-Duvelund",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R008",
+      "regso_namn": "Rydaholm",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R009",
+      "regso_namn": "Trälleborg",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R010",
+      "regso_namn": "Vråen-Rörstorp",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R011",
+      "regso_namn": "Värnamo sydöstra",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R012",
+      "regso_namn": "Värnamo västra",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0683R013",
+      "regso_namn": "Värnamo östra",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0684R001",
+      "regso_namn": "Stockaryd",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0684R002",
+      "regso_namn": "Sävsjö nordöst",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0684R003",
+      "regso_namn": "Sävsjö norra omland",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0684R004",
+      "regso_namn": "Sävsjö sydöst",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0684R005",
+      "regso_namn": "Sävsjö södra omland",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0684R006",
+      "regso_namn": "Sävsjö väst",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0684R007",
+      "regso_namn": "Vrigstad",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0685R001",
+      "regso_namn": "Ekenässjön",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0685R002",
+      "regso_namn": "Holsby-Kvillsfors",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0685R003",
+      "regso_namn": "Korsberga-Nye",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0685R004",
+      "regso_namn": "Landsbro-Myresö",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0685R005",
+      "regso_namn": "Vetlanda-Brunnsgård",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0685R006",
+      "regso_namn": "Vetlanda-Bäckseda",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0685R007",
+      "regso_namn": "Vetlanda-Centrum",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0685R008",
+      "regso_namn": "Vetlanda-Karslund",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0685R009",
+      "regso_namn": "Vetlanda-Mellangården",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0685R010",
+      "regso_namn": "Vetlanda-Tomaslunden",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0685R011",
+      "regso_namn": "Vetlanda-Upplanda",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0686R001",
+      "regso_namn": "Eksjö norra",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0686R002",
+      "regso_namn": "Eksjö södra",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0686R003",
+      "regso_namn": "Eksjö västra",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0686R004",
+      "regso_namn": "Eksjö västra landsbygd",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0686R005",
+      "regso_namn": "Eksjö östra",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0686R006",
+      "regso_namn": "Eksjö östra landsbygd",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0686R007",
+      "regso_namn": "Mariannelund",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0687R001",
+      "regso_namn": "Tranås centrum",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0687R002",
+      "regso_namn": "Tranås västra landsbygd",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0687R003",
+      "regso_namn": "Tranås östra landsbygd",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0687R004",
+      "regso_namn": "Tranås-väster",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06"
+    },
+    {
+      "regso_kod": "0687R005",
+      "regso_namn": "Tranås-öster",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Jönköpings län - Gratis nedladdning",
+    "description": "130 regionala statistikområden (RegSO) i Jönköpings län (länskod 06). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 130 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Jönköpings län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Jönköpings län — 130 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 130 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

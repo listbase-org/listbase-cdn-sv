@@ -1,0 +1,1164 @@
+{
+  "id": "sv-tidszoner-metazon",
+  "name": "Metazoner (makroregionala tidszoner) – namn på svenska",
+  "title": "Metazoner (makroregionala tidszoner) – namn på svenska",
+  "description": "Metazoner (makroregionala tidszoner) från den svenska (sv) språkinställningen i CLDR – med generiskt namn, standardnamn och sommartidsnamn.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 159,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "generiskt_namn",
+      "label": "Generiskt Namn",
+      "type": "string"
+    },
+    {
+      "key": "standardnamn",
+      "label": "Standardnamn",
+      "type": "string"
+    },
+    {
+      "key": "sommarnamn",
+      "label": "Sommarnamn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Acre",
+      "generiskt_namn": "västbrasiliansk tid",
+      "standardnamn": "västbrasiliansk normaltid",
+      "sommarnamn": "västbrasiliansk sommartid"
+    },
+    {
+      "id": 2,
+      "code": "Afghanistan",
+      "generiskt_namn": "",
+      "standardnamn": "afghansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 3,
+      "code": "Africa_Central",
+      "generiskt_namn": "",
+      "standardnamn": "centralafrikansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 4,
+      "code": "Africa_Eastern",
+      "generiskt_namn": "",
+      "standardnamn": "östafrikansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 5,
+      "code": "Africa_Southern",
+      "generiskt_namn": "",
+      "standardnamn": "sydafrikansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 6,
+      "code": "Africa_Western",
+      "generiskt_namn": "",
+      "standardnamn": "västafrikansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 7,
+      "code": "Alaska",
+      "generiskt_namn": "Alaskatid",
+      "standardnamn": "Alaska, normaltid",
+      "sommarnamn": "Alaska, sommartid"
+    },
+    {
+      "id": 8,
+      "code": "Almaty",
+      "generiskt_namn": "Almatytid",
+      "standardnamn": "Almatynormaltid",
+      "sommarnamn": "Almatysommartid"
+    },
+    {
+      "id": 9,
+      "code": "Amazon",
+      "generiskt_namn": "Amazonastid",
+      "standardnamn": "Amazonas, normaltid",
+      "sommarnamn": "Amazonas, sommartid"
+    },
+    {
+      "id": 10,
+      "code": "America_Central",
+      "generiskt_namn": "centralnordamerikansk tid",
+      "standardnamn": "centralnordamerikansk normaltid",
+      "sommarnamn": "centralnordamerikansk sommartid"
+    },
+    {
+      "id": 11,
+      "code": "America_Eastern",
+      "generiskt_namn": "östnordamerikansk tid",
+      "standardnamn": "östnordamerikansk normaltid",
+      "sommarnamn": "östnordamerikansk sommartid"
+    },
+    {
+      "id": 12,
+      "code": "America_Mountain",
+      "generiskt_namn": "Klippiga bergentid",
+      "standardnamn": "Klippiga bergen, normaltid",
+      "sommarnamn": "Klippiga bergen, sommartid"
+    },
+    {
+      "id": 13,
+      "code": "America_Pacific",
+      "generiskt_namn": "västnordamerikansk tid",
+      "standardnamn": "västnordamerikansk normaltid",
+      "sommarnamn": "västnordamerikansk sommartid"
+    },
+    {
+      "id": 14,
+      "code": "Anadyr",
+      "generiskt_namn": "Anadyrtid",
+      "standardnamn": "Anadyrnormaltid",
+      "sommarnamn": "Anadyrsommartid"
+    },
+    {
+      "id": 15,
+      "code": "Apia",
+      "generiskt_namn": "Apiatid",
+      "standardnamn": "Apia, normaltid",
+      "sommarnamn": "Apia, sommartid"
+    },
+    {
+      "id": 16,
+      "code": "Aqtau",
+      "generiskt_namn": "Aqtautid",
+      "standardnamn": "Aqtaunormaltid",
+      "sommarnamn": "Aqtausommartid"
+    },
+    {
+      "id": 17,
+      "code": "Aqtobe",
+      "generiskt_namn": "Aqtöbetid",
+      "standardnamn": "Aqtöbenormaltid",
+      "sommarnamn": "Aqtöbesommartid"
+    },
+    {
+      "id": 18,
+      "code": "Arabian",
+      "generiskt_namn": "saudiarabisk tid",
+      "standardnamn": "saudiarabisk normaltid",
+      "sommarnamn": "saudiarabisk sommartid"
+    },
+    {
+      "id": 19,
+      "code": "Argentina",
+      "generiskt_namn": "östargentinsk tid",
+      "standardnamn": "östargentinsk normaltid",
+      "sommarnamn": "östargentinsk sommartid"
+    },
+    {
+      "id": 20,
+      "code": "Argentina_Western",
+      "generiskt_namn": "västargentinsk tid",
+      "standardnamn": "västargentinsk normaltid",
+      "sommarnamn": "västargentinsk sommartid"
+    },
+    {
+      "id": 21,
+      "code": "Armenia",
+      "generiskt_namn": "armenisk tid",
+      "standardnamn": "armenisk normaltid",
+      "sommarnamn": "armenisk sommartid"
+    },
+    {
+      "id": 22,
+      "code": "Atlantic",
+      "generiskt_namn": "nordamerikansk atlanttid",
+      "standardnamn": "nordamerikansk atlantnormaltid",
+      "sommarnamn": "nordamerikansk atlantsommartid"
+    },
+    {
+      "id": 23,
+      "code": "Australia_Central",
+      "generiskt_namn": "centralaustralisk tid",
+      "standardnamn": "centralaustralisk normaltid",
+      "sommarnamn": "centralaustralisk sommartid"
+    },
+    {
+      "id": 24,
+      "code": "Australia_CentralWestern",
+      "generiskt_namn": "västcentralaustralisk tid",
+      "standardnamn": "västcentralaustralisk normaltid",
+      "sommarnamn": "västcentralaustralisk sommartid"
+    },
+    {
+      "id": 25,
+      "code": "Australia_Eastern",
+      "generiskt_namn": "östaustralisk tid",
+      "standardnamn": "östaustralisk normaltid",
+      "sommarnamn": "östaustralisk sommartid"
+    },
+    {
+      "id": 26,
+      "code": "Australia_Western",
+      "generiskt_namn": "västaustralisk tid",
+      "standardnamn": "västaustralisk normaltid",
+      "sommarnamn": "västaustralisk sommartid"
+    },
+    {
+      "id": 27,
+      "code": "Azerbaijan",
+      "generiskt_namn": "azerbajdzjansk tid",
+      "standardnamn": "azerbajdzjansk normaltid",
+      "sommarnamn": "azerbajdzjansk sommartid"
+    },
+    {
+      "id": 28,
+      "code": "Azores",
+      "generiskt_namn": "azorisk tid",
+      "standardnamn": "azorisk normaltid",
+      "sommarnamn": "azorisk sommartid"
+    },
+    {
+      "id": 29,
+      "code": "Bangladesh",
+      "generiskt_namn": "bangladeshisk tid",
+      "standardnamn": "bangladeshisk normaltid",
+      "sommarnamn": "bangladeshisk sommartid"
+    },
+    {
+      "id": 30,
+      "code": "Bhutan",
+      "generiskt_namn": "",
+      "standardnamn": "bhutansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 31,
+      "code": "Bolivia",
+      "generiskt_namn": "",
+      "standardnamn": "boliviansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 32,
+      "code": "Brasilia",
+      "generiskt_namn": "Brasiliatid",
+      "standardnamn": "Brasilia, normaltid",
+      "sommarnamn": "Brasilia, sommartid"
+    },
+    {
+      "id": 33,
+      "code": "Brunei",
+      "generiskt_namn": "",
+      "standardnamn": "Bruneitid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 34,
+      "code": "Cape_Verde",
+      "generiskt_namn": "Kap Verdetid",
+      "standardnamn": "Kap Verde, normaltid",
+      "sommarnamn": "Kap Verde, sommartid"
+    },
+    {
+      "id": 35,
+      "code": "Casey",
+      "generiskt_namn": "",
+      "standardnamn": "Caseytid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 36,
+      "code": "Chamorro",
+      "generiskt_namn": "",
+      "standardnamn": "Chamorrotid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 37,
+      "code": "Chatham",
+      "generiskt_namn": "Chathamtid",
+      "standardnamn": "Chatham, normaltid",
+      "sommarnamn": "Chatham, sommartid"
+    },
+    {
+      "id": 38,
+      "code": "Chile",
+      "generiskt_namn": "chilensk tid",
+      "standardnamn": "chilensk normaltid",
+      "sommarnamn": "chilensk sommartid"
+    },
+    {
+      "id": 39,
+      "code": "China",
+      "generiskt_namn": "kinesisk tid",
+      "standardnamn": "kinesisk normaltid",
+      "sommarnamn": "kinesisk sommartid"
+    },
+    {
+      "id": 40,
+      "code": "Christmas",
+      "generiskt_namn": "",
+      "standardnamn": "Julöns tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 41,
+      "code": "Cocos",
+      "generiskt_namn": "",
+      "standardnamn": "Keelingöarnas tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 42,
+      "code": "Colombia",
+      "generiskt_namn": "colombiansk tid",
+      "standardnamn": "colombiansk normaltid",
+      "sommarnamn": "colombiansk sommartid"
+    },
+    {
+      "id": 43,
+      "code": "Cook",
+      "generiskt_namn": "Cooköarnas tid",
+      "standardnamn": "Cooköarnas normaltid",
+      "sommarnamn": "Cooköarnas sommartid"
+    },
+    {
+      "id": 44,
+      "code": "Cuba",
+      "generiskt_namn": "kubansk tid",
+      "standardnamn": "kubansk normaltid",
+      "sommarnamn": "kubansk sommartid"
+    },
+    {
+      "id": 45,
+      "code": "Davis",
+      "generiskt_namn": "",
+      "standardnamn": "Davistid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 46,
+      "code": "DumontDUrville",
+      "generiskt_namn": "",
+      "standardnamn": "Dumont d’Urville-tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 47,
+      "code": "East_Timor",
+      "generiskt_namn": "",
+      "standardnamn": "östtimorisk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 48,
+      "code": "Easter",
+      "generiskt_namn": "Påskötid",
+      "standardnamn": "Påskön, normaltid",
+      "sommarnamn": "Påskön, sommartid"
+    },
+    {
+      "id": 49,
+      "code": "Ecuador",
+      "generiskt_namn": "",
+      "standardnamn": "ecuadoriansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 50,
+      "code": "Europe_Central",
+      "generiskt_namn": "centraleuropeisk tid",
+      "standardnamn": "centraleuropeisk normaltid",
+      "sommarnamn": "centraleuropeisk sommartid"
+    },
+    {
+      "id": 51,
+      "code": "Europe_Eastern",
+      "generiskt_namn": "östeuropeisk tid",
+      "standardnamn": "östeuropeisk normaltid",
+      "sommarnamn": "östeuropeisk sommartid"
+    },
+    {
+      "id": 52,
+      "code": "Europe_Further_Eastern",
+      "generiskt_namn": "",
+      "standardnamn": "Kaliningradtid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 53,
+      "code": "Europe_Western",
+      "generiskt_namn": "västeuropeisk tid",
+      "standardnamn": "västeuropeisk normaltid",
+      "sommarnamn": "västeuropeisk sommartid"
+    },
+    {
+      "id": 54,
+      "code": "Falkland",
+      "generiskt_namn": "Falklandsöarnas tid",
+      "standardnamn": "Falklandsöarna, normaltid",
+      "sommarnamn": "Falklandsöarna, sommartid"
+    },
+    {
+      "id": 55,
+      "code": "Fiji",
+      "generiskt_namn": "Fijitid",
+      "standardnamn": "Fiji, normaltid",
+      "sommarnamn": "Fiji, sommartid"
+    },
+    {
+      "id": 56,
+      "code": "French_Guiana",
+      "generiskt_namn": "",
+      "standardnamn": "Franska Guyanatid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 57,
+      "code": "French_Southern",
+      "generiskt_namn": "",
+      "standardnamn": "Franska Sydterritoriernas tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 58,
+      "code": "GMT",
+      "generiskt_namn": "",
+      "standardnamn": "Greenwichtid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 59,
+      "code": "Galapagos",
+      "generiskt_namn": "",
+      "standardnamn": "Galápagostid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 60,
+      "code": "Gambier",
+      "generiskt_namn": "",
+      "standardnamn": "Gambiertid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 61,
+      "code": "Georgia",
+      "generiskt_namn": "georgisk tid",
+      "standardnamn": "georgisk normaltid",
+      "sommarnamn": "georgisk sommartid"
+    },
+    {
+      "id": 62,
+      "code": "Gilbert_Islands",
+      "generiskt_namn": "",
+      "standardnamn": "Kiribatitid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 63,
+      "code": "Greenland_Eastern",
+      "generiskt_namn": "östgrönländsk tid",
+      "standardnamn": "östgrönländsk normaltid",
+      "sommarnamn": "östgrönländsk sommartid"
+    },
+    {
+      "id": 64,
+      "code": "Greenland_Western",
+      "generiskt_namn": "västgrönländsk tid",
+      "standardnamn": "västgrönländsk normaltid",
+      "sommarnamn": "västgrönländsk sommartid"
+    },
+    {
+      "id": 65,
+      "code": "Guam",
+      "generiskt_namn": "",
+      "standardnamn": "Guamtid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 66,
+      "code": "Gulf",
+      "generiskt_namn": "",
+      "standardnamn": "Persiska vikentid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 67,
+      "code": "Guyana",
+      "generiskt_namn": "",
+      "standardnamn": "Guyanatid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 68,
+      "code": "Hawaii",
+      "generiskt_namn": "",
+      "standardnamn": "Honolulu, normaltid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 69,
+      "code": "Hawaii_Aleutian",
+      "generiskt_namn": "aleutisk tid",
+      "standardnamn": "aleutisk normaltid",
+      "sommarnamn": "aleutisk sommartid"
+    },
+    {
+      "id": 70,
+      "code": "Hong_Kong",
+      "generiskt_namn": "Hongkongtid",
+      "standardnamn": "Hongkong, normaltid",
+      "sommarnamn": "Hongkong, sommartid"
+    },
+    {
+      "id": 71,
+      "code": "Hovd",
+      "generiskt_namn": "Chovdtid",
+      "standardnamn": "Chovd, normaltid",
+      "sommarnamn": "Chovd, sommartid"
+    },
+    {
+      "id": 72,
+      "code": "India",
+      "generiskt_namn": "",
+      "standardnamn": "indisk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 73,
+      "code": "Indian_Ocean",
+      "generiskt_namn": "",
+      "standardnamn": "Brittiska Indiska oceanöarnas tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 74,
+      "code": "Indochina",
+      "generiskt_namn": "",
+      "standardnamn": "indokinesisk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 75,
+      "code": "Indonesia_Central",
+      "generiskt_namn": "",
+      "standardnamn": "centralindonesisk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 76,
+      "code": "Indonesia_Eastern",
+      "generiskt_namn": "",
+      "standardnamn": "östindonesisk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 77,
+      "code": "Indonesia_Western",
+      "generiskt_namn": "",
+      "standardnamn": "västindonesisk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 78,
+      "code": "Iran",
+      "generiskt_namn": "iransk tid",
+      "standardnamn": "iransk normaltid",
+      "sommarnamn": "iransk sommartid"
+    },
+    {
+      "id": 79,
+      "code": "Irkutsk",
+      "generiskt_namn": "Irkutsktid",
+      "standardnamn": "Irkutsk, normaltid",
+      "sommarnamn": "Irkutsk, sommartid"
+    },
+    {
+      "id": 80,
+      "code": "Israel",
+      "generiskt_namn": "israelisk tid",
+      "standardnamn": "israelisk normaltid",
+      "sommarnamn": "israelisk sommartid"
+    },
+    {
+      "id": 81,
+      "code": "Japan",
+      "generiskt_namn": "japansk tid",
+      "standardnamn": "japansk normaltid",
+      "sommarnamn": "japansk sommartid"
+    },
+    {
+      "id": 82,
+      "code": "Kamchatka",
+      "generiskt_namn": "Kamtjatkatid",
+      "standardnamn": "Kamtjatkanormaltid",
+      "sommarnamn": "Kamtjatkasommartid"
+    },
+    {
+      "id": 83,
+      "code": "Kazakhstan",
+      "generiskt_namn": "",
+      "standardnamn": "kazakstansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 84,
+      "code": "Kazakhstan_Eastern",
+      "generiskt_namn": "",
+      "standardnamn": "östkazakstansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 85,
+      "code": "Kazakhstan_Western",
+      "generiskt_namn": "",
+      "standardnamn": "västkazakstansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 86,
+      "code": "Korea",
+      "generiskt_namn": "koreansk tid",
+      "standardnamn": "koreansk normaltid",
+      "sommarnamn": "koreansk sommartid"
+    },
+    {
+      "id": 87,
+      "code": "Kosrae",
+      "generiskt_namn": "",
+      "standardnamn": "Kosraetid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 88,
+      "code": "Krasnoyarsk",
+      "generiskt_namn": "Krasnojarsktid",
+      "standardnamn": "Krasnojarsk, normaltid",
+      "sommarnamn": "Krasnojarsk, sommartid"
+    },
+    {
+      "id": 89,
+      "code": "Kyrgystan",
+      "generiskt_namn": "",
+      "standardnamn": "kirgizisk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 90,
+      "code": "Lanka",
+      "generiskt_namn": "",
+      "standardnamn": "Sri Lankatid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 91,
+      "code": "Line_Islands",
+      "generiskt_namn": "",
+      "standardnamn": "Lineöarnas tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 92,
+      "code": "Lord_Howe",
+      "generiskt_namn": "Lord Howetid",
+      "standardnamn": "Lord Howe, normaltid",
+      "sommarnamn": "Lord Howe, sommartid"
+    },
+    {
+      "id": 93,
+      "code": "Macau",
+      "generiskt_namn": "Macaotid",
+      "standardnamn": "Macaonormaltid",
+      "sommarnamn": "Macaosommartid"
+    },
+    {
+      "id": 94,
+      "code": "Magadan",
+      "generiskt_namn": "Magadantid",
+      "standardnamn": "Magadan, normaltid",
+      "sommarnamn": "Magadan, sommartid"
+    },
+    {
+      "id": 95,
+      "code": "Malaysia",
+      "generiskt_namn": "",
+      "standardnamn": "malaysisk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 96,
+      "code": "Maldives",
+      "generiskt_namn": "",
+      "standardnamn": "Maldivernatid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 97,
+      "code": "Marquesas",
+      "generiskt_namn": "",
+      "standardnamn": "Marquesastid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 98,
+      "code": "Marshall_Islands",
+      "generiskt_namn": "",
+      "standardnamn": "Marshallöarnas tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 99,
+      "code": "Mauritius",
+      "generiskt_namn": "Mauritiustid",
+      "standardnamn": "Mauritius, normaltid",
+      "sommarnamn": "Mauritius, sommartid"
+    },
+    {
+      "id": 100,
+      "code": "Mawson",
+      "generiskt_namn": "",
+      "standardnamn": "Mawsontid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 101,
+      "code": "Mexico_Pacific",
+      "generiskt_namn": "mexikansk stillahavstid",
+      "standardnamn": "mexikansk stillahavstid, normaltid",
+      "sommarnamn": "mexikansk stillahavstid, sommartid"
+    },
+    {
+      "id": 102,
+      "code": "Mongolia",
+      "generiskt_namn": "Ulaanbaatartid",
+      "standardnamn": "Ulaanbaatar, normaltid",
+      "sommarnamn": "Ulaanbaatar, sommartid"
+    },
+    {
+      "id": 103,
+      "code": "Moscow",
+      "generiskt_namn": "Moskvatid",
+      "standardnamn": "Moskva, normaltid",
+      "sommarnamn": "Moskva, sommartid"
+    },
+    {
+      "id": 104,
+      "code": "Myanmar",
+      "generiskt_namn": "",
+      "standardnamn": "burmesisk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 105,
+      "code": "Nauru",
+      "generiskt_namn": "",
+      "standardnamn": "Naurutid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 106,
+      "code": "Nepal",
+      "generiskt_namn": "",
+      "standardnamn": "nepalesisk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 107,
+      "code": "New_Caledonia",
+      "generiskt_namn": "Nya Kaledonientid",
+      "standardnamn": "Nya Kaledonien, normaltid",
+      "sommarnamn": "Nya Kaledonien, sommartid"
+    },
+    {
+      "id": 108,
+      "code": "New_Zealand",
+      "generiskt_namn": "nyzeeländsk tid",
+      "standardnamn": "nyzeeländsk normaltid",
+      "sommarnamn": "nyzeeländsk sommartid"
+    },
+    {
+      "id": 109,
+      "code": "Newfoundland",
+      "generiskt_namn": "Newfoundlandtid",
+      "standardnamn": "Newfoundland, normaltid",
+      "sommarnamn": "Newfoundland, sommartid"
+    },
+    {
+      "id": 110,
+      "code": "Niue",
+      "generiskt_namn": "",
+      "standardnamn": "Niuetid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 111,
+      "code": "Norfolk",
+      "generiskt_namn": "Norfolköns tid",
+      "standardnamn": "Norfolköns normaltid",
+      "sommarnamn": "Norfolköns sommartid"
+    },
+    {
+      "id": 112,
+      "code": "Noronha",
+      "generiskt_namn": "Fernando de Noronhatid",
+      "standardnamn": "Fernando de Noronha, normaltid",
+      "sommarnamn": "Fernando de Noronha, sommartid"
+    },
+    {
+      "id": 113,
+      "code": "North_Mariana",
+      "generiskt_namn": "",
+      "standardnamn": "Nordmarianernas tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 114,
+      "code": "Novosibirsk",
+      "generiskt_namn": "Novosibirsktid",
+      "standardnamn": "Novosibirsk, normaltid",
+      "sommarnamn": "Novosibirsk, sommartid"
+    },
+    {
+      "id": 115,
+      "code": "Omsk",
+      "generiskt_namn": "Omsktid",
+      "standardnamn": "Omsk, normaltid",
+      "sommarnamn": "Omsk, sommartid"
+    },
+    {
+      "id": 116,
+      "code": "Pakistan",
+      "generiskt_namn": "pakistansk tid",
+      "standardnamn": "pakistansk normaltid",
+      "sommarnamn": "pakistansk sommartid"
+    },
+    {
+      "id": 117,
+      "code": "Palau",
+      "generiskt_namn": "",
+      "standardnamn": "Palautid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 118,
+      "code": "Papua_New_Guinea",
+      "generiskt_namn": "",
+      "standardnamn": "Papua Nya Guineas tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 119,
+      "code": "Paraguay",
+      "generiskt_namn": "paraguayansk tid",
+      "standardnamn": "paraguayansk normaltid",
+      "sommarnamn": "paraguayansk sommartid"
+    },
+    {
+      "id": 120,
+      "code": "Peru",
+      "generiskt_namn": "peruansk tid",
+      "standardnamn": "peruansk normaltid",
+      "sommarnamn": "peruansk sommartid"
+    },
+    {
+      "id": 121,
+      "code": "Philippines",
+      "generiskt_namn": "filippinsk tid",
+      "standardnamn": "filippinsk normaltid",
+      "sommarnamn": "filippinsk sommartid"
+    },
+    {
+      "id": 122,
+      "code": "Phoenix_Islands",
+      "generiskt_namn": "",
+      "standardnamn": "Enderburytid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 123,
+      "code": "Pierre_Miquelon",
+      "generiskt_namn": "Saint-Pierre-et-Miquelon-tid",
+      "standardnamn": "Saint-Pierre-et-Miquelon, normaltid",
+      "sommarnamn": "Saint-Pierre-et-Miquelon, sommartid"
+    },
+    {
+      "id": 124,
+      "code": "Pitcairn",
+      "generiskt_namn": "",
+      "standardnamn": "Pitcairntid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 125,
+      "code": "Ponape",
+      "generiskt_namn": "",
+      "standardnamn": "Ponapetid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 126,
+      "code": "Pyongyang",
+      "generiskt_namn": "",
+      "standardnamn": "Pyongyangtid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 127,
+      "code": "Qyzylorda",
+      "generiskt_namn": "Qyzylordatid",
+      "standardnamn": "Qyzylordanormaltid",
+      "sommarnamn": "Qyzylordasommartid"
+    },
+    {
+      "id": 128,
+      "code": "Reunion",
+      "generiskt_namn": "",
+      "standardnamn": "Réuniontid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 129,
+      "code": "Rothera",
+      "generiskt_namn": "",
+      "standardnamn": "Rotheratid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 130,
+      "code": "Sakhalin",
+      "generiskt_namn": "Sachalintid",
+      "standardnamn": "Sachalin, normaltid",
+      "sommarnamn": "Sachalin, sommartid"
+    },
+    {
+      "id": 131,
+      "code": "Samara",
+      "generiskt_namn": "Samaratid",
+      "standardnamn": "Samaranormaltid",
+      "sommarnamn": "Samarasommartid"
+    },
+    {
+      "id": 132,
+      "code": "Samoa",
+      "generiskt_namn": "samoansk tid",
+      "standardnamn": "samoansk normaltid",
+      "sommarnamn": "samoansk sommartid"
+    },
+    {
+      "id": 133,
+      "code": "Seychelles",
+      "generiskt_namn": "",
+      "standardnamn": "Seychellernatid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 134,
+      "code": "Singapore",
+      "generiskt_namn": "",
+      "standardnamn": "Singaporetid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 135,
+      "code": "Solomon",
+      "generiskt_namn": "",
+      "standardnamn": "Salomonöarnas tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 136,
+      "code": "South_Georgia",
+      "generiskt_namn": "",
+      "standardnamn": "sydgeorgisk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 137,
+      "code": "Suriname",
+      "generiskt_namn": "",
+      "standardnamn": "Surinamtid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 138,
+      "code": "Syowa",
+      "generiskt_namn": "",
+      "standardnamn": "Syowatid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 139,
+      "code": "Tahiti",
+      "generiskt_namn": "",
+      "standardnamn": "Tahititid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 140,
+      "code": "Taipei",
+      "generiskt_namn": "Taipeitid",
+      "standardnamn": "Taipei, normaltid",
+      "sommarnamn": "Taipei, sommartid"
+    },
+    {
+      "id": 141,
+      "code": "Tajikistan",
+      "generiskt_namn": "",
+      "standardnamn": "Tadzjikistantid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 142,
+      "code": "Tokelau",
+      "generiskt_namn": "",
+      "standardnamn": "Tokelautid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 143,
+      "code": "Tonga",
+      "generiskt_namn": "Tongatid",
+      "standardnamn": "Tonga, normaltid",
+      "sommarnamn": "Tonga, sommartid"
+    },
+    {
+      "id": 144,
+      "code": "Truk",
+      "generiskt_namn": "",
+      "standardnamn": "Chuuktid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 145,
+      "code": "Turkey",
+      "generiskt_namn": "turkisk tid",
+      "standardnamn": "turkisk normaltid",
+      "sommarnamn": "turkisk sommartid"
+    },
+    {
+      "id": 146,
+      "code": "Turkmenistan",
+      "generiskt_namn": "turkmensk tid",
+      "standardnamn": "turkmensk normaltid",
+      "sommarnamn": "turkmensk sommartid"
+    },
+    {
+      "id": 147,
+      "code": "Tuvalu",
+      "generiskt_namn": "",
+      "standardnamn": "Tuvalutid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 148,
+      "code": "Uruguay",
+      "generiskt_namn": "uruguayansk tid",
+      "standardnamn": "uruguayansk normaltid",
+      "sommarnamn": "uruguayansk sommartid"
+    },
+    {
+      "id": 149,
+      "code": "Uzbekistan",
+      "generiskt_namn": "uzbekisk tid",
+      "standardnamn": "uzbekisk normaltid",
+      "sommarnamn": "uzbekisk sommartid"
+    },
+    {
+      "id": 150,
+      "code": "Vanuatu",
+      "generiskt_namn": "Vanuatutid",
+      "standardnamn": "Vanuatu, normaltid",
+      "sommarnamn": "Vanuatu, sommartid"
+    },
+    {
+      "id": 151,
+      "code": "Venezuela",
+      "generiskt_namn": "",
+      "standardnamn": "venezuelansk tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 152,
+      "code": "Vladivostok",
+      "generiskt_namn": "Vladivostoktid",
+      "standardnamn": "Vladivostok, normaltid",
+      "sommarnamn": "Vladivostok, sommartid"
+    },
+    {
+      "id": 153,
+      "code": "Volgograd",
+      "generiskt_namn": "Volgogradtid",
+      "standardnamn": "Volgograd, normaltid",
+      "sommarnamn": "Volgograd, sommartid"
+    },
+    {
+      "id": 154,
+      "code": "Vostok",
+      "generiskt_namn": "",
+      "standardnamn": "Vostoktid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 155,
+      "code": "Wake",
+      "generiskt_namn": "",
+      "standardnamn": "Wakeöarnas tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 156,
+      "code": "Wallis",
+      "generiskt_namn": "",
+      "standardnamn": "Wallis- och Futunaöarnas tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 157,
+      "code": "Yakutsk",
+      "generiskt_namn": "Jakutsktid",
+      "standardnamn": "Jakutsk, normaltid",
+      "sommarnamn": "Jakutsk, sommartid"
+    },
+    {
+      "id": 158,
+      "code": "Yekaterinburg",
+      "generiskt_namn": "Jekaterinburgtid",
+      "standardnamn": "Jekaterinburg, normaltid",
+      "sommarnamn": "Jekaterinburg, sommartid"
+    },
+    {
+      "id": 159,
+      "code": "Yukon",
+      "generiskt_namn": "",
+      "standardnamn": "Yukontid",
+      "sommarnamn": ""
+    }
+  ],
+  "meta": {
+    "title": "Metazoner (makroregionala tidszoner) – namn på svenska - Gratis nedladdning",
+    "description": "Metazoner (makroregionala tidszoner) från den svenska (sv) språkinställningen i CLDR – med generiskt namn, standardnamn och sommartidsnamn. Innehåller 159 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Metazoner (makroregionala tidszoner) – namn på svenska | ListBase",
+    "seo_description": "Ladda ner Metazoner (makroregionala tidszoner) – namn på svenska — 159 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 159 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

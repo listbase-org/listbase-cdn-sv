@@ -1,0 +1,2301 @@
+{
+  "id": "sv-gastgiverier",
+  "name": "Gästgiverier (Guest houses)",
+  "title": "Gästgiverier (Guest houses)",
+  "description": "Gästgiverier i Sverige — OpenStreetMap-punktdata (OSM-tagg: tourism=guest_house). Swedish guest houses as named point locations with WGS84 coordinates. 452 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 452,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "3 små hus B&B",
+      "latitude": 56.167734,
+      "longitude": 15.140396
+    },
+    {
+      "name": "4:ans Villa Södra Strand B&B",
+      "latitude": 56.173545,
+      "longitude": 15.581052
+    },
+    {
+      "name": "Abisko Hostel",
+      "latitude": 68.348608,
+      "longitude": 18.837369
+    },
+    {
+      "name": "Ackrells",
+      "latitude": 57.757321,
+      "longitude": 16.642117
+    },
+    {
+      "name": "Adventure Guesthouse Sweden",
+      "latitude": 59.977289,
+      "longitude": 13.076697
+    },
+    {
+      "name": "Agada Lund B&B",
+      "latitude": 55.687534,
+      "longitude": 14.213725
+    },
+    {
+      "name": "AirBnB",
+      "latitude": 60.599427,
+      "longitude": 15.58845
+    },
+    {
+      "name": "Aktivera Ösjönäs",
+      "latitude": 58.714063,
+      "longitude": 14.560661
+    },
+    {
+      "name": "Ales BnB",
+      "latitude": 55.391121,
+      "longitude": 14.076569
+    },
+    {
+      "name": "Allans på Ytterön",
+      "latitude": 56.095862,
+      "longitude": 15.773382
+    },
+    {
+      "name": "Almaån Bed and Breakfast",
+      "latitude": 56.174384,
+      "longitude": 13.75008
+    },
+    {
+      "name": "Alunbrukets B&B",
+      "latitude": 55.718517,
+      "longitude": 13.974188
+    },
+    {
+      "name": "Always open",
+      "latitude": 59.323655,
+      "longitude": 18.500909
+    },
+    {
+      "name": "Amazing Dream",
+      "latitude": 56.419001,
+      "longitude": 15.451929
+    },
+    {
+      "name": "Anettes Bed & Breakfast",
+      "latitude": 59.3776,
+      "longitude": 13.530919
+    },
+    {
+      "name": "Anita's Bed and Breakfast",
+      "latitude": 58.934305,
+      "longitude": 11.173031
+    },
+    {
+      "name": "Anjans Fjällstation",
+      "latitude": 63.710868,
+      "longitude": 12.630696
+    },
+    {
+      "name": "Annas Ställe B&B",
+      "latitude": 57.328295,
+      "longitude": 17.010644
+    },
+    {
+      "name": "Anna’s Bed & Kitchen",
+      "latitude": 57.061918,
+      "longitude": 12.312343
+    },
+    {
+      "name": "Annika på Dyrön",
+      "latitude": 57.929123,
+      "longitude": 11.612273
+    },
+    {
+      "name": "Anno 1799",
+      "latitude": 59.635894,
+      "longitude": 17.083561
+    },
+    {
+      "name": "Apotekarns Bed & Breakfast",
+      "latitude": 55.55644,
+      "longitude": 14.349039
+    },
+    {
+      "name": "Aprikosen B&B",
+      "latitude": 57.693252,
+      "longitude": 11.962372
+    },
+    {
+      "name": "Arphus",
+      "latitude": 59.375564,
+      "longitude": 16.833624
+    },
+    {
+      "name": "Aspans Kurs- och lägergård med vandrarhem",
+      "latitude": 56.163319,
+      "longitude": 15.314381
+    },
+    {
+      "name": "Astensmåla Mat & Vingård",
+      "latitude": 56.290297,
+      "longitude": 14.727128
+    },
+    {
+      "name": "At Home",
+      "latitude": 57.672118,
+      "longitude": 11.869928
+    },
+    {
+      "name": "Ateljé Lövås",
+      "latitude": 58.890711,
+      "longitude": 11.029093
+    },
+    {
+      "name": "Augustas Bed & Breakfast",
+      "latitude": 60.885165,
+      "longitude": 15.123639
+    },
+    {
+      "name": "Aurora Bed & Breakfast",
+      "latitude": 55.55322,
+      "longitude": 14.341834
+    },
+    {
+      "name": "B & B",
+      "latitude": 59.590103,
+      "longitude": 15.229007
+    },
+    {
+      "name": "B&B Edane",
+      "latitude": 59.629199,
+      "longitude": 12.816506
+    },
+    {
+      "name": "B&B Gränden",
+      "latitude": 64.752743,
+      "longitude": 20.949779
+    },
+    {
+      "name": "B&B Hannasa Gard",
+      "latitude": 55.491208,
+      "longitude": 14.11167
+    },
+    {
+      "name": "B&B Parksäter",
+      "latitude": 57.315121,
+      "longitude": 13.143945
+    },
+    {
+      "name": "B&B Villa Orion",
+      "latitude": 56.055327,
+      "longitude": 14.58854
+    },
+    {
+      "name": "B&B Vinkille",
+      "latitude": 55.395302,
+      "longitude": 14.051786
+    },
+    {
+      "name": "B&B Åvägen",
+      "latitude": 55.913632,
+      "longitude": 14.282904
+    },
+    {
+      "name": "Baggå Skola",
+      "latitude": 59.896143,
+      "longitude": 15.574193
+    },
+    {
+      "name": "Bed & Breakfast",
+      "latitude": 62.63087,
+      "longitude": 17.940097
+    },
+    {
+      "name": "Bed & Breakfast",
+      "latitude": 67.142145,
+      "longitude": 20.656506
+    },
+    {
+      "name": "Berggården Inn",
+      "latitude": 62.049909,
+      "longitude": 17.247823
+    },
+    {
+      "name": "Bergstugan",
+      "latitude": 59.318515,
+      "longitude": 11.904912
+    },
+    {
+      "name": "Bikers Bead & Breakfast",
+      "latitude": 58.244418,
+      "longitude": 13.087288
+    },
+    {
+      "name": "Bikers Rest Schweden",
+      "latitude": 56.389357,
+      "longitude": 15.101698
+    },
+    {
+      "name": "Birgittas B&B",
+      "latitude": 56.174671,
+      "longitude": 15.580479
+    },
+    {
+      "name": "Birgittas B&B",
+      "latitude": 56.174053,
+      "longitude": 15.580379
+    },
+    {
+      "name": "Bjurmangården Recycled Glass Design",
+      "latitude": 55.599666,
+      "longitude": 13.691127
+    },
+    {
+      "name": "Bjälbo Guest house",
+      "latitude": 58.373442,
+      "longitude": 15.004962
+    },
+    {
+      "name": "Björkdala gård",
+      "latitude": 59.739592,
+      "longitude": 17.501219
+    },
+    {
+      "name": "Björkhaga strandby",
+      "latitude": 57.404906,
+      "longitude": 18.171613
+    },
+    {
+      "name": "Björnbyn",
+      "latitude": 60.016025,
+      "longitude": 13.598909
+    },
+    {
+      "name": "Blentarps Gästgifveri",
+      "latitude": 55.583323,
+      "longitude": 13.603046
+    },
+    {
+      "name": "Blå Huset B&B",
+      "latitude": 57.677017,
+      "longitude": 11.892879
+    },
+    {
+      "name": "Bo på Spjutsbygds Gård B & B",
+      "latitude": 56.310207,
+      "longitude": 15.600108
+    },
+    {
+      "name": "Bokeslätts B&B och Stugor",
+      "latitude": 56.060952,
+      "longitude": 14.5669
+    },
+    {
+      "name": "Borrgården",
+      "latitude": 61.829976,
+      "longitude": 16.038119
+    },
+    {
+      "name": "Boråkra B&B",
+      "latitude": 56.223109,
+      "longitude": 15.579652
+    },
+    {
+      "name": "Branteviks Viste Rum",
+      "latitude": 55.517469,
+      "longitude": 14.343203
+    },
+    {
+      "name": "Bremerska huset",
+      "latitude": 57.944683,
+      "longitude": 11.543489
+    },
+    {
+      "name": "Broholm Bed & Breakfast",
+      "latitude": 58.494928,
+      "longitude": 13.148798
+    },
+    {
+      "name": "Brohuspark Bed & Breakfast",
+      "latitude": 55.67895,
+      "longitude": 13.069099
+    },
+    {
+      "name": "Bruksgården Bed & Breakfast",
+      "latitude": 58.690609,
+      "longitude": 14.352995
+    },
+    {
+      "name": "Brunius bed & breakfast",
+      "latitude": 55.702463,
+      "longitude": 13.197268
+    },
+    {
+      "name": "Buda Gård",
+      "latitude": 59.260836,
+      "longitude": 13.091304
+    },
+    {
+      "name": "Byske Gästgivargård",
+      "latitude": 64.951946,
+      "longitude": 21.19691
+    },
+    {
+      "name": "Byskolans Vandrarhem",
+      "latitude": 56.081081,
+      "longitude": 13.700713
+    },
+    {
+      "name": "Byxelkroks Gästhem",
+      "latitude": 57.326675,
+      "longitude": 17.009872
+    },
+    {
+      "name": "Bädda Bra, Bed & Breakfast",
+      "latitude": 63.833697,
+      "longitude": 20.213018
+    },
+    {
+      "name": "Café Mandeltårtan B&B /Villa Flora Viola",
+      "latitude": 56.196007,
+      "longitude": 15.287976
+    },
+    {
+      "name": "Café Sergel",
+      "latitude": 57.219923,
+      "longitude": 15.144499
+    },
+    {
+      "name": "Café Ängeln",
+      "latitude": 57.317163,
+      "longitude": 15.584414
+    },
+    {
+      "name": "Camp Danevall",
+      "latitude": 63.454855,
+      "longitude": 14.484334
+    },
+    {
+      "name": "Carlberg",
+      "latitude": 59.634413,
+      "longitude": 18.629663
+    },
+    {
+      "name": "Carlstens Soldathotell",
+      "latitude": 57.885791,
+      "longitude": 11.579028
+    },
+    {
+      "name": "Chrisiw Bed & Breakfast",
+      "latitude": 59.385893,
+      "longitude": 17.03398
+    },
+    {
+      "name": "Cosi house",
+      "latitude": 56.840575,
+      "longitude": 15.401104
+    },
+    {
+      "name": "Cronia Living Bed & Breakfast",
+      "latitude": 55.371136,
+      "longitude": 13.164913
+    },
+    {
+      "name": "Curomed rum & lägenheter",
+      "latitude": 63.913852,
+      "longitude": 20.203947
+    },
+    {
+      "name": "Dorisberg B&B",
+      "latitude": 55.782649,
+      "longitude": 13.50364
+    },
+    {
+      "name": "Dungers",
+      "latitude": 65.183869,
+      "longitude": 18.739561
+    },
+    {
+      "name": "Ebbamåla Bruk B&B",
+      "latitude": 56.37084,
+      "longitude": 14.681168
+    },
+    {
+      "name": "Ekeliden Bed & Breakfast",
+      "latitude": 57.678505,
+      "longitude": 13.40996
+    },
+    {
+      "name": "Eriksbo 25",
+      "latitude": 64.142185,
+      "longitude": 20.095887
+    },
+    {
+      "name": "Erikson cottage",
+      "latitude": 57.52938,
+      "longitude": 13.64167
+    },
+    {
+      "name": "ET-Home",
+      "latitude": 57.505682,
+      "longitude": 12.128828
+    },
+    {
+      "name": "Eternellgården",
+      "latitude": 55.659894,
+      "longitude": 14.25272
+    },
+    {
+      "name": "Ev",
+      "latitude": 59.215395,
+      "longitude": 18.145384
+    },
+    {
+      "name": "Everts Sjöbod",
+      "latitude": 58.697333,
+      "longitude": 11.219513
+    },
+    {
+      "name": "Ewas Pensionat",
+      "latitude": 63.828098,
+      "longitude": 14.042291
+    },
+    {
+      "name": "Fader Höks krog",
+      "latitude": 59.307657,
+      "longitude": 17.960989
+    },
+    {
+      "name": "Falkamöllans gästhus",
+      "latitude": 56.262864,
+      "longitude": 12.591121
+    },
+    {
+      "name": "Fallängetorp",
+      "latitude": 60.01392,
+      "longitude": 16.237815
+    },
+    {
+      "name": "Fengers Husrum",
+      "latitude": 58.992935,
+      "longitude": 12.469465
+    },
+    {
+      "name": "Filipstad sportsby",
+      "latitude": 59.704878,
+      "longitude": 14.141201
+    },
+    {
+      "name": "Flattinge B&B",
+      "latitude": 56.974988,
+      "longitude": 14.041883
+    },
+    {
+      "name": "Floda Gård",
+      "latitude": 62.428045,
+      "longitude": 13.825867
+    },
+    {
+      "name": "Flämslätt Stifts- och Kursgård",
+      "latitude": 58.460472,
+      "longitude": 13.68202
+    },
+    {
+      "name": "Fontänens Bed & Breakfast",
+      "latitude": 55.455981,
+      "longitude": 13.216083
+    },
+    {
+      "name": "Fregatten Bed & Breakfast",
+      "latitude": 56.16318,
+      "longitude": 15.573636
+    },
+    {
+      "name": "Fridhem Forest Relax",
+      "latitude": 60.021821,
+      "longitude": 14.954161
+    },
+    {
+      "name": "Fågelsången",
+      "latitude": 59.617656,
+      "longitude": 17.718973
+    },
+    {
+      "name": "Fåröhus",
+      "latitude": 57.913531,
+      "longitude": 19.1268
+    },
+    {
+      "name": "Gaffelgården",
+      "latitude": 55.429127,
+      "longitude": 13.824284
+    },
+    {
+      "name": "Gamla Affären",
+      "latitude": 59.871124,
+      "longitude": 12.988043
+    },
+    {
+      "name": "Gamla Brukshandeln",
+      "latitude": 60.411026,
+      "longitude": 17.877628
+    },
+    {
+      "name": "Gamla Gästgiferiet (övergivet)",
+      "latitude": 55.758715,
+      "longitude": 13.016978
+    },
+    {
+      "name": "Gamla Televerket Bed & Breakfast",
+      "latitude": 56.879755,
+      "longitude": 16.655436
+    },
+    {
+      "name": "Gammbönninga bed & breakfast",
+      "latitude": 63.716127,
+      "longitude": 18.719105
+    },
+    {
+      "name": "GaviksTorpet",
+      "latitude": 62.889531,
+      "longitude": 18.212345
+    },
+    {
+      "name": "Glommersträsk värdshus",
+      "latitude": 65.261728,
+      "longitude": 19.625783
+    },
+    {
+      "name": "Gothenburg City B&B",
+      "latitude": 57.703407,
+      "longitude": 11.966236
+    },
+    {
+      "name": "Grimsnäs herrgård",
+      "latitude": 56.668798,
+      "longitude": 15.334928
+    },
+    {
+      "name": "Grycksbomässen",
+      "latitude": 60.688422,
+      "longitude": 15.485053
+    },
+    {
+      "name": "Gröna boden",
+      "latitude": 59.307415,
+      "longitude": 17.959799
+    },
+    {
+      "name": "Gröna Fruns Bed & Breakfast",
+      "latitude": 55.707792,
+      "longitude": 13.036553
+    },
+    {
+      "name": "Gröna Huset",
+      "latitude": 63.589928,
+      "longitude": 16.572091
+    },
+    {
+      "name": "Gröna Lena",
+      "latitude": 59.836452,
+      "longitude": 13.138339
+    },
+    {
+      "name": "Guesthouse (Arctic-Mountain-Team)",
+      "latitude": 65.683704,
+      "longitude": 20.993174
+    },
+    {
+      "name": "Gullkråkan Pensionat",
+      "latitude": 56.137876,
+      "longitude": 14.984721
+    },
+    {
+      "name": "Gunnar Svensson B&B",
+      "latitude": 56.186913,
+      "longitude": 15.109694
+    },
+    {
+      "name": "Gunnarsjö Natur: Rum och Frukost",
+      "latitude": 57.311568,
+      "longitude": 12.634445
+    },
+    {
+      "name": "Gustafs Bed & Breakfast",
+      "latitude": 60.402267,
+      "longitude": 15.59316
+    },
+    {
+      "name": "Gyllengården",
+      "latitude": 55.537353,
+      "longitude": 14.117829
+    },
+    {
+      "name": "Gärsnäs Komstad 1155",
+      "latitude": 55.561735,
+      "longitude": 14.16622
+    },
+    {
+      "name": "Gästgiveri",
+      "latitude": 61.798177,
+      "longitude": 15.832743
+    },
+    {
+      "name": "Gästhem Samariten",
+      "latitude": 59.85539,
+      "longitude": 17.6486
+    },
+    {
+      "name": "Gästhus Bjärdakken",
+      "latitude": 65.664819,
+      "longitude": 17.400099
+    },
+    {
+      "name": "Gästuga Lanesund",
+      "latitude": 58.338773,
+      "longitude": 11.726448
+    },
+    {
+      "name": "Gävle Bed & Breakfast",
+      "latitude": 60.678717,
+      "longitude": 17.130136
+    },
+    {
+      "name": "Göteshus",
+      "latitude": 55.690664,
+      "longitude": 13.758285
+    },
+    {
+      "name": "Haere Mai B&B",
+      "latitude": 58.240496,
+      "longitude": 11.614735
+    },
+    {
+      "name": "Hagbackens gård bed & breakfast",
+      "latitude": 59.209959,
+      "longitude": 15.11464
+    },
+    {
+      "name": "Hagenberg bygdegård",
+      "latitude": 59.041443,
+      "longitude": 12.627507
+    },
+    {
+      "name": "Hallagårdens B&B",
+      "latitude": 59.249856,
+      "longitude": 14.825598
+    },
+    {
+      "name": "Hallamölla Gård",
+      "latitude": 55.708333,
+      "longitude": 14.008494
+    },
+    {
+      "name": "Hallandsboda stuga / B&B",
+      "latitude": 56.309903,
+      "longitude": 14.7281
+    },
+    {
+      "name": "Halnagårdens gästhem",
+      "latitude": 58.656663,
+      "longitude": 14.239194
+    },
+    {
+      "name": "HalUdden natur & logi",
+      "latitude": 57.929316,
+      "longitude": 11.60169
+    },
+    {
+      "name": "Hamgården Nature Resort Tiveden",
+      "latitude": 58.796383,
+      "longitude": 14.534965
+    },
+    {
+      "name": "Heidis pensionat",
+      "latitude": 58.657724,
+      "longitude": 14.400022
+    },
+    {
+      "name": "Helens Bed and Breakfast",
+      "latitude": 59.280745,
+      "longitude": 18.054781
+    },
+    {
+      "name": "Henneviken bnb",
+      "latitude": 58.984075,
+      "longitude": 12.093849
+    },
+    {
+      "name": "Hilma Winblands",
+      "latitude": 58.405243,
+      "longitude": 15.589608
+    },
+    {
+      "name": "Himlastallet",
+      "latitude": 55.865789,
+      "longitude": 13.672011
+    },
+    {
+      "name": "Hjorten",
+      "latitude": 56.427522,
+      "longitude": 12.864499
+    },
+    {
+      "name": "hjärterud",
+      "latitude": 58.79307,
+      "longitude": 12.462581
+    },
+    {
+      "name": "Hobbit Stockholm",
+      "latitude": 59.305015,
+      "longitude": 18.175065
+    },
+    {
+      "name": "Hoby Gård Bed And Breakfast",
+      "latitude": 56.225452,
+      "longitude": 15.119721
+    },
+    {
+      "name": "Hoby Kulle Herrgård B&B",
+      "latitude": 56.218228,
+      "longitude": 15.115225
+    },
+    {
+      "name": "Hobykrok B&B",
+      "latitude": 55.72714,
+      "longitude": 13.268427
+    },
+    {
+      "name": "Hofra Bed & Breakfast",
+      "latitude": 61.839224,
+      "longitude": 16.582247
+    },
+    {
+      "name": "Holmen B&B",
+      "latitude": 65.540147,
+      "longitude": 17.519426
+    },
+    {
+      "name": "Horrmundsgården",
+      "latitude": 61.305962,
+      "longitude": 13.16187
+    },
+    {
+      "name": "Hotell Apladalen",
+      "latitude": 57.182711,
+      "longitude": 14.053336
+    },
+    {
+      "name": "Hotell Bode",
+      "latitude": 56.172095,
+      "longitude": 14.859989
+    },
+    {
+      "name": "Hotell Bodens Bed & Breakfast",
+      "latitude": 65.819738,
+      "longitude": 21.667113
+    },
+    {
+      "name": "Hotell Dalhem",
+      "latitude": 57.533521,
+      "longitude": 18.50557
+    },
+    {
+      "name": "Huli Morgonsol",
+      "latitude": 62.431441,
+      "longitude": 17.254617
+    },
+    {
+      "name": "Hunseröd's Bed & Breakfast",
+      "latitude": 56.069836,
+      "longitude": 13.402806
+    },
+    {
+      "name": "Hus Balans",
+      "latitude": 60.283817,
+      "longitude": 16.871645
+    },
+    {
+      "name": "Hus med 4 bäddar i Siretorp",
+      "latitude": 56.033269,
+      "longitude": 14.615553
+    },
+    {
+      "name": "Husargården B&B",
+      "latitude": 55.65923,
+      "longitude": 13.703067
+    },
+    {
+      "name": "Hyttsnåret",
+      "latitude": 59.8054,
+      "longitude": 15.177986
+    },
+    {
+      "name": "Häller Klättercamping",
+      "latitude": 58.427639,
+      "longitude": 11.463477
+    },
+    {
+      "name": "Hämmens Gård",
+      "latitude": 58.867303,
+      "longitude": 11.364005
+    },
+    {
+      "name": "Hårsbäcks Bed & Breakfast",
+      "latitude": 59.884289,
+      "longitude": 16.909654
+    },
+    {
+      "name": "Idingstad säteri",
+      "latitude": 58.483219,
+      "longitude": 15.716826
+    },
+    {
+      "name": "Innergårdens Bed & Breakfast",
+      "latitude": 56.174424,
+      "longitude": 14.862736
+    },
+    {
+      "name": "Järnvägshotell",
+      "latitude": 59.883764,
+      "longitude": 12.298737
+    },
+    {
+      "name": "Jen's B&B",
+      "latitude": 56.078388,
+      "longitude": 13.302461
+    },
+    {
+      "name": "Jerle Gård B&B",
+      "latitude": 59.518587,
+      "longitude": 15.148574
+    },
+    {
+      "name": "Johannas Guest House",
+      "latitude": 58.479946,
+      "longitude": 16.326623
+    },
+    {
+      "name": "John's Art Residency",
+      "latitude": 56.7823,
+      "longitude": 16.701518
+    },
+    {
+      "name": "Johnssons Villa",
+      "latitude": 57.060803,
+      "longitude": 12.312563
+    },
+    {
+      "name": "JonErs gården",
+      "latitude": 63.576295,
+      "longitude": 19.050379
+    },
+    {
+      "name": "Jormliens Fjällgård",
+      "latitude": 64.728574,
+      "longitude": 13.972917
+    },
+    {
+      "name": "Junsele Bed & Breakfast",
+      "latitude": 63.695951,
+      "longitude": 16.877075
+    },
+    {
+      "name": "Jädraås Herrgård",
+      "latitude": 60.842519,
+      "longitude": 16.465151
+    },
+    {
+      "name": "Järnvägshotellet",
+      "latitude": 55.631171,
+      "longitude": 13.701292
+    },
+    {
+      "name": "Kajutan",
+      "latitude": 58.836041,
+      "longitude": 13.980318
+    },
+    {
+      "name": "Kalvefalls",
+      "latitude": 57.874761,
+      "longitude": 15.306332
+    },
+    {
+      "name": "Kaptensgården Bed & Breakfast",
+      "latitude": 56.307154,
+      "longitude": 13.367411
+    },
+    {
+      "name": "Kastanjebacken",
+      "latitude": 57.719912,
+      "longitude": 12.024189
+    },
+    {
+      "name": "Killeboda Gård B&B",
+      "latitude": 56.212156,
+      "longitude": 14.276586
+    },
+    {
+      "name": "Kirl XXLs Källare Bed & Breakfast",
+      "latitude": 59.392189,
+      "longitude": 12.134557
+    },
+    {
+      "name": "Klein Battum Bed & Breakfast",
+      "latitude": 58.7324,
+      "longitude": 11.326825
+    },
+    {
+      "name": "Klimpfjällsgården",
+      "latitude": 65.060203,
+      "longitude": 14.799025
+    },
+    {
+      "name": "Klosters Herrgård",
+      "latitude": 60.372191,
+      "longitude": 16.15976
+    },
+    {
+      "name": "Knappgården",
+      "latitude": 61.731776,
+      "longitude": 12.984887
+    },
+    {
+      "name": "Koi Garden",
+      "latitude": 64.887435,
+      "longitude": 21.038851
+    },
+    {
+      "name": "Kopparstugans B&B",
+      "latitude": 60.602227,
+      "longitude": 15.626205
+    },
+    {
+      "name": "Kristianopel Gästgifveri",
+      "latitude": 56.259138,
+      "longitude": 16.041019
+    },
+    {
+      "name": "Kroppkärrs Bed & Breakfast",
+      "latitude": 59.398548,
+      "longitude": 13.547616
+    },
+    {
+      "name": "Krutbrännaren",
+      "latitude": 57.735935,
+      "longitude": 18.612292
+    },
+    {
+      "name": "Kullagården",
+      "latitude": 57.614642,
+      "longitude": 15.581472
+    },
+    {
+      "name": "Kulturum Bed & Breakfast på Kinnekulle",
+      "latitude": 58.5999,
+      "longitude": 13.365662
+    },
+    {
+      "name": "Kungs Starby gård Bed & Breakfast",
+      "latitude": 58.440253,
+      "longitude": 14.877775
+    },
+    {
+      "name": "Kustgården",
+      "latitude": 55.397042,
+      "longitude": 13.599685
+    },
+    {
+      "name": "Kustparken B&B",
+      "latitude": 57.863662,
+      "longitude": 19.048228
+    },
+    {
+      "name": "Kuttainen Lodge",
+      "latitude": 68.381389,
+      "longitude": 22.810975
+    },
+    {
+      "name": "Kvarnstugan",
+      "latitude": 58.071136,
+      "longitude": 11.477476
+    },
+    {
+      "name": "Kynakulle",
+      "latitude": 60.505547,
+      "longitude": 15.58894
+    },
+    {
+      "name": "Källö-Knipplas vandrarhem",
+      "latitude": 57.750785,
+      "longitude": 11.653005
+    },
+    {
+      "name": "Kärsögården",
+      "latitude": 59.322927,
+      "longitude": 17.915923
+    },
+    {
+      "name": "La Maison Rouge de Slätten B&B",
+      "latitude": 56.365541,
+      "longitude": 14.479257
+    },
+    {
+      "name": "Lekanders Bär & Boende",
+      "latitude": 57.977176,
+      "longitude": 11.641892
+    },
+    {
+      "name": "Lenninge herrgård",
+      "latitude": 61.317155,
+      "longitude": 16.435914
+    },
+    {
+      "name": "Lilla Gården Bed & Breakfast",
+      "latitude": 56.029833,
+      "longitude": 14.728293
+    },
+    {
+      "name": "Lilla krogen",
+      "latitude": 59.3076,
+      "longitude": 17.960956
+    },
+    {
+      "name": "Lilla Råkeholm",
+      "latitude": 55.955555,
+      "longitude": 13.344049
+    },
+    {
+      "name": "Linda Gård",
+      "latitude": 55.894903,
+      "longitude": 14.243738
+    },
+    {
+      "name": "Lindsberg kursgård",
+      "latitude": 60.667754,
+      "longitude": 15.56835
+    },
+    {
+      "name": "Lodge 605",
+      "latitude": 62.431575,
+      "longitude": 17.672162
+    },
+    {
+      "name": "Lotstornet Aspö - Skärgårdshotell och stugor",
+      "latitude": 56.107685,
+      "longitude": 15.556535
+    },
+    {
+      "name": "Lugna Rum",
+      "latitude": 57.169629,
+      "longitude": 15.344021
+    },
+    {
+      "name": "Lund University Guest House",
+      "latitude": 55.709747,
+      "longitude": 13.215877
+    },
+    {
+      "name": "Lundby Gård",
+      "latitude": 59.690546,
+      "longitude": 17.911963
+    },
+    {
+      "name": "Lundsbrunns B&B",
+      "latitude": 58.474826,
+      "longitude": 13.449483
+    },
+    {
+      "name": "Lyckans vandringshem",
+      "latitude": 58.418197,
+      "longitude": 11.382571
+    },
+    {
+      "name": "Lyrsta R B& B",
+      "latitude": 58.803812,
+      "longitude": 14.061288
+    },
+    {
+      "name": "Lysekil",
+      "latitude": 58.273241,
+      "longitude": 11.430154
+    },
+    {
+      "name": "Läckö Strand Bed & Breakfast",
+      "latitude": 58.643456,
+      "longitude": 13.211493
+    },
+    {
+      "name": "Låsta Gårdshotell",
+      "latitude": 59.338679,
+      "longitude": 17.092131
+    },
+    {
+      "name": "Mallas Stenstugu",
+      "latitude": 57.597788,
+      "longitude": 18.447315
+    },
+    {
+      "name": "Malmö Stads villa",
+      "latitude": 56.386161,
+      "longitude": 14.031555
+    },
+    {
+      "name": "Martha & Anders",
+      "latitude": 58.746692,
+      "longitude": 14.506688
+    },
+    {
+      "name": "Mattsagården",
+      "latitude": 58.051398,
+      "longitude": 14.496544
+    },
+    {
+      "name": "Mauritzberg",
+      "latitude": 58.062433,
+      "longitude": 12.326627
+    },
+    {
+      "name": "Mellanbergsäng",
+      "latitude": 60.374793,
+      "longitude": 15.773777
+    },
+    {
+      "name": "Mellanbrons B&B",
+      "latitude": 59.052302,
+      "longitude": 12.704302
+    },
+    {
+      "name": "Mellangården i Äpplerum",
+      "latitude": 56.828404,
+      "longitude": 16.676452
+    },
+    {
+      "name": "Millas Vila",
+      "latitude": 55.706346,
+      "longitude": 13.181814
+    },
+    {
+      "name": "Mjällbyhus Pensionat och Stugby",
+      "latitude": 56.038304,
+      "longitude": 14.674758
+    },
+    {
+      "name": "Moraklockan",
+      "latitude": 60.994944,
+      "longitude": 14.656389
+    },
+    {
+      "name": "Mormors Bakeri",
+      "latitude": 56.230028,
+      "longitude": 14.867636
+    },
+    {
+      "name": "My Little Bed & Breakfast & Holiday Home",
+      "latitude": 57.007571,
+      "longitude": 15.571469
+    },
+    {
+      "name": "Myckelbyns Gästgiveri och Spa",
+      "latitude": 60.670431,
+      "longitude": 13.72219
+    },
+    {
+      "name": "Möllegårdens Bed and Breakfast",
+      "latitude": 56.158785,
+      "longitude": 13.588922
+    },
+    {
+      "name": "Nancys B&B",
+      "latitude": 59.362611,
+      "longitude": 14.006854
+    },
+    {
+      "name": "Nice Bed & Breakfast",
+      "latitude": 57.688204,
+      "longitude": 11.99109
+    },
+    {
+      "name": "Nordgrenska gården",
+      "latitude": 59.050051,
+      "longitude": 12.707817
+    },
+    {
+      "name": "Nordic Refuge",
+      "latitude": 58.976208,
+      "longitude": 12.466037
+    },
+    {
+      "name": "Norrgården B&B",
+      "latitude": 59.473734,
+      "longitude": 18.754621
+    },
+    {
+      "name": "Norrstens Gästboende Bed and Breakfast",
+      "latitude": 58.489892,
+      "longitude": 15.015342
+    },
+    {
+      "name": "Nya Pensionatet",
+      "latitude": 63.172133,
+      "longitude": 14.637919
+    },
+    {
+      "name": "Nygårds Herrgård",
+      "latitude": 57.084666,
+      "longitude": 16.514268
+    },
+    {
+      "name": "Nyhammars herrgård",
+      "latitude": 60.286171,
+      "longitude": 14.971033
+    },
+    {
+      "name": "Olstorp gård B&B",
+      "latitude": 58.108338,
+      "longitude": 14.824114
+    },
+    {
+      "name": "Ornö Hälsa & Rekreationscenter",
+      "latitude": 59.043999,
+      "longitude": 18.420252
+    },
+    {
+      "name": "Otsgården",
+      "latitude": 60.439786,
+      "longitude": 15.458833
+    },
+    {
+      "name": "Our House",
+      "latitude": 55.430588,
+      "longitude": 13.839726
+    },
+    {
+      "name": "Outdoor-Ticket",
+      "latitude": 65.596801,
+      "longitude": 17.499186
+    },
+    {
+      "name": "Part-Time Startseite Rotebro",
+      "latitude": 59.47385,
+      "longitude": 17.913444
+    },
+    {
+      "name": "Paviljongen",
+      "latitude": 57.814517,
+      "longitude": 14.082842
+    },
+    {
+      "name": "Pelle Åbergsgården",
+      "latitude": 62.905504,
+      "longitude": 18.349123
+    },
+    {
+      "name": "Pello Basecamp",
+      "latitude": 66.780619,
+      "longitude": 23.956206
+    },
+    {
+      "name": "Pension Persson",
+      "latitude": 56.875385,
+      "longitude": 16.661975
+    },
+    {
+      "name": "Pensionat Bergdalen",
+      "latitude": 58.884387,
+      "longitude": 11.04029
+    },
+    {
+      "name": "Pensionat Björkelund",
+      "latitude": 56.610056,
+      "longitude": 14.181194
+    },
+    {
+      "name": "Pensionat Björnen",
+      "latitude": 63.172333,
+      "longitude": 14.635988
+    },
+    {
+      "name": "Pensionat Fjellström",
+      "latitude": 66.052108,
+      "longitude": 17.891315
+    },
+    {
+      "name": "Pensionat Grankullavik",
+      "latitude": 57.334253,
+      "longitude": 17.097519
+    },
+    {
+      "name": "Pensionat Haga",
+      "latitude": 57.072466,
+      "longitude": 16.8785
+    },
+    {
+      "name": "Pensionat Holmhällar",
+      "latitude": 56.934703,
+      "longitude": 18.28813
+    },
+    {
+      "name": "Pensionat Hornsjön",
+      "latitude": 57.205413,
+      "longitude": 16.961607
+    },
+    {
+      "name": "Pensionat Kanalvillan",
+      "latitude": 59.973334,
+      "longitude": 18.811883
+    },
+    {
+      "name": "Pensionat Lungsund",
+      "latitude": 59.522634,
+      "longitude": 14.191552
+    },
+    {
+      "name": "Pensionat Olympia",
+      "latitude": 55.392351,
+      "longitude": 12.835069
+    },
+    {
+      "name": "Pensionat Prästgården",
+      "latitude": 56.533122,
+      "longitude": 15.593853
+    },
+    {
+      "name": "Pensionat Stensvik",
+      "latitude": 56.256977,
+      "longitude": 16.037789
+    },
+    {
+      "name": "Pensionat Svea",
+      "latitude": 63.174639,
+      "longitude": 14.635988
+    },
+    {
+      "name": "Pensionat Ullevi",
+      "latitude": 57.885116,
+      "longitude": 16.402004
+    },
+    {
+      "name": "Perrongen Guesthouse",
+      "latitude": 59.840643,
+      "longitude": 13.539035
+    },
+    {
+      "name": "Pilane Bed & Breakfast",
+      "latitude": 58.034544,
+      "longitude": 11.553482
+    },
+    {
+      "name": "Pizza House",
+      "latitude": 55.555875,
+      "longitude": 14.342654
+    },
+    {
+      "name": "Porten: Örebro Stadsmission",
+      "latitude": 59.279958,
+      "longitude": 15.217026
+    },
+    {
+      "name": "Påryds Lantcafé B&B",
+      "latitude": 56.568851,
+      "longitude": 15.92368
+    },
+    {
+      "name": "Radhus 1 och 2",
+      "latitude": 58.99048,
+      "longitude": 11.166207
+    },
+    {
+      "name": "Raggsocka Logi",
+      "latitude": 60.884989,
+      "longitude": 16.708571
+    },
+    {
+      "name": "Rallarhustruns Hotell & Bistro",
+      "latitude": 56.076885,
+      "longitude": 13.735371
+    },
+    {
+      "name": "Ranebo Bed & Breakfast",
+      "latitude": 57.975933,
+      "longitude": 11.950384
+    },
+    {
+      "name": "Regnbågsdalens Café & Guesthouse",
+      "latitude": 57.637488,
+      "longitude": 15.412629
+    },
+    {
+      "name": "Rex Rumshuthyrning",
+      "latitude": 58.547563,
+      "longitude": 15.058902
+    },
+    {
+      "name": "Rike Per Guesthouse",
+      "latitude": 61.974896,
+      "longitude": 17.055261
+    },
+    {
+      "name": "Ringamålagården B&B",
+      "latitude": 56.328762,
+      "longitude": 14.874585
+    },
+    {
+      "name": "Rockneby Bed & Breakfast",
+      "latitude": 56.795943,
+      "longitude": 16.360142
+    },
+    {
+      "name": "Rosenberg gård",
+      "latitude": 59.817707,
+      "longitude": 16.780755
+    },
+    {
+      "name": "Rosenhill Bed & Breakfast",
+      "latitude": 58.693747,
+      "longitude": 11.250412
+    },
+    {
+      "name": "Rosentorps Bageri och Touristcamp",
+      "latitude": 61.388523,
+      "longitude": 14.921157
+    },
+    {
+      "name": "Route 26",
+      "latitude": 60.252126,
+      "longitude": 14.174236
+    },
+    {
+      "name": "Rovor och Rum",
+      "latitude": 57.999052,
+      "longitude": 11.552497
+    },
+    {
+      "name": "Rum mitt i stan !",
+      "latitude": 58.690158,
+      "longitude": 11.256441
+    },
+    {
+      "name": "Ryssagården",
+      "latitude": 60.914655,
+      "longitude": 14.499013
+    },
+    {
+      "name": "Rättargården",
+      "latitude": 63.378448,
+      "longitude": 18.457439
+    },
+    {
+      "name": "Röda Stallet Bed and Breakfast",
+      "latitude": 58.283597,
+      "longitude": 14.280074
+    },
+    {
+      "name": "Rösseliden 28",
+      "latitude": 57.92579,
+      "longitude": 11.614003
+    },
+    {
+      "name": "Rösselviks Gård",
+      "latitude": 57.966815,
+      "longitude": 11.663672
+    },
+    {
+      "name": "Salsåker Herrgård",
+      "latitude": 62.996106,
+      "longitude": 18.280157
+    },
+    {
+      "name": "Samuelsdals Pensionat",
+      "latitude": 60.582794,
+      "longitude": 15.615123
+    },
+    {
+      "name": "Sandsnäckan Bed and Breakfast",
+      "latitude": 55.939197,
+      "longitude": 14.305393
+    },
+    {
+      "name": "Sanna & Dannes Bed & Breakfast",
+      "latitude": 59.18832,
+      "longitude": 17.65888
+    },
+    {
+      "name": "Saxvikens vandrarhem",
+      "latitude": 60.999811,
+      "longitude": 14.539177
+    },
+    {
+      "name": "Schweden-Ferien",
+      "latitude": 63.069793,
+      "longitude": 16.979112
+    },
+    {
+      "name": "Segerstad Fyr",
+      "latitude": 56.368604,
+      "longitude": 16.566735
+    },
+    {
+      "name": "Silke’s Nature Farm",
+      "latitude": 62.816817,
+      "longitude": 14.446608
+    },
+    {
+      "name": "Sjugare B&B",
+      "latitude": 60.803356,
+      "longitude": 15.063359
+    },
+    {
+      "name": "Sjöanas 3",
+      "latitude": 57.11129,
+      "longitude": 14.802613
+    },
+    {
+      "name": "Sjöbacka Gård B&B",
+      "latitude": 55.480669,
+      "longitude": 14.279473
+    },
+    {
+      "name": "Sjöbacken Gård",
+      "latitude": 58.452345,
+      "longitude": 13.701777
+    },
+    {
+      "name": "Sjögården Bed & Breakfast",
+      "latitude": 62.623466,
+      "longitude": 17.922365
+    },
+    {
+      "name": "Sjögården Vadstena",
+      "latitude": 58.44732,
+      "longitude": 14.887132
+    },
+    {
+      "name": "Sjöhaga pensionat",
+      "latitude": 57.929084,
+      "longitude": 13.958101
+    },
+    {
+      "name": "Sjöviksgården",
+      "latitude": 56.513037,
+      "longitude": 15.154575
+    },
+    {
+      "name": "Skogis Bed & Breakfast",
+      "latitude": 58.969031,
+      "longitude": 16.361196
+    },
+    {
+      "name": "Skräddarns B&B",
+      "latitude": 61.594694,
+      "longitude": 12.498097
+    },
+    {
+      "name": "Skuleskogens Pensionat",
+      "latitude": 63.088869,
+      "longitude": 18.434553
+    },
+    {
+      "name": "Skuleskogens Pensionat",
+      "latitude": 63.086887,
+      "longitude": 18.433158
+    },
+    {
+      "name": "SkyVillage Sweden SkyArk tours",
+      "latitude": 67.928781,
+      "longitude": 20.345369
+    },
+    {
+      "name": "Skärva Herrgård B&B",
+      "latitude": 56.20144,
+      "longitude": 15.572847
+    },
+    {
+      "name": "Sköna Rum Fryksta",
+      "latitude": 59.527281,
+      "longitude": 13.331157
+    },
+    {
+      "name": "Slow Train Bed & Breakfast",
+      "latitude": 57.934787,
+      "longitude": 19.165203
+    },
+    {
+      "name": "Slussens Pensionat",
+      "latitude": 58.261749,
+      "longitude": 11.761182
+    },
+    {
+      "name": "Slussvaktarbostaden i Håverud",
+      "latitude": 58.821765,
+      "longitude": 12.412037
+    },
+    {
+      "name": "Slätterne Gård B&B",
+      "latitude": 60.655495,
+      "longitude": 16.78469
+    },
+    {
+      "name": "Smedbyn",
+      "latitude": 57.785168,
+      "longitude": 14.282727
+    },
+    {
+      "name": "Smedjan kafé & logi",
+      "latitude": 55.526458,
+      "longitude": 14.09815
+    },
+    {
+      "name": "Smedtorps B&B",
+      "latitude": 57.182956,
+      "longitude": 14.034433
+    },
+    {
+      "name": "Smiley Inn",
+      "latitude": 55.703001,
+      "longitude": 13.197828
+    },
+    {
+      "name": "Snöå Bruk",
+      "latitude": 60.537423,
+      "longitude": 14.448036
+    },
+    {
+      "name": "Solberga Gård",
+      "latitude": 56.867911,
+      "longitude": 16.727407
+    },
+    {
+      "name": "Solbuska Bed and Breakfast",
+      "latitude": 58.840046,
+      "longitude": 17.255731
+    },
+    {
+      "name": "Solgården",
+      "latitude": 56.173016,
+      "longitude": 12.561345
+    },
+    {
+      "name": "Solgården",
+      "latitude": 60.102532,
+      "longitude": 18.808556
+    },
+    {
+      "name": "Sollidens kurs- och konferensgård",
+      "latitude": 59.385128,
+      "longitude": 15.202569
+    },
+    {
+      "name": "Solvikens pensionat",
+      "latitude": 56.746791,
+      "longitude": 14.921894
+    },
+    {
+      "name": "Sov Gott B&B",
+      "latitude": 57.616541,
+      "longitude": 15.570859
+    },
+    {
+      "name": "Stationshuset",
+      "latitude": 66.965862,
+      "longitude": 19.829885
+    },
+    {
+      "name": "STF - Kittelfjäll Värdhus - Vandrarhem",
+      "latitude": 65.250692,
+      "longitude": 15.497643
+    },
+    {
+      "name": "Stockholm Best Residence",
+      "latitude": 59.276248,
+      "longitude": 18.005599
+    },
+    {
+      "name": "Stockrosen B&B",
+      "latitude": 56.194787,
+      "longitude": 15.033341
+    },
+    {
+      "name": "Stop at the cross",
+      "latitude": 57.724612,
+      "longitude": 13.099662
+    },
+    {
+      "name": "Storgatans pensionat",
+      "latitude": 60.882012,
+      "longitude": 15.120094
+    },
+    {
+      "name": "Storgården",
+      "latitude": 60.338851,
+      "longitude": 15.711709
+    },
+    {
+      "name": "Strandgården",
+      "latitude": 59.382099,
+      "longitude": 13.479977
+    },
+    {
+      "name": "Strandgårdens Wärdshus",
+      "latitude": 59.34002,
+      "longitude": 14.082751
+    },
+    {
+      "name": "Strandås B&B",
+      "latitude": 60.668132,
+      "longitude": 12.963472
+    },
+    {
+      "name": "Stugebo",
+      "latitude": 56.767592,
+      "longitude": 12.631338
+    },
+    {
+      "name": "Stugor B&B",
+      "latitude": 57.413476,
+      "longitude": 15.318687
+    },
+    {
+      "name": "Styrsö B&B",
+      "latitude": 57.606531,
+      "longitude": 11.789323
+    },
+    {
+      "name": "Stålemara Gård Bed & Box",
+      "latitude": 56.230537,
+      "longitude": 16.015091
+    },
+    {
+      "name": "Sunds Bed & Breakfast",
+      "latitude": 59.125022,
+      "longitude": 12.933558
+    },
+    {
+      "name": "Sunne hembydgsgård B&B",
+      "latitude": 59.846545,
+      "longitude": 13.136275
+    },
+    {
+      "name": "Svanshals församlingshem",
+      "latitude": 58.324934,
+      "longitude": 14.805081
+    },
+    {
+      "name": "Sven Fredrikssons Bed & breakfast",
+      "latitude": 59.761098,
+      "longitude": 18.701367
+    },
+    {
+      "name": "Sycklinge Rum och Frukost",
+      "latitude": 59.568289,
+      "longitude": 17.113481
+    },
+    {
+      "name": "Systrar & Bönor",
+      "latitude": 55.374142,
+      "longitude": 13.156902
+    },
+    {
+      "name": "Sätra Hotel",
+      "latitude": 59.285455,
+      "longitude": 17.920186
+    },
+    {
+      "name": "Söderhult",
+      "latitude": 57.758633,
+      "longitude": 15.73231
+    },
+    {
+      "name": "Sörby säteri",
+      "latitude": 59.196304,
+      "longitude": 15.390607
+    },
+    {
+      "name": "Sörbygården",
+      "latitude": 63.096755,
+      "longitude": 14.791397
+    },
+    {
+      "name": "Tavlebords Honungsgård",
+      "latitude": 58.148228,
+      "longitude": 11.578378
+    },
+    {
+      "name": "The Dutch Dream Catcher",
+      "latitude": 56.692578,
+      "longitude": 15.541326
+    },
+    {
+      "name": "The Friendly Moose",
+      "latitude": 66.392569,
+      "longitude": 23.659334
+    },
+    {
+      "name": "The Green House",
+      "latitude": 59.854438,
+      "longitude": 13.707629
+    },
+    {
+      "name": "The Green House Guesthouse",
+      "latitude": 59.854455,
+      "longitude": 13.707596
+    },
+    {
+      "name": "The Lodge Torsby",
+      "latitude": 60.286733,
+      "longitude": 13.047594
+    },
+    {
+      "name": "Toftahult Bed & Breakfast - Stugförmedling",
+      "latitude": 56.529175,
+      "longitude": 14.667062
+    },
+    {
+      "name": "Torpet Mon",
+      "latitude": 57.700475,
+      "longitude": 12.035743
+    },
+    {
+      "name": "Torpshammars herrgård",
+      "latitude": 62.471651,
+      "longitude": 16.331578
+    },
+    {
+      "name": "Trollebergs bed & breakfast",
+      "latitude": 55.581067,
+      "longitude": 13.494305
+    },
+    {
+      "name": "Trollebo Gård",
+      "latitude": 57.3123,
+      "longitude": 15.289759
+    },
+    {
+      "name": "Trollebo-Björshus",
+      "latitude": 55.762279,
+      "longitude": 14.108607
+    },
+    {
+      "name": "Trollforsens gästgiveri",
+      "latitude": 65.313046,
+      "longitude": 17.963982
+    },
+    {
+      "name": "Trollmarker spa",
+      "latitude": 57.781179,
+      "longitude": 15.305934
+    },
+    {
+      "name": "Trollskogens gästhus/vandrarhem",
+      "latitude": 55.6808,
+      "longitude": 13.404373
+    },
+    {
+      "name": "Trolmens Bed & Breakfast",
+      "latitude": 58.590099,
+      "longitude": 13.360748
+    },
+    {
+      "name": "Tryde1304",
+      "latitude": 55.565571,
+      "longitude": 13.919785
+    },
+    {
+      "name": "Tullingsåsgården",
+      "latitude": 63.818409,
+      "longitude": 15.514838
+    },
+    {
+      "name": "Turistgården Haga",
+      "latitude": 59.973171,
+      "longitude": 18.801315
+    },
+    {
+      "name": "Turistlogi Stationen",
+      "latitude": 55.427004,
+      "longitude": 13.82434
+    },
+    {
+      "name": "Tyforsgården",
+      "latitude": 60.154735,
+      "longitude": 14.210012
+    },
+    {
+      "name": "Tynderö Gård",
+      "latitude": 62.450551,
+      "longitude": 17.648755
+    },
+    {
+      "name": "Tyras Pensionat",
+      "latitude": 56.802071,
+      "longitude": 16.739732
+    },
+    {
+      "name": "Ubbalt Gårdshotell",
+      "latitude": 56.34423,
+      "longitude": 13.697669
+    },
+    {
+      "name": "Ulvön Vandrarhem & Stugor",
+      "latitude": 58.216305,
+      "longitude": 11.886118
+    },
+    {
+      "name": "Valdersrud Stenröset",
+      "latitude": 58.959153,
+      "longitude": 13.173645
+    },
+    {
+      "name": "Vallby Gård",
+      "latitude": 56.186463,
+      "longitude": 15.795055
+    },
+    {
+      "name": "Vallåsens värdshus",
+      "latitude": 56.403263,
+      "longitude": 13.116113
+    },
+    {
+      "name": "Vandrarhem Kalv",
+      "latitude": 57.246086,
+      "longitude": 13.060834
+    },
+    {
+      "name": "Vargheden Bed & Breakfast",
+      "latitude": 60.688293,
+      "longitude": 13.681361
+    },
+    {
+      "name": "Vaxholm Bed&Breakfast",
+      "latitude": 59.402263,
+      "longitude": 18.342718
+    },
+    {
+      "name": "Vikarbyns Bed & Breakfast",
+      "latitude": 60.909164,
+      "longitude": 15.014786
+    },
+    {
+      "name": "Villa Akvarellen",
+      "latitude": 58.49165,
+      "longitude": 11.341842
+    },
+    {
+      "name": "Villa Billerud B&B",
+      "latitude": 59.144523,
+      "longitude": 12.916435
+    },
+    {
+      "name": "Villa Dagmar",
+      "latitude": 59.661186,
+      "longitude": 18.914048
+    },
+    {
+      "name": "Villa Dalbo",
+      "latitude": 63.022984,
+      "longitude": 18.651453
+    },
+    {
+      "name": "Villa Flora Viola",
+      "latitude": 56.19828,
+      "longitude": 15.288975
+    },
+    {
+      "name": "Villa Granvik",
+      "latitude": 60.386043,
+      "longitude": 17.242631
+    },
+    {
+      "name": "Villa Klockarbo",
+      "latitude": 60.824823,
+      "longitude": 14.992264
+    },
+    {
+      "name": "Villa Kornsjø",
+      "latitude": 58.942228,
+      "longitude": 11.659234
+    },
+    {
+      "name": "Villa Liljenborg",
+      "latitude": 56.242252,
+      "longitude": 14.527486
+    },
+    {
+      "name": "Villa Manhem",
+      "latitude": 57.239898,
+      "longitude": 12.864546
+    },
+    {
+      "name": "Villa Orrbacken",
+      "latitude": 63.057574,
+      "longitude": 18.343276
+    },
+    {
+      "name": "Villa Sharevik",
+      "latitude": 56.041753,
+      "longitude": 14.771181
+    },
+    {
+      "name": "Villa Vegby",
+      "latitude": 57.694937,
+      "longitude": 13.383715
+    },
+    {
+      "name": "Villa Vik",
+      "latitude": 58.39444,
+      "longitude": 14.794453
+    },
+    {
+      "name": "Villa Vilan B&B",
+      "latitude": 57.363326,
+      "longitude": 14.040165
+    },
+    {
+      "name": "Villa Örnäs Bed & Breakfast",
+      "latitude": 59.048112,
+      "longitude": 12.715747
+    },
+    {
+      "name": "Vindhammar",
+      "latitude": 59.194164,
+      "longitude": 17.445582
+    },
+    {
+      "name": "VIP Room",
+      "latitude": 67.652152,
+      "longitude": 21.044405
+    },
+    {
+      "name": "Vita Huset B&B SÖLVESBORG Aktiebolag",
+      "latitude": 56.053547,
+      "longitude": 14.57713
+    },
+    {
+      "name": "Vita Krala",
+      "latitude": 58.914899,
+      "longitude": 15.374544
+    },
+    {
+      "name": "Vragerup Bed and Breakfast",
+      "latitude": 55.684061,
+      "longitude": 13.116696
+    },
+    {
+      "name": "Vreten",
+      "latitude": 59.603788,
+      "longitude": 15.013998
+    },
+    {
+      "name": "Väderöarnas värdshus",
+      "latitude": 58.576807,
+      "longitude": 11.067059
+    },
+    {
+      "name": "Värdshus Bäverholmen",
+      "latitude": 66.285724,
+      "longitude": 16.554298
+    },
+    {
+      "name": "Värdshuset Klardalälven",
+      "latitude": 60.733366,
+      "longitude": 12.868281
+    },
+    {
+      "name": "Vävboden Bed & Breakfast",
+      "latitude": 56.214649,
+      "longitude": 14.515309
+    },
+    {
+      "name": "Vårsta hotell & vandrarhem",
+      "latitude": 62.623351,
+      "longitude": 17.919406
+    },
+    {
+      "name": "Werstorp B&B",
+      "latitude": 56.202196,
+      "longitude": 15.562117
+    },
+    {
+      "name": "White Trail Adventures",
+      "latitude": 67.845951,
+      "longitude": 20.485747
+    },
+    {
+      "name": "Wild Nordic",
+      "latitude": 60.762598,
+      "longitude": 16.479214
+    },
+    {
+      "name": "Wirketorp Bed and Breakfast",
+      "latitude": 55.818208,
+      "longitude": 13.17474
+    },
+    {
+      "name": "Wiroth B&B",
+      "latitude": 55.500358,
+      "longitude": 14.104745
+    },
+    {
+      "name": "Woodstock B&B",
+      "latitude": 59.633656,
+      "longitude": 17.478884
+    },
+    {
+      "name": "WOW Apartments",
+      "latitude": 57.694429,
+      "longitude": 11.962985
+    },
+    {
+      "name": "Wäckerlins Bed & Breakfast",
+      "latitude": 65.310776,
+      "longitude": 17.966261
+    },
+    {
+      "name": "Wärdshuset C. Dickens'",
+      "latitude": 60.009086,
+      "longitude": 15.787651
+    },
+    {
+      "name": "Wärdshuset Furuliden",
+      "latitude": 56.333927,
+      "longitude": 13.668336
+    },
+    {
+      "name": "Yngsjö Havsbad",
+      "latitude": 55.881744,
+      "longitude": 14.254506
+    },
+    {
+      "name": "Äggaboden B&B",
+      "latitude": 56.204923,
+      "longitude": 15.331775
+    },
+    {
+      "name": "Älgbergets Bed & Breakfast",
+      "latitude": 58.07764,
+      "longitude": 11.931316
+    },
+    {
+      "name": "Ängabackens B&B",
+      "latitude": 56.166539,
+      "longitude": 14.63216
+    },
+    {
+      "name": "Änggårde",
+      "latitude": 57.189778,
+      "longitude": 18.4864
+    },
+    {
+      "name": "Ängholma B&B och Stugor",
+      "latitude": 56.170107,
+      "longitude": 15.143475
+    },
+    {
+      "name": "Änghästhagens Bed & Breakfast",
+      "latitude": 58.237041,
+      "longitude": 16.538345
+    },
+    {
+      "name": "Ängshyddan",
+      "latitude": 55.890875,
+      "longitude": 14.242805
+    },
+    {
+      "name": "Äspögarden",
+      "latitude": 55.375241,
+      "longitude": 13.395233
+    },
+    {
+      "name": "Ånnebol B & B",
+      "latitude": 59.776672,
+      "longitude": 12.294256
+    },
+    {
+      "name": "Åre Bed & Breakfast",
+      "latitude": 63.397308,
+      "longitude": 13.091293
+    },
+    {
+      "name": "Åsgården",
+      "latitude": 60.088575,
+      "longitude": 16.542337
+    },
+    {
+      "name": "Åskarbygården",
+      "latitude": 60.348402,
+      "longitude": 17.524929
+    },
+    {
+      "name": "Ödevata FiskeCamp",
+      "latitude": 56.62262,
+      "longitude": 15.67035
+    },
+    {
+      "name": "Ölands Ro",
+      "latitude": 57.02311,
+      "longitude": 16.863522
+    },
+    {
+      "name": "Örtagården",
+      "latitude": 58.394567,
+      "longitude": 12.059178
+    },
+    {
+      "name": "Östa Gård",
+      "latitude": 59.370046,
+      "longitude": 17.207775
+    },
+    {
+      "name": "Östanbäcken Bed & Breakfast",
+      "latitude": 62.629764,
+      "longitude": 17.940676
+    },
+    {
+      "name": "Österlundstorpet",
+      "latitude": 64.264187,
+      "longitude": 20.479501
+    },
+    {
+      "name": "Övernattningsrum Soluret",
+      "latitude": 59.245274,
+      "longitude": 17.880807
+    },
+    {
+      "name": "Övernattningsrum Stora Stenen",
+      "latitude": 59.24684,
+      "longitude": 17.88214
+    },
+    {
+      "name": "Öyegården",
+      "latitude": 62.543522,
+      "longitude": 15.859098
+    }
+  ],
+  "meta": {
+    "title": "Gästgiverier (Guest houses) - Gratis nedladdning",
+    "description": "Gästgiverier i Sverige — OpenStreetMap-punktdata (OSM-tagg: tourism=guest_house). Swedish guest houses as named point locations with WGS84 coordinates. 452 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 452 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Gästgiverier (Guest houses) | ListBase",
+    "seo_description": "Ladda ner Gästgiverier (Guest houses) — 452 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 452 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

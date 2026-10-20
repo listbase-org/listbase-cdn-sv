@@ -1,0 +1,256 @@
+{
+  "id": "sv-tv-kanaler-klassiker",
+  "name": "Klassiska TV-kanaler (Classic TV channels)",
+  "title": "Klassiska TV-kanaler (Classic TV channels)",
+  "description": "Svenska TV-kanaler i kategorin \"classic\" (Classic) — 11 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "Becker.se",
+      "name": "Becker",
+      "alt_names": "CBS Becker",
+      "network": "Pluto TV",
+      "owners": "CBS Broadcasting Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "series, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/becker-se/details"
+    },
+    {
+      "id": 2,
+      "channel_id": "DiagnosisMurder.se",
+      "name": "Diagnosis Murder",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "series, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/diagnosis-murder-se/details"
+    },
+    {
+      "id": 3,
+      "channel_id": "HappyDays.se",
+      "name": "Happy Days",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "series, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/happy-days-se/details"
+    },
+    {
+      "id": 4,
+      "channel_id": "JAG.se",
+      "name": "JAG",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "series, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/jag-se/details"
+    },
+    {
+      "id": 5,
+      "channel_id": "MacGyver.se",
+      "name": "MacGyver",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "series, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/macgyver-se/details"
+    },
+    {
+      "id": 6,
+      "channel_id": "Matlock.se",
+      "name": "Matlock",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "series, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/matlock-se/details"
+    },
+    {
+      "id": 7,
+      "channel_id": "MissionImpossible.se",
+      "name": "Mission Impossible",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "series, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/mission-impossible-se/details"
+    },
+    {
+      "id": 8,
+      "channel_id": "PlutoTVDanskeklassikere.se",
+      "name": "Pluto TV Danske klassikere",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "movies, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-danske-klassikere-dk/details"
+    },
+    {
+      "id": 9,
+      "channel_id": "Rawhide.se",
+      "name": "Rawhide",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "series, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/rawhide-ptv3/details"
+    },
+    {
+      "id": 10,
+      "channel_id": "TheWildWildWest.se",
+      "name": "The Wild Wild West",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "series, classic",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/the-wild-wild-west-ptv2/details"
+    },
+    {
+      "id": 11,
+      "channel_id": "TV4Guld.se",
+      "name": "TV4 Guld",
+      "alt_names": "",
+      "network": "",
+      "owners": "TV4 Group",
+      "country": "SE",
+      "categories": "classic",
+      "is_nsfw": false,
+      "launched": "2006-11-03",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tv4.se/guld"
+    }
+  ],
+  "meta": {
+    "title": "Klassiska TV-kanaler (Classic TV channels) - Gratis nedladdning",
+    "description": "Svenska TV-kanaler i kategorin \"classic\" (Classic) — 11 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats. Innehåller 11 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Klassiska TV-kanaler (Classic TV channels) | ListBase",
+    "seo_description": "Ladda ner Klassiska TV-kanaler (Classic TV channels) — 11 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 11 poster / 13 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

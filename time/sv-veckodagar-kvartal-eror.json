@@ -1,0 +1,212 @@
+{
+  "id": "sv-veckodagar-kvartal-eror",
+  "name": "Veckodagar, kvartal, dagsperioder och eror – namn på svenska (CLDR)",
+  "title": "Veckodagar, kvartal, dagsperioder och eror – namn på svenska (CLDR)",
+  "description": "Namn på veckodagar, kvartal, dagsperioder och eror i den gregorianska kalendern på svenska från den svenska (sv) språkinställningen i CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "typ": "dag",
+      "code": "sun",
+      "namn": "söndag",
+      "forkortning": "sön"
+    },
+    {
+      "id": 2,
+      "typ": "dag",
+      "code": "mon",
+      "namn": "måndag",
+      "forkortning": "mån"
+    },
+    {
+      "id": 3,
+      "typ": "dag",
+      "code": "tue",
+      "namn": "tisdag",
+      "forkortning": "tis"
+    },
+    {
+      "id": 4,
+      "typ": "dag",
+      "code": "wed",
+      "namn": "onsdag",
+      "forkortning": "ons"
+    },
+    {
+      "id": 5,
+      "typ": "dag",
+      "code": "thu",
+      "namn": "torsdag",
+      "forkortning": "tors"
+    },
+    {
+      "id": 6,
+      "typ": "dag",
+      "code": "fri",
+      "namn": "fredag",
+      "forkortning": "fre"
+    },
+    {
+      "id": 7,
+      "typ": "dag",
+      "code": "sat",
+      "namn": "lördag",
+      "forkortning": "lör"
+    },
+    {
+      "id": 8,
+      "typ": "kvartal",
+      "code": "1",
+      "namn": "1:a kvartalet",
+      "forkortning": "K1"
+    },
+    {
+      "id": 9,
+      "typ": "kvartal",
+      "code": "2",
+      "namn": "2:a kvartalet",
+      "forkortning": "K2"
+    },
+    {
+      "id": 10,
+      "typ": "kvartal",
+      "code": "3",
+      "namn": "3:e kvartalet",
+      "forkortning": "K3"
+    },
+    {
+      "id": 11,
+      "typ": "kvartal",
+      "code": "4",
+      "namn": "4:e kvartalet",
+      "forkortning": "K4"
+    },
+    {
+      "id": 12,
+      "typ": "dagsperiod",
+      "code": "midnight",
+      "namn": "midnatt",
+      "forkortning": "midnatt"
+    },
+    {
+      "id": 13,
+      "typ": "dagsperiod",
+      "code": "am",
+      "namn": "fm",
+      "forkortning": "fm"
+    },
+    {
+      "id": 14,
+      "typ": "dagsperiod",
+      "code": "pm",
+      "namn": "em",
+      "forkortning": "em"
+    },
+    {
+      "id": 15,
+      "typ": "dagsperiod",
+      "code": "morning1",
+      "namn": "på morgonen",
+      "forkortning": "på morg."
+    },
+    {
+      "id": 16,
+      "typ": "dagsperiod",
+      "code": "morning2",
+      "namn": "på förmiddagen",
+      "forkortning": "på förm."
+    },
+    {
+      "id": 17,
+      "typ": "dagsperiod",
+      "code": "afternoon1",
+      "namn": "på eftermiddagen",
+      "forkortning": "på efterm."
+    },
+    {
+      "id": 18,
+      "typ": "dagsperiod",
+      "code": "evening1",
+      "namn": "på kvällen",
+      "forkortning": "på kvällen"
+    },
+    {
+      "id": 19,
+      "typ": "dagsperiod",
+      "code": "night1",
+      "namn": "på natten",
+      "forkortning": "på natten"
+    },
+    {
+      "id": 20,
+      "typ": "era",
+      "code": "0",
+      "namn": "före Kristus",
+      "forkortning": "f.Kr."
+    },
+    {
+      "id": 21,
+      "typ": "era",
+      "code": "0-alt-variant",
+      "namn": "före västerländsk tideräkning",
+      "forkortning": "f.v.t."
+    },
+    {
+      "id": 22,
+      "typ": "era",
+      "code": "1",
+      "namn": "efter Kristus",
+      "forkortning": "e.Kr."
+    },
+    {
+      "id": 23,
+      "typ": "era",
+      "code": "1-alt-variant",
+      "namn": "västerländsk tideräkning",
+      "forkortning": "v.t."
+    }
+  ],
+  "meta": {
+    "title": "Veckodagar, kvartal, dagsperioder och eror – namn på svenska (CLDR) - Gratis nedladdning",
+    "description": "Namn på veckodagar, kvartal, dagsperioder och eror i den gregorianska kalendern på svenska från den svenska (sv) språkinställningen i CLDR. Innehåller 23 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Veckodagar, kvartal, dagsperioder och eror – namn på svenska (CLDR) | ListBase",
+    "seo_description": "Ladda ner Veckodagar, kvartal, dagsperioder och eror – namn på svenska (CLDR) — 23 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 23 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

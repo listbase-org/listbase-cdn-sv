@@ -1,0 +1,502 @@
+{
+  "id": "sv-vastra-gotaland-kommuner",
+  "name": "Kommuner i Västra Götalands län",
+  "title": "Kommuner i Västra Götalands län",
+  "description": "49 kommuner i Västra Götalands län (länskod 14, ISO SE-O , residensstad Göteborg). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "1401",
+      "name": "Härryda kommun",
+      "name_short": "Härryda",
+      "slug": "harryda",
+      "locality": "MÖLNLYCKE",
+      "url": "http://www.harryda.se",
+      "num_postnummer": 940
+    },
+    {
+      "kommunkod": "1402",
+      "name": "Partille kommun",
+      "name_short": "Partille",
+      "slug": "partille",
+      "locality": "PARTILLE",
+      "url": "http://www.partille.se",
+      "num_postnummer": 102
+    },
+    {
+      "kommunkod": "1407",
+      "name": "Öckerö kommun",
+      "name_short": "Öckerö",
+      "slug": "ockero",
+      "locality": "ÖCKERÖ",
+      "url": "http://www.ockero.se",
+      "num_postnummer": 68
+    },
+    {
+      "kommunkod": "1415",
+      "name": "Stenungsunds kommun",
+      "name_short": "Stenungsund",
+      "slug": "stenungsund",
+      "locality": "STENUNGSUND",
+      "url": "http://www.stenungsund.se",
+      "num_postnummer": 105
+    },
+    {
+      "kommunkod": "1419",
+      "name": "Tjörns kommun",
+      "name_short": "Tjörn",
+      "slug": "tjorn",
+      "locality": "SKÄRHAMN",
+      "url": "http://www.tjorn.se",
+      "num_postnummer": 120
+    },
+    {
+      "kommunkod": "1421",
+      "name": "Orust kommun",
+      "name_short": "Orust",
+      "slug": "orust",
+      "locality": "HENÅN",
+      "url": "http://www.orust.se",
+      "num_postnummer": 143
+    },
+    {
+      "kommunkod": "1427",
+      "name": "Sotenäs kommun",
+      "name_short": "Sotenäs",
+      "slug": "sotenas",
+      "locality": "KUNGSHAMN",
+      "url": "http://www.sotenas.se",
+      "num_postnummer": 77
+    },
+    {
+      "kommunkod": "1430",
+      "name": "Munkedals kommun",
+      "name_short": "Munkedal",
+      "slug": "munkedal",
+      "locality": "MUNKEDAL",
+      "url": "http://www.munkedal.se",
+      "num_postnummer": 131
+    },
+    {
+      "kommunkod": "1435",
+      "name": "Tanums kommun",
+      "name_short": "Tanum",
+      "slug": "tanum",
+      "locality": "TANUMSHEDE",
+      "url": "http://www.tanum.se",
+      "num_postnummer": 103
+    },
+    {
+      "kommunkod": "1438",
+      "name": "Dals-Eds kommun",
+      "name_short": "Dals-Ed",
+      "slug": "dals-ed",
+      "locality": "ED",
+      "url": "http://www.dalsed.se",
+      "num_postnummer": 40
+    },
+    {
+      "kommunkod": "1439",
+      "name": "Färgelanda kommun",
+      "name_short": "Färgelanda",
+      "slug": "fargelanda",
+      "locality": "FÄRGELANDA",
+      "url": "http://www.fargelanda.se",
+      "num_postnummer": 125
+    },
+    {
+      "kommunkod": "1440",
+      "name": "Ale kommun",
+      "name_short": "Ale",
+      "slug": "ale",
+      "locality": "ALAFORS",
+      "url": "http://www.ale.se",
+      "num_postnummer": 258
+    },
+    {
+      "kommunkod": "1441",
+      "name": "Lerums kommun",
+      "name_short": "Lerum",
+      "slug": "lerum",
+      "locality": "LERUM",
+      "url": "http://www.lerum.se",
+      "num_postnummer": 147
+    },
+    {
+      "kommunkod": "1442",
+      "name": "Vårgårda kommun",
+      "name_short": "Vårgårda",
+      "slug": "vargarda",
+      "locality": "VÅRGÅRDA",
+      "url": "http://www.vargarda.se",
+      "num_postnummer": 100
+    },
+    {
+      "kommunkod": "1443",
+      "name": "Bollebygds kommun",
+      "name_short": "Bollebygd",
+      "slug": "bollebygd",
+      "locality": "BOLLEBYGD",
+      "url": "http://www.bollebygd.se",
+      "num_postnummer": 332
+    },
+    {
+      "kommunkod": "1444",
+      "name": "Grästorps kommun",
+      "name_short": "Grästorp",
+      "slug": "grastorp",
+      "locality": "GRÄSTORP",
+      "url": "http://www.grastorp.se",
+      "num_postnummer": 111
+    },
+    {
+      "kommunkod": "1445",
+      "name": "Essunga kommun",
+      "name_short": "Essunga",
+      "slug": "essunga",
+      "locality": "NOSSEBRO",
+      "url": "http://www.essunga.se",
+      "num_postnummer": 161
+    },
+    {
+      "kommunkod": "1446",
+      "name": "Karlsborgs kommun",
+      "name_short": "Karlsborg",
+      "slug": "karlsborg",
+      "locality": "KARLSBORG",
+      "url": "http://www.karlsborg.se",
+      "num_postnummer": 162
+    },
+    {
+      "kommunkod": "1447",
+      "name": "Gullspångs kommun",
+      "name_short": "Gullspång",
+      "slug": "gullspang",
+      "locality": "HOVA",
+      "url": "http://www.gullspang.se",
+      "num_postnummer": 106
+    },
+    {
+      "kommunkod": "1452",
+      "name": "Tranemo kommun",
+      "name_short": "Tranemo",
+      "slug": "tranemo",
+      "locality": "TRANEMO",
+      "url": "http://www.tranemo.se",
+      "num_postnummer": 100
+    },
+    {
+      "kommunkod": "1460",
+      "name": "Bengtsfors kommun",
+      "name_short": "Bengtsfors",
+      "slug": "bengtsfors",
+      "locality": "BENGTSFORS",
+      "url": "http://www.bengtsfors.se",
+      "num_postnummer": 64
+    },
+    {
+      "kommunkod": "1461",
+      "name": "Melleruds kommun",
+      "name_short": "Mellerud",
+      "slug": "mellerud",
+      "locality": "MELLERUD",
+      "url": "http://www.mellerud.se",
+      "num_postnummer": 89
+    },
+    {
+      "kommunkod": "1462",
+      "name": "Lilla Edets kommun",
+      "name_short": "Lilla Edet",
+      "slug": "lilla-edet",
+      "locality": "LILLA EDET",
+      "url": "http://www.lillaedet.se",
+      "num_postnummer": 0
+    },
+    {
+      "kommunkod": "1463",
+      "name": "Marks kommun",
+      "name_short": "Mark",
+      "slug": "mark",
+      "locality": "KINNA",
+      "url": "http://www.mark.se",
+      "num_postnummer": 222
+    },
+    {
+      "kommunkod": "1465",
+      "name": "Svenljunga kommun",
+      "name_short": "Svenljunga",
+      "slug": "svenljunga",
+      "locality": "SVENLJUNGA",
+      "url": "http://www.svenljunga.se",
+      "num_postnummer": 65
+    },
+    {
+      "kommunkod": "1466",
+      "name": "Herrljunga kommun",
+      "name_short": "Herrljunga",
+      "slug": "herrljunga",
+      "locality": "HERRLJUNGA",
+      "url": "http://www.herrljunga.se",
+      "num_postnummer": 95
+    },
+    {
+      "kommunkod": "1470",
+      "name": "Vara kommun",
+      "name_short": "Vara",
+      "slug": "vara",
+      "locality": "VARA",
+      "url": "http://www.vara.se",
+      "num_postnummer": 169
+    },
+    {
+      "kommunkod": "1471",
+      "name": "Götene kommun",
+      "name_short": "Götene",
+      "slug": "gotene",
+      "locality": "GÖTENE",
+      "url": "http://www.gotene.se",
+      "num_postnummer": 155
+    },
+    {
+      "kommunkod": "1472",
+      "name": "Tibro kommun",
+      "name_short": "Tibro",
+      "slug": "tibro",
+      "locality": "TIBRO",
+      "url": "http://www.tibro.se",
+      "num_postnummer": 163
+    },
+    {
+      "kommunkod": "1473",
+      "name": "Töreboda kommun",
+      "name_short": "Töreboda",
+      "slug": "toreboda",
+      "locality": "TÖREBODA",
+      "url": "http://www.toreboda.se",
+      "num_postnummer": 108
+    },
+    {
+      "kommunkod": "1480",
+      "name": "Göteborgs stad",
+      "name_short": "Göteborg",
+      "slug": "goteborg",
+      "locality": "GÖTEBORG",
+      "url": "http://www.goteborg.se",
+      "num_postnummer": 1264
+    },
+    {
+      "kommunkod": "1481",
+      "name": "Mölndals stad",
+      "name_short": "Mölndal",
+      "slug": "molndal",
+      "locality": "MÖLNDAL",
+      "url": "http://www.molndal.se",
+      "num_postnummer": 1041
+    },
+    {
+      "kommunkod": "1482",
+      "name": "Kungälvs kommun",
+      "name_short": "Kungälv",
+      "slug": "kungalv",
+      "locality": "KUNGÄLV",
+      "url": "http://www.kungalv.se",
+      "num_postnummer": 147
+    },
+    {
+      "kommunkod": "1484",
+      "name": "Lysekils kommun",
+      "name_short": "Lysekil",
+      "slug": "lysekil",
+      "locality": "LYSEKIL",
+      "url": "http://www.lysekil.se",
+      "num_postnummer": 164
+    },
+    {
+      "kommunkod": "1485",
+      "name": "Uddevalla kommun",
+      "name_short": "Uddevalla",
+      "slug": "uddevalla",
+      "locality": "UDDEVALLA",
+      "url": "http://www.uddevalla.se",
+      "num_postnummer": 276
+    },
+    {
+      "kommunkod": "1486",
+      "name": "Strömstads kommun",
+      "name_short": "Strömstad",
+      "slug": "stromstad",
+      "locality": "STRÖMSTAD",
+      "url": "http://www.stromstad.se",
+      "num_postnummer": 52
+    },
+    {
+      "kommunkod": "1487",
+      "name": "Vänersborgs kommun",
+      "name_short": "Vänersborg",
+      "slug": "vanersborg",
+      "locality": "VÄNERSBORG",
+      "url": "http://www.vanersborg.se",
+      "num_postnummer": 238
+    },
+    {
+      "kommunkod": "1488",
+      "name": "Trollhättans stad",
+      "name_short": "Trollhättan",
+      "slug": "trollhattan",
+      "locality": "TROLLHÄTTAN",
+      "url": "http://www.trollhattan.se",
+      "num_postnummer": 184
+    },
+    {
+      "kommunkod": "1489",
+      "name": "Alingsås kommun",
+      "name_short": "Alingsås",
+      "slug": "alingsas",
+      "locality": "ALINGSÅS",
+      "url": "http://www.alingsas.se",
+      "num_postnummer": 111
+    },
+    {
+      "kommunkod": "1490",
+      "name": "Borås stad",
+      "name_short": "Borås",
+      "slug": "boras",
+      "locality": "BORÅS",
+      "url": "http://www.boras.se",
+      "num_postnummer": 430
+    },
+    {
+      "kommunkod": "1491",
+      "name": "Ulricehamns kommun",
+      "name_short": "Ulricehamn",
+      "slug": "ulricehamn",
+      "locality": "ULRICEHAMN",
+      "url": "http://www.ulricehamn.se",
+      "num_postnummer": 158
+    },
+    {
+      "kommunkod": "1492",
+      "name": "Åmåls kommun",
+      "name_short": "Åmål",
+      "slug": "amal",
+      "locality": "ÅMÅL",
+      "url": "http://www.amal.se",
+      "num_postnummer": 109
+    },
+    {
+      "kommunkod": "1493",
+      "name": "Mariestads kommun",
+      "name_short": "Mariestad",
+      "slug": "mariestad",
+      "locality": "MARIESTAD",
+      "url": "http://www.mariestad.se",
+      "num_postnummer": 259
+    },
+    {
+      "kommunkod": "1494",
+      "name": "Lidköpings kommun",
+      "name_short": "Lidköping",
+      "slug": "lidkoping",
+      "locality": "LIDKÖPING",
+      "url": "http://www.lidkoping.se",
+      "num_postnummer": 183
+    },
+    {
+      "kommunkod": "1495",
+      "name": "Skara kommun",
+      "name_short": "Skara",
+      "slug": "skara",
+      "locality": "SKARA",
+      "url": "http://www.skara.se",
+      "num_postnummer": 239
+    },
+    {
+      "kommunkod": "1496",
+      "name": "Skövde kommun",
+      "name_short": "Skövde",
+      "slug": "skovde",
+      "locality": "SKÖVDE",
+      "url": "http://www.skovde.se",
+      "num_postnummer": 268
+    },
+    {
+      "kommunkod": "1497",
+      "name": "Hjo kommun",
+      "name_short": "Hjo",
+      "slug": "hjo",
+      "locality": "HJO",
+      "url": "http://www.hjo.se",
+      "num_postnummer": 186
+    },
+    {
+      "kommunkod": "1498",
+      "name": "Tidaholms kommun",
+      "name_short": "Tidaholm",
+      "slug": "tidaholm",
+      "locality": "TIDAHOLM",
+      "url": "http://www.tidaholm.se",
+      "num_postnummer": 196
+    },
+    {
+      "kommunkod": "1499",
+      "name": "Falköpings kommun",
+      "name_short": "Falköping",
+      "slug": "falkoping",
+      "locality": "FALKÖPING",
+      "url": "http://www.falkoping.se",
+      "num_postnummer": 262
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Västra Götalands län - Gratis nedladdning",
+    "description": "49 kommuner i Västra Götalands län (länskod 14, ISO SE-O , residensstad Göteborg). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 49 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Västra Götalands län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Västra Götalands län — 49 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 49 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

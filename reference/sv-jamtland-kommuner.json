@@ -1,0 +1,133 @@
+{
+  "id": "sv-jamtland-kommuner",
+  "name": "Kommuner i Jämtlands län",
+  "title": "Kommuner i Jämtlands län",
+  "description": "8 kommuner i Jämtlands län (länskod 23, ISO SE-Z , residensstad Östersund). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "2303",
+      "name": "Ragunda kommun",
+      "name_short": "Ragunda",
+      "slug": "ragunda",
+      "locality": "HAMMARSTRAND",
+      "url": "http://www.ragunda.se",
+      "num_postnummer": 188
+    },
+    {
+      "kommunkod": "2305",
+      "name": "Bräcke kommun",
+      "name_short": "Bräcke",
+      "slug": "bracke",
+      "locality": "BRÄCKE",
+      "url": "http://www.bracke.se",
+      "num_postnummer": 236
+    },
+    {
+      "kommunkod": "2309",
+      "name": "Krokoms kommun",
+      "name_short": "Krokom",
+      "slug": "krokom",
+      "locality": "KROKOM",
+      "url": "http://www.krokom.se",
+      "num_postnummer": 281
+    },
+    {
+      "kommunkod": "2313",
+      "name": "Strömsunds kommun",
+      "name_short": "Strömsund",
+      "slug": "stromsund",
+      "locality": "STRÖMSUND",
+      "url": "http://www.stromsund.se",
+      "num_postnummer": 92
+    },
+    {
+      "kommunkod": "2321",
+      "name": "Åre kommun",
+      "name_short": "Åre",
+      "slug": "are",
+      "locality": "JÄRPEN",
+      "url": "http://www.are.se",
+      "num_postnummer": 54
+    },
+    {
+      "kommunkod": "2326",
+      "name": "Bergs kommun",
+      "name_short": "Berg",
+      "slug": "berg",
+      "locality": "SVENSTAVIK",
+      "url": "http://www.berg.se",
+      "num_postnummer": 94
+    },
+    {
+      "kommunkod": "2361",
+      "name": "Härjedalens kommun",
+      "name_short": "Härjedalen",
+      "slug": "harjedalen",
+      "locality": "SVEG",
+      "url": "http://www.herjedalen.se",
+      "num_postnummer": 90
+    },
+    {
+      "kommunkod": "2380",
+      "name": "Östersunds kommun",
+      "name_short": "Östersund",
+      "slug": "ostersund",
+      "locality": "ÖSTERSUND",
+      "url": "http://www.ostersund.se",
+      "num_postnummer": 258
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Jämtlands län - Gratis nedladdning",
+    "description": "8 kommuner i Jämtlands län (länskod 23, ISO SE-Z , residensstad Östersund). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 8 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Jämtlands län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Jämtlands län — 8 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 8 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

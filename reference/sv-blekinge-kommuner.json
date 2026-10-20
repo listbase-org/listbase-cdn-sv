@@ -1,0 +1,106 @@
+{
+  "id": "sv-blekinge-kommuner",
+  "name": "Kommuner i Blekinge län",
+  "title": "Kommuner i Blekinge län",
+  "description": "5 kommuner i Blekinge län (länskod 10, ISO SE-K , residensstad Karlskrona). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "1060",
+      "name": "Olofströms kommun",
+      "name_short": "Olofström",
+      "slug": "olofstrom",
+      "locality": "OLOFSTRÖM",
+      "url": "http://www.olofstrom.se",
+      "num_postnummer": 100
+    },
+    {
+      "kommunkod": "1080",
+      "name": "Karlskrona kommun",
+      "name_short": "Karlskrona",
+      "slug": "karlskrona",
+      "locality": "KARLSKRONA",
+      "url": "http://www.karlskrona.se",
+      "num_postnummer": 161
+    },
+    {
+      "kommunkod": "1081",
+      "name": "Ronneby kommun",
+      "name_short": "Ronneby",
+      "slug": "ronneby",
+      "locality": "RONNEBY",
+      "url": "http://www.ronneby.se",
+      "num_postnummer": 100
+    },
+    {
+      "kommunkod": "1082",
+      "name": "Karlshamns kommun",
+      "name_short": "Karlshamn",
+      "slug": "karlshamn",
+      "locality": "KARLSHAMN",
+      "url": "http://www.karlshamn.se",
+      "num_postnummer": 132
+    },
+    {
+      "kommunkod": "1083",
+      "name": "Sölvesborgs kommun",
+      "name_short": "Sölvesborg",
+      "slug": "solvesborg",
+      "locality": "SÖLVESBORG",
+      "url": "http://www.solvesborg.se",
+      "num_postnummer": 68
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Blekinge län - Gratis nedladdning",
+    "description": "5 kommuner i Blekinge län (länskod 10, ISO SE-K , residensstad Karlskrona). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 5 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Blekinge län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Blekinge län — 5 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 5 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

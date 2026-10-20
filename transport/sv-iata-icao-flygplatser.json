@@ -1,0 +1,529 @@
+{
+  "id": "sv-iata-icao-flygplatser",
+  "name": "IATA/ICAO-koder för svenska flygplatser",
+  "title": "IATA/ICAO-koder för svenska flygplatser",
+  "description": "Lista över svenska flygplatser med IATA- (3 tecken) och ICAO-koder (4 tecken) enligt IP2Location-databasen.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "airport",
+      "label": "Airport",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country_code": "SE",
+      "region_name": "Blekinge lan",
+      "iata": "RNB",
+      "icao": "ESDF",
+      "airport": "Ronneby Airport",
+      "latitude": 56.2667,
+      "longitude": 15.265
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Dalarnas lan",
+      "iata": "BLE",
+      "icao": "ESSD",
+      "airport": "Dala Airport (Borlange Airport)",
+      "latitude": 60.422,
+      "longitude": 15.5152
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Dalarnas lan",
+      "iata": "IDB",
+      "icao": "ESUE",
+      "airport": "Idre Airport",
+      "latitude": 61.8697,
+      "longitude": 12.6894
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Dalarnas lan",
+      "iata": "MXX",
+      "icao": "ESKM",
+      "airport": "Mora-Siljan Airport",
+      "latitude": 60.9579,
+      "longitude": 14.5114
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Gavleborgs lan",
+      "iata": "GVX",
+      "icao": "ESSK",
+      "airport": "Gavle-Sandviken Airport",
+      "latitude": 60.5933,
+      "longitude": 16.9514
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Gavleborgs lan",
+      "iata": "HUV",
+      "icao": "ESNH",
+      "airport": "Hudiksvall Airport",
+      "latitude": 61.7681,
+      "longitude": 17.0807
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Gavleborgs lan",
+      "iata": "SOO",
+      "icao": "ESNY",
+      "airport": "Soderhamn Airport (Helsinge Airport)",
+      "latitude": 61.2615,
+      "longitude": 17.0991
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Gotlands lan",
+      "iata": "VBY",
+      "icao": "ESSV",
+      "airport": "Visby Airport",
+      "latitude": 57.6628,
+      "longitude": 18.3462
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Hallands lan",
+      "iata": "HAD",
+      "icao": "ESMT",
+      "airport": "Halmstad Airport (Halmstad City Airport)",
+      "latitude": 56.6911,
+      "longitude": 12.8202
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Jamtlands lan",
+      "iata": "EVG",
+      "icao": "ESND",
+      "airport": "Sveg Airport",
+      "latitude": 62.0478,
+      "longitude": 14.4229
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Jamtlands lan",
+      "iata": "OSD",
+      "icao": "ESNZ",
+      "airport": "Are Ostersund Airport",
+      "latitude": 63.1944,
+      "longitude": 14.5003
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Jonkopings lan",
+      "iata": "JKG",
+      "icao": "ESGJ",
+      "airport": "Jonkoping Airport",
+      "latitude": 57.7576,
+      "longitude": 14.0687
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Kalmar lan",
+      "iata": "HLF",
+      "icao": "ESSF",
+      "airport": "Hultsfred-Vimmerby Airport",
+      "latitude": 57.5258,
+      "longitude": 15.8233
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Kalmar lan",
+      "iata": "KLR",
+      "icao": "ESMQ",
+      "airport": "Kalmar Airport",
+      "latitude": 56.6855,
+      "longitude": 16.2876
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Kalmar lan",
+      "iata": "OSK",
+      "icao": "ESMO",
+      "airport": "Oskarshamn Airport",
+      "latitude": 57.3505,
+      "longitude": 16.498
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Kalmar lan",
+      "iata": "VVK",
+      "icao": "ESSW",
+      "airport": "Vastervik Airport",
+      "latitude": 57.78,
+      "longitude": 16.5236
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Kronobergs lan",
+      "iata": "VXO",
+      "icao": "ESMX",
+      "airport": "Vaxjo Smaland Airport",
+      "latitude": 56.9291,
+      "longitude": 14.728
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Norrbottens lan",
+      "iata": "AJR",
+      "icao": "ESNX",
+      "airport": "Arvidsjaur Airport",
+      "latitude": 65.5903,
+      "longitude": 19.2819
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Norrbottens lan",
+      "iata": "GEV",
+      "icao": "ESNG",
+      "airport": "Gallivare Airport",
+      "latitude": 67.1324,
+      "longitude": 20.8146
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Norrbottens lan",
+      "iata": "KRN",
+      "icao": "ESNQ",
+      "airport": "Kiruna Airport",
+      "latitude": 67.822,
+      "longitude": 20.3368
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Norrbottens lan",
+      "iata": "LLA",
+      "icao": "ESPA",
+      "airport": "Lulea Airport (Kallax Airport)",
+      "latitude": 65.5438,
+      "longitude": 22.122
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Norrbottens lan",
+      "iata": "PJA",
+      "icao": "ESUP",
+      "airport": "Pajala Airport",
+      "latitude": 67.2456,
+      "longitude": 23.0689
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Orebro lan",
+      "iata": "KSK",
+      "icao": "ESKK",
+      "airport": "Karlskoga Airport",
+      "latitude": 59.3459,
+      "longitude": 14.4959
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Orebro lan",
+      "iata": "ORB",
+      "icao": "ESOE",
+      "airport": "Orebro Airport",
+      "latitude": 59.2237,
+      "longitude": 15.038
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Ostergotlands lan",
+      "iata": "LPI",
+      "icao": "ESSL",
+      "airport": "Linkoping City Airport",
+      "latitude": 58.4062,
+      "longitude": 15.6805
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Ostergotlands lan",
+      "iata": "NRK",
+      "icao": "ESSP",
+      "airport": "Norrkoping Airport",
+      "latitude": 58.5863,
+      "longitude": 16.2506
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Skane lan",
+      "iata": "AGH",
+      "icao": "ESTA",
+      "airport": "Angelholm-Helsingborg Airport",
+      "latitude": 56.2961,
+      "longitude": 12.8471
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Skane lan",
+      "iata": "KID",
+      "icao": "ESMK",
+      "airport": "Kristianstad Airport",
+      "latitude": 55.9217,
+      "longitude": 14.0855
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Skane lan",
+      "iata": "MMX",
+      "icao": "ESMS",
+      "airport": "Malmo Airport",
+      "latitude": 55.5346,
+      "longitude": 13.3704
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Sodermanlands lan",
+      "iata": "EKT",
+      "icao": "ESSU",
+      "airport": "Eskilstuna Airport",
+      "latitude": 59.3511,
+      "longitude": 16.7084
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Sodermanlands lan",
+      "iata": "NYO",
+      "icao": "ESKN",
+      "airport": "Stockholm Skavsta Airport",
+      "latitude": 58.7886,
+      "longitude": 16.9122
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Stockholms lan",
+      "iata": "ARN",
+      "icao": "ESSA",
+      "airport": "Stockholm Arlanda Airport",
+      "latitude": 59.6519,
+      "longitude": 17.9186
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Stockholms lan",
+      "iata": "BMA",
+      "icao": "ESSB",
+      "airport": "Stockholm Bromma Airport",
+      "latitude": 59.3556,
+      "longitude": 17.9436
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Varmlands lan",
+      "iata": "HFS",
+      "icao": "ESOH",
+      "airport": "Hagfors Airport",
+      "latitude": 60.0201,
+      "longitude": 13.5789
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Varmlands lan",
+      "iata": "KSD",
+      "icao": "ESOK",
+      "airport": "Karlstad Airport",
+      "latitude": 59.4447,
+      "longitude": 13.3374
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Varmlands lan",
+      "iata": "SCR",
+      "icao": "",
+      "airport": "Scandinavian Mountains Airport",
+      "latitude": 61.1591,
+      "longitude": 12.8407
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Varmlands lan",
+      "iata": "TYF",
+      "icao": "ESST",
+      "airport": "Torsby Airport",
+      "latitude": 60.1576,
+      "longitude": 12.9913
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vasterbottens lan",
+      "iata": "HMV",
+      "icao": "ESUT",
+      "airport": "Hemavan Tarnaby Airport",
+      "latitude": 65.8061,
+      "longitude": 15.0828
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vasterbottens lan",
+      "iata": "LYC",
+      "icao": "ESNL",
+      "airport": "Lycksele Airport",
+      "latitude": 64.5483,
+      "longitude": 18.7162
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vasterbottens lan",
+      "iata": "SFT",
+      "icao": "ESNS",
+      "airport": "Skelleftea Airport",
+      "latitude": 64.6248,
+      "longitude": 21.0769
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vasterbottens lan",
+      "iata": "SQO",
+      "icao": "ESUD",
+      "airport": "Storuman Airport",
+      "latitude": 64.9609,
+      "longitude": 17.6966
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vasterbottens lan",
+      "iata": "UME",
+      "icao": "ESNU",
+      "airport": "Umea Airport",
+      "latitude": 63.7918,
+      "longitude": 20.2828
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vasterbottens lan",
+      "iata": "VHM",
+      "icao": "ESNV",
+      "airport": "Vilhelmina Airport",
+      "latitude": 64.5791,
+      "longitude": 16.8336
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vasternorrlands lan",
+      "iata": "KRF",
+      "icao": "ESNK",
+      "airport": "Hoga Kusten Airport (Kramfors-Solleftea Airport)",
+      "latitude": 63.0486,
+      "longitude": 17.7689
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vasternorrlands lan",
+      "iata": "OER",
+      "icao": "ESNO",
+      "airport": "Ornskoldsvik Airport",
+      "latitude": 63.4083,
+      "longitude": 18.99
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vasternorrlands lan",
+      "iata": "SDL",
+      "icao": "ESNN",
+      "airport": "Sundsvall-Timra Airport (Midlanda Airport)",
+      "latitude": 62.5281,
+      "longitude": 17.4439
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vastmanlands lan",
+      "iata": "VST",
+      "icao": "ESOW",
+      "airport": "Stockholm Vasteras Airport",
+      "latitude": 59.6018,
+      "longitude": 16.6284
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vastra Gotalands lan",
+      "iata": "GOT",
+      "icao": "ESGG",
+      "airport": "Goteborg Landvetter Airport",
+      "latitude": 57.6628,
+      "longitude": 12.2798
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vastra Gotalands lan",
+      "iata": "GSE",
+      "icao": "ESGP",
+      "airport": "Goteborg City Airport",
+      "latitude": 57.7747,
+      "longitude": 11.8704
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vastra Gotalands lan",
+      "iata": "KVB",
+      "icao": "ESGR",
+      "airport": "Skovde Airport",
+      "latitude": 58.4564,
+      "longitude": 13.9727
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vastra Gotalands lan",
+      "iata": "LDK",
+      "icao": "ESGL",
+      "airport": "Lidkoping-Hovby Airport",
+      "latitude": 58.4655,
+      "longitude": 13.1744
+    },
+    {
+      "country_code": "SE",
+      "region_name": "Vastra Gotalands lan",
+      "iata": "THN",
+      "icao": "ESGT",
+      "airport": "Trollhattan-Vanersborg Airport",
+      "latitude": 58.3181,
+      "longitude": 12.345
+    }
+  ],
+  "meta": {
+    "title": "IATA/ICAO-koder för svenska flygplatser - Gratis nedladdning",
+    "description": "Lista över svenska flygplatser med IATA- (3 tecken) och ICAO-koder (4 tecken) enligt IP2Location-databasen. Innehåller 52 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "IATA/ICAO-koder för svenska flygplatser | ListBase",
+    "seo_description": "Ladda ner IATA/ICAO-koder för svenska flygplatser — 52 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 52 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

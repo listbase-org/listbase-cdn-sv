@@ -1,0 +1,461 @@
+{
+  "id": "sv-myndigheter-domstolar",
+  "name": "Statliga myndigheter – Domstol",
+  "title": "Statliga myndigheter – Domstol",
+  "description": "Svenska organisationer av typen ”Domstol” med namn och ort.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "Domstol",
+      "name": "Arbetsdomstolen",
+      "city": "Stockholm"
+    },
+    {
+      "type": "Domstol",
+      "name": "Domstolsverket",
+      "city": "Jönköping"
+    },
+    {
+      "type": "Domstol",
+      "name": "Försvarsunderrättelsedomstolen",
+      "city": "Kista"
+    },
+    {
+      "type": "Domstol",
+      "name": "Alingsås tingsrätt",
+      "city": "Alingsås"
+    },
+    {
+      "type": "Domstol",
+      "name": "Attunda tingsrätt",
+      "city": "Sollentuna"
+    },
+    {
+      "type": "Domstol",
+      "name": "Blekinge tingsrätt",
+      "city": "Karlskrona"
+    },
+    {
+      "type": "Domstol",
+      "name": "Borås tingsrätt",
+      "city": "Borås"
+    },
+    {
+      "type": "Domstol",
+      "name": "Eksjö tingsrätt",
+      "city": "Eksjö"
+    },
+    {
+      "type": "Domstol",
+      "name": "Eskilstuna tingsrätt",
+      "city": "Eskilstuna"
+    },
+    {
+      "type": "Domstol",
+      "name": "Falu tingsrätt",
+      "city": "Falun"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Falun",
+      "city": "Falun"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Göteborg och migrationsdoms",
+      "city": "Göteborg"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Härnösand",
+      "city": "Härnösand"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Jönköping",
+      "city": "Jönköping"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Karlstad",
+      "city": "Karlstad"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Linköping",
+      "city": "Linköping"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Luleå och migrationsdomstol",
+      "city": "Luleå"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Malmö",
+      "city": "Malmö"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Stockholm och migrationsdom",
+      "city": "Stockholm"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Umeå",
+      "city": "Umeå"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Uppsala",
+      "city": "Uppsala"
+    },
+    {
+      "type": "Domstol",
+      "name": "Förvaltningsrätten i Växjö",
+      "city": "Växjö"
+    },
+    {
+      "type": "Domstol",
+      "name": "Gotlands tingsrätt",
+      "city": "Visby"
+    },
+    {
+      "type": "Domstol",
+      "name": "Gällivare tingsrätt",
+      "city": "Gällivare"
+    },
+    {
+      "type": "Domstol",
+      "name": "Gävle tingsrätt",
+      "city": "Gävle"
+    },
+    {
+      "type": "Domstol",
+      "name": "Göta hovrätt",
+      "city": "Jönköping"
+    },
+    {
+      "type": "Domstol",
+      "name": "Göteborgs tingsrätt",
+      "city": "Göteborg"
+    },
+    {
+      "type": "Domstol",
+      "name": "Halmstads tingsrätt",
+      "city": "Halmstad"
+    },
+    {
+      "type": "Domstol",
+      "name": "Haparanda tingsrätt",
+      "city": "Haparanda"
+    },
+    {
+      "type": "Domstol",
+      "name": "Helsingborgs tingsrätt",
+      "city": "Helsingborg"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hovrätten för nedre norrland",
+      "city": "Sundsvall"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hovrätten för västra sverige",
+      "city": "Göteborg"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hovrätten för övre norrland",
+      "city": "Umeå"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hovrätten över skåne och blekinge",
+      "city": "Malmö"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hudiksvalls tingsrätt",
+      "city": "Hudiksvall"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hyres och arrendenämnden i Göteborg",
+      "city": "Göteborg"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hyres och arrendenämnden i Jönköping",
+      "city": "Jönköping"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hyres och arrendenämnden i Linköping",
+      "city": "Linköping"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hyres och arrendenämnden i Stockholm",
+      "city": "Stockholm"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hyres och arrendenämnden i Sundsvall",
+      "city": "Sundsvall"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hyres och arrendenämnden i Umeå",
+      "city": "Umeå"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hyres och arrendenämnden i Västerås",
+      "city": "Västerås"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hyres och arrendenämnen i Malmö",
+      "city": "Malmö"
+    },
+    {
+      "type": "Domstol",
+      "name": "Hässleholms tingsrätt",
+      "city": "Hässleholm"
+    },
+    {
+      "type": "Domstol",
+      "name": "Högsta domstolen",
+      "city": "Stockholm"
+    },
+    {
+      "type": "Domstol",
+      "name": "Högsta förvaltningsdomstolen",
+      "city": "Stockholm"
+    },
+    {
+      "type": "Domstol",
+      "name": "Jönköpings tingsrätt",
+      "city": "Jönköping"
+    },
+    {
+      "type": "Domstol",
+      "name": "Kalmar tingsrätt",
+      "city": "Kalmar"
+    },
+    {
+      "type": "Domstol",
+      "name": "Kammarrätten i Göteborg",
+      "city": "Göteborg"
+    },
+    {
+      "type": "Domstol",
+      "name": "Kammarrätten i Jönköping",
+      "city": "Jönköping"
+    },
+    {
+      "type": "Domstol",
+      "name": "Kammarrätten i Stockholm och migrationsöverdomst",
+      "city": "Stockholm"
+    },
+    {
+      "type": "Domstol",
+      "name": "Kammarrätten i Sundsvall",
+      "city": "Sundsvall"
+    },
+    {
+      "type": "Domstol",
+      "name": "Kristianstads tingsrätt",
+      "city": "Kristianstad"
+    },
+    {
+      "type": "Domstol",
+      "name": "Linköpings tingsrätt",
+      "city": "Linköping"
+    },
+    {
+      "type": "Domstol",
+      "name": "Luleå tingsrätt",
+      "city": "Luleå"
+    },
+    {
+      "type": "Domstol",
+      "name": "Lunds tingsrätt",
+      "city": "Lund"
+    },
+    {
+      "type": "Domstol",
+      "name": "Lycksele tingsrätt",
+      "city": "Lycksele"
+    },
+    {
+      "type": "Domstol",
+      "name": "Malmö tingsrätt",
+      "city": "Malmö"
+    },
+    {
+      "type": "Domstol",
+      "name": "Mora tingsrätt",
+      "city": "Mora"
+    },
+    {
+      "type": "Domstol",
+      "name": "Nacka tingsrätt",
+      "city": "Nacka Strand"
+    },
+    {
+      "type": "Domstol",
+      "name": "Norrköpings tingsrätt",
+      "city": "Norrköping"
+    },
+    {
+      "type": "Domstol",
+      "name": "Norrtälje tingsrätt",
+      "city": "Norrtälje"
+    },
+    {
+      "type": "Domstol",
+      "name": "Nyköpings tingsrätt",
+      "city": "Nyköping"
+    },
+    {
+      "type": "Domstol",
+      "name": "Rättshjälpsmyndigheten",
+      "city": "Sundsvall"
+    },
+    {
+      "type": "Domstol",
+      "name": "Skaraborgs tingsrätt",
+      "city": "Skövde"
+    },
+    {
+      "type": "Domstol",
+      "name": "Skellefteå tingsrätt",
+      "city": "Skellefteå"
+    },
+    {
+      "type": "Domstol",
+      "name": "Solna tingsrätt",
+      "city": "Solna"
+    },
+    {
+      "type": "Domstol",
+      "name": "Stockholms tingsrätt och patent och marknadsdom",
+      "city": "Stockholm"
+    },
+    {
+      "type": "Domstol",
+      "name": "Sundsvalls tingsrätt",
+      "city": "Sundsvall"
+    },
+    {
+      "type": "Domstol",
+      "name": "Svea hovrätt o mark o miljö och patent",
+      "city": "Stockholm"
+    },
+    {
+      "type": "Domstol",
+      "name": "Södertälje tingsrätt",
+      "city": "Södertälje"
+    },
+    {
+      "type": "Domstol",
+      "name": "Södertörns tingsrätt",
+      "city": "Huddinge"
+    },
+    {
+      "type": "Domstol",
+      "name": "Uddevalla tingsrätt",
+      "city": "Uddevalla"
+    },
+    {
+      "type": "Domstol",
+      "name": "Umeå tingsrätt",
+      "city": "Umeå"
+    },
+    {
+      "type": "Domstol",
+      "name": "Uppsala tingsrätt",
+      "city": "Uppsala"
+    },
+    {
+      "type": "Domstol",
+      "name": "Varbergs tingsrätt",
+      "city": "Varberg"
+    },
+    {
+      "type": "Domstol",
+      "name": "Vänersborgs tingsrätt och mark och miljödomstol",
+      "city": "Vänersborg"
+    },
+    {
+      "type": "Domstol",
+      "name": "Värmlands tingsrätt",
+      "city": "Karlstad"
+    },
+    {
+      "type": "Domstol",
+      "name": "Västmanlands tingsrätt",
+      "city": "Västerås"
+    },
+    {
+      "type": "Domstol",
+      "name": "Växjö tingsrätt och mark och miljödomstol",
+      "city": "Växjö"
+    },
+    {
+      "type": "Domstol",
+      "name": "Ystads tingsrätt",
+      "city": "Ystad"
+    },
+    {
+      "type": "Domstol",
+      "name": "Ångermanlands tingsrätt",
+      "city": "Härnösand"
+    },
+    {
+      "type": "Domstol",
+      "name": "Örebro tingsrätt",
+      "city": "Örebro"
+    },
+    {
+      "type": "Domstol",
+      "name": "Östersunds tingsrätt och mark och miljödomstol",
+      "city": "Östersund"
+    }
+  ],
+  "meta": {
+    "title": "Statliga myndigheter – Domstol - Gratis nedladdning",
+    "description": "Svenska organisationer av typen ”Domstol” med namn och ort. Innehåller 84 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Statliga myndigheter – Domstol | ListBase",
+    "seo_description": "Ladda ner Statliga myndigheter – Domstol — 84 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 84 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

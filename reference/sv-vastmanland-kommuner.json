@@ -1,0 +1,151 @@
+{
+  "id": "sv-vastmanland-kommuner",
+  "name": "Kommuner i Västmanlands län",
+  "title": "Kommuner i Västmanlands län",
+  "description": "10 kommuner i Västmanlands län (länskod 19, ISO SE-U , residensstad Västerås). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "1904",
+      "name": "Skinnskattebergs kommun",
+      "name_short": "Skinnskatteberg",
+      "slug": "skinnskatteberg",
+      "locality": "SKINNSKATTEBERG",
+      "url": "http://www.skinnskatteberg.se",
+      "num_postnummer": 65
+    },
+    {
+      "kommunkod": "1907",
+      "name": "Surahammars kommun",
+      "name_short": "Surahammar",
+      "slug": "surahammar",
+      "locality": "SURAHAMMAR",
+      "url": "http://www.surahammar.se",
+      "num_postnummer": 308
+    },
+    {
+      "kommunkod": "1960",
+      "name": "Kungsörs kommun",
+      "name_short": "Kungsör",
+      "slug": "kungsor",
+      "locality": "KUNGSÖR",
+      "url": "http://www.kungsor.se",
+      "num_postnummer": 169
+    },
+    {
+      "kommunkod": "1961",
+      "name": "Hallstahammars kommun",
+      "name_short": "Hallstahammar",
+      "slug": "hallstahammar",
+      "locality": "HALLSTAHAMMAR",
+      "url": "http://www.hallstahammar.se",
+      "num_postnummer": 249
+    },
+    {
+      "kommunkod": "1962",
+      "name": "Norbergs kommun",
+      "name_short": "Norberg",
+      "slug": "norberg",
+      "locality": "NORBERG",
+      "url": "http://www.norberg.se",
+      "num_postnummer": 112
+    },
+    {
+      "kommunkod": "1980",
+      "name": "Västerås stad",
+      "name_short": "Västerås",
+      "slug": "vasteras",
+      "locality": "VÄSTERÅS",
+      "url": "http://www.vasteras.se",
+      "num_postnummer": 477
+    },
+    {
+      "kommunkod": "1981",
+      "name": "Sala kommun",
+      "name_short": "Sala",
+      "slug": "sala",
+      "locality": "SALA",
+      "url": "http://www.sala.se",
+      "num_postnummer": 248
+    },
+    {
+      "kommunkod": "1982",
+      "name": "Fagersta kommun",
+      "name_short": "Fagersta",
+      "slug": "fagersta",
+      "locality": "FAGERSTA",
+      "url": "http://www.fagersta.se",
+      "num_postnummer": 68
+    },
+    {
+      "kommunkod": "1983",
+      "name": "Köpings kommun",
+      "name_short": "Köping",
+      "slug": "koping",
+      "locality": "KÖPING",
+      "url": "http://www.koping.se",
+      "num_postnummer": 143
+    },
+    {
+      "kommunkod": "1984",
+      "name": "Arboga kommun",
+      "name_short": "Arboga",
+      "slug": "arboga",
+      "locality": "ARBOGA",
+      "url": "http://www.arboga.se",
+      "num_postnummer": 75
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Västmanlands län - Gratis nedladdning",
+    "description": "10 kommuner i Västmanlands län (länskod 19, ISO SE-U , residensstad Västerås). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 10 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Västmanlands län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Västmanlands län — 10 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 10 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

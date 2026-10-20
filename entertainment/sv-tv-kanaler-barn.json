@@ -1,0 +1,346 @@
+{
+  "id": "sv-tv-kanaler-barn",
+  "name": "Barnkanaler (Kids TV channels)",
+  "title": "Barnkanaler (Kids TV channels)",
+  "description": "Svenska TV-kanaler i kategorin \"kids\" (Kids) — 17 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "date"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "Avatar.se",
+      "name": "Avatar",
+      "alt_names": "Nickelodeon Avatar, Avatar+",
+      "network": "Pluto TV",
+      "owners": "Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids, animation, series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/avatar-se-plus/details"
+    },
+    {
+      "id": 2,
+      "channel_id": "CMoreKids.se",
+      "name": "C More Kids",
+      "alt_names": "",
+      "network": "",
+      "owners": "Telia Company",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2012-01-01",
+      "closed": "2023-08-14",
+      "replaced_by": "",
+      "website": "http://www.cmore.se/"
+    },
+    {
+      "id": 3,
+      "channel_id": "iCarly.se",
+      "name": "iCarly",
+      "alt_names": "Nickelodeon iCarly",
+      "network": "Pluto TV",
+      "owners": "Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/icarly-se/details"
+    },
+    {
+      "id": 4,
+      "channel_id": "Nainmeilla.se",
+      "name": "Nain meilla",
+      "alt_names": "Näin meillä, Nickelodeon Nain meilla",
+      "network": "Pluto TV",
+      "owners": "Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/nain-meilla-fi/details"
+    },
+    {
+      "id": 5,
+      "channel_id": "Nickelodeon.se",
+      "name": "Nickelodeon",
+      "alt_names": "",
+      "network": "Nickelodeon",
+      "owners": "Paramount Networks EMEAA",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2008-06-18",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.nickelodeon.se/"
+    },
+    {
+      "id": 6,
+      "channel_id": "PaavoPesusieni.se",
+      "name": "Paavo Pesusieni",
+      "alt_names": "Nickelodeon Paavo Pesusieni",
+      "network": "Pluto TV",
+      "owners": "Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/paavo-pesusieni-fi/details"
+    },
+    {
+      "id": 7,
+      "channel_id": "PlutoTVJuniorikerho.se",
+      "name": "Pluto TV Juniorikerho",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-juniorikerho-fi/details"
+    },
+    {
+      "id": 8,
+      "channel_id": "PlutoTVJuniorklubben.se",
+      "name": "Pluto TV Juniorklubben",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-juniorklubben-dk/details"
+    },
+    {
+      "id": 9,
+      "channel_id": "PlutoTVKlassisketegnefilm.se",
+      "name": "Pluto TV Klassiske tegnefilm",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-klassiske-tegnefilm-dk/details"
+    },
+    {
+      "id": 10,
+      "channel_id": "PlutoTVKlassisketegnefilmer.se",
+      "name": "Pluto TV Klassiske tegnefilmer",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-klassiske-tegnefilmer-no/details"
+    },
+    {
+      "id": 11,
+      "channel_id": "PlutoTVTecknadeklassiker.se",
+      "name": "Pluto TV Tecknade klassiker",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-tecknade-klassiker-se/details"
+    },
+    {
+      "id": 12,
+      "channel_id": "PlutoTVTecknat.se",
+      "name": "Pluto TV Tecknat",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-tecknat-ptv1/details"
+    },
+    {
+      "id": 13,
+      "channel_id": "PlutoTVTegnefilm.se",
+      "name": "Pluto TV Tegnefilm",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-tegnefilm-dk/details"
+    },
+    {
+      "id": 14,
+      "channel_id": "PlutoTVUngdomsserier.se",
+      "name": "Pluto TV Ungdomsserier",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-ungdomsserier-dk/details"
+    },
+    {
+      "id": 15,
+      "channel_id": "SvampBobFyrkant.se",
+      "name": "SvampBob Fyrkant",
+      "alt_names": "Nickelodeon SvampBob Fyrkant",
+      "network": "Pluto TV",
+      "owners": "Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/svampbob-fyrkant-se/details"
+    },
+    {
+      "id": 16,
+      "channel_id": "SvampeBobFirkant.se",
+      "name": "SvampeBob Firkant",
+      "alt_names": "Nickelodeon SvampeBob Firkant",
+      "network": "Pluto TV",
+      "owners": "Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/svampebob-firkant-dk/details"
+    },
+    {
+      "id": 17,
+      "channel_id": "TotallyTurtles.se",
+      "name": "Totally Turtles",
+      "alt_names": "Nickelodeon Totally Turtles",
+      "network": "Pluto TV",
+      "owners": "Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/totally-turtles-se/details"
+    }
+  ],
+  "meta": {
+    "title": "Barnkanaler (Kids TV channels) - Gratis nedladdning",
+    "description": "Svenska TV-kanaler i kategorin \"kids\" (Kids) — 17 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats. Innehåller 17 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Barnkanaler (Kids TV channels) | ListBase",
+    "seo_description": "Ladda ner Barnkanaler (Kids TV channels) — 17 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 17 poster / 13 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

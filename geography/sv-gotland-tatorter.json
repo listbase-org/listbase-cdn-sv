@@ -1,0 +1,302 @@
+{
+  "id": "sv-gotland-tatorter",
+  "name": "Tätorter i Gotland län",
+  "title": "Tätorter i Gotland län",
+  "description": "Samtliga 17 tätorter i Gotland län enligt SCB:s officiella tätortsavgränsning 2020. Varje post innehåller tätortskod, namn, kommun, län, landareal i hektar, folkmängd samt representativ koordinat (WGS84). Delmängd av den nationella listan sv-tatorter.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun",
+      "label": "Kommun",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan",
+      "label": "Lan",
+      "type": "string"
+    },
+    {
+      "key": "area_hektar",
+      "label": "Area Hektar",
+      "type": "number"
+    },
+    {
+      "key": "befolkning",
+      "label": "Befolkning",
+      "type": "number"
+    },
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "0980TB114",
+      "name": "Brissund och Själsö",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 224,
+      "befolkning": 416,
+      "ar": 2020,
+      "latitude": 57.706221,
+      "longitude": 18.375404
+    },
+    {
+      "code": "0980TB101",
+      "name": "Burgsvik",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 129,
+      "befolkning": 344,
+      "ar": 2020,
+      "latitude": 57.033438,
+      "longitude": 18.276034
+    },
+    {
+      "code": "0980TB102",
+      "name": "Fårösund",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 245,
+      "befolkning": 815,
+      "ar": 2020,
+      "latitude": 57.85879,
+      "longitude": 19.048449
+    },
+    {
+      "code": "0980TB104",
+      "name": "Havdhem",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 96,
+      "befolkning": 255,
+      "ar": 2020,
+      "latitude": 57.166623,
+      "longitude": 18.333697
+    },
+    {
+      "code": "0980TB105",
+      "name": "Hemse",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 230,
+      "befolkning": 1766,
+      "ar": 2020,
+      "latitude": 57.232554,
+      "longitude": 18.360965
+    },
+    {
+      "code": "0980TB107",
+      "name": "Klintehamn",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 305,
+      "befolkning": 1541,
+      "ar": 2020,
+      "latitude": 57.387136,
+      "longitude": 18.19869
+    },
+    {
+      "code": "0980TB109",
+      "name": "Lärbro",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 87,
+      "befolkning": 468,
+      "ar": 2020,
+      "latitude": 57.784767,
+      "longitude": 18.786738
+    },
+    {
+      "code": "0980TB103",
+      "name": "Norra Visby",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 148,
+      "befolkning": 670,
+      "ar": 2020,
+      "latitude": 57.665951,
+      "longitude": 18.334071
+    },
+    {
+      "code": "0980TB111",
+      "name": "Romakloster",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 294,
+      "befolkning": 1374,
+      "ar": 2020,
+      "latitude": 57.513548,
+      "longitude": 18.444333
+    },
+    {
+      "code": "0980TB113",
+      "name": "Slite",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 254,
+      "befolkning": 1481,
+      "ar": 2020,
+      "latitude": 57.710763,
+      "longitude": 18.801314
+    },
+    {
+      "code": "0980TB115",
+      "name": "Stånga",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 125,
+      "befolkning": 332,
+      "ar": 2020,
+      "latitude": 57.28336,
+      "longitude": 18.464606
+    },
+    {
+      "code": "0980TB116",
+      "name": "Tingstäde",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 76,
+      "befolkning": 236,
+      "ar": 2020,
+      "latitude": 57.73275,
+      "longitude": 18.604231
+    },
+    {
+      "code": "0980TB117",
+      "name": "Tofta",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 557,
+      "befolkning": 832,
+      "ar": 2020,
+      "latitude": 57.489722,
+      "longitude": 18.136388
+    },
+    {
+      "code": "0980TB118",
+      "name": "Vibble",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 370,
+      "befolkning": 1810,
+      "ar": 2020,
+      "latitude": 57.597602,
+      "longitude": 18.218521
+    },
+    {
+      "code": "0980TC119",
+      "name": "Visby",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 1453,
+      "befolkning": 24951,
+      "ar": 2020,
+      "latitude": 57.629557,
+      "longitude": 18.311528
+    },
+    {
+      "code": "0980TB120",
+      "name": "Väskinde",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 45,
+      "befolkning": 347,
+      "ar": 2020,
+      "latitude": 57.689578,
+      "longitude": 18.412801
+    },
+    {
+      "code": "0980TB121",
+      "name": "Västerhejde",
+      "kommun_kod": "0980",
+      "kommun": "Gotland",
+      "lan_kod": "09",
+      "lan": "Gotland",
+      "area_hektar": 93,
+      "befolkning": 546,
+      "ar": 2020,
+      "latitude": 57.58605,
+      "longitude": 18.227998
+    }
+  ],
+  "meta": {
+    "title": "Tätorter i Gotland län - Gratis nedladdning",
+    "description": "Samtliga 17 tätorter i Gotland län enligt SCB:s officiella tätortsavgränsning 2020. Varje post innehåller tätortskod, namn, kommun, län, landareal i hektar, folkmängd samt representativ koordinat (WGS84). Delmängd av den nationella listan sv-tatorter. Innehåller 17 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Tätorter i Gotland län | ListBase",
+    "seo_description": "Ladda ner Tätorter i Gotland län — 17 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 17 poster / 11 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

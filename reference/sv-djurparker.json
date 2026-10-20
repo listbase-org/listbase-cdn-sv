@@ -1,0 +1,368 @@
+{
+  "id": "sv-djurparker",
+  "name": "Djurparker i Sverige",
+  "title": "Djurparker i Sverige",
+  "description": "Zoos in Sweden with coordinates, sourced from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_sv",
+      "label": "Name Sv",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_sv",
+      "label": "Admin Area Sv",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q18287104",
+      "name_sv": "Aspuddsparken",
+      "name_en": "Aspuddsparken",
+      "admin_area_sv": "Stockholms kommun",
+      "admin_area_en": "Stockholm",
+      "latitude": 59.308095,
+      "longitude": 17.993782,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18287104"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q55009965",
+      "name_sv": "Avesta visentpark",
+      "name_en": "Avesta visentpark",
+      "admin_area_sv": "Avesta kommun",
+      "admin_area_en": "Avesta Municipality",
+      "latitude": 60.148117,
+      "longitude": 16.13175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55009965"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3310552",
+      "name_sv": "Borås djurpark",
+      "name_en": "Borås djurpark",
+      "admin_area_sv": "Borås",
+      "admin_area_en": "Borås",
+      "latitude": 57.741389,
+      "longitude": 12.949167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3310552"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q10499804",
+      "name_sv": "Frösö zoo",
+      "name_en": "Frösö Zoo",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 63.1937,
+      "longitude": 14.580983,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10499804"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q10500251",
+      "name_sv": "Furuviksparken",
+      "name_en": "Furuviksparken",
+      "admin_area_sv": "Gävle kommun",
+      "admin_area_en": "Gävle Municipality",
+      "latitude": 60.651389,
+      "longitude": 17.332778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10500251"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q64503995",
+      "name_sv": "Gotlands djurpark",
+      "name_en": "Gotland animal park",
+      "admin_area_sv": "Region Gotland",
+      "admin_area_en": "Region Gotland",
+      "latitude": 57.51625,
+      "longitude": 18.215222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64503995"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q1551675",
+      "name_sv": "Grönåsens älgpark",
+      "name_en": "Grönåsens Älgpark",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 56.83245,
+      "longitude": 15.40558,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1551675"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q18608929",
+      "name_sv": "Gutezoo",
+      "name_en": "Gutezoo",
+      "admin_area_sv": "Region Gotland",
+      "admin_area_en": "Region Gotland",
+      "latitude": 57.3314,
+      "longitude": 18.6269,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18608929"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q112844064",
+      "name_sv": "Helsingborgs Djur- och Lekpark",
+      "name_en": "",
+      "admin_area_sv": "Helsingborgs kommun",
+      "admin_area_en": "Helsingborg Municipality",
+      "latitude": 56.036971,
+      "longitude": 12.791597,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112844064"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q10541464",
+      "name_sv": "Junsele djurpark",
+      "name_en": "Junsele Zoo",
+      "admin_area_sv": "Sollefteå kommun",
+      "admin_area_en": "Sollefteå Municipality",
+      "latitude": 63.6979,
+      "longitude": 16.8588,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10541464"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1938567",
+      "name_sv": "Kolmårdens djurpark",
+      "name_en": "Kolmården Wildlife Park",
+      "admin_area_sv": "Norrköpings kommun",
+      "admin_area_en": "Norrköping Municipality",
+      "latitude": 58.665278,
+      "longitude": 16.466389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1938567"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q97118822",
+      "name_sv": "Kreutzbergs menageri",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.339167,
+      "longitude": 18.072778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97118822"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q67678810",
+      "name_sv": "Kungsbyns djurpark",
+      "name_en": "Kungsbyn Zoo",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.594444,
+      "longitude": 16.804444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67678810"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q10571242",
+      "name_sv": "Lycksele djurpark",
+      "name_en": "Lycksele Zoo",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 64.582,
+      "longitude": 18.664,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10571242"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q57541029",
+      "name_sv": "",
+      "name_en": "Moose of Annerod",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 58.069578,
+      "longitude": 12.205564,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57541029"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q116776044",
+      "name_sv": "Nolhaga djurpark",
+      "name_en": "",
+      "admin_area_sv": "Alingsås kommun",
+      "admin_area_en": "Alingsås Municipality",
+      "latitude": 57.933694,
+      "longitude": 12.514389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116776044"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q166851",
+      "name_sv": "Nordens Ark",
+      "name_en": "Nordens Ark",
+      "admin_area_sv": "Sotenäs kommun",
+      "admin_area_en": "Sotenäs Municipality",
+      "latitude": 58.441111,
+      "longitude": 11.435,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q166851"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q1033037",
+      "name_sv": "Orsa Grönklitt",
+      "name_en": "Orsa Grönklitt",
+      "admin_area_sv": "Orsa kommun",
+      "admin_area_en": "Orsa Municipality",
+      "latitude": 61.2075,
+      "longitude": 14.540278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1033037"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q18649267",
+      "name_sv": "Orsa Rovdjurspark",
+      "name_en": "Orsa Rovdjurspark",
+      "admin_area_sv": "Orsa kommun",
+      "admin_area_en": "Orsa Municipality",
+      "latitude": 61.212771,
+      "longitude": 14.533067,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18649267"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q10620444",
+      "name_sv": "Parken Zoo",
+      "name_en": "Parken Zoo",
+      "admin_area_sv": "Eskilstuna kommun",
+      "admin_area_en": "Eskilstuna Municipality",
+      "latitude": 59.373333,
+      "longitude": 16.482222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10620444"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q725108",
+      "name_sv": "Skansen",
+      "name_en": "Skansen",
+      "admin_area_sv": "Stockholms kommun",
+      "admin_area_en": "Stockholm",
+      "latitude": 59.32445,
+      "longitude": 18.101,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q725108"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q3146717",
+      "name_sv": "Skånes Djurpark",
+      "name_en": "Skånes Djurpark",
+      "admin_area_sv": "Höörs kommun",
+      "admin_area_en": "Höör Municipality",
+      "latitude": 55.963098,
+      "longitude": 13.536658,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3146717"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q18610057",
+      "name_sv": "Slottskogens djurpark",
+      "name_en": "Slottsskogens Djurpark",
+      "admin_area_sv": "Göteborgs kommun",
+      "admin_area_en": "Gothenburg Municipality",
+      "latitude": 57.686,
+      "longitude": 11.943,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18610057"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q85507020",
+      "name_sv": "Tropikariet Helsingborg",
+      "name_en": "Tropikariet",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 56.058941,
+      "longitude": 12.706033,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85507020"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q6320026",
+      "name_sv": "Vildriket",
+      "name_en": "Järvzoo",
+      "admin_area_sv": "Ljusdals kommun",
+      "admin_area_en": "Ljusdal Municipality",
+      "latitude": 61.710278,
+      "longitude": 16.154167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6320026"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q2432312",
+      "name_sv": "Ystad Djurpark",
+      "name_en": "Ystad Djurpark",
+      "admin_area_sv": "Ystads kommun",
+      "admin_area_en": "Ystad Municipality",
+      "latitude": 55.486272,
+      "longitude": 13.719252,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2432312"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q296768",
+      "name_sv": "Ölands djur- och nöjespark",
+      "name_en": "Öland Zoo and Amusement Park",
+      "admin_area_sv": "Mörbylånga kommun",
+      "admin_area_en": "Mörbylånga Municipality",
+      "latitude": 56.670556,
+      "longitude": 16.490278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q296768"
+    }
+  ],
+  "meta": {
+    "title": "Djurparker i Sverige - Gratis nedladdning",
+    "description": "Zoos in Sweden with coordinates, sourced from Wikidata. Innehåller 27 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Djurparker i Sverige | ListBase",
+    "seo_description": "Ladda ner Djurparker i Sverige — 27 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 27 poster / 9 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

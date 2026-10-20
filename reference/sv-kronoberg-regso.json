@@ -1,0 +1,562 @@
+{
+  "id": "sv-kronoberg-regso",
+  "name": "RegSO-områden i Kronobergs län",
+  "title": "RegSO-områden i Kronobergs län",
+  "description": "73 regionala statistikområden (RegSO) i Kronobergs län (länskod 07). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "0760R001",
+      "regso_namn": "Klavreström-Norrhult",
+      "kommun_kod": "0760",
+      "kommun_namn": "Uppvidinge",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0760R002",
+      "regso_namn": "Lenhovda",
+      "kommun_kod": "0760",
+      "kommun_namn": "Uppvidinge",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0760R003",
+      "regso_namn": "Uppvidinge omland",
+      "kommun_kod": "0760",
+      "kommun_namn": "Uppvidinge",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0760R004",
+      "regso_namn": "Åseda",
+      "kommun_kod": "0760",
+      "kommun_namn": "Uppvidinge",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0761R001",
+      "regso_namn": "Hovmantorp",
+      "kommun_kod": "0761",
+      "kommun_namn": "Lessebo",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0761R002",
+      "regso_namn": "Kosta",
+      "kommun_kod": "0761",
+      "kommun_namn": "Lessebo",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0761R003",
+      "regso_namn": "Lessebo centralort",
+      "kommun_kod": "0761",
+      "kommun_namn": "Lessebo",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0761R004",
+      "regso_namn": "Lessebo omland",
+      "kommun_kod": "0761",
+      "kommun_namn": "Lessebo",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0763R001",
+      "regso_namn": "Konga",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0763R002",
+      "regso_namn": "Linneryd-Älmeboda",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0763R003",
+      "regso_namn": "Ryds glesbygd",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0763R004",
+      "regso_namn": "Ryds tätort",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0763R005",
+      "regso_namn": "Tingryds glesbygd-Väckelsång",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0763R006",
+      "regso_namn": "Tingsryds tätort",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0763R007",
+      "regso_namn": "Urshult",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R001",
+      "regso_namn": "Alvesta centrum",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R002",
+      "regso_namn": "Alvesta nordost",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R003",
+      "regso_namn": "Alvesta sydost",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R004",
+      "regso_namn": "Alvesta södra",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R005",
+      "regso_namn": "Alvesta västra",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R006",
+      "regso_namn": "Blädinge",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R007",
+      "regso_namn": "Grimslöv",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R008",
+      "regso_namn": "Hjortsberga",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R009",
+      "regso_namn": "Moheda-Torpsbruk",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R010",
+      "regso_namn": "Slätthög",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R011",
+      "regso_namn": "Vislanda",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0764R012",
+      "regso_namn": "Västra Torsås",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0765R001",
+      "regso_namn": "Diö-Liatorp",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0765R002",
+      "regso_namn": "Älmhult norra",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0765R003",
+      "regso_namn": "Älmhult sydöstra",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0765R004",
+      "regso_namn": "Älmhult västra",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0765R005",
+      "regso_namn": "Älmhult östra",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0765R006",
+      "regso_namn": "Älmhults omland",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0767R001",
+      "regso_namn": "Markaryds kommuns landsbygd",
+      "kommun_kod": "0767",
+      "kommun_namn": "Markaryd",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0767R002",
+      "regso_namn": "Markaryd-Timsfors",
+      "kommun_kod": "0767",
+      "kommun_namn": "Markaryd",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0767R003",
+      "regso_namn": "Traryd-Strömsnäsbruk",
+      "kommun_kod": "0767",
+      "kommun_namn": "Markaryd",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R001",
+      "regso_namn": "Araby-Dalbo-Nydala",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R002",
+      "regso_namn": "Braås",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R003",
+      "regso_namn": "Gamla norr-Fagrabäck",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R004",
+      "regso_namn": "Gemla",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R005",
+      "regso_namn": "Hov-Norr",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R006",
+      "regso_namn": "Hovshaga",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R007",
+      "regso_namn": "Högstorp-Hollstorp",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R008",
+      "regso_namn": "Ingelstad",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R009",
+      "regso_namn": "Kungsmad-Pilbäcken",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R010",
+      "regso_namn": "Lammhult",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R011",
+      "regso_namn": "Rottne",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R012",
+      "regso_namn": "Sandsbro",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R013",
+      "regso_namn": "Stadsnära landsbygd",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R014",
+      "regso_namn": "Söder-Bäckaslöv",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R015",
+      "regso_namn": "Teleborg",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R016",
+      "regso_namn": "Teleborg centrum",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R017",
+      "regso_namn": "Universitetsområde",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R018",
+      "regso_namn": "Västra mark",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R019",
+      "regso_namn": "Växjö centrum-Väster-Spetsamossen",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R020",
+      "regso_namn": "Växjö landsbygd",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R021",
+      "regso_namn": "Växjö öster",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R022",
+      "regso_namn": "Öjaby-Räppe",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0780R023",
+      "regso_namn": "Östra Lugnet-Evedal",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R001",
+      "regso_namn": "Angelstad-Bolmen",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R002",
+      "regso_namn": "Annelund",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R003",
+      "regso_namn": "Ekebacken",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R004",
+      "regso_namn": "Hamneda-Kånna",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R005",
+      "regso_namn": "Hångers",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R006",
+      "regso_namn": "Kungshög",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R007",
+      "regso_namn": "Lagan",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R008",
+      "regso_namn": "Lidhult-Odensjö-Torpa",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R009",
+      "regso_namn": "Ljungby centrum",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R010",
+      "regso_namn": "Replösa",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R011",
+      "regso_namn": "Ryssby-Agunnaryd",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R012",
+      "regso_namn": "Stensberg",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R013",
+      "regso_namn": "Vittaryd",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    },
+    {
+      "regso_kod": "0781R014",
+      "regso_namn": "Ågård-Hjortsberg",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Kronobergs län - Gratis nedladdning",
+    "description": "73 regionala statistikområden (RegSO) i Kronobergs län (länskod 07). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 73 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Kronobergs län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Kronobergs län — 73 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 73 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "sv-solna-swift-koder",
+  "name": "SWIFT/BIC-koder — Solna",
+  "title": "SWIFT/BIC-koder — Solna",
+  "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 9 institut som källan anger med orten \"SOLNA\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BILLERUDKORSNAS AB",
+      "city": "SOLNA",
+      "branch": "",
+      "swift_code": "BKABSE22"
+    },
+    {
+      "bank": "ICA BANKEN AB",
+      "city": "SOLNA",
+      "branch": "",
+      "swift_code": "IBCASES1"
+    },
+    {
+      "bank": "MEDMERA BANK AB",
+      "city": "SOLNA",
+      "branch": "",
+      "swift_code": "MEMMSE21"
+    },
+    {
+      "bank": "SANTANDER CONSUMER BANK AS NORGE",
+      "city": "SOLNA",
+      "branch": "",
+      "swift_code": "SAONSE21"
+    },
+    {
+      "bank": "SANTANDER CONSUMER BANK AS NORGE, SVERIGE FILIAL",
+      "city": "SOLNA",
+      "branch": "",
+      "swift_code": "SCNSSE21"
+    },
+    {
+      "bank": "SBAB",
+      "city": "SOLNA",
+      "branch": "",
+      "swift_code": "SBAVSESS"
+    },
+    {
+      "bank": "SKANSKA FINANCIAL SERVICES AB",
+      "city": "SOLNA",
+      "branch": "",
+      "swift_code": "SKFSSES1"
+    },
+    {
+      "bank": "SVEA BANK AB",
+      "city": "SOLNA",
+      "branch": "",
+      "swift_code": "SVEASES1"
+    },
+    {
+      "bank": "TELIA COMPANY AB (PUBL)",
+      "city": "SOLNA",
+      "branch": "",
+      "swift_code": "TLSNSESS"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Solna - Gratis nedladdning",
+    "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 9 institut som källan anger med orten \"SOLNA\". Innehåller 9 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Solna | ListBase",
+    "seo_description": "Ladda ner SWIFT/BIC-koder — Solna — 9 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 9 poster / 4 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,1408 @@
+{
+  "id": "sv-vasterbotten-valdistrikt-2022",
+  "name": "Valdistrikt i Västerbottens län (val 2022)",
+  "title": "Valdistrikt i Västerbottens län (val 2022)",
+  "description": "169 valdistrikt i Västerbottens län (länskod 24) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 169,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "24010206",
+      "valdistrikt_namn": "Gräsmyr",
+      "kommun_kod": "2401",
+      "kommun_namn": "Nordmaling",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24010208",
+      "valdistrikt_namn": "Håknäs",
+      "kommun_kod": "2401",
+      "kommun_namn": "Nordmaling",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24010212",
+      "valdistrikt_namn": "Levar",
+      "kommun_kod": "2401",
+      "kommun_namn": "Nordmaling",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24010214",
+      "valdistrikt_namn": "Lögdeå-Rundvik",
+      "kommun_kod": "2401",
+      "kommun_namn": "Nordmaling",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24010216",
+      "valdistrikt_namn": "Norrfors",
+      "kommun_kod": "2401",
+      "kommun_namn": "Nordmaling",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24010224",
+      "valdistrikt_namn": "Vallen",
+      "kommun_kod": "2401",
+      "kommun_namn": "Nordmaling",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24030104",
+      "valdistrikt_namn": "Bjurholm",
+      "kommun_kod": "2403",
+      "kommun_namn": "Bjurholm",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24040103",
+      "valdistrikt_namn": "Vindelns västra",
+      "kommun_kod": "2404",
+      "kommun_namn": "Vindeln",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24040104",
+      "valdistrikt_namn": "Vindelns östra",
+      "kommun_kod": "2404",
+      "kommun_namn": "Vindeln",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24040107",
+      "valdistrikt_namn": "Hällnäs",
+      "kommun_kod": "2404",
+      "kommun_namn": "Vindeln",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24040120",
+      "valdistrikt_namn": "Tvärålund",
+      "kommun_kod": "2404",
+      "kommun_namn": "Vindeln",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24090101",
+      "valdistrikt_namn": "Bygdeå",
+      "kommun_kod": "2409",
+      "kommun_namn": "Robertsfors",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24090112",
+      "valdistrikt_namn": "Överklinten",
+      "kommun_kod": "2409",
+      "kommun_namn": "Robertsfors",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24090306",
+      "valdistrikt_namn": "Robertsfors",
+      "kommun_kod": "2409",
+      "kommun_namn": "Robertsfors",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24090406",
+      "valdistrikt_namn": "Nysätra-Ånäset",
+      "kommun_kod": "2409",
+      "kommun_namn": "Robertsfors",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24170201",
+      "valdistrikt_namn": "Bastuträsk",
+      "kommun_kod": "2417",
+      "kommun_namn": "Norsjö",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24170204",
+      "valdistrikt_namn": "Norsjö Norra",
+      "kommun_kod": "2417",
+      "kommun_namn": "Norsjö",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24170207",
+      "valdistrikt_namn": "Norsjö Södra",
+      "kommun_kod": "2417",
+      "kommun_namn": "Norsjö",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24180102",
+      "valdistrikt_namn": "Malå 1",
+      "kommun_kod": "2418",
+      "kommun_namn": "Malå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24180103",
+      "valdistrikt_namn": "Malå 2",
+      "kommun_kod": "2418",
+      "kommun_namn": "Malå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24210102",
+      "valdistrikt_namn": "Slussfors",
+      "kommun_kod": "2421",
+      "kommun_namn": "Storuman",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24210111",
+      "valdistrikt_namn": "Gunnarn",
+      "kommun_kod": "2421",
+      "kommun_namn": "Storuman",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24210122",
+      "valdistrikt_namn": "Vallnäs",
+      "kommun_kod": "2421",
+      "kommun_namn": "Storuman",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24210124",
+      "valdistrikt_namn": "Luspen",
+      "kommun_kod": "2421",
+      "kommun_namn": "Storuman",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24210314",
+      "valdistrikt_namn": "Tärnaby-Hemavan",
+      "kommun_kod": "2421",
+      "kommun_namn": "Storuman",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24220110",
+      "valdistrikt_namn": "Sorsele",
+      "kommun_kod": "2422",
+      "kommun_namn": "Sorsele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24220205",
+      "valdistrikt_namn": "Gargnäs",
+      "kommun_kod": "2422",
+      "kommun_namn": "Sorsele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24250104",
+      "valdistrikt_namn": "Dorotea",
+      "kommun_kod": "2425",
+      "kommun_namn": "Dorotea",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24250216",
+      "valdistrikt_namn": "Risbäck",
+      "kommun_kod": "2425",
+      "kommun_namn": "Dorotea",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24601001",
+      "valdistrikt_namn": "Västra byarna-Älvdala",
+      "kommun_kod": "2460",
+      "kommun_namn": "Vännäs",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24601002",
+      "valdistrikt_namn": "Lägret-Nyby",
+      "kommun_kod": "2460",
+      "kommun_namn": "Vännäs",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24601003",
+      "valdistrikt_namn": "Myran-Centrum",
+      "kommun_kod": "2460",
+      "kommun_namn": "Vännäs",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24601004",
+      "valdistrikt_namn": "Vännäsby",
+      "kommun_kod": "2460",
+      "kommun_namn": "Vännäs",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24601005",
+      "valdistrikt_namn": "Östra byarna",
+      "kommun_kod": "2460",
+      "kommun_namn": "Vännäs",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24620101",
+      "valdistrikt_namn": "Baksjönäs",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24620105",
+      "valdistrikt_namn": "Dikanäs",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24620110",
+      "valdistrikt_namn": "Latikberg",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24620113",
+      "valdistrikt_namn": "Lövliden",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24620116",
+      "valdistrikt_namn": "Nästansjö",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24620118",
+      "valdistrikt_namn": "Vilhelmina-Saxnäs",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24620120",
+      "valdistrikt_namn": "Skansholm",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24620126",
+      "valdistrikt_namn": "Vilhelmina",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24630121",
+      "valdistrikt_namn": "Åsele C",
+      "kommun_kod": "2463",
+      "kommun_namn": "Åsele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24630123",
+      "valdistrikt_namn": "Åsele omland",
+      "kommun_kod": "2463",
+      "kommun_namn": "Åsele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800101",
+      "valdistrikt_namn": "Berghem Norra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800102",
+      "valdistrikt_namn": "Berghem Södra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800103",
+      "valdistrikt_namn": "Sandabrånet",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800104",
+      "valdistrikt_namn": "Sandbacka",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800105",
+      "valdistrikt_namn": "Haga Norra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800106",
+      "valdistrikt_namn": "Haga Södra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800107",
+      "valdistrikt_namn": "Centrum Västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800108",
+      "valdistrikt_namn": "Ytterhiske",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800109",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800110",
+      "valdistrikt_namn": "Centrum Östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800111",
+      "valdistrikt_namn": "Östermalm - Fridhem",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800112",
+      "valdistrikt_namn": "Västerslätt",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800114",
+      "valdistrikt_namn": "Ersmark",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800115",
+      "valdistrikt_namn": "Ersboda Östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800116",
+      "valdistrikt_namn": "Ersboda Västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800117",
+      "valdistrikt_namn": "Ersboda Mellan",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800119",
+      "valdistrikt_namn": "Dragonfältet",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800120",
+      "valdistrikt_namn": "Öbackastrand",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800121",
+      "valdistrikt_namn": "Ersboda Norra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800122",
+      "valdistrikt_namn": "Haga Östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800123",
+      "valdistrikt_namn": "Brinkvägen",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800124",
+      "valdistrikt_namn": "Öbacka - Rosendal",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800220",
+      "valdistrikt_namn": "Grubbe Södra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800221",
+      "valdistrikt_namn": "Grubbe Norra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800222",
+      "valdistrikt_namn": "Kronoparken",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800223",
+      "valdistrikt_namn": "Backen",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800224",
+      "valdistrikt_namn": "Umedalen Östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800225",
+      "valdistrikt_namn": "Brännland",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800226",
+      "valdistrikt_namn": "Hissjö",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800227",
+      "valdistrikt_namn": "Umedalen Västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800228",
+      "valdistrikt_namn": "Sandåkern",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800330",
+      "valdistrikt_namn": "Tavelsjö",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800440",
+      "valdistrikt_namn": "Östteg",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800441",
+      "valdistrikt_namn": "Västteg",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800442",
+      "valdistrikt_namn": "Böleå",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800443",
+      "valdistrikt_namn": "Böleäng Östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800444",
+      "valdistrikt_namn": "Röbäck Östra - Klabböle",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800445",
+      "valdistrikt_namn": "Stöcke",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800446",
+      "valdistrikt_namn": "Böleäng Västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800447",
+      "valdistrikt_namn": "Yttersjö",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800448",
+      "valdistrikt_namn": "Södra Teg",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800449",
+      "valdistrikt_namn": "Röbäck Västra - Skravelsjö",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800450",
+      "valdistrikt_namn": "Stöcksjö - Degernäs",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800535",
+      "valdistrikt_namn": "Ålidhem Östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800536",
+      "valdistrikt_namn": "Innertavle - Tavleliden",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800538",
+      "valdistrikt_namn": "Tomtebo",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800549",
+      "valdistrikt_namn": "Universitetsområdet",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800550",
+      "valdistrikt_namn": "Sofiehem",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800551",
+      "valdistrikt_namn": "Ålidhem Västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800552",
+      "valdistrikt_namn": "Ålidhem Södra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800553",
+      "valdistrikt_namn": "Carlshem Västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800554",
+      "valdistrikt_namn": "Carlshem Östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800555",
+      "valdistrikt_namn": "Universitetsområdet Östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800556",
+      "valdistrikt_namn": "Tomtebo Södra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800557",
+      "valdistrikt_namn": "Tomtebo Norra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800660",
+      "valdistrikt_namn": "Holmsund Östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800661",
+      "valdistrikt_namn": "Holmsund Västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800662",
+      "valdistrikt_namn": "Holmsund Södra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800663",
+      "valdistrikt_namn": "Obbola",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800770",
+      "valdistrikt_namn": "Hörnefors Östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800771",
+      "valdistrikt_namn": "Hörnefors Västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800772",
+      "valdistrikt_namn": "Sörmjöle - Norrmjöle",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800990",
+      "valdistrikt_namn": "Bullmark",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800991",
+      "valdistrikt_namn": "Sävar Östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800992",
+      "valdistrikt_namn": "Sävar Västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24800993",
+      "valdistrikt_namn": "Täfteå",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24801137",
+      "valdistrikt_namn": "Nydalahöjd",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24801155",
+      "valdistrikt_namn": "Mariehem",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24801157",
+      "valdistrikt_namn": "Mariehemshöjd",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24801158",
+      "valdistrikt_namn": "Mariedal",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24801159",
+      "valdistrikt_namn": "Marieberg",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24801160",
+      "valdistrikt_namn": "Mariestrand Olovsdal",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24810101",
+      "valdistrikt_namn": "Lycksele",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24810102",
+      "valdistrikt_namn": "Södermalm",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24810103",
+      "valdistrikt_namn": "Norrmalm",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24810104",
+      "valdistrikt_namn": "Villaryd",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24810105",
+      "valdistrikt_namn": "Forsdala",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24810113",
+      "valdistrikt_namn": "Kattisavan",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24810114",
+      "valdistrikt_namn": "Knaften",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24810305",
+      "valdistrikt_namn": "Björksele",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820101",
+      "valdistrikt_namn": "Centrum N",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820102",
+      "valdistrikt_namn": "Centrum S",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820103",
+      "valdistrikt_namn": "Norrhammar",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820104",
+      "valdistrikt_namn": "Erikslid",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820105",
+      "valdistrikt_namn": "Älvsbacka V",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820106",
+      "valdistrikt_namn": "Älvsbacka Ö",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820107",
+      "valdistrikt_namn": "Getberget-Norrvalla",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820108",
+      "valdistrikt_namn": "Alhem-Norrbacka",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820109",
+      "valdistrikt_namn": "Morön-Hedensbyn",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820110",
+      "valdistrikt_namn": "Moröhöjden",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820111",
+      "valdistrikt_namn": "Morö Backe V",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820112",
+      "valdistrikt_namn": "Morö Backe C",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820113",
+      "valdistrikt_namn": "Morö Backe Ö",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820114",
+      "valdistrikt_namn": "Bergsbyn",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820201",
+      "valdistrikt_namn": "Ursviken",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820202",
+      "valdistrikt_namn": "Yttre Ursviken",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820204",
+      "valdistrikt_namn": "Skelleftehamn V",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820205",
+      "valdistrikt_namn": "Skelleftehamn Ö",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820301",
+      "valdistrikt_namn": "Bureå N",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820302",
+      "valdistrikt_namn": "Bureå S",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820303",
+      "valdistrikt_namn": "Hjoggböle",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820401",
+      "valdistrikt_namn": "Prästbordet",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820402",
+      "valdistrikt_namn": "Brännan-Mobacken",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820403",
+      "valdistrikt_namn": "Sjungande Dalen",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820404",
+      "valdistrikt_namn": "Sunnanå S",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820405",
+      "valdistrikt_namn": "Sunnanå C",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820406",
+      "valdistrikt_namn": "Sörböle",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820407",
+      "valdistrikt_namn": "Anderstorp N",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820408",
+      "valdistrikt_namn": "Anderstorp S",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820409",
+      "valdistrikt_namn": "Anderstorp Ö",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820410",
+      "valdistrikt_namn": "Stackgrönnan-Örviken",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820411",
+      "valdistrikt_namn": "Skråmträsk-Klutmark",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820412",
+      "valdistrikt_namn": "Myckle-Medle",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820413",
+      "valdistrikt_namn": "Stämningsgården",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820501",
+      "valdistrikt_namn": "Boliden",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820601",
+      "valdistrikt_namn": "Kåge N",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820602",
+      "valdistrikt_namn": "Kåge S",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820603",
+      "valdistrikt_namn": "Kågedalen",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820701",
+      "valdistrikt_namn": "Byske C",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820702",
+      "valdistrikt_namn": "Byske-Fällfors",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820703",
+      "valdistrikt_namn": "Drängsmark-Ostvik",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24820901",
+      "valdistrikt_namn": "Jörn",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24821001",
+      "valdistrikt_namn": "Lövånger",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24821101",
+      "valdistrikt_namn": "Burträsk C",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    },
+    {
+      "valdistrikt_kod": "24821102",
+      "valdistrikt_namn": "Burträskbygden",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24",
+      "lan_namn": "Västerbottens län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Västerbottens län (val 2022) - Gratis nedladdning",
+    "description": "169 valdistrikt i Västerbottens län (länskod 24) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 169 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Västerbottens län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Västerbottens län (val 2022) — 169 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 169 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

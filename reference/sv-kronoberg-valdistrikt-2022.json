@@ -1,0 +1,1008 @@
+{
+  "id": "sv-kronoberg-valdistrikt-2022",
+  "name": "Valdistrikt i Kronobergs län (val 2022)",
+  "title": "Valdistrikt i Kronobergs län (val 2022)",
+  "description": "119 valdistrikt i Kronobergs län (länskod 07) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "07600101",
+      "valdistrikt_namn": "Åseda N",
+      "kommun_kod": "0760",
+      "kommun_namn": "Uppvidinge",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07600102",
+      "valdistrikt_namn": "Åseda S",
+      "kommun_kod": "0760",
+      "kommun_namn": "Uppvidinge",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07600305",
+      "valdistrikt_namn": "Lenhovda",
+      "kommun_kod": "0760",
+      "kommun_namn": "Uppvidinge",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07600407",
+      "valdistrikt_namn": "Nottebäck",
+      "kommun_kod": "0760",
+      "kommun_namn": "Uppvidinge",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07600511",
+      "valdistrikt_namn": "Älghult",
+      "kommun_kod": "0760",
+      "kommun_namn": "Uppvidinge",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07610101",
+      "valdistrikt_namn": "Lessebo N",
+      "kommun_kod": "0761",
+      "kommun_namn": "Lessebo",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07610102",
+      "valdistrikt_namn": "Lessebo S",
+      "kommun_kod": "0761",
+      "kommun_namn": "Lessebo",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07610203",
+      "valdistrikt_namn": "Hovmantorp Ö",
+      "kommun_kod": "0761",
+      "kommun_namn": "Lessebo",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07610206",
+      "valdistrikt_namn": "Hovmantorp V",
+      "kommun_kod": "0761",
+      "kommun_namn": "Lessebo",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07610304",
+      "valdistrikt_namn": "Ekeberga",
+      "kommun_kod": "0761",
+      "kommun_namn": "Lessebo",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07610405",
+      "valdistrikt_namn": "Ljuder",
+      "kommun_kod": "0761",
+      "kommun_namn": "Lessebo",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07630101",
+      "valdistrikt_namn": "Tingsryd 1",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07630102",
+      "valdistrikt_namn": "Tingsryd 2",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07630204",
+      "valdistrikt_namn": "Almundsryd",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07630309",
+      "valdistrikt_namn": "Älmeboda-Linneryd",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07630511",
+      "valdistrikt_namn": "S Sandsjö",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07630612",
+      "valdistrikt_namn": "Väckelsång",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07630716",
+      "valdistrikt_namn": "Urshult",
+      "kommun_kod": "0763",
+      "kommun_namn": "Tingsryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07640101",
+      "valdistrikt_namn": "Alvesta N",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07640102",
+      "valdistrikt_namn": "Alvesta S-Blädinge",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07640103",
+      "valdistrikt_namn": "Aringsås",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07640104",
+      "valdistrikt_namn": "Alvesta V",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07640105",
+      "valdistrikt_namn": "Lekaryd-Härlöv-Prästängen",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07640408",
+      "valdistrikt_namn": "Hjortsberga",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07640509",
+      "valdistrikt_namn": "Slätthög-Mistelås-Moheda V",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07640510",
+      "valdistrikt_namn": "Moheda Ö",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07640914",
+      "valdistrikt_namn": "Vislanda",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07641017",
+      "valdistrikt_namn": "Skatelöv",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07641119",
+      "valdistrikt_namn": "Västra Torsås",
+      "kommun_kod": "0764",
+      "kommun_namn": "Alvesta",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07650101",
+      "valdistrikt_namn": "Gemön-Möckeln",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07650103",
+      "valdistrikt_namn": "Klöxhult",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07650115",
+      "valdistrikt_namn": "Norregård",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07650116",
+      "valdistrikt_namn": "Froafälle",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07650117",
+      "valdistrikt_namn": "Haganäs",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07650118",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07650204",
+      "valdistrikt_namn": "Häradsbäck-Bråthult",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07650305",
+      "valdistrikt_namn": "Virestad-Eneryda",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07650408",
+      "valdistrikt_namn": "Diö-Stenbrohult",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07650511",
+      "valdistrikt_namn": "Göteryd",
+      "kommun_kod": "0765",
+      "kommun_namn": "Älmhult",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07670101",
+      "valdistrikt_namn": "Markaryd 1 V",
+      "kommun_kod": "0767",
+      "kommun_namn": "Markaryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07670103",
+      "valdistrikt_namn": "Timsfors-Råstorp",
+      "kommun_kod": "0767",
+      "kommun_namn": "Markaryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07670104",
+      "valdistrikt_namn": "Markaryd 1 Ö",
+      "kommun_kod": "0767",
+      "kommun_namn": "Markaryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07670205",
+      "valdistrikt_namn": "Traryd-Hinneryd",
+      "kommun_kod": "0767",
+      "kommun_namn": "Markaryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07670308",
+      "valdistrikt_namn": "Strömsnäsbruk",
+      "kommun_kod": "0767",
+      "kommun_namn": "Markaryd",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800115",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800116",
+      "valdistrikt_namn": "Bäckaslöv",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800117",
+      "valdistrikt_namn": "Söder",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800118",
+      "valdistrikt_namn": "Öster",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800119",
+      "valdistrikt_namn": "Kvarnhagen",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800120",
+      "valdistrikt_namn": "Högstorp - Hollstorp",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800121",
+      "valdistrikt_namn": "Väster",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800171",
+      "valdistrikt_namn": "Lasarettet",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800225",
+      "valdistrikt_namn": "Furuby",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800326",
+      "valdistrikt_namn": "Braås",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800630",
+      "valdistrikt_namn": "Dädesjö",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800731",
+      "valdistrikt_namn": "Åryd",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800833",
+      "valdistrikt_namn": "Ingelstad",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07800934",
+      "valdistrikt_namn": "Värends Nöbbele",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07801338",
+      "valdistrikt_namn": "Tävelsås - Uråsa",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07801439",
+      "valdistrikt_namn": "Vederslöv",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07801641",
+      "valdistrikt_namn": "Gemla",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07801742",
+      "valdistrikt_namn": "Bergunda",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07801853",
+      "valdistrikt_namn": "Öjaby norra",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07801854",
+      "valdistrikt_namn": "Öjaby södra - Räppe",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07801944",
+      "valdistrikt_namn": "Åby",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802045",
+      "valdistrikt_namn": "Sandsbro östra",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802062",
+      "valdistrikt_namn": "Sandsbro västra",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802154",
+      "valdistrikt_namn": "Rottne södra",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802155",
+      "valdistrikt_namn": "Rottne norra",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802449",
+      "valdistrikt_namn": "Lammhult",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802551",
+      "valdistrikt_namn": "Berg",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802855",
+      "valdistrikt_namn": "Kungsmad",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802865",
+      "valdistrikt_namn": "Ringsberg",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802866",
+      "valdistrikt_namn": "Norrelid",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802868",
+      "valdistrikt_namn": "Fagrabäck",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802869",
+      "valdistrikt_namn": "Norr",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802870",
+      "valdistrikt_namn": "Teknikum",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802960",
+      "valdistrikt_namn": "Östra Lugnet",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802974",
+      "valdistrikt_namn": "Pilbäcken",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802975",
+      "valdistrikt_namn": "Hov",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802976",
+      "valdistrikt_namn": "Dalbo centrum",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802977",
+      "valdistrikt_namn": "Araby",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802978",
+      "valdistrikt_namn": "Nydala",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802979",
+      "valdistrikt_namn": "Gamla Hovshaga",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802980",
+      "valdistrikt_namn": "Arenastaden",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802981",
+      "valdistrikt_namn": "Nya Hovshaga",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802982",
+      "valdistrikt_namn": "Ulriksberg",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802988",
+      "valdistrikt_namn": "Hovshaga Centrum",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802989",
+      "valdistrikt_namn": "Kronoberg",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07802990",
+      "valdistrikt_namn": "Liedbergsgatan",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07803082",
+      "valdistrikt_namn": "Kampen-Sigfrid",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07803083",
+      "valdistrikt_namn": "Ljungfälle/Teleborg östra",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07803085",
+      "valdistrikt_namn": "Torparängen",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07803086",
+      "valdistrikt_namn": "Furutå",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07803087",
+      "valdistrikt_namn": "Universitetet södra",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07803088",
+      "valdistrikt_namn": "Teleborg södra",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07803089",
+      "valdistrikt_namn": "Teleborg centrum",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07803090",
+      "valdistrikt_namn": "Stallvägen",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07803091",
+      "valdistrikt_namn": "Vikaholm",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07803092",
+      "valdistrikt_namn": "Universitetet norra",
+      "kommun_kod": "0780",
+      "kommun_namn": "Växjö",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810103",
+      "valdistrikt_namn": "Astrad",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810104",
+      "valdistrikt_namn": "Ljungsätra",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810105",
+      "valdistrikt_namn": "Ekebacken",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810106",
+      "valdistrikt_namn": "Stensberg",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810107",
+      "valdistrikt_namn": "Hammaren",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810108",
+      "valdistrikt_namn": "Hjortsberg Väst",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810109",
+      "valdistrikt_namn": "Hjortsberg Öst",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810110",
+      "valdistrikt_namn": "Kungshög Väst",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810111",
+      "valdistrikt_namn": "Kungshög Öst",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810112",
+      "valdistrikt_namn": "Sunnerbo",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810310",
+      "valdistrikt_namn": "Ryssby",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810311",
+      "valdistrikt_namn": "Agunnaryd",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810715",
+      "valdistrikt_namn": "Hamneda",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810815",
+      "valdistrikt_namn": "Berga Väst",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810816",
+      "valdistrikt_namn": "Berga Öst",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07810817",
+      "valdistrikt_namn": "Vittaryd-Bolmsö",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07811119",
+      "valdistrikt_namn": "Angelstad",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07811624",
+      "valdistrikt_namn": "Lidhult",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    },
+    {
+      "valdistrikt_kod": "07811625",
+      "valdistrikt_namn": "Torpa",
+      "kommun_kod": "0781",
+      "kommun_namn": "Ljungby",
+      "lan_kod": "07",
+      "lan_namn": "Kronobergs län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Kronobergs län (val 2022) - Gratis nedladdning",
+    "description": "119 valdistrikt i Kronobergs län (länskod 07) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 119 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Kronobergs län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Kronobergs län (val 2022) — 119 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 119 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

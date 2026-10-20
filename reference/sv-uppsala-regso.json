@@ -1,0 +1,912 @@
+{
+  "id": "sv-uppsala-regso",
+  "name": "RegSO-områden i Uppsala län",
+  "title": "RegSO-områden i Uppsala län",
+  "description": "123 regionala statistikområden (RegSO) i Uppsala län (länskod 03). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 123,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "0305R001",
+      "regso_namn": "Centrala Bålsta-Mansängen",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0305R002",
+      "regso_namn": "Dyarne-Fånäs-Kalmarsand",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0305R003",
+      "regso_namn": "Håbo landsbygd",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0305R004",
+      "regso_namn": "Norra Ullevi-Södra Ullevi-Åsen",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0305R005",
+      "regso_namn": "Skörby-Gillmarken-Åkerby",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0305R006",
+      "regso_namn": "Slottsskogen-Söderskogen",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0305R007",
+      "regso_namn": "Södra Bålsta-Kalmar landsbygd",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0305R008",
+      "regso_namn": "Västerdalen-Eneby-Väppebyberget",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0305R009",
+      "regso_namn": "Västerhagen-Västerängen",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0305R010",
+      "regso_namn": "Västerskog-Graneberg",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0319R001",
+      "regso_namn": "Skutskär centrala-Skutskär nordvästra",
+      "kommun_kod": "0319",
+      "kommun_namn": "Älvkarleby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0319R002",
+      "regso_namn": "Skutskär nordöstra",
+      "kommun_kod": "0319",
+      "kommun_namn": "Älvkarleby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0319R003",
+      "regso_namn": "Skutskär södra",
+      "kommun_kod": "0319",
+      "kommun_namn": "Älvkarleby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0319R004",
+      "regso_namn": "Älvkarleby",
+      "kommun_kod": "0319",
+      "kommun_namn": "Älvkarleby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0319R005",
+      "regso_namn": "Älvkarlebys omland",
+      "kommun_kod": "0319",
+      "kommun_namn": "Älvkarleby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0330R001",
+      "regso_namn": "Alsike norra",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0330R002",
+      "regso_namn": "Alsike östra",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0330R003",
+      "regso_namn": "Knivsta centrala",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0330R004",
+      "regso_namn": "Knivsta södra",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0330R005",
+      "regso_namn": "Knivsta västra",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0330R006",
+      "regso_namn": "Knivsta östra",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0330R007",
+      "regso_namn": "Lagga-Långhundra",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0330R008",
+      "regso_namn": "Vassunda",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0331R001",
+      "regso_namn": "Heby omland",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0331R002",
+      "regso_namn": "Heby västra",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0331R003",
+      "regso_namn": "Heby östra",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0331R004",
+      "regso_namn": "Morgongåva tätort",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0331R005",
+      "regso_namn": "Nora-Harbo omland",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0331R006",
+      "regso_namn": "Tärnsjö tätort",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0331R007",
+      "regso_namn": "Vittinge omland",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0331R008",
+      "regso_namn": "Östervåla omland",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0331R009",
+      "regso_namn": "Östervåla tätort",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0360R001",
+      "regso_namn": "Karlholm",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0360R002",
+      "regso_namn": "Mehedeby-Tobo",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0360R003",
+      "regso_namn": "Månkarbo-Vendel",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0360R004",
+      "regso_namn": "Skärplinge-Hållnäs",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0360R005",
+      "regso_namn": "Söderfors",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0360R006",
+      "regso_namn": "Tierp Centrum-Tierp Norra",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0360R007",
+      "regso_namn": "Tierp Södra",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0360R008",
+      "regso_namn": "Västland",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0360R009",
+      "regso_namn": "Örbyhus",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R001",
+      "regso_namn": "Bergsbrunna",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R002",
+      "regso_namn": "Björklinge",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R003",
+      "regso_namn": "Bäcklösa-Ultuna-Södra Ulleråker",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R004",
+      "regso_namn": "Bälinge-Lövstalöt",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R005",
+      "regso_namn": "Främre Luthagen-Fjärdingen-Glunten",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R006",
+      "regso_namn": "Gamla Gottsunda-Vårdsätra-Vreta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R007",
+      "regso_namn": "Gamla Uppsala",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R008",
+      "regso_namn": "Gunsta-Marielund-Länna",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R009",
+      "regso_namn": "Kungsängen",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R010",
+      "regso_namn": "Kvarngärdet",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R011",
+      "regso_namn": "Kåbo-Norra Rosendal",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R012",
+      "regso_namn": "Lindbacken-Jälla",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R013",
+      "regso_namn": "Löten",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R014",
+      "regso_namn": "Mellersta Luthagen-Rickomberga",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R015",
+      "regso_namn": "Mellersta Sala backe",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R016",
+      "regso_namn": "Mellersta Valsätra-Gottsunda centrum-Östra Gottsunda",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R017",
+      "regso_namn": "Norby-Norra Valsätra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R018",
+      "regso_namn": "Nordvästra Luthagen-Hällby",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R019",
+      "regso_namn": "Norra Luthagen-Börjetull-Husbyborg",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R020",
+      "regso_namn": "Norra Sala backe",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R021",
+      "regso_namn": "Norra Sävja",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R022",
+      "regso_namn": "Norra Ulleråker-Polacksbacken",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R023",
+      "regso_namn": "Nyby",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R024",
+      "regso_namn": "Nåntuna-Vilan",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R025",
+      "regso_namn": "Slavsta-Fyrislund-Danmarksby",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R026",
+      "regso_namn": "Sommarro-Kungsgärdet",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R027",
+      "regso_namn": "Studentstaden",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R028",
+      "regso_namn": "Sunnersta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R029",
+      "regso_namn": "Sydöstra Luthagen",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R030",
+      "regso_namn": "Södra Rosendal-Malma gård",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R031",
+      "regso_namn": "Södra Sala backe",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R032",
+      "regso_namn": "Södra Sävja",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R033",
+      "regso_namn": "Södra Valsätra-Norra Gottsunda",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R034",
+      "regso_namn": "Uppsala centrum",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R035",
+      "regso_namn": "Uppsala inre norra omland",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R036",
+      "regso_namn": "Uppsala inre östra omland",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R037",
+      "regso_namn": "Uppsala nordvästra omland",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R038",
+      "regso_namn": "Uppsala nordöstra centrum-Höganäs",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R039",
+      "regso_namn": "Uppsala sydöstra Centrum-Västra Fålhagen",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R040",
+      "regso_namn": "Uppsala västra omland",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R041",
+      "regso_namn": "Uppsala yttre norra omland",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R042",
+      "regso_namn": "Uppsala yttre östra omland",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R043",
+      "regso_namn": "Vattholma",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R044",
+      "regso_namn": "Vänge",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R045",
+      "regso_namn": "Västra Eriksberg-Håga",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R046",
+      "regso_namn": "Västra Flogsta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R047",
+      "regso_namn": "Västra Gottsunda",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R048",
+      "regso_namn": "Västra Gränby",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R049",
+      "regso_namn": "Västra Kapellgärdet",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R050",
+      "regso_namn": "Västra Stenhagen",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R051",
+      "regso_namn": "Västra Storvreta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R052",
+      "regso_namn": "Västra Svartbäcken-Tuna backar",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R053",
+      "regso_namn": "Årsta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R054",
+      "regso_namn": "Östra Eriksberg",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R055",
+      "regso_namn": "Östra Flogsta-Ekeby-Berthåga",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R056",
+      "regso_namn": "Östra Fålhagen-Boländerna",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R057",
+      "regso_namn": "Östra Gränby-Brillinge",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R058",
+      "regso_namn": "Östra Kapellgärdet",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R059",
+      "regso_namn": "Östra Stenhagen-Kvarnbo",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R060",
+      "regso_namn": "Östra Storvreta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0380R061",
+      "regso_namn": "Östra Svartbäcken-Bärby hage",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0381R001",
+      "regso_namn": "Bergvreten-Gånsta-Åkersberg",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0381R002",
+      "regso_namn": "Bredsand-Haga",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0381R003",
+      "regso_namn": "Enköping centrum-Sankt Ilian",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0381R004",
+      "regso_namn": "Fanna-Korsängen-Älvdansen",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0381R005",
+      "regso_namn": "Fjärdhundra",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0381R006",
+      "regso_namn": "Galgvreten-Västerleden",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0381R007",
+      "regso_namn": "Lagunda",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0381R008",
+      "regso_namn": "Munksundet-Gröngarn",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0381R009",
+      "regso_namn": "Romberga",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0381R010",
+      "regso_namn": "Trögd",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0381R011",
+      "regso_namn": "Åsunda",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0382R001",
+      "regso_namn": "Alunda",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0382R002",
+      "regso_namn": "Alunda omland",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0382R003",
+      "regso_namn": "Gimo",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0382R004",
+      "regso_namn": "Gimo omland",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0382R005",
+      "regso_namn": "Öregrund",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0382R006",
+      "regso_namn": "Öregrund omland",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0382R007",
+      "regso_namn": "Österbybruk",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0382R008",
+      "regso_namn": "Österbybruk omland",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0382R009",
+      "regso_namn": "Östhammar",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03"
+    },
+    {
+      "regso_kod": "0382R010",
+      "regso_namn": "Östhammar omland",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Uppsala län - Gratis nedladdning",
+    "description": "123 regionala statistikområden (RegSO) i Uppsala län (länskod 03). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 123 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Uppsala län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Uppsala län — 123 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 123 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

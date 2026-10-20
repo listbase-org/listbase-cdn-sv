@@ -1,0 +1,6276 @@
+{
+  "id": "sv-emotionsord-anger",
+  "name": "Emotionsord – Ilska",
+  "title": "Emotionsord – Ilska",
+  "description": "Svenska ord associerade med ilska/vrede, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1247,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "intensity",
+      "label": "Intensity",
+      "type": "number"
+    },
+    {
+      "key": "emotion",
+      "label": "Emotion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "upprörda",
+      "intensity": "0.964",
+      "emotion": "anger"
+    },
+    {
+      "word": "råhet",
+      "intensity": "0.959",
+      "emotion": "anger"
+    },
+    {
+      "word": "hat",
+      "intensity": "0.953",
+      "emotion": "anger"
+    },
+    {
+      "word": "förhatlig",
+      "intensity": "0.940",
+      "emotion": "anger"
+    },
+    {
+      "word": "terrorisera",
+      "intensity": "0.939",
+      "emotion": "anger"
+    },
+    {
+      "word": "våldsamt",
+      "intensity": "0.938",
+      "emotion": "anger"
+    },
+    {
+      "word": "infuriated",
+      "intensity": "0.938",
+      "emotion": "anger"
+    },
+    {
+      "word": "ursinnigt",
+      "intensity": "0.927",
+      "emotion": "anger"
+    },
+    {
+      "word": "raseri",
+      "intensity": "0.922",
+      "emotion": "anger"
+    },
+    {
+      "word": "avrättning",
+      "intensity": "0.917",
+      "emotion": "anger"
+    },
+    {
+      "word": "retade",
+      "intensity": "0.916",
+      "emotion": "anger"
+    },
+    {
+      "word": "barbari",
+      "intensity": "0.915",
+      "emotion": "anger"
+    },
+    {
+      "word": "fuckoff",
+      "intensity": "0.912",
+      "emotion": "anger"
+    },
+    {
+      "word": "rasa",
+      "intensity": "0.911",
+      "emotion": "anger"
+    },
+    {
+      "word": "Fucktard",
+      "intensity": "0.906",
+      "emotion": "anger"
+    },
+    {
+      "word": "mordisk",
+      "intensity": "0.906",
+      "emotion": "anger"
+    },
+    {
+      "word": "furor",
+      "intensity": "0.900",
+      "emotion": "anger"
+    },
+    {
+      "word": "förinta",
+      "intensity": "0.898",
+      "emotion": "anger"
+    },
+    {
+      "word": "mörda",
+      "intensity": "0.897",
+      "emotion": "anger"
+    },
+    {
+      "word": "rasande",
+      "intensity": "0.896",
+      "emotion": "anger"
+    },
+    {
+      "word": "våldta",
+      "intensity": "0.894",
+      "emotion": "anger"
+    },
+    {
+      "word": "utplånas",
+      "intensity": "0.894",
+      "emotion": "anger"
+    },
+    {
+      "word": "infuriates",
+      "intensity": "0.894",
+      "emotion": "anger"
+    },
+    {
+      "word": "explosiv",
+      "intensity": "0.894",
+      "emotion": "anger"
+    },
+    {
+      "word": "dödande",
+      "intensity": "0.893",
+      "emotion": "anger"
+    },
+    {
+      "word": "combative",
+      "intensity": "0.891",
+      "emotion": "anger"
+    },
+    {
+      "word": "gofuckyourself",
+      "intensity": "0.886",
+      "emotion": "anger"
+    },
+    {
+      "word": "vrede",
+      "intensity": "0.885",
+      "emotion": "anger"
+    },
+    {
+      "word": "ond",
+      "intensity": "0.884",
+      "emotion": "anger"
+    },
+    {
+      "word": "massaker",
+      "intensity": "0.882",
+      "emotion": "anger"
+    },
+    {
+      "word": "hotfull",
+      "intensity": "0.882",
+      "emotion": "anger"
+    },
+    {
+      "word": "dra åt helvete",
+      "intensity": "0.875",
+      "emotion": "anger"
+    },
+    {
+      "word": "blodtörstig",
+      "intensity": "0.875",
+      "emotion": "anger"
+    },
+    {
+      "word": "förintas",
+      "intensity": "0.865",
+      "emotion": "anger"
+    },
+    {
+      "word": "attackera",
+      "intensity": "0.865",
+      "emotion": "anger"
+    },
+    {
+      "word": "angriest",
+      "intensity": "0.864",
+      "emotion": "anger"
+    },
+    {
+      "word": "blodsutgjutelse",
+      "intensity": "0.864",
+      "emotion": "anger"
+    },
+    {
+      "word": "slå",
+      "intensity": "0.862",
+      "emotion": "anger"
+    },
+    {
+      "word": "bråk",
+      "intensity": "0.861",
+      "emotion": "anger"
+    },
+    {
+      "word": "överfall",
+      "intensity": "0.859",
+      "emotion": "anger"
+    },
+    {
+      "word": "tirad",
+      "intensity": "0.859",
+      "emotion": "anger"
+    },
+    {
+      "word": "explodera",
+      "intensity": "0.859",
+      "emotion": "anger"
+    },
+    {
+      "word": "lönnmord",
+      "intensity": "0.859",
+      "emotion": "anger"
+    },
+    {
+      "word": "avskyvärd",
+      "intensity": "0.857",
+      "emotion": "anger"
+    },
+    {
+      "word": "Helvete",
+      "intensity": "0.853",
+      "emotion": "anger"
+    },
+    {
+      "word": "ge sig på",
+      "intensity": "0.853",
+      "emotion": "anger"
+    },
+    {
+      "word": "terrorism",
+      "intensity": "0.851",
+      "emotion": "anger"
+    },
+    {
+      "word": "stryk",
+      "intensity": "0.849",
+      "emotion": "anger"
+    },
+    {
+      "word": "vanhelgande",
+      "intensity": "0.848",
+      "emotion": "anger"
+    },
+    {
+      "word": "pissingmeoff",
+      "intensity": "0.848",
+      "emotion": "anger"
+    },
+    {
+      "word": "upprördhet",
+      "intensity": "0.848",
+      "emotion": "anger"
+    },
+    {
+      "word": "slakt",
+      "intensity": "0.844",
+      "emotion": "anger"
+    },
+    {
+      "word": "stormande",
+      "intensity": "0.844",
+      "emotion": "anger"
+    },
+    {
+      "word": "ilsken",
+      "intensity": "0.844",
+      "emotion": "anger"
+    },
+    {
+      "word": "infuriate",
+      "intensity": "0.844",
+      "emotion": "anger"
+    },
+    {
+      "word": "utplåna",
+      "intensity": "0.843",
+      "emotion": "anger"
+    },
+    {
+      "word": "belligerent",
+      "intensity": "0.841",
+      "emotion": "anger"
+    },
+    {
+      "word": "sticka",
+      "intensity": "0.835",
+      "emotion": "anger"
+    },
+    {
+      "word": "tortyr",
+      "intensity": "0.833",
+      "emotion": "anger"
+    },
+    {
+      "word": "fanatisk",
+      "intensity": "0.833",
+      "emotion": "anger"
+    },
+    {
+      "word": "framfart",
+      "intensity": "0.833",
+      "emotion": "anger"
+    },
+    {
+      "word": "hata",
+      "intensity": "0.828",
+      "emotion": "anger"
+    },
+    {
+      "word": "demonisk",
+      "intensity": "0.828",
+      "emotion": "anger"
+    },
+    {
+      "word": "hating",
+      "intensity": "0.828",
+      "emotion": "anger"
+    },
+    {
+      "word": "satanisk",
+      "intensity": "0.828",
+      "emotion": "anger"
+    },
+    {
+      "word": "tyrannisk",
+      "intensity": "0.828",
+      "emotion": "anger"
+    },
+    {
+      "word": "ursinnesläge",
+      "intensity": "0.828",
+      "emotion": "anger"
+    },
+    {
+      "word": "ödeläggande",
+      "intensity": "0.825",
+      "emotion": "anger"
+    },
+    {
+      "word": "kravaller",
+      "intensity": "0.824",
+      "emotion": "anger"
+    },
+    {
+      "word": "arg",
+      "intensity": "0.824",
+      "emotion": "anger"
+    },
+    {
+      "word": "tjockskalle",
+      "intensity": "0.824",
+      "emotion": "anger"
+    },
+    {
+      "word": "askgrå",
+      "intensity": "0.821",
+      "emotion": "anger"
+    },
+    {
+      "word": "vindictive",
+      "intensity": "0.819",
+      "emotion": "anger"
+    },
+    {
+      "word": "grymhet",
+      "intensity": "0.818",
+      "emotion": "anger"
+    },
+    {
+      "word": "hota",
+      "intensity": "0.818",
+      "emotion": "anger"
+    },
+    {
+      "word": "terrorist",
+      "intensity": "0.818",
+      "emotion": "anger"
+    },
+    {
+      "word": "vilde",
+      "intensity": "0.814",
+      "emotion": "anger"
+    },
+    {
+      "word": "illdåd",
+      "intensity": "0.814",
+      "emotion": "anger"
+    },
+    {
+      "word": "blodbad",
+      "intensity": "0.814",
+      "emotion": "anger"
+    },
+    {
+      "word": "våldsam",
+      "intensity": "0.812",
+      "emotion": "anger"
+    },
+    {
+      "word": "bärsärk",
+      "intensity": "0.812",
+      "emotion": "anger"
+    },
+    {
+      "word": "missbruk",
+      "intensity": "0.812",
+      "emotion": "anger"
+    },
+    {
+      "word": "tyrann",
+      "intensity": "0.812",
+      "emotion": "anger"
+    },
+    {
+      "word": "fucksake",
+      "intensity": "0.812",
+      "emotion": "anger"
+    },
+    {
+      "word": "vendetta",
+      "intensity": "0.812",
+      "emotion": "anger"
+    },
+    {
+      "word": "jagare",
+      "intensity": "0.812",
+      "emotion": "anger"
+    },
+    {
+      "word": "gör mig förbannad",
+      "intensity": "0.812",
+      "emotion": "anger"
+    },
+    {
+      "word": "rykande",
+      "intensity": "0.812",
+      "emotion": "anger"
+    },
+    {
+      "word": "barba",
+      "intensity": "0.812",
+      "emotion": "anger"
+    },
+    {
+      "word": "ilska",
+      "intensity": "0.811",
+      "emotion": "anger"
+    },
+    {
+      "word": "pieceofshit",
+      "intensity": "0.810",
+      "emotion": "anger"
+    },
+    {
+      "word": "slam",
+      "intensity": "0.803",
+      "emotion": "anger"
+    },
+    {
+      "word": "slagsmål",
+      "intensity": "0.803",
+      "emotion": "anger"
+    },
+    {
+      "word": "stansade",
+      "intensity": "0.803",
+      "emotion": "anger"
+    },
+    {
+      "word": "tik",
+      "intensity": "0.803",
+      "emotion": "anger"
+    },
+    {
+      "word": "stansning",
+      "intensity": "0.803",
+      "emotion": "anger"
+    },
+    {
+      "word": "destruktiv",
+      "intensity": "0.797",
+      "emotion": "anger"
+    },
+    {
+      "word": "skurkaktig",
+      "intensity": "0.797",
+      "emotion": "anger"
+    },
+    {
+      "word": "slag",
+      "intensity": "0.791",
+      "emotion": "anger"
+    },
+    {
+      "word": "slakteri",
+      "intensity": "0.788",
+      "emotion": "anger"
+    },
+    {
+      "word": "straffa",
+      "intensity": "0.788",
+      "emotion": "anger"
+    },
+    {
+      "word": "motåtgärder",
+      "intensity": "0.788",
+      "emotion": "anger"
+    },
+    {
+      "word": "upplopp",
+      "intensity": "0.788",
+      "emotion": "anger"
+    },
+    {
+      "word": "growthefuckup",
+      "intensity": "0.788",
+      "emotion": "anger"
+    },
+    {
+      "word": "djävulsk",
+      "intensity": "0.788",
+      "emotion": "anger"
+    },
+    {
+      "word": "dråp",
+      "intensity": "0.783",
+      "emotion": "anger"
+    },
+    {
+      "word": "krock",
+      "intensity": "0.783",
+      "emotion": "anger"
+    },
+    {
+      "word": "helvetisk",
+      "intensity": "0.781",
+      "emotion": "anger"
+    },
+    {
+      "word": "ovillig",
+      "intensity": "0.781",
+      "emotion": "anger"
+    },
+    {
+      "word": "detonation",
+      "intensity": "0.781",
+      "emotion": "anger"
+    },
+    {
+      "word": "olycksbådande",
+      "intensity": "0.781",
+      "emotion": "anger"
+    },
+    {
+      "word": "anklagar",
+      "intensity": "0.779",
+      "emotion": "anger"
+    },
+    {
+      "word": "förrädisk",
+      "intensity": "0.779",
+      "emotion": "anger"
+    },
+    {
+      "word": "hämnas",
+      "intensity": "0.773",
+      "emotion": "anger"
+    },
+    {
+      "word": "galnare",
+      "intensity": "0.773",
+      "emotion": "anger"
+    },
+    {
+      "word": "fruktansvärda",
+      "intensity": "0.773",
+      "emotion": "anger"
+    },
+    {
+      "word": "beklaglig",
+      "intensity": "0.766",
+      "emotion": "anger"
+    },
+    {
+      "word": "bomba",
+      "intensity": "0.766",
+      "emotion": "anger"
+    },
+    {
+      "word": "anarkist",
+      "intensity": "0.765",
+      "emotion": "anger"
+    },
+    {
+      "word": "förödelse",
+      "intensity": "0.765",
+      "emotion": "anger"
+    },
+    {
+      "word": "harmas över",
+      "intensity": "0.765",
+      "emotion": "anger"
+    },
+    {
+      "word": "firestorm",
+      "intensity": "0.765",
+      "emotion": "anger"
+    },
+    {
+      "word": "föraktlig",
+      "intensity": "0.764",
+      "emotion": "anger"
+    },
+    {
+      "word": "grym",
+      "intensity": "0.758",
+      "emotion": "anger"
+    },
+    {
+      "word": "dödligt",
+      "intensity": "0.758",
+      "emotion": "anger"
+    },
+    {
+      "word": "smash",
+      "intensity": "0.758",
+      "emotion": "anger"
+    },
+    {
+      "word": "utläggning",
+      "intensity": "0.758",
+      "emotion": "anger"
+    },
+    {
+      "word": "vanhelga",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "förolämpa",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "douchebags",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "morrande",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "stfu",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "vulgaritet",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "dontmesswithme",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "förvirrade",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "förakta",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "Skräck",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "försvårande",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "upprörande",
+      "intensity": "0.750",
+      "emotion": "anger"
+    },
+    {
+      "word": "skrikande",
+      "intensity": "0.742",
+      "emotion": "anger"
+    },
+    {
+      "word": "fuckedoff",
+      "intensity": "0.742",
+      "emotion": "anger"
+    },
+    {
+      "word": "få ett utbrott",
+      "intensity": "0.742",
+      "emotion": "anger"
+    },
+    {
+      "word": "våld",
+      "intensity": "0.742",
+      "emotion": "anger"
+    },
+    {
+      "word": "ofredande",
+      "intensity": "0.742",
+      "emotion": "anger"
+    },
+    {
+      "word": "jävlarna",
+      "intensity": "0.741",
+      "emotion": "anger"
+    },
+    {
+      "word": "hotfulla",
+      "intensity": "0.735",
+      "emotion": "anger"
+    },
+    {
+      "word": "förkrossande",
+      "intensity": "0.735",
+      "emotion": "anger"
+    },
+    {
+      "word": "attans",
+      "intensity": "0.735",
+      "emotion": "anger"
+    },
+    {
+      "word": "förfölja",
+      "intensity": "0.734",
+      "emotion": "anger"
+    },
+    {
+      "word": "argumentera",
+      "intensity": "0.734",
+      "emotion": "anger"
+    },
+    {
+      "word": "prygla",
+      "intensity": "0.734",
+      "emotion": "anger"
+    },
+    {
+      "word": "revolt",
+      "intensity": "0.734",
+      "emotion": "anger"
+    },
+    {
+      "word": "djupt beklaga",
+      "intensity": "0.734",
+      "emotion": "anger"
+    },
+    {
+      "word": "krigföring",
+      "intensity": "0.734",
+      "emotion": "anger"
+    },
+    {
+      "word": "häftig",
+      "intensity": "0.734",
+      "emotion": "anger"
+    },
+    {
+      "word": "utsvävande",
+      "intensity": "0.734",
+      "emotion": "anger"
+    },
+    {
+      "word": "gräl",
+      "intensity": "0.729",
+      "emotion": "anger"
+    },
+    {
+      "word": "myteri",
+      "intensity": "0.727",
+      "emotion": "anger"
+    },
+    {
+      "word": "kastrera",
+      "intensity": "0.727",
+      "emotion": "anger"
+    },
+    {
+      "word": "sabotage",
+      "intensity": "0.727",
+      "emotion": "anger"
+    },
+    {
+      "word": "illvillig",
+      "intensity": "0.721",
+      "emotion": "anger"
+    },
+    {
+      "word": "katastrof",
+      "intensity": "0.721",
+      "emotion": "anger"
+    },
+    {
+      "word": "strejk",
+      "intensity": "0.721",
+      "emotion": "anger"
+    },
+    {
+      "word": "katastrofal",
+      "intensity": "0.720",
+      "emotion": "anger"
+    },
+    {
+      "word": "tumult",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "madden",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "jäkel",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "Brutal",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "brännhet",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "arseholes",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "hästskit",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "förvärrar",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "hätsk",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "dräpa",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "sätta i halsen",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "bastarding",
+      "intensity": "0.719",
+      "emotion": "anger"
+    },
+    {
+      "word": "anarkism",
+      "intensity": "0.714",
+      "emotion": "anger"
+    },
+    {
+      "word": "stympning",
+      "intensity": "0.714",
+      "emotion": "anger"
+    },
+    {
+      "word": "kriminell",
+      "intensity": "0.714",
+      "emotion": "anger"
+    },
+    {
+      "word": "stansa",
+      "intensity": "0.713",
+      "emotion": "anger"
+    },
+    {
+      "word": "förintelse",
+      "intensity": "0.712",
+      "emotion": "anger"
+    },
+    {
+      "word": "crucifixion",
+      "intensity": "0.712",
+      "emotion": "anger"
+    },
+    {
+      "word": "virulens",
+      "intensity": "0.712",
+      "emotion": "anger"
+    },
+    {
+      "word": "kämpat",
+      "intensity": "0.712",
+      "emotion": "anger"
+    },
+    {
+      "word": "dödlig",
+      "intensity": "0.712",
+      "emotion": "anger"
+    },
+    {
+      "word": "hädisk",
+      "intensity": "0.712",
+      "emotion": "anger"
+    },
+    {
+      "word": "dumbasses",
+      "intensity": "0.712",
+      "emotion": "anger"
+    },
+    {
+      "word": "rubbad",
+      "intensity": "0.706",
+      "emotion": "anger"
+    },
+    {
+      "word": "avskyvärda",
+      "intensity": "0.706",
+      "emotion": "anger"
+    },
+    {
+      "word": "ondska",
+      "intensity": "0.706",
+      "emotion": "anger"
+    },
+    {
+      "word": "mördare",
+      "intensity": "0.703",
+      "emotion": "anger"
+    },
+    {
+      "word": "dicks",
+      "intensity": "0.703",
+      "emotion": "anger"
+    },
+    {
+      "word": "förföljelse",
+      "intensity": "0.703",
+      "emotion": "anger"
+    },
+    {
+      "word": "baneman",
+      "intensity": "0.703",
+      "emotion": "anger"
+    },
+    {
+      "word": "kidnappa",
+      "intensity": "0.703",
+      "emotion": "anger"
+    },
+    {
+      "word": "utskällning",
+      "intensity": "0.703",
+      "emotion": "anger"
+    },
+    {
+      "word": "skrämsel",
+      "intensity": "0.703",
+      "emotion": "anger"
+    },
+    {
+      "word": "förvärras",
+      "intensity": "0.703",
+      "emotion": "anger"
+    },
+    {
+      "word": "aggression",
+      "intensity": "0.702",
+      "emotion": "anger"
+    },
+    {
+      "word": "väpnad",
+      "intensity": "0.700",
+      "emotion": "anger"
+    },
+    {
+      "word": "förgifta",
+      "intensity": "0.697",
+      "emotion": "anger"
+    },
+    {
+      "word": "gift",
+      "intensity": "0.697",
+      "emotion": "anger"
+    },
+    {
+      "word": "slåss",
+      "intensity": "0.697",
+      "emotion": "anger"
+    },
+    {
+      "word": "smygande",
+      "intensity": "0.691",
+      "emotion": "anger"
+    },
+    {
+      "word": "lyncha",
+      "intensity": "0.690",
+      "emotion": "anger"
+    },
+    {
+      "word": "fruktansvärd",
+      "intensity": "0.688",
+      "emotion": "anger"
+    },
+    {
+      "word": "humör",
+      "intensity": "0.688",
+      "emotion": "anger"
+    },
+    {
+      "word": "nedvärdera",
+      "intensity": "0.688",
+      "emotion": "anger"
+    },
+    {
+      "word": "översittare",
+      "intensity": "0.688",
+      "emotion": "anger"
+    },
+    {
+      "word": "förbanna",
+      "intensity": "0.688",
+      "emotion": "anger"
+    },
+    {
+      "word": "peeved",
+      "intensity": "0.688",
+      "emotion": "anger"
+    },
+    {
+      "word": "barnamord",
+      "intensity": "0.688",
+      "emotion": "anger"
+    },
+    {
+      "word": "flyktighet",
+      "intensity": "0.687",
+      "emotion": "anger"
+    },
+    {
+      "word": "utrotning",
+      "intensity": "0.685",
+      "emotion": "anger"
+    },
+    {
+      "word": "raserianfall",
+      "intensity": "0.682",
+      "emotion": "anger"
+    },
+    {
+      "word": "ödelägga",
+      "intensity": "0.682",
+      "emotion": "anger"
+    },
+    {
+      "word": "utrota",
+      "intensity": "0.682",
+      "emotion": "anger"
+    },
+    {
+      "word": "skurk",
+      "intensity": "0.682",
+      "emotion": "anger"
+    },
+    {
+      "word": "aggressivt",
+      "intensity": "0.680",
+      "emotion": "anger"
+    },
+    {
+      "word": "agitation",
+      "intensity": "0.680",
+      "emotion": "anger"
+    },
+    {
+      "word": "diktatur",
+      "intensity": "0.676",
+      "emotion": "anger"
+    },
+    {
+      "word": "hädelser",
+      "intensity": "0.673",
+      "emotion": "anger"
+    },
+    {
+      "word": "fördömelse",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "otäck",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "giftig",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "förakt",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "oerhörd",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "svordom",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "knuff",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "skott",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "skjuta",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "korrumperande",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "utlösa",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "krossad",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "grymt",
+      "intensity": "0.672",
+      "emotion": "anger"
+    },
+    {
+      "word": "galning",
+      "intensity": "0.670",
+      "emotion": "anger"
+    },
+    {
+      "word": "mördande",
+      "intensity": "0.667",
+      "emotion": "anger"
+    },
+    {
+      "word": "utbrott",
+      "intensity": "0.667",
+      "emotion": "anger"
+    },
+    {
+      "word": "skytte",
+      "intensity": "0.667",
+      "emotion": "anger"
+    },
+    {
+      "word": "sparka",
+      "intensity": "0.667",
+      "emotion": "anger"
+    },
+    {
+      "word": "aggressiv",
+      "intensity": "0.667",
+      "emotion": "anger"
+    },
+    {
+      "word": "bekämpa",
+      "intensity": "0.667",
+      "emotion": "anger"
+    },
+    {
+      "word": "träffa",
+      "intensity": "0.667",
+      "emotion": "anger"
+    },
+    {
+      "word": "irritabel",
+      "intensity": "0.667",
+      "emotion": "anger"
+    },
+    {
+      "word": "straffad",
+      "intensity": "0.662",
+      "emotion": "anger"
+    },
+    {
+      "word": "bakhåll",
+      "intensity": "0.661",
+      "emotion": "anger"
+    },
+    {
+      "word": "plåga",
+      "intensity": "0.659",
+      "emotion": "anger"
+    },
+    {
+      "word": "angripare",
+      "intensity": "0.656",
+      "emotion": "anger"
+    },
+    {
+      "word": "malign",
+      "intensity": "0.656",
+      "emotion": "anger"
+    },
+    {
+      "word": "antikrist",
+      "intensity": "0.656",
+      "emotion": "anger"
+    },
+    {
+      "word": "levrat blod",
+      "intensity": "0.656",
+      "emotion": "anger"
+    },
+    {
+      "word": "rökelse",
+      "intensity": "0.656",
+      "emotion": "anger"
+    },
+    {
+      "word": "utvisa",
+      "intensity": "0.656",
+      "emotion": "anger"
+    },
+    {
+      "word": "förstörelse",
+      "intensity": "0.656",
+      "emotion": "anger"
+    },
+    {
+      "word": "agg",
+      "intensity": "0.656",
+      "emotion": "anger"
+    },
+    {
+      "word": "cranky",
+      "intensity": "0.653",
+      "emotion": "anger"
+    },
+    {
+      "word": "fientlighet",
+      "intensity": "0.652",
+      "emotion": "anger"
+    },
+    {
+      "word": "morra",
+      "intensity": "0.652",
+      "emotion": "anger"
+    },
+    {
+      "word": "stött",
+      "intensity": "0.652",
+      "emotion": "anger"
+    },
+    {
+      "word": "daska",
+      "intensity": "0.652",
+      "emotion": "anger"
+    },
+    {
+      "word": "slav",
+      "intensity": "0.652",
+      "emotion": "anger"
+    },
+    {
+      "word": "kränkande",
+      "intensity": "0.652",
+      "emotion": "anger"
+    },
+    {
+      "word": "kolliderar",
+      "intensity": "0.652",
+      "emotion": "anger"
+    },
+    {
+      "word": "morr",
+      "intensity": "0.649",
+      "emotion": "anger"
+    },
+    {
+      "word": "bödel",
+      "intensity": "0.644",
+      "emotion": "anger"
+    },
+    {
+      "word": "fitta",
+      "intensity": "0.644",
+      "emotion": "anger"
+    },
+    {
+      "word": "domedag",
+      "intensity": "0.643",
+      "emotion": "anger"
+    },
+    {
+      "word": "demon",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "obscenitet",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "bombardera",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "spottade",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "fejd",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "grr",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "anlagd brand",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "tillrättavisning",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "uteslutning",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "oursäktlig",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "den anklagade",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "indignerad",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "schackel",
+      "intensity": "0.641",
+      "emotion": "anger"
+    },
+    {
+      "word": "stridande",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "sår",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "suicidal",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "förgiftad",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "smet",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "sparkar",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "hängande",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "dask",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "äcklig",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "frustrerad",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "anarki",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "bländande",
+      "intensity": "0.636",
+      "emotion": "anger"
+    },
+    {
+      "word": "vålla",
+      "intensity": "0.633",
+      "emotion": "anger"
+    },
+    {
+      "word": "havere",
+      "intensity": "0.633",
+      "emotion": "anger"
+    },
+    {
+      "word": "svår",
+      "intensity": "0.632",
+      "emotion": "anger"
+    },
+    {
+      "word": "agiterad",
+      "intensity": "0.630",
+      "emotion": "anger"
+    },
+    {
+      "word": "fuska",
+      "intensity": "0.630",
+      "emotion": "anger"
+    },
+    {
+      "word": "hakkors",
+      "intensity": "0.627",
+      "emotion": "anger"
+    },
+    {
+      "word": "åtala",
+      "intensity": "0.625",
+      "emotion": "anger"
+    },
+    {
+      "word": "ärekränkande",
+      "intensity": "0.625",
+      "emotion": "anger"
+    },
+    {
+      "word": "kvävning",
+      "intensity": "0.625",
+      "emotion": "anger"
+    },
+    {
+      "word": "kiv",
+      "intensity": "0.625",
+      "emotion": "anger"
+    },
+    {
+      "word": "provokation",
+      "intensity": "0.625",
+      "emotion": "anger"
+    },
+    {
+      "word": "trakasserande",
+      "intensity": "0.625",
+      "emotion": "anger"
+    },
+    {
+      "word": "gissel",
+      "intensity": "0.625",
+      "emotion": "anger"
+    },
+    {
+      "word": "förråda",
+      "intensity": "0.625",
+      "emotion": "anger"
+    },
+    {
+      "word": "räd",
+      "intensity": "0.625",
+      "emotion": "anger"
+    },
+    {
+      "word": "dundrande",
+      "intensity": "0.625",
+      "emotion": "anger"
+    },
+    {
+      "word": "enslaved",
+      "intensity": "0.625",
+      "emotion": "anger"
+    },
+    {
+      "word": "arsehole",
+      "intensity": "0.624",
+      "emotion": "anger"
+    },
+    {
+      "word": "sinnessjuk",
+      "intensity": "0.621",
+      "emotion": "anger"
+    },
+    {
+      "word": "djävul",
+      "intensity": "0.621",
+      "emotion": "anger"
+    },
+    {
+      "word": "irritera",
+      "intensity": "0.621",
+      "emotion": "anger"
+    },
+    {
+      "word": "rycka",
+      "intensity": "0.621",
+      "emotion": "anger"
+    },
+    {
+      "word": "stöld",
+      "intensity": "0.621",
+      "emotion": "anger"
+    },
+    {
+      "word": "berövande",
+      "intensity": "0.621",
+      "emotion": "anger"
+    },
+    {
+      "word": "cussed",
+      "intensity": "0.619",
+      "emotion": "anger"
+    },
+    {
+      "word": "smack",
+      "intensity": "0.615",
+      "emotion": "anger"
+    },
+    {
+      "word": "vedergällning",
+      "intensity": "0.614",
+      "emotion": "anger"
+    },
+    {
+      "word": "twats",
+      "intensity": "0.609",
+      "emotion": "anger"
+    },
+    {
+      "word": "outhärdlig",
+      "intensity": "0.609",
+      "emotion": "anger"
+    },
+    {
+      "word": "förtryckare",
+      "intensity": "0.609",
+      "emotion": "anger"
+    },
+    {
+      "word": "slaveri",
+      "intensity": "0.609",
+      "emotion": "anger"
+    },
+    {
+      "word": "irritabilitet",
+      "intensity": "0.609",
+      "emotion": "anger"
+    },
+    {
+      "word": "kollision",
+      "intensity": "0.609",
+      "emotion": "anger"
+    },
+    {
+      "word": "bittert",
+      "intensity": "0.609",
+      "emotion": "anger"
+    },
+    {
+      "word": "gäng",
+      "intensity": "0.609",
+      "emotion": "anger"
+    },
+    {
+      "word": "antagonism",
+      "intensity": "0.609",
+      "emotion": "anger"
+    },
+    {
+      "word": "batteri",
+      "intensity": "0.609",
+      "emotion": "anger"
+    },
+    {
+      "word": "ogynnsam",
+      "intensity": "0.609",
+      "emotion": "anger"
+    },
+    {
+      "word": "disgraced",
+      "intensity": "0.608",
+      "emotion": "anger"
+    },
+    {
+      "word": "irriterar",
+      "intensity": "0.606",
+      "emotion": "anger"
+    },
+    {
+      "word": "rotation",
+      "intensity": "0.606",
+      "emotion": "anger"
+    },
+    {
+      "word": "gangster",
+      "intensity": "0.606",
+      "emotion": "anger"
+    },
+    {
+      "word": "diatribe",
+      "intensity": "0.606",
+      "emotion": "anger"
+    },
+    {
+      "word": "bombardemang",
+      "intensity": "0.606",
+      "emotion": "anger"
+    },
+    {
+      "word": "kul",
+      "intensity": "0.606",
+      "emotion": "anger"
+    },
+    {
+      "word": "kväljande",
+      "intensity": "0.606",
+      "emotion": "anger"
+    },
+    {
+      "word": "diskriminering",
+      "intensity": "0.606",
+      "emotion": "anger"
+    },
+    {
+      "word": "antagonistisk",
+      "intensity": "0.606",
+      "emotion": "anger"
+    },
+    {
+      "word": "ranting",
+      "intensity": "0.606",
+      "emotion": "anger"
+    },
+    {
+      "word": "idiot",
+      "intensity": "0.606",
+      "emotion": "anger"
+    },
+    {
+      "word": "omintetgöra",
+      "intensity": "0.604",
+      "emotion": "anger"
+    },
+    {
+      "word": "manipulation",
+      "intensity": "0.603",
+      "emotion": "anger"
+    },
+    {
+      "word": "spänning",
+      "intensity": "0.603",
+      "emotion": "anger"
+    },
+    {
+      "word": "förolämpning",
+      "intensity": "0.603",
+      "emotion": "anger"
+    },
+    {
+      "word": "trångsynt",
+      "intensity": "0.603",
+      "emotion": "anger"
+    },
+    {
+      "word": "sårande",
+      "intensity": "0.603",
+      "emotion": "anger"
+    },
+    {
+      "word": "förtryck",
+      "intensity": "0.603",
+      "emotion": "anger"
+    },
+    {
+      "word": "avsky",
+      "intensity": "0.602",
+      "emotion": "anger"
+    },
+    {
+      "word": "påträngande",
+      "intensity": "0.598",
+      "emotion": "anger"
+    },
+    {
+      "word": "hårdhet",
+      "intensity": "0.597",
+      "emotion": "anger"
+    },
+    {
+      "word": "sluddra",
+      "intensity": "0.596",
+      "emotion": "anger"
+    },
+    {
+      "word": "usling",
+      "intensity": "0.594",
+      "emotion": "anger"
+    },
+    {
+      "word": "inferno",
+      "intensity": "0.594",
+      "emotion": "anger"
+    },
+    {
+      "word": "invasion",
+      "intensity": "0.594",
+      "emotion": "anger"
+    },
+    {
+      "word": "punktera",
+      "intensity": "0.594",
+      "emotion": "anger"
+    },
+    {
+      "word": "eländig",
+      "intensity": "0.594",
+      "emotion": "anger"
+    },
+    {
+      "word": "angripa",
+      "intensity": "0.594",
+      "emotion": "anger"
+    },
+    {
+      "word": "storming",
+      "intensity": "0.594",
+      "emotion": "anger"
+    },
+    {
+      "word": "skadade",
+      "intensity": "0.594",
+      "emotion": "anger"
+    },
+    {
+      "word": "bitterhet",
+      "intensity": "0.594",
+      "emotion": "anger"
+    },
+    {
+      "word": "sjuklighet",
+      "intensity": "0.594",
+      "emotion": "anger"
+    },
+    {
+      "word": "depraverad",
+      "intensity": "0.591",
+      "emotion": "anger"
+    },
+    {
+      "word": "yra",
+      "intensity": "0.591",
+      "emotion": "anger"
+    },
+    {
+      "word": "giljotin",
+      "intensity": "0.591",
+      "emotion": "anger"
+    },
+    {
+      "word": "skyldig",
+      "intensity": "0.591",
+      "emotion": "anger"
+    },
+    {
+      "word": "omoralisk",
+      "intensity": "0.591",
+      "emotion": "anger"
+    },
+    {
+      "word": "med våld",
+      "intensity": "0.591",
+      "emotion": "anger"
+    },
+    {
+      "word": "dominera över",
+      "intensity": "0.591",
+      "emotion": "anger"
+    },
+    {
+      "word": "motsträvig",
+      "intensity": "0.588",
+      "emotion": "anger"
+    },
+    {
+      "word": "skrämma",
+      "intensity": "0.588",
+      "emotion": "anger"
+    },
+    {
+      "word": "skruvad",
+      "intensity": "0.588",
+      "emotion": "anger"
+    },
+    {
+      "word": "indignation",
+      "intensity": "0.587",
+      "emotion": "anger"
+    },
+    {
+      "word": "svartsjuka",
+      "intensity": "0.587",
+      "emotion": "anger"
+    },
+    {
+      "word": "förargad",
+      "intensity": "0.586",
+      "emotion": "anger"
+    },
+    {
+      "word": "konfrontera",
+      "intensity": "0.582",
+      "emotion": "anger"
+    },
+    {
+      "word": "djurisk",
+      "intensity": "0.581",
+      "emotion": "anger"
+    },
+    {
+      "word": "strypa",
+      "intensity": "0.579",
+      "emotion": "anger"
+    },
+    {
+      "word": "förstöra",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "brottslighet",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "revolver",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "slampa",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "du suger",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "slaktare",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "konflikt",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "gnabb",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "plundring",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "bläs",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "kupp",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "omtvistad",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "fängslande",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "trotsig",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "provocera",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "surra",
+      "intensity": "0.578",
+      "emotion": "anger"
+    },
+    {
+      "word": "cancer",
+      "intensity": "0.577",
+      "emotion": "anger"
+    },
+    {
+      "word": "blodig",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "frustration",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "alienation",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "disharmoni",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "störning",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "famla",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "nedlåtenhet",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "hädelse",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "diskriminera",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "kaotisk",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "pistol",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "standoff",
+      "intensity": "0.576",
+      "emotion": "anger"
+    },
+    {
+      "word": "förbannad",
+      "intensity": "0.574",
+      "emotion": "anger"
+    },
+    {
+      "word": "förtryckande",
+      "intensity": "0.574",
+      "emotion": "anger"
+    },
+    {
+      "word": "död",
+      "intensity": "0.574",
+      "emotion": "anger"
+    },
+    {
+      "word": "stöt",
+      "intensity": "0.574",
+      "emotion": "anger"
+    },
+    {
+      "word": "skandal-",
+      "intensity": "0.574",
+      "emotion": "anger"
+    },
+    {
+      "word": "monster",
+      "intensity": "0.574",
+      "emotion": "anger"
+    },
+    {
+      "word": "Skit",
+      "intensity": "0.573",
+      "emotion": "anger"
+    },
+    {
+      "word": "snedstreck",
+      "intensity": "0.571",
+      "emotion": "anger"
+    },
+    {
+      "word": "galge",
+      "intensity": "0.570",
+      "emotion": "anger"
+    },
+    {
+      "word": "eskalera",
+      "intensity": "0.569",
+      "emotion": "anger"
+    },
+    {
+      "word": "intolerant",
+      "intensity": "0.564",
+      "emotion": "anger"
+    },
+    {
+      "word": "laglöshet",
+      "intensity": "0.563",
+      "emotion": "anger"
+    },
+    {
+      "word": "nedsättande",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "bluddy",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "torped",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "bedragna",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "retards",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "baisse",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "invadera",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "bälg",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "fä",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "förskräcklig",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "lysa skarpt",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "hemsk",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "förrädare",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "baktala",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "wrangling",
+      "intensity": "0.562",
+      "emotion": "anger"
+    },
+    {
+      "word": "banshee",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "splittra",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "krossa",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "brand",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "äventyra",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "tjuv",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "rave",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "galler",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "förödande",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "idioter",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "okontrollerbar",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "passar",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "korsa",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "ont",
+      "intensity": "0.561",
+      "emotion": "anger"
+    },
+    {
+      "word": "störd",
+      "intensity": "0.559",
+      "emotion": "anger"
+    },
+    {
+      "word": "underkuvande",
+      "intensity": "0.559",
+      "emotion": "anger"
+    },
+    {
+      "word": "hugg",
+      "intensity": "0.557",
+      "emotion": "anger"
+    },
+    {
+      "word": "stampade",
+      "intensity": "0.557",
+      "emotion": "anger"
+    },
+    {
+      "word": "förkryssat",
+      "intensity": "0.556",
+      "emotion": "anger"
+    },
+    {
+      "word": "masochism",
+      "intensity": "0.556",
+      "emotion": "anger"
+    },
+    {
+      "word": "trots",
+      "intensity": "0.552",
+      "emotion": "anger"
+    },
+    {
+      "word": "utpressning",
+      "intensity": "0.550",
+      "emotion": "anger"
+    },
+    {
+      "word": "offensiv",
+      "intensity": "0.549",
+      "emotion": "anger"
+    },
+    {
+      "word": "fördöma",
+      "intensity": "0.548",
+      "emotion": "anger"
+    },
+    {
+      "word": "bestraffning",
+      "intensity": "0.547",
+      "emotion": "anger"
+    },
+    {
+      "word": "gäll",
+      "intensity": "0.547",
+      "emotion": "anger"
+    },
+    {
+      "word": "mörk sida",
+      "intensity": "0.547",
+      "emotion": "anger"
+    },
+    {
+      "word": "elände",
+      "intensity": "0.547",
+      "emotion": "anger"
+    },
+    {
+      "word": "omintetgör",
+      "intensity": "0.547",
+      "emotion": "anger"
+    },
+    {
+      "word": "skillnad",
+      "intensity": "0.547",
+      "emotion": "anger"
+    },
+    {
+      "word": "begränsa",
+      "intensity": "0.547",
+      "emotion": "anger"
+    },
+    {
+      "word": "skjutvapen",
+      "intensity": "0.547",
+      "emotion": "anger"
+    },
+    {
+      "word": "orimlig",
+      "intensity": "0.547",
+      "emotion": "anger"
+    },
+    {
+      "word": "rebell",
+      "intensity": "0.547",
+      "emotion": "anger"
+    },
+    {
+      "word": "lura",
+      "intensity": "0.547",
+      "emotion": "anger"
+    },
+    {
+      "word": "stulna",
+      "intensity": "0.546",
+      "emotion": "anger"
+    },
+    {
+      "word": "förstörd",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "hot",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "wanker",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "uppvärmd",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "förödmjuka",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "tackla",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "konspiratör",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "ojust spel",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "antagonist",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "förbittrad",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "fördomar",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "skärmytsling",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "okänslig",
+      "intensity": "0.545",
+      "emotion": "anger"
+    },
+    {
+      "word": "skrik",
+      "intensity": "0.544",
+      "emotion": "anger"
+    },
+    {
+      "word": "intrasslad",
+      "intensity": "0.544",
+      "emotion": "anger"
+    },
+    {
+      "word": "rån",
+      "intensity": "0.544",
+      "emotion": "anger"
+    },
+    {
+      "word": "sting",
+      "intensity": "0.544",
+      "emotion": "anger"
+    },
+    {
+      "word": "motstånd",
+      "intensity": "0.543",
+      "emotion": "anger"
+    },
+    {
+      "word": "hindrande",
+      "intensity": "0.542",
+      "emotion": "anger"
+    },
+    {
+      "word": "bestörtning",
+      "intensity": "0.540",
+      "emotion": "anger"
+    },
+    {
+      "word": "folkhop",
+      "intensity": "0.538",
+      "emotion": "anger"
+    },
+    {
+      "word": "dålighet",
+      "intensity": "0.536",
+      "emotion": "anger"
+    },
+    {
+      "word": "förlöjliga",
+      "intensity": "0.534",
+      "emotion": "anger"
+    },
+    {
+      "word": "upphetsande",
+      "intensity": "0.533",
+      "emotion": "anger"
+    },
+    {
+      "word": "bloss",
+      "intensity": "0.532",
+      "emotion": "anger"
+    },
+    {
+      "word": "hänsynslös",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "förvärrande",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "uppror",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "inkräktare",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "degeneration",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "förlossning",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "ohämmad",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "påstående",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "kommunism",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "piska",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "tvist",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "förringa",
+      "intensity": "0.531",
+      "emotion": "anger"
+    },
+    {
+      "word": "orättvis",
+      "intensity": "0.530",
+      "emotion": "anger"
+    },
+    {
+      "word": "bigott",
+      "intensity": "0.530",
+      "emotion": "anger"
+    },
+    {
+      "word": "lagbrytare",
+      "intensity": "0.530",
+      "emotion": "anger"
+    },
+    {
+      "word": "krångel",
+      "intensity": "0.530",
+      "emotion": "anger"
+    },
+    {
+      "word": "dissonans",
+      "intensity": "0.530",
+      "emotion": "anger"
+    },
+    {
+      "word": "diktatorisk",
+      "intensity": "0.530",
+      "emotion": "anger"
+    },
+    {
+      "word": "oberättigad",
+      "intensity": "0.530",
+      "emotion": "anger"
+    },
+    {
+      "word": "förvrängning",
+      "intensity": "0.530",
+      "emotion": "anger"
+    },
+    {
+      "word": "tacklas",
+      "intensity": "0.530",
+      "emotion": "anger"
+    },
+    {
+      "word": "renegat",
+      "intensity": "0.529",
+      "emotion": "anger"
+    },
+    {
+      "word": "varm",
+      "intensity": "0.529",
+      "emotion": "anger"
+    },
+    {
+      "word": "intrång",
+      "intensity": "0.529",
+      "emotion": "anger"
+    },
+    {
+      "word": "självmord",
+      "intensity": "0.521",
+      "emotion": "anger"
+    },
+    {
+      "word": "förarga",
+      "intensity": "0.520",
+      "emotion": "anger"
+    },
+    {
+      "word": "lämna mig ifred",
+      "intensity": "0.517",
+      "emotion": "anger"
+    },
+    {
+      "word": "fientlig",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "förräderi",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "idiotisk",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "misstro",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "sedefördärv",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "cretins",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "äktenskapsskillnad",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "halstra",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "grrr",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "avluftning",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "respektlös",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "skadegörande",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "klandra",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "oärlig",
+      "intensity": "0.516",
+      "emotion": "anger"
+    },
+    {
+      "word": "kaos",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "skälla",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "oförsonlig",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "frigöra",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "grump",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "ryta",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "ryck",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "tjuvjakt",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "pow",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "tjuvskyttar",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "argumentation",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "frustrerande",
+      "intensity": "0.515",
+      "emotion": "anger"
+    },
+    {
+      "word": "tampas",
+      "intensity": "0.514",
+      "emotion": "anger"
+    },
+    {
+      "word": "fördärv",
+      "intensity": "0.511",
+      "emotion": "anger"
+    },
+    {
+      "word": "anklagelse",
+      "intensity": "0.510",
+      "emotion": "anger"
+    },
+    {
+      "word": "förkastande",
+      "intensity": "0.510",
+      "emotion": "anger"
+    },
+    {
+      "word": "fiendskap",
+      "intensity": "0.510",
+      "emotion": "anger"
+    },
+    {
+      "word": "förvisa",
+      "intensity": "0.509",
+      "emotion": "anger"
+    },
+    {
+      "word": "vanställd",
+      "intensity": "0.508",
+      "emotion": "anger"
+    },
+    {
+      "word": "storm",
+      "intensity": "0.507",
+      "emotion": "anger"
+    },
+    {
+      "word": "galen",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "håna",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "sky",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "undertryckande",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "ostyrig",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "svårbehandlad",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "prövning",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "avvikelse",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "glöd",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "skumning",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "hån",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "animus",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "avvisar",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "spjut",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "fräck",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "antites",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "orätt",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "förvisat",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "dominera",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "sönderdelande",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "hamring",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "rädsla",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "brunt",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "besatt",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "trotsa",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "nedlåtande",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "försummelse",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "avvisa",
+      "intensity": "0.500",
+      "emotion": "anger"
+    },
+    {
+      "word": "seghet",
+      "intensity": "0.492",
+      "emotion": "anger"
+    },
+    {
+      "word": "galenskap",
+      "intensity": "0.491",
+      "emotion": "anger"
+    },
+    {
+      "word": "syndig",
+      "intensity": "0.491",
+      "emotion": "anger"
+    },
+    {
+      "word": "förtrycka",
+      "intensity": "0.490",
+      "emotion": "anger"
+    },
+    {
+      "word": "irriterad",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "klagomål",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "överträdelse",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "ej godkänd",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "omänsklig",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "efterfrågan",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "avskaffa",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "förbannelse",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "fricking",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "otjänst",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "smugglare",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "återkalla",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "klo",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "dissident",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "incest",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "olydig",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "tillskansa sig",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "fjärma",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "hämnare",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "skärande",
+      "intensity": "0.485",
+      "emotion": "anger"
+    },
+    {
+      "word": "motbjudande",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "tröska",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "svek",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "skam",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "misstänksam",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "parasit",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "spänd",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "skylla",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "omvälvning",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "avsäga sig",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "hålla tillbaka",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "kasta ut",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "stridslysten",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "rivalitet",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "straff",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "fången",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "hånfull",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "motsatt",
+      "intensity": "0.484",
+      "emotion": "anger"
+    },
+    {
+      "word": "turbulens",
+      "intensity": "0.483",
+      "emotion": "anger"
+    },
+    {
+      "word": "pund",
+      "intensity": "0.481",
+      "emotion": "anger"
+    },
+    {
+      "word": "kyla",
+      "intensity": "0.477",
+      "emotion": "anger"
+    },
+    {
+      "word": "otacksam",
+      "intensity": "0.472",
+      "emotion": "anger"
+    },
+    {
+      "word": "bataljon",
+      "intensity": "0.471",
+      "emotion": "anger"
+    },
+    {
+      "word": "stoopid",
+      "intensity": "0.471",
+      "emotion": "anger"
+    },
+    {
+      "word": "irriterande",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "galla",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "gisslan",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "otrogen",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "Bagge",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "åklagare",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "omstörtning",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "motgång",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "fördrivna",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "friktion",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "svartsjuk",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "feodalism",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "beväpning",
+      "intensity": "0.470",
+      "emotion": "anger"
+    },
+    {
+      "word": "skada",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "vansinne",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "klaga",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "anfall",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "dunk",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "hetsa",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "stjäla",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "inte lyda",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "sjuda",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "självisk",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "huff",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "själviskhet",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "backoff",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "plundra",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "kvävas",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "omstörtande",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "exil",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "invändning",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "återfall",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "kväva",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "förövare",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "intolerans",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "opposition",
+      "intensity": "0.469",
+      "emotion": "anger"
+    },
+    {
+      "word": "mugg",
+      "intensity": "0.467",
+      "emotion": "anger"
+    },
+    {
+      "word": "vånda",
+      "intensity": "0.465",
+      "emotion": "anger"
+    },
+    {
+      "word": "arrogant",
+      "intensity": "0.461",
+      "emotion": "anger"
+    },
+    {
+      "word": "högdragen",
+      "intensity": "0.456",
+      "emotion": "anger"
+    },
+    {
+      "word": "ventilera",
+      "intensity": "0.456",
+      "emotion": "anger"
+    },
+    {
+      "word": "eliminering",
+      "intensity": "0.456",
+      "emotion": "anger"
+    },
+    {
+      "word": "strejkvakt",
+      "intensity": "0.456",
+      "emotion": "anger"
+    },
+    {
+      "word": "besvärlig",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "larm",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "busted",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "begränsning",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "crabby",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "veto",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "stubbed",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "vilseleda",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "döende",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "riven",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "idioti",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "olaglighet",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "flagrant",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "ogenomsläpplig",
+      "intensity": "0.455",
+      "emotion": "anger"
+    },
+    {
+      "word": "missnöjd",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "dålig",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "despotism",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "usurped",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "gudlös",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "avvikande mening",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "intensiv",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "kamp",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "dämpa",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "ogillande",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "avstå",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "bajonett",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "hysterisk",
+      "intensity": "0.453",
+      "emotion": "anger"
+    },
+    {
+      "word": "felaktigt",
+      "intensity": "0.448",
+      "emotion": "anger"
+    },
+    {
+      "word": "frånstötande",
+      "intensity": "0.442",
+      "emotion": "anger"
+    },
+    {
+      "word": "fiende",
+      "intensity": "0.441",
+      "emotion": "anger"
+    },
+    {
+      "word": "förlorad",
+      "intensity": "0.441",
+      "emotion": "anger"
+    },
+    {
+      "word": "vanära",
+      "intensity": "0.441",
+      "emotion": "anger"
+    },
+    {
+      "word": "olov",
+      "intensity": "0.441",
+      "emotion": "anger"
+    },
+    {
+      "word": "psykos",
+      "intensity": "0.441",
+      "emotion": "anger"
+    },
+    {
+      "word": "motvilja",
+      "intensity": "0.440",
+      "emotion": "anger"
+    },
+    {
+      "word": "straff-",
+      "intensity": "0.439",
+      "emotion": "anger"
+    },
+    {
+      "word": "knogar",
+      "intensity": "0.439",
+      "emotion": "anger"
+    },
+    {
+      "word": "avbildning",
+      "intensity": "0.439",
+      "emotion": "anger"
+    },
+    {
+      "word": "schism",
+      "intensity": "0.439",
+      "emotion": "anger"
+    },
+    {
+      "word": "ultimatum",
+      "intensity": "0.439",
+      "emotion": "anger"
+    },
+    {
+      "word": "upprörd",
+      "intensity": "0.439",
+      "emotion": "anger"
+    },
+    {
+      "word": "skadlig",
+      "intensity": "0.438",
+      "emotion": "anger"
+    },
+    {
+      "word": "värdelös",
+      "intensity": "0.438",
+      "emotion": "anger"
+    },
+    {
+      "word": "förneka",
+      "intensity": "0.438",
+      "emotion": "anger"
+    },
+    {
+      "word": "lösen",
+      "intensity": "0.438",
+      "emotion": "anger"
+    },
+    {
+      "word": "flykting",
+      "intensity": "0.438",
+      "emotion": "anger"
+    },
+    {
+      "word": "dumhet",
+      "intensity": "0.438",
+      "emotion": "anger"
+    },
+    {
+      "word": "övergivenhet",
+      "intensity": "0.438",
+      "emotion": "anger"
+    },
+    {
+      "word": "mucked",
+      "intensity": "0.438",
+      "emotion": "anger"
+    },
+    {
+      "word": "separatist",
+      "intensity": "0.438",
+      "emotion": "anger"
+    },
+    {
+      "word": "glömska",
+      "intensity": "0.437",
+      "emotion": "anger"
+    },
+    {
+      "word": "segregera",
+      "intensity": "0.437",
+      "emotion": "anger"
+    },
+    {
+      "word": "hämnd",
+      "intensity": "0.436",
+      "emotion": "anger"
+    },
+    {
+      "word": "motsägelsefull",
+      "intensity": "0.435",
+      "emotion": "anger"
+    },
+    {
+      "word": "vräkning",
+      "intensity": "0.435",
+      "emotion": "anger"
+    },
+    {
+      "word": "maskopi",
+      "intensity": "0.432",
+      "emotion": "anger"
+    },
+    {
+      "word": "råna",
+      "intensity": "0.431",
+      "emotion": "anger"
+    },
+    {
+      "word": "otrohet",
+      "intensity": "0.429",
+      "emotion": "anger"
+    },
+    {
+      "word": "glupande",
+      "intensity": "0.429",
+      "emotion": "anger"
+    },
+    {
+      "word": "överskridande",
+      "intensity": "0.429",
+      "emotion": "anger"
+    },
+    {
+      "word": "krigisk",
+      "intensity": "0.426",
+      "emotion": "anger"
+    },
+    {
+      "word": "förebud",
+      "intensity": "0.426",
+      "emotion": "anger"
+    },
+    {
+      "word": "smärtsam",
+      "intensity": "0.426",
+      "emotion": "anger"
+    },
+    {
+      "word": "skeptisk",
+      "intensity": "0.426",
+      "emotion": "anger"
+    },
+    {
+      "word": "avslag",
+      "intensity": "0.426",
+      "emotion": "anger"
+    },
+    {
+      "word": "förbittring",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "girighet",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "kraftfull",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "censurera",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "oanständighet",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "bedräglig",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "gonorrhea",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "döljande",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "olydnad",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "väsen",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "förstärka",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "skorv",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "uppståndelse",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "bedra",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "missnöje",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "osympatisk",
+      "intensity": "0.424",
+      "emotion": "anger"
+    },
+    {
+      "word": "fängelse",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "irritation",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "hulling",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "förvisning",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "upproriskhet",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "Misrepresented",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "snubbed",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "genomslag",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "knäckt",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "duell",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "sarkasm",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "Deportation",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "nässla",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "ärr",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "smäll",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "byracka",
+      "intensity": "0.422",
+      "emotion": "anger"
+    },
+    {
+      "word": "uppenbar",
+      "intensity": "0.420",
+      "emotion": "anger"
+    },
+    {
+      "word": "pervers",
+      "intensity": "0.415",
+      "emotion": "anger"
+    },
+    {
+      "word": "vrida ur",
+      "intensity": "0.415",
+      "emotion": "anger"
+    },
+    {
+      "word": "bastion",
+      "intensity": "0.413",
+      "emotion": "anger"
+    },
+    {
+      "word": "bister",
+      "intensity": "0.413",
+      "emotion": "anger"
+    },
+    {
+      "word": "smutsig",
+      "intensity": "0.412",
+      "emotion": "anger"
+    },
+    {
+      "word": "buttre",
+      "intensity": "0.412",
+      "emotion": "anger"
+    },
+    {
+      "word": "tIFF",
+      "intensity": "0.412",
+      "emotion": "anger"
+    },
+    {
+      "word": "lynnig",
+      "intensity": "0.412",
+      "emotion": "anger"
+    },
+    {
+      "word": "jakt",
+      "intensity": "0.411",
+      "emotion": "anger"
+    },
+    {
+      "word": "AVTAL",
+      "intensity": "0.410",
+      "emotion": "anger"
+    },
+    {
+      "word": "fånge",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "tvång",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "krossa",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "förfärlig",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "blanda in",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "motsäga",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "överlägsenhet",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "smyg",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "cantwin",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "förebrå",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "blockad",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "förverka",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "svika",
+      "intensity": "0.409",
+      "emotion": "anger"
+    },
+    {
+      "word": "liggande",
+      "intensity": "0.408",
+      "emotion": "anger"
+    },
+    {
+      "word": "epidemi",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "järnväg",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "betungande",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "kakofonin",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "otänkbar",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "villfarelse",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "förseelse",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "grävling",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "antipati",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "olikhet",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "obehag",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "skrapie",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "wop",
+      "intensity": "0.406",
+      "emotion": "anger"
+    },
+    {
+      "word": "argument",
+      "intensity": "0.404",
+      "emotion": "anger"
+    },
+    {
+      "word": "skymf",
+      "intensity": "0.403",
+      "emotion": "anger"
+    },
+    {
+      "word": "traumatisk",
+      "intensity": "0.402",
+      "emotion": "anger"
+    },
+    {
+      "word": "förtal",
+      "intensity": "0.400",
+      "emotion": "anger"
+    },
+    {
+      "word": "jävla",
+      "intensity": "0.400",
+      "emotion": "anger"
+    },
+    {
+      "word": "retar",
+      "intensity": "0.400",
+      "emotion": "anger"
+    },
+    {
+      "word": "se upp",
+      "intensity": "0.398",
+      "emotion": "anger"
+    },
+    {
+      "word": "så långsam",
+      "intensity": "0.398",
+      "emotion": "anger"
+    },
+    {
+      "word": "frenetisk",
+      "intensity": "0.397",
+      "emotion": "anger"
+    },
+    {
+      "word": "försumlig",
+      "intensity": "0.397",
+      "emotion": "anger"
+    },
+    {
+      "word": "pråm",
+      "intensity": "0.396",
+      "emotion": "anger"
+    },
+    {
+      "word": "ovänlig",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "olaglig",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "tjut",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "boxning",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "untoward",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "släcka",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "fastkilad",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "respektlöshet",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "slödder",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "angripbara",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "bedrägeri",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "stämma",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "konfiskera",
+      "intensity": "0.394",
+      "emotion": "anger"
+    },
+    {
+      "word": "svavel",
+      "intensity": "0.392",
+      "emotion": "anger"
+    },
+    {
+      "word": "argh",
+      "intensity": "0.391",
+      "emotion": "anger"
+    },
+    {
+      "word": "såra",
+      "intensity": "0.391",
+      "emotion": "anger"
+    },
+    {
+      "word": "övermod",
+      "intensity": "0.391",
+      "emotion": "anger"
+    },
+    {
+      "word": "jordbävning",
+      "intensity": "0.391",
+      "emotion": "anger"
+    },
+    {
+      "word": "grrrrr",
+      "intensity": "0.391",
+      "emotion": "anger"
+    },
+    {
+      "word": "upplösning",
+      "intensity": "0.391",
+      "emotion": "anger"
+    },
+    {
+      "word": "riggade",
+      "intensity": "0.391",
+      "emotion": "anger"
+    },
+    {
+      "word": "instämmer inte alls",
+      "intensity": "0.389",
+      "emotion": "anger"
+    },
+    {
+      "word": "rättegång",
+      "intensity": "0.386",
+      "emotion": "anger"
+    },
+    {
+      "word": "nedlagd",
+      "intensity": "0.382",
+      "emotion": "anger"
+    },
+    {
+      "word": "omoral",
+      "intensity": "0.382",
+      "emotion": "anger"
+    },
+    {
+      "word": "förtvivlan",
+      "intensity": "0.382",
+      "emotion": "anger"
+    },
+    {
+      "word": "svårighet",
+      "intensity": "0.379",
+      "emotion": "anger"
+    },
+    {
+      "word": "obotlig",
+      "intensity": "0.379",
+      "emotion": "anger"
+    },
+    {
+      "word": "känslig",
+      "intensity": "0.379",
+      "emotion": "anger"
+    },
+    {
+      "word": "fräsa vid matlagning",
+      "intensity": "0.379",
+      "emotion": "anger"
+    },
+    {
+      "word": "gevär",
+      "intensity": "0.379",
+      "emotion": "anger"
+    },
+    {
+      "word": "förfalskning",
+      "intensity": "0.379",
+      "emotion": "anger"
+    },
+    {
+      "word": "petar",
+      "intensity": "0.379",
+      "emotion": "anger"
+    },
+    {
+      "word": "öm",
+      "intensity": "0.379",
+      "emotion": "anger"
+    },
+    {
+      "word": "postering",
+      "intensity": "0.378",
+      "emotion": "anger"
+    },
+    {
+      "word": "hjärnskakning",
+      "intensity": "0.377",
+      "emotion": "anger"
+    },
+    {
+      "word": "pessimism",
+      "intensity": "0.375",
+      "emotion": "anger"
+    },
+    {
+      "word": "fälla",
+      "intensity": "0.375",
+      "emotion": "anger"
+    },
+    {
+      "word": "infantil",
+      "intensity": "0.375",
+      "emotion": "anger"
+    },
+    {
+      "word": "milis",
+      "intensity": "0.375",
+      "emotion": "anger"
+    },
+    {
+      "word": "remand",
+      "intensity": "0.375",
+      "emotion": "anger"
+    },
+    {
+      "word": "felaktig",
+      "intensity": "0.375",
+      "emotion": "anger"
+    },
+    {
+      "word": "kanon",
+      "intensity": "0.375",
+      "emotion": "anger"
+    },
+    {
+      "word": "rawr",
+      "intensity": "0.375",
+      "emotion": "anger"
+    },
+    {
+      "word": "slug",
+      "intensity": "0.375",
+      "emotion": "anger"
+    },
+    {
+      "word": "nepotism",
+      "intensity": "0.371",
+      "emotion": "anger"
+    },
+    {
+      "word": "ömmande",
+      "intensity": "0.371",
+      "emotion": "anger"
+    },
+    {
+      "word": "hämma",
+      "intensity": "0.371",
+      "emotion": "anger"
+    },
+    {
+      "word": "försvara",
+      "intensity": "0.371",
+      "emotion": "anger"
+    },
+    {
+      "word": "schizofreni",
+      "intensity": "0.369",
+      "emotion": "anger"
+    },
+    {
+      "word": "vanhedrande",
+      "intensity": "0.368",
+      "emotion": "anger"
+    },
+    {
+      "word": "skev",
+      "intensity": "0.368",
+      "emotion": "anger"
+    },
+    {
+      "word": "förbjuder",
+      "intensity": "0.368",
+      "emotion": "anger"
+    },
+    {
+      "word": "erövring",
+      "intensity": "0.367",
+      "emotion": "anger"
+    },
+    {
+      "word": "leukemi",
+      "intensity": "0.365",
+      "emotion": "anger"
+    },
+    {
+      "word": "bark",
+      "intensity": "0.364",
+      "emotion": "anger"
+    },
+    {
+      "word": "burke",
+      "intensity": "0.364",
+      "emotion": "anger"
+    },
+    {
+      "word": "utmaning",
+      "intensity": "0.364",
+      "emotion": "anger"
+    },
+    {
+      "word": "ogilla",
+      "intensity": "0.364",
+      "emotion": "anger"
+    },
+    {
+      "word": "retarderad",
+      "intensity": "0.364",
+      "emotion": "anger"
+    },
+    {
+      "word": "krigare",
+      "intensity": "0.364",
+      "emotion": "anger"
+    },
+    {
+      "word": "bälte",
+      "intensity": "0.364",
+      "emotion": "anger"
+    },
+    {
+      "word": "kontroversiell",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "påstridig",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "bruten",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "processa",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "polemisk",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "verkningarna",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "ogillade",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "högljuddhet",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "restriktion",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "cad",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "sekteristisk",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "inkompetens",
+      "intensity": "0.359",
+      "emotion": "anger"
+    },
+    {
+      "word": "avbryter",
+      "intensity": "0.358",
+      "emotion": "anger"
+    },
+    {
+      "word": "kinkig",
+      "intensity": "0.357",
+      "emotion": "anger"
+    },
+    {
+      "word": "jänta",
+      "intensity": "0.353",
+      "emotion": "anger"
+    },
+    {
+      "word": "dåligt uppförande",
+      "intensity": "0.351",
+      "emotion": "anger"
+    },
+    {
+      "word": "barsk",
+      "intensity": "0.351",
+      "emotion": "anger"
+    },
+    {
+      "word": "avlägsna",
+      "intensity": "0.351",
+      "emotion": "anger"
+    },
+    {
+      "word": "brat",
+      "intensity": "0.351",
+      "emotion": "anger"
+    },
+    {
+      "word": "förlorande",
+      "intensity": "0.349",
+      "emotion": "anger"
+    },
+    {
+      "word": "skadedjur",
+      "intensity": "0.348",
+      "emotion": "anger"
+    },
+    {
+      "word": "oenighet",
+      "intensity": "0.348",
+      "emotion": "anger"
+    },
+    {
+      "word": "defekt",
+      "intensity": "0.348",
+      "emotion": "anger"
+    },
+    {
+      "word": "härdad",
+      "intensity": "0.348",
+      "emotion": "anger"
+    },
+    {
+      "word": "folktom",
+      "intensity": "0.348",
+      "emotion": "anger"
+    },
+    {
+      "word": "dra tillbaka",
+      "intensity": "0.348",
+      "emotion": "anger"
+    },
+    {
+      "word": "opålitlig",
+      "intensity": "0.348",
+      "emotion": "anger"
+    },
+    {
+      "word": "besviken",
+      "intensity": "0.348",
+      "emotion": "anger"
+    },
+    {
+      "word": "stigma",
+      "intensity": "0.348",
+      "emotion": "anger"
+    },
+    {
+      "word": "ulcus",
+      "intensity": "0.348",
+      "emotion": "anger"
+    },
+    {
+      "word": "partiskhet",
+      "intensity": "0.345",
+      "emotion": "anger"
+    },
+    {
+      "word": "usel",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "ångest",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "vilseledande",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "negation",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "asocial",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "undgå",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "stör",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "impotens",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "skakig",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "avskalade",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "säger",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "orolig",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "snål",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "försämring",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "pirat",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "opålitliga",
+      "intensity": "0.344",
+      "emotion": "anger"
+    },
+    {
+      "word": "oändlig",
+      "intensity": "0.343",
+      "emotion": "anger"
+    },
+    {
+      "word": "sjukdom",
+      "intensity": "0.341",
+      "emotion": "anger"
+    },
+    {
+      "word": "befatta sig",
+      "intensity": "0.341",
+      "emotion": "anger"
+    },
+    {
+      "word": "varp",
+      "intensity": "0.340",
+      "emotion": "anger"
+    },
+    {
+      "word": "obenägna",
+      "intensity": "0.338",
+      "emotion": "anger"
+    },
+    {
+      "word": "ökänd",
+      "intensity": "0.338",
+      "emotion": "anger"
+    },
+    {
+      "word": "alkoholism",
+      "intensity": "0.338",
+      "emotion": "anger"
+    },
+    {
+      "word": "rad",
+      "intensity": "0.337",
+      "emotion": "anger"
+    },
+    {
+      "word": "sjuk",
+      "intensity": "0.333",
+      "emotion": "anger"
+    },
+    {
+      "word": "belastning",
+      "intensity": "0.333",
+      "emotion": "anger"
+    },
+    {
+      "word": "skorpion",
+      "intensity": "0.333",
+      "emotion": "anger"
+    },
+    {
+      "word": "illegitim",
+      "intensity": "0.333",
+      "emotion": "anger"
+    },
+    {
+      "word": "trolldom",
+      "intensity": "0.333",
+      "emotion": "anger"
+    },
+    {
+      "word": "avbryta",
+      "intensity": "0.333",
+      "emotion": "anger"
+    },
+    {
+      "word": "lam",
+      "intensity": "0.333",
+      "emotion": "anger"
+    },
+    {
+      "word": "syndare",
+      "intensity": "0.331",
+      "emotion": "anger"
+    },
+    {
+      "word": "holk",
+      "intensity": "0.329",
+      "emotion": "anger"
+    },
+    {
+      "word": "hänsynslöst",
+      "intensity": "0.329",
+      "emotion": "anger"
+    },
+    {
+      "word": "vresig",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "motståndare",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "offer",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "falska",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "spammare",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "streckad",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "diskvalificeras",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "fib",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "väsa",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "brrr",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "motstå",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "syndabock",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "spänna",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "korståg",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "dislocated",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "förbjuden",
+      "intensity": "0.328",
+      "emotion": "anger"
+    },
+    {
+      "word": "olämplig",
+      "intensity": "0.324",
+      "emotion": "anger"
+    },
+    {
+      "word": "förlust",
+      "intensity": "0.324",
+      "emotion": "anger"
+    },
+    {
+      "word": "eschew",
+      "intensity": "0.324",
+      "emotion": "anger"
+    },
+    {
+      "word": "knep",
+      "intensity": "0.324",
+      "emotion": "anger"
+    },
+    {
+      "word": "försummad",
+      "intensity": "0.324",
+      "emotion": "anger"
+    },
+    {
+      "word": "kräfta",
+      "intensity": "0.323",
+      "emotion": "anger"
+    },
+    {
+      "word": "muff",
+      "intensity": "0.318",
+      "emotion": "anger"
+    },
+    {
+      "word": "knastrande",
+      "intensity": "0.318",
+      "emotion": "anger"
+    },
+    {
+      "word": "falskhet",
+      "intensity": "0.318",
+      "emotion": "anger"
+    },
+    {
+      "word": "kritik",
+      "intensity": "0.318",
+      "emotion": "anger"
+    },
+    {
+      "word": "skrika",
+      "intensity": "0.316",
+      "emotion": "anger"
+    },
+    {
+      "word": "minska i värde",
+      "intensity": "0.315",
+      "emotion": "anger"
+    },
+    {
+      "word": "uppsägning",
+      "intensity": "0.312",
+      "emotion": "anger"
+    },
+    {
+      "word": "fattigdom",
+      "intensity": "0.312",
+      "emotion": "anger"
+    },
+    {
+      "word": "agnar",
+      "intensity": "0.312",
+      "emotion": "anger"
+    },
+    {
+      "word": "dupera",
+      "intensity": "0.312",
+      "emotion": "anger"
+    },
+    {
+      "word": "Dramadrottning",
+      "intensity": "0.312",
+      "emotion": "anger"
+    },
+    {
+      "word": "dödlighet",
+      "intensity": "0.312",
+      "emotion": "anger"
+    },
+    {
+      "word": "tömma",
+      "intensity": "0.312",
+      "emotion": "anger"
+    },
+    {
+      "word": "slarv",
+      "intensity": "0.312",
+      "emotion": "anger"
+    },
+    {
+      "word": "soptippar",
+      "intensity": "0.312",
+      "emotion": "anger"
+    },
+    {
+      "word": "revving",
+      "intensity": "0.309",
+      "emotion": "anger"
+    },
+    {
+      "word": "otillåtna",
+      "intensity": "0.308",
+      "emotion": "anger"
+    },
+    {
+      "word": "tanklös",
+      "intensity": "0.307",
+      "emotion": "anger"
+    },
+    {
+      "word": "stormig",
+      "intensity": "0.307",
+      "emotion": "anger"
+    },
+    {
+      "word": "begravning",
+      "intensity": "0.304",
+      "emotion": "anger"
+    },
+    {
+      "word": "teokratisk",
+      "intensity": "0.303",
+      "emotion": "anger"
+    },
+    {
+      "word": "rygga tillbaka",
+      "intensity": "0.303",
+      "emotion": "anger"
+    },
+    {
+      "word": "trumpen",
+      "intensity": "0.303",
+      "emotion": "anger"
+    },
+    {
+      "word": "involution",
+      "intensity": "0.300",
+      "emotion": "anger"
+    },
+    {
+      "word": "bluff",
+      "intensity": "0.297",
+      "emotion": "anger"
+    },
+    {
+      "word": "meningslös",
+      "intensity": "0.297",
+      "emotion": "anger"
+    },
+    {
+      "word": "dödläge",
+      "intensity": "0.297",
+      "emotion": "anger"
+    },
+    {
+      "word": "skrivs",
+      "intensity": "0.297",
+      "emotion": "anger"
+    },
+    {
+      "word": "slösaktig",
+      "intensity": "0.297",
+      "emotion": "anger"
+    },
+    {
+      "word": "missbruka",
+      "intensity": "0.297",
+      "emotion": "anger"
+    },
+    {
+      "word": "Skaffa din egen",
+      "intensity": "0.297",
+      "emotion": "anger"
+    },
+    {
+      "word": "beskattas",
+      "intensity": "0.297",
+      "emotion": "anger"
+    },
+    {
+      "word": "deprimerad",
+      "intensity": "0.297",
+      "emotion": "anger"
+    },
+    {
+      "word": "förlamning",
+      "intensity": "0.295",
+      "emotion": "anger"
+    },
+    {
+      "word": "förskjuten",
+      "intensity": "0.294",
+      "emotion": "anger"
+    },
+    {
+      "word": "begränsad",
+      "intensity": "0.292",
+      "emotion": "anger"
+    },
+    {
+      "word": "orc",
+      "intensity": "0.289",
+      "emotion": "anger"
+    },
+    {
+      "word": "löjlig",
+      "intensity": "0.289",
+      "emotion": "anger"
+    },
+    {
+      "word": "kitslig",
+      "intensity": "0.288",
+      "emotion": "anger"
+    },
+    {
+      "word": "skärpa",
+      "intensity": "0.288",
+      "emotion": "anger"
+    },
+    {
+      "word": "reagera",
+      "intensity": "0.288",
+      "emotion": "anger"
+    },
+    {
+      "word": "förmäten",
+      "intensity": "0.288",
+      "emotion": "anger"
+    },
+    {
+      "word": "hemlös",
+      "intensity": "0.288",
+      "emotion": "anger"
+    },
+    {
+      "word": "ryckiga",
+      "intensity": "0.287",
+      "emotion": "anger"
+    },
+    {
+      "word": "barriär",
+      "intensity": "0.287",
+      "emotion": "anger"
+    },
+    {
+      "word": "myopi",
+      "intensity": "0.283",
+      "emotion": "anger"
+    },
+    {
+      "word": "oförenlig",
+      "intensity": "0.281",
+      "emotion": "anger"
+    },
+    {
+      "word": "darrning",
+      "intensity": "0.281",
+      "emotion": "anger"
+    },
+    {
+      "word": "smuggel",
+      "intensity": "0.281",
+      "emotion": "anger"
+    },
+    {
+      "word": "kopplar",
+      "intensity": "0.281",
+      "emotion": "anger"
+    },
+    {
+      "word": "skräppost",
+      "intensity": "0.281",
+      "emotion": "anger"
+    },
+    {
+      "word": "eftersläpande",
+      "intensity": "0.281",
+      "emotion": "anger"
+    },
+    {
+      "word": "agh",
+      "intensity": "0.281",
+      "emotion": "anger"
+    },
+    {
+      "word": "återbetalning",
+      "intensity": "0.281",
+      "emotion": "anger"
+    },
+    {
+      "word": "flexin",
+      "intensity": "0.281",
+      "emotion": "anger"
+    },
+    {
+      "word": "brottsling",
+      "intensity": "0.281",
+      "emotion": "anger"
+    },
+    {
+      "word": "noncompliance",
+      "intensity": "0.279",
+      "emotion": "anger"
+    },
+    {
+      "word": "troll",
+      "intensity": "0.279",
+      "emotion": "anger"
+    },
+    {
+      "word": "buffrande",
+      "intensity": "0.279",
+      "emotion": "anger"
+    },
+    {
+      "word": "orättvisa",
+      "intensity": "0.279",
+      "emotion": "anger"
+    },
+    {
+      "word": "plundringståg",
+      "intensity": "0.279",
+      "emotion": "anger"
+    },
+    {
+      "word": "nedre",
+      "intensity": "0.278",
+      "emotion": "anger"
+    },
+    {
+      "word": "bugaboo",
+      "intensity": "0.273",
+      "emotion": "anger"
+    },
+    {
+      "word": "omogenhet",
+      "intensity": "0.273",
+      "emotion": "anger"
+    },
+    {
+      "word": "falsk",
+      "intensity": "0.273",
+      "emotion": "anger"
+    },
+    {
+      "word": "OBEKYMRAD",
+      "intensity": "0.273",
+      "emotion": "anger"
+    },
+    {
+      "word": "chock",
+      "intensity": "0.269",
+      "emotion": "anger"
+    },
+    {
+      "word": "lättretlig",
+      "intensity": "0.269",
+      "emotion": "anger"
+    },
+    {
+      "word": "svarande",
+      "intensity": "0.266",
+      "emotion": "anger"
+    },
+    {
+      "word": "latent",
+      "intensity": "0.266",
+      "emotion": "anger"
+    },
+    {
+      "word": "knacknings",
+      "intensity": "0.266",
+      "emotion": "anger"
+    },
+    {
+      "word": "bända",
+      "intensity": "0.266",
+      "emotion": "anger"
+    },
+    {
+      "word": "Björn",
+      "intensity": "0.266",
+      "emotion": "anger"
+    },
+    {
+      "word": "verkningslös",
+      "intensity": "0.266",
+      "emotion": "anger"
+    },
+    {
+      "word": "dilemma",
+      "intensity": "0.266",
+      "emotion": "anger"
+    },
+    {
+      "word": "obekväm",
+      "intensity": "0.266",
+      "emotion": "anger"
+    },
+    {
+      "word": "feminism",
+      "intensity": "0.266",
+      "emotion": "anger"
+    },
+    {
+      "word": "humbug",
+      "intensity": "0.266",
+      "emotion": "anger"
+    },
+    {
+      "word": "avbrott",
+      "intensity": "0.265",
+      "emotion": "anger"
+    },
+    {
+      "word": "fluktuation",
+      "intensity": "0.265",
+      "emotion": "anger"
+    },
+    {
+      "word": "överdriva",
+      "intensity": "0.263",
+      "emotion": "anger"
+    },
+    {
+      "word": "förlora",
+      "intensity": "0.261",
+      "emotion": "anger"
+    },
+    {
+      "word": "smattra",
+      "intensity": "0.258",
+      "emotion": "anger"
+    },
+    {
+      "word": "reta",
+      "intensity": "0.258",
+      "emotion": "anger"
+    },
+    {
+      "word": "ugn",
+      "intensity": "0.258",
+      "emotion": "anger"
+    },
+    {
+      "word": "sten",
+      "intensity": "0.258",
+      "emotion": "anger"
+    },
+    {
+      "word": "snatteri",
+      "intensity": "0.258",
+      "emotion": "anger"
+    },
+    {
+      "word": "soldat",
+      "intensity": "0.258",
+      "emotion": "anger"
+    },
+    {
+      "word": "inkompetent",
+      "intensity": "0.257",
+      "emotion": "anger"
+    },
+    {
+      "word": "indoktrinering",
+      "intensity": "0.255",
+      "emotion": "anger"
+    },
+    {
+      "word": "herravälde",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "lögn",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "glid",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "ökändhet",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "osann",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "tripping",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "dumheter",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "sluta följa",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "högljudd",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "truta",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "sockerrör",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "raket",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "komplicera",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "socialistisk",
+      "intensity": "0.250",
+      "emotion": "anger"
+    },
+    {
+      "word": "Caps Lock",
+      "intensity": "0.242",
+      "emotion": "anger"
+    },
+    {
+      "word": "inhägnad",
+      "intensity": "0.242",
+      "emotion": "anger"
+    },
+    {
+      "word": "hinder",
+      "intensity": "0.242",
+      "emotion": "anger"
+    },
+    {
+      "word": "grimma",
+      "intensity": "0.242",
+      "emotion": "anger"
+    },
+    {
+      "word": "häxa",
+      "intensity": "0.242",
+      "emotion": "anger"
+    },
+    {
+      "word": "vampyr",
+      "intensity": "0.242",
+      "emotion": "anger"
+    },
+    {
+      "word": "förr",
+      "intensity": "0.242",
+      "emotion": "anger"
+    },
+    {
+      "word": "ringer",
+      "intensity": "0.242",
+      "emotion": "anger"
+    },
+    {
+      "word": "rynkar",
+      "intensity": "0.239",
+      "emotion": "anger"
+    },
+    {
+      "word": "hunger",
+      "intensity": "0.235",
+      "emotion": "anger"
+    },
+    {
+      "word": "lågkonjunktur",
+      "intensity": "0.234",
+      "emotion": "anger"
+    },
+    {
+      "word": "lava",
+      "intensity": "0.234",
+      "emotion": "anger"
+    },
+    {
+      "word": "skal",
+      "intensity": "0.234",
+      "emotion": "anger"
+    },
+    {
+      "word": "dabbling",
+      "intensity": "0.234",
+      "emotion": "anger"
+    },
+    {
+      "word": "taxa",
+      "intensity": "0.234",
+      "emotion": "anger"
+    },
+    {
+      "word": "skojare",
+      "intensity": "0.234",
+      "emotion": "anger"
+    },
+    {
+      "word": "politik",
+      "intensity": "0.234",
+      "emotion": "anger"
+    },
+    {
+      "word": "oönskad",
+      "intensity": "0.231",
+      "emotion": "anger"
+    },
+    {
+      "word": "mörker",
+      "intensity": "0.227",
+      "emotion": "anger"
+    },
+    {
+      "word": "mot",
+      "intensity": "0.227",
+      "emotion": "anger"
+    },
+    {
+      "word": "avgå",
+      "intensity": "0.227",
+      "emotion": "anger"
+    },
+    {
+      "word": "härmapa",
+      "intensity": "0.227",
+      "emotion": "anger"
+    },
+    {
+      "word": "uppblött",
+      "intensity": "0.226",
+      "emotion": "anger"
+    },
+    {
+      "word": "ouppfylld",
+      "intensity": "0.225",
+      "emotion": "anger"
+    },
+    {
+      "word": "övergiven",
+      "intensity": "0.222",
+      "emotion": "anger"
+    },
+    {
+      "word": "konkurs",
+      "intensity": "0.221",
+      "emotion": "anger"
+    },
+    {
+      "word": "SOM SKALL BETALAS",
+      "intensity": "0.221",
+      "emotion": "anger"
+    },
+    {
+      "word": "ouppnåelig",
+      "intensity": "0.221",
+      "emotion": "anger"
+    },
+    {
+      "word": "ohjälpsam",
+      "intensity": "0.219",
+      "emotion": "anger"
+    },
+    {
+      "word": "ryckningar",
+      "intensity": "0.219",
+      "emotion": "anger"
+    },
+    {
+      "word": "förvirring",
+      "intensity": "0.219",
+      "emotion": "anger"
+    },
+    {
+      "word": "mygga",
+      "intensity": "0.219",
+      "emotion": "anger"
+    },
+    {
+      "word": "vakt",
+      "intensity": "0.219",
+      "emotion": "anger"
+    },
+    {
+      "word": "missuppfattning",
+      "intensity": "0.219",
+      "emotion": "anger"
+    },
+    {
+      "word": "komprimera",
+      "intensity": "0.219",
+      "emotion": "anger"
+    },
+    {
+      "word": "whiny",
+      "intensity": "0.219",
+      "emotion": "anger"
+    },
+    {
+      "word": "verktyg",
+      "intensity": "0.219",
+      "emotion": "anger"
+    },
+    {
+      "word": "nyfiken",
+      "intensity": "0.213",
+      "emotion": "anger"
+    },
+    {
+      "word": "brist",
+      "intensity": "0.212",
+      "emotion": "anger"
+    },
+    {
+      "word": "för dyrt",
+      "intensity": "0.212",
+      "emotion": "anger"
+    },
+    {
+      "word": "harry",
+      "intensity": "0.212",
+      "emotion": "anger"
+    },
+    {
+      "word": "huggorm",
+      "intensity": "0.212",
+      "emotion": "anger"
+    },
+    {
+      "word": "melodrama",
+      "intensity": "0.212",
+      "emotion": "anger"
+    },
+    {
+      "word": "overplayed",
+      "intensity": "0.206",
+      "emotion": "anger"
+    },
+    {
+      "word": "besittning",
+      "intensity": "0.206",
+      "emotion": "anger"
+    },
+    {
+      "word": "öken-",
+      "intensity": "0.206",
+      "emotion": "anger"
+    },
+    {
+      "word": "olycklig",
+      "intensity": "0.203",
+      "emotion": "anger"
+    },
+    {
+      "word": "ryggrad",
+      "intensity": "0.203",
+      "emotion": "anger"
+    },
+    {
+      "word": "pout",
+      "intensity": "0.203",
+      "emotion": "anger"
+    },
+    {
+      "word": "objuden",
+      "intensity": "0.203",
+      "emotion": "anger"
+    },
+    {
+      "word": "arraignment",
+      "intensity": "0.203",
+      "emotion": "anger"
+    },
+    {
+      "word": "ineffektiv",
+      "intensity": "0.203",
+      "emotion": "anger"
+    },
+    {
+      "word": "råka",
+      "intensity": "0.203",
+      "emotion": "anger"
+    },
+    {
+      "word": "obetald",
+      "intensity": "0.203",
+      "emotion": "anger"
+    },
+    {
+      "word": "mening",
+      "intensity": "0.203",
+      "emotion": "anger"
+    },
+    {
+      "word": "maktlös",
+      "intensity": "0.203",
+      "emotion": "anger"
+    },
+    {
+      "word": "domstol",
+      "intensity": "0.199",
+      "emotion": "anger"
+    },
+    {
+      "word": "ändlös",
+      "intensity": "0.198",
+      "emotion": "anger"
+    },
+    {
+      "word": "förvirrad",
+      "intensity": "0.197",
+      "emotion": "anger"
+    },
+    {
+      "word": "annonser",
+      "intensity": "0.197",
+      "emotion": "anger"
+    },
+    {
+      "word": "dröjsmål",
+      "intensity": "0.197",
+      "emotion": "anger"
+    },
+    {
+      "word": "felaktigheter",
+      "intensity": "0.197",
+      "emotion": "anger"
+    },
+    {
+      "word": "missförstånd",
+      "intensity": "0.195",
+      "emotion": "anger"
+    },
+    {
+      "word": "excitera",
+      "intensity": "0.191",
+      "emotion": "anger"
+    },
+    {
+      "word": "avvisas",
+      "intensity": "0.191",
+      "emotion": "anger"
+    },
+    {
+      "word": "blixt-",
+      "intensity": "0.189",
+      "emotion": "anger"
+    },
+    {
+      "word": "hindra",
+      "intensity": "0.188",
+      "emotion": "anger"
+    },
+    {
+      "word": "om",
+      "intensity": "0.188",
+      "emotion": "anger"
+    },
+    {
+      "word": "sorgsen",
+      "intensity": "0.188",
+      "emotion": "anger"
+    },
+    {
+      "word": "betyg",
+      "intensity": "0.182",
+      "emotion": "anger"
+    },
+    {
+      "word": "husmor",
+      "intensity": "0.182",
+      "emotion": "anger"
+    },
+    {
+      "word": "sökande",
+      "intensity": "0.182",
+      "emotion": "anger"
+    },
+    {
+      "word": "insistera",
+      "intensity": "0.182",
+      "emotion": "anger"
+    },
+    {
+      "word": "distraherande",
+      "intensity": "0.182",
+      "emotion": "anger"
+    },
+    {
+      "word": "opium",
+      "intensity": "0.180",
+      "emotion": "anger"
+    },
+    {
+      "word": "avsiktlig",
+      "intensity": "0.176",
+      "emotion": "anger"
+    },
+    {
+      "word": "förtjänar",
+      "intensity": "0.176",
+      "emotion": "anger"
+    },
+    {
+      "word": "insisterar",
+      "intensity": "0.175",
+      "emotion": "anger"
+    },
+    {
+      "word": "behandla",
+      "intensity": "0.175",
+      "emotion": "anger"
+    },
+    {
+      "word": "felplacera",
+      "intensity": "0.172",
+      "emotion": "anger"
+    },
+    {
+      "word": "obeslutsam",
+      "intensity": "0.172",
+      "emotion": "anger"
+    },
+    {
+      "word": "rotvälska",
+      "intensity": "0.172",
+      "emotion": "anger"
+    },
+    {
+      "word": "skinna",
+      "intensity": "0.172",
+      "emotion": "anger"
+    },
+    {
+      "word": "avgift",
+      "intensity": "0.172",
+      "emotion": "anger"
+    },
+    {
+      "word": "befria",
+      "intensity": "0.172",
+      "emotion": "anger"
+    },
+    {
+      "word": "excitation",
+      "intensity": "0.172",
+      "emotion": "anger"
+    },
+    {
+      "word": "hormonell",
+      "intensity": "0.172",
+      "emotion": "anger"
+    },
+    {
+      "word": "mäktig",
+      "intensity": "0.172",
+      "emotion": "anger"
+    },
+    {
+      "word": "gläfsa",
+      "intensity": "0.168",
+      "emotion": "anger"
+    },
+    {
+      "word": "olika",
+      "intensity": "0.167",
+      "emotion": "anger"
+    },
+    {
+      "word": "insufficiens",
+      "intensity": "0.167",
+      "emotion": "anger"
+    },
+    {
+      "word": "knäsena",
+      "intensity": "0.167",
+      "emotion": "anger"
+    },
+    {
+      "word": "förhandlingar",
+      "intensity": "0.167",
+      "emotion": "anger"
+    },
+    {
+      "word": "mula",
+      "intensity": "0.167",
+      "emotion": "anger"
+    },
+    {
+      "word": "obetydlig",
+      "intensity": "0.167",
+      "emotion": "anger"
+    },
+    {
+      "word": "likgiltighet",
+      "intensity": "0.156",
+      "emotion": "anger"
+    },
+    {
+      "word": "reumatism",
+      "intensity": "0.156",
+      "emotion": "anger"
+    },
+    {
+      "word": "coop",
+      "intensity": "0.156",
+      "emotion": "anger"
+    },
+    {
+      "word": "underarm",
+      "intensity": "0.156",
+      "emotion": "anger"
+    },
+    {
+      "word": "advokat",
+      "intensity": "0.152",
+      "emotion": "anger"
+    },
+    {
+      "word": "osäker",
+      "intensity": "0.152",
+      "emotion": "anger"
+    },
+    {
+      "word": "bi",
+      "intensity": "0.152",
+      "emotion": "anger"
+    },
+    {
+      "word": "medverkan",
+      "intensity": "0.152",
+      "emotion": "anger"
+    },
+    {
+      "word": "desinformation",
+      "intensity": "0.152",
+      "emotion": "anger"
+    },
+    {
+      "word": "betalda",
+      "intensity": "0.152",
+      "emotion": "anger"
+    },
+    {
+      "word": "låtsas",
+      "intensity": "0.152",
+      "emotion": "anger"
+    },
+    {
+      "word": "kampanjer",
+      "intensity": "0.151",
+      "emotion": "anger"
+    },
+    {
+      "word": "hopplöshet",
+      "intensity": "0.149",
+      "emotion": "anger"
+    },
+    {
+      "word": "känsla",
+      "intensity": "0.147",
+      "emotion": "anger"
+    },
+    {
+      "word": "legaliserade",
+      "intensity": "0.145",
+      "emotion": "anger"
+    },
+    {
+      "word": "varning",
+      "intensity": "0.145",
+      "emotion": "anger"
+    },
+    {
+      "word": "tvinga",
+      "intensity": "0.141",
+      "emotion": "anger"
+    },
+    {
+      "word": "bidrag",
+      "intensity": "0.141",
+      "emotion": "anger"
+    },
+    {
+      "word": "moral",
+      "intensity": "0.141",
+      "emotion": "anger"
+    },
+    {
+      "word": "sterling-",
+      "intensity": "0.141",
+      "emotion": "anger"
+    },
+    {
+      "word": "wimpy",
+      "intensity": "0.140",
+      "emotion": "anger"
+    },
+    {
+      "word": "besvikelse",
+      "intensity": "0.139",
+      "emotion": "anger"
+    },
+    {
+      "word": "stava fel",
+      "intensity": "0.136",
+      "emotion": "anger"
+    },
+    {
+      "word": "salong",
+      "intensity": "0.136",
+      "emotion": "anger"
+    },
+    {
+      "word": "återbetala",
+      "intensity": "0.136",
+      "emotion": "anger"
+    },
+    {
+      "word": "fläck",
+      "intensity": "0.136",
+      "emotion": "anger"
+    },
+    {
+      "word": "tilläggsavgift",
+      "intensity": "0.136",
+      "emotion": "anger"
+    },
+    {
+      "word": "Herregud",
+      "intensity": "0.136",
+      "emotion": "anger"
+    },
+    {
+      "word": "björk",
+      "intensity": "0.135",
+      "emotion": "anger"
+    },
+    {
+      "word": "tuta",
+      "intensity": "0.133",
+      "emotion": "anger"
+    },
+    {
+      "word": "nybörjare",
+      "intensity": "0.133",
+      "emotion": "anger"
+    },
+    {
+      "word": "orkester",
+      "intensity": "0.132",
+      "emotion": "anger"
+    },
+    {
+      "word": "konkurrenskraftig",
+      "intensity": "0.125",
+      "emotion": "anger"
+    },
+    {
+      "word": "trådlös",
+      "intensity": "0.125",
+      "emotion": "anger"
+    },
+    {
+      "word": "stå still",
+      "intensity": "0.125",
+      "emotion": "anger"
+    },
+    {
+      "word": "moské",
+      "intensity": "0.122",
+      "emotion": "anger"
+    },
+    {
+      "word": "omkastning",
+      "intensity": "0.121",
+      "emotion": "anger"
+    },
+    {
+      "word": "ouppmärksamhet",
+      "intensity": "0.121",
+      "emotion": "anger"
+    },
+    {
+      "word": "spets",
+      "intensity": "0.118",
+      "emotion": "anger"
+    },
+    {
+      "word": "armbåge",
+      "intensity": "0.117",
+      "emotion": "anger"
+    },
+    {
+      "word": "instinktiv",
+      "intensity": "0.112",
+      "emotion": "anger"
+    },
+    {
+      "word": "sång",
+      "intensity": "0.111",
+      "emotion": "anger"
+    },
+    {
+      "word": "ensam",
+      "intensity": "0.109",
+      "emotion": "anger"
+    },
+    {
+      "word": "gnome",
+      "intensity": "0.109",
+      "emotion": "anger"
+    },
+    {
+      "word": "tolerera",
+      "intensity": "0.106",
+      "emotion": "anger"
+    },
+    {
+      "word": "förvaltning",
+      "intensity": "0.102",
+      "emotion": "anger"
+    },
+    {
+      "word": "försvar",
+      "intensity": "0.100",
+      "emotion": "anger"
+    },
+    {
+      "word": "moralisk",
+      "intensity": "0.094",
+      "emotion": "anger"
+    },
+    {
+      "word": "vägarbeten",
+      "intensity": "0.091",
+      "emotion": "anger"
+    },
+    {
+      "word": "ärlig",
+      "intensity": "0.087",
+      "emotion": "anger"
+    },
+    {
+      "word": "glömsk",
+      "intensity": "0.076",
+      "emotion": "anger"
+    },
+    {
+      "word": "gent",
+      "intensity": "0.076",
+      "emotion": "anger"
+    },
+    {
+      "word": "sprit",
+      "intensity": "0.075",
+      "emotion": "anger"
+    },
+    {
+      "word": "pengar",
+      "intensity": "0.074",
+      "emotion": "anger"
+    },
+    {
+      "word": "huva",
+      "intensity": "0.071",
+      "emotion": "anger"
+    },
+    {
+      "word": "läroplan",
+      "intensity": "0.063",
+      "emotion": "anger"
+    },
+    {
+      "word": "ord",
+      "intensity": "0.062",
+      "emotion": "anger"
+    },
+    {
+      "word": "lukt",
+      "intensity": "0.061",
+      "emotion": "anger"
+    },
+    {
+      "word": "älva",
+      "intensity": "0.061",
+      "emotion": "anger"
+    },
+    {
+      "word": "lekfull",
+      "intensity": "0.061",
+      "emotion": "anger"
+    },
+    {
+      "word": "opera",
+      "intensity": "0.061",
+      "emotion": "anger"
+    },
+    {
+      "word": "uppfostran",
+      "intensity": "0.059",
+      "emotion": "anger"
+    },
+    {
+      "word": "rådgivare",
+      "intensity": "0.059",
+      "emotion": "anger"
+    },
+    {
+      "word": "trumpet",
+      "intensity": "0.059",
+      "emotion": "anger"
+    },
+    {
+      "word": "födelseort",
+      "intensity": "0.051",
+      "emotion": "anger"
+    },
+    {
+      "word": "band",
+      "intensity": "0.047",
+      "emotion": "anger"
+    },
+    {
+      "word": "ungdom",
+      "intensity": "0.045",
+      "emotion": "anger"
+    },
+    {
+      "word": "rösta",
+      "intensity": "0.045",
+      "emotion": "anger"
+    },
+    {
+      "word": "kontanter",
+      "intensity": "0.039",
+      "emotion": "anger"
+    },
+    {
+      "word": "dame",
+      "intensity": "0.030",
+      "emotion": "anger"
+    },
+    {
+      "word": "våffla",
+      "intensity": "0.030",
+      "emotion": "anger"
+    },
+    {
+      "word": "buffé",
+      "intensity": "0.029",
+      "emotion": "anger"
+    },
+    {
+      "word": "kändis",
+      "intensity": "0.026",
+      "emotion": "anger"
+    },
+    {
+      "word": "Auto-korrigering",
+      "intensity": "0.015",
+      "emotion": "anger"
+    },
+    {
+      "word": "systerskap",
+      "intensity": "0.015",
+      "emotion": "anger"
+    },
+    {
+      "word": "musikalisk",
+      "intensity": "0.011",
+      "emotion": "anger"
+    },
+    {
+      "word": "träd",
+      "intensity": "0.000",
+      "emotion": "anger"
+    }
+  ],
+  "meta": {
+    "title": "Emotionsord – Ilska - Gratis nedladdning",
+    "description": "Svenska ord associerade med ilska/vrede, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska). Innehåller 1247 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Emotionsord – Ilska | ListBase",
+    "seo_description": "Ladda ner Emotionsord – Ilska — 1247 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 1247 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,4206 @@
+{
+  "id": "sv-bilhandlare",
+  "name": "Bilhandlare (Car dealerships)",
+  "title": "Bilhandlare (Car dealerships)",
+  "description": "Bilhandlare i Sverige — OpenStreetMap-punktdata (OSM-tagg: shop=car). Swedish car dealerships as named point locations with WGS84 coordinates. 833 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 833,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "3ndcars.com",
+      "latitude": 59.265407,
+      "longitude": 18.12585
+    },
+    {
+      "name": "Adolfs bilservice",
+      "latitude": 56.033927,
+      "longitude": 12.712197
+    },
+    {
+      "name": "Aftén Bil",
+      "latitude": 59.489783,
+      "longitude": 18.278107
+    },
+    {
+      "name": "Aftén bil",
+      "latitude": 59.508381,
+      "longitude": 17.925138
+    },
+    {
+      "name": "Aftén bil - Kia",
+      "latitude": 59.508867,
+      "longitude": 17.925763
+    },
+    {
+      "name": "Aftén Bil AB",
+      "latitude": 59.483274,
+      "longitude": 18.28026
+    },
+    {
+      "name": "Ahlberg Bil",
+      "latitude": 56.202962,
+      "longitude": 15.636455
+    },
+    {
+      "name": "AK Bilar",
+      "latitude": 56.217188,
+      "longitude": 15.271185
+    },
+    {
+      "name": "Alanders Bil AB",
+      "latitude": 63.167279,
+      "longitude": 14.647688
+    },
+    {
+      "name": "Albatross Bil",
+      "latitude": 58.599095,
+      "longitude": 16.169203
+    },
+    {
+      "name": "Albins husbilar",
+      "latitude": 59.443909,
+      "longitude": 15.950325
+    },
+    {
+      "name": "ALD Bil",
+      "latitude": 59.48108,
+      "longitude": 18.055365
+    },
+    {
+      "name": "Alla Bilar Värmdö AB",
+      "latitude": 59.323219,
+      "longitude": 18.487681
+    },
+    {
+      "name": "Almir Bil",
+      "latitude": 59.602993,
+      "longitude": 16.488267
+    },
+    {
+      "name": "ANA Motorcentrum",
+      "latitude": 58.317885,
+      "longitude": 12.312687
+    },
+    {
+      "name": "Anders Erikssons Husbilar",
+      "latitude": 56.243377,
+      "longitude": 15.282473
+    },
+    {
+      "name": "Andrén Motor",
+      "latitude": 59.057554,
+      "longitude": 12.673339
+    },
+    {
+      "name": "Antes bil",
+      "latitude": 59.275931,
+      "longitude": 17.930319
+    },
+    {
+      "name": "Appelskogs Bil AB",
+      "latitude": 58.429093,
+      "longitude": 15.598681
+    },
+    {
+      "name": "Arena Bil AB",
+      "latitude": 59.251739,
+      "longitude": 17.863429
+    },
+    {
+      "name": "Aros Auto",
+      "latitude": 59.647776,
+      "longitude": 17.079029
+    },
+    {
+      "name": "Askling Bil",
+      "latitude": 58.331341,
+      "longitude": 15.114389
+    },
+    {
+      "name": "Askling Bil",
+      "latitude": 58.605213,
+      "longitude": 16.17655
+    },
+    {
+      "name": "Askling Bil",
+      "latitude": 58.430546,
+      "longitude": 15.604466
+    },
+    {
+      "name": "Assarssons Bil",
+      "latitude": 58.431734,
+      "longitude": 15.603072
+    },
+    {
+      "name": "Atair Motors",
+      "latitude": 59.234885,
+      "longitude": 17.830506
+    },
+    {
+      "name": "Atteviks",
+      "latitude": 57.647221,
+      "longitude": 14.740956
+    },
+    {
+      "name": "Atteviks",
+      "latitude": 56.818358,
+      "longitude": 13.913996
+    },
+    {
+      "name": "Atteviks",
+      "latitude": 57.778745,
+      "longitude": 14.187492
+    },
+    {
+      "name": "Atteviks",
+      "latitude": 57.777955,
+      "longitude": 14.187423
+    },
+    {
+      "name": "ATV huset",
+      "latitude": 57.655277,
+      "longitude": 11.941882
+    },
+    {
+      "name": "Audi",
+      "latitude": 59.349345,
+      "longitude": 18.081246
+    },
+    {
+      "name": "Audi",
+      "latitude": 59.284084,
+      "longitude": 17.938718
+    },
+    {
+      "name": "Audi Center Kista",
+      "latitude": 59.420282,
+      "longitude": 17.921737
+    },
+    {
+      "name": "Audi Göteborg",
+      "latitude": 57.648426,
+      "longitude": 11.961896
+    },
+    {
+      "name": "Audi Göteborg begagnatcenter",
+      "latitude": 57.648759,
+      "longitude": 11.964117
+    },
+    {
+      "name": "Audi Hammarby",
+      "latitude": 59.301023,
+      "longitude": 18.098684
+    },
+    {
+      "name": "Audi Helsingborg",
+      "latitude": 56.07424,
+      "longitude": 12.714245
+    },
+    {
+      "name": "Augustin Bilhandel",
+      "latitude": 60.618112,
+      "longitude": 16.756052
+    },
+    {
+      "name": "Autlet Bil",
+      "latitude": 59.849315,
+      "longitude": 17.67293
+    },
+    {
+      "name": "Auto Gate",
+      "latitude": 58.416448,
+      "longitude": 15.642124
+    },
+    {
+      "name": "Auto Group Sweden",
+      "latitude": 63.864918,
+      "longitude": 20.304369
+    },
+    {
+      "name": "Auto Lounge",
+      "latitude": 57.484773,
+      "longitude": 12.083158
+    },
+    {
+      "name": "Auto Performance Sweden",
+      "latitude": 55.458264,
+      "longitude": 13.018445
+    },
+    {
+      "name": "Auto Prestanda",
+      "latitude": 55.719837,
+      "longitude": 13.208039
+    },
+    {
+      "name": "Auto-Mobil",
+      "latitude": 57.166552,
+      "longitude": 12.27535
+    },
+    {
+      "name": "Auto-Älgen",
+      "latitude": 56.143917,
+      "longitude": 12.58335
+    },
+    {
+      "name": "Autocare",
+      "latitude": 63.16776,
+      "longitude": 14.646418
+    },
+    {
+      "name": "AUTOcenter",
+      "latitude": 58.423943,
+      "longitude": 15.596386
+    },
+    {
+      "name": "autoexperten",
+      "latitude": 56.02699,
+      "longitude": 14.17616
+    },
+    {
+      "name": "Autograf Motor",
+      "latitude": 62.642677,
+      "longitude": 17.910057
+    },
+    {
+      "name": "Autogruppen i Borås",
+      "latitude": 57.710951,
+      "longitude": 12.79972
+    },
+    {
+      "name": "Autogruppen Lund AB",
+      "latitude": 55.692302,
+      "longitude": 13.22055
+    },
+    {
+      "name": "Automobil Norra",
+      "latitude": 59.561297,
+      "longitude": 17.549832
+    },
+    {
+      "name": "Automotor Sweden",
+      "latitude": 59.235611,
+      "longitude": 17.834809
+    },
+    {
+      "name": "Autopunkten",
+      "latitude": 59.277681,
+      "longitude": 18.094434
+    },
+    {
+      "name": "Autoropa",
+      "latitude": 59.335267,
+      "longitude": 18.090689
+    },
+    {
+      "name": "Autoropa",
+      "latitude": 55.648949,
+      "longitude": 13.091151
+    },
+    {
+      "name": "Autosyd",
+      "latitude": 55.887317,
+      "longitude": 12.830909
+    },
+    {
+      "name": "Autosöder",
+      "latitude": 59.14391,
+      "longitude": 18.123139
+    },
+    {
+      "name": "Autoverkstaden",
+      "latitude": 56.519659,
+      "longitude": 14.988305
+    },
+    {
+      "name": "Autovåx Bil",
+      "latitude": 59.392224,
+      "longitude": 13.472937
+    },
+    {
+      "name": "B&T Bil",
+      "latitude": 59.391926,
+      "longitude": 13.47544
+    },
+    {
+      "name": "Backman bil",
+      "latitude": 57.842078,
+      "longitude": 12.004304
+    },
+    {
+      "name": "Bamas Bilar",
+      "latitude": 58.426442,
+      "longitude": 15.688967
+    },
+    {
+      "name": "Barsbro Bil AB",
+      "latitude": 59.400287,
+      "longitude": 17.863029
+    },
+    {
+      "name": "Barvaria",
+      "latitude": 59.359755,
+      "longitude": 17.873867
+    },
+    {
+      "name": "Bavaria",
+      "latitude": 59.366308,
+      "longitude": 18.011576
+    },
+    {
+      "name": "Bavaria Danderyd MINI",
+      "latitude": 59.411141,
+      "longitude": 18.037274
+    },
+    {
+      "name": "Bavaria Danderyd MINI",
+      "latitude": 59.41054,
+      "longitude": 18.037893
+    },
+    {
+      "name": "BBA Bil",
+      "latitude": 62.506858,
+      "longitude": 17.499857
+    },
+    {
+      "name": "BBC Barkarby Bilcenter",
+      "latitude": 59.40631,
+      "longitude": 17.840956
+    },
+    {
+      "name": "Belan bilvård & bilar",
+      "latitude": 58.426182,
+      "longitude": 15.685521
+    },
+    {
+      "name": "Belins Bil AB",
+      "latitude": 60.145493,
+      "longitude": 16.176334
+    },
+    {
+      "name": "Bengt Karlsson Bil AB",
+      "latitude": 59.563829,
+      "longitude": 15.229584
+    },
+    {
+      "name": "Beras Bil",
+      "latitude": 60.597717,
+      "longitude": 15.624234
+    },
+    {
+      "name": "Berners",
+      "latitude": 62.442234,
+      "longitude": 17.33104
+    },
+    {
+      "name": "Berners Tunga Fordon",
+      "latitude": 62.450563,
+      "longitude": 17.329949
+    },
+    {
+      "name": "Bil & Invest i Norrort AB",
+      "latitude": 59.516518,
+      "longitude": 18.086373
+    },
+    {
+      "name": "Bil & Motor",
+      "latitude": 57.425062,
+      "longitude": 15.098529
+    },
+    {
+      "name": "Bil & Terräng Service Orsa",
+      "latitude": 61.115184,
+      "longitude": 14.62327
+    },
+    {
+      "name": "Bil AB Sandström & Ljungqvist - Östersund",
+      "latitude": 63.172711,
+      "longitude": 14.683389
+    },
+    {
+      "name": "Bil Bengtsson",
+      "latitude": 55.635134,
+      "longitude": 13.683545
+    },
+    {
+      "name": "Bil Center",
+      "latitude": 57.211255,
+      "longitude": 14.040981
+    },
+    {
+      "name": "Bil-Auto Skaraborg AB",
+      "latitude": 58.809948,
+      "longitude": 14.256289
+    },
+    {
+      "name": "Bil-Auto Skaraborg AB",
+      "latitude": 58.8097,
+      "longitude": 14.255054
+    },
+    {
+      "name": "Bil-Dahl",
+      "latitude": 63.850709,
+      "longitude": 20.303439
+    },
+    {
+      "name": "Bilaffären i Karlstad",
+      "latitude": 59.379221,
+      "longitude": 13.541208
+    },
+    {
+      "name": "Bilbolaget",
+      "latitude": 62.389841,
+      "longitude": 17.276011
+    },
+    {
+      "name": "Bilbolaget",
+      "latitude": 59.848203,
+      "longitude": 17.659982
+    },
+    {
+      "name": "Bilbolaget",
+      "latitude": 62.37461,
+      "longitude": 17.349209
+    },
+    {
+      "name": "Bilbolaget",
+      "latitude": 63.170375,
+      "longitude": 14.676946
+    },
+    {
+      "name": "Bilbolaget",
+      "latitude": 60.662367,
+      "longitude": 17.159466
+    },
+    {
+      "name": "Bilbolaget",
+      "latitude": 63.170561,
+      "longitude": 14.679089
+    },
+    {
+      "name": "Bilbolaget",
+      "latitude": 59.66248,
+      "longitude": 12.62526
+    },
+    {
+      "name": "Bilbolaget",
+      "latitude": 62.640154,
+      "longitude": 17.911147
+    },
+    {
+      "name": "Bilbolaget",
+      "latitude": 64.599602,
+      "longitude": 18.666597
+    },
+    {
+      "name": "Bilbolaget",
+      "latitude": 67.149705,
+      "longitude": 20.661009
+    },
+    {
+      "name": "Bilbolaget",
+      "latitude": 64.620059,
+      "longitude": 16.673771
+    },
+    {
+      "name": "Bilbolaget Personbilar",
+      "latitude": 61.8281,
+      "longitude": 16.081386
+    },
+    {
+      "name": "Bilbolaget Sandviken",
+      "latitude": 60.623462,
+      "longitude": 16.766939
+    },
+    {
+      "name": "Bilbolaget Sandviken",
+      "latitude": 60.62393,
+      "longitude": 16.768643
+    },
+    {
+      "name": "Bilbolaget Timrå",
+      "latitude": 62.493451,
+      "longitude": 17.327949
+    },
+    {
+      "name": "BILBORSEN.SE",
+      "latitude": 56.029503,
+      "longitude": 14.182476
+    },
+    {
+      "name": "BilByter",
+      "latitude": 58.43042,
+      "longitude": 15.600568
+    },
+    {
+      "name": "BilByter",
+      "latitude": 58.432219,
+      "longitude": 15.599223
+    },
+    {
+      "name": "BilByter",
+      "latitude": 58.431467,
+      "longitude": 15.599978
+    },
+    {
+      "name": "Bilbörsen",
+      "latitude": 58.426724,
+      "longitude": 15.663389
+    },
+    {
+      "name": "Bilbörsen",
+      "latitude": 58.427784,
+      "longitude": 15.666955
+    },
+    {
+      "name": "Bilbörsen",
+      "latitude": 63.172866,
+      "longitude": 14.695462
+    },
+    {
+      "name": "Bilcenter",
+      "latitude": 60.140523,
+      "longitude": 16.195533
+    },
+    {
+      "name": "Bilcenter",
+      "latitude": 59.391473,
+      "longitude": 13.478213
+    },
+    {
+      "name": "Bilcenter i Hallsberg AB",
+      "latitude": 59.068496,
+      "longitude": 15.101819
+    },
+    {
+      "name": "Bilcenter i Mariestad AB",
+      "latitude": 58.686138,
+      "longitude": 13.817615
+    },
+    {
+      "name": "Bilcentrum",
+      "latitude": 56.158083,
+      "longitude": 13.746431
+    },
+    {
+      "name": "Bilcentrum",
+      "latitude": 58.686164,
+      "longitude": 13.817602
+    },
+    {
+      "name": "Bilcentrum Kristianstad",
+      "latitude": 56.02662,
+      "longitude": 14.172287
+    },
+    {
+      "name": "Bilcirkeln",
+      "latitude": 56.078568,
+      "longitude": 12.732956
+    },
+    {
+      "name": "Bilcity",
+      "latitude": 61.343779,
+      "longitude": 16.38217
+    },
+    {
+      "name": "Bilcity",
+      "latitude": 59.993705,
+      "longitude": 15.809282
+    },
+    {
+      "name": "Bilcity Kristianstad",
+      "latitude": 56.021869,
+      "longitude": 14.1258
+    },
+    {
+      "name": "Bildepån",
+      "latitude": 57.122969,
+      "longitude": 12.278155
+    },
+    {
+      "name": "Bildepån Morgongåva",
+      "latitude": 59.936666,
+      "longitude": 16.93885
+    },
+    {
+      "name": "Bildeve",
+      "latitude": 55.886367,
+      "longitude": 12.831291
+    },
+    {
+      "name": "Bildeve",
+      "latitude": 56.069704,
+      "longitude": 12.719527
+    },
+    {
+      "name": "Bileliten AB",
+      "latitude": 57.893178,
+      "longitude": 11.940025
+    },
+    {
+      "name": "Bilexpo",
+      "latitude": 56.200784,
+      "longitude": 15.632747
+    },
+    {
+      "name": "Bilfocus",
+      "latitude": 60.609085,
+      "longitude": 15.59807
+    },
+    {
+      "name": "Bilförmedlingen",
+      "latitude": 56.249652,
+      "longitude": 12.893225
+    },
+    {
+      "name": "Bilförmedlingen",
+      "latitude": 56.07787,
+      "longitude": 12.722963
+    },
+    {
+      "name": "Bilförsäljningen i Dalarna AB",
+      "latitude": 60.576944,
+      "longitude": 15.601208
+    },
+    {
+      "name": "Bilgruvan",
+      "latitude": 60.351376,
+      "longitude": 15.751604
+    },
+    {
+      "name": "Bilhallen",
+      "latitude": 62.396677,
+      "longitude": 17.247821
+    },
+    {
+      "name": "Bilhallen",
+      "latitude": 65.323229,
+      "longitude": 21.441968
+    },
+    {
+      "name": "Bilhuset",
+      "latitude": 65.333858,
+      "longitude": 21.425522
+    },
+    {
+      "name": "Bilhuset",
+      "latitude": 56.676425,
+      "longitude": 16.320341
+    },
+    {
+      "name": "Bilhuset Kumla",
+      "latitude": 59.151615,
+      "longitude": 15.139252
+    },
+    {
+      "name": "Bilhörnan",
+      "latitude": 60.626206,
+      "longitude": 16.773082
+    },
+    {
+      "name": "Bilia",
+      "latitude": 59.203133,
+      "longitude": 17.658796
+    },
+    {
+      "name": "Bilia",
+      "latitude": 59.642092,
+      "longitude": 16.566626
+    },
+    {
+      "name": "Bilia",
+      "latitude": 59.491413,
+      "longitude": 18.275836
+    },
+    {
+      "name": "Bilia",
+      "latitude": 57.647469,
+      "longitude": 11.953642
+    },
+    {
+      "name": "Bilia",
+      "latitude": 57.880805,
+      "longitude": 11.948466
+    },
+    {
+      "name": "Bilia",
+      "latitude": 57.701498,
+      "longitude": 12.828276
+    },
+    {
+      "name": "Bilia",
+      "latitude": 57.731653,
+      "longitude": 12.065418
+    },
+    {
+      "name": "Bilia",
+      "latitude": 58.169145,
+      "longitude": 13.580236
+    },
+    {
+      "name": "Bilia",
+      "latitude": 60.283755,
+      "longitude": 15.991953
+    },
+    {
+      "name": "Bilia",
+      "latitude": 59.520748,
+      "longitude": 15.975552
+    },
+    {
+      "name": "Bilia",
+      "latitude": 59.31364,
+      "longitude": 18.168291
+    },
+    {
+      "name": "Bilia",
+      "latitude": 59.310956,
+      "longitude": 18.169427
+    },
+    {
+      "name": "Bilia",
+      "latitude": 58.073888,
+      "longitude": 11.839644
+    },
+    {
+      "name": "Bilia",
+      "latitude": 55.571297,
+      "longitude": 13.055218
+    },
+    {
+      "name": "Bilia",
+      "latitude": 59.376786,
+      "longitude": 17.01382
+    },
+    {
+      "name": "Bilia",
+      "latitude": 56.016692,
+      "longitude": 14.152256
+    },
+    {
+      "name": "Bilia Borlänge",
+      "latitude": 60.469629,
+      "longitude": 15.401263
+    },
+    {
+      "name": "Bilia Eskilstuna",
+      "latitude": 59.389314,
+      "longitude": 16.46826
+    },
+    {
+      "name": "Bilia Haninge Toyota",
+      "latitude": 59.175046,
+      "longitude": 18.159943
+    },
+    {
+      "name": "Bilia Lund Volvo Renault",
+      "latitude": 55.696336,
+      "longitude": 13.221616
+    },
+    {
+      "name": "Bilia Outlet",
+      "latitude": 59.267982,
+      "longitude": 17.926791
+    },
+    {
+      "name": "Bilia personbilar",
+      "latitude": 59.364485,
+      "longitude": 18.016253
+    },
+    {
+      "name": "Bilia Segeltorp",
+      "latitude": 59.285344,
+      "longitude": 17.945232
+    },
+    {
+      "name": "Bilia Skövde",
+      "latitude": 58.418543,
+      "longitude": 13.87077
+    },
+    {
+      "name": "Bilia Södertälje",
+      "latitude": 59.207524,
+      "longitude": 17.645507
+    },
+    {
+      "name": "Bilia Södertälje - Mercedes-Benz",
+      "latitude": 59.165013,
+      "longitude": 17.651173
+    },
+    {
+      "name": "Bilia Toyota",
+      "latitude": 59.653972,
+      "longitude": 17.0873
+    },
+    {
+      "name": "Bilia Toyota",
+      "latitude": 55.381988,
+      "longitude": 13.137034
+    },
+    {
+      "name": "Bilia Toyota Center Lund",
+      "latitude": 55.691166,
+      "longitude": 13.222813
+    },
+    {
+      "name": "Bilia Uddevalla BMW",
+      "latitude": 58.349782,
+      "longitude": 11.836102
+    },
+    {
+      "name": "Bilia Västerås",
+      "latitude": 59.638735,
+      "longitude": 16.562971
+    },
+    {
+      "name": "Bilin Skåne",
+      "latitude": 55.834898,
+      "longitude": 13.315425
+    },
+    {
+      "name": "Bilinorr Hudiksvall",
+      "latitude": 61.737819,
+      "longitude": 17.090127
+    },
+    {
+      "name": "Bilinvest",
+      "latitude": 63.850324,
+      "longitude": 20.31214
+    },
+    {
+      "name": "Bilkompani Kalmar Norra",
+      "latitude": 56.695764,
+      "longitude": 16.33086
+    },
+    {
+      "name": "Bilkompaniet",
+      "latitude": 59.909692,
+      "longitude": 16.618094
+    },
+    {
+      "name": "Bilkompaniet Leksand",
+      "latitude": 60.737521,
+      "longitude": 15.005256
+    },
+    {
+      "name": "Bills Bil",
+      "latitude": 56.294288,
+      "longitude": 14.777207
+    },
+    {
+      "name": "Bilmetro",
+      "latitude": 60.148804,
+      "longitude": 15.210496
+    },
+    {
+      "name": "Bilmetro",
+      "latitude": 60.489964,
+      "longitude": 15.475994
+    },
+    {
+      "name": "Bilmetro",
+      "latitude": 61.717073,
+      "longitude": 17.092655
+    },
+    {
+      "name": "Bilmetro",
+      "latitude": 60.596793,
+      "longitude": 15.622046
+    },
+    {
+      "name": "Bilmetro AB",
+      "latitude": 60.140218,
+      "longitude": 16.19269
+    },
+    {
+      "name": "Bilmetro Honda & Kia",
+      "latitude": 60.65285,
+      "longitude": 17.176828
+    },
+    {
+      "name": "Bilmetro Transportbilar",
+      "latitude": 60.653816,
+      "longitude": 17.175847
+    },
+    {
+      "name": "Bilmånsson",
+      "latitude": 56.246425,
+      "longitude": 12.895327
+    },
+    {
+      "name": "Bilmånsson",
+      "latitude": 55.852462,
+      "longitude": 13.663304
+    },
+    {
+      "name": "BilMånsson Halmstad",
+      "latitude": 56.679948,
+      "longitude": 12.810123
+    },
+    {
+      "name": "Bilmånsson Halmstad",
+      "latitude": 56.679789,
+      "longitude": 12.810568
+    },
+    {
+      "name": "Bilmånsson i Eslöv – Renaulthuset",
+      "latitude": 55.839231,
+      "longitude": 13.325679
+    },
+    {
+      "name": "Bilmånsson i Eslöv – Volvohuset",
+      "latitude": 55.840838,
+      "longitude": 13.325454
+    },
+    {
+      "name": "Bilomarin",
+      "latitude": 58.491017,
+      "longitude": 14.42181
+    },
+    {
+      "name": "Bilomatic Bil AB",
+      "latitude": 59.847326,
+      "longitude": 17.677117
+    },
+    {
+      "name": "Bilon",
+      "latitude": 57.740089,
+      "longitude": 12.088971
+    },
+    {
+      "name": "Bilparken i Svedala",
+      "latitude": 55.518336,
+      "longitude": 13.240483
+    },
+    {
+      "name": "Bilpartner",
+      "latitude": 56.071925,
+      "longitude": 12.717123
+    },
+    {
+      "name": "Bilpartner i Ängelholm",
+      "latitude": 56.253167,
+      "longitude": 12.882715
+    },
+    {
+      "name": "Bilprisma",
+      "latitude": 56.253614,
+      "longitude": 12.964116
+    },
+    {
+      "name": "Bilprisma",
+      "latitude": 56.287324,
+      "longitude": 13.299807
+    },
+    {
+      "name": "Bilprovningen",
+      "latitude": 65.091259,
+      "longitude": 17.104894
+    },
+    {
+      "name": "Bilspektrum",
+      "latitude": 63.833393,
+      "longitude": 20.214959
+    },
+    {
+      "name": "Bilspektrum",
+      "latitude": 63.850596,
+      "longitude": 20.310781
+    },
+    {
+      "name": "Bilstallet",
+      "latitude": 56.817312,
+      "longitude": 13.918504
+    },
+    {
+      "name": "Bilstjärnan",
+      "latitude": 60.611895,
+      "longitude": 15.593654
+    },
+    {
+      "name": "Bilstudion",
+      "latitude": 57.507561,
+      "longitude": 12.076212
+    },
+    {
+      "name": "Bilteamet Syd",
+      "latitude": 55.757496,
+      "longitude": 13.017821
+    },
+    {
+      "name": "Biltjänst",
+      "latitude": 58.494587,
+      "longitude": 13.180659
+    },
+    {
+      "name": "Biltoppen",
+      "latitude": 63.862535,
+      "longitude": 20.303901
+    },
+    {
+      "name": "Bilval",
+      "latitude": 56.239998,
+      "longitude": 15.292327
+    },
+    {
+      "name": "Bilvalet",
+      "latitude": 57.639794,
+      "longitude": 18.326914
+    },
+    {
+      "name": "Bilvalet i Enköping AB",
+      "latitude": 59.632769,
+      "longitude": 17.081098
+    },
+    {
+      "name": "Birsta Husbil AB",
+      "latitude": 62.449859,
+      "longitude": 17.325511
+    },
+    {
+      "name": "Bjurkell",
+      "latitude": 59.35709,
+      "longitude": 17.956073
+    },
+    {
+      "name": "Björbo bil",
+      "latitude": 60.466132,
+      "longitude": 14.686296
+    },
+    {
+      "name": "Björk Trading AB",
+      "latitude": 56.250809,
+      "longitude": 15.279188
+    },
+    {
+      "name": "Björkmans Bil",
+      "latitude": 60.605618,
+      "longitude": 15.671323
+    },
+    {
+      "name": "Björkmans Bil",
+      "latitude": 60.148932,
+      "longitude": 15.207584
+    },
+    {
+      "name": "Björkmans Bil",
+      "latitude": 60.608893,
+      "longitude": 15.595731
+    },
+    {
+      "name": "Björkmans Bil",
+      "latitude": 59.295869,
+      "longitude": 15.20116
+    },
+    {
+      "name": "Björkmans Bil Borlänge",
+      "latitude": 60.479483,
+      "longitude": 15.439953
+    },
+    {
+      "name": "Björkmans Bil i Avesta",
+      "latitude": 60.141324,
+      "longitude": 16.196016
+    },
+    {
+      "name": "BMW",
+      "latitude": 59.400582,
+      "longitude": 17.959553
+    },
+    {
+      "name": "BMW",
+      "latitude": 59.284773,
+      "longitude": 17.939331
+    },
+    {
+      "name": "BNA Bilcenter",
+      "latitude": 59.346705,
+      "longitude": 18.052572
+    },
+    {
+      "name": "Bollnäs bilhandel",
+      "latitude": 61.357568,
+      "longitude": 16.395841
+    },
+    {
+      "name": "Bosse Bil i Åsbro AB",
+      "latitude": 59.000973,
+      "longitude": 15.044772
+    },
+    {
+      "name": "Br-Ge",
+      "latitude": 57.422135,
+      "longitude": 15.102157
+    },
+    {
+      "name": "Br. Hjorth Bilkonsult",
+      "latitude": 58.947559,
+      "longitude": 17.502071
+    },
+    {
+      "name": "Bra Bil Enköping AB",
+      "latitude": 59.654542,
+      "longitude": 17.082424
+    },
+    {
+      "name": "Bra Bil Volvo Göteborg",
+      "latitude": 57.746049,
+      "longitude": 11.992069
+    },
+    {
+      "name": "BraBil",
+      "latitude": 59.531402,
+      "longitude": 18.083802
+    },
+    {
+      "name": "Brandt",
+      "latitude": 59.042891,
+      "longitude": 12.713029
+    },
+    {
+      "name": "Brandt Bil",
+      "latitude": 58.349685,
+      "longitude": 11.865865
+    },
+    {
+      "name": "Brandt Bil",
+      "latitude": 58.34957,
+      "longitude": 11.869003
+    },
+    {
+      "name": "Brandt Bil",
+      "latitude": 58.526735,
+      "longitude": 11.574601
+    },
+    {
+      "name": "Brandt Fordon",
+      "latitude": 58.393886,
+      "longitude": 13.867213
+    },
+    {
+      "name": "Brandt Fordon AB",
+      "latitude": 58.168684,
+      "longitude": 13.57876
+    },
+    {
+      "name": "Brandts",
+      "latitude": 58.721109,
+      "longitude": 11.328024
+    },
+    {
+      "name": "British Motorgroup",
+      "latitude": 59.296214,
+      "longitude": 18.06814
+    },
+    {
+      "name": "Bruces Bilhall",
+      "latitude": 56.029054,
+      "longitude": 12.719407
+    },
+    {
+      "name": "Bröderna Larssons",
+      "latitude": 57.929789,
+      "longitude": 12.558451
+    },
+    {
+      "name": "Bröderna Odds Bilar",
+      "latitude": 59.377862,
+      "longitude": 13.430414
+    },
+    {
+      "name": "Bureå bilar",
+      "latitude": 64.617393,
+      "longitude": 21.198802
+    },
+    {
+      "name": "Burlin Motor",
+      "latitude": 65.324301,
+      "longitude": 21.451231
+    },
+    {
+      "name": "Burlin Motor - Luleå",
+      "latitude": 65.605116,
+      "longitude": 22.134017
+    },
+    {
+      "name": "Burlin Motor - Skellefteå",
+      "latitude": 64.765785,
+      "longitude": 21.017182
+    },
+    {
+      "name": "Burlin Motor - Umeå",
+      "latitude": 63.855932,
+      "longitude": 20.301717
+    },
+    {
+      "name": "Bytbil",
+      "latitude": 58.58457,
+      "longitude": 16.217278
+    },
+    {
+      "name": "Börje Johansson Bil - Åkersberga",
+      "latitude": 59.483564,
+      "longitude": 18.279674
+    },
+    {
+      "name": "Börjessons Bil",
+      "latitude": 57.929862,
+      "longitude": 12.562684
+    },
+    {
+      "name": "Börjessons Bil",
+      "latitude": 56.23076,
+      "longitude": 12.860952
+    },
+    {
+      "name": "Calovea Motor",
+      "latitude": 59.123864,
+      "longitude": 15.130521
+    },
+    {
+      "name": "Car Store AB",
+      "latitude": 58.596447,
+      "longitude": 16.152921
+    },
+    {
+      "name": "Carab",
+      "latitude": 59.316372,
+      "longitude": 14.104658
+    },
+    {
+      "name": "CarDeal",
+      "latitude": 59.311535,
+      "longitude": 15.22777
+    },
+    {
+      "name": "Careta",
+      "latitude": 62.493682,
+      "longitude": 17.328208
+    },
+    {
+      "name": "Carglass Umeå",
+      "latitude": 63.865941,
+      "longitude": 20.304572
+    },
+    {
+      "name": "Carlqvist Bil AB",
+      "latitude": 56.557028,
+      "longitude": 14.143548
+    },
+    {
+      "name": "CarNext.com",
+      "latitude": 59.521404,
+      "longitude": 17.927775
+    },
+    {
+      "name": "Carnila Bil",
+      "latitude": 60.134446,
+      "longitude": 15.15503
+    },
+    {
+      "name": "Carstedts",
+      "latitude": 63.851989,
+      "longitude": 20.295348
+    },
+    {
+      "name": "Challenge Car Center",
+      "latitude": 59.306726,
+      "longitude": 17.983143
+    },
+    {
+      "name": "CityBil",
+      "latitude": 62.398593,
+      "longitude": 17.355153
+    },
+    {
+      "name": "CN Bil",
+      "latitude": 60.477351,
+      "longitude": 15.432993
+    },
+    {
+      "name": "Columbus Bil",
+      "latitude": 63.815796,
+      "longitude": 20.21996
+    },
+    {
+      "name": "Curt Landrin Bil",
+      "latitude": 60.145654,
+      "longitude": 16.178303
+    },
+    {
+      "name": "Custom Bildelar",
+      "latitude": 59.263772,
+      "longitude": 15.237515
+    },
+    {
+      "name": "Custom Racing",
+      "latitude": 59.2638,
+      "longitude": 15.237824
+    },
+    {
+      "name": "Cye",
+      "latitude": 59.416118,
+      "longitude": 17.931203
+    },
+    {
+      "name": "Dahlgrens Auto",
+      "latitude": 59.849216,
+      "longitude": 17.663497
+    },
+    {
+      "name": "Dalby Garantibilar",
+      "latitude": 55.661874,
+      "longitude": 13.357254
+    },
+    {
+      "name": "Daniels bil AB",
+      "latitude": 57.738045,
+      "longitude": 12.937786
+    },
+    {
+      "name": "Delejon Auto",
+      "latitude": 59.202989,
+      "longitude": 17.610173
+    },
+    {
+      "name": "Deluxe Bil",
+      "latitude": 57.165511,
+      "longitude": 12.274802
+    },
+    {
+      "name": "Derome Bil",
+      "latitude": 57.23096,
+      "longitude": 12.319436
+    },
+    {
+      "name": "Din Bil",
+      "latitude": 59.287503,
+      "longitude": 17.944745
+    },
+    {
+      "name": "Din Bil",
+      "latitude": 60.662126,
+      "longitude": 17.151391
+    },
+    {
+      "name": "Din Bil (beg)",
+      "latitude": 55.568449,
+      "longitude": 13.053341
+    },
+    {
+      "name": "Din Bil / Audi",
+      "latitude": 59.202437,
+      "longitude": 17.614594
+    },
+    {
+      "name": "Din Bil / Audi Gävle",
+      "latitude": 60.640885,
+      "longitude": 17.146007
+    },
+    {
+      "name": "Din Bil / SEAT",
+      "latitude": 59.202772,
+      "longitude": 17.612285
+    },
+    {
+      "name": "Din Bil / Volkswagen",
+      "latitude": 59.202597,
+      "longitude": 17.613565
+    },
+    {
+      "name": "Din Bil / Škoda",
+      "latitude": 59.203341,
+      "longitude": 17.611651
+    },
+    {
+      "name": "Din Bil Sverige",
+      "latitude": 60.623215,
+      "longitude": 16.759196
+    },
+    {
+      "name": "Dyberg bilar",
+      "latitude": 59.301066,
+      "longitude": 18.015198
+    },
+    {
+      "name": "Däckab PV",
+      "latitude": 62.034658,
+      "longitude": 14.368722
+    },
+    {
+      "name": "Däckfynd",
+      "latitude": 56.083289,
+      "longitude": 12.735688
+    },
+    {
+      "name": "Däckia",
+      "latitude": 56.250446,
+      "longitude": 12.888949
+    },
+    {
+      "name": "Däckia",
+      "latitude": 59.240596,
+      "longitude": 18.11613
+    },
+    {
+      "name": "Däckia",
+      "latitude": 56.074646,
+      "longitude": 12.729541
+    },
+    {
+      "name": "Däckperfekt",
+      "latitude": 56.077185,
+      "longitude": 12.727467
+    },
+    {
+      "name": "Edins bil",
+      "latitude": 58.597714,
+      "longitude": 16.1776
+    },
+    {
+      "name": "Ekelunds bil",
+      "latitude": 57.721035,
+      "longitude": 11.962818
+    },
+    {
+      "name": "Elitebil",
+      "latitude": 59.382879,
+      "longitude": 13.534325
+    },
+    {
+      "name": "Eljas Motor",
+      "latitude": 60.464348,
+      "longitude": 15.469137
+    },
+    {
+      "name": "EMFBil.se",
+      "latitude": 58.381792,
+      "longitude": 13.953533
+    },
+    {
+      "name": "Engströms bil",
+      "latitude": 58.426934,
+      "longitude": 15.591477
+    },
+    {
+      "name": "Eric Idoff Johansson Bil",
+      "latitude": 56.184332,
+      "longitude": 14.846434
+    },
+    {
+      "name": "Erik Andersson Bil & Maskin AB",
+      "latitude": 59.314173,
+      "longitude": 14.100204
+    },
+    {
+      "name": "Eriksson & Månsson Bil AB",
+      "latitude": 56.021012,
+      "longitude": 14.125521
+    },
+    {
+      "name": "Eriksson Bilteam AB",
+      "latitude": 60.658237,
+      "longitude": 17.163392
+    },
+    {
+      "name": "Erlandsson Bil",
+      "latitude": 57.661712,
+      "longitude": 11.893784
+    },
+    {
+      "name": "Europeiska Motor",
+      "latitude": 59.357369,
+      "longitude": 17.876859
+    },
+    {
+      "name": "Europeiska Motor - Arlandastad",
+      "latitude": 59.608477,
+      "longitude": 17.892261
+    },
+    {
+      "name": "Exclusive Cars",
+      "latitude": 59.297082,
+      "longitude": 18.01753
+    },
+    {
+      "name": "F1RSTAUTO",
+      "latitude": 59.361539,
+      "longitude": 17.973514
+    },
+    {
+      "name": "FACT Bil",
+      "latitude": 58.426302,
+      "longitude": 15.687418
+    },
+    {
+      "name": "Femmans bil",
+      "latitude": 59.269405,
+      "longitude": 15.241912
+    },
+    {
+      "name": "Fikratsson Bil",
+      "latitude": 58.36472,
+      "longitude": 15.299396
+    },
+    {
+      "name": "FinnenBil",
+      "latitude": 57.659753,
+      "longitude": 11.938145
+    },
+    {
+      "name": "Finnveden Bil AB",
+      "latitude": 57.297961,
+      "longitude": 13.568266
+    },
+    {
+      "name": "Finnvedens Bil Peugeot & Begagnatcenter",
+      "latitude": 57.185461,
+      "longitude": 14.058512
+    },
+    {
+      "name": "Floby Rescue AB",
+      "latitude": 58.139433,
+      "longitude": 13.33967
+    },
+    {
+      "name": "Flybergs Motor",
+      "latitude": 59.895341,
+      "longitude": 17.637852
+    },
+    {
+      "name": "Flyinge Bil AB",
+      "latitude": 55.75114,
+      "longitude": 13.377345
+    },
+    {
+      "name": "Ford",
+      "latitude": 59.416648,
+      "longitude": 17.929339
+    },
+    {
+      "name": "Ford",
+      "latitude": 58.535255,
+      "longitude": 15.014338
+    },
+    {
+      "name": "Ford Hedin Bil",
+      "latitude": 59.312864,
+      "longitude": 18.159675
+    },
+    {
+      "name": "Fordonscenter Hälsingland",
+      "latitude": 61.743673,
+      "longitude": 17.089272
+    },
+    {
+      "name": "Fordonskonsulten",
+      "latitude": 56.827474,
+      "longitude": 13.93377
+    },
+    {
+      "name": "FORDONSMÄKLARNA",
+      "latitude": 59.485387,
+      "longitude": 17.917392
+    },
+    {
+      "name": "Fordonsmäklarna",
+      "latitude": 59.282449,
+      "longitude": 17.930342
+    },
+    {
+      "name": "Forsbergs Fritidscenter",
+      "latitude": 58.398652,
+      "longitude": 15.548205
+    },
+    {
+      "name": "Forsbergs Fritidscenters",
+      "latitude": 60.469521,
+      "longitude": 15.398125
+    },
+    {
+      "name": "Framtida bil",
+      "latitude": 59.518291,
+      "longitude": 15.966644
+    },
+    {
+      "name": "Fribrocks",
+      "latitude": 56.248479,
+      "longitude": 12.894419
+    },
+    {
+      "name": "Fribrocks Bil",
+      "latitude": 56.22932,
+      "longitude": 12.863396
+    },
+    {
+      "name": "Fröjds Motor",
+      "latitude": 56.758853,
+      "longitude": 15.267415
+    },
+    {
+      "name": "Förenade Bil",
+      "latitude": 56.250321,
+      "longitude": 12.888277
+    },
+    {
+      "name": "Förenade Bil",
+      "latitude": 56.074382,
+      "longitude": 12.727196
+    },
+    {
+      "name": "Förenade Bil Kia",
+      "latitude": 57.647717,
+      "longitude": 11.96991
+    },
+    {
+      "name": "Förenade Bil Lund",
+      "latitude": 55.716057,
+      "longitude": 13.161205
+    },
+    {
+      "name": "Förenade Bil Malmö",
+      "latitude": 55.559021,
+      "longitude": 13.072929
+    },
+    {
+      "name": "Gert Johanssons Bilfirma",
+      "latitude": 57.124411,
+      "longitude": 12.294671
+    },
+    {
+      "name": "Gert Johanssons Bilfirma",
+      "latitude": 56.908698,
+      "longitude": 12.460935
+    },
+    {
+      "name": "GMG Auto AB",
+      "latitude": 58.398414,
+      "longitude": 15.687578
+    },
+    {
+      "name": "Goinge Bil",
+      "latitude": 56.554907,
+      "longitude": 14.143852
+    },
+    {
+      "name": "Gothia",
+      "latitude": 57.466596,
+      "longitude": 12.593855
+    },
+    {
+      "name": "Granat",
+      "latitude": 55.632717,
+      "longitude": 13.495334
+    },
+    {
+      "name": "Griba bil",
+      "latitude": 63.833203,
+      "longitude": 20.202344
+    },
+    {
+      "name": "GT Prestige Cars",
+      "latitude": 59.483613,
+      "longitude": 18.277208
+    },
+    {
+      "name": "Gunnar Bylunds Bil",
+      "latitude": 56.221533,
+      "longitude": 14.833053
+    },
+    {
+      "name": "Gunnar Virén Bil - Kristinehamn",
+      "latitude": 59.312526,
+      "longitude": 14.099281
+    },
+    {
+      "name": "Gustafssons Bil i Broby",
+      "latitude": 56.26236,
+      "longitude": 14.070955
+    },
+    {
+      "name": "Gustav E Bil",
+      "latitude": 58.67901,
+      "longitude": 13.817983
+    },
+    {
+      "name": "Göinge Bil",
+      "latitude": 56.170098,
+      "longitude": 13.7583
+    },
+    {
+      "name": "Gösta Jönssons bilfirma",
+      "latitude": 56.249363,
+      "longitude": 12.888724
+    },
+    {
+      "name": "Göte Carlsson Bil i Göteborg AB",
+      "latitude": 57.789691,
+      "longitude": 12.003046
+    },
+    {
+      "name": "Hagbergs bil",
+      "latitude": 58.271515,
+      "longitude": 12.74272
+    },
+    {
+      "name": "Haninge Bil",
+      "latitude": 59.185071,
+      "longitude": 18.145315
+    },
+    {
+      "name": "Hansson Bil AB",
+      "latitude": 58.378495,
+      "longitude": 12.33868
+    },
+    {
+      "name": "Hanssons Bil",
+      "latitude": 57.941625,
+      "longitude": 12.527846
+    },
+    {
+      "name": "Hasses bilar i Hullsjö",
+      "latitude": 62.541424,
+      "longitude": 16.674884
+    },
+    {
+      "name": "Hedbergs Bil",
+      "latitude": 56.059704,
+      "longitude": 12.70355
+    },
+    {
+      "name": "Hedbergs Bil AB",
+      "latitude": 55.564182,
+      "longitude": 13.056129
+    },
+    {
+      "name": "Hedemora Bilforum",
+      "latitude": 60.290213,
+      "longitude": 15.983418
+    },
+    {
+      "name": "Hedin Automotive Spånga",
+      "latitude": 59.392269,
+      "longitude": 17.871552
+    },
+    {
+      "name": "Hedin bil",
+      "latitude": 59.206821,
+      "longitude": 17.648566
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 58.42973,
+      "longitude": 15.667534
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 56.830259,
+      "longitude": 13.936408
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 56.249481,
+      "longitude": 12.886791
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 56.252175,
+      "longitude": 12.896042
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 58.347596,
+      "longitude": 11.860727
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 56.659768,
+      "longitude": 12.907951
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 62.379535,
+      "longitude": 17.35982
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 59.282917,
+      "longitude": 17.932581
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 58.351472,
+      "longitude": 11.867082
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 56.672896,
+      "longitude": 12.802562
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 57.774909,
+      "longitude": 14.213013
+    },
+    {
+      "name": "Hedin Bil",
+      "latitude": 59.279544,
+      "longitude": 17.921343
+    },
+    {
+      "name": "Hedin bil",
+      "latitude": 55.572611,
+      "longitude": 13.056779
+    },
+    {
+      "name": "Hedin Bil - Ford Tagene",
+      "latitude": 57.77232,
+      "longitude": 11.992325
+    },
+    {
+      "name": "Hedin Bil AMG Center",
+      "latitude": 57.64945,
+      "longitude": 11.95591
+    },
+    {
+      "name": "Hedin Bil Jaguar & Land Rover",
+      "latitude": 58.431337,
+      "longitude": 15.664911
+    },
+    {
+      "name": "Hedin Bil Lysekil",
+      "latitude": 58.321581,
+      "longitude": 11.490278
+    },
+    {
+      "name": "Hedin Bil Mercedes-Benz",
+      "latitude": 58.43076,
+      "longitude": 15.666414
+    },
+    {
+      "name": "Hedin Bil Tagene",
+      "latitude": 57.774656,
+      "longitude": 11.995784
+    },
+    {
+      "name": "Hedin Bil Transportbilar",
+      "latitude": 56.673383,
+      "longitude": 12.800561
+    },
+    {
+      "name": "Hedin Bil Trollhättan",
+      "latitude": 58.317168,
+      "longitude": 12.31044
+    },
+    {
+      "name": "Hedin Bil, FordStore",
+      "latitude": 57.646957,
+      "longitude": 11.96851
+    },
+    {
+      "name": "Hedin Bil, Jaguar & Land Rover",
+      "latitude": 57.649356,
+      "longitude": 11.961601
+    },
+    {
+      "name": "Hedins bil",
+      "latitude": 59.647963,
+      "longitude": 17.08154
+    },
+    {
+      "name": "Hedström BIL",
+      "latitude": 61.740032,
+      "longitude": 17.11063
+    },
+    {
+      "name": "Helmia",
+      "latitude": 59.660715,
+      "longitude": 12.611516
+    },
+    {
+      "name": "Helmia AB",
+      "latitude": 59.714571,
+      "longitude": 14.174925
+    },
+    {
+      "name": "Helmia Bil",
+      "latitude": 59.374125,
+      "longitude": 13.505676
+    },
+    {
+      "name": "Henrikssons Husvagnar",
+      "latitude": 59.702956,
+      "longitude": 17.00039
+    },
+    {
+      "name": "Holmgrens bil",
+      "latitude": 58.431338,
+      "longitude": 15.662307
+    },
+    {
+      "name": "Holmgrens bil",
+      "latitude": 58.645738,
+      "longitude": 16.167064
+    },
+    {
+      "name": "Holmgrens bil",
+      "latitude": 57.161037,
+      "longitude": 14.073988
+    },
+    {
+      "name": "Holmgrens bil",
+      "latitude": 56.204058,
+      "longitude": 15.642915
+    },
+    {
+      "name": "Holmgrens Bil",
+      "latitude": 56.879719,
+      "longitude": 14.7605
+    },
+    {
+      "name": "Holmgrens Bil Göteborg",
+      "latitude": 57.773697,
+      "longitude": 11.993272
+    },
+    {
+      "name": "Holmlunds Bil - Krylbo",
+      "latitude": 60.133079,
+      "longitude": 16.211979
+    },
+    {
+      "name": "HR Motor",
+      "latitude": 61.825039,
+      "longitude": 16.119888
+    },
+    {
+      "name": "HRM",
+      "latitude": 58.491212,
+      "longitude": 13.189867
+    },
+    {
+      "name": "Hugo Eriksson Bil AB",
+      "latitude": 59.719776,
+      "longitude": 15.129491
+    },
+    {
+      "name": "Hurtigs bil",
+      "latitude": 57.89114,
+      "longitude": 11.938945
+    },
+    {
+      "name": "Hyndai",
+      "latitude": 58.078362,
+      "longitude": 11.828898
+    },
+    {
+      "name": "Hyundai",
+      "latitude": 61.354602,
+      "longitude": 16.434508
+    },
+    {
+      "name": "Hyundai",
+      "latitude": 59.121268,
+      "longitude": 15.143959
+    },
+    {
+      "name": "Hyundai",
+      "latitude": 58.53975,
+      "longitude": 15.012047
+    },
+    {
+      "name": "Hyundai",
+      "latitude": 59.286583,
+      "longitude": 17.940769
+    },
+    {
+      "name": "Hyundai Center Malmö",
+      "latitude": 55.569037,
+      "longitude": 13.051738
+    },
+    {
+      "name": "Hällefors Bilcenter-Toyota",
+      "latitude": 59.76901,
+      "longitude": 14.524309
+    },
+    {
+      "name": "Håkans bilar",
+      "latitude": 59.537473,
+      "longitude": 13.483393
+    },
+    {
+      "name": "Idealbilar",
+      "latitude": 58.348817,
+      "longitude": 11.832933
+    },
+    {
+      "name": "International Motors Nordic",
+      "latitude": 56.005963,
+      "longitude": 12.77119
+    },
+    {
+      "name": "Interperial bilförsäljning",
+      "latitude": 57.663988,
+      "longitude": 11.941301
+    },
+    {
+      "name": "Ivars Bil",
+      "latitude": 65.089437,
+      "longitude": 17.107457
+    },
+    {
+      "name": "Ivars bil",
+      "latitude": 63.170343,
+      "longitude": 14.685798
+    },
+    {
+      "name": "J BIL Haninge",
+      "latitude": 59.177383,
+      "longitude": 18.159375
+    },
+    {
+      "name": "J Bil Lund",
+      "latitude": 55.6834,
+      "longitude": 13.212796
+    },
+    {
+      "name": "J-BIL",
+      "latitude": 57.731387,
+      "longitude": 11.954135
+    },
+    {
+      "name": "J-Bil",
+      "latitude": 59.357209,
+      "longitude": 17.877851
+    },
+    {
+      "name": "J-Bil",
+      "latitude": 59.449554,
+      "longitude": 18.13262
+    },
+    {
+      "name": "J-BIL",
+      "latitude": 59.445387,
+      "longitude": 18.110396
+    },
+    {
+      "name": "J.K Bilförsäljning",
+      "latitude": 56.894132,
+      "longitude": 14.738699
+    },
+    {
+      "name": "Jarls Bilservice",
+      "latitude": 56.090196,
+      "longitude": 12.697717
+    },
+    {
+      "name": "JB garage",
+      "latitude": 60.671341,
+      "longitude": 17.200398
+    },
+    {
+      "name": "Jeger Bil",
+      "latitude": 57.575014,
+      "longitude": 12.078887
+    },
+    {
+      "name": "Jeppsons",
+      "latitude": 56.219306,
+      "longitude": 15.263899
+    },
+    {
+      "name": "Jeppsons",
+      "latitude": 56.175807,
+      "longitude": 15.593469
+    },
+    {
+      "name": "Jezyk bil",
+      "latitude": 59.348859,
+      "longitude": 15.238529
+    },
+    {
+      "name": "Jim Motor",
+      "latitude": 60.605766,
+      "longitude": 16.586273
+    },
+    {
+      "name": "JMR Cars AB",
+      "latitude": 59.238327,
+      "longitude": 17.910176
+    },
+    {
+      "name": "Jonas Simling Bil - Strängnäs",
+      "latitude": 59.352621,
+      "longitude": 17.032311
+    },
+    {
+      "name": "Jonsson bil",
+      "latitude": 59.255474,
+      "longitude": 15.164299
+    },
+    {
+      "name": "JW Bil",
+      "latitude": 59.380893,
+      "longitude": 13.471529
+    },
+    {
+      "name": "Jämtbil",
+      "latitude": 63.168913,
+      "longitude": 14.693168
+    },
+    {
+      "name": "Järudds Bil",
+      "latitude": 60.340324,
+      "longitude": 15.788019
+    },
+    {
+      "name": "Kamux",
+      "latitude": 59.745202,
+      "longitude": 18.670107
+    },
+    {
+      "name": "Kamux",
+      "latitude": 58.610457,
+      "longitude": 16.157973
+    },
+    {
+      "name": "KAMUX",
+      "latitude": 59.608133,
+      "longitude": 16.616254
+    },
+    {
+      "name": "Kamux",
+      "latitude": 60.468665,
+      "longitude": 15.400159
+    },
+    {
+      "name": "Kamux",
+      "latitude": 59.312549,
+      "longitude": 18.386546
+    },
+    {
+      "name": "Kamux",
+      "latitude": 59.215004,
+      "longitude": 15.13722
+    },
+    {
+      "name": "Kamux",
+      "latitude": 59.850242,
+      "longitude": 17.688001
+    },
+    {
+      "name": "Kamux",
+      "latitude": 56.880007,
+      "longitude": 14.781581
+    },
+    {
+      "name": "Kareby Bil",
+      "latitude": 57.905878,
+      "longitude": 11.924686
+    },
+    {
+      "name": "Karlskrona Bilcenter",
+      "latitude": 56.201879,
+      "longitude": 15.631889
+    },
+    {
+      "name": "Kave Bil",
+      "latitude": 63.308604,
+      "longitude": 18.751705
+    },
+    {
+      "name": "KC motors",
+      "latitude": 59.410455,
+      "longitude": 18.035913
+    },
+    {
+      "name": "Kenneth Larssons Bil",
+      "latitude": 60.622802,
+      "longitude": 16.749334
+    },
+    {
+      "name": "Kenneths bil",
+      "latitude": 56.252648,
+      "longitude": 12.902712
+    },
+    {
+      "name": "Kents Bilcentrum",
+      "latitude": 60.891271,
+      "longitude": 15.111082
+    },
+    {
+      "name": "KFL Bilcenter",
+      "latitude": 59.395894,
+      "longitude": 16.470639
+    },
+    {
+      "name": "KFL Bilcenter",
+      "latitude": 58.434801,
+      "longitude": 15.594091
+    },
+    {
+      "name": "KGJ Bil",
+      "latitude": 57.685949,
+      "longitude": 11.991924
+    },
+    {
+      "name": "Kia",
+      "latitude": 59.416307,
+      "longitude": 17.930867
+    },
+    {
+      "name": "Kia",
+      "latitude": 59.620565,
+      "longitude": 16.458368
+    },
+    {
+      "name": "Kia",
+      "latitude": 59.404694,
+      "longitude": 17.863391
+    },
+    {
+      "name": "KIA Landrins Bil",
+      "latitude": 56.157022,
+      "longitude": 13.745823
+    },
+    {
+      "name": "Kia Motors",
+      "latitude": 55.713262,
+      "longitude": 13.15445
+    },
+    {
+      "name": "Kjell Heintz Bil",
+      "latitude": 59.070169,
+      "longitude": 12.694206
+    },
+    {
+      "name": "Knäreds Bilverkstad",
+      "latitude": 56.519894,
+      "longitude": 13.314747
+    },
+    {
+      "name": "Koche Bil",
+      "latitude": 58.426599,
+      "longitude": 15.690923
+    },
+    {
+      "name": "Kristianstads Automobil",
+      "latitude": 56.028679,
+      "longitude": 14.213123
+    },
+    {
+      "name": "Kron Billcenter",
+      "latitude": 59.258629,
+      "longitude": 18.031293
+    },
+    {
+      "name": "Kronobergs Bilaffär",
+      "latitude": 56.838279,
+      "longitude": 13.925718
+    },
+    {
+      "name": "Kronobergs Bilaffär AB",
+      "latitude": 56.531916,
+      "longitude": 14.133889
+    },
+    {
+      "name": "KS Husvagn och Skoter AB",
+      "latitude": 62.392027,
+      "longitude": 17.265058
+    },
+    {
+      "name": "Kungsbacka Bilcentrum",
+      "latitude": 57.509928,
+      "longitude": 12.081446
+    },
+    {
+      "name": "Kungsgårdens bil",
+      "latitude": 56.249232,
+      "longitude": 12.887999
+    },
+    {
+      "name": "KVD Kvarndammen",
+      "latitude": 59.480722,
+      "longitude": 18.057006
+    },
+    {
+      "name": "Laholms bilcenter AB",
+      "latitude": 56.500414,
+      "longitude": 13.008134
+    },
+    {
+      "name": "Landrins Bil",
+      "latitude": 55.713123,
+      "longitude": 13.155484
+    },
+    {
+      "name": "Landrins Bil",
+      "latitude": 59.609712,
+      "longitude": 16.635091
+    },
+    {
+      "name": "Landrins Bil Sundsvall",
+      "latitude": 62.395678,
+      "longitude": 17.256641
+    },
+    {
+      "name": "Lani Bil",
+      "latitude": 56.07621,
+      "longitude": 12.72961
+    },
+    {
+      "name": "Larses Bilar",
+      "latitude": 60.725633,
+      "longitude": 15.448105
+    },
+    {
+      "name": "Leaseplan Sverige",
+      "latitude": 59.363272,
+      "longitude": 18.021642
+    },
+    {
+      "name": "Lema bil",
+      "latitude": 58.411285,
+      "longitude": 15.645077
+    },
+    {
+      "name": "Lennart Holmgren Bil AB",
+      "latitude": 62.619121,
+      "longitude": 17.909774
+    },
+    {
+      "name": "Lexus",
+      "latitude": 57.648146,
+      "longitude": 11.968514
+    },
+    {
+      "name": "Lexus Karlstad",
+      "latitude": 59.390025,
+      "longitude": 13.481314
+    },
+    {
+      "name": "Lexus Malmö",
+      "latitude": 55.560319,
+      "longitude": 13.072724
+    },
+    {
+      "name": "Lexus Service",
+      "latitude": 58.27362,
+      "longitude": 12.32584
+    },
+    {
+      "name": "Lexus Service",
+      "latitude": 58.395512,
+      "longitude": 13.880067
+    },
+    {
+      "name": "LEXUS SERVICE MARIESTAD",
+      "latitude": 58.677869,
+      "longitude": 13.818504
+    },
+    {
+      "name": "LEXUS SERVICE SUNDSVALL;Service Centre Sundsvall",
+      "latitude": 62.447976,
+      "longitude": 17.323616
+    },
+    {
+      "name": "Lexus Stockholm",
+      "latitude": 59.28218,
+      "longitude": 17.929599
+    },
+    {
+      "name": "Lexus Uppsala",
+      "latitude": 59.843016,
+      "longitude": 17.730694
+    },
+    {
+      "name": "Lexus Örebro",
+      "latitude": 59.30703,
+      "longitude": 15.229648
+    },
+    {
+      "name": "Liljas",
+      "latitude": 56.742926,
+      "longitude": 15.893156
+    },
+    {
+      "name": "Liljas",
+      "latitude": 56.519098,
+      "longitude": 14.985753
+    },
+    {
+      "name": "Liljas Bil",
+      "latitude": 56.687783,
+      "longitude": 16.318352
+    },
+    {
+      "name": "Lindholm Bil AB",
+      "latitude": 59.153695,
+      "longitude": 18.164665
+    },
+    {
+      "name": "Lindholmen Bilar Ab",
+      "latitude": 59.277101,
+      "longitude": 17.886973
+    },
+    {
+      "name": "Lindholms bil",
+      "latitude": 63.850273,
+      "longitude": 20.320055
+    },
+    {
+      "name": "Lindholms Bil - Örnsköldsvik",
+      "latitude": 63.285955,
+      "longitude": 18.730297
+    },
+    {
+      "name": "Lindhs Bilgummi",
+      "latitude": 62.387008,
+      "longitude": 17.295174
+    },
+    {
+      "name": "Lindströms Bil",
+      "latitude": 57.929622,
+      "longitude": 12.557945
+    },
+    {
+      "name": "Lindströms Bil",
+      "latitude": 57.76616,
+      "longitude": 14.179174
+    },
+    {
+      "name": "Lindströms Bil",
+      "latitude": 58.150356,
+      "longitude": 13.563673
+    },
+    {
+      "name": "Lindströms Bil",
+      "latitude": 58.273439,
+      "longitude": 12.325752
+    },
+    {
+      "name": "Lindströms Bil",
+      "latitude": 58.39559,
+      "longitude": 13.880501
+    },
+    {
+      "name": "Lindströms Husbilar&Husvagnar",
+      "latitude": 59.561119,
+      "longitude": 17.548578
+    },
+    {
+      "name": "Lingmans Bil - Kiruna",
+      "latitude": 67.847304,
+      "longitude": 20.282263
+    },
+    {
+      "name": "Linköping Autocenter",
+      "latitude": 58.390321,
+      "longitude": 15.54814
+    },
+    {
+      "name": "Linn och Elias bilfirma",
+      "latitude": 59.060366,
+      "longitude": 16.593839
+    },
+    {
+      "name": "Ljungsbro Bilcenter AB",
+      "latitude": 58.490178,
+      "longitude": 15.503005
+    },
+    {
+      "name": "LN Autocenter",
+      "latitude": 56.24217,
+      "longitude": 15.286258
+    },
+    {
+      "name": "LP Bilar",
+      "latitude": 58.167331,
+      "longitude": 13.54254
+    },
+    {
+      "name": "Lunds Bil",
+      "latitude": 57.123779,
+      "longitude": 12.265025
+    },
+    {
+      "name": "Lundströms i Bor AB",
+      "latitude": 57.117406,
+      "longitude": 14.152744
+    },
+    {
+      "name": "LYNK & CO",
+      "latitude": 57.704571,
+      "longitude": 11.961268
+    },
+    {
+      "name": "M Bilar Group Örebro",
+      "latitude": 59.305021,
+      "longitude": 15.2305
+    },
+    {
+      "name": "M Holms Bilcenter",
+      "latitude": 57.765921,
+      "longitude": 12.007571
+    },
+    {
+      "name": "M-bilar",
+      "latitude": 60.490274,
+      "longitude": 15.478199
+    },
+    {
+      "name": "M-Bilar Eskilstuna",
+      "latitude": 59.388501,
+      "longitude": 16.465461
+    },
+    {
+      "name": "M. Törngren Bil AB",
+      "latitude": 57.727334,
+      "longitude": 13.006464
+    },
+    {
+      "name": "Magnusson Bil",
+      "latitude": 57.838262,
+      "longitude": 12.01419
+    },
+    {
+      "name": "Malmgren Bil",
+      "latitude": 58.480557,
+      "longitude": 11.64387
+    },
+    {
+      "name": "Malmö Bilcentrum (Peugeot)",
+      "latitude": 55.561115,
+      "longitude": 13.069372
+    },
+    {
+      "name": "Mats Bilar",
+      "latitude": 60.590465,
+      "longitude": 15.752251
+    },
+    {
+      "name": "Mats Bilar",
+      "latitude": 60.476302,
+      "longitude": 15.405898
+    },
+    {
+      "name": "Mats Klassons Bil AB",
+      "latitude": 57.80583,
+      "longitude": 13.419542
+    },
+    {
+      "name": "Mazda",
+      "latitude": 56.551786,
+      "longitude": 13.079686
+    },
+    {
+      "name": "Mazda",
+      "latitude": 59.357181,
+      "longitude": 17.955688
+    },
+    {
+      "name": "Mazda",
+      "latitude": 55.568067,
+      "longitude": 13.054323
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 56.251226,
+      "longitude": 12.889319
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 59.175751,
+      "longitude": 18.160654
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 62.640591,
+      "longitude": 17.913775
+    },
+    {
+      "name": "Melinas Bilar AB",
+      "latitude": 59.402409,
+      "longitude": 17.84453
+    },
+    {
+      "name": "Mellinger Bil",
+      "latitude": 59.605023,
+      "longitude": 16.483856
+    },
+    {
+      "name": "Mercedes",
+      "latitude": 55.564456,
+      "longitude": 13.042195
+    },
+    {
+      "name": "Mercedes Benz",
+      "latitude": 55.615154,
+      "longitude": 12.988361
+    },
+    {
+      "name": "Mercedes Benz",
+      "latitude": 59.418346,
+      "longitude": 17.925763
+    },
+    {
+      "name": "Mercedes-Benz",
+      "latitude": 59.347703,
+      "longitude": 17.961288
+    },
+    {
+      "name": "Mezek Bil & Plåtslageri",
+      "latitude": 57.497962,
+      "longitude": 12.676627
+    },
+    {
+      "name": "MGS Autocar",
+      "latitude": 56.825755,
+      "longitude": 13.928867
+    },
+    {
+      "name": "Millons bil",
+      "latitude": 57.640967,
+      "longitude": 11.948682
+    },
+    {
+      "name": "Mitsubishi",
+      "latitude": 59.177531,
+      "longitude": 18.159468
+    },
+    {
+      "name": "Mitsubishi",
+      "latitude": 59.357244,
+      "longitude": 17.877724
+    },
+    {
+      "name": "Mitsubishi Center Malmö AB",
+      "latitude": 55.568918,
+      "longitude": 13.051606
+    },
+    {
+      "name": "Mittsverige Bil",
+      "latitude": 62.432432,
+      "longitude": 17.414811
+    },
+    {
+      "name": "MK Bil",
+      "latitude": 59.432404,
+      "longitude": 15.594436
+    },
+    {
+      "name": "Moberg Bil",
+      "latitude": 57.731476,
+      "longitude": 11.944047
+    },
+    {
+      "name": "Motor Trend",
+      "latitude": 58.381013,
+      "longitude": 13.413888
+    },
+    {
+      "name": "Motor Trend",
+      "latitude": 58.485578,
+      "longitude": 13.195469
+    },
+    {
+      "name": "Motor Trend",
+      "latitude": 57.494163,
+      "longitude": 12.662586
+    },
+    {
+      "name": "Motor Trend - Arvika",
+      "latitude": 59.65864,
+      "longitude": 12.614572
+    },
+    {
+      "name": "Motor Trend - Karlstad",
+      "latitude": 59.390012,
+      "longitude": 13.481347
+    },
+    {
+      "name": "Motor Trend AB",
+      "latitude": 56.682513,
+      "longitude": 12.888004
+    },
+    {
+      "name": "Motorcentralen",
+      "latitude": 63.833079,
+      "longitude": 20.283076
+    },
+    {
+      "name": "Motorcity",
+      "latitude": 60.470475,
+      "longitude": 15.4021
+    },
+    {
+      "name": "Motorforum",
+      "latitude": 59.992721,
+      "longitude": 15.810205
+    },
+    {
+      "name": "Motorförmedlarna",
+      "latitude": 60.621564,
+      "longitude": 16.7583
+    },
+    {
+      "name": "MotorHalland",
+      "latitude": 56.67317,
+      "longitude": 12.796049
+    },
+    {
+      "name": "Mårtenssons Bil",
+      "latitude": 55.563288,
+      "longitude": 13.042736
+    },
+    {
+      "name": "Möller Bil",
+      "latitude": 59.648499,
+      "longitude": 17.085308
+    },
+    {
+      "name": "Möller Bil",
+      "latitude": 59.297767,
+      "longitude": 15.208993
+    },
+    {
+      "name": "Möller bil Eskilstuna",
+      "latitude": 59.387232,
+      "longitude": 16.468513
+    },
+    {
+      "name": "Möller bil Eskilstuna",
+      "latitude": 59.388438,
+      "longitude": 16.470968
+    },
+    {
+      "name": "Möller Bil Katrineholm",
+      "latitude": 58.994066,
+      "longitude": 16.188117
+    },
+    {
+      "name": "Möller Bil Köping",
+      "latitude": 59.523141,
+      "longitude": 15.978121
+    },
+    {
+      "name": "Möller Bil Lindesberg",
+      "latitude": 59.603134,
+      "longitude": 15.205223
+    },
+    {
+      "name": "Møller Bil AB",
+      "latitude": 59.324638,
+      "longitude": 14.482099
+    },
+    {
+      "name": "Møllers Bil",
+      "latitude": 57.733854,
+      "longitude": 11.986195
+    },
+    {
+      "name": "Newman Bil Hässleholm",
+      "latitude": 56.150939,
+      "longitude": 13.777469
+    },
+    {
+      "name": "Nice Bilar",
+      "latitude": 57.731628,
+      "longitude": 12.06708
+    },
+    {
+      "name": "Niemi Bil",
+      "latitude": 63.850733,
+      "longitude": 20.307015
+    },
+    {
+      "name": "Niemi Bil",
+      "latitude": 63.850694,
+      "longitude": 20.308032
+    },
+    {
+      "name": "Nika Motors AB",
+      "latitude": 56.811291,
+      "longitude": 12.725622
+    },
+    {
+      "name": "Niklassons Biltjänst",
+      "latitude": 56.626867,
+      "longitude": 15.540731
+    },
+    {
+      "name": "Nilssons Bilcenter",
+      "latitude": 55.684194,
+      "longitude": 13.211983
+    },
+    {
+      "name": "Nilssons Bilhall - Vimmerby",
+      "latitude": 57.67001,
+      "longitude": 15.849782
+    },
+    {
+      "name": "NIO",
+      "latitude": 57.706322,
+      "longitude": 11.968616
+    },
+    {
+      "name": "Nissan",
+      "latitude": 59.347058,
+      "longitude": 17.959156
+    },
+    {
+      "name": "Nissan",
+      "latitude": 59.483544,
+      "longitude": 18.279611
+    },
+    {
+      "name": "Nissan",
+      "latitude": 55.56238,
+      "longitude": 13.042571
+    },
+    {
+      "name": "Nissan VMC Gotland",
+      "latitude": 57.644857,
+      "longitude": 18.324624
+    },
+    {
+      "name": "Nordemans Bil",
+      "latitude": 63.303609,
+      "longitude": 18.719086
+    },
+    {
+      "name": "Nordemans Bil AB",
+      "latitude": 64.589004,
+      "longitude": 18.693342
+    },
+    {
+      "name": "Nordic Bil",
+      "latitude": 58.017158,
+      "longitude": 11.841981
+    },
+    {
+      "name": "Nordiska Bil",
+      "latitude": 65.31922,
+      "longitude": 21.417108
+    },
+    {
+      "name": "Nordmarkens Motor",
+      "latitude": 59.388546,
+      "longitude": 13.476366
+    },
+    {
+      "name": "Norrlands bil",
+      "latitude": 65.584996,
+      "longitude": 19.197334
+    },
+    {
+      "name": "Norrtulls Bilar",
+      "latitude": 59.34457,
+      "longitude": 18.049104
+    },
+    {
+      "name": "NV Motor AB",
+      "latitude": 64.735742,
+      "longitude": 20.973469
+    },
+    {
+      "name": "OCL Brorssons",
+      "latitude": 58.586265,
+      "longitude": 16.21902
+    },
+    {
+      "name": "Olivensjö bil",
+      "latitude": 61.793874,
+      "longitude": 16.573458
+    },
+    {
+      "name": "Olofsson Bil",
+      "latitude": 59.151786,
+      "longitude": 18.160808
+    },
+    {
+      "name": "Olssons bil AB",
+      "latitude": 58.685616,
+      "longitude": 16.341969
+    },
+    {
+      "name": "One Stop Auto AB",
+      "latitude": 55.515793,
+      "longitude": 13.243717
+    },
+    {
+      "name": "Opel",
+      "latitude": 60.65819,
+      "longitude": 17.162936
+    },
+    {
+      "name": "ORA GWM",
+      "latitude": 57.649405,
+      "longitude": 11.957543
+    },
+    {
+      "name": "Ortvikens Bilar",
+      "latitude": 62.398914,
+      "longitude": 17.356647
+    },
+    {
+      "name": "Oscar Bil",
+      "latitude": 59.381776,
+      "longitude": 16.481313
+    },
+    {
+      "name": "Oscarssons bilhandel",
+      "latitude": 58.703731,
+      "longitude": 12.449046
+    },
+    {
+      "name": "Ottos Bil - Bollnäs",
+      "latitude": 61.354729,
+      "longitude": 16.433259
+    },
+    {
+      "name": "P. Perssons Bil i Svedala",
+      "latitude": 55.524924,
+      "longitude": 13.253502
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 59.357199,
+      "longitude": 17.877828
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 59.445359,
+      "longitude": 18.10963
+    },
+    {
+      "name": "Philipson",
+      "latitude": 59.379974,
+      "longitude": 13.431385
+    },
+    {
+      "name": "Platinum Cars",
+      "latitude": 59.515175,
+      "longitude": 17.928017
+    },
+    {
+      "name": "Platinum Cars",
+      "latitude": 58.649139,
+      "longitude": 16.172619
+    },
+    {
+      "name": "Polestar",
+      "latitude": 55.601421,
+      "longitude": 13.000504
+    },
+    {
+      "name": "Polestar",
+      "latitude": 59.333343,
+      "longitude": 18.071133
+    },
+    {
+      "name": "Polestar Gothenburg",
+      "latitude": 57.699808,
+      "longitude": 11.975292
+    },
+    {
+      "name": "Porsche",
+      "latitude": 59.348865,
+      "longitude": 18.081103
+    },
+    {
+      "name": "Porsche",
+      "latitude": 55.560005,
+      "longitude": 13.070417
+    },
+    {
+      "name": "Porsche Center",
+      "latitude": 58.431403,
+      "longitude": 15.663678
+    },
+    {
+      "name": "Porsche Center",
+      "latitude": 59.284049,
+      "longitude": 17.937047
+    },
+    {
+      "name": "Porsche Center Danderyd",
+      "latitude": 59.411693,
+      "longitude": 18.03807
+    },
+    {
+      "name": "Powercar Service AB",
+      "latitude": 59.289734,
+      "longitude": 18.054786
+    },
+    {
+      "name": "Premium Cars",
+      "latitude": 59.315021,
+      "longitude": 18.431024
+    },
+    {
+      "name": "Prens Bilar",
+      "latitude": 60.607715,
+      "longitude": 16.599899
+    },
+    {
+      "name": "Prütz Bil",
+      "latitude": 56.10532,
+      "longitude": 12.790651
+    },
+    {
+      "name": "Påarps bilhall",
+      "latitude": 56.02625,
+      "longitude": 12.812245
+    },
+    {
+      "name": "Quality Cars",
+      "latitude": 56.251719,
+      "longitude": 12.887513
+    },
+    {
+      "name": "R Gustavssons Bil",
+      "latitude": 59.065324,
+      "longitude": 12.698948
+    },
+    {
+      "name": "R. Einarssons Bil AB",
+      "latitude": 56.532945,
+      "longitude": 14.133775
+    },
+    {
+      "name": "RA Motor",
+      "latitude": 59.741745,
+      "longitude": 17.81228
+    },
+    {
+      "name": "Ragnar Gustavsson Bil",
+      "latitude": 58.901936,
+      "longitude": 11.945345
+    },
+    {
+      "name": "Rego Racing",
+      "latitude": 59.70163,
+      "longitude": 16.243641
+    },
+    {
+      "name": "Rejmes",
+      "latitude": 58.032785,
+      "longitude": 14.949768
+    },
+    {
+      "name": "Rejmes",
+      "latitude": 59.603562,
+      "longitude": 15.206962
+    },
+    {
+      "name": "Rejmes",
+      "latitude": 58.417608,
+      "longitude": 15.639197
+    },
+    {
+      "name": "Rejmes",
+      "latitude": 58.429336,
+      "longitude": 15.5921
+    },
+    {
+      "name": "Rejmes Personvagnar AB",
+      "latitude": 56.677922,
+      "longitude": 12.88056
+    },
+    {
+      "name": "Rejmes Valdemarsvik",
+      "latitude": 58.212003,
+      "longitude": 16.582583
+    },
+    {
+      "name": "Renault",
+      "latitude": 60.623926,
+      "longitude": 16.768346
+    },
+    {
+      "name": "Renault",
+      "latitude": 59.439435,
+      "longitude": 18.048969
+    },
+    {
+      "name": "Renault - Dacia VMC Gotland",
+      "latitude": 57.645023,
+      "longitude": 18.324519
+    },
+    {
+      "name": "Riddarmarks AB",
+      "latitude": 62.393416,
+      "longitude": 17.268078
+    },
+    {
+      "name": "Riddermark Bil",
+      "latitude": 58.417327,
+      "longitude": 15.643621
+    },
+    {
+      "name": "Riddermark Bil",
+      "latitude": 59.40419,
+      "longitude": 17.843273
+    },
+    {
+      "name": "Riddermark Bil AB",
+      "latitude": 59.200873,
+      "longitude": 18.127791
+    },
+    {
+      "name": "Riddermark Bil Kalmar",
+      "latitude": 56.673941,
+      "longitude": 16.291552
+    },
+    {
+      "name": "Robbans bil",
+      "latitude": 55.479948,
+      "longitude": 13.126927
+    },
+    {
+      "name": "Rolf Ericson Bil",
+      "latitude": 60.60665,
+      "longitude": 15.666603
+    },
+    {
+      "name": "Rolf Ericson Bil",
+      "latitude": 60.448385,
+      "longitude": 15.487858
+    },
+    {
+      "name": "Rolf Ericson Bil Däckcenter",
+      "latitude": 61.02122,
+      "longitude": 14.591443
+    },
+    {
+      "name": "Roy Andersson Bilbolaget AB",
+      "latitude": 58.350507,
+      "longitude": 11.867084
+    },
+    {
+      "name": "Rune Odelius Bil",
+      "latitude": 57.881628,
+      "longitude": 11.945243
+    },
+    {
+      "name": "Runes Bil",
+      "latitude": 57.907778,
+      "longitude": 14.070809
+    },
+    {
+      "name": "Råbergs Bil",
+      "latitude": 56.200333,
+      "longitude": 15.635366
+    },
+    {
+      "name": "S. Jönsson Bil",
+      "latitude": 56.147432,
+      "longitude": 12.581703
+    },
+    {
+      "name": "S.A. Performance",
+      "latitude": 59.934145,
+      "longitude": 17.596691
+    },
+    {
+      "name": "SA Bil & Däckservice",
+      "latitude": 56.245618,
+      "longitude": 15.25034
+    },
+    {
+      "name": "Salubil",
+      "latitude": 59.868664,
+      "longitude": 17.604514
+    },
+    {
+      "name": "Samuelsson & Jersby Service",
+      "latitude": 57.746922,
+      "longitude": 12.081038
+    },
+    {
+      "name": "Seat",
+      "latitude": 57.643535,
+      "longitude": 11.945082
+    },
+    {
+      "name": "Select Cars",
+      "latitude": 55.799664,
+      "longitude": 13.126698
+    },
+    {
+      "name": "Sellmans Bil",
+      "latitude": 61.717589,
+      "longitude": 17.096769
+    },
+    {
+      "name": "Servicemotagning Transportbilan",
+      "latitude": 59.419059,
+      "longitude": 17.920174
+    },
+    {
+      "name": "Showroom by Riddermark",
+      "latitude": 59.314264,
+      "longitude": 18.259418
+    },
+    {
+      "name": "SilverFordon Landskrona",
+      "latitude": 55.86898,
+      "longitude": 12.865744
+    },
+    {
+      "name": "Sjöstaden bil",
+      "latitude": 59.386504,
+      "longitude": 16.486285
+    },
+    {
+      "name": "Skara husvagnar",
+      "latitude": 58.374755,
+      "longitude": 13.424418
+    },
+    {
+      "name": "Skarosser",
+      "latitude": 64.25506,
+      "longitude": 16.430507
+    },
+    {
+      "name": "Skobes",
+      "latitude": 57.420439,
+      "longitude": 15.080009
+    },
+    {
+      "name": "Skobes bil",
+      "latitude": 57.445635,
+      "longitude": 15.063405
+    },
+    {
+      "name": "Skoda",
+      "latitude": 59.165586,
+      "longitude": 18.160267
+    },
+    {
+      "name": "Skoda",
+      "latitude": 59.438295,
+      "longitude": 18.051468
+    },
+    {
+      "name": "Skoda",
+      "latitude": 58.07607,
+      "longitude": 11.82689
+    },
+    {
+      "name": "Skoda",
+      "latitude": 58.75801,
+      "longitude": 17.03159
+    },
+    {
+      "name": "Skoda",
+      "latitude": 55.564684,
+      "longitude": 13.045872
+    },
+    {
+      "name": "Skoda Bromma",
+      "latitude": 59.348269,
+      "longitude": 17.957949
+    },
+    {
+      "name": "Skoda Helsingborg",
+      "latitude": 56.075105,
+      "longitude": 12.73018
+    },
+    {
+      "name": "Skoda InfraCity",
+      "latitude": 59.496834,
+      "longitude": 17.926719
+    },
+    {
+      "name": "Skoglöfs Bil",
+      "latitude": 59.310554,
+      "longitude": 14.128527
+    },
+    {
+      "name": "Skrotfrag i Norrköping",
+      "latitude": 58.605753,
+      "longitude": 16.194881
+    },
+    {
+      "name": "Sofiebergs Bil",
+      "latitude": 56.003093,
+      "longitude": 12.761594
+    },
+    {
+      "name": "Solgatansbil",
+      "latitude": 55.610318,
+      "longitude": 13.03853
+    },
+    {
+      "name": "Speedy Motors",
+      "latitude": 60.640647,
+      "longitude": 17.339105
+    },
+    {
+      "name": "Stalas stängsel och grindar",
+      "latitude": 59.186653,
+      "longitude": 18.145828
+    },
+    {
+      "name": "Stenbergs Bil - Katrineholm",
+      "latitude": 58.998919,
+      "longitude": 16.221468
+    },
+    {
+      "name": "Stendahls Bil",
+      "latitude": 57.964818,
+      "longitude": 12.139169
+    },
+    {
+      "name": "Stengard Däckcenter",
+      "latitude": 58.599876,
+      "longitude": 16.146794
+    },
+    {
+      "name": "Sthlm Bil",
+      "latitude": 59.287545,
+      "longitude": 17.944964
+    },
+    {
+      "name": "STHLM BIL",
+      "latitude": 59.308042,
+      "longitude": 18.381519
+    },
+    {
+      "name": "Stig Ericsson Bil",
+      "latitude": 56.257327,
+      "longitude": 14.530005
+    },
+    {
+      "name": "Strada",
+      "latitude": 59.339861,
+      "longitude": 18.114118
+    },
+    {
+      "name": "Ströms Bil i Vara AB",
+      "latitude": 58.272975,
+      "longitude": 13.034889
+    },
+    {
+      "name": "Subaru",
+      "latitude": 60.672517,
+      "longitude": 17.200028
+    },
+    {
+      "name": "Subaru",
+      "latitude": 59.445781,
+      "longitude": 18.116652
+    },
+    {
+      "name": "Subaru",
+      "latitude": 55.572419,
+      "longitude": 13.056974
+    },
+    {
+      "name": "Subaru Göteborg",
+      "latitude": 57.649409,
+      "longitude": 11.957124
+    },
+    {
+      "name": "Subaru Nordic",
+      "latitude": 55.617444,
+      "longitude": 13.10782
+    },
+    {
+      "name": "Sundströms Bil",
+      "latitude": 62.926992,
+      "longitude": 17.779785
+    },
+    {
+      "name": "Suzuki",
+      "latitude": 60.622674,
+      "longitude": 16.749265
+    },
+    {
+      "name": "Suzuki",
+      "latitude": 56.500987,
+      "longitude": 13.014446
+    },
+    {
+      "name": "Sven Almevik Bil AB",
+      "latitude": 58.434368,
+      "longitude": 15.591328
+    },
+    {
+      "name": "Sven Wixner",
+      "latitude": 59.851182,
+      "longitude": 17.658314
+    },
+    {
+      "name": "Svenska BIl",
+      "latitude": 60.659355,
+      "longitude": 17.159969
+    },
+    {
+      "name": "Svenska bilgruppen",
+      "latitude": 59.316105,
+      "longitude": 18.037108
+    },
+    {
+      "name": "Svenska Motorkompaniet",
+      "latitude": 59.254873,
+      "longitude": 18.01422
+    },
+    {
+      "name": "Swe Bilar",
+      "latitude": 59.358706,
+      "longitude": 17.873668
+    },
+    {
+      "name": "Söderbergs Audi Nyköping",
+      "latitude": 58.746436,
+      "longitude": 16.998488
+    },
+    {
+      "name": "Söderbergs Bil",
+      "latitude": 59.295728,
+      "longitude": 18.067266
+    },
+    {
+      "name": "Söderbergs bil",
+      "latitude": 58.58297,
+      "longitude": 16.216162
+    },
+    {
+      "name": "Söderbergs Volkswagen Nyköping",
+      "latitude": 58.751167,
+      "longitude": 16.993689
+    },
+    {
+      "name": "Tage Rejmes Bil",
+      "latitude": 58.602945,
+      "longitude": 16.179001
+    },
+    {
+      "name": "Tage Rejmes Bil",
+      "latitude": 58.589096,
+      "longitude": 16.21718
+    },
+    {
+      "name": "Tage Rejmes Lastvagnar",
+      "latitude": 58.603258,
+      "longitude": 16.17913
+    },
+    {
+      "name": "TB Bil",
+      "latitude": 58.621757,
+      "longitude": 16.152613
+    },
+    {
+      "name": "Tesla",
+      "latitude": 59.335587,
+      "longitude": 18.063029
+    },
+    {
+      "name": "Tesla",
+      "latitude": 58.578125,
+      "longitude": 16.214418
+    },
+    {
+      "name": "Tesla",
+      "latitude": 59.369265,
+      "longitude": 18.00524
+    },
+    {
+      "name": "Tesla",
+      "latitude": 59.237889,
+      "longitude": 15.147002
+    },
+    {
+      "name": "Tesla Gothenburg",
+      "latitude": 57.642875,
+      "longitude": 11.994246
+    },
+    {
+      "name": "Tesla Gothenburg-Exportgatan",
+      "latitude": 57.742214,
+      "longitude": 11.989888
+    },
+    {
+      "name": "Tesla Malmö",
+      "latitude": 55.563103,
+      "longitude": 13.058491
+    },
+    {
+      "name": "Tesla Service Center",
+      "latitude": 58.578126,
+      "longitude": 16.214154
+    },
+    {
+      "name": "Tesla Stockholm",
+      "latitude": 59.28371,
+      "longitude": 17.946251
+    },
+    {
+      "name": "Tesla Umeå",
+      "latitude": 63.865683,
+      "longitude": 20.304519
+    },
+    {
+      "name": "Tesla Uppsala",
+      "latitude": 59.849295,
+      "longitude": 17.73226
+    },
+    {
+      "name": "Tesla Örebro",
+      "latitude": 59.237892,
+      "longitude": 15.146994
+    },
+    {
+      "name": "Thunbergs bil",
+      "latitude": 60.657076,
+      "longitude": 17.158944
+    },
+    {
+      "name": "Tobias Johansson Bil",
+      "latitude": 57.833355,
+      "longitude": 13.425385
+    },
+    {
+      "name": "Torvalla Bil",
+      "latitude": 59.287195,
+      "longitude": 17.943553
+    },
+    {
+      "name": "Torvalla Bil",
+      "latitude": 59.287002,
+      "longitude": 17.942735
+    },
+    {
+      "name": "Torvalla Bil Värmdö",
+      "latitude": 59.315095,
+      "longitude": 18.427067
+    },
+    {
+      "name": "Touza bilar",
+      "latitude": 59.2055,
+      "longitude": 17.64318
+    },
+    {
+      "name": "Toveks bil",
+      "latitude": 57.733047,
+      "longitude": 12.931438
+    },
+    {
+      "name": "Toveks Bil",
+      "latitude": 59.030319,
+      "longitude": 12.70511
+    },
+    {
+      "name": "Toveks Bil",
+      "latitude": 58.418916,
+      "longitude": 13.879713
+    },
+    {
+      "name": "Toveks bil",
+      "latitude": 58.696971,
+      "longitude": 13.818298
+    },
+    {
+      "name": "Toveks bil",
+      "latitude": 58.163573,
+      "longitude": 13.567145
+    },
+    {
+      "name": "Toveks Bil",
+      "latitude": 58.343536,
+      "longitude": 11.924781
+    },
+    {
+      "name": "Toveks Bil",
+      "latitude": 58.343917,
+      "longitude": 11.925825
+    },
+    {
+      "name": "Toveks bil",
+      "latitude": 55.685697,
+      "longitude": 13.213874
+    },
+    {
+      "name": "Toveks bil",
+      "latitude": 57.165152,
+      "longitude": 12.276094
+    },
+    {
+      "name": "Toveks Bil Stora Höga",
+      "latitude": 58.019647,
+      "longitude": 11.8412
+    },
+    {
+      "name": "Toyota",
+      "latitude": 57.761058,
+      "longitude": 16.60696
+    },
+    {
+      "name": "Toyota",
+      "latitude": 58.541179,
+      "longitude": 15.015523
+    },
+    {
+      "name": "Toyota",
+      "latitude": 59.380408,
+      "longitude": 17.943238
+    },
+    {
+      "name": "Toyota",
+      "latitude": 60.648167,
+      "longitude": 17.148718
+    },
+    {
+      "name": "Toyota",
+      "latitude": 56.169218,
+      "longitude": 13.759903
+    },
+    {
+      "name": "Toyota",
+      "latitude": 58.677996,
+      "longitude": 13.818879
+    },
+    {
+      "name": "Toyota",
+      "latitude": 59.439094,
+      "longitude": 18.050542
+    },
+    {
+      "name": "Toyota",
+      "latitude": 61.354972,
+      "longitude": 16.43344
+    },
+    {
+      "name": "Toyota",
+      "latitude": 59.357615,
+      "longitude": 17.877244
+    },
+    {
+      "name": "Toyota Center",
+      "latitude": 59.324683,
+      "longitude": 18.257723
+    },
+    {
+      "name": "Toyota Center",
+      "latitude": 57.640925,
+      "longitude": 11.985339
+    },
+    {
+      "name": "Toyota center",
+      "latitude": 56.197419,
+      "longitude": 15.609357
+    },
+    {
+      "name": "Toyota Center",
+      "latitude": 59.269178,
+      "longitude": 17.925405
+    },
+    {
+      "name": "Toyota Center",
+      "latitude": 55.870186,
+      "longitude": 12.852971
+    },
+    {
+      "name": "Toyota Center",
+      "latitude": 56.075086,
+      "longitude": 12.711529
+    },
+    {
+      "name": "Toyota center",
+      "latitude": 56.673588,
+      "longitude": 16.33037
+    },
+    {
+      "name": "Toyota Center - Sundsvall;Toyota Center",
+      "latitude": 62.447926,
+      "longitude": 17.323318
+    },
+    {
+      "name": "Toyota Center Dalarna",
+      "latitude": 60.604436,
+      "longitude": 15.607297
+    },
+    {
+      "name": "Toyota Center Göteborg",
+      "latitude": 57.777672,
+      "longitude": 12.001932
+    },
+    {
+      "name": "Toyota Erlings bil",
+      "latitude": 58.362502,
+      "longitude": 11.49909
+    },
+    {
+      "name": "Toyota Höör",
+      "latitude": 55.927765,
+      "longitude": 13.549932
+    },
+    {
+      "name": "Toyota Ljungby",
+      "latitude": 56.830479,
+      "longitude": 13.929722
+    },
+    {
+      "name": "Toyota Malmö",
+      "latitude": 55.565609,
+      "longitude": 13.049542
+    },
+    {
+      "name": "Toyota Motor Trend AB",
+      "latitude": 57.485327,
+      "longitude": 12.082014
+    },
+    {
+      "name": "Toyota Motorcity i Nyköping",
+      "latitude": 58.755313,
+      "longitude": 16.989889
+    },
+    {
+      "name": "Toyota Norén & Skyttner Bil",
+      "latitude": 61.82069,
+      "longitude": 16.117113
+    },
+    {
+      "name": "Toyota Sydost",
+      "latitude": 55.54516,
+      "longitude": 14.329656
+    },
+    {
+      "name": "Toyota Sydost",
+      "latitude": 55.445011,
+      "longitude": 13.839858
+    },
+    {
+      "name": "Toyota Uppsala",
+      "latitude": 59.843631,
+      "longitude": 17.731033
+    },
+    {
+      "name": "Toyota Örebro",
+      "latitude": 59.306606,
+      "longitude": 15.230437
+    },
+    {
+      "name": "Transportbilscenter Göteborg",
+      "latitude": 57.659391,
+      "longitude": 11.946454
+    },
+    {
+      "name": "Tunnelgaraget",
+      "latitude": 59.279494,
+      "longitude": 15.210372
+    },
+    {
+      "name": "Tuppz Bollnäs",
+      "latitude": 61.335221,
+      "longitude": 16.398912
+    },
+    {
+      "name": "Umeå Bilzon",
+      "latitude": 63.865155,
+      "longitude": 20.304416
+    },
+    {
+      "name": "Upplands Bil & Fritidscenter",
+      "latitude": 59.745339,
+      "longitude": 17.807652
+    },
+    {
+      "name": "Upplands Bilforum",
+      "latitude": 59.856726,
+      "longitude": 17.693417
+    },
+    {
+      "name": "Upplands Motor",
+      "latitude": 59.301113,
+      "longitude": 18.095444
+    },
+    {
+      "name": "Upplands Motor",
+      "latitude": 59.421452,
+      "longitude": 17.924188
+    },
+    {
+      "name": "Uppsala bilforum",
+      "latitude": 59.856622,
+      "longitude": 17.65706
+    },
+    {
+      "name": "Utmarks Bilar",
+      "latitude": 57.871651,
+      "longitude": 11.950835
+    },
+    {
+      "name": "Vallentuna Motor",
+      "latitude": 59.532256,
+      "longitude": 18.079581
+    },
+    {
+      "name": "Varbergs bilcenter",
+      "latitude": 57.055829,
+      "longitude": 12.298703
+    },
+    {
+      "name": "Veho Bil",
+      "latitude": 59.283414,
+      "longitude": 17.935511
+    },
+    {
+      "name": "Veho bil",
+      "latitude": 59.848428,
+      "longitude": 17.724268
+    },
+    {
+      "name": "Vellinge Bilcenter",
+      "latitude": 55.460215,
+      "longitude": 13.018809
+    },
+    {
+      "name": "Vianor Helsingborg",
+      "latitude": 56.032784,
+      "longitude": 12.715513
+    },
+    {
+      "name": "ViBil",
+      "latitude": 59.300535,
+      "longitude": 14.494668
+    },
+    {
+      "name": "Virén Bil Toyota Karlskoga",
+      "latitude": 59.326281,
+      "longitude": 14.483916
+    },
+    {
+      "name": "VMC Gotland parking",
+      "latitude": 57.644603,
+      "longitude": 18.32565
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 59.33284,
+      "longitude": 18.072926
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 59.301035,
+      "longitude": 18.099359
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 59.349311,
+      "longitude": 18.08105
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 60.623182,
+      "longitude": 16.759503
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 60.471886,
+      "longitude": 15.441784
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 55.688118,
+      "longitude": 13.216036
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 57.877105,
+      "longitude": 11.983453
+    },
+    {
+      "name": "Volkswagen",
+      "latitude": 55.871702,
+      "longitude": 12.856734
+    },
+    {
+      "name": "Volkswagen Bromma",
+      "latitude": 59.347591,
+      "longitude": 17.959125
+    },
+    {
+      "name": "Volkswagen Göteborg",
+      "latitude": 57.681582,
+      "longitude": 12.003503
+    },
+    {
+      "name": "Volkswagen Göteborg",
+      "latitude": 57.681673,
+      "longitude": 12.004502
+    },
+    {
+      "name": "Volkswagen Göteborg",
+      "latitude": 57.682117,
+      "longitude": 12.003248
+    },
+    {
+      "name": "Volkswagen Helsingborg",
+      "latitude": 56.074173,
+      "longitude": 12.714947
+    },
+    {
+      "name": "Volkswagen Kista",
+      "latitude": 59.419195,
+      "longitude": 17.921365
+    },
+    {
+      "name": "Volkswagen Sisjön",
+      "latitude": 57.64422,
+      "longitude": 11.944524
+    },
+    {
+      "name": "Volkswagen Smista",
+      "latitude": 59.280234,
+      "longitude": 17.922589
+    },
+    {
+      "name": "Volkswagen Trelleborg",
+      "latitude": 55.37992,
+      "longitude": 13.135697
+    },
+    {
+      "name": "Volkswagen Täby",
+      "latitude": 59.437771,
+      "longitude": 18.053315
+    },
+    {
+      "name": "Volkswagen Värmdö",
+      "latitude": 59.307916,
+      "longitude": 18.382333
+    },
+    {
+      "name": "Volkswagon Vällinby",
+      "latitude": 59.363227,
+      "longitude": 17.874931
+    },
+    {
+      "name": "Volvo",
+      "latitude": 57.644591,
+      "longitude": 18.325535
+    },
+    {
+      "name": "Volvo",
+      "latitude": 59.331939,
+      "longitude": 18.070108
+    },
+    {
+      "name": "Volvo",
+      "latitude": 62.034792,
+      "longitude": 14.368332
+    },
+    {
+      "name": "Volvo",
+      "latitude": 59.409191,
+      "longitude": 16.427786
+    },
+    {
+      "name": "Volvo",
+      "latitude": 60.130816,
+      "longitude": 12.993936
+    },
+    {
+      "name": "Volvo",
+      "latitude": 60.623666,
+      "longitude": 16.768328
+    },
+    {
+      "name": "Volvo",
+      "latitude": 56.501232,
+      "longitude": 13.02921
+    },
+    {
+      "name": "Volvo",
+      "latitude": 59.439332,
+      "longitude": 18.049683
+    },
+    {
+      "name": "Volvo",
+      "latitude": 57.778909,
+      "longitude": 14.185347
+    },
+    {
+      "name": "Volvo",
+      "latitude": 59.419317,
+      "longitude": 17.927277
+    },
+    {
+      "name": "Volvo",
+      "latitude": 59.420627,
+      "longitude": 17.923555
+    },
+    {
+      "name": "Volvo - Bilia",
+      "latitude": 59.164979,
+      "longitude": 18.160413
+    },
+    {
+      "name": "Volvo Bil",
+      "latitude": 57.719063,
+      "longitude": 11.847254
+    },
+    {
+      "name": "Volvo Rejmes",
+      "latitude": 59.297188,
+      "longitude": 15.230433
+    },
+    {
+      "name": "Volvo Skobes Motala",
+      "latitude": 58.535958,
+      "longitude": 15.015828
+    },
+    {
+      "name": "Volvo VMC Gotland",
+      "latitude": 57.644627,
+      "longitude": 18.325637
+    },
+    {
+      "name": "VOLVO VMC Gotland",
+      "latitude": 57.644549,
+      "longitude": 18.324597
+    },
+    {
+      "name": "von Braun",
+      "latitude": 57.479946,
+      "longitude": 12.649777
+    },
+    {
+      "name": "VW - Olofsson Bil",
+      "latitude": 59.166554,
+      "longitude": 18.160774
+    },
+    {
+      "name": "Västkustens Husbilscenter",
+      "latitude": 58.023374,
+      "longitude": 11.846836
+    },
+    {
+      "name": "Wafab Bil",
+      "latitude": 59.313765,
+      "longitude": 14.104156
+    },
+    {
+      "name": "Wafab Bil AB",
+      "latitude": 59.384471,
+      "longitude": 13.479131
+    },
+    {
+      "name": "Wahlunds Bil",
+      "latitude": 60.625041,
+      "longitude": 16.779125
+    },
+    {
+      "name": "Windahls Bil AB",
+      "latitude": 59.510767,
+      "longitude": 15.023165
+    },
+    {
+      "name": "Wist Lass & Buss",
+      "latitude": 67.206157,
+      "longitude": 23.363789
+    },
+    {
+      "name": "Wolkswagen Audi Wahlstedts Bil Motala",
+      "latitude": 58.539518,
+      "longitude": 15.01517
+    },
+    {
+      "name": "WR Motor AB",
+      "latitude": 58.430138,
+      "longitude": 15.596307
+    },
+    {
+      "name": "Xpeng",
+      "latitude": 59.369997,
+      "longitude": 18.004818
+    },
+    {
+      "name": "Zeekr",
+      "latitude": 57.709228,
+      "longitude": 11.969117
+    },
+    {
+      "name": "Zetterblom Bil",
+      "latitude": 58.58147,
+      "longitude": 16.218753
+    },
+    {
+      "name": "Ärlebobil",
+      "latitude": 57.113354,
+      "longitude": 12.255902
+    },
+    {
+      "name": "Åhus Husvagns-Expo AB",
+      "latitude": 55.931904,
+      "longitude": 14.291436
+    },
+    {
+      "name": "Åkessons bil",
+      "latitude": 58.516239,
+      "longitude": 13.489094
+    },
+    {
+      "name": "ÖBAB",
+      "latitude": 59.307761,
+      "longitude": 15.22965
+    },
+    {
+      "name": "Öhmans Bil i Sundsvall AB",
+      "latitude": 62.426091,
+      "longitude": 17.347258
+    },
+    {
+      "name": "Örjas bil AB",
+      "latitude": 55.869087,
+      "longitude": 12.866198
+    },
+    {
+      "name": "Östgöta Husbil",
+      "latitude": 58.399802,
+      "longitude": 15.550968
+    },
+    {
+      "name": "Škoda",
+      "latitude": 60.623041,
+      "longitude": 16.759706
+    },
+    {
+      "name": "Škoda center Göteborg",
+      "latitude": 57.649411,
+      "longitude": 11.964782
+    }
+  ],
+  "meta": {
+    "title": "Bilhandlare (Car dealerships) - Gratis nedladdning",
+    "description": "Bilhandlare i Sverige — OpenStreetMap-punktdata (OSM-tagg: shop=car). Swedish car dealerships as named point locations with WGS84 coordinates. 833 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 833 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Bilhandlare (Car dealerships) | ListBase",
+    "seo_description": "Ladda ner Bilhandlare (Car dealerships) — 833 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 833 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

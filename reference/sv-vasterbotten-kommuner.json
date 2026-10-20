@@ -1,0 +1,196 @@
+{
+  "id": "sv-vasterbotten-kommuner",
+  "name": "Kommuner i Västerbottens län",
+  "title": "Kommuner i Västerbottens län",
+  "description": "15 kommuner i Västerbottens län (länskod 24, ISO SE-AC, residensstad Umeå). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "2401",
+      "name": "Nordmalings kommun",
+      "name_short": "Nordmaling",
+      "slug": "nordmaling",
+      "locality": "NORDMALING",
+      "url": "http://www.nordmaling.se",
+      "num_postnummer": 249
+    },
+    {
+      "kommunkod": "2403",
+      "name": "Bjurholms kommun",
+      "name_short": "Bjurholm",
+      "slug": "bjurholm",
+      "locality": "BJURHOLM",
+      "url": "http://www.bjurholm.se",
+      "num_postnummer": 38
+    },
+    {
+      "kommunkod": "2404",
+      "name": "Vindelns kommun",
+      "name_short": "Vindeln",
+      "slug": "vindeln",
+      "locality": "VINDELN",
+      "url": "http://www.vindeln.se",
+      "num_postnummer": 96
+    },
+    {
+      "kommunkod": "2409",
+      "name": "Robertsfors kommun",
+      "name_short": "Robertsfors",
+      "slug": "robertsfors",
+      "locality": "ROBERTSFORS",
+      "url": "http://www.robertsfors.se",
+      "num_postnummer": 42
+    },
+    {
+      "kommunkod": "2417",
+      "name": "Norsjö kommun",
+      "name_short": "Norsjö",
+      "slug": "norsjo",
+      "locality": "NORSJÖ",
+      "url": "http://www.norsjo.se",
+      "num_postnummer": 64
+    },
+    {
+      "kommunkod": "2418",
+      "name": "Malå kommun",
+      "name_short": "Malå",
+      "slug": "mala",
+      "locality": "MALÅ",
+      "url": "http://www.mala.se",
+      "num_postnummer": 53
+    },
+    {
+      "kommunkod": "2421",
+      "name": "Storumans kommun",
+      "name_short": "Storuman",
+      "slug": "storuman",
+      "locality": "STORUMAN",
+      "url": "http://www.storuman.se",
+      "num_postnummer": 75
+    },
+    {
+      "kommunkod": "2422",
+      "name": "Sorsele kommun",
+      "name_short": "Sorsele",
+      "slug": "sorsele",
+      "locality": "SORSELE",
+      "url": "http://www.sorsele.se",
+      "num_postnummer": 43
+    },
+    {
+      "kommunkod": "2425",
+      "name": "Dorotea kommun",
+      "name_short": "Dorotea",
+      "slug": "dorotea",
+      "locality": "DOROTEA",
+      "url": "http://www.dorotea.se",
+      "num_postnummer": 48
+    },
+    {
+      "kommunkod": "2460",
+      "name": "Vännäs kommun",
+      "name_short": "Vännäs",
+      "slug": "vannas",
+      "locality": "VÄNNÄS",
+      "url": "http://www.vannas.se",
+      "num_postnummer": 238
+    },
+    {
+      "kommunkod": "2462",
+      "name": "Vilhelmina kommun",
+      "name_short": "Vilhelmina",
+      "slug": "vilhelmina",
+      "locality": "VILHELMINA",
+      "url": "http://www.vilhelmina.se",
+      "num_postnummer": 80
+    },
+    {
+      "kommunkod": "2463",
+      "name": "Åsele kommun",
+      "name_short": "Åsele",
+      "slug": "asele",
+      "locality": "ÅSELE",
+      "url": "http://www.asele.se",
+      "num_postnummer": 79
+    },
+    {
+      "kommunkod": "2480",
+      "name": "Umeå kommun",
+      "name_short": "Umeå",
+      "slug": "umea",
+      "locality": "UMEÅ",
+      "url": "http://www.umea.se",
+      "num_postnummer": 292
+    },
+    {
+      "kommunkod": "2481",
+      "name": "Lycksele kommun",
+      "name_short": "Lycksele",
+      "slug": "lycksele",
+      "locality": "LYCKSELE",
+      "url": "http://www.lycksele.se",
+      "num_postnummer": 107
+    },
+    {
+      "kommunkod": "2482",
+      "name": "Skellefteå kommun",
+      "name_short": "Skellefteå",
+      "slug": "skelleftea",
+      "locality": "SKELLEFTEÅ",
+      "url": "http://www.skelleftea.se",
+      "num_postnummer": 237
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Västerbottens län - Gratis nedladdning",
+    "description": "15 kommuner i Västerbottens län (länskod 24, ISO SE-AC, residensstad Umeå). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 15 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Västerbottens län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Västerbottens län — 15 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 15 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "id": "sv-malmo-michelin-restauranger",
+  "name": "Michelin-restauranger i Malmö",
+  "title": "Michelin-restauranger i Malmö",
+  "description": "Lista över 11 restauranger i Malmö som finns med i Michelinguiden.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "postcode",
+      "label": "Postcode",
+      "type": "string"
+    },
+    {
+      "key": "cuisine",
+      "label": "Cuisine",
+      "type": "string"
+    },
+    {
+      "key": "price",
+      "label": "Price",
+      "type": "string"
+    },
+    {
+      "key": "award",
+      "label": "Award",
+      "type": "string"
+    },
+    {
+      "key": "green_star",
+      "label": "Green Star",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "michelin_url",
+      "label": "Michelin Url",
+      "type": "string"
+    },
+    {
+      "key": "description_en",
+      "label": "Description En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "slug": "vollmers-malmo",
+      "name": "Vollmers",
+      "city": "Malmo",
+      "address": "Tegelgårdsgatan 5, Malmo, 211 33, Sweden",
+      "postcode": "211 33",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "award": "2 Stars",
+      "green_star": false,
+      "latitude": 55.6046461,
+      "longitude": 12.9966201,
+      "phone": "+4640579750",
+      "website": "https://www.vollmers.nu/",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/vollmers",
+      "description_en": "Keep an eye out for the small sign hanging above the door of this discreet restaurant on a cobbled Old Town street, otherwise you might walk right on by. From the outside, its whitewashed walls give it something of a residential look, which is matched inside by an elegantly low-key dining room where seven linen-laid tables and comfy chairs set a homely tone. The surprise menu sees texture and acidity used to good effect in creative, sophisticated dishes; some are inspired by the owners’ childhood memories, such as the traditional pork, cabbage and lingonberry, which is elevated into a very personal dish."
+    },
+    {
+      "slug": "mutantur-malmo",
+      "name": "Mutantur",
+      "city": "Malmo",
+      "address": "Erik Dahlbergsgatan 12-14, Malmo, 211 48, Sweden",
+      "postcode": "211 48",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 55.5985261,
+      "longitude": 12.9964683,
+      "phone": "",
+      "website": "https://restaurantmutantur.se/",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/mutantur",
+      "description_en": "This laid-back, semi-industrial style restaurant comes with exposed brick walls, polished concrete floors, silver ducting and large windows that let in plenty of light. The kitchen counter bends round to become the bar – you can eat here or at the surrounding black tables – and the good value menu offers plenty of options in the form of small plates, allowing you build your meal however you please. Local flavours lead the way, but come with international accents, from oyster with tiger milk, coriander, Swedish vinegar and sweetcorn cream to beef tartare with green tomato, baked yolk and horseradish."
+    },
+    {
+      "slug": "namu-malmo",
+      "name": "Namu",
+      "city": "Malmo",
+      "address": "Landbygatan 5, Malmo, 211 34, Sweden",
+      "postcode": "211 34",
+      "cuisine": "Korean",
+      "price": "€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 55.6052048,
+      "longitude": 12.9975267,
+      "phone": "+4640121490",
+      "website": "https://www.namu.nu/",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/namu",
+      "description_en": "Restaurateur and Swedish MasterChef winner Jennie Walldén is behind this fun, energetic restaurant that blends Nordic ingredients with Jennie's South Korean heritage. Offering great value for money, the cooking is colourful, zingy and generous in both size and flavour; the signature flank steak served with an array of accompaniments is a highlight. Dishes are designed for sharing, with tasting menus available if you're feeling indecisive. Head next door to their Gaji cocktail bar to keep the party going."
+    },
+    {
+      "slug": "ruths-malmo",
+      "name": "Ruths",
+      "city": "Malmo",
+      "address": "Mäster Johansgatan 11, Malmo, 21121, Sweden",
+      "postcode": "21121",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 55.6061556,
+      "longitude": 12.9977834,
+      "phone": "+4640121318",
+      "website": "https://ruthsmalmo.se/en/",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/ruths",
+      "description_en": "The open kitchen takes centre stage at this buzzy all-day café/bakery/deli, which has been wholeheartedly embraced by the locals. Lunchtime snacks and salads make room for generously sized, boldly flavoured Mediterranean dishes at dinner. Most of the wines on the concise list are available on-tap."
+    },
+    {
+      "slug": "vastergatan-malmo",
+      "name": "Västergatan",
+      "city": "Malmo",
+      "address": "Västergatan 16, Malmo, 211 21, Sweden",
+      "postcode": "211 21",
+      "cuisine": "Swedish",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 55.6063771,
+      "longitude": 12.9961923,
+      "phone": "+464079313",
+      "website": "https://www.vastergatan.se",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/vastergatan",
+      "description_en": "Owned and run by a friendly couple – Olle, who cooks, and Sophie, who looks after the service – this unpretentious city centre bistro has certainly stood the test of time, with 2025 marking its 20th year. This is thanks, in part, to the flavour-packed dishes, where good quality regional ingredients are brought together in harmonious, visually appealing combinations. The four-course set menu changes with the seasons, featuring the likes of cod with blue mussels, beach rose and pink peppercorn, followed by grapefruit with ginger and black lime – wine and juice flights are available to accompany."
+    },
+    {
+      "slug": "bloom-in-the-park-malmo",
+      "name": "Bloom in the Park",
+      "city": "Malmo",
+      "address": "Pildammsvägen 17, Malmo, 214 66, Sweden",
+      "postcode": "214 66",
+      "cuisine": "Creative",
+      "price": "€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 55.5907025,
+      "longitude": 12.9970674,
+      "phone": "+464079363",
+      "website": "https://bloominthepark.se",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/bloom-in-the-park",
+      "description_en": "Be sure to arrive early for an aperitif on the terrace of this charming lakeside lodge before heading through to the modern, minimalist restaurant. In an unusual twist, both the menu and the matching wine pairings are a complete surprise! You submit your allergies and dislikes in advance, with the components of the dishes only revealed at the end of the meal when you are given a QR code to scan. Combinations could include halibut with satsuma, endive and crab bisque or seared roe deer with pumpkin and forest mushrooms. This element of the unknown stimulates both the mind and the palate through your meal."
+    },
+    {
+      "slug": "brasserie-sture-1912-malmo",
+      "name": "Brasserie Sture 1912",
+      "city": "Malmo",
+      "address": "Adelgatan 13, Malmo, 211 22, Sweden",
+      "postcode": "211 22",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 55.607329,
+      "longitude": 13.0003708,
+      "phone": "+4640121253",
+      "website": "https://sture1912.com/en/",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/brasserie-sture",
+      "description_en": "Sture has been an icon of Malmö since 1912, and it’s now been reborn as a classic brasserie with décor to match; think mosaic flooring, closely set tables, a long bar and black-and-white photos of celebrities adorning the walls. A pavement terrace and bustling atmosphere only add to its appeal, as does an extensive menu mixing Swedish dishes with traditional Western European fare like confit rabbit or salad Niçoise. The lengthy wine list has a similar ‘Old World’ focus."
+    },
+    {
+      "slug": "kockeriet-malmo",
+      "name": "Kockeriet",
+      "city": "Malmo",
+      "address": "Norra Vallgatan 28, Malmo, 211 25, Sweden",
+      "postcode": "211 25",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 55.6082408,
+      "longitude": 13.00533,
+      "phone": "+464079606",
+      "website": "https://www.kockeriet.se/",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/kockeriet",
+      "description_en": "In a characterful 17C former grain warehouse, owned by Malmö-born TV chef Tareq Taylor, a young and talented team prepare well-balanced contemporary dishes with great precision. Scandinavian produce is at its heart, with some coming from the kitchen garden. The timbered dining room is relaxed and inviting, the service friendly, and the drinks pairings well-conceived."
+    },
+    {
+      "slug": "lyran-matbar-malmo",
+      "name": "Lyran Matbar",
+      "city": "Malmo",
+      "address": "Simrishamnsgatan 36a, Malmo, 214 35, Sweden",
+      "postcode": "214 35",
+      "cuisine": "Modern Cuisine, Swedish",
+      "price": "€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 55.5909767,
+      "longitude": 13.0148224,
+      "phone": "+46763245228",
+      "website": "https://www.lyranmatbar.se",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/lyran",
+      "description_en": "There’s a pleasingly relaxed air at this small, simply styled restaurant, where the experienced team lead the service with a friendly smile. Upstairs it’s more about drinks, so if you’re here to dine then head down the spiral staircase to the rustic cellar. The well-balanced tasting menus come in Mixed, Pescetarian and Vegetarian versions and are created daily from the best local produce available. All you are presented with is a list of ingredients, which are then turned into modern Swedish creations such as ‘yellow beet, skyr, pistachio, cedrat, fennel pollen, burned butter and sherry’."
+    },
+    {
+      "slug": "restaurang-atmosfar-malmo",
+      "name": "Restaurang Atmosfär",
+      "city": "Malmo",
+      "address": "Fersens väg 4, Malmo, 211 42, Sweden",
+      "postcode": "211 42",
+      "cuisine": "Swedish",
+      "price": "€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 55.5997752,
+      "longitude": 12.9962427,
+      "phone": "+4640125077",
+      "website": "https://www.atmosfar.com",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/atmosfar",
+      "description_en": "A large glass-enclosed terrace greets you at this smart yet relaxed corner restaurant on the main road. Natural light fills the room inside too, whether you’re sitting at the large counter, on high stools by the floor-to-ceiling windows or in one of the comfortable dining rooms. Fresh, unfussy cooking delivers generous dishes that are packed with flavour and a joy to eat, such as halibut with a crayfish bisque and Savoy cabbage or deliciously creamy panna cotta with rosemary caramel and apple granita. The atmosphere becomes more lively in the evening thanks, in part, to the homemade cocktails."
+    },
+    {
+      "slug": "aster-malmo",
+      "name": "aster",
+      "city": "Malmo",
+      "address": "Jagaregatan 6, Malmo, 211 19, Sweden",
+      "postcode": "211 19",
+      "cuisine": "Contemporary",
+      "price": "€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 55.6112313,
+      "longitude": 12.9894423,
+      "phone": "+464081889",
+      "website": "https://www.astermalmo.se/",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/aster-1203662",
+      "description_en": "The faux industrial décor feels like an appropriate fit for this restaurant housed in a former warehouse, in an area once home to the city's shipyards. The kitchen forms part of the room, bringing a certain energy to proceedings, and the friendly team also help to create an enjoyable atmosphere. The short menu offers dishes with a rustic edge, where distinct flavours are nicely balanced – such as minty salsa verde with grilled lamb loin, or sharp apple cutting through a rich chocolate dessert."
+    }
+  ],
+  "meta": {
+    "title": "Michelin-restauranger i Malmö - Gratis nedladdning",
+    "description": "Lista över 11 restauranger i Malmö som finns med i Michelinguiden. Innehåller 11 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Michelin-restauranger i Malmö | ListBase",
+    "seo_description": "Ladda ner Michelin-restauranger i Malmö — 11 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 11 poster / 15 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

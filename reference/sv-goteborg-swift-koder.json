@@ -1,0 +1,172 @@
+{
+  "id": "sv-goteborg-swift-koder",
+  "name": "SWIFT/BIC-koder — Goteborg",
+  "title": "SWIFT/BIC-koder — Goteborg",
+  "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 21 institut som källan anger med orten \"GOTEBORG\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AB STENA FINANS",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "SEFSSEG1"
+    },
+    {
+      "bank": "ABILITY ASSET MANAGEMENT SCANDINAVIA",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "AAMISEG1"
+    },
+    {
+      "bank": "ANDRA AP-FONDEN",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "ANAFSEG1"
+    },
+    {
+      "bank": "ATINE GROUP AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "ATGRSEG1"
+    },
+    {
+      "bank": "DANSKE BANK",
+      "city": "GOTEBORG",
+      "branch": "(TRADE FINANCE, GOTHENBURG)",
+      "swift_code": "DABASESXGBG"
+    },
+    {
+      "bank": "EYER FONDKOMMISSION AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "EYFOSEG1"
+    },
+    {
+      "bank": "MIND BANK AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "MNNDSEG1"
+    },
+    {
+      "bank": "NORDEA BANK AB (PUBL)",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "NDEASEGG"
+    },
+    {
+      "bank": "PRI STIFTELSETJNST AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "PRSFSEG1"
+    },
+    {
+      "bank": "SEB TRYGG LIV PENSIONSTJANST AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "STLPSEG1"
+    },
+    {
+      "bank": "SGP-SVENSKA GARANTIPRODUKTER AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "SGSGSEG1"
+    },
+    {
+      "bank": "SKANDINAVISKA ENSKILDA BANKEN",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "ESSESESG"
+    },
+    {
+      "bank": "SKF INTERNATIONAL AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "SKFISEG1"
+    },
+    {
+      "bank": "SKF INTERNATIONAL AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "SKFISEGA"
+    },
+    {
+      "bank": "STRATEGIQ FONDKOMMISSIN AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "STFMSEG1"
+    },
+    {
+      "bank": "STRUKTURINVEST FONDKOMMISSION (FK) AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "STFDSEG1"
+    },
+    {
+      "bank": "SVENSKA HANDELSBANKEN",
+      "city": "GOTEBORG",
+      "branch": "(TRADE AND EXPORT FINANCE)",
+      "swift_code": "HANDSESSGBG"
+    },
+    {
+      "bank": "THENBERG AND KINDE FONDKOMMISSION AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "THKFSEG1"
+    },
+    {
+      "bank": "VIKNUM AB",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "VIKNSEG1"
+    },
+    {
+      "bank": "VOLVO CAR CORPORATION",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "VCARSEGG"
+    },
+    {
+      "bank": "VOLVO TREASURY AKTIEBOLAG",
+      "city": "GOTEBORG",
+      "branch": "",
+      "swift_code": "VOTRSEG1"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Goteborg - Gratis nedladdning",
+    "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 21 institut som källan anger med orten \"GOTEBORG\". Innehåller 21 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Goteborg | ListBase",
+    "seo_description": "Ladda ner SWIFT/BIC-koder — Goteborg — 21 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 21 poster / 4 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

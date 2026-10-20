@@ -1,0 +1,356 @@
+{
+  "id": "sv-goteborg-michelin-restauranger",
+  "name": "Michelin-restauranger i Göteborg",
+  "title": "Michelin-restauranger i Göteborg",
+  "description": "Lista över 15 restauranger i Göteborg som finns med i Michelinguiden.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "postcode",
+      "label": "Postcode",
+      "type": "string"
+    },
+    {
+      "key": "cuisine",
+      "label": "Cuisine",
+      "type": "string"
+    },
+    {
+      "key": "price",
+      "label": "Price",
+      "type": "string"
+    },
+    {
+      "key": "award",
+      "label": "Award",
+      "type": "string"
+    },
+    {
+      "key": "green_star",
+      "label": "Green Star",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "michelin_url",
+      "label": "Michelin Url",
+      "type": "string"
+    },
+    {
+      "key": "description_en",
+      "label": "Description En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "slug": "28-gothenburg",
+      "name": "28+",
+      "city": "Gothenburg",
+      "address": "Götabergsgatan 28, Gothenburg, 411 34, Sweden",
+      "postcode": "411 34",
+      "cuisine": "Modern Cuisine, Classic French",
+      "price": "€€€",
+      "award": "1 Star",
+      "green_star": false,
+      "latitude": 57.6981746,
+      "longitude": 11.9738899,
+      "phone": "+4631202161",
+      "website": "https://28plus.se/",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/28",
+      "description_en": "This atmospheric, passionately run basement restaurant has been a Gothenburg institution for over 30 years. Carefully judged, classically based cooking showcases prime seasonal ingredients, skilfully blending French and Swedish influences to create intricate, precise, boldly flavoured dishes. There's an exceptional cheese selection and an outstanding wine list."
+    },
+    {
+      "slug": "hoze-gothenburg",
+      "name": "HOZE",
+      "city": "Gothenburg",
+      "address": "Stigbergsliden 17, Gothenburg, 414 63, Sweden",
+      "postcode": "414 63",
+      "cuisine": "Japanese",
+      "price": "€€€€",
+      "award": "1 Star",
+      "green_star": false,
+      "latitude": 57.6993522,
+      "longitude": 11.93497,
+      "phone": "",
+      "website": "https://www.hozerestaurant.com/",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/hoze",
+      "description_en": "A brick house on the edge of town plays host to this discreet restaurant, where you are welcomed through a black curtain into a sleek, minimalist space where six chairs sit at an oak counter. The meal starts at 6pm sharp, with the chef preparing his daily omakase menu directly on the countertop. He builds a great connection with guests as he explains how he chooses the best quality fish according to the seasons and the weather. His sushi is prepared with exemplary attention to detail, from kelp-infused jelly with chives and trout roe to leek with miso, hazelnut butter and sherry sauce. A mindful beverage pairing complements his philosophy of seasonal harmony."
+    },
+    {
+      "slug": "koka-gothenburg",
+      "name": "Koka",
+      "city": "Gothenburg",
+      "address": "Viktoriagatan 12, Gothenburg, 411 25, Sweden",
+      "postcode": "411 25",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "award": "1 Star",
+      "green_star": false,
+      "latitude": 57.6986003,
+      "longitude": 11.9654719,
+      "phone": "+46317017979",
+      "website": "https://restaurangkoka.se/",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/koka",
+      "description_en": "Set beneath an ornate 19th-century glass ceiling fringed by a burgundy canopy, this elegant, airy restaurant comes with modern, light wood panelled walls and bespoke matching furnishings. The refined, well-balanced tasting menu showcases the best of the season, with the spring and summer menus formed largely around plant-led dishes. Classical combinations are subtly modernised by clever twists and well-judged sauces, such as the piquant langoustine bisque with Brussels sprouts and marigold or the slightly tart, fruity venison jus flavoured with blackcurrant to accompany the fallow deer and beetroot."
+    },
+    {
+      "slug": "project-gothenburg",
+      "name": "Project",
+      "city": "Gothenburg",
+      "address": "Södra Vägen 45, Gothenburg, 412 54, Sweden",
+      "postcode": "412 54",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "award": "1 Star",
+      "green_star": false,
+      "latitude": 57.6979745,
+      "longitude": 11.9825147,
+      "phone": "+4631181858",
+      "website": "https://www.projectgbg.com/",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/project",
+      "description_en": "This cosy restaurant is personally run by a husband and wife team, whose balanced, seasonal tasting menu sees seafood and local game lead the way. The cooking is refined, original and intensely flavoured, while the eloquent team proudly explain the components of each dish with a smile. There are a number of Japanese influences on the menu too, like in the turbot with yuzu kosho and shiitake. The delicious bread takes five days to make."
+    },
+    {
+      "slug": "sk-mat-manniskor-gothenburg",
+      "name": "SK Mat & Människor",
+      "city": "Gothenburg",
+      "address": "Johannebergsgatan 24, Gothenburg, 412 55, Sweden",
+      "postcode": "412 55",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "award": "1 Star",
+      "green_star": false,
+      "latitude": 57.6972648,
+      "longitude": 11.9828127,
+      "phone": "+4631812580",
+      "website": "https://skmat.se",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/sk-mat-manniskor",
+      "description_en": "There’s a chic, relaxed vibe to this elegant restaurant where you can watch the chefs at work in the open kitchen. They deliver your dishes too, which are attractively presented and a model of self-restraint, utilising well-thought-through combinations. Quality Swedish and Danish produce helps to achieve good depth of flavour, with a beautiful balance of richness and acidity running through the cooking."
+    },
+    {
+      "slug": "familjen-gothenburg",
+      "name": "Familjen",
+      "city": "Gothenburg",
+      "address": "Arkivgatan 7, Gothenburg, 411 34, Sweden",
+      "postcode": "411 34",
+      "cuisine": "Scandinavian, Swedish",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 57.6974869,
+      "longitude": 11.9763963,
+      "phone": "+4631207979",
+      "website": "https://www.restaurangfamiljen.se/",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/familjen",
+      "description_en": "This lively, friendly eatery is divided into three parts: a bar with bench seating and an open kitchen; a bright red room with a characterful cellar and a glass wine cave; and a superb wrap-around terrace. The good value cooking is rich and hearty, with a touch of originality here and there. A relaxed atmosphere and an appealing wine, beer and cocktail list add to the experience."
+    },
+    {
+      "slug": "carbon-gothenburg",
+      "name": "Carbon",
+      "city": "Gothenburg",
+      "address": "Barnhusgatan 2, Gothenburg, 411 02, Sweden",
+      "postcode": "411 02",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 57.7095715,
+      "longitude": 11.9806297,
+      "phone": "+4631155561",
+      "website": "https://www.restaurangcarbon.se",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/carbon",
+      "description_en": "There is an elegant quality to this smart, modern bistro de luxe with rich décor and crushed velvet banquettes. The seasonal menu mixes contemporary techniques with a more traditional base and all dishes come with suggested wine pairings. Choose between six, eight or eleven courses during the week, with only the longer two options available on Fridays and Saturdays. This is a deservedly busy spot where the attentive, personable service adds to the experience. Be sure to look out for the dishes from the Josper oven."
+    },
+    {
+      "slug": "human-gothenburg",
+      "name": "Human",
+      "city": "Gothenburg",
+      "address": "Risåsgatan 8, Gothenburg, 41307, Sweden",
+      "postcode": "41307",
+      "cuisine": "Creative",
+      "price": "€€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 57.6944348,
+      "longitude": 11.9559239,
+      "phone": "+4631531533",
+      "website": "https://www.humanrestaurang.se",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/human",
+      "description_en": "In a quiet residential street behind the 17C Skansen Kronan fortress, you'll find this stylishly decorated restaurant decked out with neutral tones and vintage furniture. The first solo project for Martin Moses, it focuses on New Nordic cooking, which is executed with a skilful touch. In the evening you can sample the quality dishes from either a small or large tasting menu, with a four or five course set menu available at lunch."
+    },
+    {
+      "slug": "koizen-gothenburg",
+      "name": "Koizen",
+      "city": "Gothenburg",
+      "address": "Nordenskiöldsgatan 24, Gothenburg, 41309, Sweden",
+      "postcode": "41309",
+      "cuisine": "Japanese",
+      "price": "€€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 57.6925497,
+      "longitude": 11.9498153,
+      "phone": "+46313186810",
+      "website": "https://koizen.se",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/koizen",
+      "description_en": "Just a stone’s throw from the Gothenburg Natural History Museum and Slottsskogen park, is this 22-seater Japanese restaurant comprising a counter and two high-level tables. It’s owned and run by John and Teresa Chu, who offer an omakase experience encompassing appetisers, sashimi, nigiri, aburi nigiri, soup and dessert – as well as monthly special events featuring the likes of bluefin tuna or Wagyu beef. John carefully crafts the dishes in front of you, presenting them along with an explanation of their make-up, while Alven recommends Japanese drinks, sakes by the glass and even sake pairings."
+    },
+    {
+      "slug": "la-cucina-italiana-gothenburg",
+      "name": "La Cucina Italiana",
+      "city": "Gothenburg",
+      "address": "Skånegatan 33, Gothenburg, 412 52, Sweden",
+      "postcode": "412 52",
+      "cuisine": "Italian",
+      "price": "€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 57.6978821,
+      "longitude": 11.986199,
+      "phone": "+4631166307",
+      "website": "https://lacucinaitaliana.nu/",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/la-cucina-italiana",
+      "description_en": "In this cosy, romantic restaurant comprising just eight tables, chef Allesio Fioriniello continues his father’s legacy by cooking up authentic Italian dishes with southern overtones (the family hails from Naples). He is helped along in his mission by childhood friend, Enzo, who takes charge in the restaurant. Carefully prepared, seasonal dishes are a model of their kind and could include the likes of a rich, beautifully textured parmigiana di melanzane or Rossini venison with seared milk bread and panzerotti."
+    },
+    {
+      "slug": "poppy-gothenburg",
+      "name": "Poppy",
+      "city": "Gothenburg",
+      "address": "Fjärde Långgatan 1, Gothenburg, 413 05, Sweden",
+      "postcode": "413 05",
+      "cuisine": "Seasonal Cuisine, Farm to table",
+      "price": "€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 57.6981644,
+      "longitude": 11.9511423,
+      "phone": "+4631120214",
+      "website": "https://www.restaurantpoppy.se/",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/poppy",
+      "description_en": "Chef-Owner Tobias has created a fun little neighbourhood spot here at Poppy, where groups of friends sit shoulder to shoulder at wooden tables in a trendy bistro-style room. It’s a compact place, with room for just 24 diners – including four seats overlooking the kitchen – but that’s all part of its cosy appeal. The five-course tasting menu offers seasonal modern dishes like monkfish 'binchotan' with tomato gel, hazelnut butter emulsion and mussel broth. Unusually, there’s no wine list, just shelves filled with bottles, their prices marked on them in chalk."
+    },
+    {
+      "slug": "restaurant-vra-gothenburg",
+      "name": "Restaurant Vrå",
+      "city": "Gothenburg",
+      "address": "Clarion Hotel Post, Drottningtorget 10, Gothenburg, 411 03, Sweden",
+      "postcode": "411 03",
+      "cuisine": "Fusion",
+      "price": "€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 57.7078716,
+      "longitude": 11.974785,
+      "phone": "+4631619000",
+      "website": "https://www.restaurangvra.se",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/vra",
+      "description_en": "The imposing 1920s city post office is now a hotel, and this glamorous restaurant sits within what was the central hall – the listed cashier booths still on display. A Nordic-Japanese approach sees fine Scandinavian produce meet Asian techniques, and there’s an impressive range of sake by the glass."
+    },
+    {
+      "slug": "sjomagasinet-gothenburg",
+      "name": "Sjömagasinet",
+      "city": "Gothenburg",
+      "address": "Klippans Kulturreservat, Adolf Edelsvärds gata 5, Gothenburg, 414 51, Sweden",
+      "postcode": "414 51",
+      "cuisine": "Seafood",
+      "price": "€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 57.6921467,
+      "longitude": 11.9084482,
+      "phone": "+46317755920",
+      "website": "https://www.sjomagasinet.se",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/sjomagasinet",
+      "description_en": "A charming split-level restaurant in an old 1775 East India Company warehouse; sit on the upper floor to take in the lovely harbour view. Cooking offers a pleasing mix of classic and modern dishes, with seafood kept to the fore. The wine list offers a good selection of top burgundies."
+    },
+    {
+      "slug": "tavolo-gothenburg",
+      "name": "Tavolo",
+      "city": "Gothenburg",
+      "address": "Magasingatan 19, Gothenburg, 41116, Sweden",
+      "postcode": "41116",
+      "cuisine": "Italian-American",
+      "price": "€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 57.7026495,
+      "longitude": 11.9629631,
+      "phone": "+46317879809",
+      "website": "https://tavolo.se",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/tavolo",
+      "description_en": "Enter through the huge wooden doors of this old military stable and you’ll find yourself in a large and stunningly converted room with a truly buzzing atmosphere. A huge horse’s head – a copy of Leonardo's Cavallo di Forcione and a reminder of the building’s former life – takes centre stage in the bar, which is a popular spot for a cocktail and some nibbles. When it comes to the food, it’s all about Italy, with the fresh, flavoursome dishes prepared on-view in the open kitchen. From homemade pizzas and pastas to traditional meat dishes, there’s something for everyone here."
+    },
+    {
+      "slug": "trattoria-la-strega-gothenburg",
+      "name": "Trattoria La Strega",
+      "city": "Gothenburg",
+      "address": "Aschebergsgatan 23B, Gothenburg, 411 27, Sweden",
+      "postcode": "411 27",
+      "cuisine": "Italian",
+      "price": "€€",
+      "award": "Selected Restaurants",
+      "green_star": false,
+      "latitude": 57.6962089,
+      "longitude": 11.9709436,
+      "phone": "+4631181501",
+      "website": "https://www.trattorialastrega.se",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/trattoria-la-strega",
+      "description_en": "Run by passionate, charming owners, this lively little trattoria is nestled within a quiet residential area, and serves the kind of authentic Northern Italian food that you would find in a good trattoria in Piemonte or Triveneto. Boldly flavoured dishes are best enjoyed from the 'Menu Degustazione', accompanied by a candlelit table and a glass of wine from the extensive Italian selection."
+    }
+  ],
+  "meta": {
+    "title": "Michelin-restauranger i Göteborg - Gratis nedladdning",
+    "description": "Lista över 15 restauranger i Göteborg som finns med i Michelinguiden. Innehåller 15 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Michelin-restauranger i Göteborg | ListBase",
+    "seo_description": "Ladda ner Michelin-restauranger i Göteborg — 15 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 15 poster / 15 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

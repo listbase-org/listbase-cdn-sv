@@ -1,0 +1,322 @@
+{
+  "id": "sv-michelin-restauranger-bib-gourmand",
+  "name": "Bib Gourmand-restauranger i Sverige",
+  "title": "Bib Gourmand-restauranger i Sverige",
+  "description": "Lista över 13 Bib Gourmand-restauranger i Sverige (god kvalitet till bra pris).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "postcode",
+      "label": "Postcode",
+      "type": "string"
+    },
+    {
+      "key": "cuisine",
+      "label": "Cuisine",
+      "type": "string"
+    },
+    {
+      "key": "price",
+      "label": "Price",
+      "type": "string"
+    },
+    {
+      "key": "award",
+      "label": "Award",
+      "type": "string"
+    },
+    {
+      "key": "green_star",
+      "label": "Green Star",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "michelin_url",
+      "label": "Michelin Url",
+      "type": "string"
+    },
+    {
+      "key": "description_en",
+      "label": "Description En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "slug": "familjen-gothenburg",
+      "name": "Familjen",
+      "city": "Gothenburg",
+      "address": "Arkivgatan 7, Gothenburg, 411 34, Sweden",
+      "postcode": "411 34",
+      "cuisine": "Scandinavian, Swedish",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 57.6974869,
+      "longitude": 11.9763963,
+      "phone": "+4631207979",
+      "website": "https://www.restaurangfamiljen.se/",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/gothenburg/restaurant/familjen",
+      "description_en": "This lively, friendly eatery is divided into three parts: a bar with bench seating and an open kitchen; a bright red room with a characterful cellar and a glass wine cave; and a superb wrap-around terrace. The good value cooking is rich and hearty, with a touch of originality here and there. A relaxed atmosphere and an appealing wine, beer and cocktail list add to the experience."
+    },
+    {
+      "slug": "mutantur-malmo",
+      "name": "Mutantur",
+      "city": "Malmo",
+      "address": "Erik Dahlbergsgatan 12-14, Malmo, 211 48, Sweden",
+      "postcode": "211 48",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 55.5985261,
+      "longitude": 12.9964683,
+      "phone": "",
+      "website": "https://restaurantmutantur.se/",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/mutantur",
+      "description_en": "This laid-back, semi-industrial style restaurant comes with exposed brick walls, polished concrete floors, silver ducting and large windows that let in plenty of light. The kitchen counter bends round to become the bar – you can eat here or at the surrounding black tables – and the good value menu offers plenty of options in the form of small plates, allowing you build your meal however you please. Local flavours lead the way, but come with international accents, from oyster with tiger milk, coriander, Swedish vinegar and sweetcorn cream to beef tartare with green tomato, baked yolk and horseradish."
+    },
+    {
+      "slug": "namu-malmo",
+      "name": "Namu",
+      "city": "Malmo",
+      "address": "Landbygatan 5, Malmo, 211 34, Sweden",
+      "postcode": "211 34",
+      "cuisine": "Korean",
+      "price": "€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 55.6052048,
+      "longitude": 12.9975267,
+      "phone": "+4640121490",
+      "website": "https://www.namu.nu/",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/namu",
+      "description_en": "Restaurateur and Swedish MasterChef winner Jennie Walldén is behind this fun, energetic restaurant that blends Nordic ingredients with Jennie's South Korean heritage. Offering great value for money, the cooking is colourful, zingy and generous in both size and flavour; the signature flank steak served with an array of accompaniments is a highlight. Dishes are designed for sharing, with tasting menus available if you're feeling indecisive. Head next door to their Gaji cocktail bar to keep the party going."
+    },
+    {
+      "slug": "ruths-malmo",
+      "name": "Ruths",
+      "city": "Malmo",
+      "address": "Mäster Johansgatan 11, Malmo, 21121, Sweden",
+      "postcode": "21121",
+      "cuisine": "Mediterranean Cuisine",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 55.6061556,
+      "longitude": 12.9977834,
+      "phone": "+4640121318",
+      "website": "https://ruthsmalmo.se/en/",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/ruths",
+      "description_en": "The open kitchen takes centre stage at this buzzy all-day café/bakery/deli, which has been wholeheartedly embraced by the locals. Lunchtime snacks and salads make room for generously sized, boldly flavoured Mediterranean dishes at dinner. Most of the wines on the concise list are available on-tap."
+    },
+    {
+      "slug": "vastergatan-malmo",
+      "name": "Västergatan",
+      "city": "Malmo",
+      "address": "Västergatan 16, Malmo, 211 21, Sweden",
+      "postcode": "211 21",
+      "cuisine": "Swedish",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 55.6063771,
+      "longitude": 12.9961923,
+      "phone": "+464079313",
+      "website": "https://www.vastergatan.se",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/vastergatan",
+      "description_en": "Owned and run by a friendly couple – Olle, who cooks, and Sophie, who looks after the service – this unpretentious city centre bistro has certainly stood the test of time, with 2025 marking its 20th year. This is thanks, in part, to the flavour-packed dishes, where good quality regional ingredients are brought together in harmonious, visually appealing combinations. The four-course set menu changes with the seasons, featuring the likes of cod with blue mussels, beach rose and pink peppercorn, followed by grapefruit with ginger and black lime – wine and juice flights are available to accompany."
+    },
+    {
+      "slug": "allegrine-stockholm",
+      "name": "Allegrine",
+      "city": "Stockholm",
+      "address": "Kammakargatan 22, Stockholm, 111 40, Sweden",
+      "postcode": "111 40",
+      "cuisine": "French",
+      "price": "€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 59.3391156,
+      "longitude": 18.0606728,
+      "phone": "+46841005909",
+      "website": "https://www.allegrine.se",
+      "michelin_url": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/allegrine",
+      "description_en": "Set off the busy Sveavägen thoroughfare, this brasserie provides a hidden oasis. Sit on the attractive front terrace or in the chic dining room, where seats at the kitchen counter are in demand. Variously sized dishes are richly flavoured, with a French base, Scandinavian influences and subtle contrasts."
+    },
+    {
+      "slug": "babette-stockholm",
+      "name": "Babette",
+      "city": "Stockholm",
+      "address": "Roslagsgatan 6, Stockholm, 113 55, Sweden",
+      "postcode": "113 55",
+      "cuisine": "Modern Cuisine",
+      "price": "€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 59.344897,
+      "longitude": 18.0615889,
+      "phone": "+46850902224",
+      "website": "https://www.babette.se",
+      "michelin_url": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/babette",
+      "description_en": "The very definition of a neighbourhood restaurant, Babette is a lively, bustling spot with a buzzing atmosphere; arrive expecting to squeeze past chairs without stepping on dogs and to sit elbow-to-elbow with your fellow guests. The vibe is chilled, the music is good and the two chefs work away in the tiny kitchen completely unphased. Whether you’re popping in for a glass of wine and the pizza of the day or spending the evening over some ever-evolving small plates – such as ricotta Babette with mushrooms and potatoes or veal tartare with colatura and parmesan – you’ll have a great time."
+    },
+    {
+      "slug": "bar-agrikultur-stockholm",
+      "name": "Bar Agrikultur",
+      "city": "Stockholm",
+      "address": "Skånegatan 79, Stockholm, 116 35, Sweden",
+      "postcode": "116 35",
+      "cuisine": "Swedish, Small eats",
+      "price": "€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 59.3128478,
+      "longitude": 18.0831757,
+      "phone": "+46708801200",
+      "website": "https://baragrikultur.com",
+      "michelin_url": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/bar-agrikultur",
+      "description_en": "This lively wine bar is a perfect fit for the neighbourhood. Sit at closely set tables or on high stools either up at the bar counter or next to the window, surrounded by paintings and hunting trophies, including some impressive antlers and a huge wild boar’s head. Order your way through the menu of small plates, which highlight Swedish ingredients and flavours, and feature the likes of cheese balls with garlic honey or pork neck skewer with oyster sauce and chives. Three stainless steel tanks contain home-distilled gin – flavours change regularly, courtesy of various herbs, oils and fruits."
+    },
+    {
+      "slug": "lilla-ego-stockholm",
+      "name": "Lilla Ego",
+      "city": "Stockholm",
+      "address": "Västmannagatan 69, Stockholm, 113 26, Sweden",
+      "postcode": "113 26",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 59.3435589,
+      "longitude": 18.0456255,
+      "phone": "+468274455",
+      "website": "https://www.lillaego.com/",
+      "michelin_url": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/lilla-ego",
+      "description_en": "With its pared-back feel, rustic exposed brickwork and buzzy vibe, this is just the place for a lively night out. It remains one of the hottest tickets in town, so try for a counter seat overlooking the kitchen if you haven’t booked. The concise menu includes modernised Swedish classics that are robust, well-composed and certainly deliver on flavour. Service is accommodating, warm and efficient."
+    },
+    {
+      "slug": "matbaren-stockholm",
+      "name": "Matbaren",
+      "city": "Stockholm",
+      "address": "Södra Blasieholmshamnen 6, Stockholm, 103 27, Sweden",
+      "postcode": "103 27",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 59.3293163,
+      "longitude": 18.0762572,
+      "phone": "+4686793584",
+      "website": "http://www.mdghs.se",
+      "michelin_url": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/matbaren",
+      "description_en": "Set within the Grand Hotel, this trendy, modern bistro offers well-priced dishes with a Scandinavian heart; three are about right for one person, or order more and share. Grab a seat at the zinc-topped bar counter for a better view of the open kitchen; the keen service team add to the atmosphere."
+    },
+    {
+      "slug": "triton-stockholm",
+      "name": "Triton",
+      "city": "Stockholm",
+      "address": "Ringvägen 87, Stockholm, 118 61, Sweden",
+      "postcode": "118 61",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 59.3084063,
+      "longitude": 18.0662154,
+      "phone": "+46760056672",
+      "website": "https://www.triton.restaurant/",
+      "michelin_url": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/triton",
+      "description_en": "Charming in its lack of pretension, this bohemian neighbourhood restaurant has a homely feel. It’s simply furnished and the pared-back cooking has an unfussiness to match. Dishes show technical skill and provide some well-judged flavours using great Swedish ingredients. In an expensive city, the set menu presents good value for cooking of this quality."
+    },
+    {
+      "slug": "arla-stockholm",
+      "name": "ÄRLA",
+      "city": "Stockholm",
+      "address": "Danderydsgatan 25, Stockholm, 114 26, Sweden",
+      "postcode": "114 26",
+      "cuisine": "Farm to table, Swedish",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 59.3444368,
+      "longitude": 18.0705259,
+      "phone": "+4612290540",
+      "website": "https://www.restaurangaerla.se",
+      "michelin_url": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/arla",
+      "description_en": "The residents of Östermalm can count themselves lucky to call this charming restaurant run by a husband-and-wide duo their local – but whether you’re a regular or not, you’ll instantly feel the warmth of the team’s hospitality. The fully open-plan layout adds a unique touch, as it blurs the line between dining room and kitchen, where Lotta prepares unfussy, flavour-packed dishes such as blue mussels with onion, jalapeno and bergamot or ling with browned butter, hazelnuts and Brussels sprouts. Great value is to be found on the ‘Kvällens Fyra Favoriter’ menu, a four-course ‘Favourites of the Night’."
+    },
+    {
+      "slug": "jh-matbar-ystad",
+      "name": "JH matbar",
+      "city": "Ystad",
+      "address": "Stora Östergatan 34, Ystad, 27134, Sweden",
+      "postcode": "27134",
+      "cuisine": "Modern Cuisine",
+      "price": "€€",
+      "award": "Bib Gourmand",
+      "green_star": false,
+      "latitude": 55.4304091,
+      "longitude": 13.8260946,
+      "phone": "+4641110810",
+      "website": "https://jhmatbar.se/",
+      "michelin_url": "https://guide.michelin.com/en/skane/ystad_2694134/restaurant/jh-matbar",
+      "description_en": "You will find this bistro at the southern tip of Sweden, in the centre of a small town with picturesque streets that provided the setting for the Wallander detective TV series. The good value menu offers a wide choice of dishes, with vegetarians and vegans well catered for. Scandinavian produce powers many of the modern dishes, which are prepared and presented with real care."
+    }
+  ],
+  "meta": {
+    "title": "Bib Gourmand-restauranger i Sverige - Gratis nedladdning",
+    "description": "Lista över 13 Bib Gourmand-restauranger i Sverige (god kvalitet till bra pris). Innehåller 13 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Bib Gourmand-restauranger i Sverige | ListBase",
+    "seo_description": "Ladda ner Bib Gourmand-restauranger i Sverige — 13 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 13 poster / 15 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

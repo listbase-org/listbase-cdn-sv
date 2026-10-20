@@ -1,0 +1,358 @@
+{
+  "id": "sv-skane-kommuner",
+  "name": "Kommuner i Skåne län",
+  "title": "Kommuner i Skåne län",
+  "description": "33 kommuner i Skåne län (länskod 12, ISO SE-M , residensstad Malmö). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "1214",
+      "name": "Svalövs kommun",
+      "name_short": "Svalöv",
+      "slug": "svalov",
+      "locality": "SVALÖV",
+      "url": "http://www.svalov.se",
+      "num_postnummer": 130
+    },
+    {
+      "kommunkod": "1230",
+      "name": "Staffanstorps kommun",
+      "name_short": "Staffanstorp",
+      "slug": "staffanstorp",
+      "locality": "STAFFANSTORP",
+      "url": "http://www.staffanstorp.se",
+      "num_postnummer": 877
+    },
+    {
+      "kommunkod": "1231",
+      "name": "Burlövs kommun",
+      "name_short": "Burlöv",
+      "slug": "burlov",
+      "locality": "ARLÖV",
+      "url": "http://www.burlov.se",
+      "num_postnummer": 674
+    },
+    {
+      "kommunkod": "1233",
+      "name": "Vellinge kommun",
+      "name_short": "Vellinge",
+      "slug": "vellinge",
+      "locality": "VELLINGE",
+      "url": "http://www.vellinge.se",
+      "num_postnummer": 156
+    },
+    {
+      "kommunkod": "1256",
+      "name": "Östra Göinge kommun",
+      "name_short": "Östra Göinge",
+      "slug": "ostra-goinge",
+      "locality": "BROBY",
+      "url": "http://www.ostragoinge.se",
+      "num_postnummer": 0
+    },
+    {
+      "kommunkod": "1257",
+      "name": "Örkelljunga kommun",
+      "name_short": "Örkelljunga",
+      "slug": "orkelljunga",
+      "locality": "ÖRKELLJUNGA",
+      "url": "http://www.orkelljunga.se",
+      "num_postnummer": 97
+    },
+    {
+      "kommunkod": "1260",
+      "name": "Bjuvs kommun",
+      "name_short": "Bjuv",
+      "slug": "bjuv",
+      "locality": "BJUV",
+      "url": "http://www.bjuv.se",
+      "num_postnummer": 51
+    },
+    {
+      "kommunkod": "1261",
+      "name": "Kävlinge kommun",
+      "name_short": "Kävlinge",
+      "slug": "kavlinge",
+      "locality": "KÄVLINGE",
+      "url": "http://www.kavlinge.se",
+      "num_postnummer": 241
+    },
+    {
+      "kommunkod": "1262",
+      "name": "Lomma kommun",
+      "name_short": "Lomma",
+      "slug": "lomma",
+      "locality": "LOMMA",
+      "url": "http://www.lomma.se",
+      "num_postnummer": 877
+    },
+    {
+      "kommunkod": "1263",
+      "name": "Svedala kommun",
+      "name_short": "Svedala",
+      "slug": "svedala",
+      "locality": "SVEDALA",
+      "url": "http://www.svedala.se",
+      "num_postnummer": 804
+    },
+    {
+      "kommunkod": "1264",
+      "name": "Skurups kommun",
+      "name_short": "Skurup",
+      "slug": "skurup",
+      "locality": "SKURUP",
+      "url": "http://www.skurup.se",
+      "num_postnummer": 132
+    },
+    {
+      "kommunkod": "1265",
+      "name": "Sjöbo kommun",
+      "name_short": "Sjöbo",
+      "slug": "sjobo",
+      "locality": "SJÖBO",
+      "url": "http://www.sjobo.se",
+      "num_postnummer": 170
+    },
+    {
+      "kommunkod": "1266",
+      "name": "Hörby kommun",
+      "name_short": "Hörby",
+      "slug": "horby",
+      "locality": "HÖRBY",
+      "url": "http://www.horby.se",
+      "num_postnummer": 106
+    },
+    {
+      "kommunkod": "1267",
+      "name": "Höörs kommun",
+      "name_short": "Höör",
+      "slug": "hoor",
+      "locality": "HÖÖR",
+      "url": "http://www.hoor.se",
+      "num_postnummer": 120
+    },
+    {
+      "kommunkod": "1270",
+      "name": "Tomelilla kommun",
+      "name_short": "Tomelilla",
+      "slug": "tomelilla",
+      "locality": "TOMELILLA",
+      "url": "http://www.tomelilla.se",
+      "num_postnummer": 138
+    },
+    {
+      "kommunkod": "1272",
+      "name": "Bromölla kommun",
+      "name_short": "Bromölla",
+      "slug": "bromolla",
+      "locality": "BROMÖLLA",
+      "url": "http://www.bromolla.se",
+      "num_postnummer": 69
+    },
+    {
+      "kommunkod": "1273",
+      "name": "Osby kommun",
+      "name_short": "Osby",
+      "slug": "osby",
+      "locality": "OSBY",
+      "url": "http://www.osby.se",
+      "num_postnummer": 107
+    },
+    {
+      "kommunkod": "1275",
+      "name": "Perstorps kommun",
+      "name_short": "Perstorp",
+      "slug": "perstorp",
+      "locality": "PERSTORP",
+      "url": "http://www.perstorp.se",
+      "num_postnummer": 40
+    },
+    {
+      "kommunkod": "1276",
+      "name": "Klippans kommun",
+      "name_short": "Klippan",
+      "slug": "klippan",
+      "locality": "KLIPPAN",
+      "url": "http://www.klippan.se",
+      "num_postnummer": 116
+    },
+    {
+      "kommunkod": "1277",
+      "name": "Åstorps kommun",
+      "name_short": "Åstorp",
+      "slug": "astorp",
+      "locality": "ÅSTORP",
+      "url": "http://www.astorp.se",
+      "num_postnummer": 78
+    },
+    {
+      "kommunkod": "1278",
+      "name": "Båstads kommun",
+      "name_short": "Båstad",
+      "slug": "bastad",
+      "locality": "BÅSTAD",
+      "url": "http://www.bastad.se",
+      "num_postnummer": 78
+    },
+    {
+      "kommunkod": "1280",
+      "name": "Malmö stad",
+      "name_short": "Malmö",
+      "slug": "malmo",
+      "locality": "MALMÖ",
+      "url": "http://www.malmo.se",
+      "num_postnummer": 786
+    },
+    {
+      "kommunkod": "1281",
+      "name": "Lunds kommun",
+      "name_short": "Lund",
+      "slug": "lund",
+      "locality": "LUND",
+      "url": "http://www.lund.se",
+      "num_postnummer": 355
+    },
+    {
+      "kommunkod": "1282",
+      "name": "Landskrona stad",
+      "name_short": "Landskrona",
+      "slug": "landskrona",
+      "locality": "LANDSKRONA",
+      "url": "http://www.landskrona.se",
+      "num_postnummer": 93
+    },
+    {
+      "kommunkod": "1283",
+      "name": "Helsingborgs stad",
+      "name_short": "Helsingborg",
+      "slug": "helsingborg",
+      "locality": "HELSINGBORG",
+      "url": "http://www.helsingborg.se",
+      "num_postnummer": 423
+    },
+    {
+      "kommunkod": "1284",
+      "name": "Höganäs kommun",
+      "name_short": "Höganäs",
+      "slug": "hoganas",
+      "locality": "HÖGANÄS",
+      "url": "http://www.hoganas.se",
+      "num_postnummer": 98
+    },
+    {
+      "kommunkod": "1285",
+      "name": "Eslövs kommun",
+      "name_short": "Eslöv",
+      "slug": "eslov",
+      "locality": "ESLÖV",
+      "url": "http://www.eslov.se",
+      "num_postnummer": 318
+    },
+    {
+      "kommunkod": "1286",
+      "name": "Ystads kommun",
+      "name_short": "Ystad",
+      "slug": "ystad",
+      "locality": "YSTAD",
+      "url": "http://www.ystad.se",
+      "num_postnummer": 120
+    },
+    {
+      "kommunkod": "1287",
+      "name": "Trelleborgs kommun",
+      "name_short": "Trelleborg",
+      "slug": "trelleborg",
+      "locality": "TRELLEBORG",
+      "url": "http://www.trelleborg.se",
+      "num_postnummer": 152
+    },
+    {
+      "kommunkod": "1290",
+      "name": "Kristianstads kommun",
+      "name_short": "Kristianstad",
+      "slug": "kristianstad",
+      "locality": "KRISTIANSTAD",
+      "url": "http://www.kristianstad.se",
+      "num_postnummer": 231
+    },
+    {
+      "kommunkod": "1291",
+      "name": "Simrishamns kommun",
+      "name_short": "Simrishamn",
+      "slug": "simrishamn",
+      "locality": "SIMRISHAMN",
+      "url": "http://www.simrishamn.se",
+      "num_postnummer": 84
+    },
+    {
+      "kommunkod": "1292",
+      "name": "Ängelholms kommun",
+      "name_short": "Ängelholm",
+      "slug": "angelholm",
+      "locality": "ÄNGELHOLM",
+      "url": "http://www.engelholm.se",
+      "num_postnummer": 140
+    },
+    {
+      "kommunkod": "1293",
+      "name": "Hässleholms kommun",
+      "name_short": "Hässleholm",
+      "slug": "hassleholm",
+      "locality": "HÄSSLEHOLM",
+      "url": "http://www.hassleholm.se",
+      "num_postnummer": 318
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Skåne län - Gratis nedladdning",
+    "description": "33 kommuner i Skåne län (länskod 12, ISO SE-M , residensstad Malmö). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 33 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Skåne län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Skåne län — 33 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 33 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

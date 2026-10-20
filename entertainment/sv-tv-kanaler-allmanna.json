@@ -1,0 +1,376 @@
+{
+  "id": "sv-tv-kanaler-allmanna",
+  "name": "Allmänna TV-kanaler (General TV channels)",
+  "title": "Allmänna TV-kanaler (General TV channels)",
+  "description": "Svenska TV-kanaler i kategorin \"general\" (General) — 19 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "Dalavision.se",
+      "name": "Dalavision",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.dalavision.se"
+    },
+    {
+      "id": 2,
+      "channel_id": "Frasier.se",
+      "name": "Frasier",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/frasier-dk/details"
+    },
+    {
+      "id": 3,
+      "channel_id": "GlimtTV.se",
+      "name": "Glimt TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "GLIMT TELEVISION AB",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://glimt.tv/"
+    },
+    {
+      "id": 4,
+      "channel_id": "GustavLinsepaudebane.se",
+      "name": "Gustav & Linse pa udebane",
+      "alt_names": "Gustav & Linse på udebane",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/gustav-and-linse-pa-udebane/details"
+    },
+    {
+      "id": 5,
+      "channel_id": "JonkopingsLokalTV.se",
+      "name": "Jonkopings Lokal-TV",
+      "alt_names": "Jönköpings Lokal-TV",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.jonkopingtv.se/"
+    },
+    {
+      "id": 6,
+      "channel_id": "LokalTVUddevalla.se",
+      "name": "Lokal-TV Uddevalla",
+      "alt_names": "Fyrbodal-TV",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://ltvu.se/"
+    },
+    {
+      "id": 7,
+      "channel_id": "MTVReality.se",
+      "name": "MTV Reality",
+      "alt_names": "MTV Pride",
+      "network": "Pluto TV",
+      "owners": "Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/mtv-pride-se-ptv1/details"
+    },
+    {
+      "id": 8,
+      "channel_id": "OppnaKanalenGoteborg.se",
+      "name": "Oppna Kanalen Goteborg",
+      "alt_names": "Öppna Kanalen Göteborg",
+      "network": "",
+      "owners": "Riksförbundet Öppna Kanaler i Sverige",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://oppnakanalengoteborg.se/"
+    },
+    {
+      "id": 9,
+      "channel_id": "OppnaKanalenHoglandet.se",
+      "name": "Oppna Kanalen Hoglandet",
+      "alt_names": "Öppna Kanalen Höglandet",
+      "network": "",
+      "owners": "Riksförbundet Öppna Kanaler i Sverige",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2022-12-16",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.oppnakanalen.se/"
+    },
+    {
+      "id": 10,
+      "channel_id": "OppnaKanalenKronoberg.se",
+      "name": "Oppna Kanalen Kronoberg",
+      "alt_names": "Öppna Kanalen Kronoberg",
+      "network": "",
+      "owners": "Riksförbundet Öppna Kanaler i Sverige",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2006-05-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.okv.se/"
+    },
+    {
+      "id": 11,
+      "channel_id": "OppnaKanalenNarke.se",
+      "name": "Oppna Kanalen Narke",
+      "alt_names": "Öppna Kanalen Närke",
+      "network": "",
+      "owners": "Riksförbundet Öppna Kanaler i Sverige",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 12,
+      "channel_id": "OppnaKanalenSkovde.se",
+      "name": "Oppna Kanalen Skovde",
+      "alt_names": "Öppna Kanlen Skövde",
+      "network": "CMS (Community Media Sweden)",
+      "owners": "",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "1984-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://oppnakanalenskovde.se/"
+    },
+    {
+      "id": 13,
+      "channel_id": "OppnaKanalenStockholm.se",
+      "name": "Oppna Kanalen Stockholm",
+      "alt_names": "Öppna Kanalen Stockholm",
+      "network": "",
+      "owners": "Riksförbundet Öppna Kanaler i Sverige",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.oppnakanalenstockholm.se/"
+    },
+    {
+      "id": 14,
+      "channel_id": "RTVAlbSe.se",
+      "name": "RTV AlbSe",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 15,
+      "channel_id": "SUMOParis2026.se",
+      "name": "SUMO Paris 2026",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Pluto Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/sumo-paris-2026-se/details"
+    },
+    {
+      "id": 16,
+      "channel_id": "Sundskanalen.se",
+      "name": "Sundskanalen",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://sundskanalen.se/"
+    },
+    {
+      "id": 17,
+      "channel_id": "TheMillers.se",
+      "name": "The Millers",
+      "alt_names": "CBS The Millers",
+      "network": "Pluto TV",
+      "owners": "CBS Broadcasting Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/millers-ptv3/details"
+    },
+    {
+      "id": 18,
+      "channel_id": "TV2Stad.se",
+      "name": "TV2Stad",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.tv2stad.se/"
+    },
+    {
+      "id": 19,
+      "channel_id": "TVMalungSalen.se",
+      "name": "TV Malung-Salen",
+      "alt_names": "TV Malung-Sälen",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvmalung-salen.se/"
+    }
+  ],
+  "meta": {
+    "title": "Allmänna TV-kanaler (General TV channels) - Gratis nedladdning",
+    "description": "Svenska TV-kanaler i kategorin \"general\" (General) — 19 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats. Innehåller 19 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Allmänna TV-kanaler (General TV channels) | ListBase",
+    "seo_description": "Ladda ner Allmänna TV-kanaler (General TV channels) — 19 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 19 poster / 13 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

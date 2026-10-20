@@ -1,0 +1,1696 @@
+{
+  "id": "sv-jonkoping-valdistrikt-2022",
+  "name": "Valdistrikt i Jönköpings län (val 2022)",
+  "title": "Valdistrikt i Jönköpings län (val 2022)",
+  "description": "205 valdistrikt i Jönköpings län (länskod 06) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 205,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "06040103",
+      "valdistrikt_namn": "Aneby Västra",
+      "kommun_kod": "0604",
+      "kommun_namn": "Aneby",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06040202",
+      "valdistrikt_namn": "Aneby Södra",
+      "kommun_kod": "0604",
+      "kommun_namn": "Aneby",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06040301",
+      "valdistrikt_namn": "Aneby Östra",
+      "kommun_kod": "0604",
+      "kommun_namn": "Aneby",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06170202",
+      "valdistrikt_namn": "Åsenhöga-Källeryd",
+      "kommun_kod": "0617",
+      "kommun_namn": "Gnosjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06170303",
+      "valdistrikt_namn": "Kävsjö",
+      "kommun_kod": "0617",
+      "kommun_namn": "Gnosjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06170404",
+      "valdistrikt_namn": "Kulltorp",
+      "kommun_kod": "0617",
+      "kommun_namn": "Gnosjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06170501",
+      "valdistrikt_namn": "Gnosjö Norra",
+      "kommun_kod": "0617",
+      "kommun_namn": "Gnosjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06170502",
+      "valdistrikt_namn": "Gnosjö Östra",
+      "kommun_kod": "0617",
+      "kommun_namn": "Gnosjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06170503",
+      "valdistrikt_namn": "Gnosjö Västra",
+      "kommun_kod": "0617",
+      "kommun_namn": "Gnosjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06420103",
+      "valdistrikt_namn": "Mullsjö  3",
+      "kommun_kod": "0642",
+      "kommun_namn": "Mullsjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06420301",
+      "valdistrikt_namn": "Mullsjö  1",
+      "kommun_kod": "0642",
+      "kommun_namn": "Mullsjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06420302",
+      "valdistrikt_namn": "Mullsjö  2",
+      "kommun_kod": "0642",
+      "kommun_namn": "Mullsjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06420304",
+      "valdistrikt_namn": "Mullsjö  4",
+      "kommun_kod": "0642",
+      "kommun_namn": "Mullsjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06430101",
+      "valdistrikt_namn": "Bränninge",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06430102",
+      "valdistrikt_namn": "Centrum-Gunnarsbo",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06430104",
+      "valdistrikt_namn": "Kyrkbyn-Furusjö",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06430105",
+      "valdistrikt_namn": "Gustav Adolf-Brandstorp",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06430107",
+      "valdistrikt_namn": "Kärr",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06430108",
+      "valdistrikt_namn": "Kråkeryd-Mölekullen",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06430110",
+      "valdistrikt_namn": "Kärnekulla-Sjogarp",
+      "kommun_kod": "0643",
+      "kommun_namn": "Habo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620101",
+      "valdistrikt_namn": "Gislaved  C",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620102",
+      "valdistrikt_namn": "Gullvivan",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620103",
+      "valdistrikt_namn": "Lundåker",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620104",
+      "valdistrikt_namn": "Sörgården",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620105",
+      "valdistrikt_namn": "Henja",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620106",
+      "valdistrikt_namn": "Gyllenfors-Hult",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620107",
+      "valdistrikt_namn": "Våthult-Bosebo-Båraryd",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620408",
+      "valdistrikt_namn": "Anderstorp C",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620409",
+      "valdistrikt_namn": "Anderstorp N",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620410",
+      "valdistrikt_namn": "Anderstorp S",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620913",
+      "valdistrikt_namn": "Smålandsstenar C",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620914",
+      "valdistrikt_namn": "Smålandsstenar V",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06620915",
+      "valdistrikt_namn": "Smålandsstenar Ö",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06621017",
+      "valdistrikt_namn": "Burseryd-Sandvik",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06621218",
+      "valdistrikt_namn": "Gryteryd-Södra Hestra",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06621419",
+      "valdistrikt_namn": "Ås-Kållerstad",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06621620",
+      "valdistrikt_namn": "Reftele",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06621621",
+      "valdistrikt_namn": "Norra Hestra",
+      "kommun_kod": "0662",
+      "kommun_namn": "Gislaved",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06650101",
+      "valdistrikt_namn": "Vaggeryd västra",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06650102",
+      "valdistrikt_namn": "Vaggeryd norra",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06650103",
+      "valdistrikt_namn": "Vaggeryd östra",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06650104",
+      "valdistrikt_namn": "Byarum-Bondstorp",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06650305",
+      "valdistrikt_namn": "Västra Skillingaryd-Tofteryd",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06650306",
+      "valdistrikt_namn": "Skillingaryd östra",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06650509",
+      "valdistrikt_namn": "Åker-Hagshult",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06650610",
+      "valdistrikt_namn": "Hok-Svenarum",
+      "kommun_kod": "0665",
+      "kommun_namn": "Vaggeryd",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800120",
+      "valdistrikt_namn": "Samset-Sveahäll",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800121",
+      "valdistrikt_namn": "Sofia",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800125",
+      "valdistrikt_namn": "Mariebo",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800126",
+      "valdistrikt_namn": "Centrum V",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800127",
+      "valdistrikt_namn": "Söder",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800128",
+      "valdistrikt_namn": "Västra Torget",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800129",
+      "valdistrikt_namn": "Friaredalen",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800130",
+      "valdistrikt_namn": "Munksjö",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800131",
+      "valdistrikt_namn": "Torpa Ö",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800132",
+      "valdistrikt_namn": "Torpa V",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800133",
+      "valdistrikt_namn": "Tokarp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800134",
+      "valdistrikt_namn": "Gräshagen-Torpa",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800135",
+      "valdistrikt_namn": "Bäckalyckan",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800136",
+      "valdistrikt_namn": "Hisingstorp-Dalvik",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800137",
+      "valdistrikt_namn": "Skänkeberg-Dalvik",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800138",
+      "valdistrikt_namn": "Bymarken",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800139",
+      "valdistrikt_namn": "Vätterslund m fl",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800140",
+      "valdistrikt_namn": "Munksjöstaden",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800141",
+      "valdistrikt_namn": "Dunkehalla",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800142",
+      "valdistrikt_namn": "Kortebo-Åbolid",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800200",
+      "valdistrikt_namn": "Kålgården Ö",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800201",
+      "valdistrikt_namn": "Centrum Ö",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800202",
+      "valdistrikt_namn": "Erik Dahlberg",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800203",
+      "valdistrikt_namn": "Kålgården V",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800204",
+      "valdistrikt_namn": "Liljeholmsparken",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800205",
+      "valdistrikt_namn": "Ekhagen S",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800206",
+      "valdistrikt_namn": "Ekhagen N",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800207",
+      "valdistrikt_namn": "Bondberget",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800211",
+      "valdistrikt_namn": "Rosenlund S",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800212",
+      "valdistrikt_namn": "Rosenlund N",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800213",
+      "valdistrikt_namn": "Vättersnäs",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800214",
+      "valdistrikt_namn": "Österängen V",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800215",
+      "valdistrikt_namn": "Österängen Ö",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800216",
+      "valdistrikt_namn": "Liljeholmen",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800318",
+      "valdistrikt_namn": "Kättilstorp Haga m fl",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800320",
+      "valdistrikt_namn": "Råslätt-Lockebo",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800321",
+      "valdistrikt_namn": "Ljungarum",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800322",
+      "valdistrikt_namn": "Råslätt V",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800324",
+      "valdistrikt_namn": "Råslätt Ö",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800522",
+      "valdistrikt_namn": "Huskvarna Smedbyn",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800542",
+      "valdistrikt_namn": "Öxnehaga S",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800543",
+      "valdistrikt_namn": "Öxnehaga C",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800544",
+      "valdistrikt_namn": "Öxnehaga N",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800545",
+      "valdistrikt_namn": "Norrängen-Brunstorp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800547",
+      "valdistrikt_namn": "Rosendala",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800548",
+      "valdistrikt_namn": "Huskvarna C",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800549",
+      "valdistrikt_namn": "Huskvarna Gråbo",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800551",
+      "valdistrikt_namn": "Huskvarna Tormenås",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800553",
+      "valdistrikt_namn": "Huskvarna Bråneryd",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800654",
+      "valdistrikt_namn": "Stensholm-Jöransberg",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800655",
+      "valdistrikt_namn": "Egnahem-Fagerslätt",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800656",
+      "valdistrikt_namn": "Petersberg-Jutaholm",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800657",
+      "valdistrikt_namn": "Kungsängen-Ekhagen Ö",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800760",
+      "valdistrikt_namn": "Gränna S",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800761",
+      "valdistrikt_namn": "Gränna N",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800863",
+      "valdistrikt_namn": "Norrahammar C-Flahult",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800864",
+      "valdistrikt_namn": "Norrahammar S",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800865",
+      "valdistrikt_namn": "Hovslätt",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800896",
+      "valdistrikt_namn": "Hovslätt N",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800897",
+      "valdistrikt_namn": "Hovslätt S-Norrahammar N",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06800967",
+      "valdistrikt_namn": "Visingsö",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801068",
+      "valdistrikt_namn": "Skärstad-Svarttorp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801069",
+      "valdistrikt_namn": "Kaxholmen",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801170",
+      "valdistrikt_namn": "Ölmstad",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801473",
+      "valdistrikt_namn": "Lekeryd-Järsnäs",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801574",
+      "valdistrikt_namn": "Tenhult N-Öggestorp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801575",
+      "valdistrikt_namn": "Tenhult S-Ödestugu",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801576",
+      "valdistrikt_namn": "Tenhult C",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801676",
+      "valdistrikt_namn": "Barnarp C",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801689",
+      "valdistrikt_namn": "Barnarp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801979",
+      "valdistrikt_namn": "Månsarp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801980",
+      "valdistrikt_namn": "Taberg V",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06801988",
+      "valdistrikt_namn": "Taberg Ö",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06802081",
+      "valdistrikt_namn": "Attarp-Sjöåkra",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06802082",
+      "valdistrikt_namn": "Backamo",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06802083",
+      "valdistrikt_namn": "Trånghalla-Järstorp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06802085",
+      "valdistrikt_namn": "Torp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06802086",
+      "valdistrikt_namn": "Nyarp",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06802184",
+      "valdistrikt_namn": "Bottnaryd",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06802285",
+      "valdistrikt_namn": "Angerdshestra- Mulseryd-N Unnaryd",
+      "kommun_kod": "0680",
+      "kommun_namn": "Jönköping",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820101",
+      "valdistrikt_namn": "Nässjö centrum",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820103",
+      "valdistrikt_namn": "Nässjö landsbygd",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820104",
+      "valdistrikt_namn": "Handskeryd",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820105",
+      "valdistrikt_namn": "Ingsberg",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820106",
+      "valdistrikt_namn": "Nyhem",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820107",
+      "valdistrikt_namn": "Runneryd",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820108",
+      "valdistrikt_namn": "Norrboda",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820109",
+      "valdistrikt_namn": "Åker",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820110",
+      "valdistrikt_namn": "Södergården",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820315",
+      "valdistrikt_namn": "Bodafors",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820317",
+      "valdistrikt_namn": "Grimstorp/Sandsjöfors",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820519",
+      "valdistrikt_namn": "Anneberg",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820724",
+      "valdistrikt_namn": "Forserum",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820726",
+      "valdistrikt_namn": "Barkeryd/Äng",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06820929",
+      "valdistrikt_namn": "Malmbäck",
+      "kommun_kod": "0682",
+      "kommun_namn": "Nässjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830101",
+      "valdistrikt_namn": "Västhorja",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830102",
+      "valdistrikt_namn": "Trälleborg",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830103",
+      "valdistrikt_namn": "Norregård",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830104",
+      "valdistrikt_namn": "Pilagården",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830105",
+      "valdistrikt_namn": "Skogsfållen",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830106",
+      "valdistrikt_namn": "Rörstorp",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830107",
+      "valdistrikt_namn": "Apladalen",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830108",
+      "valdistrikt_namn": "Mossle",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830109",
+      "valdistrikt_namn": "Lillegård",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830111",
+      "valdistrikt_namn": "Gröndal",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830123",
+      "valdistrikt_namn": "Nylund",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830124",
+      "valdistrikt_namn": "Hornaryd",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830125",
+      "valdistrikt_namn": "Vråen",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830209",
+      "valdistrikt_namn": "Bredaryds tätort",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830210",
+      "valdistrikt_namn": "Bredaryds landsbygd",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830411",
+      "valdistrikt_namn": "Kärda",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830512",
+      "valdistrikt_namn": "Hånger",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830613",
+      "valdistrikt_namn": "Forsheda",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06830916",
+      "valdistrikt_namn": "Nöbbele",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06831017",
+      "valdistrikt_namn": "Bor",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06831219",
+      "valdistrikt_namn": "Horda",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06831220",
+      "valdistrikt_namn": "Rydaholm",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06831321",
+      "valdistrikt_namn": "Fryele",
+      "kommun_kod": "0683",
+      "kommun_namn": "Värnamo",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06840101",
+      "valdistrikt_namn": "Sävsjö Södra",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06840102",
+      "valdistrikt_namn": "Sävsjö Ljunga",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06840103",
+      "valdistrikt_namn": "Sävsjö Vallsjö",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06840304",
+      "valdistrikt_namn": "Vrigstad",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06840605",
+      "valdistrikt_namn": "Rörvik",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06840706",
+      "valdistrikt_namn": "Stockaryd",
+      "kommun_kod": "0684",
+      "kommun_namn": "Sävsjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06850101",
+      "valdistrikt_namn": "Mellangården",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06850102",
+      "valdistrikt_namn": "Brunnsgård",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06850103",
+      "valdistrikt_namn": "Vetlanda Flugeby-Näsby",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06850104",
+      "valdistrikt_namn": "Pukaregården",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06850105",
+      "valdistrikt_namn": "Tomaslunden",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06850106",
+      "valdistrikt_namn": "Karlslund",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06850107",
+      "valdistrikt_namn": "Ekenässjön",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06850309",
+      "valdistrikt_namn": "Bäckseda",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06850511",
+      "valdistrikt_namn": "Lannaskede-Fröderyd",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06850816",
+      "valdistrikt_namn": "Korsberga-Ramkvilla-Bäckaby",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06851320",
+      "valdistrikt_namn": "Nye-Skirö-Näshult-Stenberga",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06851522",
+      "valdistrikt_namn": "Alseda-Skede",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06851623",
+      "valdistrikt_namn": "Ökna-Karlstorp",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06851926",
+      "valdistrikt_namn": "Björkö-Nävelsjö-Myresjö",
+      "kommun_kod": "0685",
+      "kommun_namn": "Vetlanda",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06860101",
+      "valdistrikt_namn": "Sjöängen/Prästängen m.fl.",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06860102",
+      "valdistrikt_namn": "Norrtull",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06860103",
+      "valdistrikt_namn": "Gamla Stan m.fl.",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06860104",
+      "valdistrikt_namn": "Grevhagen",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06860105",
+      "valdistrikt_namn": "Blåsippan",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06860106",
+      "valdistrikt_namn": "Kvarnarp",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06860121",
+      "valdistrikt_namn": "Kaffekullen m. landsbygd",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06860207",
+      "valdistrikt_namn": "Mariannelund-Hässleby-Kråkshult",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06860514",
+      "valdistrikt_namn": "Ingatorp-Hjältevad",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06860615",
+      "valdistrikt_namn": "Hult",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06860820",
+      "valdistrikt_namn": "Höreda",
+      "kommun_kod": "0686",
+      "kommun_namn": "Eksjö",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06870101",
+      "valdistrikt_namn": "Sommen",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06870102",
+      "valdistrikt_namn": "Tranås Norra",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06870103",
+      "valdistrikt_namn": "Tranås Kvarn",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06870104",
+      "valdistrikt_namn": "Ängaryd",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06870105",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06870106",
+      "valdistrikt_namn": "Ekmarksberg",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06870107",
+      "valdistrikt_namn": "Junkaremålen",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06870108",
+      "valdistrikt_namn": "Fröafall",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06870109",
+      "valdistrikt_namn": "Tranås Södra",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    },
+    {
+      "valdistrikt_kod": "06870110",
+      "valdistrikt_namn": "Tranås Västra",
+      "kommun_kod": "0687",
+      "kommun_namn": "Tranås",
+      "lan_kod": "06",
+      "lan_namn": "Jönköpings län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Jönköpings län (val 2022) - Gratis nedladdning",
+    "description": "205 valdistrikt i Jönköpings län (länskod 06) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 205 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Jönköpings län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Jönköpings län (val 2022) — 205 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 205 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

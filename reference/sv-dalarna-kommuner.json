@@ -1,0 +1,196 @@
+{
+  "id": "sv-dalarna-kommuner",
+  "name": "Kommuner i Dalarnas län",
+  "title": "Kommuner i Dalarnas län",
+  "description": "15 kommuner i Dalarnas län (länskod 20, ISO SE-W , residensstad Falun). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "2021",
+      "name": "Vansbro kommun",
+      "name_short": "Vansbro",
+      "slug": "vansbro",
+      "locality": "VANSBRO",
+      "url": "http://www.vansbro.se",
+      "num_postnummer": 95
+    },
+    {
+      "kommunkod": "2023",
+      "name": "Malung-Sälens kommun",
+      "name_short": "Malung-Sälen",
+      "slug": "malung-salen",
+      "locality": "MALUNG",
+      "url": "http://www.malung-salen.se",
+      "num_postnummer": 93
+    },
+    {
+      "kommunkod": "2026",
+      "name": "Gagnefs kommun",
+      "name_short": "Gagnef",
+      "slug": "gagnef",
+      "locality": "GAGNEF",
+      "url": "http://www.gagnef.se",
+      "num_postnummer": 210
+    },
+    {
+      "kommunkod": "2029",
+      "name": "Leksands kommun",
+      "name_short": "Leksand",
+      "slug": "leksand",
+      "locality": "LEKSAND",
+      "url": "http://www.leksand.se",
+      "num_postnummer": 154
+    },
+    {
+      "kommunkod": "2031",
+      "name": "Rättviks kommun",
+      "name_short": "Rättvik",
+      "slug": "rattvik",
+      "locality": "RÄTTVIK",
+      "url": "http://www.rattvik.se",
+      "num_postnummer": 115
+    },
+    {
+      "kommunkod": "2034",
+      "name": "Orsa kommun",
+      "name_short": "Orsa",
+      "slug": "orsa",
+      "locality": "ORSA",
+      "url": "http://www.orsa.se",
+      "num_postnummer": 52
+    },
+    {
+      "kommunkod": "2039",
+      "name": "Älvdalens kommun",
+      "name_short": "Älvdalen",
+      "slug": "alvdalen",
+      "locality": "ÄLVDALEN",
+      "url": "http://www.alvdalen.se",
+      "num_postnummer": 63
+    },
+    {
+      "kommunkod": "2061",
+      "name": "Smedjebackens kommun",
+      "name_short": "Smedjebacken",
+      "slug": "smedjebacken",
+      "locality": "SMEDJEBACKEN",
+      "url": "http://www.smedjebacken.se",
+      "num_postnummer": 165
+    },
+    {
+      "kommunkod": "2062",
+      "name": "Mora kommun",
+      "name_short": "Mora",
+      "slug": "mora",
+      "locality": "MORA",
+      "url": "http://www.mora.se",
+      "num_postnummer": 83
+    },
+    {
+      "kommunkod": "2080",
+      "name": "Falu kommun",
+      "name_short": "Falun",
+      "slug": "falun",
+      "locality": "FALUN",
+      "url": "http://www.falun.se",
+      "num_postnummer": 232
+    },
+    {
+      "kommunkod": "2081",
+      "name": "Borlänge kommun",
+      "name_short": "Borlänge",
+      "slug": "borlange",
+      "locality": "BORLÄNGE",
+      "url": "http://www.borlange.se",
+      "num_postnummer": 133
+    },
+    {
+      "kommunkod": "2082",
+      "name": "Säters kommun",
+      "name_short": "Säter",
+      "slug": "sater",
+      "locality": "SÄTER",
+      "url": "http://www.sater.se",
+      "num_postnummer": 193
+    },
+    {
+      "kommunkod": "2083",
+      "name": "Hedemora kommun",
+      "name_short": "Hedemora",
+      "slug": "hedemora",
+      "locality": "HEDEMORA",
+      "url": "http://www.hedemora.se",
+      "num_postnummer": 184
+    },
+    {
+      "kommunkod": "2084",
+      "name": "Avesta kommun",
+      "name_short": "Avesta",
+      "slug": "avesta",
+      "locality": "AVESTA",
+      "url": "http://www.avesta.se",
+      "num_postnummer": 67
+    },
+    {
+      "kommunkod": "2085",
+      "name": "Ludvika kommun",
+      "name_short": "Ludvika",
+      "slug": "ludvika",
+      "locality": "LUDVIKA",
+      "url": "http://www.ludvika.se",
+      "num_postnummer": 183
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Dalarnas län - Gratis nedladdning",
+    "description": "15 kommuner i Dalarnas län (länskod 20, ISO SE-W , residensstad Falun). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 15 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Dalarnas län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Dalarnas län — 15 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 15 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

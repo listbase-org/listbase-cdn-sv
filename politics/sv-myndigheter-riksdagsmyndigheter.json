@@ -1,0 +1,61 @@
+{
+  "id": "sv-myndigheter-riksdagsmyndigheter",
+  "name": "Statliga myndigheter – Myndighet under riksdagen",
+  "title": "Statliga myndigheter – Myndighet under riksdagen",
+  "description": "Svenska organisationer av typen ”Myndighet under riksdagen” med namn och ort.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "Myndighet under riksdagen",
+      "name": "Riksdagens ombudsmän",
+      "city": "Stockholm"
+    },
+    {
+      "type": "Myndighet under riksdagen",
+      "name": "Riksdagsförvaltningen",
+      "city": "Stockholm"
+    },
+    {
+      "type": "Myndighet under riksdagen",
+      "name": "Riksrevisionen",
+      "city": "Stockholm"
+    },
+    {
+      "type": "Myndighet under riksdagen",
+      "name": "Sveriges riksbank",
+      "city": "Stockholm"
+    }
+  ],
+  "meta": {
+    "title": "Statliga myndigheter – Myndighet under riksdagen - Gratis nedladdning",
+    "description": "Svenska organisationer av typen ”Myndighet under riksdagen” med namn och ort. Innehåller 4 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Statliga myndigheter – Myndighet under riksdagen | ListBase",
+    "seo_description": "Ladda ner Statliga myndigheter – Myndighet under riksdagen — 4 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 4 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

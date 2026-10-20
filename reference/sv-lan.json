@@ -1,0 +1,276 @@
+{
+  "id": "sv-lan",
+  "name": "Sveriges län",
+  "title": "Sveriges län",
+  "description": "21 svenska län (counties) med länskod, länsbokstav, ISO 3166-2:SE, namn, residensstad och antal kommuner. Officiella SCB / Lantmäteriet-koder från Sveriges geografiska indelning. Källa: GioPalusa/SwedenGeoJSON (CC0-1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "lanskod",
+      "label": "Lanskod",
+      "type": "number"
+    },
+    {
+      "key": "lansbokstav",
+      "label": "Lansbokstav",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "num_kommuner",
+      "label": "Num Kommuner",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lanskod": "01",
+      "lansbokstav": "AB",
+      "iso_3166_2": "SE-AB",
+      "name": "Stockholms län",
+      "name_short": "Stockholm",
+      "slug": "stockholm",
+      "capital": "Stockholm",
+      "num_kommuner": 26
+    },
+    {
+      "lanskod": "03",
+      "lansbokstav": "C ",
+      "iso_3166_2": "SE-C ",
+      "name": "Uppsala län",
+      "name_short": "Uppsala",
+      "slug": "uppsala",
+      "capital": "Uppsala",
+      "num_kommuner": 8
+    },
+    {
+      "lanskod": "04",
+      "lansbokstav": "D ",
+      "iso_3166_2": "SE-D ",
+      "name": "Södermanlands län",
+      "name_short": "Södermanland",
+      "slug": "sodermanland",
+      "capital": "Nyköping",
+      "num_kommuner": 9
+    },
+    {
+      "lanskod": "05",
+      "lansbokstav": "E ",
+      "iso_3166_2": "SE-E ",
+      "name": "Östergötlands län",
+      "name_short": "Östergötland",
+      "slug": "ostergotland",
+      "capital": "Linköping",
+      "num_kommuner": 13
+    },
+    {
+      "lanskod": "06",
+      "lansbokstav": "F ",
+      "iso_3166_2": "SE-F ",
+      "name": "Jönköpings län",
+      "name_short": "Jönköping",
+      "slug": "jonkoping",
+      "capital": "Jönköping",
+      "num_kommuner": 13
+    },
+    {
+      "lanskod": "07",
+      "lansbokstav": "G ",
+      "iso_3166_2": "SE-G ",
+      "name": "Kronobergs län",
+      "name_short": "Kronoberg",
+      "slug": "kronoberg",
+      "capital": "Växjö",
+      "num_kommuner": 8
+    },
+    {
+      "lanskod": "08",
+      "lansbokstav": "H ",
+      "iso_3166_2": "SE-H ",
+      "name": "Kalmar län",
+      "name_short": "Kalmar",
+      "slug": "kalmar",
+      "capital": "Kalmar",
+      "num_kommuner": 12
+    },
+    {
+      "lanskod": "09",
+      "lansbokstav": "I ",
+      "iso_3166_2": "SE-I ",
+      "name": "Gotlands län",
+      "name_short": "Gotland",
+      "slug": "gotland",
+      "capital": "Visby",
+      "num_kommuner": 1
+    },
+    {
+      "lanskod": "10",
+      "lansbokstav": "K ",
+      "iso_3166_2": "SE-K ",
+      "name": "Blekinge län",
+      "name_short": "Blekinge",
+      "slug": "blekinge",
+      "capital": "Karlskrona",
+      "num_kommuner": 5
+    },
+    {
+      "lanskod": "12",
+      "lansbokstav": "M ",
+      "iso_3166_2": "SE-M ",
+      "name": "Skåne län",
+      "name_short": "Skåne",
+      "slug": "skane",
+      "capital": "Malmö",
+      "num_kommuner": 33
+    },
+    {
+      "lanskod": "13",
+      "lansbokstav": "N ",
+      "iso_3166_2": "SE-N ",
+      "name": "Hallands län",
+      "name_short": "Halland",
+      "slug": "halland",
+      "capital": "Halmstad",
+      "num_kommuner": 6
+    },
+    {
+      "lanskod": "14",
+      "lansbokstav": "O ",
+      "iso_3166_2": "SE-O ",
+      "name": "Västra Götalands län",
+      "name_short": "Västra Götaland",
+      "slug": "vastra-gotaland",
+      "capital": "Göteborg",
+      "num_kommuner": 49
+    },
+    {
+      "lanskod": "17",
+      "lansbokstav": "S ",
+      "iso_3166_2": "SE-S ",
+      "name": "Värmlands län",
+      "name_short": "Värmland",
+      "slug": "varmland",
+      "capital": "Karlstad",
+      "num_kommuner": 16
+    },
+    {
+      "lanskod": "18",
+      "lansbokstav": "T ",
+      "iso_3166_2": "SE-T ",
+      "name": "Örebro län",
+      "name_short": "Örebro",
+      "slug": "orebro",
+      "capital": "Örebro",
+      "num_kommuner": 12
+    },
+    {
+      "lanskod": "19",
+      "lansbokstav": "U ",
+      "iso_3166_2": "SE-U ",
+      "name": "Västmanlands län",
+      "name_short": "Västmanland",
+      "slug": "vastmanland",
+      "capital": "Västerås",
+      "num_kommuner": 10
+    },
+    {
+      "lanskod": "20",
+      "lansbokstav": "W ",
+      "iso_3166_2": "SE-W ",
+      "name": "Dalarnas län",
+      "name_short": "Dalarna",
+      "slug": "dalarna",
+      "capital": "Falun",
+      "num_kommuner": 15
+    },
+    {
+      "lanskod": "21",
+      "lansbokstav": "X ",
+      "iso_3166_2": "SE-X ",
+      "name": "Gävleborgs län",
+      "name_short": "Gävleborg",
+      "slug": "gavleborg",
+      "capital": "Gävle",
+      "num_kommuner": 10
+    },
+    {
+      "lanskod": "22",
+      "lansbokstav": "Y ",
+      "iso_3166_2": "SE-Y ",
+      "name": "Västernorrlands län",
+      "name_short": "Västernorrland",
+      "slug": "vasternorrland",
+      "capital": "Härnösand",
+      "num_kommuner": 7
+    },
+    {
+      "lanskod": "23",
+      "lansbokstav": "Z ",
+      "iso_3166_2": "SE-Z ",
+      "name": "Jämtlands län",
+      "name_short": "Jämtland",
+      "slug": "jamtland",
+      "capital": "Östersund",
+      "num_kommuner": 8
+    },
+    {
+      "lanskod": "24",
+      "lansbokstav": "AC",
+      "iso_3166_2": "SE-AC",
+      "name": "Västerbottens län",
+      "name_short": "Västerbotten",
+      "slug": "vasterbotten",
+      "capital": "Umeå",
+      "num_kommuner": 15
+    },
+    {
+      "lanskod": "25",
+      "lansbokstav": "BD",
+      "iso_3166_2": "SE-BD",
+      "name": "Norrbottens län",
+      "name_short": "Norrbotten",
+      "slug": "norrbotten",
+      "capital": "Luleå",
+      "num_kommuner": 14
+    }
+  ],
+  "meta": {
+    "title": "Sveriges län - Gratis nedladdning",
+    "description": "21 svenska län (counties) med länskod, länsbokstav, ISO 3166-2:SE, namn, residensstad och antal kommuner. Officiella SCB / Lantmäteriet-koder från Sveriges geografiska indelning. Källa: GioPalusa/SwedenGeoJSON (CC0-1.0). Innehåller 21 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Sveriges län | ListBase",
+    "seo_description": "Ladda ner Sveriges län — 21 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 21 poster / 8 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "sv-kronoberg-kommuner",
+  "name": "Kommuner i Kronobergs län",
+  "title": "Kommuner i Kronobergs län",
+  "description": "8 kommuner i Kronobergs län (länskod 07, ISO SE-G , residensstad Växjö). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "0760",
+      "name": "Uppvidinge kommun",
+      "name_short": "Uppvidinge",
+      "slug": "uppvidinge",
+      "locality": "ÅSEDA",
+      "url": "http://www.uppvidinge.se",
+      "num_postnummer": 53
+    },
+    {
+      "kommunkod": "0761",
+      "name": "Lessebo kommun",
+      "name_short": "Lessebo",
+      "slug": "lessebo",
+      "locality": "LESSEBO",
+      "url": "http://www.lessebo.se",
+      "num_postnummer": 43
+    },
+    {
+      "kommunkod": "0763",
+      "name": "Tingsryds kommun",
+      "name_short": "Tingsryd",
+      "slug": "tingsryd",
+      "locality": "TINGSRYD",
+      "url": "http://www.tingsryd.se",
+      "num_postnummer": 175
+    },
+    {
+      "kommunkod": "0764",
+      "name": "Alvesta kommun",
+      "name_short": "Alvesta",
+      "slug": "alvesta",
+      "locality": "ALVESTA",
+      "url": "http://www.alvesta.se",
+      "num_postnummer": 172
+    },
+    {
+      "kommunkod": "0765",
+      "name": "Älmhults kommun",
+      "name_short": "Älmhult",
+      "slug": "almhult",
+      "locality": "ÄLMHULT",
+      "url": "http://www.almhult.se",
+      "num_postnummer": 164
+    },
+    {
+      "kommunkod": "0767",
+      "name": "Markaryds kommun",
+      "name_short": "Markaryd",
+      "slug": "markaryd",
+      "locality": "MARKARYD",
+      "url": "http://www.markaryd.se",
+      "num_postnummer": 50
+    },
+    {
+      "kommunkod": "0780",
+      "name": "Växjö kommun",
+      "name_short": "Växjö",
+      "slug": "vaxjo",
+      "locality": "VÄXJÖ",
+      "url": "http://www.vaxjo.se",
+      "num_postnummer": 176
+    },
+    {
+      "kommunkod": "0781",
+      "name": "Ljungby kommun",
+      "name_short": "Ljungby",
+      "slug": "ljungby",
+      "locality": "LJUNGBY",
+      "url": "http://www.ljungby.se",
+      "num_postnummer": 195
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Kronobergs län - Gratis nedladdning",
+    "description": "8 kommuner i Kronobergs län (länskod 07, ISO SE-G , residensstad Växjö). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 8 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Kronobergs län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Kronobergs län — 8 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 8 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,1416 @@
+{
+  "id": "sv-dalarna-valdistrikt-2022",
+  "name": "Valdistrikt i Dalarnas län (val 2022)",
+  "title": "Valdistrikt i Dalarnas län (val 2022)",
+  "description": "170 valdistrikt i Dalarnas län (länskod 20) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 170,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "20210101",
+      "valdistrikt_namn": "Vansbro",
+      "kommun_kod": "2021",
+      "kommun_namn": "Vansbro",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20210103",
+      "valdistrikt_namn": "Järna",
+      "kommun_kod": "2021",
+      "kommun_namn": "Vansbro",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20210301",
+      "valdistrikt_namn": "Nås",
+      "kommun_kod": "2021",
+      "kommun_namn": "Vansbro",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20210401",
+      "valdistrikt_namn": "Äppelbo",
+      "kommun_kod": "2021",
+      "kommun_namn": "Vansbro",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20230203",
+      "valdistrikt_namn": "Malung S",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20230205",
+      "valdistrikt_namn": "Malung V",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20230206",
+      "valdistrikt_namn": "Malungsfors",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20230210",
+      "valdistrikt_namn": "Yttermalung",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20230213",
+      "valdistrikt_namn": "Malung Ö",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20230301",
+      "valdistrikt_namn": "Lima",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20230502",
+      "valdistrikt_namn": "Transtrand",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20260105",
+      "valdistrikt_namn": "Mockfjärd",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20260201",
+      "valdistrikt_namn": "Gagnefs 1",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20260202",
+      "valdistrikt_namn": "Gagnefs 2",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20260203",
+      "valdistrikt_namn": "Gagnefs 3",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20260204",
+      "valdistrikt_namn": "Gagnefs 4",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20260301",
+      "valdistrikt_namn": "Floda",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20260302",
+      "valdistrikt_namn": "Björbo",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20290102",
+      "valdistrikt_namn": "Edshult - Åkerö - Övermo mfl",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20290103",
+      "valdistrikt_namn": "Häradsbygden - Heden - Djura mfl",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20290104",
+      "valdistrikt_namn": "Leksandsnoret",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20290106",
+      "valdistrikt_namn": "Leksand Ö",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20290108",
+      "valdistrikt_namn": "Tällberg mfl",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20290110",
+      "valdistrikt_namn": "Leksand V",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20290301",
+      "valdistrikt_namn": "Insjön Ö",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20290311",
+      "valdistrikt_namn": "Insjön V - Ål-Kilen",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20290401",
+      "valdistrikt_namn": "Siljansnäs",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20310101",
+      "valdistrikt_namn": "Rättvik C",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20310102",
+      "valdistrikt_namn": "Rättvik S",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20310104",
+      "valdistrikt_namn": "Vikarbyn",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20310105",
+      "valdistrikt_namn": "Boda-Gärdsjö",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20310106",
+      "valdistrikt_namn": "Rättvik V",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20310401",
+      "valdistrikt_namn": "Ore",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20340201",
+      "valdistrikt_namn": "Orsa Mellersta",
+      "kommun_kod": "2034",
+      "kommun_namn": "Orsa",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20340202",
+      "valdistrikt_namn": "Skattungbyn-Kallmora",
+      "kommun_kod": "2034",
+      "kommun_namn": "Orsa",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20340203",
+      "valdistrikt_namn": "Orsa Södra",
+      "kommun_kod": "2034",
+      "kommun_namn": "Orsa",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20340204",
+      "valdistrikt_namn": "Orsa Västra",
+      "kommun_kod": "2034",
+      "kommun_namn": "Orsa",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20340206",
+      "valdistrikt_namn": "Orsa Östra",
+      "kommun_kod": "2034",
+      "kommun_namn": "Orsa",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20390206",
+      "valdistrikt_namn": "Kyrkbyn",
+      "kommun_kod": "2039",
+      "kommun_namn": "Älvdalen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20390209",
+      "valdistrikt_namn": "Rot",
+      "kommun_kod": "2039",
+      "kommun_namn": "Älvdalen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20390210",
+      "valdistrikt_namn": "Väster-Myckeläng",
+      "kommun_kod": "2039",
+      "kommun_namn": "Älvdalen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20390211",
+      "valdistrikt_namn": "Åsen",
+      "kommun_kod": "2039",
+      "kommun_namn": "Älvdalen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20390401",
+      "valdistrikt_namn": "Särna",
+      "kommun_kod": "2039",
+      "kommun_namn": "Älvdalen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20390501",
+      "valdistrikt_namn": "Idre",
+      "kommun_kod": "2039",
+      "kommun_namn": "Älvdalen",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20610101",
+      "valdistrikt_namn": "Morgårdshammar-Gubbo",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20610103",
+      "valdistrikt_namn": "Hagge-Harnäs m.fl.",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20610105",
+      "valdistrikt_namn": "Smedjebacken N",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20610106",
+      "valdistrikt_namn": "Smedjebacken S",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20610108",
+      "valdistrikt_namn": "Smedjebacken C",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20610201",
+      "valdistrikt_namn": "Söderbärke-Malingsbo",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20610205",
+      "valdistrikt_namn": "Sörbo-Vad",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620103",
+      "valdistrikt_namn": "Färnäs-Nusnäs-Garsås",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620107",
+      "valdistrikt_namn": "Noret Norra-Bergkarlås",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620110",
+      "valdistrikt_namn": "Stranden",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620111",
+      "valdistrikt_namn": "Vika-Venjan-Selbäck",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620114",
+      "valdistrikt_namn": "Morkarlby",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620115",
+      "valdistrikt_namn": "Noret Södra",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620116",
+      "valdistrikt_namn": "Öna-Kråkberg",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620117",
+      "valdistrikt_namn": "Utmeland-Hånåkni",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620118",
+      "valdistrikt_namn": "Klockarhagen",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620201",
+      "valdistrikt_namn": "Våmhus-Bonäs",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620202",
+      "valdistrikt_namn": "Östnor-Hemus-Långlet-Oxberg",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20620301",
+      "valdistrikt_namn": "Sollerö-Isunda",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800101",
+      "valdistrikt_namn": "Källviken och V Främby",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800102",
+      "valdistrikt_namn": "Kvarnberget och Ö Främby",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800103",
+      "valdistrikt_namn": "Elsborg",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800104",
+      "valdistrikt_namn": "Hyttgården",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800105",
+      "valdistrikt_namn": "Kämparvet",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800106",
+      "valdistrikt_namn": "Nedre Norslund",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800107",
+      "valdistrikt_namn": "Övre Norslund",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800109",
+      "valdistrikt_namn": "Hälsingberg",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800110",
+      "valdistrikt_namn": "Gruvriset",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800111",
+      "valdistrikt_namn": "Kristine",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800112",
+      "valdistrikt_namn": "Pilbo-Samuelsdal",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800210",
+      "valdistrikt_namn": "Grycksbo",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800301",
+      "valdistrikt_namn": "Gruvan",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800303",
+      "valdistrikt_namn": "Herrhagen",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800304",
+      "valdistrikt_namn": "Ångbryggeriet",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800306",
+      "valdistrikt_namn": "Bojsenburg",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800307",
+      "valdistrikt_namn": "Kyrkbacken",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800308",
+      "valdistrikt_namn": "Lugnet",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800309",
+      "valdistrikt_namn": "Slätta",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800311",
+      "valdistrikt_namn": "Östanfors",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800401",
+      "valdistrikt_namn": "Aspeboda",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800501",
+      "valdistrikt_namn": "Vika",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800601",
+      "valdistrikt_namn": "Hosjö Näs",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800602",
+      "valdistrikt_namn": "Hosjö Sandviken",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800701",
+      "valdistrikt_namn": "Sundbornsbyn",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800702",
+      "valdistrikt_namn": "Danholn och Karlsbyheden",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800801",
+      "valdistrikt_namn": "Linghed",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800802",
+      "valdistrikt_namn": "Boda och Toftbyn",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800803",
+      "valdistrikt_namn": "Borgärdet och Lumsheden",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800935",
+      "valdistrikt_namn": "Haraldsbo",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20800980",
+      "valdistrikt_namn": "Hälsinggården",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20801001",
+      "valdistrikt_namn": "Enviken",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20801060",
+      "valdistrikt_namn": "Britsarvet",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20801101",
+      "valdistrikt_namn": "Bjursås Ö och Sågmyra",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20801102",
+      "valdistrikt_namn": "Bjursås V",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20801138",
+      "valdistrikt_namn": "Karlberg",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20801140",
+      "valdistrikt_namn": "Stenslund",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20801154",
+      "valdistrikt_namn": "Varpan",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810101",
+      "valdistrikt_namn": "Bergslagsbyn",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810103",
+      "valdistrikt_namn": "Bullermyren",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810105",
+      "valdistrikt_namn": "Hagalund N",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810107",
+      "valdistrikt_namn": "Hagalund V",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810109",
+      "valdistrikt_namn": "Hagalund Ö - Ringen",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810111",
+      "valdistrikt_namn": "Jakobsgårdarna",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810113",
+      "valdistrikt_namn": "Kvarnsveden V",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810114",
+      "valdistrikt_namn": "Kvarnsveden Södra",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810115",
+      "valdistrikt_namn": "Kvarnsveden Ö",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810117",
+      "valdistrikt_namn": "Mats Knuts - Nygårdarna",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810119",
+      "valdistrikt_namn": "Norr Amsberg",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810121",
+      "valdistrikt_namn": "Skräddarbacken",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810123",
+      "valdistrikt_namn": "Tjärna Ängar - Paradiset",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810124",
+      "valdistrikt_namn": "Tjärna Allé",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810125",
+      "valdistrikt_namn": "Tjärna Ängar - Övre Tjärna",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810201",
+      "valdistrikt_namn": "Centrum - Norra",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810202",
+      "valdistrikt_namn": "Centrum - Mjälga",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810203",
+      "valdistrikt_namn": "Domnarvet V",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810205",
+      "valdistrikt_namn": "Domnarvet Ö",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810207",
+      "valdistrikt_namn": "Färjegårdarna - Årby - Hytting",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810209",
+      "valdistrikt_namn": "Gylletäppan",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810211",
+      "valdistrikt_namn": "Gylle-Åselby-Buskåker",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810213",
+      "valdistrikt_namn": "Hushagen - Forssa",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810215",
+      "valdistrikt_namn": "Kyrkbygden - Söder Tuna",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810217",
+      "valdistrikt_namn": "Ornäs",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810219",
+      "valdistrikt_namn": "Torsång",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810221",
+      "valdistrikt_namn": "Väster Tuna - Idkerberget",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20810223",
+      "valdistrikt_namn": "Östermalm",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20820101",
+      "valdistrikt_namn": "Säter 1",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20820102",
+      "valdistrikt_namn": "Säter 2",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20820103",
+      "valdistrikt_namn": "Säter 3",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20820207",
+      "valdistrikt_namn": "Stora Skedvi",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20820304",
+      "valdistrikt_namn": "Gustafs N",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20820406",
+      "valdistrikt_namn": "Gustafs S",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20830101",
+      "valdistrikt_namn": "Hedemora SV",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20830102",
+      "valdistrikt_namn": "Hedemora NÖ",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20830103",
+      "valdistrikt_namn": "Hedemora NV",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20830104",
+      "valdistrikt_namn": "Hedemora SÖ",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20830105",
+      "valdistrikt_namn": "Vikmanshyttan",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20830206",
+      "valdistrikt_namn": "Garpenberg",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20830307",
+      "valdistrikt_namn": "Husby",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20830308",
+      "valdistrikt_namn": "Långshyttan",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840101",
+      "valdistrikt_namn": "Avesta N-Högbo",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840102",
+      "valdistrikt_namn": "Avesta C",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840103",
+      "valdistrikt_namn": "Avesta V-Bengtsbo-Nyhyttan",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840104",
+      "valdistrikt_namn": "Avesta S",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840301",
+      "valdistrikt_namn": "Horndal",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840302",
+      "valdistrikt_namn": "By",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840401",
+      "valdistrikt_namn": "Folkärna",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840402",
+      "valdistrikt_namn": "Fors",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840403",
+      "valdistrikt_namn": "Krylbo",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840404",
+      "valdistrikt_namn": "Karlbo",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840601",
+      "valdistrikt_namn": "Skogsbo N-Rutbo-Grytnäs",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20840602",
+      "valdistrikt_namn": "Skogsbo C-Grytnäs gärde",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850101",
+      "valdistrikt_namn": "Ludvika Ulrika",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850102",
+      "valdistrikt_namn": "Marnäs",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850103",
+      "valdistrikt_namn": "Magneten",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850104",
+      "valdistrikt_namn": "Högberget",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850105",
+      "valdistrikt_namn": "Sörvik-Håksberg",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850108",
+      "valdistrikt_namn": "Blötberget-Gonäs",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850110",
+      "valdistrikt_namn": "Lorentsberga",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850111",
+      "valdistrikt_namn": "Näset",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850113",
+      "valdistrikt_namn": "Ludvika gård",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850114",
+      "valdistrikt_namn": "Knutsbo",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850203",
+      "valdistrikt_namn": "Björkås-Stallbacken",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850204",
+      "valdistrikt_namn": "Öraberget",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850307",
+      "valdistrikt_namn": "Kyrkbyn-Nyhammar",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850311",
+      "valdistrikt_namn": "Sunnansjö-Saxdalen",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    },
+    {
+      "valdistrikt_kod": "20850401",
+      "valdistrikt_namn": "Fredriksberg",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20",
+      "lan_namn": "Dalarnas län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Dalarnas län (val 2022) - Gratis nedladdning",
+    "description": "170 valdistrikt i Dalarnas län (länskod 20) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 170 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Dalarnas län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Dalarnas län (val 2022) — 170 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 170 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

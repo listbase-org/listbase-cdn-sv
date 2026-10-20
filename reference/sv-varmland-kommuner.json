@@ -1,0 +1,205 @@
+{
+  "id": "sv-varmland-kommuner",
+  "name": "Kommuner i Värmlands län",
+  "title": "Kommuner i Värmlands län",
+  "description": "16 kommuner i Värmlands län (länskod 17, ISO SE-S , residensstad Karlstad). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "1715",
+      "name": "Kils kommun",
+      "name_short": "Kil",
+      "slug": "kil",
+      "locality": "KIL",
+      "url": "http://www.kil.se",
+      "num_postnummer": 179
+    },
+    {
+      "kommunkod": "1730",
+      "name": "Eda kommun",
+      "name_short": "Eda",
+      "slug": "eda",
+      "locality": "CHARLOTTENBERG",
+      "url": "http://www.eda.se",
+      "num_postnummer": 63
+    },
+    {
+      "kommunkod": "1737",
+      "name": "Torsby kommun",
+      "name_short": "Torsby",
+      "slug": "torsby",
+      "locality": "TORSBY",
+      "url": "http://www.torsby.se",
+      "num_postnummer": 70
+    },
+    {
+      "kommunkod": "1760",
+      "name": "Storfors kommun",
+      "name_short": "Storfors",
+      "slug": "storfors",
+      "locality": "STORFORS",
+      "url": "http://www.storfors.se",
+      "num_postnummer": 115
+    },
+    {
+      "kommunkod": "1761",
+      "name": "Hammarö kommun",
+      "name_short": "Hammarö",
+      "slug": "hammaro",
+      "locality": "SKOGHALL",
+      "url": "http://www.hammaro.se",
+      "num_postnummer": 212
+    },
+    {
+      "kommunkod": "1762",
+      "name": "Munkfors kommun",
+      "name_short": "Munkfors",
+      "slug": "munkfors",
+      "locality": "MUNKFORS",
+      "url": "http://www.munkfors.se",
+      "num_postnummer": 35
+    },
+    {
+      "kommunkod": "1763",
+      "name": "Forshaga kommun",
+      "name_short": "Forshaga",
+      "slug": "forshaga",
+      "locality": "FORSHAGA",
+      "url": "http://www.forshaga.se",
+      "num_postnummer": 171
+    },
+    {
+      "kommunkod": "1764",
+      "name": "Grums kommun",
+      "name_short": "Grums",
+      "slug": "grums",
+      "locality": "GRUMS",
+      "url": "http://www.grums.se",
+      "num_postnummer": 66
+    },
+    {
+      "kommunkod": "1765",
+      "name": "Årjängs kommun",
+      "name_short": "Årjäng",
+      "slug": "arjang",
+      "locality": "ÅRJÄNG",
+      "url": "http://www.arjang.se",
+      "num_postnummer": 63
+    },
+    {
+      "kommunkod": "1766",
+      "name": "Sunne kommun",
+      "name_short": "Sunne",
+      "slug": "sunne",
+      "locality": "SUNNE",
+      "url": "http://www.sunne.se",
+      "num_postnummer": 77
+    },
+    {
+      "kommunkod": "1780",
+      "name": "Karlstads kommun",
+      "name_short": "Karlstad",
+      "slug": "karlstad",
+      "locality": "KARLSTAD",
+      "url": "http://www.karlstad.se",
+      "num_postnummer": 297
+    },
+    {
+      "kommunkod": "1781",
+      "name": "Kristinehamns kommun",
+      "name_short": "Kristinehamn",
+      "slug": "kristinehamn",
+      "locality": "KRISTINEHAMN",
+      "url": "http://www.kristinehamn.se",
+      "num_postnummer": 140
+    },
+    {
+      "kommunkod": "1782",
+      "name": "Filipstads kommun",
+      "name_short": "Filipstad",
+      "slug": "filipstad",
+      "locality": "FILIPSTAD",
+      "url": "http://www.filipstad.se",
+      "num_postnummer": 82
+    },
+    {
+      "kommunkod": "1783",
+      "name": "Hagfors kommun",
+      "name_short": "Hagfors",
+      "slug": "hagfors",
+      "locality": "HAGFORS",
+      "url": "http://www.hagfors.se",
+      "num_postnummer": 128
+    },
+    {
+      "kommunkod": "1784",
+      "name": "Arvika kommun",
+      "name_short": "Arvika",
+      "slug": "arvika",
+      "locality": "ARVIKA",
+      "url": "http://www.arvika.se",
+      "num_postnummer": 102
+    },
+    {
+      "kommunkod": "1785",
+      "name": "Säffle kommun",
+      "name_short": "Säffle",
+      "slug": "saffle",
+      "locality": "SÄFFLE",
+      "url": "http://www.saffle.se",
+      "num_postnummer": 126
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Värmlands län - Gratis nedladdning",
+    "description": "16 kommuner i Värmlands län (länskod 17, ISO SE-S , residensstad Karlstad). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 16 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Värmlands län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Värmlands län — 16 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 16 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

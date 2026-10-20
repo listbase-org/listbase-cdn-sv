@@ -1,0 +1,736 @@
+{
+  "id": "sv-jamtland-valdistrikt-2022",
+  "name": "Valdistrikt i Jämtlands län (val 2022)",
+  "title": "Valdistrikt i Jämtlands län (val 2022)",
+  "description": "85 valdistrikt i Jämtlands län (länskod 23) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "23030101",
+      "valdistrikt_namn": "Döviken",
+      "kommun_kod": "2303",
+      "kommun_namn": "Ragunda",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23030103",
+      "valdistrikt_namn": "Hammaren",
+      "kommun_kod": "2303",
+      "kommun_namn": "Ragunda",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23030205",
+      "valdistrikt_namn": "Fors",
+      "kommun_kod": "2303",
+      "kommun_namn": "Ragunda",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23030409",
+      "valdistrikt_namn": "Stugubyn",
+      "kommun_kod": "2303",
+      "kommun_namn": "Ragunda",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23050101",
+      "valdistrikt_namn": "Bräcke-Bodsjö",
+      "kommun_kod": "2305",
+      "kommun_namn": "Bräcke",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23050404",
+      "valdistrikt_namn": "Kälarne",
+      "kommun_kod": "2305",
+      "kommun_namn": "Bräcke",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23050612",
+      "valdistrikt_namn": "Gällö-Sundsjö-Pilgrimstad",
+      "kommun_kod": "2305",
+      "kommun_namn": "Bräcke",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23090101",
+      "valdistrikt_namn": "Krokom",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23090102",
+      "valdistrikt_namn": "Rödöbygden",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23090103",
+      "valdistrikt_namn": "Dvärsätt",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23090206",
+      "valdistrikt_namn": "Nälden",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23090305",
+      "valdistrikt_namn": "Aspås",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23090408",
+      "valdistrikt_namn": "Ås Södra",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23090409",
+      "valdistrikt_namn": "Ås Norra",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23090611",
+      "valdistrikt_namn": "Föllinge-Laxsjö-Hotagen",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23090815",
+      "valdistrikt_namn": "Offerdalsbygden",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23091017",
+      "valdistrikt_namn": "Alsenbygden",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23130101",
+      "valdistrikt_namn": "Östra Bredgård",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23130102",
+      "valdistrikt_namn": "Strömsund",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23130103",
+      "valdistrikt_namn": "Västra Bredgård",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23130108",
+      "valdistrikt_namn": "Näsviken",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23130418",
+      "valdistrikt_namn": "Hammerdal",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23130528",
+      "valdistrikt_namn": "Gäddede",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23130632",
+      "valdistrikt_namn": "Backe",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23130835",
+      "valdistrikt_namn": "Hoting",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23130836",
+      "valdistrikt_namn": "Kyrktåsjö-Norråker",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23210101",
+      "valdistrikt_namn": "Duved-Storlien",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23210106",
+      "valdistrikt_namn": "Åre",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23210207",
+      "valdistrikt_namn": "Mattmar",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23210308",
+      "valdistrikt_namn": "Mörsil",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23210410",
+      "valdistrikt_namn": "Kall",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23210513",
+      "valdistrikt_namn": "Järpen",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23210514",
+      "valdistrikt_namn": "Undersåker",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23210616",
+      "valdistrikt_namn": "Hallen-Marby",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23260102",
+      "valdistrikt_namn": "Svenstavik-Vigge-Gillhov",
+      "kommun_kod": "2326",
+      "kommun_namn": "Berg",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23260207",
+      "valdistrikt_namn": "Hackås",
+      "kommun_kod": "2326",
+      "kommun_namn": "Berg",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23260308",
+      "valdistrikt_namn": "Oviksbygden",
+      "kommun_kod": "2326",
+      "kommun_namn": "Berg",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23260614",
+      "valdistrikt_namn": "Storsjö-Åsarna",
+      "kommun_kod": "2326",
+      "kommun_namn": "Berg",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23260817",
+      "valdistrikt_namn": "Klövsjö-Rätan",
+      "kommun_kod": "2326",
+      "kommun_namn": "Berg",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23610101",
+      "valdistrikt_namn": "Sveg-Glöte",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23610102",
+      "valdistrikt_namn": "Sveg-Ytterhogdal",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23610119",
+      "valdistrikt_namn": "Lillhärdal-Ängersjö",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23610509",
+      "valdistrikt_namn": "Hede-Vemdalen",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23610712",
+      "valdistrikt_namn": "Funäsdalen",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800101",
+      "valdistrikt_namn": "Sjukhusområdet",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800102",
+      "valdistrikt_namn": "Östersund övre centrum",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800103",
+      "valdistrikt_namn": "Östersund nedre centrum",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800104",
+      "valdistrikt_namn": "Universitetet",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800105",
+      "valdistrikt_namn": "Norra Odenslund",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800106",
+      "valdistrikt_namn": "Söder",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800107",
+      "valdistrikt_namn": "Erikslund-Övre Blomängen",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800108",
+      "valdistrikt_namn": "Karlslund",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800109",
+      "valdistrikt_namn": "Eriksberg-Solliden-Fyrvalla",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800110",
+      "valdistrikt_namn": "Brittsbo-Lugnviksstrand",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800111",
+      "valdistrikt_namn": "Körfältet",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800112",
+      "valdistrikt_namn": "Nedre Blomängen",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800113",
+      "valdistrikt_namn": "Södra Odenslund",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800114",
+      "valdistrikt_namn": "Storsjöstrand-Odensvik-Fagervallen",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800115",
+      "valdistrikt_namn": "Marielund-Odenskog",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800116",
+      "valdistrikt_namn": "Odensala Tavelbäcken",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800118",
+      "valdistrikt_namn": "Odensala Övre",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800119",
+      "valdistrikt_namn": "Odensala Nedre",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800120",
+      "valdistrikt_namn": "Lugnviks Centrum",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800121",
+      "valdistrikt_namn": "Norr",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800225",
+      "valdistrikt_namn": "Hornsberg Nedre",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800226",
+      "valdistrikt_namn": "Hornsberg Övre",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800227",
+      "valdistrikt_namn": "Östberg",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800228",
+      "valdistrikt_namn": "Frösödal",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800229",
+      "valdistrikt_namn": "Norra Frösön-Lövsta",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800230",
+      "valdistrikt_namn": "Västra Frösön",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800232",
+      "valdistrikt_namn": "Södra Valla-Mjälle",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800538",
+      "valdistrikt_namn": "Fåker-Tandsbyn med landsbygd",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800639",
+      "valdistrikt_namn": "Marieby med landsbygd",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800640",
+      "valdistrikt_namn": "Orrviken med landsbygd",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800740",
+      "valdistrikt_namn": "Brunflo Södergård",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800741",
+      "valdistrikt_namn": "Brunflo Storviken",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800743",
+      "valdistrikt_namn": "Brunflo Änge",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800749",
+      "valdistrikt_namn": "Torvalla Fjällmon",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800751",
+      "valdistrikt_namn": "Torvalla Centrum",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800752",
+      "valdistrikt_namn": "Torvalla Skogsmon",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800753",
+      "valdistrikt_namn": "Torvalla Ängsmon",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800754",
+      "valdistrikt_namn": "Torvalla By-Ope",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800945",
+      "valdistrikt_namn": "Centrala Lit",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23800946",
+      "valdistrikt_namn": "Lit med landsbygd",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    },
+    {
+      "valdistrikt_kod": "23801047",
+      "valdistrikt_namn": "Häggenås med landsbygd",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23",
+      "lan_namn": "Jämtlands län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Jämtlands län (val 2022) - Gratis nedladdning",
+    "description": "85 valdistrikt i Jämtlands län (länskod 23) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 85 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Jämtlands län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Jämtlands län (val 2022) — 85 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 85 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

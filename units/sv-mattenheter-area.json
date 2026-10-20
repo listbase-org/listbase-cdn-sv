@@ -1,0 +1,178 @@
+{
+  "id": "sv-mattenheter-area",
+  "name": "Måttenheter – kategori 'area' (13)",
+  "title": "Måttenheter – kategori 'area' (13)",
+  "description": "Måttenheter i kategorin 'area' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "area-acre",
+      "kategori": "area",
+      "namn": "engelska tunnland",
+      "forkortning": "eng. tunnland",
+      "smal_form": "eng. tunnland",
+      "monster": "{0} engelska tunnland"
+    },
+    {
+      "id": 2,
+      "unit_code": "area-bu-jp",
+      "kategori": "area",
+      "namn": "bu [JP]",
+      "forkortning": "bu [JP]",
+      "smal_form": "bu [JP]",
+      "monster": "{0} bu [JP]"
+    },
+    {
+      "id": 3,
+      "unit_code": "area-cho",
+      "kategori": "area",
+      "namn": "cho [JP]",
+      "forkortning": "cho [JP]",
+      "smal_form": "cho [JP]",
+      "monster": "{0} cho [JP]"
+    },
+    {
+      "id": 4,
+      "unit_code": "area-dunam",
+      "kategori": "area",
+      "namn": "dunam",
+      "forkortning": "dunam",
+      "smal_form": "dunam",
+      "monster": "{0} dunam"
+    },
+    {
+      "id": 5,
+      "unit_code": "area-hectare",
+      "kategori": "area",
+      "namn": "hektar",
+      "forkortning": "hektar",
+      "smal_form": "ha",
+      "monster": "{0} hektar"
+    },
+    {
+      "id": 6,
+      "unit_code": "area-se-jp",
+      "kategori": "area",
+      "namn": "se [JP]",
+      "forkortning": "se [JP]",
+      "smal_form": "se [JP]",
+      "monster": "{0} se [JP]"
+    },
+    {
+      "id": 7,
+      "unit_code": "area-square-centimeter",
+      "kategori": "area",
+      "namn": "kvadratcentimeter",
+      "forkortning": "cm²",
+      "smal_form": "cm²",
+      "monster": "{0} kvadratcentimeter"
+    },
+    {
+      "id": 8,
+      "unit_code": "area-square-foot",
+      "kategori": "area",
+      "namn": "kvadratfot",
+      "forkortning": "kv.fot",
+      "smal_form": "fot²",
+      "monster": "{0} kvadratfot"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-square-inch",
+      "kategori": "area",
+      "namn": "kvadrattum",
+      "forkortning": "tum²",
+      "smal_form": "tum²",
+      "monster": "{0} kvadrattum"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-square-kilometer",
+      "kategori": "area",
+      "namn": "kvadratkilometer",
+      "forkortning": "km²",
+      "smal_form": "km²",
+      "monster": "{0} kvadratkilometer"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-square-meter",
+      "kategori": "area",
+      "namn": "kvadratmeter",
+      "forkortning": "m²",
+      "smal_form": "m²",
+      "monster": "{0} kvadratmeter"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-square-mile",
+      "kategori": "area",
+      "namn": "kvadratmile",
+      "forkortning": "kvadratmile",
+      "smal_form": "mi²",
+      "monster": "{0} kvadratmile"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-square-yard",
+      "kategori": "area",
+      "namn": "kvadratyard",
+      "forkortning": "yard²",
+      "smal_form": "yd²",
+      "monster": "{0} kvadratyard"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'area' (13) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'area' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 13 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'area' (13) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'area' (13) — 13 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 13 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

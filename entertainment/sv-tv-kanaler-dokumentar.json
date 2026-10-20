@@ -1,0 +1,346 @@
+{
+  "id": "sv-tv-kanaler-dokumentar",
+  "name": "Dokumentärkanaler (Documentary TV channels)",
+  "title": "Dokumentärkanaler (Documentary TV channels)",
+  "description": "Svenska TV-kanaler i kategorin \"documentary\" (Documentary) — 17 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "History.se",
+      "name": "History",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "1997-09-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.historytv.se/"
+    },
+    {
+      "id": 2,
+      "channel_id": "InvestigationDiscovery.se",
+      "name": "Investigation Discovery",
+      "alt_names": "",
+      "network": "",
+      "owners": "Warner Bros. Discovery EMEA",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "2015-02-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.dplay.se/kanaler/id"
+    },
+    {
+      "id": 3,
+      "channel_id": "NationalGeographic.se",
+      "name": "National Geographic",
+      "alt_names": "",
+      "network": "",
+      "owners": "The Walt Disney Company Nordic",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "1997-09-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.natgeotv.com/se"
+    },
+    {
+      "id": 4,
+      "channel_id": "NationalGeographicWild.se",
+      "name": "National Geographic Wild",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.natgeotv.com/se"
+    },
+    {
+      "id": 5,
+      "channel_id": "PlutoTVAlienInvasion.se",
+      "name": "Pluto TV Alien Invasion",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-alien-invasion-dk/details"
+    },
+    {
+      "id": 6,
+      "channel_id": "PlutoTVDokkarit.se",
+      "name": "Pluto TV Dokkarit",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-dokkarit-fi/details"
+    },
+    {
+      "id": 7,
+      "channel_id": "PlutoTVDokumentar.se",
+      "name": "Pluto TV Dokumentar",
+      "alt_names": "Pluto TV Dokumentär",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-dokumentar-dk/details"
+    },
+    {
+      "id": 8,
+      "channel_id": "PlutoTVMaailmansodat.se",
+      "name": "Pluto TV Maailmansodat",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-maailmansodat-fi/details"
+    },
+    {
+      "id": 9,
+      "channel_id": "PlutoTVSpace.se",
+      "name": "Pluto TV Space",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-space-dk/details"
+    },
+    {
+      "id": 10,
+      "channel_id": "PlutoTVTrueCrime.se",
+      "name": "Pluto TV True Crime",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "series, documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-true-crime-fi/details"
+    },
+    {
+      "id": 11,
+      "channel_id": "PlutoTVVarldskrigen.se",
+      "name": "Pluto TV Varldskrigen",
+      "alt_names": "Pluto TV Världskrigen",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-varldskrigen-se/details"
+    },
+    {
+      "id": 12,
+      "channel_id": "PlutoTVVerdenskrigene.se",
+      "name": "Pluto TV Verdenskrigene",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/pluto-tv-verdenskrigene-dk/details"
+    },
+    {
+      "id": 13,
+      "channel_id": "SmithsonianChannelSelects.se",
+      "name": "Smithsonian Channel Selects",
+      "alt_names": "",
+      "network": "Pluto TV",
+      "owners": "SNI/SI Networks L.L.C., Smithsonian Institution, Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/smithsonian-channel-selects-se-ptv1/details"
+    },
+    {
+      "id": 14,
+      "channel_id": "TV4Fakta.se",
+      "name": "TV4 Fakta",
+      "alt_names": "",
+      "network": "",
+      "owners": "TV4 Group",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "2005-09-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tv4fakta.se/"
+    },
+    {
+      "id": 15,
+      "channel_id": "ViasatExplore.se",
+      "name": "Viasat Explore",
+      "alt_names": "",
+      "network": "",
+      "owners": "Viasat World LTD",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "2002-01-06",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://viasatexplore.eu/"
+    },
+    {
+      "id": 16,
+      "channel_id": "ViasatHistory.se",
+      "name": "Viasat History",
+      "alt_names": "",
+      "network": "",
+      "owners": "Viasat World LTD",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "2004-11-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://viasathistory.eu/"
+    },
+    {
+      "id": 17,
+      "channel_id": "ViasatNature.se",
+      "name": "Viasat Nature",
+      "alt_names": "",
+      "network": "",
+      "owners": "Viasat World LTD",
+      "country": "SE",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "2002-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://viasatnature.eu/"
+    }
+  ],
+  "meta": {
+    "title": "Dokumentärkanaler (Documentary TV channels) - Gratis nedladdning",
+    "description": "Svenska TV-kanaler i kategorin \"documentary\" (Documentary) — 17 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats. Innehåller 17 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Dokumentärkanaler (Documentary TV channels) | ListBase",
+    "seo_description": "Ladda ner Dokumentärkanaler (Documentary TV channels) — 17 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 17 poster / 13 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

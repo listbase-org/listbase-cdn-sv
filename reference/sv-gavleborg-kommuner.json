@@ -1,0 +1,151 @@
+{
+  "id": "sv-gavleborg-kommuner",
+  "name": "Kommuner i Gävleborgs län",
+  "title": "Kommuner i Gävleborgs län",
+  "description": "10 kommuner i Gävleborgs län (länskod 21, ISO SE-X , residensstad Gävle). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "2101",
+      "name": "Ockelbo kommun",
+      "name_short": "Ockelbo",
+      "slug": "ockelbo",
+      "locality": "OCKELBO",
+      "url": "http://www.ockelbo.se",
+      "num_postnummer": 219
+    },
+    {
+      "kommunkod": "2104",
+      "name": "Hofors kommun",
+      "name_short": "Hofors",
+      "slug": "hofors",
+      "locality": "HOFORS",
+      "url": "http://www.hofors.se",
+      "num_postnummer": 46
+    },
+    {
+      "kommunkod": "2121",
+      "name": "Ovanåkers kommun",
+      "name_short": "Ovanåker",
+      "slug": "ovanaker",
+      "locality": "EDSBYN",
+      "url": "http://www.ovanaker.se",
+      "num_postnummer": 80
+    },
+    {
+      "kommunkod": "2132",
+      "name": "Nordanstigs kommun",
+      "name_short": "Nordanstig",
+      "slug": "nordanstig",
+      "locality": "BERGSJÖ",
+      "url": "http://www.nordanstig.se",
+      "num_postnummer": 100
+    },
+    {
+      "kommunkod": "2161",
+      "name": "Ljusdals kommun",
+      "name_short": "Ljusdal",
+      "slug": "ljusdal",
+      "locality": "LJUSDAL",
+      "url": "http://www.ljusdal.se",
+      "num_postnummer": 126
+    },
+    {
+      "kommunkod": "2180",
+      "name": "Gävle kommun",
+      "name_short": "Gävle",
+      "slug": "gavle",
+      "locality": "GÄVLE",
+      "url": "http://www.gavle.se",
+      "num_postnummer": 299
+    },
+    {
+      "kommunkod": "2181",
+      "name": "Sandvikens kommun",
+      "name_short": "Sandviken",
+      "slug": "sandviken",
+      "locality": "SANDVIKEN",
+      "url": "http://www.sandviken.se",
+      "num_postnummer": 281
+    },
+    {
+      "kommunkod": "2182",
+      "name": "Söderhamns kommun",
+      "name_short": "Söderhamn",
+      "slug": "soderhamn",
+      "locality": "SÖDERHAMN",
+      "url": "http://www.soderhamn.se",
+      "num_postnummer": 89
+    },
+    {
+      "kommunkod": "2183",
+      "name": "Bollnäs kommun",
+      "name_short": "Bollnäs",
+      "slug": "bollnas",
+      "locality": "BOLLNÄS",
+      "url": "http://www.bollnas.se",
+      "num_postnummer": 112
+    },
+    {
+      "kommunkod": "2184",
+      "name": "Hudiksvalls kommun",
+      "name_short": "Hudiksvall",
+      "slug": "hudiksvall",
+      "locality": "HUDIKSVALL",
+      "url": "http://www.hudiksvall.se",
+      "num_postnummer": 156
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Gävleborgs län - Gratis nedladdning",
+    "description": "10 kommuner i Gävleborgs län (länskod 21, ISO SE-X , residensstad Gävle). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 10 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Gävleborgs län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Gävleborgs län — 10 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 10 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

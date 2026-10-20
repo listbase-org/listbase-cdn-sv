@@ -1,0 +1,716 @@
+{
+  "id": "sv-halland-regso",
+  "name": "RegSO-områden i Hallands län",
+  "title": "RegSO-områden i Hallands län",
+  "description": "95 regionala statistikområden (RegSO) i Hallands län (länskod 13). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "1315R001",
+      "regso_namn": "Drängsered-Kinnared-Brännögård",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1315R002",
+      "regso_namn": "Hyltebruk norra",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1315R003",
+      "regso_namn": "Hyltebruk södra",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1315R004",
+      "regso_namn": "Långaryd-Landeryd",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1315R005",
+      "regso_namn": "Rydöbruk-Femsjö",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1315R006",
+      "regso_namn": "Torup",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1315R007",
+      "regso_namn": "Unnaryd-Jälluntofta",
+      "kommun_kod": "1315",
+      "kommun_namn": "Hylte",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R001",
+      "regso_namn": "Alet-Mickedala-Rotorp",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R002",
+      "regso_namn": "Andersberg",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R003",
+      "regso_namn": "Snöstorp-Brogård",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R004",
+      "regso_namn": "Bäckagård centrum",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R005",
+      "regso_namn": "Söndrum-Eketånga",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R006",
+      "regso_namn": "Eldsberga-Simlångsdalen-Skedala",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R007",
+      "regso_namn": "Engelbrekt-Östra Förstaden",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R008",
+      "regso_namn": "Frennarp-Kärleken-Galgberget östra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R009",
+      "regso_namn": "Frösakull-Tylösand-Villshärad",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R010",
+      "regso_namn": "Furet-Gamletull",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R011",
+      "regso_namn": "Fyllinge",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R012",
+      "regso_namn": "Getinge tätort",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R013",
+      "regso_namn": "Gullbrandstorp-Haverdal-Steninge",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R014",
+      "regso_namn": "Linehed norra-Gustavsfält",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R015",
+      "regso_namn": "Halmstad centrum västra-Galgberget västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R016",
+      "regso_namn": "Halmstad centrum östra-Nyatorp västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R017",
+      "regso_namn": "Halmstad centrum-Slottsjord-Kattegatt",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R018",
+      "regso_namn": "Harplinge-Getinge glesbygd",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R019",
+      "regso_namn": "Kvibille-Holm-Vapnö",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R020",
+      "regso_namn": "Linehed södra-Östra Stranden",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R021",
+      "regso_namn": "Trönninge-Gullbranna-Laxvik",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R022",
+      "regso_namn": "Nyhem södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R023",
+      "regso_namn": "Nyhem norra-Nyatorp östra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R024",
+      "regso_namn": "Oskarström tätort",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R025",
+      "regso_namn": "Åled-Sennan-Oskarström glesbygd",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R026",
+      "regso_namn": "Bäckagård norra-Bäckagård södra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R027",
+      "regso_namn": "Vallås östra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1380R028",
+      "regso_namn": "Vallås västra",
+      "kommun_kod": "1380",
+      "kommun_namn": "Halmstad",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1381R001",
+      "regso_namn": "Genevad-Veinge",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1381R002",
+      "regso_namn": "Hasslöv-Ränneslöv-Våxtorp",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1381R003",
+      "regso_namn": "Hishult-Knäreds omland",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1381R004",
+      "regso_namn": "Knäred",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1381R005",
+      "regso_namn": "Laholm västra",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1381R006",
+      "regso_namn": "Laholm östra",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1381R007",
+      "regso_namn": "Laholms omland-Ysby",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1381R008",
+      "regso_namn": "Lilla Tjärby",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1381R009",
+      "regso_namn": "Mellbystrand",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1381R010",
+      "regso_namn": "Skummeslövsstrand-Skottorp",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1381R011",
+      "regso_namn": "Veinge omland",
+      "kommun_kod": "1381",
+      "kommun_namn": "Laholm",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R001",
+      "regso_namn": "Falkenberg centrum",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R002",
+      "regso_namn": "Falkenberg södra",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R003",
+      "regso_namn": "Falkenbergs norra kustområde",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R004",
+      "regso_namn": "Falkenbergs södra kustområde",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R005",
+      "regso_namn": "Glommen",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R006",
+      "regso_namn": "Skogstorp",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R007",
+      "regso_namn": "Skrea",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R008",
+      "regso_namn": "Slöinge",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R009",
+      "regso_namn": "Stafsinge-Gruebäcken",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R010",
+      "regso_namn": "Tröingeberg-Fajans",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R011",
+      "regso_namn": "Ullared-Inland",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R012",
+      "regso_namn": "Vessigebro-Årstad",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R013",
+      "regso_namn": "Vinberg-Ljungby",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1382R014",
+      "regso_namn": "Västra gärdet",
+      "kommun_kod": "1382",
+      "kommun_namn": "Falkenberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R001",
+      "regso_namn": "Breared-Mariedal-Apelviken",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R002",
+      "regso_namn": "Brunnsberg-Lugnet",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R003",
+      "regso_namn": "Bua-Värö",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R004",
+      "regso_namn": "Hunnestad-Gödestad",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R005",
+      "regso_namn": "Håsten-Holmagärde",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R006",
+      "regso_namn": "Rolfstorp-Skällinge-Karl Gustav",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R007",
+      "regso_namn": "Södra Näs-Träslövsläge-Gamla Köpstad",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R008",
+      "regso_namn": "Sörse",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R009",
+      "regso_namn": "Träslöv",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R010",
+      "regso_namn": "Trönninge-Bläshammar",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R011",
+      "regso_namn": "Tvååker",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R012",
+      "regso_namn": "Tvååkers omland",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R013",
+      "regso_namn": "Tångaberg-Årnäs",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R014",
+      "regso_namn": "Varberg centrum",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R015",
+      "regso_namn": "Varberg söder",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R016",
+      "regso_namn": "Veddige-Derome",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1383R017",
+      "regso_namn": "Öster-Karlberg",
+      "kommun_kod": "1383",
+      "kommun_namn": "Varberg",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R001",
+      "regso_namn": "Anneberg-Älvsåker",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R002",
+      "regso_namn": "Björkris-Voxlöv",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R003",
+      "regso_namn": "Fjärås",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R004",
+      "regso_namn": "Fjärås omland",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R005",
+      "regso_namn": "Frillesås",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R006",
+      "regso_namn": "Frillesås-Gällinge omland",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R007",
+      "regso_namn": "Hålabäck-Hammerö",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R008",
+      "regso_namn": "Kungsbacka Innerstaden",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R009",
+      "regso_namn": "Kungsbacka norra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R010",
+      "regso_namn": "Kungsbacka södra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R011",
+      "regso_namn": "Släp västra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R012",
+      "regso_namn": "Släp östra",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R013",
+      "regso_namn": "Tingberget",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R014",
+      "regso_namn": "Vallda",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R015",
+      "regso_namn": "Västra Onsala",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R016",
+      "regso_namn": "Åsa",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R017",
+      "regso_namn": "Ölmanäs",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    },
+    {
+      "regso_kod": "1384R018",
+      "regso_namn": "Östra Onsala",
+      "kommun_kod": "1384",
+      "kommun_namn": "Kungsbacka",
+      "lan_kod": "13"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Hallands län - Gratis nedladdning",
+    "description": "95 regionala statistikområden (RegSO) i Hallands län (länskod 13). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 95 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Hallands län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Hallands län — 95 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 95 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

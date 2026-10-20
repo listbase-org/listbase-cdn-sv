@@ -1,0 +1,272 @@
+{
+  "id": "sv-tidszoner-asia",
+  "name": "Tidszoner – Asia (27)",
+  "title": "Tidszoner – Asia (27)",
+  "description": "Tidszoner vars IANA-identifierare börjar med 'Asia/', med namn på svenska.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stad",
+      "label": "Stad",
+      "type": "string"
+    },
+    {
+      "key": "standardnamn",
+      "label": "Standardnamn",
+      "type": "string"
+    },
+    {
+      "key": "sommarnamn",
+      "label": "Sommarnamn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Asia/Aqtau",
+      "region": "Asia",
+      "stad": "Aktau",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Asia/Aqtobe",
+      "region": "Asia",
+      "stad": "Aqtöbe",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Asia/Ashgabat",
+      "region": "Asia",
+      "stad": "Asjchabad",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Asia/Baghdad",
+      "region": "Asia",
+      "stad": "Bagdad",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Asia/Bishkek",
+      "region": "Asia",
+      "stad": "Bisjkek",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Asia/Calcutta",
+      "region": "Asia",
+      "stad": "Kolkata",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Asia/Chita",
+      "region": "Asia",
+      "stad": "Tjita",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Asia/Damascus",
+      "region": "Asia",
+      "stad": "Damaskus",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Asia/Dushanbe",
+      "region": "Asia",
+      "stad": "Dusjanbe",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Asia/Hong_Kong",
+      "region": "Asia",
+      "stad": "Hongkong",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Asia/Hovd",
+      "region": "Asia",
+      "stad": "Chovd",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Asia/Kamchatka",
+      "region": "Asia",
+      "stad": "Kamtjatka",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Asia/Katmandu",
+      "region": "Asia",
+      "stad": "Katmandu",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Asia/Khandyga",
+      "region": "Asia",
+      "stad": "Chandyga",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Asia/Krasnoyarsk",
+      "region": "Asia",
+      "stad": "Krasnojarsk",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Asia/Macau",
+      "region": "Asia",
+      "stad": "Macao",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Asia/Muscat",
+      "region": "Asia",
+      "stad": "Muskat",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Asia/Qostanay",
+      "region": "Asia",
+      "stad": "Kostanaj",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Asia/Rangoon",
+      "region": "Asia",
+      "stad": "Yangon",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Asia/Saigon",
+      "region": "Asia",
+      "stad": "Ho Chi Minh-staden",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Asia/Sakhalin",
+      "region": "Asia",
+      "stad": "Sachalin",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Asia/Tashkent",
+      "region": "Asia",
+      "stad": "Tasjkent",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Asia/Tehran",
+      "region": "Asia",
+      "stad": "Teheran",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Asia/Urumqi",
+      "region": "Asia",
+      "stad": "Ürümqi",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Asia/Yakutsk",
+      "region": "Asia",
+      "stad": "Jakutsk",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Asia/Yekaterinburg",
+      "region": "Asia",
+      "stad": "Jekaterinburg",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Asia/Yerevan",
+      "region": "Asia",
+      "stad": "Jerevan",
+      "standardnamn": "",
+      "sommarnamn": ""
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner – Asia (27) - Gratis nedladdning",
+    "description": "Tidszoner vars IANA-identifierare börjar med 'Asia/', med namn på svenska. Innehåller 27 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner – Asia (27) | ListBase",
+    "seo_description": "Ladda ner Tidszoner – Asia (27) — 27 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 27 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

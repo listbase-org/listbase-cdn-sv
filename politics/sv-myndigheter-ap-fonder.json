@@ -1,0 +1,71 @@
+{
+  "id": "sv-myndigheter-ap-fonder",
+  "name": "Statliga myndigheter – AP-fond",
+  "title": "Statliga myndigheter – AP-fond",
+  "description": "Svenska organisationer av typen ”AP-fond” med namn och ort.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "AP-fond",
+      "name": "Första AP-fonden",
+      "city": "Stockholm"
+    },
+    {
+      "type": "AP-fond",
+      "name": "Andra AP-fonden",
+      "city": "Göteborg"
+    },
+    {
+      "type": "AP-fond",
+      "name": "Tredje AP-fonden",
+      "city": "Stockholm"
+    },
+    {
+      "type": "AP-fond",
+      "name": "Fjärde AP-fonden",
+      "city": "Stockholm"
+    },
+    {
+      "type": "AP-fond",
+      "name": "Sjätte AP-fonden",
+      "city": "Göteborg"
+    },
+    {
+      "type": "AP-fond",
+      "name": "Sjunde AP-fonden",
+      "city": "Stockholm"
+    }
+  ],
+  "meta": {
+    "title": "Statliga myndigheter – AP-fond - Gratis nedladdning",
+    "description": "Svenska organisationer av typen ”AP-fond” med namn och ort. Innehåller 6 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Statliga myndigheter – AP-fond | ListBase",
+    "seo_description": "Ladda ner Statliga myndigheter – AP-fond — 6 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 6 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "sv-mattenheter-digital",
+  "name": "Måttenheter – kategori 'digital' (11)",
+  "title": "Måttenheter – kategori 'digital' (11)",
+  "description": "Måttenheter i kategorin 'digital' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "digital-bit",
+      "kategori": "digital",
+      "namn": "bit",
+      "forkortning": "b",
+      "smal_form": "b",
+      "monster": "{0} bit"
+    },
+    {
+      "id": 2,
+      "unit_code": "digital-byte",
+      "kategori": "digital",
+      "namn": "byte",
+      "forkortning": "byte",
+      "smal_form": "B",
+      "monster": "{0} byte"
+    },
+    {
+      "id": 3,
+      "unit_code": "digital-gigabit",
+      "kategori": "digital",
+      "namn": "gigabit",
+      "forkortning": "Gb",
+      "smal_form": "Gb",
+      "monster": "{0} gigabit"
+    },
+    {
+      "id": 4,
+      "unit_code": "digital-gigabyte",
+      "kategori": "digital",
+      "namn": "gigabyte",
+      "forkortning": "GB",
+      "smal_form": "GB",
+      "monster": "{0} gigabyte"
+    },
+    {
+      "id": 5,
+      "unit_code": "digital-kilobit",
+      "kategori": "digital",
+      "namn": "kilobit",
+      "forkortning": "kb",
+      "smal_form": "kb",
+      "monster": "{0} kilobit"
+    },
+    {
+      "id": 6,
+      "unit_code": "digital-kilobyte",
+      "kategori": "digital",
+      "namn": "kilobyte",
+      "forkortning": "kB",
+      "smal_form": "kB",
+      "monster": "{0} kilobyte"
+    },
+    {
+      "id": 7,
+      "unit_code": "digital-megabit",
+      "kategori": "digital",
+      "namn": "megabit",
+      "forkortning": "Mb",
+      "smal_form": "Mb",
+      "monster": "{0} megabit"
+    },
+    {
+      "id": 8,
+      "unit_code": "digital-megabyte",
+      "kategori": "digital",
+      "namn": "megabyte",
+      "forkortning": "MB",
+      "smal_form": "MB",
+      "monster": "{0} megabyte"
+    },
+    {
+      "id": 9,
+      "unit_code": "digital-petabyte",
+      "kategori": "digital",
+      "namn": "petabyte",
+      "forkortning": "PB",
+      "smal_form": "PB",
+      "monster": "{0} petabyte"
+    },
+    {
+      "id": 10,
+      "unit_code": "digital-terabit",
+      "kategori": "digital",
+      "namn": "terabit",
+      "forkortning": "Tb",
+      "smal_form": "Tb",
+      "monster": "{0} terabit"
+    },
+    {
+      "id": 11,
+      "unit_code": "digital-terabyte",
+      "kategori": "digital",
+      "namn": "terabyte",
+      "forkortning": "TB",
+      "smal_form": "TB",
+      "monster": "{0} terabyte"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'digital' (11) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'digital' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 11 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'digital' (11) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'digital' (11) — 11 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 11 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

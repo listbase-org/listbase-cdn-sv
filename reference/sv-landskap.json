@@ -1,0 +1,196 @@
+{
+  "id": "sv-landskap",
+  "name": "Sveriges landskap",
+  "title": "Sveriges landskap",
+  "description": "De 25 traditionella svenska landskapen, grupperade i de tre landsdelarna Götaland, Svealand och Norrland. Varje post innehåller landskapets kod och namn samt landsdel. Källa: SCB/Lantmäteriet via swemapdata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "landsdel_code",
+      "label": "Landsdel Code",
+      "type": "number"
+    },
+    {
+      "key": "landsdel_name",
+      "label": "Landsdel Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 1,
+      "name": "Skåne",
+      "landsdel_code": 1,
+      "landsdel_name": "Götaland"
+    },
+    {
+      "code": 2,
+      "name": "Blekinge",
+      "landsdel_code": 1,
+      "landsdel_name": "Götaland"
+    },
+    {
+      "code": 3,
+      "name": "Öland",
+      "landsdel_code": 1,
+      "landsdel_name": "Götaland"
+    },
+    {
+      "code": 4,
+      "name": "Halland",
+      "landsdel_code": 1,
+      "landsdel_name": "Götaland"
+    },
+    {
+      "code": 5,
+      "name": "Småland",
+      "landsdel_code": 1,
+      "landsdel_name": "Götaland"
+    },
+    {
+      "code": 6,
+      "name": "Gotland",
+      "landsdel_code": 1,
+      "landsdel_name": "Götaland"
+    },
+    {
+      "code": 7,
+      "name": "Västergötland",
+      "landsdel_code": 1,
+      "landsdel_name": "Götaland"
+    },
+    {
+      "code": 8,
+      "name": "Östergötland",
+      "landsdel_code": 1,
+      "landsdel_name": "Götaland"
+    },
+    {
+      "code": 9,
+      "name": "Bohuslän",
+      "landsdel_code": 1,
+      "landsdel_name": "Götaland"
+    },
+    {
+      "code": 10,
+      "name": "Dalsland",
+      "landsdel_code": 1,
+      "landsdel_name": "Götaland"
+    },
+    {
+      "code": 11,
+      "name": "Närke",
+      "landsdel_code": 2,
+      "landsdel_name": "Svealand"
+    },
+    {
+      "code": 12,
+      "name": "Södermanland",
+      "landsdel_code": 2,
+      "landsdel_name": "Svealand"
+    },
+    {
+      "code": 13,
+      "name": "Värmland",
+      "landsdel_code": 2,
+      "landsdel_name": "Svealand"
+    },
+    {
+      "code": 14,
+      "name": "Västmanland",
+      "landsdel_code": 2,
+      "landsdel_name": "Svealand"
+    },
+    {
+      "code": 15,
+      "name": "Uppland",
+      "landsdel_code": 2,
+      "landsdel_name": "Svealand"
+    },
+    {
+      "code": 16,
+      "name": "Gästrikland",
+      "landsdel_code": 3,
+      "landsdel_name": "Norrland"
+    },
+    {
+      "code": 17,
+      "name": "Dalarna",
+      "landsdel_code": 2,
+      "landsdel_name": "Svealand"
+    },
+    {
+      "code": 18,
+      "name": "Hälsingland",
+      "landsdel_code": 3,
+      "landsdel_name": "Norrland"
+    },
+    {
+      "code": 19,
+      "name": "Härjedalen",
+      "landsdel_code": 3,
+      "landsdel_name": "Norrland"
+    },
+    {
+      "code": 20,
+      "name": "Medelpad",
+      "landsdel_code": 3,
+      "landsdel_name": "Norrland"
+    },
+    {
+      "code": 21,
+      "name": "Ångermanland",
+      "landsdel_code": 3,
+      "landsdel_name": "Norrland"
+    },
+    {
+      "code": 22,
+      "name": "Jämtland",
+      "landsdel_code": 3,
+      "landsdel_name": "Norrland"
+    },
+    {
+      "code": 23,
+      "name": "Västerbotten",
+      "landsdel_code": 3,
+      "landsdel_name": "Norrland"
+    },
+    {
+      "code": 24,
+      "name": "Lappland",
+      "landsdel_code": 3,
+      "landsdel_name": "Norrland"
+    },
+    {
+      "code": 25,
+      "name": "Norrbotten",
+      "landsdel_code": 3,
+      "landsdel_name": "Norrland"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges landskap - Gratis nedladdning",
+    "description": "De 25 traditionella svenska landskapen, grupperade i de tre landsdelarna Götaland, Svealand och Norrland. Varje post innehåller landskapets kod och namn samt landsdel. Källa: SCB/Lantmäteriet via swemapdata. Innehåller 25 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Sveriges landskap | ListBase",
+    "seo_description": "Ladda ner Sveriges landskap — 25 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 25 poster / 4 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

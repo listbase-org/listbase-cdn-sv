@@ -1,0 +1,1640 @@
+{
+  "id": "sv-orebro-valdistrikt-2022",
+  "name": "Valdistrikt i Örebro län (val 2022)",
+  "title": "Valdistrikt i Örebro län (val 2022)",
+  "description": "198 valdistrikt i Örebro län (länskod 18) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 198,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "18140101",
+      "valdistrikt_namn": "Hidinge",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18140201",
+      "valdistrikt_namn": "Knista Västra",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18140202",
+      "valdistrikt_namn": "Knista Norra Och Östra",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18140301",
+      "valdistrikt_namn": "Kräcklinge Mfl",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18140701",
+      "valdistrikt_namn": "Kvistbro Västra",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18140702",
+      "valdistrikt_namn": "Kvistbro Östra",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18600101",
+      "valdistrikt_namn": "Laxå Centrala",
+      "kommun_kod": "1860",
+      "kommun_namn": "Laxå",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18600103",
+      "valdistrikt_namn": "Laxå-Kanalområdet",
+      "kommun_kod": "1860",
+      "kommun_namn": "Laxå",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18600205",
+      "valdistrikt_namn": "Finnerödja",
+      "kommun_kod": "1860",
+      "kommun_namn": "Laxå",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18600407",
+      "valdistrikt_namn": "Skagershult",
+      "kommun_kod": "1860",
+      "kommun_namn": "Laxå",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18610111",
+      "valdistrikt_namn": "Hässleberg",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18610113",
+      "valdistrikt_namn": "Kårstahult",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18610114",
+      "valdistrikt_namn": "Vingen",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18610115",
+      "valdistrikt_namn": "Vadsbron",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18610116",
+      "valdistrikt_namn": "Långängen",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18610221",
+      "valdistrikt_namn": "Vretstorp",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18610231",
+      "valdistrikt_namn": "Östansjö",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18610441",
+      "valdistrikt_namn": "Sköllersta",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18610451",
+      "valdistrikt_namn": "Pålsboda",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18610561",
+      "valdistrikt_namn": "Svennevad",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18610671",
+      "valdistrikt_namn": "Bo",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18620101",
+      "valdistrikt_namn": "Jannelund",
+      "kommun_kod": "1862",
+      "kommun_namn": "Degerfors",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18620102",
+      "valdistrikt_namn": "Bossåsen",
+      "kommun_kod": "1862",
+      "kommun_namn": "Degerfors",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18620103",
+      "valdistrikt_namn": "Bruket",
+      "kommun_kod": "1862",
+      "kommun_namn": "Degerfors",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18620105",
+      "valdistrikt_namn": "Stora Valla",
+      "kommun_kod": "1862",
+      "kommun_namn": "Degerfors",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18620108",
+      "valdistrikt_namn": "Strömtorp",
+      "kommun_kod": "1862",
+      "kommun_namn": "Degerfors",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18620210",
+      "valdistrikt_namn": "Åtorp",
+      "kommun_kod": "1862",
+      "kommun_namn": "Degerfors",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18620211",
+      "valdistrikt_namn": "Svartå",
+      "kommun_kod": "1862",
+      "kommun_namn": "Degerfors",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18630101",
+      "valdistrikt_namn": "Gillershöjden",
+      "kommun_kod": "1863",
+      "kommun_namn": "Hällefors",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18630102",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "1863",
+      "kommun_namn": "Hällefors",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18630104",
+      "valdistrikt_namn": "Hjulsjö-Kronhagen",
+      "kommun_kod": "1863",
+      "kommun_namn": "Hällefors",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18630208",
+      "valdistrikt_namn": "Grythyttan",
+      "kommun_kod": "1863",
+      "kommun_namn": "Hällefors",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18640101",
+      "valdistrikt_namn": "Hörken",
+      "kommun_kod": "1864",
+      "kommun_namn": "Ljusnarsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18640102",
+      "valdistrikt_namn": "Ställdalen",
+      "kommun_kod": "1864",
+      "kommun_namn": "Ljusnarsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18640103",
+      "valdistrikt_namn": "Kyrkbacksskolan, Kopparberg",
+      "kommun_kod": "1864",
+      "kommun_namn": "Ljusnarsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18640104",
+      "valdistrikt_namn": "Bångbro",
+      "kommun_kod": "1864",
+      "kommun_namn": "Ljusnarsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18640105",
+      "valdistrikt_namn": "Tingshuset, Kopparberg",
+      "kommun_kod": "1864",
+      "kommun_namn": "Ljusnarsberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800101",
+      "valdistrikt_namn": "Örnsro",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800102",
+      "valdistrikt_namn": "Näbbtorget",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800103",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800104",
+      "valdistrikt_namn": "Oskarsparken",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800105",
+      "valdistrikt_namn": "Stadsparken",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800106",
+      "valdistrikt_namn": "Rudbeck",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800107",
+      "valdistrikt_namn": "Birgitta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800108",
+      "valdistrikt_namn": "Krämartorget",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800109",
+      "valdistrikt_namn": "Eklunda",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800110",
+      "valdistrikt_namn": "Södermalm",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800111",
+      "valdistrikt_namn": "Eyra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800112",
+      "valdistrikt_namn": "Gustavsvik",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800113",
+      "valdistrikt_namn": "Ladugårdsängen västra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800114",
+      "valdistrikt_namn": "Ladugårdsängen östra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800115",
+      "valdistrikt_namn": "Grönpepparparken",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800116",
+      "valdistrikt_namn": "Sörbyängen norra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800216",
+      "valdistrikt_namn": "Bettorp",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800217",
+      "valdistrikt_namn": "Olaus Petri",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800218",
+      "valdistrikt_namn": "Åkullen",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800219",
+      "valdistrikt_namn": "Längbrotorg",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800220",
+      "valdistrikt_namn": "Hagaby-Ringstorp",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800221",
+      "valdistrikt_namn": "Norrby",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800222",
+      "valdistrikt_namn": "Bromsplan",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800223",
+      "valdistrikt_namn": "Svampen",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800224",
+      "valdistrikt_namn": "Rynningeåsen",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800225",
+      "valdistrikt_namn": "Rynninge",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800226",
+      "valdistrikt_namn": "Tegnér",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800227",
+      "valdistrikt_namn": "Sofia",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800228",
+      "valdistrikt_namn": "Vasastan norra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800229",
+      "valdistrikt_namn": "Vasastan mellersta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800230",
+      "valdistrikt_namn": "Vasastan södra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800231",
+      "valdistrikt_namn": "Centralstationen",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800232",
+      "valdistrikt_namn": "Universitetssjukhuset",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800233",
+      "valdistrikt_namn": "Slottet",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800339",
+      "valdistrikt_namn": "Heden",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800340",
+      "valdistrikt_namn": "Mellringe",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800341",
+      "valdistrikt_namn": "Björkhaga",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800342",
+      "valdistrikt_namn": "Varberga västra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800343",
+      "valdistrikt_namn": "Varberga östra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800344",
+      "valdistrikt_namn": "Karlslund",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800345",
+      "valdistrikt_namn": "Oxhagen",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800346",
+      "valdistrikt_namn": "Solhaga",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800347",
+      "valdistrikt_namn": "Västhaga",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800348",
+      "valdistrikt_namn": "Rosta västra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800349",
+      "valdistrikt_namn": "Rosta östra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800350",
+      "valdistrikt_namn": "Hagastrand",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800479",
+      "valdistrikt_namn": "Österplan",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800480",
+      "valdistrikt_namn": "Sörby norra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800481",
+      "valdistrikt_namn": "Sörby södra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800482",
+      "valdistrikt_namn": "Tybble",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800483",
+      "valdistrikt_namn": "Ekeby Almby",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800484",
+      "valdistrikt_namn": "Almby",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800485",
+      "valdistrikt_namn": "Brickeberg",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800486",
+      "valdistrikt_namn": "Brickebacken norra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800487",
+      "valdistrikt_namn": "Brickebacken södra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800488",
+      "valdistrikt_namn": "Sörbyängen södra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800489",
+      "valdistrikt_namn": "Näsby",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800490",
+      "valdistrikt_namn": "Tybblelund",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800491",
+      "valdistrikt_namn": "Universitetet",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800492",
+      "valdistrikt_namn": "Ormesta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800501",
+      "valdistrikt_namn": "Marieberg",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800502",
+      "valdistrikt_namn": "Mosås",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800701",
+      "valdistrikt_namn": "Vintrosa",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800801",
+      "valdistrikt_namn": "Tysslinge-Garphyttan",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18800802",
+      "valdistrikt_namn": "Tysslinge-Latorp",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801001",
+      "valdistrikt_namn": "Kil",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801101",
+      "valdistrikt_namn": "Ervalla",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801201",
+      "valdistrikt_namn": "Axberg",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801301",
+      "valdistrikt_namn": "Hovsta västra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801302",
+      "valdistrikt_namn": "Lillån västra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801303",
+      "valdistrikt_namn": "Lillån östra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801304",
+      "valdistrikt_namn": "Hovsta östra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801401",
+      "valdistrikt_namn": "Lännäs-Vinön",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801501",
+      "valdistrikt_namn": "Kilsmo-Brevens Bruk",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801502",
+      "valdistrikt_namn": "Asker",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801503",
+      "valdistrikt_namn": "Odensbacken",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801601",
+      "valdistrikt_namn": "Stora Mellösa",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801701",
+      "valdistrikt_namn": "Norrbyås",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18801801",
+      "valdistrikt_namn": "Gällersta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18802601",
+      "valdistrikt_namn": "Rinkaby",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18802701",
+      "valdistrikt_namn": "Glanshammar-Ödeby",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18802901",
+      "valdistrikt_namn": "Lillkyrka",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803060",
+      "valdistrikt_namn": "Lundby norra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803061",
+      "valdistrikt_namn": "Lundby södra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803062",
+      "valdistrikt_namn": "Vivalla västra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803063",
+      "valdistrikt_namn": "Vivalla norra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803064",
+      "valdistrikt_namn": "Vivalla östra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803066",
+      "valdistrikt_namn": "Nyponlunden",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803067",
+      "valdistrikt_namn": "Nya Hjärsta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803068",
+      "valdistrikt_namn": "Baronbackarna",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803070",
+      "valdistrikt_namn": "Gamla Hjärsta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803071",
+      "valdistrikt_namn": "Mikael",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803072",
+      "valdistrikt_namn": "Karla",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803073",
+      "valdistrikt_namn": "Trängen",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803074",
+      "valdistrikt_namn": "Markbacken",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803189",
+      "valdistrikt_namn": "Brunnsgärdet",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803190",
+      "valdistrikt_namn": "Nasta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803191",
+      "valdistrikt_namn": "Lindhult",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803192",
+      "valdistrikt_namn": "Adolfsberg västra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18803193",
+      "valdistrikt_namn": "Adolfsberg östra",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810102",
+      "valdistrikt_namn": "Hällabrottet",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810104",
+      "valdistrikt_namn": "Åbytorp-Hardemo",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810105",
+      "valdistrikt_namn": "Skogstorp",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810106",
+      "valdistrikt_namn": "Malmen",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810107",
+      "valdistrikt_namn": "Fylsta",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810108",
+      "valdistrikt_namn": "Stadshuset",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810109",
+      "valdistrikt_namn": "Åsen",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810112",
+      "valdistrikt_namn": "Haga",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810114",
+      "valdistrikt_namn": "Kumlaby",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810115",
+      "valdistrikt_namn": "Sörby",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810116",
+      "valdistrikt_namn": "Vialund",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18810310",
+      "valdistrikt_namn": "Ekeby-Kvarntorp",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18820101",
+      "valdistrikt_namn": "Sjöängen",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18820102",
+      "valdistrikt_namn": "Närlunda",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18820103",
+      "valdistrikt_namn": "Klockarbacken",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18820304",
+      "valdistrikt_namn": "Åsbro",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18820306",
+      "valdistrikt_namn": "Mariedamm-Lerbäck",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18820408",
+      "valdistrikt_namn": "Snavlunda",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18820511",
+      "valdistrikt_namn": "Hammar-Olshammar",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18820513",
+      "valdistrikt_namn": "Åmmeberg-Zinkgruvan",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830101",
+      "valdistrikt_namn": "Aggerud",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830102",
+      "valdistrikt_namn": "Stråningstorp",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830103",
+      "valdistrikt_namn": "Landa",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830104",
+      "valdistrikt_namn": "Skranta",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830105",
+      "valdistrikt_namn": "Häsängen",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830106",
+      "valdistrikt_namn": "Ekeby",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830107",
+      "valdistrikt_namn": "Karlberg",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830108",
+      "valdistrikt_namn": "Rävåsen",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830109",
+      "valdistrikt_namn": "Sandmo",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830110",
+      "valdistrikt_namn": "Karls-Åby",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830111",
+      "valdistrikt_namn": "Bohult",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830112",
+      "valdistrikt_namn": "Bregården",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830113",
+      "valdistrikt_namn": "Bofors",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830114",
+      "valdistrikt_namn": "Sandviken",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830115",
+      "valdistrikt_namn": "Österleden",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830116",
+      "valdistrikt_namn": "Bråten",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18830117",
+      "valdistrikt_namn": "Granbergsdal",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18840306",
+      "valdistrikt_namn": "Järnboås-Klacka-Lerberg",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18840401",
+      "valdistrikt_namn": "Hagby-Esstorp",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18840403",
+      "valdistrikt_namn": "Karlsäng-Pershyttan",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18840404",
+      "valdistrikt_namn": "Gyttorp-Viker",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18840405",
+      "valdistrikt_namn": "Hitorp-Alntorp",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18840407",
+      "valdistrikt_namn": "Ås-Ringshyttan",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18840409",
+      "valdistrikt_namn": "Dalsta-Born",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18840410",
+      "valdistrikt_namn": "Torget-Gunnarsberg",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850203",
+      "valdistrikt_namn": "Gusselby",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850204",
+      "valdistrikt_namn": "Lindesbergs Norra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850206",
+      "valdistrikt_namn": "Linde",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850207",
+      "valdistrikt_namn": "Lindesbergs Mellersta",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850209",
+      "valdistrikt_namn": "Vedevåg",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850210",
+      "valdistrikt_namn": "Lindesbergs Västra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850212",
+      "valdistrikt_namn": "Lindesbergs Sydöstra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850216",
+      "valdistrikt_namn": "Lindesbergs Nordöstra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850302",
+      "valdistrikt_namn": "Guldsmedshyttan",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850305",
+      "valdistrikt_namn": "Storå",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850413",
+      "valdistrikt_namn": "Frövi Västra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850414",
+      "valdistrikt_namn": "Frövi Östra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850518",
+      "valdistrikt_namn": "Fellingsbro Västra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850519",
+      "valdistrikt_namn": "Fellingsbro Östra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850522",
+      "valdistrikt_namn": "Rockhammar",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    },
+    {
+      "valdistrikt_kod": "18850728",
+      "valdistrikt_namn": "Ramshyttan",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18",
+      "lan_namn": "Örebro län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Örebro län (val 2022) - Gratis nedladdning",
+    "description": "198 valdistrikt i Örebro län (länskod 18) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 198 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Örebro län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Örebro län (val 2022) — 198 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 198 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

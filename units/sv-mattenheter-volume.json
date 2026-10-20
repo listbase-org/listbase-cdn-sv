@@ -1,0 +1,457 @@
+{
+  "id": "sv-mattenheter-volume",
+  "name": "Måttenheter – kategori 'volume' (44)",
+  "title": "Måttenheter – kategori 'volume' (44)",
+  "description": "Måttenheter i kategorin 'volume' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "volume-acre-foot",
+      "kategori": "volume",
+      "namn": "engelska tunnland gånger fot",
+      "forkortning": "eng. t:land·fot",
+      "smal_form": "eng. t:land·fot",
+      "monster": "{0} engelska tunnland gånger fot"
+    },
+    {
+      "id": 2,
+      "unit_code": "volume-barrel",
+      "kategori": "volume",
+      "namn": "fat",
+      "forkortning": "fat",
+      "smal_form": "fat",
+      "monster": "{0} fat"
+    },
+    {
+      "id": 3,
+      "unit_code": "volume-bushel",
+      "kategori": "volume",
+      "namn": "skäppor",
+      "forkortning": "skäppa",
+      "smal_form": "skäppa",
+      "monster": "{0} skäppor"
+    },
+    {
+      "id": 4,
+      "unit_code": "volume-centiliter",
+      "kategori": "volume",
+      "namn": "centiliter",
+      "forkortning": "cl",
+      "smal_form": "cl",
+      "monster": "{0} centiliter"
+    },
+    {
+      "id": 5,
+      "unit_code": "volume-cubic-centimeter",
+      "kategori": "volume",
+      "namn": "kubikcentimeter",
+      "forkortning": "cm³",
+      "smal_form": "cm³",
+      "monster": "{0} kubikcentimeter"
+    },
+    {
+      "id": 6,
+      "unit_code": "volume-cubic-foot",
+      "kategori": "volume",
+      "namn": "kubikfot",
+      "forkortning": "fot³",
+      "smal_form": "fot³",
+      "monster": "{0} kubikfot"
+    },
+    {
+      "id": 7,
+      "unit_code": "volume-cubic-inch",
+      "kategori": "volume",
+      "namn": "kubiktum",
+      "forkortning": "tum³",
+      "smal_form": "tum³",
+      "monster": "{0} kubiktum"
+    },
+    {
+      "id": 8,
+      "unit_code": "volume-cubic-kilometer",
+      "kategori": "volume",
+      "namn": "kubikkilometer",
+      "forkortning": "km³",
+      "smal_form": "km³",
+      "monster": "{0} kubikkilometer"
+    },
+    {
+      "id": 9,
+      "unit_code": "volume-cubic-meter",
+      "kategori": "volume",
+      "namn": "kubikmeter",
+      "forkortning": "m³",
+      "smal_form": "m³",
+      "monster": "{0} kubikmeter"
+    },
+    {
+      "id": 10,
+      "unit_code": "volume-cubic-mile",
+      "kategori": "volume",
+      "namn": "kubikmile",
+      "forkortning": "mi³",
+      "smal_form": "mi³",
+      "monster": "{0} kubikmile"
+    },
+    {
+      "id": 11,
+      "unit_code": "volume-cubic-yard",
+      "kategori": "volume",
+      "namn": "kubikyard",
+      "forkortning": "yard³",
+      "smal_form": "yd³",
+      "monster": "{0} kubikyard"
+    },
+    {
+      "id": 12,
+      "unit_code": "volume-cup",
+      "kategori": "volume",
+      "namn": "koppar",
+      "forkortning": "koppar",
+      "smal_form": "koppar",
+      "monster": "{0} koppar"
+    },
+    {
+      "id": 13,
+      "unit_code": "volume-cup-imperial",
+      "kategori": "volume",
+      "namn": "cup Imp.",
+      "forkortning": "cup Imp.",
+      "smal_form": "cup Imp.",
+      "monster": "{0} cup Imp."
+    },
+    {
+      "id": 14,
+      "unit_code": "volume-cup-jp",
+      "kategori": "volume",
+      "namn": "cup [JP]",
+      "forkortning": "cup [JP]",
+      "smal_form": "cup [JP]",
+      "monster": "{0} cup [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "volume-cup-metric",
+      "kategori": "volume",
+      "namn": "metriska koppar",
+      "forkortning": "mcup",
+      "smal_form": "mcup",
+      "monster": "{0} metriska koppar"
+    },
+    {
+      "id": 16,
+      "unit_code": "volume-deciliter",
+      "kategori": "volume",
+      "namn": "deciliter",
+      "forkortning": "dl",
+      "smal_form": "dl",
+      "monster": "{0} deciliter"
+    },
+    {
+      "id": 17,
+      "unit_code": "volume-dessert-spoon",
+      "kategori": "volume",
+      "namn": "dessertskedar",
+      "forkortning": "des.sked",
+      "smal_form": "dsk",
+      "monster": "{0} dessertskedar"
+    },
+    {
+      "id": 18,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategori": "volume",
+      "namn": "brittiska dessertskedar",
+      "forkortning": "br. dsk",
+      "smal_form": "br. dsk",
+      "monster": "{0} brittiska dessertskedar"
+    },
+    {
+      "id": 19,
+      "unit_code": "volume-dram",
+      "kategori": "volume",
+      "namn": "brittisk dram",
+      "forkortning": "flytande dram",
+      "smal_form": "fl. dram",
+      "monster": "{0} dram"
+    },
+    {
+      "id": 20,
+      "unit_code": "volume-drop",
+      "kategori": "volume",
+      "namn": "droppe",
+      "forkortning": "droppe",
+      "smal_form": "drp",
+      "monster": "{0} droppar"
+    },
+    {
+      "id": 21,
+      "unit_code": "volume-fluid-ounce",
+      "kategori": "volume",
+      "namn": "flytande uns",
+      "forkortning": "fl oz",
+      "smal_form": "fl oz",
+      "monster": "{0} fluid ounces"
+    },
+    {
+      "id": 22,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategori": "volume",
+      "namn": "Imp. fluid ounces",
+      "forkortning": "Imp. fl oz",
+      "smal_form": "Imp fl oz",
+      "monster": "{0} Imp. fluid ounces"
+    },
+    {
+      "id": 23,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategori": "volume",
+      "namn": "metriska flytande uns",
+      "forkortning": "fl oz m.",
+      "smal_form": "fl oz m.",
+      "monster": "{0} metriska flytande uns"
+    },
+    {
+      "id": 24,
+      "unit_code": "volume-gallon",
+      "kategori": "volume",
+      "namn": "gallon",
+      "forkortning": "gal",
+      "smal_form": "gal",
+      "monster": "{0} gallon"
+    },
+    {
+      "id": 25,
+      "unit_code": "volume-gallon-imperial",
+      "kategori": "volume",
+      "namn": "Br. gallon",
+      "forkortning": "Br. gal",
+      "smal_form": "Br. gal",
+      "monster": "{0} br. gallon"
+    },
+    {
+      "id": 26,
+      "unit_code": "volume-hectoliter",
+      "kategori": "volume",
+      "namn": "hektoliter",
+      "forkortning": "hl",
+      "smal_form": "hl",
+      "monster": "{0} hektoliter"
+    },
+    {
+      "id": 27,
+      "unit_code": "volume-jigger",
+      "kategori": "volume",
+      "namn": "mätglas",
+      "forkortning": "mätglas",
+      "smal_form": "mätglas",
+      "monster": "{0} mätglas"
+    },
+    {
+      "id": 28,
+      "unit_code": "volume-koku",
+      "kategori": "volume",
+      "namn": "koku [JP]",
+      "forkortning": "koku [JP]",
+      "smal_form": "koku [JP]",
+      "monster": "{0} koku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "volume-kosaji",
+      "kategori": "volume",
+      "namn": "kosaji [JP]",
+      "forkortning": "kosaji [JP]",
+      "smal_form": "kosaji [JP]",
+      "monster": "{0} kosaji [JP]"
+    },
+    {
+      "id": 30,
+      "unit_code": "volume-liter",
+      "kategori": "volume",
+      "namn": "liter",
+      "forkortning": "liter",
+      "smal_form": "liter",
+      "monster": "{0} liter"
+    },
+    {
+      "id": 31,
+      "unit_code": "volume-megaliter",
+      "kategori": "volume",
+      "namn": "megaliter",
+      "forkortning": "Ml",
+      "smal_form": "Ml",
+      "monster": "{0} megaliter"
+    },
+    {
+      "id": 32,
+      "unit_code": "volume-milliliter",
+      "kategori": "volume",
+      "namn": "milliliter",
+      "forkortning": "ml",
+      "smal_form": "ml",
+      "monster": "{0} milliliter"
+    },
+    {
+      "id": 33,
+      "unit_code": "volume-osaji",
+      "kategori": "volume",
+      "namn": "osaji [JP]",
+      "forkortning": "osaji [JP]",
+      "smal_form": "osaji [JP]",
+      "monster": "{0} osaji [JP]"
+    },
+    {
+      "id": 34,
+      "unit_code": "volume-pinch",
+      "kategori": "volume",
+      "namn": "nypa",
+      "forkortning": "nypa",
+      "smal_form": "nypa",
+      "monster": "{0} nypa"
+    },
+    {
+      "id": 35,
+      "unit_code": "volume-pint",
+      "kategori": "volume",
+      "namn": "pint",
+      "forkortning": "pint",
+      "smal_form": "pt",
+      "monster": "{0} pint"
+    },
+    {
+      "id": 36,
+      "unit_code": "volume-pint-imperial",
+      "kategori": "volume",
+      "namn": "pint Imp.",
+      "forkortning": "pint Imp.",
+      "smal_form": "pint Imp.",
+      "monster": "{0} pt Imp."
+    },
+    {
+      "id": 37,
+      "unit_code": "volume-pint-metric",
+      "kategori": "volume",
+      "namn": "metriska pint",
+      "forkortning": "mpt",
+      "smal_form": "pt",
+      "monster": "{0} metriska pint"
+    },
+    {
+      "id": 38,
+      "unit_code": "volume-quart",
+      "kategori": "volume",
+      "namn": "quart",
+      "forkortning": "quart",
+      "smal_form": "quart",
+      "monster": "{0} quart"
+    },
+    {
+      "id": 39,
+      "unit_code": "volume-quart-imperial",
+      "kategori": "volume",
+      "namn": "br. quart",
+      "forkortning": "br. qt",
+      "smal_form": "br. qt",
+      "monster": "{0} brittiska quarts"
+    },
+    {
+      "id": 40,
+      "unit_code": "volume-sai",
+      "kategori": "volume",
+      "namn": "sai [JP]",
+      "forkortning": "sai [JP]",
+      "smal_form": "sai [JP]",
+      "monster": "{0} sai [JP]"
+    },
+    {
+      "id": 41,
+      "unit_code": "volume-shaku",
+      "kategori": "volume",
+      "namn": "shaku [vol, JP]",
+      "forkortning": "shaku [vol, JP]",
+      "smal_form": "shaku [vol, JP]",
+      "monster": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 42,
+      "unit_code": "volume-tablespoon",
+      "kategori": "volume",
+      "namn": "matskedar",
+      "forkortning": "msk",
+      "smal_form": "msk",
+      "monster": "{0} matskedar"
+    },
+    {
+      "id": 43,
+      "unit_code": "volume-teaspoon",
+      "kategori": "volume",
+      "namn": "teskedar",
+      "forkortning": "tsk",
+      "smal_form": "tsk",
+      "monster": "{0} teskedar"
+    },
+    {
+      "id": 44,
+      "unit_code": "volume-to-jp",
+      "kategori": "volume",
+      "namn": "to [JP]",
+      "forkortning": "to [JP]",
+      "smal_form": "to [JP]",
+      "monster": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'volume' (44) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'volume' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 44 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'volume' (44) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'volume' (44) — 44 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 44 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

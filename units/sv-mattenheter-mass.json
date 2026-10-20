@@ -1,0 +1,214 @@
+{
+  "id": "sv-mattenheter-mass",
+  "name": "Måttenheter – kategori 'mass' (17)",
+  "title": "Måttenheter – kategori 'mass' (17)",
+  "description": "Måttenheter i kategorin 'mass' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "mass-carat",
+      "kategori": "mass",
+      "namn": "karat",
+      "forkortning": "karat",
+      "smal_form": "karat",
+      "monster": "{0} karat"
+    },
+    {
+      "id": 2,
+      "unit_code": "mass-dalton",
+      "kategori": "mass",
+      "namn": "dalton",
+      "forkortning": "dalton",
+      "smal_form": "Da",
+      "monster": "{0} dalton"
+    },
+    {
+      "id": 3,
+      "unit_code": "mass-earth-mass",
+      "kategori": "mass",
+      "namn": "jordmassor",
+      "forkortning": "M⊕",
+      "smal_form": "M⊕",
+      "monster": "{0} jordmassor"
+    },
+    {
+      "id": 4,
+      "unit_code": "mass-fun",
+      "kategori": "mass",
+      "namn": "fun [JP]",
+      "forkortning": "fun [JP]",
+      "smal_form": "fun [JP]",
+      "monster": "{0} fun [JP]"
+    },
+    {
+      "id": 5,
+      "unit_code": "mass-grain",
+      "kategori": "mass",
+      "namn": "grain",
+      "forkortning": "grain",
+      "smal_form": "grain",
+      "monster": "{0} grains"
+    },
+    {
+      "id": 6,
+      "unit_code": "mass-gram",
+      "kategori": "mass",
+      "namn": "gram",
+      "forkortning": "g",
+      "smal_form": "g",
+      "monster": "{0} gram"
+    },
+    {
+      "id": 7,
+      "unit_code": "mass-kilogram",
+      "kategori": "mass",
+      "namn": "kilogram",
+      "forkortning": "kg",
+      "smal_form": "kg",
+      "monster": "{0} kilogram"
+    },
+    {
+      "id": 8,
+      "unit_code": "mass-microgram",
+      "kategori": "mass",
+      "namn": "mikrogram",
+      "forkortning": "μg",
+      "smal_form": "μg",
+      "monster": "{0} mikrogram"
+    },
+    {
+      "id": 9,
+      "unit_code": "mass-milligram",
+      "kategori": "mass",
+      "namn": "milligram",
+      "forkortning": "mg",
+      "smal_form": "mg",
+      "monster": "{0} milligram"
+    },
+    {
+      "id": 10,
+      "unit_code": "mass-ounce",
+      "kategori": "mass",
+      "namn": "uns",
+      "forkortning": "uns",
+      "smal_form": "uns",
+      "monster": "{0} uns"
+    },
+    {
+      "id": 11,
+      "unit_code": "mass-ounce-troy",
+      "kategori": "mass",
+      "namn": "troy uns",
+      "forkortning": "ozt",
+      "smal_form": "ozt",
+      "monster": "{0} troy uns"
+    },
+    {
+      "id": 12,
+      "unit_code": "mass-pound",
+      "kategori": "mass",
+      "namn": "pund",
+      "forkortning": "pund",
+      "smal_form": "pund",
+      "monster": "{0} pund"
+    },
+    {
+      "id": 13,
+      "unit_code": "mass-slug",
+      "kategori": "mass",
+      "namn": "slug",
+      "forkortning": "slug",
+      "smal_form": "slug",
+      "monster": "{0} slug"
+    },
+    {
+      "id": 14,
+      "unit_code": "mass-solar-mass",
+      "kategori": "mass",
+      "namn": "solmassor",
+      "forkortning": "M☉",
+      "smal_form": "M☉",
+      "monster": "{0} solmassor"
+    },
+    {
+      "id": 15,
+      "unit_code": "mass-stone",
+      "kategori": "mass",
+      "namn": "engelska stenar",
+      "forkortning": "eng. sten",
+      "smal_form": "eng. sten",
+      "monster": "{0} engelska stenar"
+    },
+    {
+      "id": 16,
+      "unit_code": "mass-ton",
+      "kategori": "mass",
+      "namn": "engelska korta ton",
+      "forkortning": "eng. k. ton",
+      "smal_form": "eng. k. ton",
+      "monster": "{0} engelska korta ton"
+    },
+    {
+      "id": 17,
+      "unit_code": "mass-tonne",
+      "kategori": "mass",
+      "namn": "ton",
+      "forkortning": "t",
+      "smal_form": "t",
+      "monster": "{0} ton"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'mass' (17) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'mass' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 17 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'mass' (17) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'mass' (17) — 17 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 17 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

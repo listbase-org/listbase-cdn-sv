@@ -1,0 +1,104 @@
+{
+  "id": "sv-tidszoner-atlantic",
+  "name": "Tidszoner – Atlantic (6)",
+  "title": "Tidszoner – Atlantic (6)",
+  "description": "Tidszoner vars IANA-identifierare börjar med 'Atlantic/', med namn på svenska.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stad",
+      "label": "Stad",
+      "type": "string"
+    },
+    {
+      "key": "standardnamn",
+      "label": "Standardnamn",
+      "type": "string"
+    },
+    {
+      "key": "sommarnamn",
+      "label": "Sommarnamn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Atlantic/Azores",
+      "region": "Atlantic",
+      "stad": "Azorerna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Atlantic/Canary",
+      "region": "Atlantic",
+      "stad": "Kanarieöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Atlantic/Cape_Verde",
+      "region": "Atlantic",
+      "stad": "Kap Verde",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Atlantic/Faeroe",
+      "region": "Atlantic",
+      "stad": "Torshamn",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Atlantic/South_Georgia",
+      "region": "Atlantic",
+      "stad": "Sydgeorgien",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Atlantic/St_Helena",
+      "region": "Atlantic",
+      "stad": "Sankt Helena",
+      "standardnamn": "",
+      "sommarnamn": ""
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner – Atlantic (6) - Gratis nedladdning",
+    "description": "Tidszoner vars IANA-identifierare börjar med 'Atlantic/', med namn på svenska. Innehåller 6 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner – Atlantic (6) | ListBase",
+    "seo_description": "Ladda ner Tidszoner – Atlantic (6) — 6 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 6 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

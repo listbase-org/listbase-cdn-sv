@@ -1,0 +1,196 @@
+{
+  "id": "sv-mattenheter-duration",
+  "name": "Måttenheter – kategori 'duration' (15)",
+  "title": "Måttenheter – kategori 'duration' (15)",
+  "description": "Måttenheter i kategorin 'duration' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "duration-century",
+      "kategori": "duration",
+      "namn": "århundraden",
+      "forkortning": "årh",
+      "smal_form": "årh",
+      "monster": "{0} århundraden"
+    },
+    {
+      "id": 2,
+      "unit_code": "duration-day",
+      "kategori": "duration",
+      "namn": "dygn",
+      "forkortning": "dygn",
+      "smal_form": "d",
+      "monster": "{0} dygn"
+    },
+    {
+      "id": 3,
+      "unit_code": "duration-decade",
+      "kategori": "duration",
+      "namn": "årtionden",
+      "forkortning": "årt",
+      "smal_form": "årt",
+      "monster": "{0} årtionden"
+    },
+    {
+      "id": 4,
+      "unit_code": "duration-fortnight",
+      "kategori": "duration",
+      "namn": "fortnight",
+      "forkortning": "fortnight",
+      "smal_form": "fortnight",
+      "monster": "{0} fw"
+    },
+    {
+      "id": 5,
+      "unit_code": "duration-hour",
+      "kategori": "duration",
+      "namn": "timmar",
+      "forkortning": "tim",
+      "smal_form": "h",
+      "monster": "{0} timmar"
+    },
+    {
+      "id": 6,
+      "unit_code": "duration-microsecond",
+      "kategori": "duration",
+      "namn": "mikrosekunder",
+      "forkortning": "μs",
+      "smal_form": "μs",
+      "monster": "{0} mikrosekunder"
+    },
+    {
+      "id": 7,
+      "unit_code": "duration-millisecond",
+      "kategori": "duration",
+      "namn": "millisekunder",
+      "forkortning": "ms",
+      "smal_form": "ms",
+      "monster": "{0} millisekunder"
+    },
+    {
+      "id": 8,
+      "unit_code": "duration-minute",
+      "kategori": "duration",
+      "namn": "minuter",
+      "forkortning": "min",
+      "smal_form": "m",
+      "monster": "{0} minuter"
+    },
+    {
+      "id": 9,
+      "unit_code": "duration-month",
+      "kategori": "duration",
+      "namn": "månader",
+      "forkortning": "mån",
+      "smal_form": "m",
+      "monster": "{0} månader"
+    },
+    {
+      "id": 10,
+      "unit_code": "duration-nanosecond",
+      "kategori": "duration",
+      "namn": "nanosekunder",
+      "forkortning": "ns",
+      "smal_form": "ns",
+      "monster": "{0} nanosekunder"
+    },
+    {
+      "id": 11,
+      "unit_code": "duration-night",
+      "kategori": "duration",
+      "namn": "nätter",
+      "forkortning": "nätter",
+      "smal_form": "nttr",
+      "monster": "{0} nätter"
+    },
+    {
+      "id": 12,
+      "unit_code": "duration-quarter",
+      "kategori": "duration",
+      "namn": "kvartal",
+      "forkortning": "kv",
+      "smal_form": "kv",
+      "monster": "{0} kvartal"
+    },
+    {
+      "id": 13,
+      "unit_code": "duration-second",
+      "kategori": "duration",
+      "namn": "sekunder",
+      "forkortning": "sek",
+      "smal_form": "sek",
+      "monster": "{0} sekunder"
+    },
+    {
+      "id": 14,
+      "unit_code": "duration-week",
+      "kategori": "duration",
+      "namn": "veckor",
+      "forkortning": "vkr",
+      "smal_form": "v",
+      "monster": "{0} veckor"
+    },
+    {
+      "id": 15,
+      "unit_code": "duration-year",
+      "kategori": "duration",
+      "namn": "år",
+      "forkortning": "år",
+      "smal_form": "år",
+      "monster": "{0} år"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'duration' (15) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'duration' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 15 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'duration' (15) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'duration' (15) — 15 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 15 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

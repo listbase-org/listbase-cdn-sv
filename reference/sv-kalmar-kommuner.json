@@ -1,0 +1,169 @@
+{
+  "id": "sv-kalmar-kommuner",
+  "name": "Kommuner i Kalmar län",
+  "title": "Kommuner i Kalmar län",
+  "description": "12 kommuner i Kalmar län (länskod 08, ISO SE-H , residensstad Kalmar). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "0821",
+      "name": "Högsby kommun",
+      "name_short": "Högsby",
+      "slug": "hogsby",
+      "locality": "HÖGSBY",
+      "url": "http://www.hogsby.se",
+      "num_postnummer": 88
+    },
+    {
+      "kommunkod": "0834",
+      "name": "Torsås kommun",
+      "name_short": "Torsås",
+      "slug": "torsas",
+      "locality": "TORSÅS",
+      "url": "http://www.torsas.se",
+      "num_postnummer": 128
+    },
+    {
+      "kommunkod": "0840",
+      "name": "Mörbylånga kommun",
+      "name_short": "Mörbylånga",
+      "slug": "morbylanga",
+      "locality": "MÖRBYLÅNGA",
+      "url": "http://www.morbylanga.se",
+      "num_postnummer": 129
+    },
+    {
+      "kommunkod": "0860",
+      "name": "Hultsfreds kommun",
+      "name_short": "Hultsfred",
+      "slug": "hultsfred",
+      "locality": "HULTSFRED",
+      "url": "http://www.hultsfred.se",
+      "num_postnummer": 139
+    },
+    {
+      "kommunkod": "0861",
+      "name": "Mönsterås kommun",
+      "name_short": "Mönsterås",
+      "slug": "monsteras",
+      "locality": "MÖNSTERÅS",
+      "url": "http://www.monsteras.se",
+      "num_postnummer": 126
+    },
+    {
+      "kommunkod": "0862",
+      "name": "Emmaboda kommun",
+      "name_short": "Emmaboda",
+      "slug": "emmaboda",
+      "locality": "EMMABODA",
+      "url": "http://www.emmaboda.se",
+      "num_postnummer": 79
+    },
+    {
+      "kommunkod": "0880",
+      "name": "Kalmar kommun",
+      "name_short": "Kalmar",
+      "slug": "kalmar",
+      "locality": "KALMAR",
+      "url": "http://www.kalmar.se",
+      "num_postnummer": 211
+    },
+    {
+      "kommunkod": "0881",
+      "name": "Nybro kommun",
+      "name_short": "Nybro",
+      "slug": "nybro",
+      "locality": "NYBRO",
+      "url": "http://www.nybro.se",
+      "num_postnummer": 198
+    },
+    {
+      "kommunkod": "0882",
+      "name": "Oskarshamns kommun",
+      "name_short": "Oskarshamn",
+      "slug": "oskarshamn",
+      "locality": "OSKARSHAMN",
+      "url": "http://www.oskarshamn.se",
+      "num_postnummer": 120
+    },
+    {
+      "kommunkod": "0883",
+      "name": "Västerviks kommun",
+      "name_short": "Västervik",
+      "slug": "vastervik",
+      "locality": "VÄSTERVIK",
+      "url": "http://www.vastervik.se",
+      "num_postnummer": 161
+    },
+    {
+      "kommunkod": "0884",
+      "name": "Vimmerby kommun",
+      "name_short": "Vimmerby",
+      "slug": "vimmerby",
+      "locality": "VIMMERBY",
+      "url": "http://www.vimmerby.se",
+      "num_postnummer": 89
+    },
+    {
+      "kommunkod": "0885",
+      "name": "Borgholms kommun",
+      "name_short": "Borgholm",
+      "slug": "borgholm",
+      "locality": "BORGHOLM",
+      "url": "http://www.borgholm.se",
+      "num_postnummer": 116
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Kalmar län - Gratis nedladdning",
+    "description": "12 kommuner i Kalmar län (länskod 08, ISO SE-H , residensstad Kalmar). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 12 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Kalmar län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Kalmar län — 12 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 12 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

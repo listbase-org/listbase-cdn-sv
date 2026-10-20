@@ -1,0 +1,64 @@
+{
+  "id": "sv-gothenburg-swift-koder",
+  "name": "SWIFT/BIC-koder — Gothenburg",
+  "title": "SWIFT/BIC-koder — Gothenburg",
+  "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 3 institut som källan anger med orten \"GOTHENBURG\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AB VOLVO",
+      "city": "GOTHENBURG",
+      "branch": "",
+      "swift_code": "ABVOSEGG"
+    },
+    {
+      "bank": "GOTEBORGS STAD",
+      "city": "GOTHENBURG",
+      "branch": "",
+      "swift_code": "GSTASEG1"
+    },
+    {
+      "bank": "VOLVO TREASURY AB",
+      "city": "GOTHENBURG",
+      "branch": "",
+      "swift_code": "VOTRSEG2"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Gothenburg - Gratis nedladdning",
+    "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 3 institut som källan anger med orten \"GOTHENBURG\". Innehåller 3 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Gothenburg | ListBase",
+    "seo_description": "Ladda ner SWIFT/BIC-koder — Gothenburg — 3 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 3 poster / 4 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

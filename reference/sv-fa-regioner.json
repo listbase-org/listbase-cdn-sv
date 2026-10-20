@@ -1,0 +1,471 @@
+{
+  "id": "sv-fa-regioner",
+  "name": "Funktionella analysregioner (FA-regioner)",
+  "title": "Funktionella analysregioner (FA-regioner)",
+  "description": "De 60 funktionella analysregionerna (FA-regioner) enligt Tillväxtverket, med kod och namn. Fälten fa_kod_nr, ur3 och ur6 återges oförändrade från källan. Källa: stefur/swemaps (MIT).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "fa_kod",
+      "label": "Fa Kod",
+      "type": "number"
+    },
+    {
+      "key": "fa_namn",
+      "label": "Fa Namn",
+      "type": "string"
+    },
+    {
+      "key": "fa_kod_nr",
+      "label": "Fa Kod Nr",
+      "type": "number"
+    },
+    {
+      "key": "ur3",
+      "label": "Ur3",
+      "type": "number"
+    },
+    {
+      "key": "ur6",
+      "label": "Ur6",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "fa_kod": "01",
+      "fa_namn": "Malmö-Lund",
+      "fa_kod_nr": 1,
+      "ur3": "1",
+      "ur6": "1"
+    },
+    {
+      "fa_kod": "02",
+      "fa_namn": "Kristianstad-Hässleholm",
+      "fa_kod_nr": 2,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "03",
+      "fa_namn": "Karlskrona",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "3"
+    },
+    {
+      "fa_kod": "04",
+      "fa_namn": "Älmhult-Osby",
+      "fa_kod_nr": 2,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "05",
+      "fa_namn": "Ljungby",
+      "fa_kod_nr": 2,
+      "ur3": "3",
+      "ur6": "4"
+    },
+    {
+      "fa_kod": "06",
+      "fa_namn": "Halmstad",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "07",
+      "fa_namn": "Värnamo",
+      "fa_kod_nr": 1,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "08",
+      "fa_namn": "Växjö",
+      "fa_kod_nr": 2,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "09",
+      "fa_namn": "Kalmar",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "10",
+      "fa_namn": "Oskarshamn",
+      "fa_kod_nr": 1,
+      "ur3": "2",
+      "ur6": "3"
+    },
+    {
+      "fa_kod": "11",
+      "fa_namn": "Västervik",
+      "fa_kod_nr": 2,
+      "ur3": "2",
+      "ur6": "3"
+    },
+    {
+      "fa_kod": "12",
+      "fa_namn": "Vimmerby",
+      "fa_kod_nr": 3,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "13",
+      "fa_namn": "Jönköping",
+      "fa_kod_nr": 1,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "14",
+      "fa_namn": "Borås",
+      "fa_kod_nr": 2,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "15",
+      "fa_namn": "Göteborg",
+      "fa_kod_nr": 3,
+      "ur3": "1",
+      "ur6": "1"
+    },
+    {
+      "fa_kod": "16",
+      "fa_namn": "Trollhättan-Vänersborg",
+      "fa_kod_nr": 1,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "17",
+      "fa_namn": "Lidköping-Götene",
+      "fa_kod_nr": 2,
+      "ur3": "3",
+      "ur6": "4"
+    },
+    {
+      "fa_kod": "18",
+      "fa_namn": "Skövde-Skara",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "3"
+    },
+    {
+      "fa_kod": "19",
+      "fa_namn": "Linköping-Norrköping",
+      "fa_kod_nr": 1,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "20",
+      "fa_namn": "Gotland",
+      "fa_kod_nr": 2,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "21",
+      "fa_namn": "Nyköping-Oxelösund",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "22",
+      "fa_namn": "Eskilstuna",
+      "fa_kod_nr": 1,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "23",
+      "fa_namn": "Stockholm",
+      "fa_kod_nr": 2,
+      "ur3": "1",
+      "ur6": "1"
+    },
+    {
+      "fa_kod": "24",
+      "fa_namn": "Västerås",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "25",
+      "fa_namn": "Örebro",
+      "fa_kod_nr": 1,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "26",
+      "fa_namn": "Karlskoga",
+      "fa_kod_nr": 2,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "27",
+      "fa_namn": "Karlstad",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "28",
+      "fa_namn": "Västlandet",
+      "fa_kod_nr": 1,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "29",
+      "fa_namn": "Torsby",
+      "fa_kod_nr": 2,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "30",
+      "fa_namn": "Malung-Sälen",
+      "fa_kod_nr": 3,
+      "ur3": "3",
+      "ur6": "6"
+    },
+    {
+      "fa_kod": "31",
+      "fa_namn": "Vansbro",
+      "fa_kod_nr": 1,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "32",
+      "fa_namn": "Ludvika",
+      "fa_kod_nr": 2,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "33",
+      "fa_namn": "Avesta-Hedemora",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "34",
+      "fa_namn": "Falun-Borlänge",
+      "fa_kod_nr": 1,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "35",
+      "fa_namn": "Mora",
+      "fa_kod_nr": 2,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "36",
+      "fa_namn": "Gävle",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "37",
+      "fa_namn": "Bollnäs-Ovanåker",
+      "fa_kod_nr": 1,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "38",
+      "fa_namn": "Hudiksvall",
+      "fa_kod_nr": 2,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "39",
+      "fa_namn": "Ljusdal",
+      "fa_kod_nr": 3,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "40",
+      "fa_namn": "Härjedalen",
+      "fa_kod_nr": 1,
+      "ur3": "3",
+      "ur6": "6"
+    },
+    {
+      "fa_kod": "41",
+      "fa_namn": "Östersund",
+      "fa_kod_nr": 2,
+      "ur3": "3",
+      "ur6": "4"
+    },
+    {
+      "fa_kod": "42",
+      "fa_namn": "Sundsvall",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "43",
+      "fa_namn": "Kramfors",
+      "fa_kod_nr": 1,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "44",
+      "fa_namn": "Örnsköldsvik",
+      "fa_kod_nr": 2,
+      "ur3": "2",
+      "ur6": "3"
+    },
+    {
+      "fa_kod": "45",
+      "fa_namn": "Sollefteå",
+      "fa_kod_nr": 3,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "46",
+      "fa_namn": "Strömsund",
+      "fa_kod_nr": 1,
+      "ur3": "3",
+      "ur6": "6"
+    },
+    {
+      "fa_kod": "47",
+      "fa_namn": "Åsele",
+      "fa_kod_nr": 2,
+      "ur3": "3",
+      "ur6": "6"
+    },
+    {
+      "fa_kod": "48",
+      "fa_namn": "Umeå",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "49",
+      "fa_namn": "Lycksele",
+      "fa_kod_nr": 1,
+      "ur3": "2",
+      "ur6": "3"
+    },
+    {
+      "fa_kod": "50",
+      "fa_namn": "Vilhelmina",
+      "fa_kod_nr": 2,
+      "ur3": "3",
+      "ur6": "6"
+    },
+    {
+      "fa_kod": "51",
+      "fa_namn": "Storuman",
+      "fa_kod_nr": 3,
+      "ur3": "3",
+      "ur6": "6"
+    },
+    {
+      "fa_kod": "52",
+      "fa_namn": "Skellefteå",
+      "fa_kod_nr": 1,
+      "ur3": "2",
+      "ur6": "3"
+    },
+    {
+      "fa_kod": "53",
+      "fa_namn": "Arvidsjaur",
+      "fa_kod_nr": 2,
+      "ur3": "3",
+      "ur6": "6"
+    },
+    {
+      "fa_kod": "54",
+      "fa_namn": "Arjeplog",
+      "fa_kod_nr": 3,
+      "ur3": "3",
+      "ur6": "6"
+    },
+    {
+      "fa_kod": "55",
+      "fa_namn": "Luleå",
+      "fa_kod_nr": 1,
+      "ur3": "2",
+      "ur6": "2"
+    },
+    {
+      "fa_kod": "56",
+      "fa_namn": "Haparanda",
+      "fa_kod_nr": 2,
+      "ur3": "2",
+      "ur6": "3"
+    },
+    {
+      "fa_kod": "57",
+      "fa_namn": "Överkalix",
+      "fa_kod_nr": 3,
+      "ur3": "3",
+      "ur6": "5"
+    },
+    {
+      "fa_kod": "58",
+      "fa_namn": "Jokkmokk",
+      "fa_kod_nr": 1,
+      "ur3": "3",
+      "ur6": "6"
+    },
+    {
+      "fa_kod": "59",
+      "fa_namn": "Gällivare",
+      "fa_kod_nr": 2,
+      "ur3": "2",
+      "ur6": "3"
+    },
+    {
+      "fa_kod": "60",
+      "fa_namn": "Kiruna",
+      "fa_kod_nr": 3,
+      "ur3": "2",
+      "ur6": "3"
+    }
+  ],
+  "meta": {
+    "title": "Funktionella analysregioner (FA-regioner) - Gratis nedladdning",
+    "description": "De 60 funktionella analysregionerna (FA-regioner) enligt Tillväxtverket, med kod och namn. Fälten fa_kod_nr, ur3 och ur6 återges oförändrade från källan. Källa: stefur/swemaps (MIT). Innehåller 60 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Funktionella analysregioner (FA-regioner) | ListBase",
+    "seo_description": "Ladda ner Funktionella analysregioner (FA-regioner) — 60 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 60 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

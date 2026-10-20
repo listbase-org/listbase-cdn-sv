@@ -1,0 +1,632 @@
+{
+  "id": "sv-kloster",
+  "name": "Kloster i Sverige",
+  "title": "Kloster i Sverige",
+  "description": "Monasteries and convents in Sweden with coordinates, sourced from Wikidata.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_sv",
+      "label": "Name Sv",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_sv",
+      "label": "Admin Area Sv",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10424502",
+      "name_sv": "Badene kyrkplats",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 58.28522,
+      "longitude": 13.16243,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10424502"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q15695067",
+      "name_sv": "Birgittasystrarnas kloster, Djursholm",
+      "name_en": "Birgittasystrarnas kloster, Djursholm",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.408611,
+      "longitude": 18.09,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15695067"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q10430462",
+      "name_sv": "Bjärby kyrkplats",
+      "name_en": "",
+      "admin_area_sv": "Grästorps kommun",
+      "admin_area_en": "Grästorp Municipality",
+      "latitude": 58.3589,
+      "longitude": 12.7192,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10430462"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q894433",
+      "name_sv": "Bosjökloster",
+      "name_en": "Bosjökloster",
+      "admin_area_sv": "Höörs kommun",
+      "admin_area_en": "Höör Municipality",
+      "latitude": 55.877222,
+      "longitude": 13.518611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q894433"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q11962801",
+      "name_sv": "Bäckaskogs kloster",
+      "name_en": "",
+      "admin_area_sv": "Kristianstads kommun",
+      "admin_area_en": "Kristianstad Municipality",
+      "latitude": 56.0858,
+      "longitude": 14.3486,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11962801"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q913070",
+      "name_sv": "Bäckaskogs slott",
+      "name_en": "Bäckaskog Castle",
+      "admin_area_sv": "Kristianstads kommun",
+      "admin_area_en": "Kristianstad Municipality",
+      "latitude": 56.085833,
+      "longitude": 14.348611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q913070"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q10468581",
+      "name_sv": "Den barmhärtiga kärlekens Karmel",
+      "name_en": "",
+      "admin_area_sv": "Landskrona kommun",
+      "admin_area_en": "Landskrona Municipality",
+      "latitude": 55.957814,
+      "longitude": 12.783717,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10468581"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q18287889",
+      "name_sv": "Den Helige Benedictus kloster",
+      "name_en": "",
+      "admin_area_sv": "Tomelilla kommun",
+      "admin_area_en": "Tomelilla Municipality",
+      "latitude": 55.6725,
+      "longitude": 14.035833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18287889"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q137460428",
+      "name_sv": "Dominikankonventet i Kalmar",
+      "name_en": "Dominican Convent in Kalmar",
+      "admin_area_sv": "Kalmar stad",
+      "admin_area_en": "Kalmar stad",
+      "latitude": 56.6575,
+      "longitude": 16.352222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137460428"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q10484299",
+      "name_sv": "Enköpings franciskankonvent",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.632128,
+      "longitude": 17.074542,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10484299"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q108566372",
+      "name_sv": "Franciskanerklostret i Kongahälla",
+      "name_en": "Franciscane Convent in Kongahälla",
+      "admin_area_sv": "Kungälvs kommun",
+      "admin_area_en": "Kungälv Municipality",
+      "latitude": 57.850278,
+      "longitude": 11.941111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108566372"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q109653045",
+      "name_sv": "Franciskanerklostret i Malmö",
+      "name_en": "Franciscan monestry in Malmö",
+      "admin_area_sv": "Malmö kommun",
+      "admin_area_en": "Malmö Municipality",
+      "latitude": 55.6025,
+      "longitude": 12.994167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109653045"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q10498481",
+      "name_sv": "Franciskanerklostret S:ta Katarina",
+      "name_en": "",
+      "admin_area_sv": "Skara kommun",
+      "admin_area_en": "Skara Municipality",
+      "latitude": 58.3883,
+      "longitude": 13.43854,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10498481"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q3436957",
+      "name_sv": "Gråbrödraklostret i Stockholm",
+      "name_en": "Grey Friar's Abbey",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.324281,
+      "longitude": 18.064003,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3436957"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q1150413",
+      "name_sv": "Gråbrödraklostret i Ystad",
+      "name_en": "Greyfriars Abbey, Ystad",
+      "admin_area_sv": "Ystads kommun",
+      "admin_area_en": "Ystad Municipality",
+      "latitude": 55.431333,
+      "longitude": 13.82,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1150413"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q1465208",
+      "name_sv": "Gudhems kloster",
+      "name_en": "Gudhem Abbey",
+      "admin_area_sv": "Falköpings kommun",
+      "admin_area_en": "Falköping Municipality",
+      "latitude": 58.240052,
+      "longitude": 13.55485,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1465208"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q18290558",
+      "name_sv": "Heliga Hjärtas Kloster",
+      "name_en": "",
+      "admin_area_sv": "Vadstena kommun",
+      "admin_area_en": "Vadstena Municipality",
+      "latitude": 58.3557,
+      "longitude": 14.6944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18290558"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q10526965",
+      "name_sv": "Hullsjö kyrkplats",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 58.27755,
+      "longitude": 12.3693,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10526965"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q18290856",
+      "name_sv": "Höra kyrka",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 58.39895,
+      "longitude": 13.0309,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18290856"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q10540527",
+      "name_sv": "Johanniterklostret i Eskilstuna",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.372,
+      "longitude": 16.525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10540527"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q10543478",
+      "name_sv": "Kappla källa",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 58.80706,
+      "longitude": 16.91803,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10543478"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q108560846",
+      "name_sv": "Kastala kloster",
+      "name_en": "Kastala kloster",
+      "admin_area_sv": "Kungälvs kommun",
+      "admin_area_en": "Kungälv Municipality",
+      "latitude": 57.852222,
+      "longitude": 11.941111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108560846"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q10549366",
+      "name_sv": "Krokeks konvent",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 58.7064,
+      "longitude": 16.379,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10549366"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q1775445",
+      "name_sv": "Kronobäck",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 57.018611,
+      "longitude": 16.438333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775445"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q3358404",
+      "name_sv": "Kungahälla",
+      "name_en": "Kungahälla",
+      "admin_area_sv": "Västra Götalands län",
+      "admin_area_en": "Västra Götaland County",
+      "latitude": 57.849444,
+      "longitude": 11.939722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3358404"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q18291600",
+      "name_sv": "Kökars konvent",
+      "name_en": "",
+      "admin_area_sv": "Kökar",
+      "admin_area_en": "Kökar",
+      "latitude": 59.94472,
+      "longitude": 20.87833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18291600"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q10571886",
+      "name_sv": "Längnums kyrkplats",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 58.29043,
+      "longitude": 12.72438,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10571886"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q10577266",
+      "name_sv": "Mariavall",
+      "name_en": "",
+      "admin_area_sv": "Tomelilla kommun",
+      "admin_area_en": "Tomelilla Municipality",
+      "latitude": 55.675,
+      "longitude": 14.036111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10577266"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q108595277",
+      "name_sv": "Marstrands kloster",
+      "name_en": "Marstrand convent",
+      "admin_area_sv": "Kungälvs kommun",
+      "admin_area_en": "Kungälv Municipality",
+      "latitude": 57.885833,
+      "longitude": 11.582778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108595277"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q18292290",
+      "name_sv": "Mellby gamla kyrka",
+      "name_en": "Mellby kyrkplats",
+      "admin_area_sv": "Lidköpings kommun",
+      "admin_area_en": "Lidköping Municipality",
+      "latitude": 58.45817,
+      "longitude": 13.02675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18292290"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q18292608",
+      "name_sv": "Norraby kloster",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 55.945038,
+      "longitude": 12.985611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18292608"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q63226232",
+      "name_sv": "Rögle kloster",
+      "name_en": "",
+      "admin_area_sv": "Lunds kommun",
+      "admin_area_en": "Lund Municipality",
+      "latitude": 55.695333,
+      "longitude": 13.337583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63226232"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q18332448",
+      "name_sv": "Sankt Olofs kloster",
+      "name_en": "",
+      "admin_area_sv": "Mjölby kommun",
+      "admin_area_en": "Mjölby Municipality",
+      "latitude": 58.396981,
+      "longitude": 15.089931,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18332448"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q10661521",
+      "name_sv": "Sankta Clara kapellruin",
+      "name_en": "",
+      "admin_area_sv": "Ronneby kommun",
+      "admin_area_en": "Ronneby Municipality",
+      "latitude": 56.158244,
+      "longitude": 15.402786,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10661521"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q18332505",
+      "name_sv": "Senäte kyrkoruin",
+      "name_en": "Senäte kyrkplats",
+      "admin_area_sv": "Lidköpings kommun",
+      "admin_area_en": "Lidköping Municipality",
+      "latitude": 58.639339,
+      "longitude": 13.148088,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18332505"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q18332570",
+      "name_sv": "Skallsjö kyrkoruin",
+      "name_en": "Skallsjö kyrkoruin",
+      "admin_area_sv": "Lerums kommun",
+      "admin_area_en": "Lerum Municipality",
+      "latitude": 57.7943,
+      "longitude": 12.3513,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18332570"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q10670273",
+      "name_sv": "Sko kloster",
+      "name_en": "Sko Abbey",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.7046,
+      "longitude": 17.6238,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10670273"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q10670431",
+      "name_sv": "Skoklosters kyrka",
+      "name_en": "Skoklosters kyrka",
+      "admin_area_sv": "Håbo kommun",
+      "admin_area_en": "Håbo Municipality",
+      "latitude": 59.704592,
+      "longitude": 17.623441,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10670431"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q289298",
+      "name_sv": "Solberga kloster",
+      "name_en": "Solberga Abbey",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 57.633528,
+      "longitude": 18.29875,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q289298"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q4301532",
+      "name_sv": "",
+      "name_en": "St. Philothei of Athens convent",
+      "admin_area_sv": "Grillby",
+      "admin_area_en": "Grillby",
+      "latitude": 59.608333,
+      "longitude": 17.282167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4301532"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q10682096",
+      "name_sv": "Strängnäs konvent",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.378179,
+      "longitude": 17.033427,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10682096"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q4920798",
+      "name_sv": "Svartbrödraklostret i Stockholm",
+      "name_en": "Black Friars' Monastery of Stockholm",
+      "admin_area_sv": "Stockholm",
+      "admin_area_en": "Stockholm",
+      "latitude": 59.323333,
+      "longitude": 18.073333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4920798"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q3430277",
+      "name_sv": "Tommarps kloster",
+      "name_en": "Tommarps kloster",
+      "admin_area_sv": "Simrishamns kommun",
+      "admin_area_en": "Simrishamn Municipality",
+      "latitude": 55.5333,
+      "longitude": 14.2333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3430277"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q18334077",
+      "name_sv": "Tranums gamla kyrka",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 58.45906,
+      "longitude": 12.87561,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18334077"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q18334437",
+      "name_sv": "Uppsala Franciskankonvent",
+      "name_en": "",
+      "admin_area_sv": "Uppsala",
+      "admin_area_en": "Uppsala",
+      "latitude": 59.859625,
+      "longitude": 17.636389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18334437"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q860739",
+      "name_sv": "Varnhems kloster",
+      "name_en": "Varnhem Abbey",
+      "admin_area_sv": "Skara kommun",
+      "admin_area_en": "Skara Municipality",
+      "latitude": 58.384167,
+      "longitude": 13.654167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q860739"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q860536",
+      "name_sv": "Vreta kloster",
+      "name_en": "Vreta Abbey",
+      "admin_area_sv": "Linköpings kommun",
+      "admin_area_en": "Linköping Municipality",
+      "latitude": 58.482382,
+      "longitude": 15.517736,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q860536"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q7944495",
+      "name_sv": "Vårfruberga kloster",
+      "name_en": "Vårfruberga Abbey",
+      "admin_area_sv": "Strängnäs kommun",
+      "admin_area_en": "Strängnäs Municipality",
+      "latitude": 59.438611,
+      "longitude": 16.937222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7944495"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q1240929",
+      "name_sv": "Åhus kloster",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 55.922758,
+      "longitude": 14.296324,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1240929"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q8079040",
+      "name_sv": "Östanbäcks kloster",
+      "name_en": "Östanbäck Monastery",
+      "admin_area_sv": "Sala kommun",
+      "admin_area_en": "Sala Municipality",
+      "latitude": 59.9272,
+      "longitude": 16.4675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8079040"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q10727804",
+      "name_sv": "Östby kyrkplats",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 58.47407,
+      "longitude": 13.13309,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10727804"
+    }
+  ],
+  "meta": {
+    "title": "Kloster i Sverige - Gratis nedladdning",
+    "description": "Monasteries and convents in Sweden with coordinates, sourced from Wikidata. Innehåller 51 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kloster i Sverige | ListBase",
+    "seo_description": "Ladda ner Kloster i Sverige — 51 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 51 poster / 9 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

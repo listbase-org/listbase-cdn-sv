@@ -1,0 +1,4786 @@
+{
+  "id": "sv-emotionsord-disgust",
+  "name": "Emotionsord – Avsky",
+  "title": "Emotionsord – Avsky",
+  "description": "Svenska ord associerade med avsky, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 949,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "intensity",
+      "label": "Intensity",
+      "type": "number"
+    },
+    {
+      "key": "emotion",
+      "label": "Emotion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "kannibalism",
+      "intensity": "0.953",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stympning",
+      "intensity": "0.930",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ofredande",
+      "intensity": "0.914",
+      "emotion": "disgust"
+    },
+    {
+      "word": "incest",
+      "intensity": "0.914",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gonorrhea",
+      "intensity": "0.906",
+      "emotion": "disgust"
+    },
+    {
+      "word": "våldta",
+      "intensity": "0.906",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kannibal",
+      "intensity": "0.898",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ruttna",
+      "intensity": "0.891",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lik",
+      "intensity": "0.883",
+      "emotion": "disgust"
+    },
+    {
+      "word": "massaker",
+      "intensity": "0.883",
+      "emotion": "disgust"
+    },
+    {
+      "word": "träck",
+      "intensity": "0.883",
+      "emotion": "disgust"
+    },
+    {
+      "word": "barf",
+      "intensity": "0.875",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slakteri",
+      "intensity": "0.867",
+      "emotion": "disgust"
+    },
+    {
+      "word": "härsken",
+      "intensity": "0.859",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avloppsnät",
+      "intensity": "0.859",
+      "emotion": "disgust"
+    },
+    {
+      "word": "incestuös",
+      "intensity": "0.859",
+      "emotion": "disgust"
+    },
+    {
+      "word": "trångsynt",
+      "intensity": "0.859",
+      "emotion": "disgust"
+    },
+    {
+      "word": "angrepp",
+      "intensity": "0.852",
+      "emotion": "disgust"
+    },
+    {
+      "word": "blodtörstig",
+      "intensity": "0.852",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förintelse",
+      "intensity": "0.852",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rötning",
+      "intensity": "0.844",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mask",
+      "intensity": "0.844",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fekal",
+      "intensity": "0.844",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mörda",
+      "intensity": "0.839",
+      "emotion": "disgust"
+    },
+    {
+      "word": "barnamord",
+      "intensity": "0.836",
+      "emotion": "disgust"
+    },
+    {
+      "word": "enslaved",
+      "intensity": "0.836",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slakt",
+      "intensity": "0.828",
+      "emotion": "disgust"
+    },
+    {
+      "word": "levrat blod",
+      "intensity": "0.828",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tortyr",
+      "intensity": "0.828",
+      "emotion": "disgust"
+    },
+    {
+      "word": "exkretion",
+      "intensity": "0.828",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mördare",
+      "intensity": "0.820",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vanhelgande",
+      "intensity": "0.820",
+      "emotion": "disgust"
+    },
+    {
+      "word": "grotesk",
+      "intensity": "0.820",
+      "emotion": "disgust"
+    },
+    {
+      "word": "upprörande",
+      "intensity": "0.820",
+      "emotion": "disgust"
+    },
+    {
+      "word": "diarre",
+      "intensity": "0.820",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gödsel",
+      "intensity": "0.820",
+      "emotion": "disgust"
+    },
+    {
+      "word": "terrorist",
+      "intensity": "0.820",
+      "emotion": "disgust"
+    },
+    {
+      "word": "Skit",
+      "intensity": "0.820",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dråp",
+      "intensity": "0.812",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slaveri",
+      "intensity": "0.812",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kräkas",
+      "intensity": "0.812",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stympningen",
+      "intensity": "0.812",
+      "emotion": "disgust"
+    },
+    {
+      "word": "pervers",
+      "intensity": "0.805",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avlopp",
+      "intensity": "0.797",
+      "emotion": "disgust"
+    },
+    {
+      "word": "snuskig",
+      "intensity": "0.797",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sedefördärv",
+      "intensity": "0.797",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kadaver",
+      "intensity": "0.795",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bryta ned",
+      "intensity": "0.789",
+      "emotion": "disgust"
+    },
+    {
+      "word": "parasit",
+      "intensity": "0.789",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fruktansvärda",
+      "intensity": "0.789",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stympade",
+      "intensity": "0.789",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mördande",
+      "intensity": "0.789",
+      "emotion": "disgust"
+    },
+    {
+      "word": "herpes",
+      "intensity": "0.789",
+      "emotion": "disgust"
+    },
+    {
+      "word": "flatulens",
+      "intensity": "0.781",
+      "emotion": "disgust"
+    },
+    {
+      "word": "monster",
+      "intensity": "0.781",
+      "emotion": "disgust"
+    },
+    {
+      "word": "blodbad",
+      "intensity": "0.781",
+      "emotion": "disgust"
+    },
+    {
+      "word": "pest",
+      "intensity": "0.781",
+      "emotion": "disgust"
+    },
+    {
+      "word": "malaria",
+      "intensity": "0.781",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skit",
+      "intensity": "0.781",
+      "emotion": "disgust"
+    },
+    {
+      "word": "toxisk",
+      "intensity": "0.773",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smygande",
+      "intensity": "0.773",
+      "emotion": "disgust"
+    },
+    {
+      "word": "spetälska",
+      "intensity": "0.773",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bårhus",
+      "intensity": "0.773",
+      "emotion": "disgust"
+    },
+    {
+      "word": "pus",
+      "intensity": "0.773",
+      "emotion": "disgust"
+    },
+    {
+      "word": "herpesvirus",
+      "intensity": "0.773",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hora",
+      "intensity": "0.766",
+      "emotion": "disgust"
+    },
+    {
+      "word": "grym",
+      "intensity": "0.766",
+      "emotion": "disgust"
+    },
+    {
+      "word": "främlingshat",
+      "intensity": "0.766",
+      "emotion": "disgust"
+    },
+    {
+      "word": "regurgitation",
+      "intensity": "0.766",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mjältbrand",
+      "intensity": "0.766",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lyncha",
+      "intensity": "0.766",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dissektion",
+      "intensity": "0.759",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kräfta",
+      "intensity": "0.758",
+      "emotion": "disgust"
+    },
+    {
+      "word": "grymhet",
+      "intensity": "0.758",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förvrängning",
+      "intensity": "0.758",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slum",
+      "intensity": "0.758",
+      "emotion": "disgust"
+    },
+    {
+      "word": "infektiös",
+      "intensity": "0.758",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slem-",
+      "intensity": "0.758",
+      "emotion": "disgust"
+    },
+    {
+      "word": "blodiglar",
+      "intensity": "0.750",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sönderfall",
+      "intensity": "0.750",
+      "emotion": "disgust"
+    },
+    {
+      "word": "olycksbådande",
+      "intensity": "0.750",
+      "emotion": "disgust"
+    },
+    {
+      "word": "korrumperande",
+      "intensity": "0.750",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slem",
+      "intensity": "0.742",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stinkande",
+      "intensity": "0.742",
+      "emotion": "disgust"
+    },
+    {
+      "word": "septisk",
+      "intensity": "0.742",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rubbad",
+      "intensity": "0.742",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smutsad",
+      "intensity": "0.742",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kväljande",
+      "intensity": "0.742",
+      "emotion": "disgust"
+    },
+    {
+      "word": "demonisk",
+      "intensity": "0.742",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ojust spel",
+      "intensity": "0.734",
+      "emotion": "disgust"
+    },
+    {
+      "word": "äcklas",
+      "intensity": "0.734",
+      "emotion": "disgust"
+    },
+    {
+      "word": "degeneration",
+      "intensity": "0.734",
+      "emotion": "disgust"
+    },
+    {
+      "word": "crucifixion",
+      "intensity": "0.734",
+      "emotion": "disgust"
+    },
+    {
+      "word": "cancer",
+      "intensity": "0.734",
+      "emotion": "disgust"
+    },
+    {
+      "word": "illdåd",
+      "intensity": "0.734",
+      "emotion": "disgust"
+    },
+    {
+      "word": "terrorism",
+      "intensity": "0.734",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dysenteri",
+      "intensity": "0.727",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sjuklighet",
+      "intensity": "0.727",
+      "emotion": "disgust"
+    },
+    {
+      "word": "repulsion",
+      "intensity": "0.727",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lavemang",
+      "intensity": "0.727",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smitta",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vanställd",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mocka",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sopor",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "obduktion",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tarmar",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "brutto",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vulgär",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "barba",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ond",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "inälvor",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skarp",
+      "intensity": "0.719",
+      "emotion": "disgust"
+    },
+    {
+      "word": "blodsutgjutelse",
+      "intensity": "0.714",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förorena",
+      "intensity": "0.711",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tyrann",
+      "intensity": "0.711",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förgiftad",
+      "intensity": "0.711",
+      "emotion": "disgust"
+    },
+    {
+      "word": "illamående",
+      "intensity": "0.711",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förödmjukelse",
+      "intensity": "0.711",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gag",
+      "intensity": "0.711",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vulgaritet",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "famla",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slampa",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förgiftning",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "depraverad",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "porr",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slemmig",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "despotism",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "äckla",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "utsöndring",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förstoppning",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förhatlig",
+      "intensity": "0.703",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mässling",
+      "intensity": "0.696",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smittosam",
+      "intensity": "0.695",
+      "emotion": "disgust"
+    },
+    {
+      "word": "helvetisk",
+      "intensity": "0.695",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avfall",
+      "intensity": "0.695",
+      "emotion": "disgust"
+    },
+    {
+      "word": "suicidal",
+      "intensity": "0.695",
+      "emotion": "disgust"
+    },
+    {
+      "word": "missbruk",
+      "intensity": "0.695",
+      "emotion": "disgust"
+    },
+    {
+      "word": "usling",
+      "intensity": "0.695",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tarm-",
+      "intensity": "0.695",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vårta",
+      "intensity": "0.695",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fetma",
+      "intensity": "0.695",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avskum",
+      "intensity": "0.695",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förorenade",
+      "intensity": "0.688",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fanatisk",
+      "intensity": "0.688",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sippra",
+      "intensity": "0.688",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förräderi",
+      "intensity": "0.688",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hjärtmask",
+      "intensity": "0.688",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smut",
+      "intensity": "0.688",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hata",
+      "intensity": "0.680",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sjukdom",
+      "intensity": "0.680",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kolera",
+      "intensity": "0.680",
+      "emotion": "disgust"
+    },
+    {
+      "word": "deformerad",
+      "intensity": "0.680",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bestialisk",
+      "intensity": "0.680",
+      "emotion": "disgust"
+    },
+    {
+      "word": "antikrist",
+      "intensity": "0.680",
+      "emotion": "disgust"
+    },
+    {
+      "word": "själlös",
+      "intensity": "0.680",
+      "emotion": "disgust"
+    },
+    {
+      "word": "underlig",
+      "intensity": "0.680",
+      "emotion": "disgust"
+    },
+    {
+      "word": "grimy",
+      "intensity": "0.680",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hat",
+      "intensity": "0.680",
+      "emotion": "disgust"
+    },
+    {
+      "word": "Helvete",
+      "intensity": "0.680",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förfallen",
+      "intensity": "0.672",
+      "emotion": "disgust"
+    },
+    {
+      "word": "diktatur",
+      "intensity": "0.672",
+      "emotion": "disgust"
+    },
+    {
+      "word": "omänsklig",
+      "intensity": "0.672",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oljig",
+      "intensity": "0.672",
+      "emotion": "disgust"
+    },
+    {
+      "word": "VÄMJELIG",
+      "intensity": "0.672",
+      "emotion": "disgust"
+    },
+    {
+      "word": "obscen",
+      "intensity": "0.672",
+      "emotion": "disgust"
+    },
+    {
+      "word": "cess",
+      "intensity": "0.670",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avskyvärd",
+      "intensity": "0.664",
+      "emotion": "disgust"
+    },
+    {
+      "word": "äcklig",
+      "intensity": "0.664",
+      "emotion": "disgust"
+    },
+    {
+      "word": "jäkel",
+      "intensity": "0.664",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kättare",
+      "intensity": "0.664",
+      "emotion": "disgust"
+    },
+    {
+      "word": "deformitet",
+      "intensity": "0.664",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dödligt",
+      "intensity": "0.664",
+      "emotion": "disgust"
+    },
+    {
+      "word": "svin",
+      "intensity": "0.664",
+      "emotion": "disgust"
+    },
+    {
+      "word": "diskriminering",
+      "intensity": "0.664",
+      "emotion": "disgust"
+    },
+    {
+      "word": "masochism",
+      "intensity": "0.664",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bakterie",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fördomsfull",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "död",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förgifta",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "abort",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "korruption",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "offer",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förtryck",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gegga",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "latriner",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "Skräck",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skändlig",
+      "intensity": "0.656",
+      "emotion": "disgust"
+    },
+    {
+      "word": "otäck",
+      "intensity": "0.648",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vindictive",
+      "intensity": "0.648",
+      "emotion": "disgust"
+    },
+    {
+      "word": "uthus",
+      "intensity": "0.648",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slam",
+      "intensity": "0.648",
+      "emotion": "disgust"
+    },
+    {
+      "word": "trashy",
+      "intensity": "0.648",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tik",
+      "intensity": "0.648",
+      "emotion": "disgust"
+    },
+    {
+      "word": "omoralisk",
+      "intensity": "0.648",
+      "emotion": "disgust"
+    },
+    {
+      "word": "spy",
+      "intensity": "0.641",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ful",
+      "intensity": "0.641",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ämbetsbrott",
+      "intensity": "0.641",
+      "emotion": "disgust"
+    },
+    {
+      "word": "finne",
+      "intensity": "0.641",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oanständighet",
+      "intensity": "0.641",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skurkaktig",
+      "intensity": "0.641",
+      "emotion": "disgust"
+    },
+    {
+      "word": "cystisk",
+      "intensity": "0.641",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skräckinjagande",
+      "intensity": "0.641",
+      "emotion": "disgust"
+    },
+    {
+      "word": "laxativ",
+      "intensity": "0.641",
+      "emotion": "disgust"
+    },
+    {
+      "word": "brottslighet",
+      "intensity": "0.641",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förtryckande",
+      "intensity": "0.633",
+      "emotion": "disgust"
+    },
+    {
+      "word": "syndig",
+      "intensity": "0.633",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bigott",
+      "intensity": "0.633",
+      "emotion": "disgust"
+    },
+    {
+      "word": "domedag",
+      "intensity": "0.633",
+      "emotion": "disgust"
+    },
+    {
+      "word": "prostitution",
+      "intensity": "0.633",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ulcus",
+      "intensity": "0.633",
+      "emotion": "disgust"
+    },
+    {
+      "word": "utsöndra",
+      "intensity": "0.633",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förövare",
+      "intensity": "0.633",
+      "emotion": "disgust"
+    },
+    {
+      "word": "råtta",
+      "intensity": "0.633",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mögel",
+      "intensity": "0.633",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avföring",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "föraktlig",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "djävulsk",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ghastly",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förföljelse",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "nedbrytande",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "obscenitet",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "svamp",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "frosseri",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hanrej",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "uppsvälld",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bestört",
+      "intensity": "0.625",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sjuklig",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "svek",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "giljotin",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "infektera",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skämma bort",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stelkramp",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fett",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lus",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "polygami",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avskyvärda",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "termit",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "jänta",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "döende",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "strypa",
+      "intensity": "0.617",
+      "emotion": "disgust"
+    },
+    {
+      "word": "blödning",
+      "intensity": "0.609",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avsky",
+      "intensity": "0.609",
+      "emotion": "disgust"
+    },
+    {
+      "word": "giftig",
+      "intensity": "0.609",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dregla",
+      "intensity": "0.609",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förtal",
+      "intensity": "0.609",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bordell",
+      "intensity": "0.609",
+      "emotion": "disgust"
+    },
+    {
+      "word": "getto",
+      "intensity": "0.609",
+      "emotion": "disgust"
+    },
+    {
+      "word": "våldsamt",
+      "intensity": "0.609",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fientlig",
+      "intensity": "0.609",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sabotage",
+      "intensity": "0.609",
+      "emotion": "disgust"
+    },
+    {
+      "word": "deformera",
+      "intensity": "0.609",
+      "emotion": "disgust"
+    },
+    {
+      "word": "otvättad",
+      "intensity": "0.602",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fängelse",
+      "intensity": "0.602",
+      "emotion": "disgust"
+    },
+    {
+      "word": "berövande",
+      "intensity": "0.602",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förrädare",
+      "intensity": "0.602",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fulhet",
+      "intensity": "0.602",
+      "emotion": "disgust"
+    },
+    {
+      "word": "unken",
+      "intensity": "0.602",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sumpig",
+      "intensity": "0.602",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tjuvjakt",
+      "intensity": "0.602",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hagga",
+      "intensity": "0.602",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slaktare",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "galning",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gift",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gangster",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "elände",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "snigel",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "epidemi",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "berusade",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "blåsa",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kväljningar",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "spöklik",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "syndare",
+      "intensity": "0.594",
+      "emotion": "disgust"
+    },
+    {
+      "word": "plåga",
+      "intensity": "0.586",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hemsk",
+      "intensity": "0.586",
+      "emotion": "disgust"
+    },
+    {
+      "word": "toalett",
+      "intensity": "0.586",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mara",
+      "intensity": "0.586",
+      "emotion": "disgust"
+    },
+    {
+      "word": "prostituerad",
+      "intensity": "0.586",
+      "emotion": "disgust"
+    },
+    {
+      "word": "pornografi",
+      "intensity": "0.586",
+      "emotion": "disgust"
+    },
+    {
+      "word": "försämrats",
+      "intensity": "0.586",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skrämmande",
+      "intensity": "0.586",
+      "emotion": "disgust"
+    },
+    {
+      "word": "otrogen",
+      "intensity": "0.578",
+      "emotion": "disgust"
+    },
+    {
+      "word": "utslag",
+      "intensity": "0.578",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förnedrande",
+      "intensity": "0.578",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ödeläggande",
+      "intensity": "0.578",
+      "emotion": "disgust"
+    },
+    {
+      "word": "offensiv",
+      "intensity": "0.578",
+      "emotion": "disgust"
+    },
+    {
+      "word": "konspiratör",
+      "intensity": "0.578",
+      "emotion": "disgust"
+    },
+    {
+      "word": "utsvävningar",
+      "intensity": "0.578",
+      "emotion": "disgust"
+    },
+    {
+      "word": "loppa",
+      "intensity": "0.578",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hycklare",
+      "intensity": "0.578",
+      "emotion": "disgust"
+    },
+    {
+      "word": "djävul",
+      "intensity": "0.578",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gungfly",
+      "intensity": "0.578",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förrädisk",
+      "intensity": "0.570",
+      "emotion": "disgust"
+    },
+    {
+      "word": "spotta",
+      "intensity": "0.570",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förödande",
+      "intensity": "0.570",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bastard",
+      "intensity": "0.570",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rörig",
+      "intensity": "0.570",
+      "emotion": "disgust"
+    },
+    {
+      "word": "prygla",
+      "intensity": "0.570",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oerhörd",
+      "intensity": "0.570",
+      "emotion": "disgust"
+    },
+    {
+      "word": "träsk",
+      "intensity": "0.570",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förtrycka",
+      "intensity": "0.570",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förakta",
+      "intensity": "0.570",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smutsig",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oanständig",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fruktansvärd",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vansinne",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "orm",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förfärlig",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "toa",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fiende",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stjäla",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "alkoholism",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förnedring",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hänsynslös",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slarvig",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tyrannisk",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sköka",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sinning",
+      "intensity": "0.562",
+      "emotion": "disgust"
+    },
+    {
+      "word": "blodig",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ondska",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rån",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "olidlig",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "arsenik",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förlöjliga",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "atrofi",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "djurisk",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "maskopi",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avsmak",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "segregera",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "särskiljande",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "feg",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hotfull",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oattraktiv",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "baneman",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slapp",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vattkoppor",
+      "intensity": "0.555",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skadlig",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "illvillig",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "eländig",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vagel",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tjuv",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sluddra",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kvävande",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förbannelse",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skärseld",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bittert",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "attackera",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vesikulär",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fördömelse",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "plundring",
+      "intensity": "0.547",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fet",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "otrohet",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "repellerande",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tröska",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förkastande",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lögnare",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gob",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "berusad",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skam",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "svartsjuk",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fången",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "girig",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lättja",
+      "intensity": "0.539",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dödlig",
+      "intensity": "0.536",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bränd",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "nedlåtenhet",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hydrocefalus",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hängande",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "destruktiv",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smugglare",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "intolerant",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "travesti",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "påträngande",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förstörd",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vissnade",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "desintegrera",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bråk",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "neurotisk",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hädisk",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "liggande",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smärtsam",
+      "intensity": "0.531",
+      "emotion": "disgust"
+    },
+    {
+      "word": "nedsättande",
+      "intensity": "0.523",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avvikelse",
+      "intensity": "0.523",
+      "emotion": "disgust"
+    },
+    {
+      "word": "disgraced",
+      "intensity": "0.523",
+      "emotion": "disgust"
+    },
+    {
+      "word": "husmor",
+      "intensity": "0.523",
+      "emotion": "disgust"
+    },
+    {
+      "word": "anklagelse",
+      "intensity": "0.523",
+      "emotion": "disgust"
+    },
+    {
+      "word": "intolerans",
+      "intensity": "0.523",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fängslande",
+      "intensity": "0.523",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fördärvat",
+      "intensity": "0.523",
+      "emotion": "disgust"
+    },
+    {
+      "word": "demon",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sump",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "beklaglig",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "degradera",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ränna",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "råna",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bister",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bedra",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skadegörande",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "utrotning",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stank",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vanära",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gam",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "resterna",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kvalster",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förråda",
+      "intensity": "0.516",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skadedjur",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "katastrof",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "endemisk",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bombarderades",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ångest",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "obotlig",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "värdelös",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avslag",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "schizofreni",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förringa",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lukta",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fuska",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "klick",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "idioti",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "delirium",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rå",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fruktansvärt",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "glut",
+      "intensity": "0.508",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smuts",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förorening",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stöld",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "troll",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tvång",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "girighet",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "polemisk",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avgudadyrkan",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tabu",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skrikande",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förvisa",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "schackel",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bestickning",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "flagrant",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "svartsjuka",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bitterhet",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "anfall",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "anklaga",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tirad",
+      "intensity": "0.500",
+      "emotion": "disgust"
+    },
+    {
+      "word": "idiot",
+      "intensity": "0.492",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vanhedrande",
+      "intensity": "0.492",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sjuk",
+      "intensity": "0.492",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rånare",
+      "intensity": "0.492",
+      "emotion": "disgust"
+    },
+    {
+      "word": "våndas",
+      "intensity": "0.492",
+      "emotion": "disgust"
+    },
+    {
+      "word": "unconscionable",
+      "intensity": "0.492",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lågkonjunktur",
+      "intensity": "0.492",
+      "emotion": "disgust"
+    },
+    {
+      "word": "klyfta",
+      "intensity": "0.492",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förstöra",
+      "intensity": "0.492",
+      "emotion": "disgust"
+    },
+    {
+      "word": "baktala",
+      "intensity": "0.492",
+      "emotion": "disgust"
+    },
+    {
+      "word": "koka upp",
+      "intensity": "0.492",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lidande",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "blöja",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fientlighet",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slösaktig",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "myteri",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ockult",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "outhärdlig",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lagbrytare",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "servil",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smuggel",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "morra",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "galen",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "underkuvande",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "besatt",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ärekränkning",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "respektlös",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "röra",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "nepotism",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oursäktlig",
+      "intensity": "0.484",
+      "emotion": "disgust"
+    },
+    {
+      "word": "obehaglig",
+      "intensity": "0.477",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hån",
+      "intensity": "0.477",
+      "emotion": "disgust"
+    },
+    {
+      "word": "patetisk",
+      "intensity": "0.477",
+      "emotion": "disgust"
+    },
+    {
+      "word": "undertryckande",
+      "intensity": "0.477",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förlamning",
+      "intensity": "0.477",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kriminell",
+      "intensity": "0.477",
+      "emotion": "disgust"
+    },
+    {
+      "word": "olaglighet",
+      "intensity": "0.477",
+      "emotion": "disgust"
+    },
+    {
+      "word": "OBEKYMRAD",
+      "intensity": "0.477",
+      "emotion": "disgust"
+    },
+    {
+      "word": "antagonistisk",
+      "intensity": "0.477",
+      "emotion": "disgust"
+    },
+    {
+      "word": "omoral",
+      "intensity": "0.477",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dyster",
+      "intensity": "0.477",
+      "emotion": "disgust"
+    },
+    {
+      "word": "usel",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rasande",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "arg",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "frånstötande",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hosta",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "arrogant",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "galler",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förvärrande",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "askgrå",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förvisning",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "banshee",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fattigdom",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vältra sig",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "upprördhet",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hånfull",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "svett",
+      "intensity": "0.469",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bedräglig",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sticka",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "övermod",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förvrängd",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "Spindel",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kvacksalvare",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "grumlig",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oäkta",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kränkande",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ärr",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lura",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oberättigad",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "djupt beklaga",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "plundra",
+      "intensity": "0.461",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fördärv",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bladlus",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "indignation",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "självisk",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "nedvärdera",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "byracka",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oärlig",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stigma",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "eschew",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "antipati",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fjärma",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "disingenuous",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "eliminering",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "otänkbar",
+      "intensity": "0.453",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förlorad",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "motsträvig",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "orätt",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mygga",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "karies",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "konkurs",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "egotistical",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "pålar",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lukt",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vacuous",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förtvivlan",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "opium",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skrikig",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lögn",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "from",
+      "intensity": "0.445",
+      "emotion": "disgust"
+    },
+    {
+      "word": "motbjudande",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gris",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fånge",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "klibbig",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skrika",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "utomjording",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sky",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "onormal",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skamsen",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "abject",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hopplöshet",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hemlös",
+      "intensity": "0.438",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skräp",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förbanna",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "varelse",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "frisk",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skamlös",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "trots",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bårtäcke",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "falskhet",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "återflöde",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skeptisk",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "knep",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "okänslig",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "separatist",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oönskad",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fördöma",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "häxa",
+      "intensity": "0.430",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oren",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "luffare",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bovin",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ovårdad",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "välla",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "infantil",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ammoniak",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förolämpa",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "idiotisk",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hypertrofi",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "nikotin",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smaklös",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "pompös",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "socialistisk",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "brottsling",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "svärm",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "omtvistad",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slarv",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hårig",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slöseri",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slask",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skymf",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kollaps",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dålighet",
+      "intensity": "0.422",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ogynnsam",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oärlighet",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vegetativ",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "displacency",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "inte lyda",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sur",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "socialism",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mulen",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "försummad",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dravel",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vampyr",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stridslysten",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "illegitim",
+      "intensity": "0.414",
+      "emotion": "disgust"
+    },
+    {
+      "word": "motvilja",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "olaglig",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "okunnig",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "utstött",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slå tillbaka",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "falska",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "snatteri",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "falsk",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avbrott",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "återfall",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "otacksam",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förseelse",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förfalska",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "åtal",
+      "intensity": "0.406",
+      "emotion": "disgust"
+    },
+    {
+      "word": "försämring",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förakt",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fel",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lom",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slicka",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "omstörta",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stränghet",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ostyrig",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "brist",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "onaturlig",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "obenägna",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "meningslös",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ve",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bedrövligt",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "amfetamin",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "snål",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förkrossande",
+      "intensity": "0.398",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förolämpning",
+      "intensity": "0.393",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skada",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "härdad",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "diatribe",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avoghet",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "Nötkreatur",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "muff",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "asocial",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bestraffning",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dålig",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "straffad",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "MOTVILJA",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "utvisa",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "farsartad",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skorpion",
+      "intensity": "0.391",
+      "emotion": "disgust"
+    },
+    {
+      "word": "uppoffringar",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "plagiat",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hycklande",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "äktenskapsskillnad",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förmäten",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "disharmoni",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "flykting",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "överdrivna",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sjaskig",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "orc",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "huggorm",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "anakonda",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "buttre",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "irrationell",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "svika",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "analfabet",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "beklaga",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vräkning",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "svårslagna",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skuld",
+      "intensity": "0.383",
+      "emotion": "disgust"
+    },
+    {
+      "word": "håna",
+      "intensity": "0.375",
+      "emotion": "disgust"
+    },
+    {
+      "word": "försummelse",
+      "intensity": "0.375",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skylla",
+      "intensity": "0.375",
+      "emotion": "disgust"
+    },
+    {
+      "word": "alienation",
+      "intensity": "0.375",
+      "emotion": "disgust"
+    },
+    {
+      "word": "deprimerande",
+      "intensity": "0.375",
+      "emotion": "disgust"
+    },
+    {
+      "word": "irriterande",
+      "intensity": "0.375",
+      "emotion": "disgust"
+    },
+    {
+      "word": "svår situation",
+      "intensity": "0.375",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ovärdig",
+      "intensity": "0.375",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dislocated",
+      "intensity": "0.375",
+      "emotion": "disgust"
+    },
+    {
+      "word": "defekt",
+      "intensity": "0.375",
+      "emotion": "disgust"
+    },
+    {
+      "word": "chock",
+      "intensity": "0.375",
+      "emotion": "disgust"
+    },
+    {
+      "word": "uteslutning",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bluff",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "återkalla",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avskalade",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "uppenbar",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "krossa",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ohälsosam",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "padda",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "wimpy",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fälla",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förgäves",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "maktlös",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "cad",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sårande",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rysning",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mes",
+      "intensity": "0.367",
+      "emotion": "disgust"
+    },
+    {
+      "word": "underlighet",
+      "intensity": "0.359",
+      "emotion": "disgust"
+    },
+    {
+      "word": "uppror",
+      "intensity": "0.359",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oförenlig",
+      "intensity": "0.359",
+      "emotion": "disgust"
+    },
+    {
+      "word": "inkompetens",
+      "intensity": "0.359",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avyttra",
+      "intensity": "0.359",
+      "emotion": "disgust"
+    },
+    {
+      "word": "olydnad",
+      "intensity": "0.359",
+      "emotion": "disgust"
+    },
+    {
+      "word": "attans",
+      "intensity": "0.359",
+      "emotion": "disgust"
+    },
+    {
+      "word": "insekt",
+      "intensity": "0.359",
+      "emotion": "disgust"
+    },
+    {
+      "word": "folktom",
+      "intensity": "0.359",
+      "emotion": "disgust"
+    },
+    {
+      "word": "våldsam",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "uppsägning",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "missnöjd",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "processa",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "löjlig",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kompost",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "obi",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "untoward",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "censurera",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "osäker",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "advokat",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kött",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "krossad",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "olov",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skärande",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dåligt uppförande",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "omintetgöra",
+      "intensity": "0.352",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ogilla",
+      "intensity": "0.344",
+      "emotion": "disgust"
+    },
+    {
+      "word": "minska i värde",
+      "intensity": "0.344",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tårfylld",
+      "intensity": "0.344",
+      "emotion": "disgust"
+    },
+    {
+      "word": "misstro",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "missfärgning",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "missnöje",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tanklös",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "orolig",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "klimpig",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "blunder",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "obenägenhet",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förarga",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rättegång",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "klaga",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dum",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hjärtsjuka",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ogillade",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gnabb",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "otillåtna",
+      "intensity": "0.336",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hämma",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förbittring",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ohanterlig",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hydrophobia",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "otillfredsställande",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gnälla",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "instabilitet",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "provocera",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "besviken",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slug",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "klagomål",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "materia",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "uteslutna",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kakofonin",
+      "intensity": "0.328",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vilseledande",
+      "intensity": "0.321",
+      "emotion": "disgust"
+    },
+    {
+      "word": "irritation",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "säger",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "trasor",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sot",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "otjänst",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "olika",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "humbug",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förebrå",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "begränsad",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ogillande",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "missöde",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "stön",
+      "intensity": "0.320",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mage",
+      "intensity": "0.312",
+      "emotion": "disgust"
+    },
+    {
+      "word": "olämplig",
+      "intensity": "0.312",
+      "emotion": "disgust"
+    },
+    {
+      "word": "jord",
+      "intensity": "0.312",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skrivs",
+      "intensity": "0.312",
+      "emotion": "disgust"
+    },
+    {
+      "word": "GÖRA OBENÄGEN",
+      "intensity": "0.312",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hänsynslöst",
+      "intensity": "0.312",
+      "emotion": "disgust"
+    },
+    {
+      "word": "burke",
+      "intensity": "0.312",
+      "emotion": "disgust"
+    },
+    {
+      "word": "för dyrt",
+      "intensity": "0.312",
+      "emotion": "disgust"
+    },
+    {
+      "word": "nysa",
+      "intensity": "0.312",
+      "emotion": "disgust"
+    },
+    {
+      "word": "klandra",
+      "intensity": "0.312",
+      "emotion": "disgust"
+    },
+    {
+      "word": "teism",
+      "intensity": "0.312",
+      "emotion": "disgust"
+    },
+    {
+      "word": "galla",
+      "intensity": "0.305",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vresig",
+      "intensity": "0.305",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ovänlig",
+      "intensity": "0.305",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skillnad",
+      "intensity": "0.305",
+      "emotion": "disgust"
+    },
+    {
+      "word": "latent",
+      "intensity": "0.305",
+      "emotion": "disgust"
+    },
+    {
+      "word": "smäll",
+      "intensity": "0.305",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avvisas",
+      "intensity": "0.305",
+      "emotion": "disgust"
+    },
+    {
+      "word": "hydda",
+      "intensity": "0.305",
+      "emotion": "disgust"
+    },
+    {
+      "word": "aversion",
+      "intensity": "0.305",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oansvarig",
+      "intensity": "0.305",
+      "emotion": "disgust"
+    },
+    {
+      "word": "coop",
+      "intensity": "0.304",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skurk",
+      "intensity": "0.297",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skälla",
+      "intensity": "0.297",
+      "emotion": "disgust"
+    },
+    {
+      "word": "morrande",
+      "intensity": "0.297",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ensam",
+      "intensity": "0.297",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dröjsmål",
+      "intensity": "0.297",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kongress",
+      "intensity": "0.297",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bortses",
+      "intensity": "0.297",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bakåt",
+      "intensity": "0.297",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ömhet",
+      "intensity": "0.297",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ökänd",
+      "intensity": "0.289",
+      "emotion": "disgust"
+    },
+    {
+      "word": "lesbisk",
+      "intensity": "0.289",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ökändhet",
+      "intensity": "0.289",
+      "emotion": "disgust"
+    },
+    {
+      "word": "katekes",
+      "intensity": "0.289",
+      "emotion": "disgust"
+    },
+    {
+      "word": "flop",
+      "intensity": "0.289",
+      "emotion": "disgust"
+    },
+    {
+      "word": "nässla",
+      "intensity": "0.289",
+      "emotion": "disgust"
+    },
+    {
+      "word": "portvakt",
+      "intensity": "0.289",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rygga tillbaka",
+      "intensity": "0.281",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mättad",
+      "intensity": "0.281",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gaby",
+      "intensity": "0.281",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förbjuden",
+      "intensity": "0.281",
+      "emotion": "disgust"
+    },
+    {
+      "word": "försumlig",
+      "intensity": "0.281",
+      "emotion": "disgust"
+    },
+    {
+      "word": "orättvis",
+      "intensity": "0.281",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avstå",
+      "intensity": "0.281",
+      "emotion": "disgust"
+    },
+    {
+      "word": "verkningarna",
+      "intensity": "0.281",
+      "emotion": "disgust"
+    },
+    {
+      "word": "huff",
+      "intensity": "0.273",
+      "emotion": "disgust"
+    },
+    {
+      "word": "missfärgad",
+      "intensity": "0.273",
+      "emotion": "disgust"
+    },
+    {
+      "word": "illa till mods",
+      "intensity": "0.273",
+      "emotion": "disgust"
+    },
+    {
+      "word": "wrangling",
+      "intensity": "0.273",
+      "emotion": "disgust"
+    },
+    {
+      "word": "domstol",
+      "intensity": "0.273",
+      "emotion": "disgust"
+    },
+    {
+      "word": "krypa",
+      "intensity": "0.266",
+      "emotion": "disgust"
+    },
+    {
+      "word": "konstig",
+      "intensity": "0.266",
+      "emotion": "disgust"
+    },
+    {
+      "word": "byråkrat",
+      "intensity": "0.266",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kyla",
+      "intensity": "0.266",
+      "emotion": "disgust"
+    },
+    {
+      "word": "oartig",
+      "intensity": "0.266",
+      "emotion": "disgust"
+    },
+    {
+      "word": "klok",
+      "intensity": "0.266",
+      "emotion": "disgust"
+    },
+    {
+      "word": "otillfredsställd",
+      "intensity": "0.266",
+      "emotion": "disgust"
+    },
+    {
+      "word": "slurk",
+      "intensity": "0.266",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ineffektivitet",
+      "intensity": "0.266",
+      "emotion": "disgust"
+    },
+    {
+      "word": "utom sig",
+      "intensity": "0.266",
+      "emotion": "disgust"
+    },
+    {
+      "word": "instinktiv",
+      "intensity": "0.258",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kärra",
+      "intensity": "0.258",
+      "emotion": "disgust"
+    },
+    {
+      "word": "om",
+      "intensity": "0.258",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bläckfisk",
+      "intensity": "0.258",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förtret",
+      "intensity": "0.258",
+      "emotion": "disgust"
+    },
+    {
+      "word": "härmapa",
+      "intensity": "0.258",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skojare",
+      "intensity": "0.258",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sarkasm",
+      "intensity": "0.258",
+      "emotion": "disgust"
+    },
+    {
+      "word": "barsk",
+      "intensity": "0.258",
+      "emotion": "disgust"
+    },
+    {
+      "word": "missuppfattning",
+      "intensity": "0.250",
+      "emotion": "disgust"
+    },
+    {
+      "word": "holk",
+      "intensity": "0.250",
+      "emotion": "disgust"
+    },
+    {
+      "word": "shanghai",
+      "intensity": "0.250",
+      "emotion": "disgust"
+    },
+    {
+      "word": "babian",
+      "intensity": "0.250",
+      "emotion": "disgust"
+    },
+    {
+      "word": "obenägen",
+      "intensity": "0.250",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förlora",
+      "intensity": "0.250",
+      "emotion": "disgust"
+    },
+    {
+      "word": "john",
+      "intensity": "0.250",
+      "emotion": "disgust"
+    },
+    {
+      "word": "koppning",
+      "intensity": "0.250",
+      "emotion": "disgust"
+    },
+    {
+      "word": "råka",
+      "intensity": "0.242",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gratuitous",
+      "intensity": "0.242",
+      "emotion": "disgust"
+    },
+    {
+      "word": "intrasslad",
+      "intensity": "0.242",
+      "emotion": "disgust"
+    },
+    {
+      "word": "motståndare",
+      "intensity": "0.242",
+      "emotion": "disgust"
+    },
+    {
+      "word": "taxa",
+      "intensity": "0.242",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skrubba",
+      "intensity": "0.242",
+      "emotion": "disgust"
+    },
+    {
+      "word": "avgå",
+      "intensity": "0.234",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förlänga",
+      "intensity": "0.234",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bliv",
+      "intensity": "0.234",
+      "emotion": "disgust"
+    },
+    {
+      "word": "motvillighet",
+      "intensity": "0.234",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tveksamt",
+      "intensity": "0.234",
+      "emotion": "disgust"
+    },
+    {
+      "word": "eftersläpande",
+      "intensity": "0.234",
+      "emotion": "disgust"
+    },
+    {
+      "word": "felaktigheter",
+      "intensity": "0.234",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kinkig",
+      "intensity": "0.227",
+      "emotion": "disgust"
+    },
+    {
+      "word": "omkastning",
+      "intensity": "0.227",
+      "emotion": "disgust"
+    },
+    {
+      "word": "diskvalificeras",
+      "intensity": "0.227",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bidrag",
+      "intensity": "0.227",
+      "emotion": "disgust"
+    },
+    {
+      "word": "verkningslös",
+      "intensity": "0.227",
+      "emotion": "disgust"
+    },
+    {
+      "word": "impopulär",
+      "intensity": "0.227",
+      "emotion": "disgust"
+    },
+    {
+      "word": "standard",
+      "intensity": "0.227",
+      "emotion": "disgust"
+    },
+    {
+      "word": "intensiv",
+      "intensity": "0.219",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dame",
+      "intensity": "0.219",
+      "emotion": "disgust"
+    },
+    {
+      "word": "undgå",
+      "intensity": "0.219",
+      "emotion": "disgust"
+    },
+    {
+      "word": "petroleum",
+      "intensity": "0.219",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vikt",
+      "intensity": "0.219",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rynkar",
+      "intensity": "0.219",
+      "emotion": "disgust"
+    },
+    {
+      "word": "olycklig",
+      "intensity": "0.211",
+      "emotion": "disgust"
+    },
+    {
+      "word": "angripbara",
+      "intensity": "0.211",
+      "emotion": "disgust"
+    },
+    {
+      "word": "brungul",
+      "intensity": "0.211",
+      "emotion": "disgust"
+    },
+    {
+      "word": "åsna",
+      "intensity": "0.211",
+      "emotion": "disgust"
+    },
+    {
+      "word": "fläck",
+      "intensity": "0.203",
+      "emotion": "disgust"
+    },
+    {
+      "word": "likgiltighet",
+      "intensity": "0.203",
+      "emotion": "disgust"
+    },
+    {
+      "word": "rave",
+      "intensity": "0.203",
+      "emotion": "disgust"
+    },
+    {
+      "word": "björk",
+      "intensity": "0.203",
+      "emotion": "disgust"
+    },
+    {
+      "word": "huva",
+      "intensity": "0.203",
+      "emotion": "disgust"
+    },
+    {
+      "word": "öken-",
+      "intensity": "0.203",
+      "emotion": "disgust"
+    },
+    {
+      "word": "SOM SKALL BETALAS",
+      "intensity": "0.203",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gnome",
+      "intensity": "0.203",
+      "emotion": "disgust"
+    },
+    {
+      "word": "pinsamhet",
+      "intensity": "0.203",
+      "emotion": "disgust"
+    },
+    {
+      "word": "obekväm",
+      "intensity": "0.203",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dandy",
+      "intensity": "0.203",
+      "emotion": "disgust"
+    },
+    {
+      "word": "skinna",
+      "intensity": "0.195",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tjut",
+      "intensity": "0.195",
+      "emotion": "disgust"
+    },
+    {
+      "word": "svartvit",
+      "intensity": "0.195",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förnäm min",
+      "intensity": "0.195",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gelatin",
+      "intensity": "0.195",
+      "emotion": "disgust"
+    },
+    {
+      "word": "moral",
+      "intensity": "0.195",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dabbling",
+      "intensity": "0.195",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kändis",
+      "intensity": "0.188",
+      "emotion": "disgust"
+    },
+    {
+      "word": "undvika",
+      "intensity": "0.188",
+      "emotion": "disgust"
+    },
+    {
+      "word": "dödläge",
+      "intensity": "0.188",
+      "emotion": "disgust"
+    },
+    {
+      "word": "frodig",
+      "intensity": "0.188",
+      "emotion": "disgust"
+    },
+    {
+      "word": "gent",
+      "intensity": "0.188",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mindre",
+      "intensity": "0.188",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sjunkit",
+      "intensity": "0.180",
+      "emotion": "disgust"
+    },
+    {
+      "word": "näsa",
+      "intensity": "0.180",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sökande",
+      "intensity": "0.180",
+      "emotion": "disgust"
+    },
+    {
+      "word": "retande",
+      "intensity": "0.180",
+      "emotion": "disgust"
+    },
+    {
+      "word": "besittning",
+      "intensity": "0.180",
+      "emotion": "disgust"
+    },
+    {
+      "word": "större",
+      "intensity": "0.164",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tuta",
+      "intensity": "0.164",
+      "emotion": "disgust"
+    },
+    {
+      "word": "munfull",
+      "intensity": "0.164",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sparsamhet",
+      "intensity": "0.164",
+      "emotion": "disgust"
+    },
+    {
+      "word": "graviditet",
+      "intensity": "0.164",
+      "emotion": "disgust"
+    },
+    {
+      "word": "obestridlig",
+      "intensity": "0.164",
+      "emotion": "disgust"
+    },
+    {
+      "word": "tvinga",
+      "intensity": "0.156",
+      "emotion": "disgust"
+    },
+    {
+      "word": "larm",
+      "intensity": "0.156",
+      "emotion": "disgust"
+    },
+    {
+      "word": "felplacera",
+      "intensity": "0.156",
+      "emotion": "disgust"
+    },
+    {
+      "word": "mening",
+      "intensity": "0.156",
+      "emotion": "disgust"
+    },
+    {
+      "word": "papegoja",
+      "intensity": "0.156",
+      "emotion": "disgust"
+    },
+    {
+      "word": "besvikelse",
+      "intensity": "0.148",
+      "emotion": "disgust"
+    },
+    {
+      "word": "namnlös",
+      "intensity": "0.148",
+      "emotion": "disgust"
+    },
+    {
+      "word": "känsla",
+      "intensity": "0.141",
+      "emotion": "disgust"
+    },
+    {
+      "word": "älva",
+      "intensity": "0.141",
+      "emotion": "disgust"
+    },
+    {
+      "word": "förträfflighet",
+      "intensity": "0.141",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sväng",
+      "intensity": "0.133",
+      "emotion": "disgust"
+    },
+    {
+      "word": "grå",
+      "intensity": "0.133",
+      "emotion": "disgust"
+    },
+    {
+      "word": "asymmetri",
+      "intensity": "0.133",
+      "emotion": "disgust"
+    },
+    {
+      "word": "klumpig",
+      "intensity": "0.133",
+      "emotion": "disgust"
+    },
+    {
+      "word": "bås",
+      "intensity": "0.133",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kli",
+      "intensity": "0.125",
+      "emotion": "disgust"
+    },
+    {
+      "word": "till sist",
+      "intensity": "0.125",
+      "emotion": "disgust"
+    },
+    {
+      "word": "herre",
+      "intensity": "0.125",
+      "emotion": "disgust"
+    },
+    {
+      "word": "pojke",
+      "intensity": "0.117",
+      "emotion": "disgust"
+    },
+    {
+      "word": "cove",
+      "intensity": "0.117",
+      "emotion": "disgust"
+    },
+    {
+      "word": "uppfostran",
+      "intensity": "0.117",
+      "emotion": "disgust"
+    },
+    {
+      "word": "njuta av",
+      "intensity": "0.117",
+      "emotion": "disgust"
+    },
+    {
+      "word": "citron-",
+      "intensity": "0.109",
+      "emotion": "disgust"
+    },
+    {
+      "word": "vinnande",
+      "intensity": "0.109",
+      "emotion": "disgust"
+    },
+    {
+      "word": "kraftfull",
+      "intensity": "0.102",
+      "emotion": "disgust"
+    },
+    {
+      "word": "glitter",
+      "intensity": "0.094",
+      "emotion": "disgust"
+    },
+    {
+      "word": "interiör",
+      "intensity": "0.086",
+      "emotion": "disgust"
+    },
+    {
+      "word": "sinne",
+      "intensity": "0.086",
+      "emotion": "disgust"
+    },
+    {
+      "word": "behandla",
+      "intensity": "0.078",
+      "emotion": "disgust"
+    },
+    {
+      "word": "intresserad",
+      "intensity": "0.078",
+      "emotion": "disgust"
+    },
+    {
+      "word": "överflöd",
+      "intensity": "0.078",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ärlig",
+      "intensity": "0.055",
+      "emotion": "disgust"
+    },
+    {
+      "word": "drake",
+      "intensity": "0.055",
+      "emotion": "disgust"
+    },
+    {
+      "word": "ödmjuk",
+      "intensity": "0.047",
+      "emotion": "disgust"
+    },
+    {
+      "word": "träd",
+      "intensity": "0.039",
+      "emotion": "disgust"
+    }
+  ],
+  "meta": {
+    "title": "Emotionsord – Avsky - Gratis nedladdning",
+    "description": "Svenska ord associerade med avsky, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska). Innehåller 949 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Emotionsord – Avsky | ListBase",
+    "seo_description": "Ladda ner Emotionsord – Avsky — 949 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 949 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

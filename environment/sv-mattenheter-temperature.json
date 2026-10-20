@@ -1,0 +1,106 @@
+{
+  "id": "sv-mattenheter-temperature",
+  "name": "Måttenheter – kategori 'temperature' (5)",
+  "title": "Måttenheter – kategori 'temperature' (5)",
+  "description": "Måttenheter i kategorin 'temperature' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "temperature-celsius",
+      "kategori": "temperature",
+      "namn": "grader Celsius",
+      "forkortning": "°C",
+      "smal_form": "°C",
+      "monster": "{0} grader Celsius"
+    },
+    {
+      "id": 2,
+      "unit_code": "temperature-fahrenheit",
+      "kategori": "temperature",
+      "namn": "grader Fahrenheit",
+      "forkortning": "°F",
+      "smal_form": "°F",
+      "monster": "{0} grader Fahrenheit"
+    },
+    {
+      "id": 3,
+      "unit_code": "temperature-generic",
+      "kategori": "temperature",
+      "namn": "grader",
+      "forkortning": "°",
+      "smal_form": "°",
+      "monster": "{0} grader"
+    },
+    {
+      "id": 4,
+      "unit_code": "temperature-kelvin",
+      "kategori": "temperature",
+      "namn": "kelvin",
+      "forkortning": "K",
+      "smal_form": "K",
+      "monster": "{0} kelvin"
+    },
+    {
+      "id": 5,
+      "unit_code": "temperature-rankine",
+      "kategori": "temperature",
+      "namn": "°R",
+      "forkortning": "°R",
+      "smal_form": "°R",
+      "monster": "{0} °R"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'temperature' (5) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'temperature' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 5 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'temperature' (5) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'temperature' (5) — 5 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 5 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

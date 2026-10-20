@@ -1,0 +1,178 @@
+{
+  "id": "sv-ostergotland-kommuner",
+  "name": "Kommuner i Östergötlands län",
+  "title": "Kommuner i Östergötlands län",
+  "description": "13 kommuner i Östergötlands län (länskod 05, ISO SE-E , residensstad Linköping). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "0509",
+      "name": "Ödeshögs kommun",
+      "name_short": "Ödeshög",
+      "slug": "odeshog",
+      "locality": "ÖDESHÖG",
+      "url": "http://www.odeshog.se",
+      "num_postnummer": 90
+    },
+    {
+      "kommunkod": "0512",
+      "name": "Ydre kommun",
+      "name_short": "Ydre",
+      "slug": "ydre",
+      "locality": "YDRE",
+      "url": "http://www.ydre.se",
+      "num_postnummer": 117
+    },
+    {
+      "kommunkod": "0513",
+      "name": "Kinda kommun",
+      "name_short": "Kinda",
+      "slug": "kinda",
+      "locality": "KISA",
+      "url": "http://www.kinda.se",
+      "num_postnummer": 272
+    },
+    {
+      "kommunkod": "0560",
+      "name": "Boxholms kommun",
+      "name_short": "Boxholm",
+      "slug": "boxholm",
+      "locality": "BOXHOLM",
+      "url": "http://www.boxholm.se",
+      "num_postnummer": 82
+    },
+    {
+      "kommunkod": "0561",
+      "name": "Åtvidabergs kommun",
+      "name_short": "Åtvidaberg",
+      "slug": "atvidaberg",
+      "locality": "ÅTVIDABERG",
+      "url": "http://www.atvidaberg.se",
+      "num_postnummer": 242
+    },
+    {
+      "kommunkod": "0562",
+      "name": "Finspångs kommun",
+      "name_short": "Finspång",
+      "slug": "finspang",
+      "locality": "FINSPÅNG",
+      "url": "http://www.finspang.se",
+      "num_postnummer": 315
+    },
+    {
+      "kommunkod": "0563",
+      "name": "Valdemarsviks kommun",
+      "name_short": "Valdemarsvik",
+      "slug": "valdemarsvik",
+      "locality": "VALDEMARSVIK",
+      "url": "http://www.valdemarsvik.se",
+      "num_postnummer": 53
+    },
+    {
+      "kommunkod": "0580",
+      "name": "Linköpings kommun",
+      "name_short": "Linköping",
+      "slug": "linkoping",
+      "locality": "LINKÖPING",
+      "url": "http://www.linkoping.se",
+      "num_postnummer": 350
+    },
+    {
+      "kommunkod": "0581",
+      "name": "Norrköpings kommun",
+      "name_short": "Norrköping",
+      "slug": "norrkoping",
+      "locality": "NORRKÖPING",
+      "url": "http://www.norrkoping.se",
+      "num_postnummer": 617
+    },
+    {
+      "kommunkod": "0582",
+      "name": "Söderköpings kommun",
+      "name_short": "Söderköping",
+      "slug": "soderkoping",
+      "locality": "SÖDERKÖPING",
+      "url": "http://www.soderkoping.se",
+      "num_postnummer": 438
+    },
+    {
+      "kommunkod": "0583",
+      "name": "Motala kommun",
+      "name_short": "Motala",
+      "slug": "motala",
+      "locality": "MOTALA",
+      "url": "http://www.motala.se/kommun",
+      "num_postnummer": 155
+    },
+    {
+      "kommunkod": "0584",
+      "name": "Vadstena kommun",
+      "name_short": "Vadstena",
+      "slug": "vadstena",
+      "locality": "VADSTENA",
+      "url": "http://www.vadstena.se",
+      "num_postnummer": 134
+    },
+    {
+      "kommunkod": "0586",
+      "name": "Mjölby kommun",
+      "name_short": "Mjölby",
+      "slug": "mjolby",
+      "locality": "MJÖLBY",
+      "url": "http://www.mjolby.se",
+      "num_postnummer": 146
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Östergötlands län - Gratis nedladdning",
+    "description": "13 kommuner i Östergötlands län (länskod 05, ISO SE-E , residensstad Linköping). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 13 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Östergötlands län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Östergötlands län — 13 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 13 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

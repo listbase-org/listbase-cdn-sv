@@ -1,0 +1,648 @@
+{
+  "id": "sv-kalendermanader",
+  "name": "Månadsnamn per kalender (CLDR på svenska)",
+  "title": "Månadsnamn per kalender (CLDR på svenska)",
+  "description": "Månadsnamn från sex kalendrar (gregoriansk, buddhistisk, kinesisk, dangi, hebreisk, islamisk) – i den svenska (sv) språkinställningen i CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kalender",
+      "label": "Kalender",
+      "type": "string"
+    },
+    {
+      "key": "manad_kod",
+      "label": "Manad Kod",
+      "type": "number"
+    },
+    {
+      "key": "manad_num",
+      "label": "Manad Num",
+      "type": "number"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kalender": "gregorian",
+      "manad_kod": "1",
+      "manad_num": 1,
+      "namn": "januari",
+      "forkortning": "jan."
+    },
+    {
+      "id": 2,
+      "kalender": "gregorian",
+      "manad_kod": "2",
+      "manad_num": 2,
+      "namn": "februari",
+      "forkortning": "feb."
+    },
+    {
+      "id": 3,
+      "kalender": "gregorian",
+      "manad_kod": "3",
+      "manad_num": 3,
+      "namn": "mars",
+      "forkortning": "mars"
+    },
+    {
+      "id": 4,
+      "kalender": "gregorian",
+      "manad_kod": "4",
+      "manad_num": 4,
+      "namn": "april",
+      "forkortning": "apr."
+    },
+    {
+      "id": 5,
+      "kalender": "gregorian",
+      "manad_kod": "5",
+      "manad_num": 5,
+      "namn": "maj",
+      "forkortning": "maj"
+    },
+    {
+      "id": 6,
+      "kalender": "gregorian",
+      "manad_kod": "6",
+      "manad_num": 6,
+      "namn": "juni",
+      "forkortning": "juni"
+    },
+    {
+      "id": 7,
+      "kalender": "gregorian",
+      "manad_kod": "7",
+      "manad_num": 7,
+      "namn": "juli",
+      "forkortning": "juli"
+    },
+    {
+      "id": 8,
+      "kalender": "gregorian",
+      "manad_kod": "8",
+      "manad_num": 8,
+      "namn": "augusti",
+      "forkortning": "aug."
+    },
+    {
+      "id": 9,
+      "kalender": "gregorian",
+      "manad_kod": "9",
+      "manad_num": 9,
+      "namn": "september",
+      "forkortning": "sep."
+    },
+    {
+      "id": 10,
+      "kalender": "gregorian",
+      "manad_kod": "10",
+      "manad_num": 10,
+      "namn": "oktober",
+      "forkortning": "okt."
+    },
+    {
+      "id": 11,
+      "kalender": "gregorian",
+      "manad_kod": "11",
+      "manad_num": 11,
+      "namn": "november",
+      "forkortning": "nov."
+    },
+    {
+      "id": 12,
+      "kalender": "gregorian",
+      "manad_kod": "12",
+      "manad_num": 12,
+      "namn": "december",
+      "forkortning": "dec."
+    },
+    {
+      "id": 13,
+      "kalender": "buddhist",
+      "manad_kod": "1",
+      "manad_num": 1,
+      "namn": "januari",
+      "forkortning": "jan."
+    },
+    {
+      "id": 14,
+      "kalender": "buddhist",
+      "manad_kod": "2",
+      "manad_num": 2,
+      "namn": "februari",
+      "forkortning": "feb."
+    },
+    {
+      "id": 15,
+      "kalender": "buddhist",
+      "manad_kod": "3",
+      "manad_num": 3,
+      "namn": "mars",
+      "forkortning": "mars"
+    },
+    {
+      "id": 16,
+      "kalender": "buddhist",
+      "manad_kod": "4",
+      "manad_num": 4,
+      "namn": "april",
+      "forkortning": "apr."
+    },
+    {
+      "id": 17,
+      "kalender": "buddhist",
+      "manad_kod": "5",
+      "manad_num": 5,
+      "namn": "maj",
+      "forkortning": "maj"
+    },
+    {
+      "id": 18,
+      "kalender": "buddhist",
+      "manad_kod": "6",
+      "manad_num": 6,
+      "namn": "juni",
+      "forkortning": "juni"
+    },
+    {
+      "id": 19,
+      "kalender": "buddhist",
+      "manad_kod": "7",
+      "manad_num": 7,
+      "namn": "juli",
+      "forkortning": "juli"
+    },
+    {
+      "id": 20,
+      "kalender": "buddhist",
+      "manad_kod": "8",
+      "manad_num": 8,
+      "namn": "augusti",
+      "forkortning": "aug."
+    },
+    {
+      "id": 21,
+      "kalender": "buddhist",
+      "manad_kod": "9",
+      "manad_num": 9,
+      "namn": "september",
+      "forkortning": "sep."
+    },
+    {
+      "id": 22,
+      "kalender": "buddhist",
+      "manad_kod": "10",
+      "manad_num": 10,
+      "namn": "oktober",
+      "forkortning": "okt."
+    },
+    {
+      "id": 23,
+      "kalender": "buddhist",
+      "manad_kod": "11",
+      "manad_num": 11,
+      "namn": "november",
+      "forkortning": "nov."
+    },
+    {
+      "id": 24,
+      "kalender": "buddhist",
+      "manad_kod": "12",
+      "manad_num": 12,
+      "namn": "december",
+      "forkortning": "dec."
+    },
+    {
+      "id": 25,
+      "kalender": "chinese",
+      "manad_kod": "1",
+      "manad_num": 1,
+      "namn": "första månaden",
+      "forkortning": "1:a mån"
+    },
+    {
+      "id": 26,
+      "kalender": "chinese",
+      "manad_kod": "2",
+      "manad_num": 2,
+      "namn": "andra månaden",
+      "forkortning": "2:a mån"
+    },
+    {
+      "id": 27,
+      "kalender": "chinese",
+      "manad_kod": "3",
+      "manad_num": 3,
+      "namn": "tredje månaden",
+      "forkortning": "3:e mån"
+    },
+    {
+      "id": 28,
+      "kalender": "chinese",
+      "manad_kod": "4",
+      "manad_num": 4,
+      "namn": "fjärde månaden",
+      "forkortning": "4:e mån"
+    },
+    {
+      "id": 29,
+      "kalender": "chinese",
+      "manad_kod": "5",
+      "manad_num": 5,
+      "namn": "femte månaden",
+      "forkortning": "5:e mån"
+    },
+    {
+      "id": 30,
+      "kalender": "chinese",
+      "manad_kod": "6",
+      "manad_num": 6,
+      "namn": "sjätte månaden",
+      "forkortning": "6:e mån"
+    },
+    {
+      "id": 31,
+      "kalender": "chinese",
+      "manad_kod": "7",
+      "manad_num": 7,
+      "namn": "sjunde månaden",
+      "forkortning": "7:e mån"
+    },
+    {
+      "id": 32,
+      "kalender": "chinese",
+      "manad_kod": "8",
+      "manad_num": 8,
+      "namn": "åttonde månaden",
+      "forkortning": "8:e mån"
+    },
+    {
+      "id": 33,
+      "kalender": "chinese",
+      "manad_kod": "9",
+      "manad_num": 9,
+      "namn": "nionde månaden",
+      "forkortning": "9:e mån"
+    },
+    {
+      "id": 34,
+      "kalender": "chinese",
+      "manad_kod": "10",
+      "manad_num": 10,
+      "namn": "tionde månaden",
+      "forkortning": "10:e mån"
+    },
+    {
+      "id": 35,
+      "kalender": "chinese",
+      "manad_kod": "11",
+      "manad_num": 11,
+      "namn": "elfte månaden",
+      "forkortning": "11:e mån"
+    },
+    {
+      "id": 36,
+      "kalender": "chinese",
+      "manad_kod": "12",
+      "manad_num": 12,
+      "namn": "tolfte månaden",
+      "forkortning": "12:e mån"
+    },
+    {
+      "id": 37,
+      "kalender": "dangi",
+      "manad_kod": "1",
+      "manad_num": 1,
+      "namn": "första månaden",
+      "forkortning": "1:a mån"
+    },
+    {
+      "id": 38,
+      "kalender": "dangi",
+      "manad_kod": "2",
+      "manad_num": 2,
+      "namn": "andra månaden",
+      "forkortning": "2:a mån"
+    },
+    {
+      "id": 39,
+      "kalender": "dangi",
+      "manad_kod": "3",
+      "manad_num": 3,
+      "namn": "tredje månaden",
+      "forkortning": "3:e mån"
+    },
+    {
+      "id": 40,
+      "kalender": "dangi",
+      "manad_kod": "4",
+      "manad_num": 4,
+      "namn": "fjärde månaden",
+      "forkortning": "4:e mån"
+    },
+    {
+      "id": 41,
+      "kalender": "dangi",
+      "manad_kod": "5",
+      "manad_num": 5,
+      "namn": "femte månaden",
+      "forkortning": "5:e mån"
+    },
+    {
+      "id": 42,
+      "kalender": "dangi",
+      "manad_kod": "6",
+      "manad_num": 6,
+      "namn": "sjätte månaden",
+      "forkortning": "6:e mån"
+    },
+    {
+      "id": 43,
+      "kalender": "dangi",
+      "manad_kod": "7",
+      "manad_num": 7,
+      "namn": "sjunde månaden",
+      "forkortning": "7:e mån"
+    },
+    {
+      "id": 44,
+      "kalender": "dangi",
+      "manad_kod": "8",
+      "manad_num": 8,
+      "namn": "åttonde månaden",
+      "forkortning": "8:e mån"
+    },
+    {
+      "id": 45,
+      "kalender": "dangi",
+      "manad_kod": "9",
+      "manad_num": 9,
+      "namn": "nionde månaden",
+      "forkortning": "9:e mån"
+    },
+    {
+      "id": 46,
+      "kalender": "dangi",
+      "manad_kod": "10",
+      "manad_num": 10,
+      "namn": "tionde månaden",
+      "forkortning": "10:e mån"
+    },
+    {
+      "id": 47,
+      "kalender": "dangi",
+      "manad_kod": "11",
+      "manad_num": 11,
+      "namn": "elfte månaden",
+      "forkortning": "11:e mån"
+    },
+    {
+      "id": 48,
+      "kalender": "dangi",
+      "manad_kod": "12",
+      "manad_num": 12,
+      "namn": "tolfte månaden",
+      "forkortning": "12:e mån"
+    },
+    {
+      "id": 49,
+      "kalender": "hebrew",
+      "manad_kod": "1",
+      "manad_num": 1,
+      "namn": "tishrí",
+      "forkortning": "tishrí"
+    },
+    {
+      "id": 50,
+      "kalender": "hebrew",
+      "manad_kod": "2",
+      "manad_num": 2,
+      "namn": "heshván",
+      "forkortning": "heshván"
+    },
+    {
+      "id": 51,
+      "kalender": "hebrew",
+      "manad_kod": "3",
+      "manad_num": 3,
+      "namn": "kislév",
+      "forkortning": "kislév"
+    },
+    {
+      "id": 52,
+      "kalender": "hebrew",
+      "manad_kod": "4",
+      "manad_num": 4,
+      "namn": "tevét",
+      "forkortning": "tevét"
+    },
+    {
+      "id": 53,
+      "kalender": "hebrew",
+      "manad_kod": "5",
+      "manad_num": 5,
+      "namn": "shevát",
+      "forkortning": "shevát"
+    },
+    {
+      "id": 54,
+      "kalender": "hebrew",
+      "manad_kod": "6",
+      "manad_num": 6,
+      "namn": "adár I",
+      "forkortning": "adár I"
+    },
+    {
+      "id": 55,
+      "kalender": "hebrew",
+      "manad_kod": "7",
+      "manad_num": 7,
+      "namn": "adár",
+      "forkortning": "adár"
+    },
+    {
+      "id": 56,
+      "kalender": "hebrew",
+      "manad_kod": "7-yeartype-leap",
+      "manad_num": "",
+      "namn": "adár II",
+      "forkortning": "adár II"
+    },
+    {
+      "id": 57,
+      "kalender": "hebrew",
+      "manad_kod": "8",
+      "manad_num": 8,
+      "namn": "nisán",
+      "forkortning": "nisán"
+    },
+    {
+      "id": 58,
+      "kalender": "hebrew",
+      "manad_kod": "9",
+      "manad_num": 9,
+      "namn": "ijjár",
+      "forkortning": "ijjár"
+    },
+    {
+      "id": 59,
+      "kalender": "hebrew",
+      "manad_kod": "10",
+      "manad_num": 10,
+      "namn": "siván",
+      "forkortning": "siván"
+    },
+    {
+      "id": 60,
+      "kalender": "hebrew",
+      "manad_kod": "11",
+      "manad_num": 11,
+      "namn": "tammúz",
+      "forkortning": "tammúz"
+    },
+    {
+      "id": 61,
+      "kalender": "hebrew",
+      "manad_kod": "12",
+      "manad_num": 12,
+      "namn": "ab",
+      "forkortning": "ab"
+    },
+    {
+      "id": 62,
+      "kalender": "hebrew",
+      "manad_kod": "13",
+      "manad_num": 13,
+      "namn": "elúl",
+      "forkortning": "elúl"
+    },
+    {
+      "id": 63,
+      "kalender": "islamic",
+      "manad_kod": "1",
+      "manad_num": 1,
+      "namn": "muharram",
+      "forkortning": "Muh."
+    },
+    {
+      "id": 64,
+      "kalender": "islamic",
+      "manad_kod": "2",
+      "manad_num": 2,
+      "namn": "safar",
+      "forkortning": "Saf."
+    },
+    {
+      "id": 65,
+      "kalender": "islamic",
+      "manad_kod": "3",
+      "manad_num": 3,
+      "namn": "rabi’ al-awwal",
+      "forkortning": "Rab. I"
+    },
+    {
+      "id": 66,
+      "kalender": "islamic",
+      "manad_kod": "4",
+      "manad_num": 4,
+      "namn": "rabi’ al-akhir",
+      "forkortning": "Rab. II"
+    },
+    {
+      "id": 67,
+      "kalender": "islamic",
+      "manad_kod": "5",
+      "manad_num": 5,
+      "namn": "jumada-l-ula",
+      "forkortning": "Jum. I"
+    },
+    {
+      "id": 68,
+      "kalender": "islamic",
+      "manad_kod": "6",
+      "manad_num": 6,
+      "namn": "jumada-l-akhira",
+      "forkortning": "Jum. II"
+    },
+    {
+      "id": 69,
+      "kalender": "islamic",
+      "manad_kod": "7",
+      "manad_num": 7,
+      "namn": "rajab",
+      "forkortning": "Raj."
+    },
+    {
+      "id": 70,
+      "kalender": "islamic",
+      "manad_kod": "8",
+      "manad_num": 8,
+      "namn": "sha’ban",
+      "forkortning": "Sha."
+    },
+    {
+      "id": 71,
+      "kalender": "islamic",
+      "manad_kod": "9",
+      "manad_num": 9,
+      "namn": "ramadan",
+      "forkortning": "Ram."
+    },
+    {
+      "id": 72,
+      "kalender": "islamic",
+      "manad_kod": "10",
+      "manad_num": 10,
+      "namn": "shawwal",
+      "forkortning": "Shaw."
+    },
+    {
+      "id": 73,
+      "kalender": "islamic",
+      "manad_kod": "11",
+      "manad_num": 11,
+      "namn": "dhu-l-ga’da",
+      "forkortning": "Dhuʻl-Q."
+    },
+    {
+      "id": 74,
+      "kalender": "islamic",
+      "manad_kod": "12",
+      "manad_num": 12,
+      "namn": "dhu-l-hijja",
+      "forkortning": "Dhuʻl-H."
+    }
+  ],
+  "meta": {
+    "title": "Månadsnamn per kalender (CLDR på svenska) - Gratis nedladdning",
+    "description": "Månadsnamn från sex kalendrar (gregoriansk, buddhistisk, kinesisk, dangi, hebreisk, islamisk) – i den svenska (sv) språkinställningen i CLDR. Innehåller 74 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Månadsnamn per kalender (CLDR på svenska) | ListBase",
+    "seo_description": "Ladda ner Månadsnamn per kalender (CLDR på svenska) — 74 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 74 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "id": "sv-banker",
+  "name": "Banker i Sverige — clearingnummer-register",
+  "title": "Banker i Sverige — clearingnummer-register",
+  "description": "Förteckning över svenska banker (och relaterade finansinstitut) med deras clearingnummer-intervall enligt Svenska Bankföreningens / Bankgirot-listan. Varje post anger bankens namn samt en eller flera intervall (min/max) av fyrsiffriga clearingnummer. För Swedbank/sparbanker används punktkoder med check-siffra (t.ex. '8158-8'). Källa: opendevtools/clearingnummer (MIT).",
+  "category": "finance",
+  "source": "https://github.com/opendevtools/clearingnummer",
+  "source_url": "https://github.com/opendevtools/clearingnummer",
+  "updated": "2026-04",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "ranges",
+      "label": "Ranges",
+      "type": "string"
+    },
+    {
+      "key": "num_ranges",
+      "label": "Num Ranges",
+      "type": "number"
+    },
+    {
+      "key": "num_clearing_numbers",
+      "label": "Num Clearing Numbers",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Sveriges Riksbank",
+      "slug": "sveriges-riksbank",
+      "ranges": "1000: 1099: 1000: 1099",
+      "num_ranges": 1,
+      "num_clearing_numbers": 100
+    },
+    {
+      "name": "Nordea",
+      "slug": "nordea",
+      "ranges": "1100: 1199: 1100: 1199, 1400: 2099: 1400: 2099, 3000: 3299: 3000: 3299, 3300: 3300: 3300: 3300: true, 3782: 3782: 3782: 3782: true, 3301: 3399: 3301: 3399, 3410: 3781: 3410: 3781, 3783: 4999: 3783: 4999, 9500: 9549: 9500: 9549, 9960: 9969: 9960: 9969",
+      "num_ranges": 10,
+      "num_clearing_numbers": 2850
+    },
+    {
+      "name": "Danske Bank",
+      "slug": "danske-bank",
+      "ranges": "1200: 1399: 1200: 1399, 2400: 2499: 2400: 2499, 9180: 9189: 9180: 9189",
+      "num_ranges": 3,
+      "num_clearing_numbers": 310
+    },
+    {
+      "name": "Ålandsbanken",
+      "slug": "alandsbanken",
+      "ranges": "2300: 2399: 2300: 2399",
+      "num_ranges": 1,
+      "num_clearing_numbers": 100
+    },
+    {
+      "name": "Länsförsäkringar Bank",
+      "slug": "lansforsakringar-bank",
+      "ranges": "3400: 3409: 3400: 3409, 9020: 9029: 9020: 9029, 9060: 9069: 9060: 9069",
+      "num_ranges": 3,
+      "num_clearing_numbers": 30
+    },
+    {
+      "name": "SEB",
+      "slug": "seb",
+      "ranges": "5000: 5999: 5000: 5999, 9120: 9124: 9120: 9124, 9130: 9149: 9130: 9149",
+      "num_ranges": 3,
+      "num_clearing_numbers": 1025
+    },
+    {
+      "name": "Handelsbanken",
+      "slug": "handelsbanken",
+      "ranges": "6000: 6999: 6000: 6999",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1000
+    },
+    {
+      "name": "Swedbank",
+      "slug": "swedbank",
+      "ranges": "7000: 8999: 7000: 8999, 9300: 9349: 9300: 9349, 8305: 8305: 5: 5: 8305-5: 8305-5: true, 8383: 8383: 2: 2: 8383-2: 8383-2: true, 8006: 8006: 9: 9: 8006-9: 8006-9: true, 8018: 8018: 4: 4: 8018-4: 8018-4: true, 8021: 8021: 8: 8: 8021-8: 8021-8: true, 8024: 8024: 2: 2: 8024-2: 8024-2: true, 8030: 8030: 9: 9: 8030-9: 8030-9: true, 8032: 8032: 5: 5: 8032-5: 8032-5: true, 8050: 8050: 7: 7: 8050-7: 8050-7: true, 8059: 8059: 8: 8: 8059-8: 8059-8: true, 8060: 8060: 6: 6: 8060-6: 8060-6: true, 8077: 8077: 0: 0: 8077-0: 8077-0: true, 8079: 8079: 6: 6: 8079-6: 8079-6: true, 8103: 8103: 4: 4: 8103-4: 8103-4: true, 8105: 8105: 9: 9: 8105-9: 8105-9: true, 8114: 8114: 1: 1: 8114-1: 8114-1: true, 8129: 8129: 9: 9: 8129-9: 8129-9: true, 8138: 8138: 0: 0: 8138-0: 8138-0: true, 8143: 8143: 0: 0: 8143-0: 8143-0: true, 8147: 8147: 1: 1: 8147-1: 8147-1: true, 8150: 8150: 5: 5: 8150-5: 8150-5: true, 8153: 8153: 9: 9: 8153-9: 8153-9: true, 8156: 8156: 2: 2: 8156-2: 8156-2: true, 8166: 8166: 1: 1: 8166-1: 8166-1: true, 8169: 8169: 5: 5: 8169-5: 8169-5: true, 8177: 8177: 7: 7: 8177-7: 8177-7: true, 8182: 8182: 8: 8: 8182-8: 8182-8: true, 8183: 8183: 6: 6: 8183-6: 8183-6: true, 8187: 8187: 7: 7: 8187-7: 8187-7: true, 8201: 8201: 6: 6: 8201-6: 8201-6: true, 8214: 8214: 9: 9: 8214-9: 8214-9: true, 8222: 8222: 2: 2: 8222-2: 8222-2: true, 8239: 8239: 6: 6: 8239-6: 8239-6: true, 8240: 8240: 4: 4: 8240-4: 8240-4: true, 8242: 8242: 0: 0: 8242-0: 8242-0: true, 8257: 8257: 8: 8: 8257-8: 8257-8: true, 8264: 8264: 4: 4: 8264-4: 8264-4: true, 8270: 8270: 1: 1: 8270-1: 8270-1: true, 8284: 8284: 2: 2: 8284-2: 8284-2: true, 8299: 8299: 0: 0: 8299-0: 8299-0: true, 8304: 8304: 8: 8: 8304-8: 8304-8: true, 8305: 8305: 5: 5: 8305-5: 8305-5: true, 8313: 8313: 9: 9: 8313-9: 8313-9: true, 8314: 8314: 7: 7: 8314-7: 8314-7: true, 8327: 8327: 9: 9: 8327-9: 8327-9: true, 8346: 8346: 9: 9: 8346-9: 8346-9: true, 8353: 8353: 5: 5: 8353-5: 8353-5: true, 8354: 8354: 3: 3: 8354-3: 8354-3: true, 8368: 8368: 3: 3: 8368-3: 8368-3: true, 8381: 8381: 6: 6: 8381-6: 8381-6: true, 8384: 8384: 0: 0: 8384-0: 8384-0: true, 8393: 8393: 1: 1: 8393-1: 8393-1: true, 8401: 8401: 2: 2: 8401-2: 8401-2: true, 8403: 8403: 8: 8: 8403-8: 8403-8: true, 8405: 8405: 3: 3: 8405-3: 8405-3: true, 8417: 8417: 8: 8: 8417-8: 8417-8: true, 8420: 8420: 2: 2: 8420-2: 8420-2: true, 8424: 8424: 4: 4: 8424-4: 8424-4: true, 8431: 8431: 9: 9: 8431-9: 8431-9: true, 8434: 8434: 3: 3: 8434-3: 8434-3: true, 8440: 8440: 0: 0: 8440-0: 8440-0: true, 8452: 8452: 5: 5: 8452-5: 8452-5: true, 8464: 8464: 0: 0: 8464-0: 8464-0: true, 8480: 8480: 6: 6: 8480-6: 8480-6: true, 8860: 8860: 9: 9: 8860-9: 8860-9: true, 8901: 8901: 1: 1: 8901-1: 8901-1: true",
+      "num_ranges": 68,
+      "num_clearing_numbers": 2116
+    },
+    {
+      "name": "Sparbanken Gotland",
+      "slug": "sparbanken-gotland",
+      "ranges": "8055: 8055: 6: 6: 8055-6: 8055-6: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Kinda-Ydre sparbank",
+      "slug": "kinda-ydre-sparbank",
+      "ranges": "8158: 8158: 8: 8: 8158-8: 8158-8: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Lekebergs sparbank",
+      "slug": "lekebergs-sparbank",
+      "ranges": "8164: 8164: 6: 6: 8164-6: 8164-6: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Markaryds sparbank",
+      "slug": "markaryds-sparbank",
+      "ranges": "8217: 8217: 2: 2: 8217-2: 8217-2: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Närs sparbank",
+      "slug": "nars-sparbank",
+      "ranges": "8250: 8250: 3: 3: 8250-3: 8250-3: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Sparbanken Skaraborg",
+      "slug": "sparbanken-skaraborg",
+      "ranges": "8289: 8289: 1: 1: 8289-1: 8289-1: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Skurups sparbank",
+      "slug": "skurups-sparbank",
+      "ranges": "8295: 8295: 8: 8: 8295-8: 8295-8: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Sölvesborg-Mjällby sparbank",
+      "slug": "solvesborg-mjallby-sparbank",
+      "ranges": "8321: 8321: 2: 2: 8321-2: 8321-2: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Häradssparbanken Mönsterås",
+      "slug": "haradssparbanken-monsteras",
+      "ranges": "8331: 8331: 1: 1: 8331-1: 8331-1: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Fryksdalens sparbank",
+      "slug": "fryksdalens-sparbank",
+      "ranges": "8336: 8336: 0: 0: 8336-0: 8336-0: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Ulricehamns Sparbank",
+      "slug": "ulricehamns-sparbank",
+      "ranges": "8380: 8380: 8: 8: 8380-8: 8380-8: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Varbergs sparbank",
+      "slug": "varbergs-sparbank",
+      "ranges": "8388: 8388: 1: 1: 8388-1: 8388-1: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Citibank",
+      "slug": "citibank",
+      "ranges": "9040: 9049: 9040: 9049",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Calyon Bank",
+      "slug": "calyon-bank",
+      "ranges": "9080: 9089: 9080: 9089",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "RBS",
+      "slug": "rbs",
+      "ranges": "9090: 9099: 9090: 9099",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Nordnet Bank",
+      "slug": "nordnet-bank",
+      "ranges": "9100: 9109: 9100: 9109",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Skandiabanken",
+      "slug": "skandiabanken",
+      "ranges": "9150: 9169: 9150: 9169",
+      "num_ranges": 1,
+      "num_clearing_numbers": 20
+    },
+    {
+      "name": "IKANO Bank",
+      "slug": "ikano-bank",
+      "ranges": "9170: 9179: 9170: 9179",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "DNB Bank",
+      "slug": "dnb-bank",
+      "ranges": "9190: 9199: 9190: 9199, 9260: 9269: 9260: 9269",
+      "num_ranges": 2,
+      "num_clearing_numbers": 20
+    },
+    {
+      "name": "Marginalen Bank",
+      "slug": "marginalen-bank",
+      "ranges": "9230: 9239: 9230: 9239",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "SalusAnsvar Bank",
+      "slug": "salusansvar-bank",
+      "ranges": "9231: 9239: 9231: 9239",
+      "num_ranges": 1,
+      "num_clearing_numbers": 9
+    },
+    {
+      "name": "SBAB Bank",
+      "slug": "sbab-bank",
+      "ranges": "9250: 9259: 9250: 9259",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "ICA Banken",
+      "slug": "ica-banken",
+      "ranges": "9270: 9279: 9270: 9279",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Resurs Bank",
+      "slug": "resurs-bank",
+      "ranges": "9280: 9289: 9280: 9289",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Pareto Öhman",
+      "slug": "pareto-ohman",
+      "ranges": "9380: 9389: 9380: 9389",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Landshypotek",
+      "slug": "landshypotek",
+      "ranges": "9390: 9399: 9390: 9399",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Forex Bank",
+      "slug": "forex-bank",
+      "ranges": "9400: 9449: 9400: 9449",
+      "num_ranges": 1,
+      "num_clearing_numbers": 50
+    },
+    {
+      "name": "Santander Consumer Bank",
+      "slug": "santander-consumer-bank",
+      "ranges": "9460: 9469: 9460: 9469",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Fortis Bank",
+      "slug": "fortis-bank",
+      "ranges": "9470: 9479: 9470: 9479",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Avanza Bank",
+      "slug": "avanza-bank",
+      "ranges": "9550: 9569: 9550: 9569",
+      "num_ranges": 1,
+      "num_clearing_numbers": 20
+    },
+    {
+      "name": "Sparbanken Syd",
+      "slug": "sparbanken-syd",
+      "ranges": "9570: 9579: 9570: 9579",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Exchange Finans Europe",
+      "slug": "exchange-finans-europe",
+      "ranges": "9580: 9589: 9580: 9589",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Erik Penser Bankaktiebolag",
+      "slug": "erik-penser-bankaktiebolag",
+      "ranges": "9590: 9599: 9590: 9599",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Volvofinans Bank",
+      "slug": "volvofinans-bank",
+      "ranges": "9610: 9619: 9610: 9619",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Bank of China (Luxembourg)",
+      "slug": "bank-of-china-luxembourg",
+      "ranges": "9620: 9629: 9620: 9629",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Lån & Spar Bank",
+      "slug": "lan-spar-bank",
+      "ranges": "9630: 9639: 9630: 9639",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Nordax Finans",
+      "slug": "nordax-finans",
+      "ranges": "9640: 9649: 9640: 9649",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "MedMera Bank",
+      "slug": "medmera-bank",
+      "ranges": "9650: 9659: 9650: 9659",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Svea Bank",
+      "slug": "svea-bank",
+      "ranges": "9660: 9669: 9660: 9669",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "JAK Medlemsbank",
+      "slug": "jak-medlemsbank",
+      "ranges": "9670: 9679: 9670: 9679",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Bluestep Finans",
+      "slug": "bluestep-finans",
+      "ranges": "9680: 9689: 9680: 9689",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Folkia",
+      "slug": "folkia",
+      "ranges": "9690: 9699: 9690: 9699",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Ekobanken",
+      "slug": "ekobanken",
+      "ranges": "9700: 9709: 9700: 9709",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Netfonds Bank (ub)",
+      "slug": "netfonds-bank-ub",
+      "ranges": "9720: 9729: 9720: 9729",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Northmill Bank",
+      "slug": "northmill-bank",
+      "ranges": "9750: 9759: 9750: 9759",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "FTCS",
+      "slug": "ftcs",
+      "ranges": "9770: 9779: 9770: 9779",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Klarna Bank",
+      "slug": "klarna-bank",
+      "ranges": "9780: 9789: 9780: 9789",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Privatgirot",
+      "slug": "privatgirot",
+      "ranges": "9860: 9869: 9860: 9869",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Nasdaq-OMX",
+      "slug": "nasdaq-omx",
+      "ranges": "9870: 9879: 9870: 9879",
+      "num_ranges": 1,
+      "num_clearing_numbers": 10
+    },
+    {
+      "name": "Riksgälden",
+      "slug": "riksgalden",
+      "ranges": "9880: 9899: 9880: 9899",
+      "num_ranges": 1,
+      "num_clearing_numbers": 20
+    },
+    {
+      "name": "Teller Branch Norway",
+      "slug": "teller-branch-norway",
+      "ranges": "9951: 9951: 9951: 9951: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Bankernas Automatbolag",
+      "slug": "bankernas-automatbolag",
+      "ranges": "9952: 9952: 9952: 9952: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Teller Branch Sweden",
+      "slug": "teller-branch-sweden",
+      "ranges": "9953: 9953: 9953: 9953: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Kortaccept Nordic",
+      "slug": "kortaccept-nordic",
+      "ranges": "9954: 9954: 9954: 9954: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "Kommuninvest",
+      "slug": "kommuninvest",
+      "ranges": "9955: 9955: 9955: 9955: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    },
+    {
+      "name": "VP Securities A/S",
+      "slug": "vp-securities-a-s",
+      "ranges": "9956: 9956: 9956: 9956: true",
+      "num_ranges": 1,
+      "num_clearing_numbers": 1
+    }
+  ],
+  "meta": {
+    "title": "Banker i Sverige — clearingnummer-register - Gratis nedladdning",
+    "description": "Förteckning över svenska banker (och relaterade finansinstitut) med deras clearingnummer-intervall enligt Svenska Bankföreningens / Bankgirot-listan. Varje post anger bankens namn samt en eller flera intervall (min/max) av fyrsiffriga clearingnummer. För Swedbank/sparbanker används punktkoder med check-siffra (t.ex. '8158-8'). Källa: opendevtools/clearingnummer (MIT). Innehåller 64 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Sverige — clearingnummer-register | ListBase",
+    "seo_description": "Ladda ner Banker i Sverige — clearingnummer-register — 64 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 64 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: https://github.com/opendevtools/clearingnummer"
+    ]
+  }
+}

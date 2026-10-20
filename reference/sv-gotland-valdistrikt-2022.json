@@ -1,0 +1,376 @@
+{
+  "id": "sv-gotland-valdistrikt-2022",
+  "name": "Valdistrikt i Gotlands län (val 2022)",
+  "title": "Valdistrikt i Gotlands län (val 2022)",
+  "description": "40 valdistrikt i Gotlands län (länskod 09) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "09800101",
+      "valdistrikt_namn": "Visby Innerstaden",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800102",
+      "valdistrikt_namn": "Visby Norr",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800103",
+      "valdistrikt_namn": "Visby Öster",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800104",
+      "valdistrikt_namn": "Visby Skarphäll/Östra Vi",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800105",
+      "valdistrikt_namn": "Visby Länna",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800106",
+      "valdistrikt_namn": "Visby Visborgsst/Halsjärnet",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800107",
+      "valdistrikt_namn": "Visby A7/Östra Vi",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800108",
+      "valdistrikt_namn": "Visby Djuplunda/Södervärn",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800109",
+      "valdistrikt_namn": "Visby Furulund",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800110",
+      "valdistrikt_namn": "Visby Bingeby",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800111",
+      "valdistrikt_namn": "Visby Pilhagen/Gråbo",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800112",
+      "valdistrikt_namn": "Visby Yttre Furulund",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800113",
+      "valdistrikt_namn": "Visby Terra Nova",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800114",
+      "valdistrikt_namn": "Visby Galgberget/Snäck",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800115",
+      "valdistrikt_namn": "Visby Söder",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800201",
+      "valdistrikt_namn": "Slite Othem/Hellvi",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800202",
+      "valdistrikt_namn": "Slite Othem/Boge",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800401",
+      "valdistrikt_namn": "Fårö",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09800501",
+      "valdistrikt_namn": "Fårösund",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09801001",
+      "valdistrikt_namn": "Lärbro",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09801401",
+      "valdistrikt_namn": "Tingstäde",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09801801",
+      "valdistrikt_namn": "Väskinde",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09802401",
+      "valdistrikt_namn": "Vallstena",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09802901",
+      "valdistrikt_namn": "Dalhem",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09803101",
+      "valdistrikt_namn": "Endre",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09803501",
+      "valdistrikt_namn": "Roma",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09804001",
+      "valdistrikt_namn": "Vänge",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09804401",
+      "valdistrikt_namn": "Kräklingbo",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09804801",
+      "valdistrikt_namn": "Västerhejde",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09805301",
+      "valdistrikt_namn": "Stenkumla",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09805501",
+      "valdistrikt_namn": "Eskelhem",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09805701",
+      "valdistrikt_namn": "Sanda",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09806101",
+      "valdistrikt_namn": "Klinte",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09806301",
+      "valdistrikt_namn": "Eksta",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09806701",
+      "valdistrikt_namn": "Garde",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09807301",
+      "valdistrikt_namn": "Stånga",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09807601",
+      "valdistrikt_namn": "Hemse/Alva",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09807602",
+      "valdistrikt_namn": "Hemse/Rone",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09808401",
+      "valdistrikt_namn": "Havdhem",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    },
+    {
+      "valdistrikt_kod": "09809101",
+      "valdistrikt_namn": "Burgsvik",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09",
+      "lan_namn": "Gotlands län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Gotlands län (val 2022) - Gratis nedladdning",
+    "description": "40 valdistrikt i Gotlands län (länskod 09) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 40 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Gotlands län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Gotlands län (val 2022) — 40 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 40 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

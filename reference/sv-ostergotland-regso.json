@@ -1,0 +1,1024 @@
+{
+  "id": "sv-ostergotland-regso",
+  "name": "RegSO-områden i Östergötlands län",
+  "title": "RegSO-områden i Östergötlands län",
+  "description": "139 regionala statistikområden (RegSO) i Östergötlands län (länskod 05). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 139,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "0509R001",
+      "regso_namn": "Hästholmen-Slätten-Skogsbygden",
+      "kommun_kod": "0509",
+      "kommun_namn": "Ödeshög",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0509R002",
+      "regso_namn": "Ödeshög",
+      "kommun_kod": "0509",
+      "kommun_namn": "Ödeshög",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0512R001",
+      "regso_namn": "Sund-Norra Vi-Svinhult-Västra Ryd",
+      "kommun_kod": "0512",
+      "kommun_namn": "Ydre",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0512R002",
+      "regso_namn": "Torpa-Asby",
+      "kommun_kod": "0512",
+      "kommun_namn": "Ydre",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0512R003",
+      "regso_namn": "Österbymo",
+      "kommun_kod": "0512",
+      "kommun_namn": "Ydre",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0513R001",
+      "regso_namn": "Kinda norra",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0513R002",
+      "regso_namn": "Kinda västra",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0513R003",
+      "regso_namn": "Kinda östra",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0513R004",
+      "regso_namn": "Kisa västra",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0513R005",
+      "regso_namn": "Kisa östra",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0513R006",
+      "regso_namn": "Rimforsa",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0560R001",
+      "regso_namn": "Boxholm omnejd",
+      "kommun_kod": "0560",
+      "kommun_namn": "Boxholm",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0560R002",
+      "regso_namn": "Boxholm västra",
+      "kommun_kod": "0560",
+      "kommun_namn": "Boxholm",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0560R003",
+      "regso_namn": "Boxholm östra",
+      "kommun_kod": "0560",
+      "kommun_namn": "Boxholm",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0561R001",
+      "regso_namn": "Åtvidaberg centrum nordost",
+      "kommun_kod": "0561",
+      "kommun_namn": "Åtvidaberg",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0561R002",
+      "regso_namn": "Åtvidaberg centrum sydväst",
+      "kommun_kod": "0561",
+      "kommun_namn": "Åtvidaberg",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0561R003",
+      "regso_namn": "Åtvidaberg nord",
+      "kommun_kod": "0561",
+      "kommun_namn": "Åtvidaberg",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0561R004",
+      "regso_namn": "Åtvidaberg syd",
+      "kommun_kod": "0561",
+      "kommun_namn": "Åtvidaberg",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0562R001",
+      "regso_namn": "Dunderbacken-Hårstorp",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0562R002",
+      "regso_namn": "Finspång centrala-Svälthagen",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0562R003",
+      "regso_namn": "Finspång omland",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0562R004",
+      "regso_namn": "Grosvad-Butbro",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0562R005",
+      "regso_namn": "Lotorp-Vistinge",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0562R006",
+      "regso_namn": "Norrmalm-Östermalm",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0562R007",
+      "regso_namn": "Nyhem",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0562R008",
+      "regso_namn": "Storängen",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0562R009",
+      "regso_namn": "Viggestorp-Falla",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0563R001",
+      "regso_namn": "Gryt-Skärgården",
+      "kommun_kod": "0563",
+      "kommun_namn": "Valdemarsvik",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0563R002",
+      "regso_namn": "Ringarum-Gusum",
+      "kommun_kod": "0563",
+      "kommun_namn": "Valdemarsvik",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0563R003",
+      "regso_namn": "Valdemarsviks tätort",
+      "kommun_kod": "0563",
+      "kommun_namn": "Valdemarsvik",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R001",
+      "regso_namn": "Berga",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R002",
+      "regso_namn": "Domkyrkan-Slottet",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R003",
+      "regso_namn": "Ekholmen",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R004",
+      "regso_namn": "Ekkällan-Garnisonen",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R005",
+      "regso_namn": "Ekängen",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R006",
+      "regso_namn": "Gottfridsberg",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R007",
+      "regso_namn": "Hackefors",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R008",
+      "regso_namn": "Hejdegården",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R009",
+      "regso_namn": "Hjulsbro",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R010",
+      "regso_namn": "Johannelund",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R011",
+      "regso_namn": "Lambohov-Slaka",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R012",
+      "regso_namn": "Lilla Torget-Sankt Lars",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R013",
+      "regso_namn": "Linghem",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R014",
+      "regso_namn": "Ljungsbro-Berg",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R015",
+      "regso_namn": "Malmslätt",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R016",
+      "regso_namn": "Ramshäll",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R017",
+      "regso_namn": "Ryd",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R018",
+      "regso_namn": "Skäggetorp-Tornby",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R019",
+      "regso_namn": "Sturefors",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R020",
+      "regso_namn": "Tallboda",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R021",
+      "regso_namn": "Tannefors-Stångebro-Kallerstad",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R022",
+      "regso_namn": "Trädgårdsföreningen-Folkungavallen",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R023",
+      "regso_namn": "Ullstämma-Haninge",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R024",
+      "regso_namn": "Valkebo omland",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R025",
+      "regso_namn": "Valla-T1",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R026",
+      "regso_namn": "Vasastaden-Hunneberg",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R027",
+      "regso_namn": "Vidingsjö",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R028",
+      "regso_namn": "Vikingstad-Rappestad",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R029",
+      "regso_namn": "Vimanshäll",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R030",
+      "regso_namn": "Vreta Kloster omland",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R031",
+      "regso_namn": "Vårdnäs omland",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0580R032",
+      "regso_namn": "Åkerbo omland",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R001",
+      "regso_namn": "Borgs villastad-Kneippen",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R002",
+      "regso_namn": "Djurön-Ljunga-Tingstad",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R003",
+      "regso_namn": "Djäknepark-Gustav Adolf",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R004",
+      "regso_namn": "Eksund-Öbonäs",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R005",
+      "regso_namn": "Eneby centrum-Vidablick-Sandbyhov",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R006",
+      "regso_namn": "Gamla Staden-Centrum",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R007",
+      "regso_namn": "Generalen",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R008",
+      "regso_namn": "Grönhög-Klingsberg",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R009",
+      "regso_namn": "Hallberga-Fyrby-Sörby",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R010",
+      "regso_namn": "Herstadberg-Händelö-Lagerlunda",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R011",
+      "regso_namn": "Kimstad-Norsholm-Skärkind",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R012",
+      "regso_namn": "Kolmården",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R013",
+      "regso_namn": "Kärrhagen-Kättsätter",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R014",
+      "regso_namn": "Lindö-Berga-Marby",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R015",
+      "regso_namn": "Navestad-Åselstad",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R016",
+      "regso_namn": "Nordvästra Marielund",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R017",
+      "regso_namn": "Nordvästra Nordantill",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R018",
+      "regso_namn": "Nordvästra Vilbergen",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R019",
+      "regso_namn": "Nordöstra Hageby",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R020",
+      "regso_namn": "Norra Ektorp",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R021",
+      "regso_namn": "Norra Ljura",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R022",
+      "regso_namn": "Oxelbergen-Risängen-Sylten",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R023",
+      "regso_namn": "Pryssgården-Taborsberg",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R024",
+      "regso_namn": "Rambodal",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R025",
+      "regso_namn": "Sandtorp-Norra Skarphagen",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R026",
+      "regso_namn": "Simonstorp-Graversfors-Landsbygd",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R027",
+      "regso_namn": "Skärblacka-Vånga-Landsbygd",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R028",
+      "regso_namn": "Smedby-Brånnestad",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R029",
+      "regso_namn": "Strömbacken-Berget-Södertull",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R030",
+      "regso_namn": "Svärtinge-Loddby-Landsbygd",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R031",
+      "regso_namn": "Sydvästra Hageby",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R032",
+      "regso_namn": "Sydöstra Marielund",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R033",
+      "regso_namn": "Sydöstra Nordantill",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R034",
+      "regso_namn": "Sydöstra Vilbergen-Björkalund",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R035",
+      "regso_namn": "Såpkullen-Söderstaden-Vasaparken",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R036",
+      "regso_namn": "Södra Ektorp",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R037",
+      "regso_namn": "Västra Klockaretorpet",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R038",
+      "regso_namn": "Åby-Jursla-Landsbygd",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R039",
+      "regso_namn": "Östra Haga",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0581R040",
+      "regso_namn": "Östra Vikbolandet",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0582R001",
+      "regso_namn": "Alboga-Bossgård",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0582R002",
+      "regso_namn": "Drothem",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0582R003",
+      "regso_namn": "Mogata-Sankt Anna",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0582R004",
+      "regso_namn": "Skönberga",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0582R005",
+      "regso_namn": "Söderköpings centrum",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0582R006",
+      "regso_namn": "Söderköpings omland-Östra Ryd",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0582R007",
+      "regso_namn": "Västra Husby-Luddingsbo",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0583R001",
+      "regso_namn": "Borensberg",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0583R002",
+      "regso_namn": "Charlottenborg-Ekenäs-Grankulla",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0583R003",
+      "regso_namn": "Ekön-Torvmossen",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0583R004",
+      "regso_namn": "Fornåsa-Österstad-Klockrike",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0583R005",
+      "regso_namn": "Fågelsta-Södra Freberga",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0583R006",
+      "regso_namn": "Gamla stan",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0583R007",
+      "regso_namn": "Motala tätort-övrigt",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0583R008",
+      "regso_namn": "Nykyrka-Tjällmo-Godegård",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0583R009",
+      "regso_namn": "Väster-Södra Varamon-Gustavsvik",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0584R001",
+      "regso_namn": "Centrala Vadstena-Kvissberg",
+      "kommun_kod": "0584",
+      "kommun_namn": "Vadstena",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0584R002",
+      "regso_namn": "Tycklinge",
+      "kommun_kod": "0584",
+      "kommun_namn": "Vadstena",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0584R003",
+      "regso_namn": "Vadstena Innerstaden",
+      "kommun_kod": "0584",
+      "kommun_namn": "Vadstena",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0584R004",
+      "regso_namn": "Vadstena landsbygd",
+      "kommun_kod": "0584",
+      "kommun_namn": "Vadstena",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0584R005",
+      "regso_namn": "Vadstena söder",
+      "kommun_kod": "0584",
+      "kommun_namn": "Vadstena",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R001",
+      "regso_namn": "Eldslösa",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R002",
+      "regso_namn": "Mantorp tätort",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R003",
+      "regso_namn": "Mjölby omnejd-Skänninge omnejd",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R004",
+      "regso_namn": "Mjölby östra",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R005",
+      "regso_namn": "Ryttarhagen-Högby",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R006",
+      "regso_namn": "Skeppsås-Normlösa-Öjebro",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R007",
+      "regso_namn": "Skänninge tätort",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R008",
+      "regso_namn": "Slomarp-Egeby",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R009",
+      "regso_namn": "Svartå strand-Centrum-Albacken",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R010",
+      "regso_namn": "Sya-Spångsholm-Veta",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R011",
+      "regso_namn": "Sörby-Östra Lundby-Centrum",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R012",
+      "regso_namn": "Tunet-Hagaparken",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R013",
+      "regso_namn": "Vasa",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R014",
+      "regso_namn": "Väderstad-Väderstad omnejd",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R015",
+      "regso_namn": "Västra Harg-Östra Tollstad",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    },
+    {
+      "regso_kod": "0586R016",
+      "regso_namn": "Västra Lundby",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Östergötlands län - Gratis nedladdning",
+    "description": "139 regionala statistikområden (RegSO) i Östergötlands län (länskod 05). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 139 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Östergötlands län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Östergötlands län — 139 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 139 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

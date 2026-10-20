@@ -1,0 +1,126 @@
+{
+  "id": "sv-eu-institutioner",
+  "name": "EU-institutioner",
+  "title": "EU-institutioner",
+  "description": "EU:s institutioner och organ med svenska namn, alternativa namn och förkortningar.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alternative_name",
+      "label": "Alternative Name",
+      "type": "string"
+    },
+    {
+      "key": "acronym",
+      "label": "Acronym",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Europaparlamentet",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska rådet",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska unionens råd",
+      "alternative_name": "ministerrådet",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska kommissionen",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "EU-domstolen",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska centralbanken",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska revisionsrätten",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska utrikestjänsten",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska ekonomiska och sociala kommittén",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska regionkommittén",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska investeringsbanken",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska ombudsmannen",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska datatillsynsmannen",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Computer Emergency Response Team",
+      "alternative_name": "",
+      "acronym": "CERT"
+    },
+    {
+      "name": "Europeiska byrån för uttagningsprov för rekrytering av personal",
+      "alternative_name": "Europeiska rekryteringsbyrån",
+      "acronym": "EPSO"
+    },
+    {
+      "name": "Europeiska förvaltningsskolan",
+      "alternative_name": "",
+      "acronym": ""
+    },
+    {
+      "name": "Europeiska unionens publikationsbyrå",
+      "alternative_name": "Publikationsbyrån",
+      "acronym": ""
+    }
+  ],
+  "meta": {
+    "title": "EU-institutioner - Gratis nedladdning",
+    "description": "EU:s institutioner och organ med svenska namn, alternativa namn och förkortningar. Innehåller 17 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "EU-institutioner | ListBase",
+    "seo_description": "Ladda ner EU-institutioner — 17 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 17 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

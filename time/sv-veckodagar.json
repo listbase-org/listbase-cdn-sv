@@ -1,0 +1,64 @@
+{
+  "id": "sv-veckodagar",
+  "name": "Veckodagar",
+  "title": "Veckodagar",
+  "description": "Veckans sju dagar på svenska med dagnummer.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "number": "1",
+      "name": "måndag"
+    },
+    {
+      "number": "2",
+      "name": "tisdag"
+    },
+    {
+      "number": "3",
+      "name": "onsdag"
+    },
+    {
+      "number": "4",
+      "name": "torsdag"
+    },
+    {
+      "number": "5",
+      "name": "fredag"
+    },
+    {
+      "number": "6",
+      "name": "lördag"
+    },
+    {
+      "number": "7",
+      "name": "söndag"
+    }
+  ],
+  "meta": {
+    "title": "Veckodagar - Gratis nedladdning",
+    "description": "Veckans sju dagar på svenska med dagnummer. Innehåller 7 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Veckodagar | ListBase",
+    "seo_description": "Ladda ner Veckodagar — 7 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 7 poster / 2 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

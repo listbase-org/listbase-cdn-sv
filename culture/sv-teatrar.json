@@ -1,0 +1,1601 @@
+{
+  "id": "sv-teatrar",
+  "name": "Teatrar i Sverige",
+  "title": "Teatrar i Sverige",
+  "description": "Teatrar i Sverige (OpenStreetMap-punkter, amenity=theatre). Namn, latitud och longitud (WGS84). 312 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 312,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aftonstjärnan",
+      "latitude": 57.706949,
+      "longitude": 11.93274
+    },
+    {
+      "name": "Albert Engströmsgården",
+      "latitude": 57.632962,
+      "longitude": 15.127396
+    },
+    {
+      "name": "Aliasteatern",
+      "latitude": 59.341459,
+      "longitude": 18.043514
+    },
+    {
+      "name": "Almedalens scen",
+      "latitude": 57.639929,
+      "longitude": 18.290977
+    },
+    {
+      "name": "Amandas teater",
+      "latitude": 57.691645,
+      "longitude": 11.947401
+    },
+    {
+      "name": "Amfiteater Bjeredsparken",
+      "latitude": 55.707477,
+      "longitude": 13.184692
+    },
+    {
+      "name": "Amfiteatern",
+      "latitude": 56.66549,
+      "longitude": 12.889601
+    },
+    {
+      "name": "Amfiteatern",
+      "latitude": 60.173004,
+      "longitude": 18.165251
+    },
+    {
+      "name": "Amfiteatern Lomma",
+      "latitude": 55.671742,
+      "longitude": 13.062505
+    },
+    {
+      "name": "Amphitheater",
+      "latitude": 59.193993,
+      "longitude": 17.84484
+    },
+    {
+      "name": "Angereds Teater",
+      "latitude": 57.795765,
+      "longitude": 12.050994
+    },
+    {
+      "name": "appelquist",
+      "latitude": 59.835318,
+      "longitude": 13.141629
+    },
+    {
+      "name": "Arlövs teater",
+      "latitude": 55.629055,
+      "longitude": 13.07031
+    },
+    {
+      "name": "Arnljotlägden",
+      "latitude": 63.177893,
+      "longitude": 14.509793
+    },
+    {
+      "name": "Atalante",
+      "latitude": 57.695056,
+      "longitude": 11.957684
+    },
+    {
+      "name": "Auditoriet",
+      "latitude": 57.18865,
+      "longitude": 14.037178
+    },
+    {
+      "name": "Backa Teater",
+      "latitude": 57.705918,
+      "longitude": 11.936044
+    },
+    {
+      "name": "Berwaldhallen",
+      "latitude": 59.333363,
+      "longitude": 18.100494
+    },
+    {
+      "name": "Berättarladan",
+      "latitude": 59.801571,
+      "longitude": 13.127097
+    },
+    {
+      "name": "Borås Stadsteater",
+      "latitude": 57.720878,
+      "longitude": 12.94789
+    },
+    {
+      "name": "Brunnsgatan fyra",
+      "latitude": 59.336792,
+      "longitude": 18.070001
+    },
+    {
+      "name": "Brunnsteatern",
+      "latitude": 64.751157,
+      "longitude": 20.939072
+    },
+    {
+      "name": "Buffalo Spring",
+      "latitude": 57.264119,
+      "longitude": 13.836723
+    },
+    {
+      "name": "Bus, Barnens Underjordiska Scen",
+      "latitude": 59.312545,
+      "longitude": 18.075874
+    },
+    {
+      "name": "Bylunds backe",
+      "latitude": 59.814729,
+      "longitude": 17.662335
+    },
+    {
+      "name": "Byteatern",
+      "latitude": 56.658633,
+      "longitude": 16.365168
+    },
+    {
+      "name": "Bågscenen",
+      "latitude": 55.616761,
+      "longitude": 12.98595
+    },
+    {
+      "name": "Cameleonterna",
+      "latitude": 59.928304,
+      "longitude": 16.584283
+    },
+    {
+      "name": "Camp Sveg",
+      "latitude": 62.032916,
+      "longitude": 14.365362
+    },
+    {
+      "name": "Cassels Donation Konserthus",
+      "latitude": 60.078716,
+      "longitude": 14.985006
+    },
+    {
+      "name": "China Teatern",
+      "latitude": 59.332513,
+      "longitude": 18.073333
+    },
+    {
+      "name": "Christinateatern",
+      "latitude": 59.307546,
+      "longitude": 14.108723
+    },
+    {
+      "name": "Cinnober",
+      "latitude": 57.697742,
+      "longitude": 11.94379
+    },
+    {
+      "name": "Cirkus",
+      "latitude": 59.324843,
+      "longitude": 18.099678
+    },
+    {
+      "name": "Crusellhallen",
+      "latitude": 58.413747,
+      "longitude": 15.614471
+    },
+    {
+      "name": "Culturum Konsertsal Bibliotek",
+      "latitude": 58.754256,
+      "longitude": 17.008915
+    },
+    {
+      "name": "Dalateatern",
+      "latitude": 60.603881,
+      "longitude": 15.631257
+    },
+    {
+      "name": "Dalhalla",
+      "latitude": 60.94844,
+      "longitude": 15.104442
+    },
+    {
+      "name": "Dansens hus",
+      "latitude": 59.336123,
+      "longitude": 18.056074
+    },
+    {
+      "name": "Den Lilla Teatern",
+      "latitude": 59.862147,
+      "longitude": 17.642006
+    },
+    {
+      "name": "Dice Theater",
+      "latitude": 57.695484,
+      "longitude": 11.922451
+    },
+    {
+      "name": "Dieselverkstaden",
+      "latitude": 59.305493,
+      "longitude": 18.120744
+    },
+    {
+      "name": "Dockteatern Tittut",
+      "latitude": 59.31843,
+      "longitude": 18.047774
+    },
+    {
+      "name": "Dramaten",
+      "latitude": 59.333153,
+      "longitude": 18.076877
+    },
+    {
+      "name": "Dur & Moll",
+      "latitude": 59.317342,
+      "longitude": 18.0841
+    },
+    {
+      "name": "Dynamo",
+      "latitude": 58.593302,
+      "longitude": 16.177853
+    },
+    {
+      "name": "Elmia Konserthus",
+      "latitude": 57.788636,
+      "longitude": 14.229148
+    },
+    {
+      "name": "Elverket",
+      "latitude": 59.335781,
+      "longitude": 18.088189
+    },
+    {
+      "name": "Emil i Lönneberga",
+      "latitude": 57.672946,
+      "longitude": 15.84659
+    },
+    {
+      "name": "Eskil Teater",
+      "latitude": 59.166493,
+      "longitude": 18.146952
+    },
+    {
+      "name": "Eskilstuna Teater",
+      "latitude": 59.372979,
+      "longitude": 16.51275
+    },
+    {
+      "name": "Eva Funck's dockteater",
+      "latitude": 59.338092,
+      "longitude": 18.040131
+    },
+    {
+      "name": "Expressteatern",
+      "latitude": 55.604004,
+      "longitude": 13.008692
+    },
+    {
+      "name": "Falkenbergs teater",
+      "latitude": 56.912057,
+      "longitude": 12.502703
+    },
+    {
+      "name": "Femtinge Teater - Teaterlogen",
+      "latitude": 57.432577,
+      "longitude": 14.630711
+    },
+    {
+      "name": "Folkan",
+      "latitude": 57.724468,
+      "longitude": 12.938935
+    },
+    {
+      "name": "Folkan Teater",
+      "latitude": 63.291647,
+      "longitude": 18.712501
+    },
+    {
+      "name": "Folkans bio teater",
+      "latitude": 58.206508,
+      "longitude": 16.59586
+    },
+    {
+      "name": "Folkets Hus",
+      "latitude": 66.032104,
+      "longitude": 22.144928
+    },
+    {
+      "name": "Folkoperan",
+      "latitude": 59.318468,
+      "longitude": 18.058252
+    },
+    {
+      "name": "Folkteatern",
+      "latitude": 57.700906,
+      "longitude": 11.952033
+    },
+    {
+      "name": "Folkteatern i Gävleborg",
+      "latitude": 60.677857,
+      "longitude": 17.141128
+    },
+    {
+      "name": "Forum",
+      "latitude": 65.183489,
+      "longitude": 18.742065
+    },
+    {
+      "name": "Forumteatern",
+      "latitude": 58.411937,
+      "longitude": 15.619498
+    },
+    {
+      "name": "Forumteatern",
+      "latitude": 59.512878,
+      "longitude": 15.992198
+    },
+    {
+      "name": "Fredriksdals friluftsteater",
+      "latitude": 56.056948,
+      "longitude": 12.710474
+    },
+    {
+      "name": "Friluftsteater",
+      "latitude": 59.369675,
+      "longitude": 13.485704
+    },
+    {
+      "name": "Furulundsparken",
+      "latitude": 57.932514,
+      "longitude": 12.095754
+    },
+    {
+      "name": "Furulundsskolans aula",
+      "latitude": 56.055848,
+      "longitude": 14.581759
+    },
+    {
+      "name": "Fästningsteatern",
+      "latitude": 58.531475,
+      "longitude": 14.528145
+    },
+    {
+      "name": "G:a Folkets hus",
+      "latitude": 59.174833,
+      "longitude": 18.13844
+    },
+    {
+      "name": "Gamla Teatern",
+      "latitude": 58.449767,
+      "longitude": 14.893124
+    },
+    {
+      "name": "Gapskrattet",
+      "latitude": 59.056016,
+      "longitude": 16.587583
+    },
+    {
+      "name": "Giljotin",
+      "latitude": 59.340429,
+      "longitude": 18.038184
+    },
+    {
+      "name": "Giron Sámi Theáter",
+      "latitude": 67.85279,
+      "longitude": 20.240796
+    },
+    {
+      "name": "Gothenburg English Studio Theatre",
+      "latitude": 57.693633,
+      "longitude": 11.918797
+    },
+    {
+      "name": "Gripenscenen",
+      "latitude": 56.254061,
+      "longitude": 12.864077
+    },
+    {
+      "name": "Grytan Amfiteater",
+      "latitude": 55.723059,
+      "longitude": 13.190048
+    },
+    {
+      "name": "Gävle teater",
+      "latitude": 60.677538,
+      "longitude": 17.141622
+    },
+    {
+      "name": "Göta Lejon",
+      "latitude": 59.313872,
+      "longitude": 18.073898
+    },
+    {
+      "name": "Göteborgs dramatiska teater",
+      "latitude": 57.699588,
+      "longitude": 11.93689
+    },
+    {
+      "name": "Göteborgs Konserthus",
+      "latitude": 57.696818,
+      "longitude": 11.978792
+    },
+    {
+      "name": "Göteborgs Stadsteater",
+      "latitude": 57.69755,
+      "longitude": 11.980824
+    },
+    {
+      "name": "Göteborgsoperan",
+      "latitude": 57.710692,
+      "longitude": 11.96326
+    },
+    {
+      "name": "GöteborgsOperan Skövdescenen",
+      "latitude": 58.386611,
+      "longitude": 13.845846
+    },
+    {
+      "name": "Haga Konserthall",
+      "latitude": 57.699325,
+      "longitude": 11.963261
+    },
+    {
+      "name": "Hagateatern",
+      "latitude": 57.699819,
+      "longitude": 11.954704
+    },
+    {
+      "name": "Halmstads teater",
+      "latitude": 56.673675,
+      "longitude": 12.863023
+    },
+    {
+      "name": "Hammarteatern",
+      "latitude": 59.614873,
+      "longitude": 16.227219
+    },
+    {
+      "name": "Hedemora Gamla Theater",
+      "latitude": 60.280422,
+      "longitude": 15.987548
+    },
+    {
+      "name": "Helsingborgs Stadsteater",
+      "latitude": 56.050477,
+      "longitude": 12.6883
+    },
+    {
+      "name": "Hjalmar Bergmanteatern",
+      "latitude": 59.268245,
+      "longitude": 15.208262
+    },
+    {
+      "name": "Huddinge aula",
+      "latitude": 59.243212,
+      "longitude": 17.995296
+    },
+    {
+      "name": "Hudiksvalls Teater",
+      "latitude": 61.731107,
+      "longitude": 17.103744
+    },
+    {
+      "name": "Huskvarna teater och kulturskola",
+      "latitude": 57.78931,
+      "longitude": 14.273238
+    },
+    {
+      "name": "Härnösands Teater",
+      "latitude": 62.630068,
+      "longitude": 17.936173
+    },
+    {
+      "name": "Intiman",
+      "latitude": 59.342012,
+      "longitude": 18.048175
+    },
+    {
+      "name": "Junibacken",
+      "latitude": 57.674491,
+      "longitude": 15.846158
+    },
+    {
+      "name": "Jönköpings teater",
+      "latitude": 57.78146,
+      "longitude": 14.17683
+    },
+    {
+      "name": "Kaaos Kaamos Academy",
+      "latitude": 63.865257,
+      "longitude": 20.304428
+    },
+    {
+      "name": "Kalmar Teater",
+      "latitude": 56.66289,
+      "longitude": 16.360117
+    },
+    {
+      "name": "Kaninscenen",
+      "latitude": 57.695656,
+      "longitude": 11.993082
+    },
+    {
+      "name": "Karlberg",
+      "latitude": 65.377973,
+      "longitude": 21.402234
+    },
+    {
+      "name": "Karlshamns Stadsteater",
+      "latitude": 56.168485,
+      "longitude": 14.87109
+    },
+    {
+      "name": "Karlsson Tak",
+      "latitude": 57.673713,
+      "longitude": 15.845023
+    },
+    {
+      "name": "Kasperteatern",
+      "latitude": 57.687479,
+      "longitude": 11.947926
+    },
+    {
+      "name": "Kinna konserthus",
+      "latitude": 57.50833,
+      "longitude": 12.698393
+    },
+    {
+      "name": "Kolhusteater",
+      "latitude": 59.152656,
+      "longitude": 16.489722
+    },
+    {
+      "name": "Konserthuset",
+      "latitude": 59.335122,
+      "longitude": 18.063038
+    },
+    {
+      "name": "Konserthuset Kristianstad",
+      "latitude": 56.031669,
+      "longitude": 14.160132
+    },
+    {
+      "name": "Konserthusteatern",
+      "latitude": 56.161706,
+      "longitude": 15.585447
+    },
+    {
+      "name": "Kulturhuset",
+      "latitude": 56.682428,
+      "longitude": 12.873208
+    },
+    {
+      "name": "Kulturhuset Anders",
+      "latitude": 55.930572,
+      "longitude": 13.545794
+    },
+    {
+      "name": "Kulturhuset i Ytterjärna",
+      "latitude": 59.068468,
+      "longitude": 17.615796
+    },
+    {
+      "name": "Kulturhuset Messingen",
+      "latitude": 59.521118,
+      "longitude": 17.901786
+    },
+    {
+      "name": "Kulturhuset Oceanen",
+      "latitude": 57.698426,
+      "longitude": 11.933596
+    },
+    {
+      "name": "Kulturhuset Spira",
+      "latitude": 57.777702,
+      "longitude": 14.171646
+    },
+    {
+      "name": "Kungliga Operan",
+      "latitude": 59.329644,
+      "longitude": 18.069959
+    },
+    {
+      "name": "Kungsteatern",
+      "latitude": 59.326119,
+      "longitude": 14.527262
+    },
+    {
+      "name": "Kvitterscenen",
+      "latitude": 56.198522,
+      "longitude": 15.281698
+    },
+    {
+      "name": "Kävlinge Kulturscenen",
+      "latitude": 55.792512,
+      "longitude": 13.103025
+    },
+    {
+      "name": "Körsbärsdalen",
+      "latitude": 57.673508,
+      "longitude": 15.850158
+    },
+    {
+      "name": "Landskrona teater",
+      "latitude": 55.870069,
+      "longitude": 12.833258
+    },
+    {
+      "name": "Lederman",
+      "latitude": 59.341473,
+      "longitude": 18.039372
+    },
+    {
+      "name": "Lilla Scenen",
+      "latitude": 57.675269,
+      "longitude": 15.844
+    },
+    {
+      "name": "Lilla scenen Lintjärnsparken",
+      "latitude": 59.527621,
+      "longitude": 13.483645
+    },
+    {
+      "name": "Lilla Teatern",
+      "latitude": 55.696914,
+      "longitude": 13.199062
+    },
+    {
+      "name": "Lilla teatern",
+      "latitude": 58.594676,
+      "longitude": 16.172386
+    },
+    {
+      "name": "Lilla teatern",
+      "latitude": 61.003606,
+      "longitude": 17.126033
+    },
+    {
+      "name": "Lisebergsteatern",
+      "latitude": 57.696557,
+      "longitude": 11.990594
+    },
+    {
+      "name": "Lokal 16",
+      "latitude": 56.827887,
+      "longitude": 13.922278
+    },
+    {
+      "name": "Lokomotivet",
+      "latitude": 59.377697,
+      "longitude": 16.509986
+    },
+    {
+      "name": "Lokstallarna",
+      "latitude": 56.177036,
+      "longitude": 14.8528
+    },
+    {
+      "name": "Lorensbergsteatern",
+      "latitude": 57.698129,
+      "longitude": 11.980224
+    },
+    {
+      "name": "Louis De Geer Konsert & Kongress",
+      "latitude": 58.588153,
+      "longitude": 16.183802
+    },
+    {
+      "name": "Lunds Stadsteater",
+      "latitude": 55.702757,
+      "longitude": 13.197033
+    },
+    {
+      "name": "Länsteatern",
+      "latitude": 57.636613,
+      "longitude": 18.292121
+    },
+    {
+      "name": "Långholmens amfiteater",
+      "latitude": 59.321894,
+      "longitude": 18.034356
+    },
+    {
+      "name": "Magle konserthus",
+      "latitude": 55.702929,
+      "longitude": 13.197266
+    },
+    {
+      "name": "Malmö AmatörteaterForum",
+      "latitude": 55.596426,
+      "longitude": 13.006333
+    },
+    {
+      "name": "Malmö Live Konserthus",
+      "latitude": 55.607352,
+      "longitude": 12.993645
+    },
+    {
+      "name": "Malmö Opera",
+      "latitude": 55.596061,
+      "longitude": 12.995432
+    },
+    {
+      "name": "Malmö Stadsteater",
+      "latitude": 55.60572,
+      "longitude": 13.003787
+    },
+    {
+      "name": "Mariestads Teater",
+      "latitude": 58.708383,
+      "longitude": 13.822945
+    },
+    {
+      "name": "Mathuggsteatern",
+      "latitude": 57.697704,
+      "longitude": 11.94361
+    },
+    {
+      "name": "Maxim",
+      "latitude": 59.336908,
+      "longitude": 18.088948
+    },
+    {
+      "name": "Maximteatern",
+      "latitude": 60.485209,
+      "longitude": 15.438126
+    },
+    {
+      "name": "Medborgarhuset",
+      "latitude": 58.167067,
+      "longitude": 13.55925
+    },
+    {
+      "name": "Mimers teater",
+      "latitude": 57.874874,
+      "longitude": 11.977677
+    },
+    {
+      "name": "Mini-amfiteater",
+      "latitude": 59.247167,
+      "longitude": 18.096316
+    },
+    {
+      "name": "Miniteatern",
+      "latitude": 59.340315,
+      "longitude": 18.039928
+    },
+    {
+      "name": "Mobergskolan",
+      "latitude": 56.659201,
+      "longitude": 15.445664
+    },
+    {
+      "name": "Mooms-Teatern",
+      "latitude": 55.59109,
+      "longitude": 13.020962
+    },
+    {
+      "name": "Munkmoraskolans amfibieteater",
+      "latitude": 59.333084,
+      "longitude": 18.394293
+    },
+    {
+      "name": "Musikens Hus",
+      "latitude": 57.697834,
+      "longitude": 11.930729
+    },
+    {
+      "name": "Musikens hus",
+      "latitude": 58.99338,
+      "longitude": 16.20632
+    },
+    {
+      "name": "Mälarhöjdens friluftsteater",
+      "latitude": 59.301829,
+      "longitude": 17.938757
+    },
+    {
+      "name": "Månteatern",
+      "latitude": 55.706717,
+      "longitude": 13.192479
+    },
+    {
+      "name": "Nalen Klubb",
+      "latitude": 59.337184,
+      "longitude": 18.06811
+    },
+    {
+      "name": "Nisserska Teatern",
+      "latitude": 60.607528,
+      "longitude": 15.643335
+    },
+    {
+      "name": "Nordanåteatern",
+      "latitude": 64.749206,
+      "longitude": 20.940673
+    },
+    {
+      "name": "Norrbottensteatern",
+      "latitude": 65.585292,
+      "longitude": 22.141984
+    },
+    {
+      "name": "Norrby Teater",
+      "latitude": 59.997354,
+      "longitude": 15.814914
+    },
+    {
+      "name": "NorrDans",
+      "latitude": 62.629945,
+      "longitude": 17.937298
+    },
+    {
+      "name": "Norrköpings symfoniorkester",
+      "latitude": 58.58804,
+      "longitude": 16.184051
+    },
+    {
+      "name": "Norrlandsoperan",
+      "latitude": 63.828012,
+      "longitude": 20.268955
+    },
+    {
+      "name": "Nya China",
+      "latitude": 59.276893,
+      "longitude": 15.215554
+    },
+    {
+      "name": "Nya Parkteatern",
+      "latitude": 59.244219,
+      "longitude": 15.169466
+    },
+    {
+      "name": "Nya teatern",
+      "latitude": 59.27732,
+      "longitude": 15.215182
+    },
+    {
+      "name": "Nyköpings Teater",
+      "latitude": 58.750567,
+      "longitude": 17.001235
+    },
+    {
+      "name": "Nöjesteatern",
+      "latitude": 55.594469,
+      "longitude": 13.01564
+    },
+    {
+      "name": "odenskans",
+      "latitude": 57.891108,
+      "longitude": 16.166083
+    },
+    {
+      "name": "Odeon",
+      "latitude": 59.028255,
+      "longitude": 12.227945
+    },
+    {
+      "name": "Oktoberteatern",
+      "latitude": 59.195015,
+      "longitude": 17.628921
+    },
+    {
+      "name": "Olympiateatern",
+      "latitude": 59.341724,
+      "longitude": 18.047878
+    },
+    {
+      "name": "Opera På Skäret",
+      "latitude": 59.893432,
+      "longitude": 14.927882
+    },
+    {
+      "name": "Orionteatern",
+      "latitude": 59.308295,
+      "longitude": 18.090176
+    },
+    {
+      "name": "Ormteatern",
+      "latitude": 59.165118,
+      "longitude": 18.130096
+    },
+    {
+      "name": "Oscarsteatern",
+      "latitude": 59.333467,
+      "longitude": 18.056028
+    },
+    {
+      "name": "Palladium",
+      "latitude": 55.6041,
+      "longitude": 13.001061
+    },
+    {
+      "name": "Parksnäckan",
+      "latitude": 59.851475,
+      "longitude": 17.644494
+    },
+    {
+      "name": "Parkteatern Hägersten",
+      "latitude": 59.298006,
+      "longitude": 17.987214
+    },
+    {
+      "name": "Pelikanteatern",
+      "latitude": 57.684234,
+      "longitude": 11.925807
+    },
+    {
+      "name": "Pettson och Findus gård",
+      "latitude": 59.148624,
+      "longitude": 16.043363
+    },
+    {
+      "name": "Pipersgatan 4",
+      "latitude": 59.329052,
+      "longitude": 18.045121
+    },
+    {
+      "name": "PK Impro Comedy Club",
+      "latitude": 59.348354,
+      "longitude": 18.04906
+    },
+    {
+      "name": "Plantagetscen",
+      "latitude": 58.380937,
+      "longitude": 12.32457
+    },
+    {
+      "name": "Playhouse",
+      "latitude": 59.33594,
+      "longitude": 18.059205
+    },
+    {
+      "name": "Poppegården",
+      "latitude": 56.123491,
+      "longitude": 12.601196
+    },
+    {
+      "name": "Presensimpro",
+      "latitude": 59.302673,
+      "longitude": 18.010786
+    },
+    {
+      "name": "Pustervik",
+      "latitude": 57.700447,
+      "longitude": 11.954223
+    },
+    {
+      "name": "Pygméteatern",
+      "latitude": 59.342248,
+      "longitude": 18.050079
+    },
+    {
+      "name": "Påfågeln",
+      "latitude": 59.340328,
+      "longitude": 18.037433
+    },
+    {
+      "name": "Rasmus Lada",
+      "latitude": 57.675603,
+      "longitude": 15.847221
+    },
+    {
+      "name": "Redbergsteatern",
+      "latitude": 57.716328,
+      "longitude": 12.003262
+    },
+    {
+      "name": "Reflexen Bio & teater",
+      "latitude": 59.283918,
+      "longitude": 18.11421
+    },
+    {
+      "name": "Reginateatern",
+      "latitude": 59.856905,
+      "longitude": 17.636127
+    },
+    {
+      "name": "Ronja Rövardotter",
+      "latitude": 57.675275,
+      "longitude": 15.848807
+    },
+    {
+      "name": "Ronneby Teater",
+      "latitude": 56.208684,
+      "longitude": 15.281138
+    },
+    {
+      "name": "Rålambshovsparkens amfiteater",
+      "latitude": 59.327719,
+      "longitude": 18.025269
+    },
+    {
+      "name": "Röda Kvarn",
+      "latitude": 63.450214,
+      "longitude": 18.106402
+    },
+    {
+      "name": "Sagateatern",
+      "latitude": 59.194348,
+      "longitude": 17.628521
+    },
+    {
+      "name": "Sagateatern",
+      "latitude": 63.826601,
+      "longitude": 20.257998
+    },
+    {
+      "name": "Salongen",
+      "latitude": 56.038047,
+      "longitude": 12.704292
+    },
+    {
+      "name": "Scala",
+      "latitude": 59.336244,
+      "longitude": 18.053577
+    },
+    {
+      "name": "Scalateatern",
+      "latitude": 59.378704,
+      "longitude": 13.501471
+    },
+    {
+      "name": "Scen",
+      "latitude": 55.666158,
+      "longitude": 13.172536
+    },
+    {
+      "name": "Scen",
+      "latitude": 59.326631,
+      "longitude": 18.381797
+    },
+    {
+      "name": "Scen på Bônn",
+      "latitude": 58.562182,
+      "longitude": 11.286368
+    },
+    {
+      "name": "Scenen",
+      "latitude": 59.192381,
+      "longitude": 17.614503
+    },
+    {
+      "name": "Scenen",
+      "latitude": 59.526696,
+      "longitude": 13.468401
+    },
+    {
+      "name": "Scenen i Forsparken",
+      "latitude": 61.344071,
+      "longitude": 16.050661
+    },
+    {
+      "name": "Scenen Södra Bruket",
+      "latitude": 56.343092,
+      "longitude": 16.408573
+    },
+    {
+      "name": "scenkanten",
+      "latitude": 57.425542,
+      "longitude": 15.085813
+    },
+    {
+      "name": "Science Village Hall",
+      "latitude": 55.730108,
+      "longitude": 13.243366
+    },
+    {
+      "name": "Skuggteatern",
+      "latitude": 63.811773,
+      "longitude": 20.315321
+    },
+    {
+      "name": "Skånes Dansteater",
+      "latitude": 55.616226,
+      "longitude": 12.985321
+    },
+    {
+      "name": "Skönsbergs Folkets Hus",
+      "latitude": 62.401252,
+      "longitude": 17.341332
+    },
+    {
+      "name": "Snäckan",
+      "latitude": 56.166035,
+      "longitude": 14.871487
+    },
+    {
+      "name": "Sparbanksbörsen",
+      "latitude": 59.181878,
+      "longitude": 14.8669
+    },
+    {
+      "name": "Sprakateatern",
+      "latitude": 59.862183,
+      "longitude": 17.64591
+    },
+    {
+      "name": "Sprallen",
+      "latitude": 59.303741,
+      "longitude": 18.072222
+    },
+    {
+      "name": "Stadra Sommarscen",
+      "latitude": 59.56212,
+      "longitude": 14.739713
+    },
+    {
+      "name": "Stadsparkens scen",
+      "latitude": 59.272656,
+      "longitude": 15.227717
+    },
+    {
+      "name": "Stadsteater",
+      "latitude": 58.390138,
+      "longitude": 13.85052
+    },
+    {
+      "name": "Stockholms Improvisationsteater",
+      "latitude": 59.341827,
+      "longitude": 18.041519
+    },
+    {
+      "name": "Stockholms Stadsteater",
+      "latitude": 59.331899,
+      "longitude": 18.064506
+    },
+    {
+      "name": "Stockholms stadsteater Skärholmen",
+      "latitude": 59.276044,
+      "longitude": 17.90509
+    },
+    {
+      "name": "Stora scen",
+      "latitude": 60.653689,
+      "longitude": 17.340339
+    },
+    {
+      "name": "Stora scenen",
+      "latitude": 57.185815,
+      "longitude": 14.02572
+    },
+    {
+      "name": "Stora Teatern",
+      "latitude": 57.702607,
+      "longitude": 11.970717
+    },
+    {
+      "name": "Stora teatern",
+      "latitude": 58.413744,
+      "longitude": 15.619193
+    },
+    {
+      "name": "Stora teatern",
+      "latitude": 58.594101,
+      "longitude": 16.1821
+    },
+    {
+      "name": "Storsjöteatern",
+      "latitude": 63.179567,
+      "longitude": 14.635781
+    },
+    {
+      "name": "Strindbergs Intima Teater",
+      "latitude": 59.335512,
+      "longitude": 18.053751
+    },
+    {
+      "name": "Studio 32",
+      "latitude": 58.346624,
+      "longitude": 11.930706
+    },
+    {
+      "name": "Studio Västberga",
+      "latitude": 59.29905,
+      "longitude": 18.017575
+    },
+    {
+      "name": "Sundspärlans friluftsscen",
+      "latitude": 56.035359,
+      "longitude": 12.723883
+    },
+    {
+      "name": "Sundsvalls teater",
+      "latitude": 62.388561,
+      "longitude": 17.307883
+    },
+    {
+      "name": "Sveateatern",
+      "latitude": 62.389169,
+      "longitude": 17.308192
+    },
+    {
+      "name": "Sysslebäcksparken",
+      "latitude": 60.734661,
+      "longitude": 12.864372
+    },
+    {
+      "name": "Sävja kulturcentrum",
+      "latitude": 59.81078,
+      "longitude": 17.702599
+    },
+    {
+      "name": "Söderhamns teater",
+      "latitude": 61.304629,
+      "longitude": 17.055057
+    },
+    {
+      "name": "Södra Teatern",
+      "latitude": 59.318449,
+      "longitude": 18.074432
+    },
+    {
+      "name": "Sövde amfiteater",
+      "latitude": 55.586706,
+      "longitude": 13.672262
+    },
+    {
+      "name": "Tages hörna",
+      "latitude": 58.413795,
+      "longitude": 15.615499
+    },
+    {
+      "name": "Teater",
+      "latitude": 58.662861,
+      "longitude": 16.460568
+    },
+    {
+      "name": "teater",
+      "latitude": 61.731152,
+      "longitude": 17.103712
+    },
+    {
+      "name": "Teater Bråddgatan 34",
+      "latitude": 58.593214,
+      "longitude": 16.178226
+    },
+    {
+      "name": "Teater Buratino",
+      "latitude": 57.718506,
+      "longitude": 12.023205
+    },
+    {
+      "name": "Teater Galeasen",
+      "latitude": 59.3273,
+      "longitude": 18.083358
+    },
+    {
+      "name": "Teater Jaguar",
+      "latitude": 57.698988,
+      "longitude": 11.963615
+    },
+    {
+      "name": "Teater JaLaDa",
+      "latitude": 55.57177,
+      "longitude": 13.020833
+    },
+    {
+      "name": "Teater Moment",
+      "latitude": 59.262459,
+      "longitude": 18.084169
+    },
+    {
+      "name": "Teater Rita Prick",
+      "latitude": 59.189566,
+      "longitude": 16.604188
+    },
+    {
+      "name": "Teater Roi",
+      "latitude": 59.174839,
+      "longitude": 18.138701
+    },
+    {
+      "name": "Teater Sagohuset",
+      "latitude": 55.697441,
+      "longitude": 13.199981
+    },
+    {
+      "name": "Teater Stationen",
+      "latitude": 57.761932,
+      "longitude": 12.041018
+    },
+    {
+      "name": "Teater Tiddelipom",
+      "latitude": 59.258964,
+      "longitude": 18.095383
+    },
+    {
+      "name": "Teater Tofta",
+      "latitude": 57.865571,
+      "longitude": 11.706614
+    },
+    {
+      "name": "Teater Tre",
+      "latitude": 59.317734,
+      "longitude": 18.055036
+    },
+    {
+      "name": "Teater Västmanland",
+      "latitude": 59.607959,
+      "longitude": 16.543071
+    },
+    {
+      "name": "TeaterAB",
+      "latitude": 61.731152,
+      "longitude": 17.103712
+    },
+    {
+      "name": "Teaterbiografen Grand",
+      "latitude": 56.831443,
+      "longitude": 13.939787
+    },
+    {
+      "name": "Teatern",
+      "latitude": 56.02742,
+      "longitude": 14.153056
+    },
+    {
+      "name": "Teatern Gröna Lund",
+      "latitude": 59.324355,
+      "longitude": 18.096603
+    },
+    {
+      "name": "Teatersalen",
+      "latitude": 55.987555,
+      "longitude": 12.758584
+    },
+    {
+      "name": "Teaterverket",
+      "latitude": 59.341674,
+      "longitude": 18.047929
+    },
+    {
+      "name": "Teaterverket",
+      "latitude": 59.343856,
+      "longitude": 18.056076
+    },
+    {
+      "name": "Telefonfabriken",
+      "latitude": 59.298874,
+      "longitude": 17.99062
+    },
+    {
+      "name": "Tellushallen, Vallentuna Teater",
+      "latitude": 59.533002,
+      "longitude": 18.080648
+    },
+    {
+      "name": "Tempelriddaren",
+      "latitude": 59.379236,
+      "longitude": 13.494662
+    },
+    {
+      "name": "Terrassparken",
+      "latitude": 58.912173,
+      "longitude": 11.929324
+    },
+    {
+      "name": "Tibble Teater",
+      "latitude": 59.442624,
+      "longitude": 18.06619
+    },
+    {
+      "name": "Tonsalen",
+      "latitude": 59.238327,
+      "longitude": 17.986085
+    },
+    {
+      "name": "Tornedalsteatern",
+      "latitude": 67.21357,
+      "longitude": 23.365493
+    },
+    {
+      "name": "Tornion kesäteatteri",
+      "latitude": 65.846852,
+      "longitude": 24.138744
+    },
+    {
+      "name": "Trappan",
+      "latitude": 59.362704,
+      "longitude": 17.871102
+    },
+    {
+      "name": "Tribunalen",
+      "latitude": 59.317788,
+      "longitude": 18.052645
+    },
+    {
+      "name": "Trixteatern",
+      "latitude": 59.607853,
+      "longitude": 16.556079
+    },
+    {
+      "name": "Trolska skogen",
+      "latitude": 61.960151,
+      "longitude": 17.323862
+    },
+    {
+      "name": "Tumbascenen",
+      "latitude": 59.201696,
+      "longitude": 17.835401
+    },
+    {
+      "name": "Tunhems Teater",
+      "latitude": 58.217441,
+      "longitude": 13.498543
+    },
+    {
+      "name": "Turteatern",
+      "latitude": 59.284493,
+      "longitude": 18.113539
+    },
+    {
+      "name": "Törnrosdalen",
+      "latitude": 57.673967,
+      "longitude": 15.849919
+    },
+    {
+      "name": "Uddeholmsladan",
+      "latitude": 60.011421,
+      "longitude": 13.631601
+    },
+    {
+      "name": "Umeå Folkets Hus",
+      "latitude": 63.826682,
+      "longitude": 20.266213
+    },
+    {
+      "name": "Ung Scen Öst",
+      "latitude": 58.407668,
+      "longitude": 15.61677
+    },
+    {
+      "name": "Uppsala Stadsteater",
+      "latitude": 59.858935,
+      "longitude": 17.642975
+    },
+    {
+      "name": "Vadstena Nya Teater",
+      "latitude": 58.448442,
+      "longitude": 14.891331
+    },
+    {
+      "name": "Vallarnas friluftsteater",
+      "latitude": 56.90577,
+      "longitude": 12.50459
+    },
+    {
+      "name": "Vallby friluftsteater",
+      "latitude": 59.621533,
+      "longitude": 16.51536
+    },
+    {
+      "name": "Vara Konserthus",
+      "latitude": 58.265881,
+      "longitude": 12.96646
+    },
+    {
+      "name": "Varbergs Teater",
+      "latitude": 57.108576,
+      "longitude": 12.251028
+    },
+    {
+      "name": "Vasateatern",
+      "latitude": 59.334148,
+      "longitude": 18.055878
+    },
+    {
+      "name": "Vattnäs Konsertlada",
+      "latitude": 61.049463,
+      "longitude": 14.595329
+    },
+    {
+      "name": "Victoriateatern",
+      "latitude": 55.599199,
+      "longitude": 13.00124
+    },
+    {
+      "name": "Villa Villekulla",
+      "latitude": 57.67575,
+      "longitude": 15.845481
+    },
+    {
+      "name": "Vitabergsparken",
+      "latitude": 59.310734,
+      "longitude": 18.091455
+    },
+    {
+      "name": "Växjö Konserthus",
+      "latitude": 56.880402,
+      "longitude": 14.803016
+    },
+    {
+      "name": "Växjö Teater",
+      "latitude": 56.879861,
+      "longitude": 14.803483
+    },
+    {
+      "name": "Vår Teater",
+      "latitude": 59.297461,
+      "longitude": 18.051095
+    },
+    {
+      "name": "Weld",
+      "latitude": 59.341789,
+      "longitude": 18.051853
+    },
+    {
+      "name": "Wermland Opera/Lilla Scenen",
+      "latitude": 59.377894,
+      "longitude": 13.478678
+    },
+    {
+      "name": "Westernarenan",
+      "latitude": 57.262429,
+      "longitude": 13.833585
+    },
+    {
+      "name": "X-Scenen",
+      "latitude": 58.588898,
+      "longitude": 16.189455
+    },
+    {
+      "name": "Ystads Stående Teatersällskaps friluftsteater",
+      "latitude": 55.462983,
+      "longitude": 13.706444
+    },
+    {
+      "name": "Ystads teater",
+      "latitude": 55.427713,
+      "longitude": 13.818302
+    },
+    {
+      "name": "ZebraDans",
+      "latitude": 59.310415,
+      "longitude": 18.085994
+    },
+    {
+      "name": "Ö2SCENKONST",
+      "latitude": 59.329653,
+      "longitude": 18.044632
+    },
+    {
+      "name": "Örebro Teater",
+      "latitude": 59.274509,
+      "longitude": 15.213229
+    },
+    {
+      "name": "Östraboteatern",
+      "latitude": 58.352905,
+      "longitude": 11.946644
+    }
+  ],
+  "meta": {
+    "title": "Teatrar i Sverige - Gratis nedladdning",
+    "description": "Teatrar i Sverige (OpenStreetMap-punkter, amenity=theatre). Namn, latitud och longitud (WGS84). 312 poster. Innehåller 312 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Teatrar i Sverige | ListBase",
+    "seo_description": "Ladda ner Teatrar i Sverige — 312 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 312 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

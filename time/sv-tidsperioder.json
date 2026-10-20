@@ -1,0 +1,176 @@
+{
+  "id": "sv-tidsperioder",
+  "name": "Tidsperioder",
+  "title": "Tidsperioder",
+  "description": "Svenska tidsperioder och tidsenheter med varaktighet i text och sekunder.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "duration",
+      "label": "Duration",
+      "type": "string"
+    },
+    {
+      "key": "duration_seconds",
+      "label": "Duration Seconds",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "millenium",
+      "duration": "1000 år",
+      "duration_seconds": "31557600000"
+    },
+    {
+      "name": "sekel",
+      "duration": "100 år",
+      "duration_seconds": "3155760000"
+    },
+    {
+      "name": "decennium",
+      "duration": "10 år",
+      "duration_seconds": "315576000"
+    },
+    {
+      "name": "lustrum",
+      "duration": "5 år",
+      "duration_seconds": "157788000"
+    },
+    {
+      "name": "år",
+      "duration": "12 månader",
+      "duration_seconds": "31557600"
+    },
+    {
+      "name": "halvår",
+      "duration": "6 månader",
+      "duration_seconds": "15778800"
+    },
+    {
+      "name": "tertial",
+      "duration": "4 månader",
+      "duration_seconds": "10519200"
+    },
+    {
+      "name": "kvartal",
+      "duration": "3 månader",
+      "duration_seconds": "7889400"
+    },
+    {
+      "name": "månad",
+      "duration": "28-31 dygn",
+      "duration_seconds": "2629800"
+    },
+    {
+      "name": "vecka",
+      "duration": "7 dygn",
+      "duration_seconds": "604800"
+    },
+    {
+      "name": "dygn",
+      "duration": "24 timmar",
+      "duration_seconds": "86400"
+    },
+    {
+      "name": "natt",
+      "duration": "12 timmar",
+      "duration_seconds": "43200"
+    },
+    {
+      "name": "dag",
+      "duration": "12 timmar",
+      "duration_seconds": "43200"
+    },
+    {
+      "name": "timme",
+      "duration": "60 minuter",
+      "duration_seconds": "3600"
+    },
+    {
+      "name": "halvtimme",
+      "duration": "30 minuter",
+      "duration_seconds": "1800"
+    },
+    {
+      "name": "kvart",
+      "duration": "15 minuter",
+      "duration_seconds": "900"
+    },
+    {
+      "name": "ke",
+      "duration": "1/100 dygn",
+      "duration_seconds": "864"
+    },
+    {
+      "name": "minut",
+      "duration": "60 sekunder",
+      "duration_seconds": "60"
+    },
+    {
+      "name": "sekund",
+      "duration": "1 sekund",
+      "duration_seconds": "1"
+    },
+    {
+      "name": "millisekund",
+      "duration": "tusendels sekund",
+      "duration_seconds": "0.001"
+    },
+    {
+      "name": "mikrosekund",
+      "duration": "miljondels sekund",
+      "duration_seconds": "0.000001"
+    },
+    {
+      "name": "nanosekund",
+      "duration": "miljarddels sekund",
+      "duration_seconds": "0.000000001"
+    },
+    {
+      "name": "pikosekund",
+      "duration": "biljondels sekund",
+      "duration_seconds": "0.000000000001\t"
+    },
+    {
+      "name": "femtosekund",
+      "duration": "biljarddels sekund",
+      "duration_seconds": "0.000000000000001"
+    },
+    {
+      "name": "attosekund",
+      "duration": "triljondels sekund",
+      "duration_seconds": "0.000000000000000001"
+    },
+    {
+      "name": "zeptosekund",
+      "duration": "triljarddels sekund",
+      "duration_seconds": "0.000000000000000000001"
+    },
+    {
+      "name": "yoktosekund",
+      "duration": "kvadriljondels sekund",
+      "duration_seconds": "0.000000000000000000000001"
+    }
+  ],
+  "meta": {
+    "title": "Tidsperioder - Gratis nedladdning",
+    "description": "Svenska tidsperioder och tidsenheter med varaktighet i text och sekunder. Innehåller 27 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Tidsperioder | ListBase",
+    "seo_description": "Ladda ner Tidsperioder — 27 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 27 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

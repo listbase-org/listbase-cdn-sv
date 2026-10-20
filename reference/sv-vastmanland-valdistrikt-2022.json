@@ -1,0 +1,1336 @@
+{
+  "id": "sv-vastmanland-valdistrikt-2022",
+  "name": "Valdistrikt i Västmanlands län (val 2022)",
+  "title": "Valdistrikt i Västmanlands län (val 2022)",
+  "description": "160 valdistrikt i Västmanlands län (länskod 19) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 160,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "19040201",
+      "valdistrikt_namn": "Skinnskatteberg Södra",
+      "kommun_kod": "1904",
+      "kommun_namn": "Skinnskatteberg",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19040202",
+      "valdistrikt_namn": "Skinnskatteberg Norra",
+      "kommun_kod": "1904",
+      "kommun_namn": "Skinnskatteberg",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19070101",
+      "valdistrikt_namn": "Bruket och Landsbygd",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19070103",
+      "valdistrikt_namn": "Stavtorpet",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19070104",
+      "valdistrikt_namn": "Skogslund",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19070105",
+      "valdistrikt_namn": "Dalskogen",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19070207",
+      "valdistrikt_namn": "Ramnäs",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19070208",
+      "valdistrikt_namn": "Virsbo",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19600101",
+      "valdistrikt_namn": "Runna - Granhammar",
+      "kommun_kod": "1960",
+      "kommun_namn": "Kungsör",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19600102",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "1960",
+      "kommun_namn": "Kungsör",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19600103",
+      "valdistrikt_namn": "Haga - Skillinge",
+      "kommun_kod": "1960",
+      "kommun_namn": "Kungsör",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19600104",
+      "valdistrikt_namn": "Torpa - Malmberga",
+      "kommun_kod": "1960",
+      "kommun_namn": "Kungsör",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19600506",
+      "valdistrikt_namn": "Valskog - Kungs-Barkarö",
+      "kommun_kod": "1960",
+      "kommun_namn": "Kungsör",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19610103",
+      "valdistrikt_namn": "Nibble",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19610104",
+      "valdistrikt_namn": "Fredhem",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19610105",
+      "valdistrikt_namn": "Barnängen",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19610106",
+      "valdistrikt_namn": "Eldsboda",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19610107",
+      "valdistrikt_namn": "Tuna",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19610108",
+      "valdistrikt_namn": "Näs",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19610109",
+      "valdistrikt_namn": "Lövboås",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19610310",
+      "valdistrikt_namn": "Tunbo",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19610311",
+      "valdistrikt_namn": "Kolbäcks Centrum",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19610312",
+      "valdistrikt_namn": "Strömsholm",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19620101",
+      "valdistrikt_namn": "Kärrgruvan",
+      "kommun_kod": "1962",
+      "kommun_namn": "Norberg",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19620103",
+      "valdistrikt_namn": "Skallberget",
+      "kommun_kod": "1962",
+      "kommun_namn": "Norberg",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19620104",
+      "valdistrikt_namn": "Björkängen",
+      "kommun_kod": "1962",
+      "kommun_namn": "Norberg",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19620205",
+      "valdistrikt_namn": "Karbenning",
+      "kommun_kod": "1962",
+      "kommun_namn": "Norberg",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800101",
+      "valdistrikt_namn": "101 Centrum",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800102",
+      "valdistrikt_namn": "102 Kyrkbacken",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800103",
+      "valdistrikt_namn": "103 Herrgärdet",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800104",
+      "valdistrikt_namn": "104 Kopparlunden",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800105",
+      "valdistrikt_namn": "105 Östermalm",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800106",
+      "valdistrikt_namn": "106 Östra Hamnen/Slottsträdgården",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800107",
+      "valdistrikt_namn": "107 Lillåudden",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800108",
+      "valdistrikt_namn": "108 Norrmalm/Blåsbo",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800109",
+      "valdistrikt_namn": "109 Aroslund/Iggebygärdet",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800110",
+      "valdistrikt_namn": "110 Kristiansborg/Karlsdal",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800111",
+      "valdistrikt_namn": "111 Annedal/Stallhagen",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800112",
+      "valdistrikt_namn": "112 Oxbacken C/Västermalm",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800113",
+      "valdistrikt_namn": "113 Pettersberg Ö",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800114",
+      "valdistrikt_namn": "114 Pettersberg V",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800115",
+      "valdistrikt_namn": "115 Jakobsberg",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800116",
+      "valdistrikt_namn": "116 Hammarby Stadshage",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800117",
+      "valdistrikt_namn": "117 Vetterslund",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800201",
+      "valdistrikt_namn": "201 Hammarby Ö",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800202",
+      "valdistrikt_namn": "202 Hammarby V",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800203",
+      "valdistrikt_namn": "203 Bäckby Ö",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800204",
+      "valdistrikt_namn": "204 Bäckby N/Hälleborg",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800205",
+      "valdistrikt_namn": "205 Bäckby V",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800206",
+      "valdistrikt_namn": "206 Bäckby C",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800207",
+      "valdistrikt_namn": "207 Bäckby S",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800208",
+      "valdistrikt_namn": "208 Skälby V",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800209",
+      "valdistrikt_namn": "209 Skälby Ö",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800210",
+      "valdistrikt_namn": "210 Stohagen/Spantgatan",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800211",
+      "valdistrikt_namn": "211 Enhagen-Ekbacken/Örtagården",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800212",
+      "valdistrikt_namn": "212 Barkarö/Tidö-Lindö",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800213",
+      "valdistrikt_namn": "213 Barkarö tätort",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800214",
+      "valdistrikt_namn": "214 Dingtuna-Lillhärad landsbygd",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800215",
+      "valdistrikt_namn": "215 Dingtuna tätort",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800216",
+      "valdistrikt_namn": "216 Kvicksund/Rytterne",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800301",
+      "valdistrikt_namn": "301 Skallberget S",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800302",
+      "valdistrikt_namn": "302 Skallberget N",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800303",
+      "valdistrikt_namn": "303 Nordanby",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800304",
+      "valdistrikt_namn": "304 Gryta NÖ",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800305",
+      "valdistrikt_namn": "305 Gryta NV",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800306",
+      "valdistrikt_namn": "306 Önsta",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800307",
+      "valdistrikt_namn": "307 Gryta SÖ",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800308",
+      "valdistrikt_namn": "308 Gryta SV",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800309",
+      "valdistrikt_namn": "309 Tunby/Vega",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800310",
+      "valdistrikt_namn": "310 Rönnby S",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800311",
+      "valdistrikt_namn": "311 Rönnby N",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800312",
+      "valdistrikt_namn": "312 Fredriksberg",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800313",
+      "valdistrikt_namn": "313 Råby S",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800314",
+      "valdistrikt_namn": "314 Råby N",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800315",
+      "valdistrikt_namn": "315 Råby Ö",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800316",
+      "valdistrikt_namn": "316 Vallby S",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800317",
+      "valdistrikt_namn": "317 Eriksborg/Hagaberg",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800318",
+      "valdistrikt_namn": "318 Brottberga/Vallby N",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800319",
+      "valdistrikt_namn": "319 Vallby C/Bjärby/Skerike",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800320",
+      "valdistrikt_namn": "320 Skultuna",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800321",
+      "valdistrikt_namn": "321 Skultuna tätort",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800322",
+      "valdistrikt_namn": "322 Haraker Romfartuna",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800401",
+      "valdistrikt_namn": "401 Emaus",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800402",
+      "valdistrikt_namn": "402 Bergslagsparken",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800403",
+      "valdistrikt_namn": "403 Gideonsberg",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800404",
+      "valdistrikt_namn": "404 Skälängen",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800405",
+      "valdistrikt_namn": "405 Nordanby gärde",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800406",
+      "valdistrikt_namn": "406 Sandgärdet",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800407",
+      "valdistrikt_namn": "407 Haga",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800408",
+      "valdistrikt_namn": "408 Skjutbanegatan",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800409",
+      "valdistrikt_namn": "409 Hemdal",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800410",
+      "valdistrikt_namn": "410 Malmaberg S",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800411",
+      "valdistrikt_namn": "411 Malmaberg N",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800412",
+      "valdistrikt_namn": "412 Klockartorp",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800413",
+      "valdistrikt_namn": "413 Skiljebo S",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800414",
+      "valdistrikt_namn": "414 Skiljebo N",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800415",
+      "valdistrikt_namn": "415 Odensviplatsen",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800416",
+      "valdistrikt_namn": "416 Brandthovda",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800417",
+      "valdistrikt_namn": "417 Bjurhovda SV",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800418",
+      "valdistrikt_namn": "418 Bjurhovda SO",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800419",
+      "valdistrikt_namn": "419 Bjurhovda N/Badelunda",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800420",
+      "valdistrikt_namn": "420 Hökåsen/Tillberga landsbygd",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800421",
+      "valdistrikt_namn": "421 Hökåsen tätort",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800422",
+      "valdistrikt_namn": "422 Tillberga tätort",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800423",
+      "valdistrikt_namn": "423 Tortuna/Sevalla",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800501",
+      "valdistrikt_namn": "501 Viksäng V/Ängsgärdet",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800502",
+      "valdistrikt_namn": "502 Viksäng/Stenhagen",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800503",
+      "valdistrikt_namn": "503 Viksäng Ö",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800504",
+      "valdistrikt_namn": "504 Talltorp/Lillhamra",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800505",
+      "valdistrikt_namn": "505 Notudden",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800506",
+      "valdistrikt_namn": "506 Mälarparken",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800507",
+      "valdistrikt_namn": "507 Framnäs/Öster Mälarstrand",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800508",
+      "valdistrikt_namn": "508 Berghamra/Hamre",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800509",
+      "valdistrikt_namn": "509 Gäddeholm",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800510",
+      "valdistrikt_namn": "510 Irsta S",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800511",
+      "valdistrikt_namn": "511 Irsta N",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800512",
+      "valdistrikt_namn": "512 Björksta/Kungsåra/Ängsö",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800513",
+      "valdistrikt_namn": "513 Öster Mälarstrand",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19800514",
+      "valdistrikt_namn": "514 Kärrbolandet",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810101",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810102",
+      "valdistrikt_namn": "Åkra",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810103",
+      "valdistrikt_namn": "Jakobsberg, Bryggeriet, Turbo m.fl",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810104",
+      "valdistrikt_namn": "Kungsängen-Valla-Vasastaden",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810105",
+      "valdistrikt_namn": "Sala N",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810106",
+      "valdistrikt_namn": "Sala Ö",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810107",
+      "valdistrikt_namn": "Sala S",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810108",
+      "valdistrikt_namn": "Dalhem, Gärdesta, Hagaberg m.fl.",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810210",
+      "valdistrikt_namn": "Västerfärnebo - Västerbykil",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810312",
+      "valdistrikt_namn": "Kila - Fläckebo",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810514",
+      "valdistrikt_namn": "Kumla-Ransta-Tärna",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19810818",
+      "valdistrikt_namn": "Möklinta",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19820101",
+      "valdistrikt_namn": "Kolarbyn",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19820102",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19820103",
+      "valdistrikt_namn": "Risbron",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19820104",
+      "valdistrikt_namn": "Västanfors",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19820106",
+      "valdistrikt_namn": "Per Ols",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19820108",
+      "valdistrikt_namn": "Meling",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19820207",
+      "valdistrikt_namn": "Åvestbo-Västervåla",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830101",
+      "valdistrikt_namn": "Byjorden-Odensvi",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830102",
+      "valdistrikt_namn": "Karlsdal",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830103",
+      "valdistrikt_namn": "Tunadal",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830104",
+      "valdistrikt_namn": "Karlberg",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830105",
+      "valdistrikt_namn": "Skogsborg",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830106",
+      "valdistrikt_namn": "Nyckelberget",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830107",
+      "valdistrikt_namn": "Elund-Ållesta",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830108",
+      "valdistrikt_namn": "Östanås",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830109",
+      "valdistrikt_namn": "Ullvi",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830110",
+      "valdistrikt_namn": "Nygård-Skogsbrynet",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830111",
+      "valdistrikt_namn": "Hästhagen-Skogshöjden-Himmeta-Bro",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830422",
+      "valdistrikt_namn": "Kolsva Ö",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830423",
+      "valdistrikt_namn": "Kolsva V",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19830625",
+      "valdistrikt_namn": "Munktorp",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19840101",
+      "valdistrikt_namn": "Ladubacksgärdena-N Skogen",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19840102",
+      "valdistrikt_namn": "Prästgärdet",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19840103",
+      "valdistrikt_namn": "Sturestaden-Nästkvarn",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19840104",
+      "valdistrikt_namn": "Ringsborg-Strömsborg",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19840106",
+      "valdistrikt_namn": "Herrängen-Ekbacken",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19840107",
+      "valdistrikt_namn": "Brattberget-Strömsnäs",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19840208",
+      "valdistrikt_namn": "Landsförsamlingen-Vasastaden",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    },
+    {
+      "valdistrikt_kod": "19840309",
+      "valdistrikt_namn": "Götlunda - Medåker",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19",
+      "lan_namn": "Västmanlands län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Västmanlands län (val 2022) - Gratis nedladdning",
+    "description": "160 valdistrikt i Västmanlands län (länskod 19) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 160 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Västmanlands län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Västmanlands län (val 2022) — 160 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 160 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

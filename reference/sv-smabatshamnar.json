@@ -1,0 +1,5156 @@
+{
+  "id": "sv-smabatshamnar",
+  "name": "Småbåtshamnar (Marinas)",
+  "title": "Småbåtshamnar (Marinas)",
+  "description": "Småbåtshamnar i Sverige — OpenStreetMap-punktdata (OSM-tagg: leisure=marina). Swedish marinas as named point locations with WGS84 coordinates. 1023 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1023,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AB Lidingövarvet",
+      "latitude": 59.371116,
+      "longitude": 18.112269
+    },
+    {
+      "name": "Abbekås hamn",
+      "latitude": 55.393877,
+      "longitude": 13.603793
+    },
+    {
+      "name": "Ahlmansviken",
+      "latitude": 59.854353,
+      "longitude": 19.11055
+    },
+    {
+      "name": "Albano båtklubb",
+      "latitude": 59.355314,
+      "longitude": 18.052543
+    },
+    {
+      "name": "Allmän Brygga Tärnön",
+      "latitude": 61.536291,
+      "longitude": 17.446604
+    },
+    {
+      "name": "Almösunds Marina",
+      "latitude": 58.065869,
+      "longitude": 11.756475
+    },
+    {
+      "name": "Alvar Båtar",
+      "latitude": 58.624074,
+      "longitude": 16.180246
+    },
+    {
+      "name": "Alviks småbåtshamn",
+      "latitude": 62.428659,
+      "longitude": 17.404121
+    },
+    {
+      "name": "Amundö Marina",
+      "latitude": 57.5991,
+      "longitude": 11.920316
+    },
+    {
+      "name": "Anderssons båtvarv",
+      "latitude": 59.40843,
+      "longitude": 18.77755
+    },
+    {
+      "name": "Arholma Nord",
+      "latitude": 59.862356,
+      "longitude": 19.123837
+    },
+    {
+      "name": "Arholma Östra Gästhamn",
+      "latitude": 59.843165,
+      "longitude": 19.120886
+    },
+    {
+      "name": "Arilds hamn",
+      "latitude": 56.275429,
+      "longitude": 12.573986
+    },
+    {
+      "name": "Arkösunds Hamn",
+      "latitude": 58.488558,
+      "longitude": 16.943717
+    },
+    {
+      "name": "Arkösunds Marin",
+      "latitude": 58.493293,
+      "longitude": 16.937915
+    },
+    {
+      "name": "Askerö Brygga",
+      "latitude": 58.099334,
+      "longitude": 11.78685
+    },
+    {
+      "name": "Askfatshamnen",
+      "latitude": 59.135984,
+      "longitude": 18.403481
+    },
+    {
+      "name": "Askrike Segelsällskap",
+      "latitude": 59.379415,
+      "longitude": 18.164483
+    },
+    {
+      "name": "Axvik",
+      "latitude": 59.022849,
+      "longitude": 17.712907
+    },
+    {
+      "name": "Baggviken",
+      "latitude": 63.037387,
+      "longitude": 18.535067
+    },
+    {
+      "name": "Baldernäs gästhamn",
+      "latitude": 58.965103,
+      "longitude": 12.272753
+    },
+    {
+      "name": "Barsebäckshamn",
+      "latitude": 55.756986,
+      "longitude": 12.902764
+    },
+    {
+      "name": "Bassholmens gästhamn",
+      "latitude": 58.241895,
+      "longitude": 11.506475
+    },
+    {
+      "name": "BBK",
+      "latitude": 63.256982,
+      "longitude": 18.77851
+    },
+    {
+      "name": "Bengtsfors Gästhamn",
+      "latitude": 59.030555,
+      "longitude": 12.225296
+    },
+    {
+      "name": "Berga Hamnförening",
+      "latitude": 58.002803,
+      "longitude": 11.74644
+    },
+    {
+      "name": "Bergdalsviks Båtklubb",
+      "latitude": 59.343693,
+      "longitude": 17.999359
+    },
+    {
+      "name": "Bergkvara Gästhamn",
+      "latitude": 56.390094,
+      "longitude": 16.090776
+    },
+    {
+      "name": "Bergshamra Båtklubb",
+      "latitude": 59.638244,
+      "longitude": 18.646204
+    },
+    {
+      "name": "Bergsvikens Hamnförening",
+      "latitude": 65.30807,
+      "longitude": 21.41039
+    },
+    {
+      "name": "Besebo",
+      "latitude": 58.317233,
+      "longitude": 16.87336
+    },
+    {
+      "name": "Bessekrokens Marina",
+      "latitude": 57.717614,
+      "longitude": 11.681815
+    },
+    {
+      "name": "Birka gästhamn",
+      "latitude": 59.331158,
+      "longitude": 17.539854
+    },
+    {
+      "name": "Biskopsuddens Marina",
+      "latitude": 59.321516,
+      "longitude": 18.124967
+    },
+    {
+      "name": "Bjuröklubben",
+      "latitude": 64.477943,
+      "longitude": 21.572481
+    },
+    {
+      "name": "Bjöla Marina",
+      "latitude": 57.622524,
+      "longitude": 11.910647
+    },
+    {
+      "name": "Björholmens Marina",
+      "latitude": 58.053343,
+      "longitude": 11.523941
+    },
+    {
+      "name": "Björkviks Båtklubb",
+      "latitude": 59.222626,
+      "longitude": 18.53943
+    },
+    {
+      "name": "Björkö hamn",
+      "latitude": 57.733235,
+      "longitude": 11.669739
+    },
+    {
+      "name": "Björlanda Kile",
+      "latitude": 57.762637,
+      "longitude": 11.804613
+    },
+    {
+      "name": "Björnhammarvarvet",
+      "latitude": 59.43899,
+      "longitude": 18.286786
+    },
+    {
+      "name": "Blekets hamn",
+      "latitude": 57.950402,
+      "longitude": 11.564805
+    },
+    {
+      "name": "Blidö Wärdshus",
+      "latitude": 59.635351,
+      "longitude": 18.920799
+    },
+    {
+      "name": "Blomberg Hamn",
+      "latitude": 58.543537,
+      "longitude": 13.30645
+    },
+    {
+      "name": "Blynäsvikens Boat Club",
+      "latitude": 59.408224,
+      "longitude": 18.321106
+    },
+    {
+      "name": "Blåvik småbåtshamn",
+      "latitude": 58.057881,
+      "longitude": 15.054296
+    },
+    {
+      "name": "Bockön-Mjöön ankarplats",
+      "latitude": 56.142281,
+      "longitude": 14.989243
+    },
+    {
+      "name": "Bodalsbryggan",
+      "latitude": 59.068247,
+      "longitude": 18.383113
+    },
+    {
+      "name": "Bohus-Malmöns Båt Klubb",
+      "latitude": 58.351676,
+      "longitude": 11.34207
+    },
+    {
+      "name": "Bohuslänska Jaktklubben",
+      "latitude": 58.684575,
+      "longitude": 11.255547
+    },
+    {
+      "name": "Bokenäset",
+      "latitude": 58.259828,
+      "longitude": 11.599115
+    },
+    {
+      "name": "Bolmens Hamnförening",
+      "latitude": 56.816344,
+      "longitude": 13.697663
+    },
+    {
+      "name": "Bolmstad Hamnförening",
+      "latitude": 56.891389,
+      "longitude": 13.772586
+    },
+    {
+      "name": "Boo båtklubb",
+      "latitude": 59.306607,
+      "longitude": 18.291296
+    },
+    {
+      "name": "Bopallen",
+      "latitude": 58.894891,
+      "longitude": 11.013829
+    },
+    {
+      "name": "Borgesund",
+      "latitude": 59.506031,
+      "longitude": 16.262179
+    },
+    {
+      "name": "Borgviks gästhamn",
+      "latitude": 59.348028,
+      "longitude": 12.955023
+    },
+    {
+      "name": "Borka Brygga",
+      "latitude": 61.549083,
+      "longitude": 17.056157
+    },
+    {
+      "name": "Borstahusens hamn",
+      "latitude": 55.894957,
+      "longitude": 12.800327
+    },
+    {
+      "name": "Bosö Båtklubb",
+      "latitude": 59.378203,
+      "longitude": 18.193187
+    },
+    {
+      "name": "Bosö varvet",
+      "latitude": 59.37867,
+      "longitude": 18.16948
+    },
+    {
+      "name": "Botvaldavik",
+      "latitude": 57.585385,
+      "longitude": 18.803859
+    },
+    {
+      "name": "Bovallstrands Gästhamn",
+      "latitude": 58.476641,
+      "longitude": 11.318464
+    },
+    {
+      "name": "Bovallstrands Marina",
+      "latitude": 58.470599,
+      "longitude": 11.312742
+    },
+    {
+      "name": "Boviken Hide Hamn",
+      "latitude": 57.732055,
+      "longitude": 18.87302
+    },
+    {
+      "name": "Boviks småbåtshamn",
+      "latitude": 60.553119,
+      "longitude": 16.869318
+    },
+    {
+      "name": "Boänge private marina",
+      "latitude": 60.618717,
+      "longitude": 16.822845
+    },
+    {
+      "name": "Brandstorps Båtklubb",
+      "latitude": 58.10309,
+      "longitude": 14.212895
+    },
+    {
+      "name": "Brevik",
+      "latitude": 58.871166,
+      "longitude": 11.026234
+    },
+    {
+      "name": "Breviks brygga",
+      "latitude": 59.342329,
+      "longitude": 18.210214
+    },
+    {
+      "name": "Brf Bälstavik brygga",
+      "latitude": 59.358634,
+      "longitude": 17.962302
+    },
+    {
+      "name": "Brf Sjöfortets brygga",
+      "latitude": 59.318572,
+      "longitude": 18.007659
+    },
+    {
+      "name": "Broken",
+      "latitude": 58.711158,
+      "longitude": 17.238156
+    },
+    {
+      "name": "Brokinds båtklubb",
+      "latitude": 58.21502,
+      "longitude": 15.674411
+    },
+    {
+      "name": "Bromma Marinservice",
+      "latitude": 59.318136,
+      "longitude": 17.972132
+    },
+    {
+      "name": "Bryggorna vid Sund",
+      "latitude": 62.456116,
+      "longitude": 17.37011
+    },
+    {
+      "name": "Bräcke båthamn",
+      "latitude": 62.748717,
+      "longitude": 15.415536
+    },
+    {
+      "name": "Bränneriets Båtsällskap",
+      "latitude": 59.317109,
+      "longitude": 18.025083
+    },
+    {
+      "name": "Bråbacka hamn",
+      "latitude": 58.463212,
+      "longitude": 14.2372
+    },
+    {
+      "name": "Bråtavikens Båtsällskap",
+      "latitude": 57.341213,
+      "longitude": 12.096594
+    },
+    {
+      "name": "Bua Hamn",
+      "latitude": 57.241513,
+      "longitude": 12.111345
+    },
+    {
+      "name": "Bullandö marina",
+      "latitude": 59.299119,
+      "longitude": 18.650631
+    },
+    {
+      "name": "Burgsvik",
+      "latitude": 57.034569,
+      "longitude": 18.259041
+    },
+    {
+      "name": "Bye brygga",
+      "latitude": 63.100826,
+      "longitude": 14.751905
+    },
+    {
+      "name": "Byviken Båtklubb",
+      "latitude": 59.400466,
+      "longitude": 18.422882
+    },
+    {
+      "name": "Bäckfjärdens båtklubb",
+      "latitude": 63.248205,
+      "longitude": 18.699168
+    },
+    {
+      "name": "Bäckvikens Hamn",
+      "latitude": 55.903146,
+      "longitude": 12.721638
+    },
+    {
+      "name": "Bällstavikens Motorbåtklubb",
+      "latitude": 59.361598,
+      "longitude": 17.958744
+    },
+    {
+      "name": "Bällstavikens Segel Sällskap",
+      "latitude": 59.353056,
+      "longitude": 17.969727
+    },
+    {
+      "name": "Båstad hamn",
+      "latitude": 56.435895,
+      "longitude": 12.844471
+    },
+    {
+      "name": "Båtakuten",
+      "latitude": 57.720937,
+      "longitude": 11.979966
+    },
+    {
+      "name": "Båtbryggorna vid Stagården",
+      "latitude": 61.324352,
+      "longitude": 16.364458
+    },
+    {
+      "name": "båtklubb",
+      "latitude": 58.951027,
+      "longitude": 17.579466
+    },
+    {
+      "name": "Båtklubben Piraten",
+      "latitude": 60.876643,
+      "longitude": 15.107981
+    },
+    {
+      "name": "Båtplatser Hamnen",
+      "latitude": 62.635505,
+      "longitude": 17.937961
+    },
+    {
+      "name": "Båtplatser Nattviken",
+      "latitude": 62.631292,
+      "longitude": 17.933165
+    },
+    {
+      "name": "Båtsam",
+      "latitude": 59.462654,
+      "longitude": 16.316106
+    },
+    {
+      "name": "Båtsam verkstad",
+      "latitude": 59.461826,
+      "longitude": 16.317007
+    },
+    {
+      "name": "Båtsällskapet Arken",
+      "latitude": 59.468963,
+      "longitude": 17.679153
+    },
+    {
+      "name": "Böda hamn",
+      "latitude": 57.240627,
+      "longitude": 17.077694
+    },
+    {
+      "name": "Bönhman",
+      "latitude": 62.879536,
+      "longitude": 18.449228
+    },
+    {
+      "name": "Citadellshamnen",
+      "latitude": 55.605686,
+      "longitude": 12.983612
+    },
+    {
+      "name": "Dal-Eds Gästhamn",
+      "latitude": 58.920182,
+      "longitude": 11.933563
+    },
+    {
+      "name": "Dalbergså",
+      "latitude": 58.597243,
+      "longitude": 12.593978
+    },
+    {
+      "name": "Dalslands Gästgiveri",
+      "latitude": 58.906965,
+      "longitude": 12.541033
+    },
+    {
+      "name": "Dianelunds båtklubb",
+      "latitude": 59.301775,
+      "longitude": 18.07366
+    },
+    {
+      "name": "Djaupdy",
+      "latitude": 57.250001,
+      "longitude": 18.709231
+    },
+    {
+      "name": "Djupekås Marina",
+      "latitude": 56.07088,
+      "longitude": 14.721891
+    },
+    {
+      "name": "Djupvik",
+      "latitude": 56.119189,
+      "longitude": 15.522456
+    },
+    {
+      "name": "Djupviks hamn",
+      "latitude": 57.30841,
+      "longitude": 18.149024
+    },
+    {
+      "name": "Djurgårdshamnen",
+      "latitude": 59.329715,
+      "longitude": 18.087647
+    },
+    {
+      "name": "Djurö Båtsällskap",
+      "latitude": 59.307267,
+      "longitude": 18.706544
+    },
+    {
+      "name": "Dockan Marina",
+      "latitude": 55.617793,
+      "longitude": 12.988389
+    },
+    {
+      "name": "Domsand",
+      "latitude": 57.877535,
+      "longitude": 14.117364
+    },
+    {
+      "name": "Domstens hamn",
+      "latitude": 56.116632,
+      "longitude": 12.604126
+    },
+    {
+      "name": "Donsö gästhamn",
+      "latitude": 57.598343,
+      "longitude": 11.791913
+    },
+    {
+      "name": "Dragsmarks klosters hamn",
+      "latitude": 58.255149,
+      "longitude": 11.555119
+    },
+    {
+      "name": "Dragsmarks Varv",
+      "latitude": 58.237428,
+      "longitude": 11.552086
+    },
+    {
+      "name": "Drottninghmns Båtklubb",
+      "latitude": 59.323479,
+      "longitude": 18.219784
+    },
+    {
+      "name": "Duse Udde Hamn",
+      "latitude": 59.080042,
+      "longitude": 12.88685
+    },
+    {
+      "name": "Duvnäsvikens marina",
+      "latitude": 59.301002,
+      "longitude": 18.207003
+    },
+    {
+      "name": "Dvärsätts Båtvarv",
+      "latitude": 63.297649,
+      "longitude": 14.477853
+    },
+    {
+      "name": "Dyvik Marina",
+      "latitude": 59.527648,
+      "longitude": 18.513722
+    },
+    {
+      "name": "Edsbergs Båtklubb",
+      "latitude": 59.434938,
+      "longitude": 17.956553
+    },
+    {
+      "name": "Edshultshalls gästhamn",
+      "latitude": 58.107849,
+      "longitude": 11.465538
+    },
+    {
+      "name": "Eke",
+      "latitude": 59.382359,
+      "longitude": 18.528991
+    },
+    {
+      "name": "Ekenabben Gästhamn",
+      "latitude": 56.101708,
+      "longitude": 15.636452
+    },
+    {
+      "name": "Ekensbergs Båtsällskap",
+      "latitude": 59.313199,
+      "longitude": 17.992552
+    },
+    {
+      "name": "Ekenäs Gästhamn",
+      "latitude": 58.896544,
+      "longitude": 13.232164
+    },
+    {
+      "name": "Ekenäs Småbåtshamn",
+      "latitude": 56.167878,
+      "longitude": 15.284567
+    },
+    {
+      "name": "Ekerö Båtklubb",
+      "latitude": 59.266408,
+      "longitude": 17.778881
+    },
+    {
+      "name": "Eknäs båtklubb",
+      "latitude": 59.310366,
+      "longitude": 18.222256
+    },
+    {
+      "name": "Ekuddenhamn Skutan",
+      "latitude": 58.711599,
+      "longitude": 13.814542
+    },
+    {
+      "name": "Ekängens Båtklubb",
+      "latitude": 58.462141,
+      "longitude": 15.637289
+    },
+    {
+      "name": "Ellös gästhamn",
+      "latitude": 58.184584,
+      "longitude": 11.466283
+    },
+    {
+      "name": "Engewikens Båtförening",
+      "latitude": 58.034469,
+      "longitude": 11.505872
+    },
+    {
+      "name": "Enköpings Segelsällskaps klubbhamn",
+      "latitude": 59.575359,
+      "longitude": 17.075965
+    },
+    {
+      "name": "Envikens Båtklubb",
+      "latitude": 59.628754,
+      "longitude": 18.650364
+    },
+    {
+      "name": "Eriksberg",
+      "latitude": 57.697022,
+      "longitude": 11.90909
+    },
+    {
+      "name": "Eriksdals motorbåtsklubb",
+      "latitude": 59.303513,
+      "longitude": 18.075719
+    },
+    {
+      "name": "Ernst hamn",
+      "latitude": 57.698215,
+      "longitude": 11.685621
+    },
+    {
+      "name": "ESK",
+      "latitude": 59.783449,
+      "longitude": 17.622614
+    },
+    {
+      "name": "ESS Jolle",
+      "latitude": 59.429686,
+      "longitude": 17.96368
+    },
+    {
+      "name": "Essinge Båtklubb",
+      "latitude": 59.326592,
+      "longitude": 18.004945
+    },
+    {
+      "name": "Essinge Båtsällskap",
+      "latitude": 59.32282,
+      "longitude": 17.985082
+    },
+    {
+      "name": "Essinge båtsällskap",
+      "latitude": 59.323995,
+      "longitude": 17.996636
+    },
+    {
+      "name": "Estonia",
+      "latitude": 57.726884,
+      "longitude": 12.002516
+    },
+    {
+      "name": "Ettans Båthamn",
+      "latitude": 65.579464,
+      "longitude": 22.16417
+    },
+    {
+      "name": "Fagerviks kanotklubb",
+      "latitude": 62.516796,
+      "longitude": 17.379759
+    },
+    {
+      "name": "Falkenbergs Båtsällskap Gästhamn",
+      "latitude": 56.893662,
+      "longitude": 12.491971
+    },
+    {
+      "name": "Falsterbokanalens småbåtshamn",
+      "latitude": 55.413082,
+      "longitude": 12.930718
+    },
+    {
+      "name": "Falu Båtklubb",
+      "latitude": 60.595244,
+      "longitude": 15.654725
+    },
+    {
+      "name": "Farhults hamnförening",
+      "latitude": 56.230076,
+      "longitude": 12.719686
+    },
+    {
+      "name": "Fejans Gästhamn",
+      "latitude": 59.743661,
+      "longitude": 19.166843
+    },
+    {
+      "name": "Filipstads gästhamn",
+      "latitude": 59.711918,
+      "longitude": 14.174288
+    },
+    {
+      "name": "Fingalshamn",
+      "latitude": 57.92392,
+      "longitude": 14.311115
+    },
+    {
+      "name": "Finnboda Båtklubb",
+      "latitude": 59.311437,
+      "longitude": 18.126881
+    },
+    {
+      "name": "Fiskarhamnen",
+      "latitude": 59.130291,
+      "longitude": 18.408
+    },
+    {
+      "name": "Fiskeboda",
+      "latitude": 59.183579,
+      "longitude": 15.894875
+    },
+    {
+      "name": "Fiskebäcks småbåtshamn",
+      "latitude": 57.64634,
+      "longitude": 11.852772
+    },
+    {
+      "name": "Fiskebäcks småbåtshamn AB",
+      "latitude": 57.647807,
+      "longitude": 11.854047
+    },
+    {
+      "name": "Fiskebäckskils småbåtshamn",
+      "latitude": 58.24241,
+      "longitude": 11.461133
+    },
+    {
+      "name": "Fiskehamn",
+      "latitude": 58.657776,
+      "longitude": 17.111616
+    },
+    {
+      "name": "Fiskehamn",
+      "latitude": 57.673659,
+      "longitude": 11.6649
+    },
+    {
+      "name": "Fiskehamnen",
+      "latitude": 57.636147,
+      "longitude": 18.282557
+    },
+    {
+      "name": "Fiskhamn",
+      "latitude": 58.381023,
+      "longitude": 11.260639
+    },
+    {
+      "name": "Fiskhamnens gästhamn",
+      "latitude": 58.274709,
+      "longitude": 11.441568
+    },
+    {
+      "name": "Fisksätra båtklubb",
+      "latitude": 59.295993,
+      "longitude": 18.252986
+    },
+    {
+      "name": "Fittjanäsets roddbåtsklubb",
+      "latitude": 59.250858,
+      "longitude": 17.869746
+    },
+    {
+      "name": "Fjäderholmarnas gästhamn",
+      "latitude": 59.32948,
+      "longitude": 18.175977
+    },
+    {
+      "name": "Fjällbacka gästhamn",
+      "latitude": 58.598821,
+      "longitude": 11.279903
+    },
+    {
+      "name": "Fliskärsvarvet",
+      "latitude": 60.682065,
+      "longitude": 17.215028
+    },
+    {
+      "name": "Flottviks Båthamn (Märsta Båtklubb)",
+      "latitude": 59.609316,
+      "longitude": 17.77721
+    },
+    {
+      "name": "Flundrevikens Fiskeläge",
+      "latitude": 57.667166,
+      "longitude": 18.324267
+    },
+    {
+      "name": "Forsbäcks småbåtshamn",
+      "latitude": 57.453277,
+      "longitude": 12.054901
+    },
+    {
+      "name": "Fotholmsviken",
+      "latitude": 65.754917,
+      "longitude": 23.037594
+    },
+    {
+      "name": "Fotö gästhamn",
+      "latitude": 57.666903,
+      "longitude": 11.654461
+    },
+    {
+      "name": "Framnäshamnen",
+      "latitude": 58.514728,
+      "longitude": 13.155864
+    },
+    {
+      "name": "Fritidsbåtshamn",
+      "latitude": 58.444539,
+      "longitude": 11.587851
+    },
+    {
+      "name": "Fritidshamn",
+      "latitude": 58.425244,
+      "longitude": 11.647187
+    },
+    {
+      "name": "Fritidshamn Matvik",
+      "latitude": 56.167219,
+      "longitude": 14.97058
+    },
+    {
+      "name": "Fritidshamn Solskensviken",
+      "latitude": 56.156126,
+      "longitude": 14.885052
+    },
+    {
+      "name": "Fritidshamn Svanevik",
+      "latitude": 56.154938,
+      "longitude": 14.890901
+    },
+    {
+      "name": "Fröjdendals småbåtshamn",
+      "latitude": 58.196809,
+      "longitude": 11.491361
+    },
+    {
+      "name": "Fröskogs Hamn",
+      "latitude": 58.974092,
+      "longitude": 12.471376
+    },
+    {
+      "name": "Furusunds gästhamn",
+      "latitude": 59.661023,
+      "longitude": 18.918476
+    },
+    {
+      "name": "Fyrfjärden Småbåtshamn",
+      "latitude": 58.18934,
+      "longitude": 16.833947
+    },
+    {
+      "name": "Fyruddens hamn",
+      "latitude": 58.19164,
+      "longitude": 16.851784
+    },
+    {
+      "name": "Färjestadens hamn",
+      "latitude": 56.650254,
+      "longitude": 16.462292
+    },
+    {
+      "name": "Färnäs båtklubb",
+      "latitude": 60.993111,
+      "longitude": 14.603834
+    },
+    {
+      "name": "Fånäs båtklubb",
+      "latitude": 59.552946,
+      "longitude": 17.538027
+    },
+    {
+      "name": "Fårösunds Båtklubb",
+      "latitude": 57.856091,
+      "longitude": 19.066551
+    },
+    {
+      "name": "Fårösunds Lanthamn",
+      "latitude": 57.866355,
+      "longitude": 19.058256
+    },
+    {
+      "name": "Fårösunds Marina",
+      "latitude": 57.864171,
+      "longitude": 19.05975
+    },
+    {
+      "name": "Galtabäcks Hamn",
+      "latitude": 57.027161,
+      "longitude": 12.309031
+    },
+    {
+      "name": "Galtström",
+      "latitude": 62.166795,
+      "longitude": 17.512704
+    },
+    {
+      "name": "Galärbryggan Sea Club",
+      "latitude": 59.330644,
+      "longitude": 18.090305
+    },
+    {
+      "name": "Gamla Färjlägets småbåtshamn",
+      "latitude": 65.584701,
+      "longitude": 22.12611
+    },
+    {
+      "name": "GBM Marin",
+      "latitude": 58.757197,
+      "longitude": 11.178337
+    },
+    {
+      "name": "Getskärs Marina",
+      "latitude": 58.015036,
+      "longitude": 11.798109
+    },
+    {
+      "name": "Getteröns Småbåtshamn",
+      "latitude": 57.113195,
+      "longitude": 12.23039
+    },
+    {
+      "name": "GFA:s Båthamn",
+      "latitude": 57.625333,
+      "longitude": 11.912016
+    },
+    {
+      "name": "Gillstigviken",
+      "latitude": 59.547629,
+      "longitude": 18.786639
+    },
+    {
+      "name": "Gislövs läge",
+      "latitude": 55.355635,
+      "longitude": 13.228692
+    },
+    {
+      "name": "GKSS hamn",
+      "latitude": 57.667944,
+      "longitude": 11.847008
+    },
+    {
+      "name": "Glommens hamn",
+      "latitude": 56.929955,
+      "longitude": 12.351409
+    },
+    {
+      "name": "Gottskärs Hamn",
+      "latitude": 57.386945,
+      "longitude": 12.019518
+    },
+    {
+      "name": "Goviks båthamn",
+      "latitude": 58.362153,
+      "longitude": 11.449837
+    },
+    {
+      "name": "Granudden marina",
+      "latitude": 65.561845,
+      "longitude": 22.137078
+    },
+    {
+      "name": "Granviks Hamn",
+      "latitude": 58.629774,
+      "longitude": 14.54492
+    },
+    {
+      "name": "Grebbestads hamn",
+      "latitude": 58.689882,
+      "longitude": 11.254406
+    },
+    {
+      "name": "Grimsta Båtsällskap",
+      "latitude": 59.353973,
+      "longitude": 17.845041
+    },
+    {
+      "name": "Grinds Hages Båtklubb",
+      "latitude": 59.3084,
+      "longitude": 18.050673
+    },
+    {
+      "name": "Grisslehamn Västra",
+      "latitude": 60.102687,
+      "longitude": 18.800151
+    },
+    {
+      "name": "Grisslehamn Östra",
+      "latitude": 60.099791,
+      "longitude": 18.811767
+    },
+    {
+      "name": "Grisslinge Båtsällskap",
+      "latitude": 59.313018,
+      "longitude": 18.445584
+    },
+    {
+      "name": "Grums marina",
+      "latitude": 59.332648,
+      "longitude": 13.095269
+    },
+    {
+      "name": "Grundsunds hamn",
+      "latitude": 58.216001,
+      "longitude": 11.415768
+    },
+    {
+      "name": "Grundsunds Marina",
+      "latitude": 58.208868,
+      "longitude": 11.421919
+    },
+    {
+      "name": "Grusvaik",
+      "latitude": 61.070136,
+      "longitude": 14.499548
+    },
+    {
+      "name": "Gryts Motor & Mekaniska Verkstad",
+      "latitude": 58.188121,
+      "longitude": 16.83618
+    },
+    {
+      "name": "Gryts varv",
+      "latitude": 58.158556,
+      "longitude": 16.809824
+    },
+    {
+      "name": "Gräddö Marina",
+      "latitude": 59.765742,
+      "longitude": 19.030334
+    },
+    {
+      "name": "Grönadals Marina",
+      "latitude": 56.173211,
+      "longitude": 15.51786
+    },
+    {
+      "name": "Gröndals Båtklubb",
+      "latitude": 59.316737,
+      "longitude": 18.014503
+    },
+    {
+      "name": "Gröndalsvikens småbåtshamn",
+      "latitude": 58.900142,
+      "longitude": 17.930308
+    },
+    {
+      "name": "Grönemads hamn",
+      "latitude": 58.700014,
+      "longitude": 11.217775
+    },
+    {
+      "name": "Grönhögens hamn",
+      "latitude": 56.266344,
+      "longitude": 16.398576
+    },
+    {
+      "name": "Grönslätts båtförening",
+      "latitude": 56.004027,
+      "longitude": 14.69039
+    },
+    {
+      "name": "Grötviks småbåtshamn",
+      "latitude": 56.640973,
+      "longitude": 12.779422
+    },
+    {
+      "name": "Grötö hamn",
+      "latitude": 57.695254,
+      "longitude": 11.687001
+    },
+    {
+      "name": "GTCSF Hamnanläggning",
+      "latitude": 59.247729,
+      "longitude": 18.300941
+    },
+    {
+      "name": "Guest Harbour",
+      "latitude": 55.675601,
+      "longitude": 13.068967
+    },
+    {
+      "name": "Guldbådans båtklubb",
+      "latitude": 58.972386,
+      "longitude": 18.057959
+    },
+    {
+      "name": "Gullholmens gästhamn",
+      "latitude": 58.176953,
+      "longitude": 11.404758
+    },
+    {
+      "name": "Gullmarsstrands småbåtshamn",
+      "latitude": 58.249883,
+      "longitude": 11.457819
+    },
+    {
+      "name": "Gunnön Gästhamn",
+      "latitude": 56.155667,
+      "longitude": 14.777357
+    },
+    {
+      "name": "Gustafs Marina Båtklubb",
+      "latitude": 60.415955,
+      "longitude": 15.607663
+    },
+    {
+      "name": "Gustavfors",
+      "latitude": 59.193512,
+      "longitude": 12.106539
+    },
+    {
+      "name": "Gustavsberg gästhamn",
+      "latitude": 58.33061,
+      "longitude": 11.902023
+    },
+    {
+      "name": "Gustavsbergs Båtklubb",
+      "latitude": 59.306694,
+      "longitude": 18.42663
+    },
+    {
+      "name": "Gustavsvarvs hamn",
+      "latitude": 62.403811,
+      "longitude": 17.410941
+    },
+    {
+      "name": "Gällnö",
+      "latitude": 59.396514,
+      "longitude": 18.645054
+    },
+    {
+      "name": "Gärdsnäsbåtarnas Samfällighetsförening",
+      "latitude": 59.627317,
+      "longitude": 18.737503
+    },
+    {
+      "name": "Gärpens båtklubb",
+      "latitude": 60.480624,
+      "longitude": 15.457939
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 59.60141,
+      "longitude": 17.779028
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 58.663466,
+      "longitude": 17.100636
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 58.238674,
+      "longitude": 11.548354
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 58.352198,
+      "longitude": 11.227581
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 56.668928,
+      "longitude": 12.859333
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 59.414135,
+      "longitude": 18.556524
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 58.633355,
+      "longitude": 13.442771
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 58.765866,
+      "longitude": 11.148198
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 58.028761,
+      "longitude": 15.089597
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 59.435387,
+      "longitude": 18.110554
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 58.627008,
+      "longitude": 14.133078
+    },
+    {
+      "name": "Gästhamn",
+      "latitude": 58.904025,
+      "longitude": 11.019872
+    },
+    {
+      "name": "Gästhamn - Ekenabben",
+      "latitude": 56.119801,
+      "longitude": 15.650594
+    },
+    {
+      "name": "Gästhamn - Garpahamnen Hasslö",
+      "latitude": 56.160858,
+      "longitude": 15.725144
+    },
+    {
+      "name": "Gästhamn - Garpahamnen Hasslö",
+      "latitude": 56.102217,
+      "longitude": 15.475876
+    },
+    {
+      "name": "Gästhamn - Hanö",
+      "latitude": 56.010225,
+      "longitude": 14.83584
+    },
+    {
+      "name": "Gästhamn - Hermans Heja",
+      "latitude": 56.037632,
+      "longitude": 14.555106
+    },
+    {
+      "name": "Gästhamn - Hällevik",
+      "latitude": 56.010536,
+      "longitude": 14.698834
+    },
+    {
+      "name": "Gästhamn - Hörvik",
+      "latitude": 56.042418,
+      "longitude": 14.769165
+    },
+    {
+      "name": "Gästhamn - Krokås fiskehamn",
+      "latitude": 56.049663,
+      "longitude": 14.757444
+    },
+    {
+      "name": "Gästhamn - Nogersund",
+      "latitude": 56.004619,
+      "longitude": 14.736625
+    },
+    {
+      "name": "Gästhamn - Säljö Brygga",
+      "latitude": 56.161731,
+      "longitude": 15.669667
+    },
+    {
+      "name": "Gästhamn centrum",
+      "latitude": 56.167887,
+      "longitude": 14.861758
+    },
+    {
+      "name": "Gästhamn Dragsö Utkik",
+      "latitude": 56.172885,
+      "longitude": 15.564197
+    },
+    {
+      "name": "Gästhamn Hallahamnen, Hasslö",
+      "latitude": 56.117243,
+      "longitude": 15.450578
+    },
+    {
+      "name": "Gästhamn Kalvsund",
+      "latitude": 57.711401,
+      "longitude": 11.682619
+    },
+    {
+      "name": "Gästhamn Kristianopel",
+      "latitude": 56.256592,
+      "longitude": 16.044769
+    },
+    {
+      "name": "Gästhamn Lökanabben Aspö",
+      "latitude": 56.11309,
+      "longitude": 15.563282
+    },
+    {
+      "name": "Gästhamn Lövstavikens Båtförening",
+      "latitude": 56.89137,
+      "longitude": 12.467901
+    },
+    {
+      "name": "Gästhamn Saltö Fiskhamn",
+      "latitude": 56.163872,
+      "longitude": 15.569223
+    },
+    {
+      "name": "Gästhamn Sandhamn",
+      "latitude": 56.093474,
+      "longitude": 15.856383
+    },
+    {
+      "name": "Gästhamn Stenshamn",
+      "latitude": 56.031022,
+      "longitude": 15.778151
+    },
+    {
+      "name": "Gästhamn Torhamn",
+      "latitude": 56.09337,
+      "longitude": 15.823
+    },
+    {
+      "name": "Gästhamn Ungskär",
+      "latitude": 56.041268,
+      "longitude": 15.802384
+    },
+    {
+      "name": "Gästhamn Utklippan",
+      "latitude": 55.955068,
+      "longitude": 15.703741
+    },
+    {
+      "name": "Gästhamnen",
+      "latitude": 57.638037,
+      "longitude": 18.286847
+    },
+    {
+      "name": "Gästhamnen",
+      "latitude": 59.402316,
+      "longitude": 18.360353
+    },
+    {
+      "name": "Gästhamnen",
+      "latitude": 59.704889,
+      "longitude": 17.625594
+    },
+    {
+      "name": "Gävle gästhamn",
+      "latitude": 60.677948,
+      "longitude": 17.164027
+    },
+    {
+      "name": "Gålö båtklubb",
+      "latitude": 59.098746,
+      "longitude": 18.291907
+    },
+    {
+      "name": "Gårda Brygga",
+      "latitude": 57.364333,
+      "longitude": 12.082014
+    },
+    {
+      "name": "Gåshaga Marina",
+      "latitude": 59.361748,
+      "longitude": 18.22694
+    },
+    {
+      "name": "Gåsö småbåtshamn",
+      "latitude": 58.233939,
+      "longitude": 11.412099
+    },
+    {
+      "name": "Gåsören",
+      "latitude": 64.664118,
+      "longitude": 21.314731
+    },
+    {
+      "name": "Gö Marina",
+      "latitude": 56.129021,
+      "longitude": 15.314891
+    },
+    {
+      "name": "Göta segelsällskap",
+      "latitude": 59.320083,
+      "longitude": 18.022673
+    },
+    {
+      "name": "Göteborg City Marina",
+      "latitude": 57.720782,
+      "longitude": 11.97585
+    },
+    {
+      "name": "Hagge",
+      "latitude": 60.121369,
+      "longitude": 15.271665
+    },
+    {
+      "name": "Hallshuk",
+      "latitude": 57.925354,
+      "longitude": 18.745856
+    },
+    {
+      "name": "Hallsta Båtklubb",
+      "latitude": 60.074344,
+      "longitude": 18.588803
+    },
+    {
+      "name": "Halse-Nabbs småbåtshamn",
+      "latitude": 58.124445,
+      "longitude": 11.826018
+    },
+    {
+      "name": "Hamburgsund Gästhamn",
+      "latitude": 58.550632,
+      "longitude": 11.27044
+    },
+    {
+      "name": "Hammars småbåtshamn",
+      "latitude": 57.626445,
+      "longitude": 11.877384
+    },
+    {
+      "name": "Hamnen",
+      "latitude": 59.444542,
+      "longitude": 19.50639
+    },
+    {
+      "name": "Hargshamns småbåtshamn",
+      "latitude": 60.173142,
+      "longitude": 18.46009
+    },
+    {
+      "name": "Hasselösunds gästhamn",
+      "latitude": 58.365905,
+      "longitude": 11.241048
+    },
+    {
+      "name": "Hasslö Båtförening",
+      "latitude": 56.11725,
+      "longitude": 15.451731
+    },
+    {
+      "name": "Havsbadets gästhamn",
+      "latitude": 58.269884,
+      "longitude": 11.437358
+    },
+    {
+      "name": "HBK",
+      "latitude": 59.366921,
+      "longitude": 18.036733
+    },
+    {
+      "name": "Hedens hamn",
+      "latitude": 57.695223,
+      "longitude": 11.665638
+    },
+    {
+      "name": "Heleneborgs båtklubb",
+      "latitude": 59.319733,
+      "longitude": 18.031171
+    },
+    {
+      "name": "Henriksdalshamnen",
+      "latitude": 59.308931,
+      "longitude": 18.102149
+    },
+    {
+      "name": "Henåns gästhamn",
+      "latitude": 58.240778,
+      "longitude": 11.677199
+    },
+    {
+      "name": "Herrvik",
+      "latitude": 57.423066,
+      "longitude": 18.915271
+    },
+    {
+      "name": "Herrängs Marina",
+      "latitude": 60.138562,
+      "longitude": 18.645096
+    },
+    {
+      "name": "Herte",
+      "latitude": 57.21768,
+      "longitude": 18.592531
+    },
+    {
+      "name": "Hindersöstallarna",
+      "latitude": 65.545779,
+      "longitude": 22.397095
+    },
+    {
+      "name": "Hinsholmskilens Båthamn",
+      "latitude": 57.660897,
+      "longitude": 11.854136
+    },
+    {
+      "name": "Hjelms Bryggor",
+      "latitude": 57.853137,
+      "longitude": 11.697838
+    },
+    {
+      "name": "Hjo hamn",
+      "latitude": 58.302242,
+      "longitude": 14.295557
+    },
+    {
+      "name": "Hjortnäs Båtklubb",
+      "latitude": 60.79567,
+      "longitude": 14.957265
+    },
+    {
+      "name": "Hjulbäcks Båthamn",
+      "latitude": 60.80104,
+      "longitude": 14.927103
+    },
+    {
+      "name": "Hjuviks brygga",
+      "latitude": 57.704028,
+      "longitude": 11.711223
+    },
+    {
+      "name": "Hjuviks Båtklubb",
+      "latitude": 57.710233,
+      "longitude": 11.705215
+    },
+    {
+      "name": "Hjälmare docka",
+      "latitude": 59.381476,
+      "longitude": 15.944222
+    },
+    {
+      "name": "Holmerudsfors Gästhamn",
+      "latitude": 59.415657,
+      "longitude": 11.989752
+    },
+    {
+      "name": "Holmö brygga",
+      "latitude": 62.440941,
+      "longitude": 17.635955
+    },
+    {
+      "name": "Horns Båtvarv",
+      "latitude": 58.728543,
+      "longitude": 17.129969
+    },
+    {
+      "name": "Horns hamn",
+      "latitude": 57.904049,
+      "longitude": 15.838879
+    },
+    {
+      "name": "Hovetorps båtklubb",
+      "latitude": 58.301559,
+      "longitude": 15.724607
+    },
+    {
+      "name": "Hovås hamn",
+      "latitude": 57.620572,
+      "longitude": 11.923069
+    },
+    {
+      "name": "Huddinge båtklubb",
+      "latitude": 59.256766,
+      "longitude": 17.873151
+    },
+    {
+      "name": "Hummelmora",
+      "latitude": 59.456843,
+      "longitude": 18.595838
+    },
+    {
+      "name": "Hunnebostrand gästhamn",
+      "latitude": 58.440534,
+      "longitude": 11.293207
+    },
+    {
+      "name": "Husarö Gästhamn",
+      "latitude": 59.501892,
+      "longitude": 18.845489
+    },
+    {
+      "name": "Hycklinge hamn",
+      "latitude": 57.924639,
+      "longitude": 15.918261
+    },
+    {
+      "name": "Hyppeln gästhamn",
+      "latitude": 57.757571,
+      "longitude": 11.616494
+    },
+    {
+      "name": "Hägerstenshamnen",
+      "latitude": 59.307668,
+      "longitude": 17.974946
+    },
+    {
+      "name": "Häljaröd hamn",
+      "latitude": 56.229681,
+      "longitude": 12.735525
+    },
+    {
+      "name": "Hällekis hamn",
+      "latitude": 58.622609,
+      "longitude": 13.38035
+    },
+    {
+      "name": "Hällevik Yacht Club",
+      "latitude": 58.117008,
+      "longitude": 11.45811
+    },
+    {
+      "name": "Hälleviksstrands Hamn",
+      "latitude": 58.122405,
+      "longitude": 11.44234
+    },
+    {
+      "name": "Hälleviksstrands Varvs Marina",
+      "latitude": 58.118703,
+      "longitude": 11.446474
+    },
+    {
+      "name": "Hällhamn",
+      "latitude": 65.783014,
+      "longitude": 22.686008
+    },
+    {
+      "name": "Hällsviks småbåtshamn",
+      "latitude": 57.699788,
+      "longitude": 11.736404
+    },
+    {
+      "name": "Hälsinggårdens småbåtshamn",
+      "latitude": 60.586858,
+      "longitude": 15.68101
+    },
+    {
+      "name": "Hälsö hamn",
+      "latitude": 57.730848,
+      "longitude": 11.658012
+    },
+    {
+      "name": "Hälsö hamn",
+      "latitude": 57.730247,
+      "longitude": 11.657471
+    },
+    {
+      "name": "Härnö Marina AB",
+      "latitude": 62.643313,
+      "longitude": 17.956047
+    },
+    {
+      "name": "Hässelby strands båtklubb",
+      "latitude": 59.357294,
+      "longitude": 17.833111
+    },
+    {
+      "name": "Hästholmens båtsällskap",
+      "latitude": 59.315794,
+      "longitude": 18.130917
+    },
+    {
+      "name": "Hålkedalen",
+      "latitude": 58.928473,
+      "longitude": 11.186493
+    },
+    {
+      "name": "Håveruds Gästhamn",
+      "latitude": 58.819984,
+      "longitude": 12.416006
+    },
+    {
+      "name": "Höganäs småbåtshamn",
+      "latitude": 56.198309,
+      "longitude": 12.547837
+    },
+    {
+      "name": "Hökarängens Båtklubb",
+      "latitude": 59.248909,
+      "longitude": 18.106961
+    },
+    {
+      "name": "Hölö båtklubb",
+      "latitude": 59.020633,
+      "longitude": 17.618283
+    },
+    {
+      "name": "Hönsäter Hamn",
+      "latitude": 58.632495,
+      "longitude": 13.442485
+    },
+    {
+      "name": "Hönö Klåva hamn",
+      "latitude": 57.681106,
+      "longitude": 11.648021
+    },
+    {
+      "name": "Hörte Hamn",
+      "latitude": 55.386286,
+      "longitude": 13.547626
+    },
+    {
+      "name": "Hörvikens marina",
+      "latitude": 58.681084,
+      "longitude": 13.162726
+    },
+    {
+      "name": "Höviksnäs Båtförening",
+      "latitude": 58.036569,
+      "longitude": 11.762867
+    },
+    {
+      "name": "IIS",
+      "latitude": 59.25037,
+      "longitude": 18.523378
+    },
+    {
+      "name": "Iläggningsplats",
+      "latitude": 57.518608,
+      "longitude": 16.651033
+    },
+    {
+      "name": "Ingareds båtförening",
+      "latitude": 57.846071,
+      "longitude": 12.453088
+    },
+    {
+      "name": "Ingarö Lugnets Båtklubb",
+      "latitude": 59.250964,
+      "longitude": 18.523293
+    },
+    {
+      "name": "Ingarö varv",
+      "latitude": 59.291864,
+      "longitude": 18.447595
+    },
+    {
+      "name": "Ingmarsö",
+      "latitude": 59.465322,
+      "longitude": 18.756881
+    },
+    {
+      "name": "Inre hamnen",
+      "latitude": 59.074663,
+      "longitude": 18.38602
+    },
+    {
+      "name": "Inre Saltholmen",
+      "latitude": 57.661772,
+      "longitude": 11.84406
+    },
+    {
+      "name": "Insjöns Båtklubb",
+      "latitude": 60.687079,
+      "longitude": 15.113931
+    },
+    {
+      "name": "Jakobsbergs Båtsällskap",
+      "latitude": 59.417987,
+      "longitude": 17.764636
+    },
+    {
+      "name": "Jernevik Båtklubb",
+      "latitude": 58.454853,
+      "longitude": 14.782949
+    },
+    {
+      "name": "Johannesfreds Båtklubb",
+      "latitude": 59.346692,
+      "longitude": 17.977969
+    },
+    {
+      "name": "Jolpan Finnhamn",
+      "latitude": 59.478851,
+      "longitude": 18.812164
+    },
+    {
+      "name": "Jordfalls hamn",
+      "latitude": 58.329206,
+      "longitude": 11.573
+    },
+    {
+      "name": "Jungfrusunds marina",
+      "latitude": 59.274619,
+      "longitude": 17.848144
+    },
+    {
+      "name": "Juniskär Gästhamn",
+      "latitude": 62.294805,
+      "longitude": 17.448568
+    },
+    {
+      "name": "Järnas Brunskär",
+      "latitude": 58.903863,
+      "longitude": 17.673273
+    },
+    {
+      "name": "Järnas Brunskär",
+      "latitude": 58.903922,
+      "longitude": 17.671617
+    },
+    {
+      "name": "Järnäshamn",
+      "latitude": 63.437098,
+      "longitude": 19.673853
+    },
+    {
+      "name": "Jönköpings gästhamn",
+      "latitude": 57.784602,
+      "longitude": 14.167649
+    },
+    {
+      "name": "Kalix centrums gästhamn",
+      "latitude": 65.852298,
+      "longitude": 23.139649
+    },
+    {
+      "name": "Kallhälls Båtklubb",
+      "latitude": 59.458676,
+      "longitude": 17.79952
+    },
+    {
+      "name": "Kalmar gästhamn",
+      "latitude": 56.660027,
+      "longitude": 16.361941
+    },
+    {
+      "name": "Kanaluddens gästhamn/båtplatser",
+      "latitude": 62.627004,
+      "longitude": 17.940958
+    },
+    {
+      "name": "Kanholmsfjärdens marina",
+      "latitude": 59.347767,
+      "longitude": 18.727927
+    },
+    {
+      "name": "Karlsborgs båtklubb",
+      "latitude": 63.703671,
+      "longitude": 20.421062
+    },
+    {
+      "name": "Karlskrona gästhamn",
+      "latitude": 56.167962,
+      "longitude": 15.590087
+    },
+    {
+      "name": "Karlskrona Navigationssällskap",
+      "latitude": 56.151326,
+      "longitude": 15.481769
+    },
+    {
+      "name": "Karlslunds marina",
+      "latitude": 59.12102,
+      "longitude": 18.304626
+    },
+    {
+      "name": "Karlstads gästhamn",
+      "latitude": 59.368303,
+      "longitude": 13.51696
+    },
+    {
+      "name": "Karlsuddsvikens Båtklubb",
+      "latitude": 59.392152,
+      "longitude": 18.311304
+    },
+    {
+      "name": "Karön-Ekenäs Gästhamn",
+      "latitude": 56.166025,
+      "longitude": 15.287273
+    },
+    {
+      "name": "Katrinörarna",
+      "latitude": 60.32421,
+      "longitude": 18.469556
+    },
+    {
+      "name": "Katthammarsvik",
+      "latitude": 57.43542,
+      "longitude": 18.851016
+    },
+    {
+      "name": "Kattviks Hamn",
+      "latitude": 56.462906,
+      "longitude": 12.755989
+    },
+    {
+      "name": "Killingsholmens båthamn",
+      "latitude": 57.572922,
+      "longitude": 11.927516
+    },
+    {
+      "name": "Killingsholmens Marina",
+      "latitude": 57.577449,
+      "longitude": 11.924994
+    },
+    {
+      "name": "Killingsholmens Varv",
+      "latitude": 57.574614,
+      "longitude": 11.926587
+    },
+    {
+      "name": "Kilsvikens Båtklubb",
+      "latitude": 59.300715,
+      "longitude": 18.264351
+    },
+    {
+      "name": "Kiviks småbåtshamn",
+      "latitude": 55.688028,
+      "longitude": 14.226853
+    },
+    {
+      "name": "KKKS Lökholmen",
+      "latitude": 59.292688,
+      "longitude": 18.92758
+    },
+    {
+      "name": "Klagshamns hamn",
+      "latitude": 55.52186,
+      "longitude": 12.89117
+    },
+    {
+      "name": "Klampenborgs båthamn",
+      "latitude": 62.326863,
+      "longitude": 17.39334
+    },
+    {
+      "name": "Klangahamn",
+      "latitude": 58.613538,
+      "longitude": 14.539166
+    },
+    {
+      "name": "Klinta hamn",
+      "latitude": 56.888115,
+      "longitude": 16.720982
+    },
+    {
+      "name": "Klintan",
+      "latitude": 59.538716,
+      "longitude": 18.750422
+    },
+    {
+      "name": "Klintehamns småbåtshamn",
+      "latitude": 57.38914,
+      "longitude": 18.189655
+    },
+    {
+      "name": "Klockargårdens bryggförening",
+      "latitude": 59.234798,
+      "longitude": 18.319458
+    },
+    {
+      "name": "Klubbhamn Halmstads Segelsällskap",
+      "latitude": 56.658544,
+      "longitude": 12.850457
+    },
+    {
+      "name": "Klädesholmens Västra hamn",
+      "latitude": 57.945946,
+      "longitude": 11.536466
+    },
+    {
+      "name": "Klöveröns Båtvarv",
+      "latitude": 57.880952,
+      "longitude": 11.594917
+    },
+    {
+      "name": "KMS Nordön - Norra hamnen",
+      "latitude": 57.896276,
+      "longitude": 11.693257
+    },
+    {
+      "name": "KMS Nordön - Södra hamnen",
+      "latitude": 57.891794,
+      "longitude": 11.683263
+    },
+    {
+      "name": "Knallekilens småbåtshamn",
+      "latitude": 57.367691,
+      "longitude": 11.974051
+    },
+    {
+      "name": "Knarrholmen",
+      "latitude": 57.625887,
+      "longitude": 11.82892
+    },
+    {
+      "name": "Knippla gästhamn",
+      "latitude": 57.749264,
+      "longitude": 11.655242
+    },
+    {
+      "name": "Kolbotten Båthamn",
+      "latitude": 59.153418,
+      "longitude": 18.42393
+    },
+    {
+      "name": "Kolhättan Gästhamn",
+      "latitude": 58.135461,
+      "longitude": 11.843243
+    },
+    {
+      "name": "Kolla varv",
+      "latitude": 57.470127,
+      "longitude": 12.068485
+    },
+    {
+      "name": "Kolmårdens Båtklubb",
+      "latitude": 58.659331,
+      "longitude": 16.412751
+    },
+    {
+      "name": "Kolnäsbryggan",
+      "latitude": 59.080596,
+      "longitude": 18.385977
+    },
+    {
+      "name": "Kolströms Båtklubb",
+      "latitude": 59.286996,
+      "longitude": 18.432704
+    },
+    {
+      "name": "Korshamn Ekenäs",
+      "latitude": 58.895673,
+      "longitude": 11.048321
+    },
+    {
+      "name": "Kovikshamns Norra Småbåtshamn",
+      "latitude": 57.842406,
+      "longitude": 11.684749
+    },
+    {
+      "name": "Kristinebergs båtklubb",
+      "latitude": 59.332939,
+      "longitude": 17.997367
+    },
+    {
+      "name": "Kristinehamns gästhamn",
+      "latitude": 59.311863,
+      "longitude": 14.092873
+    },
+    {
+      "name": "Krogbryggan",
+      "latitude": 59.481625,
+      "longitude": 18.826047
+    },
+    {
+      "name": "Krossholmens Båtklubb",
+      "latitude": 57.69282,
+      "longitude": 11.768139
+    },
+    {
+      "name": "KSSS",
+      "latitude": 59.277922,
+      "longitude": 18.317045
+    },
+    {
+      "name": "KSSS Gästhamn Lökholmen",
+      "latitude": 59.292643,
+      "longitude": 18.927268
+    },
+    {
+      "name": "KSSS Gästhamn Telegrafholmen",
+      "latitude": 59.292202,
+      "longitude": 18.918983
+    },
+    {
+      "name": "KSSS Lökholmen",
+      "latitude": 59.290517,
+      "longitude": 18.92974
+    },
+    {
+      "name": "Kullasundets Båtklubb",
+      "latitude": 59.408191,
+      "longitude": 18.31553
+    },
+    {
+      "name": "Kullaviks Hamn",
+      "latitude": 57.55057,
+      "longitude": 11.92371
+    },
+    {
+      "name": "Kungliga Motorbåt Klubben",
+      "latitude": 59.331257,
+      "longitude": 18.097905
+    },
+    {
+      "name": "Kungsbacka Båtsällskap",
+      "latitude": 57.476719,
+      "longitude": 12.072678
+    },
+    {
+      "name": "Kungshamns gästhamn",
+      "latitude": 58.360509,
+      "longitude": 11.246716
+    },
+    {
+      "name": "Kungshamns småbåtshamn",
+      "latitude": 58.35718,
+      "longitude": 11.269921
+    },
+    {
+      "name": "Kungshamns småbåtshamn (Guleskär)",
+      "latitude": 58.357987,
+      "longitude": 11.24433
+    },
+    {
+      "name": "Kungsvikens marina",
+      "latitude": 58.226079,
+      "longitude": 11.582766
+    },
+    {
+      "name": "Kungsviks hamn",
+      "latitude": 58.995032,
+      "longitude": 11.126948
+    },
+    {
+      "name": "Kungsängens Båtsällskap",
+      "latitude": 59.476216,
+      "longitude": 17.757645
+    },
+    {
+      "name": "Kungsängens båtvarv",
+      "latitude": 59.334603,
+      "longitude": 18.64543
+    },
+    {
+      "name": "Kvarnhamnen Stora Ornäs",
+      "latitude": 60.509574,
+      "longitude": 15.54673
+    },
+    {
+      "name": "Kvarnholmen",
+      "latitude": 59.483655,
+      "longitude": 18.669763
+    },
+    {
+      "name": "Kyrkbackens Hamn",
+      "latitude": 55.909811,
+      "longitude": 12.673538
+    },
+    {
+      "name": "Kyrkesunds Östra Hamn",
+      "latitude": 58.021022,
+      "longitude": 11.517703
+    },
+    {
+      "name": "Kyrkosund",
+      "latitude": 58.867892,
+      "longitude": 11.058073
+    },
+    {
+      "name": "Källa hamn",
+      "latitude": 57.10918,
+      "longitude": 16.99651
+    },
+    {
+      "name": "Källvikens och Munkeby marina",
+      "latitude": 58.253974,
+      "longitude": 11.501668
+    },
+    {
+      "name": "Käppalahamnen",
+      "latitude": 59.349017,
+      "longitude": 18.225331
+    },
+    {
+      "name": "Käringöns gästhamn",
+      "latitude": 58.113272,
+      "longitude": 11.36333
+    },
+    {
+      "name": "Kärraviken",
+      "latitude": 58.853588,
+      "longitude": 14.995127
+    },
+    {
+      "name": "Kåge båtklubb",
+      "latitude": 64.82829,
+      "longitude": 21.020993
+    },
+    {
+      "name": "Kållandsö Marina Båtklubb",
+      "latitude": 58.680852,
+      "longitude": 13.166305
+    },
+    {
+      "name": "Kårehamn",
+      "latitude": 56.957437,
+      "longitude": 16.888266
+    },
+    {
+      "name": "Kåseberga hamn",
+      "latitude": 55.38317,
+      "longitude": 14.063686
+    },
+    {
+      "name": "Köpings gästhamn",
+      "latitude": 59.505811,
+      "longitude": 16.004192
+    },
+    {
+      "name": "Köpmanholmens båtklubb",
+      "latitude": 63.177602,
+      "longitude": 18.575461
+    },
+    {
+      "name": "Lagunen",
+      "latitude": 55.597255,
+      "longitude": 12.936494
+    },
+    {
+      "name": "Laholm hamn",
+      "latitude": 56.511349,
+      "longitude": 13.036796
+    },
+    {
+      "name": "Langvik Inner Harbour",
+      "latitude": 59.441155,
+      "longitude": 18.920191
+    },
+    {
+      "name": "Langvik Outer Harbour",
+      "latitude": 59.44283,
+      "longitude": 18.920887
+    },
+    {
+      "name": "Lauterhorn",
+      "latitude": 57.95275,
+      "longitude": 19.081929
+    },
+    {
+      "name": "Laxhall",
+      "latitude": 58.810745,
+      "longitude": 13.712
+    },
+    {
+      "name": "Leksands Båtklubb",
+      "latitude": 60.728831,
+      "longitude": 15.004
+    },
+    {
+      "name": "Lennartsfors gästhamn",
+      "latitude": 59.320204,
+      "longitude": 11.899596
+    },
+    {
+      "name": "Lerbergets hamn",
+      "latitude": 56.177094,
+      "longitude": 12.55536
+    },
+    {
+      "name": "Lerhamns hamn",
+      "latitude": 56.256932,
+      "longitude": 12.5194
+    },
+    {
+      "name": "Lerkils marina",
+      "latitude": 57.455267,
+      "longitude": 11.913113
+    },
+    {
+      "name": "Lerums Segelsällskap",
+      "latitude": 57.761021,
+      "longitude": 12.252148
+    },
+    {
+      "name": "Lickershamn",
+      "latitude": 57.826639,
+      "longitude": 18.513271
+    },
+    {
+      "name": "Lidingö Båtklubb",
+      "latitude": 59.367597,
+      "longitude": 18.16001
+    },
+    {
+      "name": "Lidingö Segelsällskap",
+      "latitude": 59.365492,
+      "longitude": 18.170045
+    },
+    {
+      "name": "Lidköping",
+      "latitude": 58.509666,
+      "longitude": 13.166606
+    },
+    {
+      "name": "Lidö Gästhamn",
+      "latitude": 59.773311,
+      "longitude": 19.078157
+    },
+    {
+      "name": "Liljeholmens båtklubb",
+      "latitude": 59.313088,
+      "longitude": 18.035068
+    },
+    {
+      "name": "Lilla Bommen Göteborgs gästhamn",
+      "latitude": 57.711621,
+      "longitude": 11.965248
+    },
+    {
+      "name": "Lilla Brattöns gästhamn",
+      "latitude": 58.049483,
+      "longitude": 11.775744
+    },
+    {
+      "name": "Lilla Essinge Båtklubb",
+      "latitude": 59.32714,
+      "longitude": 18.002882
+    },
+    {
+      "name": "Lillängshamnen",
+      "latitude": 59.316544,
+      "longitude": 13.465562
+    },
+    {
+      "name": "Limhamns Småbåtshamn",
+      "latitude": 55.583432,
+      "longitude": 12.91523
+    },
+    {
+      "name": "Linanäs Gasthamn",
+      "latitude": 59.473024,
+      "longitude": 18.512424
+    },
+    {
+      "name": "Lindeshamns båtklubb",
+      "latitude": 55.877513,
+      "longitude": 12.813453
+    },
+    {
+      "name": "Lindgrens Hamn",
+      "latitude": 57.393208,
+      "longitude": 12.023786
+    },
+    {
+      "name": "Lindholmen",
+      "latitude": 57.705699,
+      "longitude": 11.943164
+    },
+    {
+      "name": "Lindholmens Båtklubb",
+      "latitude": 59.460248,
+      "longitude": 18.31637
+    },
+    {
+      "name": "Lindö gästhamn",
+      "latitude": 58.611615,
+      "longitude": 16.258126
+    },
+    {
+      "name": "Linköpings Jolleseglarklubb",
+      "latitude": 58.444748,
+      "longitude": 15.622388
+    },
+    {
+      "name": "Linköpings segelbåtshamn",
+      "latitude": 58.436896,
+      "longitude": 15.621867
+    },
+    {
+      "name": "Ljungskile Båtklubb",
+      "latitude": 58.22268,
+      "longitude": 11.914911
+    },
+    {
+      "name": "LMK Piren",
+      "latitude": 60.151331,
+      "longitude": 15.179693
+    },
+    {
+      "name": "Lomma hamn",
+      "latitude": 55.675848,
+      "longitude": 13.0568
+    },
+    {
+      "name": "Lundåkern",
+      "latitude": 63.828717,
+      "longitude": 20.226099
+    },
+    {
+      "name": "Lundåkrahamnen",
+      "latitude": 55.859845,
+      "longitude": 12.849517
+    },
+    {
+      "name": "Lustbåtshamnen",
+      "latitude": 55.868049,
+      "longitude": 12.819503
+    },
+    {
+      "name": "Luxparken marina",
+      "latitude": 59.323146,
+      "longitude": 18.008908
+    },
+    {
+      "name": "Lyckans slip Marina",
+      "latitude": 58.243551,
+      "longitude": 11.461127
+    },
+    {
+      "name": "Lyckornas Brygga",
+      "latitude": 58.21661,
+      "longitude": 11.903795
+    },
+    {
+      "name": "Lysekils Marina",
+      "latitude": 58.315406,
+      "longitude": 11.399201
+    },
+    {
+      "name": "Lysingsbadet",
+      "latitude": 57.729592,
+      "longitude": 16.679467
+    },
+    {
+      "name": "Läckö",
+      "latitude": 58.676361,
+      "longitude": 13.218281
+    },
+    {
+      "name": "Lännersta Båtklubb",
+      "latitude": 59.300532,
+      "longitude": 18.256487
+    },
+    {
+      "name": "Lågbo båtplats",
+      "latitude": 60.429079,
+      "longitude": 17.213312
+    },
+    {
+      "name": "Långedrags gamla hamn och slip",
+      "latitude": 57.670675,
+      "longitude": 11.849973
+    },
+    {
+      "name": "Långeviks småbåtshamn",
+      "latitude": 58.286677,
+      "longitude": 11.43151
+    },
+    {
+      "name": "Långtjärna",
+      "latitude": 63.91415,
+      "longitude": 17.578187
+    },
+    {
+      "name": "Långviks Båtklubb",
+      "latitude": 59.239322,
+      "longitude": 18.521137
+    },
+    {
+      "name": "Lögla",
+      "latitude": 59.641295,
+      "longitude": 18.740417
+    },
+    {
+      "name": "Lörudden",
+      "latitude": 62.230491,
+      "longitude": 17.657056
+    },
+    {
+      "name": "Lövbergavikens båtklubb",
+      "latitude": 59.348077,
+      "longitude": 18.262853
+    },
+    {
+      "name": "Lövnäs småbåtshamn",
+      "latitude": 59.336874,
+      "longitude": 13.527032
+    },
+    {
+      "name": "Lövskär småbåtshamn",
+      "latitude": 65.541098,
+      "longitude": 22.371797
+    },
+    {
+      "name": "Maleviks hamn",
+      "latitude": 57.527307,
+      "longitude": 11.925577
+    },
+    {
+      "name": "Malfors Slussen",
+      "latitude": 58.503903,
+      "longitude": 15.501849
+    },
+    {
+      "name": "Malma Kvarn",
+      "latitude": 59.255351,
+      "longitude": 18.614637
+    },
+    {
+      "name": "Malmöns gästhamn",
+      "latitude": 58.348457,
+      "longitude": 11.343963
+    },
+    {
+      "name": "Manhemskajen",
+      "latitude": 64.74753,
+      "longitude": 20.968733
+    },
+    {
+      "name": "Marahamn",
+      "latitude": 65.762438,
+      "longitude": 23.193535
+    },
+    {
+      "name": "Marens gästhamn",
+      "latitude": 56.170537,
+      "longitude": 15.050066
+    },
+    {
+      "name": "Marholmen guest bryga",
+      "latitude": 59.686558,
+      "longitude": 18.783053
+    },
+    {
+      "name": "Marieborgs båtklubb",
+      "latitude": 59.231391,
+      "longitude": 18.09414
+    },
+    {
+      "name": "Mariestads Gästhamn",
+      "latitude": 58.719915,
+      "longitude": 13.820756
+    },
+    {
+      "name": "Marin Center",
+      "latitude": 57.902242,
+      "longitude": 16.696409
+    },
+    {
+      "name": "Marina Dals Långed",
+      "latitude": 58.92304,
+      "longitude": 12.305891
+    },
+    {
+      "name": "Marstrands hamn",
+      "latitude": 57.888779,
+      "longitude": 11.585944
+    },
+    {
+      "name": "Mista udde",
+      "latitude": 58.700718,
+      "longitude": 13.200658
+    },
+    {
+      "name": "Mjöfjärdens båthamn",
+      "latitude": 65.795364,
+      "longitude": 22.353034
+    },
+    {
+      "name": "Mollösunds gästhamn",
+      "latitude": 58.073478,
+      "longitude": 11.47021
+    },
+    {
+      "name": "Mons Stugby och Camping",
+      "latitude": 58.36596,
+      "longitude": 16.830944
+    },
+    {
+      "name": "Mor Annas Brygga",
+      "latitude": 59.389743,
+      "longitude": 18.13972
+    },
+    {
+      "name": "Morarnas Batklubb",
+      "latitude": 59.081902,
+      "longitude": 18.27316
+    },
+    {
+      "name": "Morlanda brygga",
+      "latitude": 58.202197,
+      "longitude": 11.537543
+    },
+    {
+      "name": "Morningside marina",
+      "latitude": 59.298348,
+      "longitude": 18.212323
+    },
+    {
+      "name": "Mossholmens Marina",
+      "latitude": 57.951613,
+      "longitude": 11.559942
+    },
+    {
+      "name": "Motala",
+      "latitude": 58.532907,
+      "longitude": 15.038424
+    },
+    {
+      "name": "Mälar Marinan",
+      "latitude": 59.60201,
+      "longitude": 16.547341
+    },
+    {
+      "name": "Mälarstrandens båtklubb",
+      "latitude": 59.475056,
+      "longitude": 17.752336
+    },
+    {
+      "name": "Mälbyhamn",
+      "latitude": 60.003157,
+      "longitude": 18.872517
+    },
+    {
+      "name": "Måviken",
+      "latitude": 62.970495,
+      "longitude": 18.425067
+    },
+    {
+      "name": "Mölle Hamn",
+      "latitude": 56.283183,
+      "longitude": 12.492627
+    },
+    {
+      "name": "Mörtströmmen",
+      "latitude": 56.17981,
+      "longitude": 15.108343
+    },
+    {
+      "name": "Mörtvikens Marina",
+      "latitude": 59.489985,
+      "longitude": 18.447451
+    },
+    {
+      "name": "Möruddens småbåtshamn",
+      "latitude": 59.314741,
+      "longitude": 13.496687
+    },
+    {
+      "name": "Nabben",
+      "latitude": 57.265731,
+      "longitude": 18.717308
+    },
+    {
+      "name": "Nacka Båtklubb",
+      "latitude": 59.311283,
+      "longitude": 18.134781
+    },
+    {
+      "name": "Nacka båtklubb",
+      "latitude": 62.476324,
+      "longitude": 17.405909
+    },
+    {
+      "name": "Nattvikens gästhamn",
+      "latitude": 62.632764,
+      "longitude": 17.930849
+    },
+    {
+      "name": "Navigationssällskapet",
+      "latitude": 59.32194,
+      "longitude": 18.110605
+    },
+    {
+      "name": "NHSS - Fagerviken",
+      "latitude": 58.891209,
+      "longitude": 17.943405
+    },
+    {
+      "name": "Nimbushamnen",
+      "latitude": 57.710072,
+      "longitude": 11.662394
+    },
+    {
+      "name": "Nolingsviken",
+      "latitude": 62.323411,
+      "longitude": 17.438377
+    },
+    {
+      "name": "Noraströms båtklubb",
+      "latitude": 62.860371,
+      "longitude": 18.047058
+    },
+    {
+      "name": "Norje",
+      "latitude": 56.122714,
+      "longitude": 14.68038
+    },
+    {
+      "name": "Norra Hamn",
+      "latitude": 65.317827,
+      "longitude": 21.493981
+    },
+    {
+      "name": "Norra hamnen",
+      "latitude": 59.771511,
+      "longitude": 18.859857
+    },
+    {
+      "name": "Norra Hamnen",
+      "latitude": 57.140269,
+      "longitude": 12.215851
+    },
+    {
+      "name": "Norra Hamnen",
+      "latitude": 58.34905,
+      "longitude": 11.929144
+    },
+    {
+      "name": "Norra Hamnen Helsingborg",
+      "latitude": 56.049185,
+      "longitude": 12.685621
+    },
+    {
+      "name": "Norra Hamnens gästhamn",
+      "latitude": 58.276172,
+      "longitude": 11.422897
+    },
+    {
+      "name": "Norra Kuddalsviken Båtplats",
+      "latitude": 59.662569,
+      "longitude": 18.601805
+    },
+    {
+      "name": "Norra sjön",
+      "latitude": 59.082038,
+      "longitude": 18.393073
+    },
+    {
+      "name": "Norra Vi Båthamn",
+      "latitude": 57.884767,
+      "longitude": 15.359275
+    },
+    {
+      "name": "Norrbergshamnen",
+      "latitude": 59.406324,
+      "longitude": 18.349326
+    },
+    {
+      "name": "Norreborgs Hamn",
+      "latitude": 55.920057,
+      "longitude": 12.697539
+    },
+    {
+      "name": "Norrebro hamn",
+      "latitude": 56.45616,
+      "longitude": 12.682076
+    },
+    {
+      "name": "Norrfällsviken",
+      "latitude": 62.974746,
+      "longitude": 18.521995
+    },
+    {
+      "name": "Norrhamn",
+      "latitude": 58.768708,
+      "longitude": 17.857593
+    },
+    {
+      "name": "Norrsundets Småbåtshamn",
+      "latitude": 60.930583,
+      "longitude": 17.145177
+    },
+    {
+      "name": "Norrtälje Segelsällskap",
+      "latitude": 59.755114,
+      "longitude": 18.726164
+    },
+    {
+      "name": "Norrtälje SS klubbholme",
+      "latitude": 59.77761,
+      "longitude": 18.994371
+    },
+    {
+      "name": "Norrtäljes Gästhamn",
+      "latitude": 59.756316,
+      "longitude": 18.721893
+    },
+    {
+      "name": "Notholmen",
+      "latitude": 59.054031,
+      "longitude": 17.683417
+    },
+    {
+      "name": "Notholmen",
+      "latitude": 63.565752,
+      "longitude": 19.482923
+    },
+    {
+      "name": "Notvikens båt och hamnförening",
+      "latitude": 65.608993,
+      "longitude": 22.091817
+    },
+    {
+      "name": "NSS Gästhamn",
+      "latitude": 58.890696,
+      "longitude": 17.943738
+    },
+    {
+      "name": "Nya Varvet",
+      "latitude": 57.685711,
+      "longitude": 11.890883
+    },
+    {
+      "name": "Nybrons gästhamn",
+      "latitude": 62.63474,
+      "longitude": 17.938928
+    },
+    {
+      "name": "Nyhamns hamn",
+      "latitude": 56.244294,
+      "longitude": 12.531851
+    },
+    {
+      "name": "Nykvarns varv",
+      "latitude": 59.513349,
+      "longitude": 18.484952
+    },
+    {
+      "name": "Nyströms brygga - Saxemara båtvarv",
+      "latitude": 56.164669,
+      "longitude": 15.234698
+    },
+    {
+      "name": "Nyviks småbåtshamn",
+      "latitude": 62.452538,
+      "longitude": 17.393194
+    },
+    {
+      "name": "Närshamn",
+      "latitude": 57.225302,
+      "longitude": 18.663097
+    },
+    {
+      "name": "Näsbyvikens båtklubb",
+      "latitude": 59.423579,
+      "longitude": 18.081678
+    },
+    {
+      "name": "Näskefjärden",
+      "latitude": 63.155379,
+      "longitude": 18.518628
+    },
+    {
+      "name": "Nässkatan",
+      "latitude": 65.788448,
+      "longitude": 22.890887
+    },
+    {
+      "name": "Nättraby Småbåtshamn",
+      "latitude": 56.191997,
+      "longitude": 15.540812
+    },
+    {
+      "name": "Nåttarö nya gästhamn",
+      "latitude": 58.880906,
+      "longitude": 18.108846
+    },
+    {
+      "name": "Nödinge båtklubb",
+      "latitude": 57.890412,
+      "longitude": 12.040493
+    },
+    {
+      "name": "Nösunds båthamn",
+      "latitude": 58.101918,
+      "longitude": 11.509809
+    },
+    {
+      "name": "Obbola, Umeå Segelsällskap",
+      "latitude": 63.684834,
+      "longitude": 20.302406
+    },
+    {
+      "name": "Ormsandsbrygga",
+      "latitude": 61.536501,
+      "longitude": 17.398186
+    },
+    {
+      "name": "Ornäs Båtklubb",
+      "latitude": 60.508037,
+      "longitude": 15.545515
+    },
+    {
+      "name": "Ornö Kyrkviken",
+      "latitude": 59.051684,
+      "longitude": 18.433298
+    },
+    {
+      "name": "Orrnäsets båtklubb",
+      "latitude": 59.236439,
+      "longitude": 18.315402
+    },
+    {
+      "name": "Orust Marina",
+      "latitude": 58.267549,
+      "longitude": 11.682861
+    },
+    {
+      "name": "Otterbäckens båthamn",
+      "latitude": 58.947075,
+      "longitude": 14.036879
+    },
+    {
+      "name": "Pampas Marina",
+      "latitude": 59.344052,
+      "longitude": 18.006236
+    },
+    {
+      "name": "Pampas Marina / Huges Marina",
+      "latitude": 57.756886,
+      "longitude": 16.650908
+    },
+    {
+      "name": "Patholmsvikens Båtklubb",
+      "latitude": 63.695132,
+      "longitude": 20.361074
+    },
+    {
+      "name": "Petersbergs Båtklubb",
+      "latitude": 59.400869,
+      "longitude": 18.325486
+    },
+    {
+      "name": "Piluddens Båtklubb",
+      "latitude": 59.456421,
+      "longitude": 17.795149
+    },
+    {
+      "name": "Piluddens Båtklubb",
+      "latitude": 59.458494,
+      "longitude": 17.798432
+    },
+    {
+      "name": "Piluddens Båtklubb",
+      "latitude": 59.457487,
+      "longitude": 17.800169
+    },
+    {
+      "name": "Pippans Hamn",
+      "latitude": 59.016623,
+      "longitude": 14.082646
+    },
+    {
+      "name": "Pite Havsbad gästhamn",
+      "latitude": 65.230736,
+      "longitude": 21.535868
+    },
+    {
+      "name": "Preem - Stavsnäs Macken",
+      "latitude": 59.28608,
+      "longitude": 18.704088
+    },
+    {
+      "name": "Preem Båttankstation",
+      "latitude": 56.171479,
+      "longitude": 15.597623
+    },
+    {
+      "name": "Prishamnen",
+      "latitude": 57.666528,
+      "longitude": 11.658573
+    },
+    {
+      "name": "PRO MARINA",
+      "latitude": 59.756844,
+      "longitude": 18.718451
+    },
+    {
+      "name": "Pukavik",
+      "latitude": 56.163154,
+      "longitude": 14.687652
+    },
+    {
+      "name": "Pukulmin venesatama",
+      "latitude": 65.800945,
+      "longitude": 24.157958
+    },
+    {
+      "name": "Puotikarin satama",
+      "latitude": 65.770053,
+      "longitude": 24.144955
+    },
+    {
+      "name": "Qvarsebo båtklubb",
+      "latitude": 58.638048,
+      "longitude": 16.632236
+    },
+    {
+      "name": "Ramdalens båthamn",
+      "latitude": 58.66962,
+      "longitude": 17.070656
+    },
+    {
+      "name": "Rammsjö Hamn",
+      "latitude": 56.384552,
+      "longitude": 12.661884
+    },
+    {
+      "name": "Ramsmora Varv & Marina",
+      "latitude": 59.460613,
+      "longitude": 18.571748
+    },
+    {
+      "name": "Ramsö gästhamn",
+      "latitude": 58.832079,
+      "longitude": 11.066698
+    },
+    {
+      "name": "Rastaholm hamn och varv",
+      "latitude": 59.293392,
+      "longitude": 17.648851
+    },
+    {
+      "name": "Reffelmansviken",
+      "latitude": 61.70963,
+      "longitude": 17.096933
+    },
+    {
+      "name": "Reimers båtsällskap",
+      "latitude": 59.319477,
+      "longitude": 18.018956
+    },
+    {
+      "name": "Resö Gästhamn",
+      "latitude": 58.800481,
+      "longitude": 11.164908
+    },
+    {
+      "name": "Revsudde Hamn",
+      "latitude": 56.776148,
+      "longitude": 16.479916
+    },
+    {
+      "name": "Riddersholm",
+      "latitude": 59.714067,
+      "longitude": 19.047438
+    },
+    {
+      "name": "Rindö Hamn",
+      "latitude": 59.39231,
+      "longitude": 18.436154
+    },
+    {
+      "name": "Ringens varv",
+      "latitude": 57.88833,
+      "longitude": 11.587168
+    },
+    {
+      "name": "Risanäs",
+      "latitude": 56.175815,
+      "longitude": 15.256514
+    },
+    {
+      "name": "Risöns småbåtshamn",
+      "latitude": 65.804337,
+      "longitude": 23.254625
+    },
+    {
+      "name": "Rixö Båtklubb",
+      "latitude": 58.369193,
+      "longitude": 11.448832
+    },
+    {
+      "name": "Rixö Småbåtshamn",
+      "latitude": 58.370497,
+      "longitude": 11.447813
+    },
+    {
+      "name": "Rosenlund",
+      "latitude": 57.701118,
+      "longitude": 11.956045
+    },
+    {
+      "name": "Rossöhamn",
+      "latitude": 58.856389,
+      "longitude": 11.171988
+    },
+    {
+      "name": "Rotsunda Båtklubb",
+      "latitude": 59.479152,
+      "longitude": 17.920469
+    },
+    {
+      "name": "Rovågerns småbåtshamn",
+      "latitude": 63.734137,
+      "longitude": 20.536558
+    },
+    {
+      "name": "Rovögern hamn",
+      "latitude": 63.734414,
+      "longitude": 20.536572
+    },
+    {
+      "name": "Rundvik",
+      "latitude": 63.528397,
+      "longitude": 19.438462
+    },
+    {
+      "name": "Runns SegelSällskap",
+      "latitude": 60.585805,
+      "longitude": 15.683567
+    },
+    {
+      "name": "Rydsnäs Småbåtshamn",
+      "latitude": 57.805999,
+      "longitude": 15.150361
+    },
+    {
+      "name": "Rävön Sundholmens Stugägarförening",
+      "latitude": 59.340085,
+      "longitude": 13.592408
+    },
+    {
+      "name": "Rålambshovs båtklubb",
+      "latitude": 59.326658,
+      "longitude": 18.026519
+    },
+    {
+      "name": "Råssö Båthamn",
+      "latitude": 58.114228,
+      "longitude": 11.660746
+    },
+    {
+      "name": "Råå Hamn",
+      "latitude": 55.990268,
+      "longitude": 12.7403
+    },
+    {
+      "name": "Röds hamn",
+      "latitude": 57.699946,
+      "longitude": 11.640459
+    },
+    {
+      "name": "Rödön/Lindesnäs",
+      "latitude": 58.331582,
+      "longitude": 11.890883
+    },
+    {
+      "name": "Rönnängs småbåtshamn",
+      "latitude": 57.940558,
+      "longitude": 11.578574
+    },
+    {
+      "name": "Rörvik",
+      "latitude": 57.630089,
+      "longitude": 11.878865
+    },
+    {
+      "name": "Rörö gästhamn",
+      "latitude": 57.772117,
+      "longitude": 11.618001
+    },
+    {
+      "name": "Saltsjö Pir",
+      "latitude": 59.295988,
+      "longitude": 18.260613
+    },
+    {
+      "name": "Saltsjö-Dufnäs Marina",
+      "latitude": 59.308132,
+      "longitude": 18.216083
+    },
+    {
+      "name": "Saltskärs Båtklubb",
+      "latitude": 57.663544,
+      "longitude": 11.855294
+    },
+    {
+      "name": "Saltö Fiskhamn Gästhamn",
+      "latitude": 56.163073,
+      "longitude": 15.56973
+    },
+    {
+      "name": "Sanda Båthamn",
+      "latitude": 61.000938,
+      "longitude": 14.573055
+    },
+    {
+      "name": "Sanda Båtsällskap",
+      "latitude": 59.417249,
+      "longitude": 16.981041
+    },
+    {
+      "name": "Sandarne Båtklubb",
+      "latitude": 61.262354,
+      "longitude": 17.158238
+    },
+    {
+      "name": "Sandvik",
+      "latitude": 57.071833,
+      "longitude": 16.85564
+    },
+    {
+      "name": "Sandviken",
+      "latitude": 63.220851,
+      "longitude": 18.914083
+    },
+    {
+      "name": "Sandviken",
+      "latitude": 58.658924,
+      "longitude": 16.395941
+    },
+    {
+      "name": "Sandviks brygga",
+      "latitude": 58.420165,
+      "longitude": 11.425629
+    },
+    {
+      "name": "Sandviks småbåtshamn",
+      "latitude": 57.697597,
+      "longitude": 11.769371
+    },
+    {
+      "name": "Sandö Hamn",
+      "latitude": 57.490346,
+      "longitude": 11.931072
+    },
+    {
+      "name": "Sannegårdshamnen",
+      "latitude": 57.704809,
+      "longitude": 11.926041
+    },
+    {
+      "name": "Sannäs hamn",
+      "latitude": 58.740474,
+      "longitude": 11.245568
+    },
+    {
+      "name": "Segelsällskapet Brunnsviken",
+      "latitude": 59.354288,
+      "longitude": 18.050173
+    },
+    {
+      "name": "Segelsällskapet Gäddviken",
+      "latitude": 59.310866,
+      "longitude": 18.125155
+    },
+    {
+      "name": "Segelsällskapet Hjälmaren",
+      "latitude": 59.320281,
+      "longitude": 15.598902
+    },
+    {
+      "name": "Segelsällskapet Hjälmaren",
+      "latitude": 59.323584,
+      "longitude": 15.595136
+    },
+    {
+      "name": "Selkäsarven Satama",
+      "latitude": 65.615427,
+      "longitude": 24.195216
+    },
+    {
+      "name": "Siaröfortet Gästhamn",
+      "latitude": 59.553915,
+      "longitude": 18.624473
+    },
+    {
+      "name": "Signilskär",
+      "latitude": 60.192596,
+      "longitude": 19.342666
+    },
+    {
+      "name": "Sigtuna båthamn och gästhamn",
+      "latitude": 59.613208,
+      "longitude": 17.71639
+    },
+    {
+      "name": "Simphamn",
+      "latitude": 63.662559,
+      "longitude": 20.23086
+    },
+    {
+      "name": "Simrishamns fritidshamn",
+      "latitude": 55.560059,
+      "longitude": 14.353253
+    },
+    {
+      "name": "Sjöbo",
+      "latitude": 57.847667,
+      "longitude": 14.153216
+    },
+    {
+      "name": "Sjösättningsramp",
+      "latitude": 56.171701,
+      "longitude": 15.598117
+    },
+    {
+      "name": "Sjötorps båthamn",
+      "latitude": 58.837984,
+      "longitude": 13.972421
+    },
+    {
+      "name": "Skallkrokens hamn",
+      "latitude": 56.727537,
+      "longitude": 12.641434
+    },
+    {
+      "name": "Skanörs hamn",
+      "latitude": 55.416459,
+      "longitude": 12.828258
+    },
+    {
+      "name": "Skatan",
+      "latitude": 62.194966,
+      "longitude": 17.50639
+    },
+    {
+      "name": "Skattkärrs båtklubb",
+      "latitude": 59.409984,
+      "longitude": 13.679485
+    },
+    {
+      "name": "Skeatångens hamn",
+      "latitude": 57.200736,
+      "longitude": 12.174945
+    },
+    {
+      "name": "Skebäcks småbåtshamn",
+      "latitude": 59.275622,
+      "longitude": 15.253981
+    },
+    {
+      "name": "Skeppsdals Båthamn",
+      "latitude": 59.492613,
+      "longitude": 18.44944
+    },
+    {
+      "name": "Skeppsviken",
+      "latitude": 58.342689,
+      "longitude": 11.907996
+    },
+    {
+      "name": "Skillinge",
+      "latitude": 55.47431,
+      "longitude": 14.284509
+    },
+    {
+      "name": "Skintebo hamn",
+      "latitude": 57.586314,
+      "longitude": 11.921706
+    },
+    {
+      "name": "Skogsviks Båtklubb",
+      "latitude": 59.408789,
+      "longitude": 18.004719
+    },
+    {
+      "name": "Skurusundets Båtsällskap",
+      "latitude": 59.308856,
+      "longitude": 18.215457
+    },
+    {
+      "name": "Skutviken",
+      "latitude": 59.295958,
+      "longitude": 18.275385
+    },
+    {
+      "name": "Skälarö Brygga",
+      "latitude": 62.499912,
+      "longitude": 17.407937
+    },
+    {
+      "name": "Skärgårdsstadshamnen",
+      "latitude": 59.479797,
+      "longitude": 18.420185
+    },
+    {
+      "name": "Skärhamns gästhamn",
+      "latitude": 57.987816,
+      "longitude": 11.546031
+    },
+    {
+      "name": "Skärhamns småbåtshamn",
+      "latitude": 57.989405,
+      "longitude": 11.54312
+    },
+    {
+      "name": "Skärholmshamnen",
+      "latitude": 59.28503,
+      "longitude": 17.885898
+    },
+    {
+      "name": "Skåre hamn",
+      "latitude": 55.375333,
+      "longitude": 13.053847
+    },
+    {
+      "name": "Slagsta Marina",
+      "latitude": 59.259239,
+      "longitude": 17.85782
+    },
+    {
+      "name": "Slottshamnen",
+      "latitude": 57.63527,
+      "longitude": 18.281492
+    },
+    {
+      "name": "Slottsholmen marina",
+      "latitude": 57.762906,
+      "longitude": 16.645498
+    },
+    {
+      "name": "Slussen",
+      "latitude": 65.780833,
+      "longitude": 23.211528
+    },
+    {
+      "name": "Slättens hamn",
+      "latitude": 57.836373,
+      "longitude": 11.90548
+    },
+    {
+      "name": "Släviks hamn",
+      "latitude": 58.360555,
+      "longitude": 11.368743
+    },
+    {
+      "name": "Smedjebackens hamn",
+      "latitude": 60.138733,
+      "longitude": 15.417967
+    },
+    {
+      "name": "Smygehuk",
+      "latitude": 55.338232,
+      "longitude": 13.358439
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.95821,
+      "longitude": 11.627145
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.432336,
+      "longitude": 11.277235
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.436464,
+      "longitude": 11.287989
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.438677,
+      "longitude": 11.287802
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.326799,
+      "longitude": 11.816525
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.007318,
+      "longitude": 11.69864
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.991675,
+      "longitude": 11.696448
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.330474,
+      "longitude": 12.139917
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.338267,
+      "longitude": 12.130003
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 56.166391,
+      "longitude": 15.827077
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 62.029386,
+      "longitude": 14.354622
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 62.032372,
+      "longitude": 14.371996
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.053554,
+      "longitude": 11.627189
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 55.670071,
+      "longitude": 13.620315
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.376036,
+      "longitude": 11.387473
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.65369,
+      "longitude": 11.264309
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.647965,
+      "longitude": 11.285824
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.436282,
+      "longitude": 12.096591
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.407205,
+      "longitude": 12.031755
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.414992,
+      "longitude": 12.039657
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.376419,
+      "longitude": 12.314998
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.794029,
+      "longitude": 11.844681
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.79792,
+      "longitude": 11.853749
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.781614,
+      "longitude": 11.813621
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.780087,
+      "longitude": 11.811429
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.299394,
+      "longitude": 12.163083
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.647276,
+      "longitude": 11.785225
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.316101,
+      "longitude": 12.145665
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.886745,
+      "longitude": 11.718056
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.877789,
+      "longitude": 11.709121
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.093241,
+      "longitude": 11.730732
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 56.912859,
+      "longitude": 12.39673
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.361931,
+      "longitude": 11.24735
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.711926,
+      "longitude": 11.712743
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.713696,
+      "longitude": 11.712692
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.079566,
+      "longitude": 11.491376
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.486855,
+      "longitude": 11.335171
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.703798,
+      "longitude": 11.931129
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.693995,
+      "longitude": 11.815412
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.573047,
+      "longitude": 11.298597
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.582886,
+      "longitude": 11.2971
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.19265,
+      "longitude": 11.483202
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.338315,
+      "longitude": 12.089104
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.343898,
+      "longitude": 12.10833
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.884379,
+      "longitude": 11.587137
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.384354,
+      "longitude": 12.316738
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.70936,
+      "longitude": 11.684482
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.212334,
+      "longitude": 11.835819
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.178035,
+      "longitude": 11.41973
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.730146,
+      "longitude": 11.721652
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.979596,
+      "longitude": 11.54286
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.901017,
+      "longitude": 11.195307
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.373859,
+      "longitude": 12.024582
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.268174,
+      "longitude": 12.108463
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.227355,
+      "longitude": 12.113833
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.130761,
+      "longitude": 11.421934
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.906826,
+      "longitude": 11.193634
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.909591,
+      "longitude": 11.186486
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 56.547679,
+      "longitude": 12.952209
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.060152,
+      "longitude": 11.674586
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.21488,
+      "longitude": 12.152634
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.673728,
+      "longitude": 11.664
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.611334,
+      "longitude": 11.290549
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 61.725866,
+      "longitude": 17.117807
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.070993,
+      "longitude": 11.488592
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.209109,
+      "longitude": 11.505228
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.418084,
+      "longitude": 11.410985
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.105345,
+      "longitude": 11.505987
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.120907,
+      "longitude": 11.444767
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.106019,
+      "longitude": 11.471267
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.812901,
+      "longitude": 11.735679
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.802528,
+      "longitude": 11.74332
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.804918,
+      "longitude": 11.745299
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.54192,
+      "longitude": 11.243208
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.39484,
+      "longitude": 12.108349
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.693165,
+      "longitude": 11.756454
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 56.651721,
+      "longitude": 16.322578
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.14192,
+      "longitude": 11.832319
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.029446,
+      "longitude": 11.516819
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.305239,
+      "longitude": 11.419019
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.823569,
+      "longitude": 11.717949
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.82951,
+      "longitude": 11.69671
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 57.837671,
+      "longitude": 11.695701
+    },
+    {
+      "name": "Småbåtshamn",
+      "latitude": 58.93015,
+      "longitude": 11.171822
+    },
+    {
+      "name": "Småbåtshamn Kolholmarna/Grötö",
+      "latitude": 58.274071,
+      "longitude": 11.451286
+    },
+    {
+      "name": "Småbåtshamnen",
+      "latitude": 55.586871,
+      "longitude": 12.925814
+    },
+    {
+      "name": "Småbåtshamnen Ivön",
+      "latitude": 56.111634,
+      "longitude": 14.382661
+    },
+    {
+      "name": "Småbåtshamnen Åhus",
+      "latitude": 55.924108,
+      "longitude": 14.302493
+    },
+    {
+      "name": "Småbåtshavn",
+      "latitude": 59.095543,
+      "longitude": 11.222674
+    },
+    {
+      "name": "Småbåtshavn",
+      "latitude": 59.092396,
+      "longitude": 11.235409
+    },
+    {
+      "name": "Småbåtshavn",
+      "latitude": 59.091881,
+      "longitude": 11.226681
+    },
+    {
+      "name": "Smådalarö Gård",
+      "latitude": 59.16604,
+      "longitude": 18.457153
+    },
+    {
+      "name": "Småängsviken",
+      "latitude": 59.227447,
+      "longitude": 18.560979
+    },
+    {
+      "name": "Sollentuna Båtklubb",
+      "latitude": 59.429435,
+      "longitude": 17.964151
+    },
+    {
+      "name": "Sommens Ångbåtsbrygga",
+      "latitude": 58.140291,
+      "longitude": 14.977637
+    },
+    {
+      "name": "Spikarnas hamnområde",
+      "latitude": 62.361909,
+      "longitude": 17.52814
+    },
+    {
+      "name": "Spikens Gästhamn",
+      "latitude": 58.690165,
+      "longitude": 13.201959
+    },
+    {
+      "name": "SS Frams gästhamn",
+      "latitude": 57.710653,
+      "longitude": 11.687842
+    },
+    {
+      "name": "SS Frams gästhamn",
+      "latitude": 57.710677,
+      "longitude": 11.68581
+    },
+    {
+      "name": "SSBK",
+      "latitude": 60.679291,
+      "longitude": 17.17978
+    },
+    {
+      "name": "St Erik Båtklubb",
+      "latitude": 59.335472,
+      "longitude": 18.044142
+    },
+    {
+      "name": "St. Jolpan",
+      "latitude": 59.480877,
+      "longitude": 18.823769
+    },
+    {
+      "name": "Stabergs Båtklubb",
+      "latitude": 60.564189,
+      "longitude": 15.769346
+    },
+    {
+      "name": "Stallarholmen Marina",
+      "latitude": 59.364545,
+      "longitude": 17.210746
+    },
+    {
+      "name": "Stallmästaregårdens båtsällskap",
+      "latitude": 59.353374,
+      "longitude": 18.046336
+    },
+    {
+      "name": "Stegeborgs Båthamn",
+      "latitude": 58.440006,
+      "longitude": 16.602492
+    },
+    {
+      "name": "Stenfatshamnen",
+      "latitude": 59.139071,
+      "longitude": 18.396166
+    },
+    {
+      "name": "Steninge Marina",
+      "latitude": 59.601048,
+      "longitude": 17.77988
+    },
+    {
+      "name": "Stensjö hamn",
+      "latitude": 56.793072,
+      "longitude": 12.611443
+    },
+    {
+      "name": "Stenungsunds gästhamn",
+      "latitude": 58.069744,
+      "longitude": 11.816158
+    },
+    {
+      "name": "Stenviks båthamn",
+      "latitude": 62.367036,
+      "longitude": 17.406631
+    },
+    {
+      "name": "Stenö Båtklubb",
+      "latitude": 61.249671,
+      "longitude": 17.183322
+    },
+    {
+      "name": "Sticklinge Udde Båtklubb",
+      "latitude": 59.390886,
+      "longitude": 18.10408
+    },
+    {
+      "name": "Sticksjö hamn",
+      "latitude": 59.293529,
+      "longitude": 15.453441
+    },
+    {
+      "name": "Stocka Gästhamn",
+      "latitude": 61.897203,
+      "longitude": 17.347307
+    },
+    {
+      "name": "Stockens gästhamn",
+      "latitude": 58.150373,
+      "longitude": 11.413443
+    },
+    {
+      "name": "Stockeviks småbåtshamn",
+      "latitude": 58.235551,
+      "longitude": 11.430316
+    },
+    {
+      "name": "Stockholms kajakklubb",
+      "latitude": 59.326636,
+      "longitude": 18.025883
+    },
+    {
+      "name": "Stockholms segelklubb",
+      "latitude": 59.332071,
+      "longitude": 17.996425
+    },
+    {
+      "name": "Stockholms Segelsällskap, Tranebergshamnen",
+      "latitude": 59.33624,
+      "longitude": 17.991683
+    },
+    {
+      "name": "Stocksundshamn",
+      "latitude": 59.38063,
+      "longitude": 18.05055
+    },
+    {
+      "name": "Stora Dyrön, Nordhamnen",
+      "latitude": 57.929931,
+      "longitude": 11.601735
+    },
+    {
+      "name": "Stora Dyrön, Sydhamnen",
+      "latitude": 57.926058,
+      "longitude": 11.618647
+    },
+    {
+      "name": "Stora Enen",
+      "latitude": 57.404572,
+      "longitude": 12.030596
+    },
+    {
+      "name": "Stora Kornö småbåtshamn",
+      "latitude": 58.303567,
+      "longitude": 11.375898
+    },
+    {
+      "name": "Stora Rörs hamn",
+      "latitude": 56.755905,
+      "longitude": 16.526921
+    },
+    {
+      "name": "Storfors småbåtshamn",
+      "latitude": 59.529865,
+      "longitude": 14.260045
+    },
+    {
+      "name": "Storholmen kanonön",
+      "latitude": 62.34345,
+      "longitude": 17.551816
+    },
+    {
+      "name": "Stortorpsbrygga",
+      "latitude": 59.238794,
+      "longitude": 18.141945
+    },
+    {
+      "name": "Storumans båtklubb",
+      "latitude": 65.099163,
+      "longitude": 17.109381
+    },
+    {
+      "name": "Storöns Gästbrygga",
+      "latitude": 58.934245,
+      "longitude": 13.996055
+    },
+    {
+      "name": "Strana",
+      "latitude": 63.835025,
+      "longitude": 20.49029
+    },
+    {
+      "name": "Strandbryggan Sea Club",
+      "latitude": 59.33138,
+      "longitude": 18.092519
+    },
+    {
+      "name": "Strandhamnens Marina",
+      "latitude": 60.588769,
+      "longitude": 15.677089
+    },
+    {
+      "name": "Strängnäs Gästhamn",
+      "latitude": 59.378124,
+      "longitude": 17.027341
+    },
+    {
+      "name": "Strömsborgs båtklubb",
+      "latitude": 59.169846,
+      "longitude": 17.408902
+    },
+    {
+      "name": "Strömstad Gästhamn",
+      "latitude": 58.936427,
+      "longitude": 11.169195
+    },
+    {
+      "name": "Strömstad Marina",
+      "latitude": 58.941889,
+      "longitude": 11.164373
+    },
+    {
+      "name": "Strömören",
+      "latitude": 65.54884,
+      "longitude": 22.235226
+    },
+    {
+      "name": "Stuvö hamn",
+      "latitude": 57.736779,
+      "longitude": 11.65616
+    },
+    {
+      "name": "Styrsö Bratten",
+      "latitude": 57.61519,
+      "longitude": 11.797214
+    },
+    {
+      "name": "Styrsö Sandvikshamn",
+      "latitude": 57.617552,
+      "longitude": 11.76213
+    },
+    {
+      "name": "Styrsö Tången",
+      "latitude": 57.621076,
+      "longitude": 11.773896
+    },
+    {
+      "name": "Styrsö Tången",
+      "latitude": 57.621226,
+      "longitude": 11.768485
+    },
+    {
+      "name": "Stäket Marina",
+      "latitude": 59.489514,
+      "longitude": 17.796721
+    },
+    {
+      "name": "Stäkets Motorbåtssällskap",
+      "latitude": 59.471165,
+      "longitude": 17.793098
+    },
+    {
+      "name": "Stäkets Motorbåtssällskap",
+      "latitude": 59.470866,
+      "longitude": 17.794524
+    },
+    {
+      "name": "Stäkets Motorbåtssällskap",
+      "latitude": 59.470335,
+      "longitude": 17.794765
+    },
+    {
+      "name": "Stärnö Gästhamn",
+      "latitude": 56.145868,
+      "longitude": 14.857016
+    },
+    {
+      "name": "Stångholmesunds småbåtshamn",
+      "latitude": 58.267619,
+      "longitude": 11.421044
+    },
+    {
+      "name": "Sundbybergs båtklubb",
+      "latitude": 59.363044,
+      "longitude": 17.95708
+    },
+    {
+      "name": "Sundbyholm gästhamn",
+      "latitude": 59.447844,
+      "longitude": 16.626663
+    },
+    {
+      "name": "Sundsvall Njurunda Båtklubb",
+      "latitude": 62.328439,
+      "longitude": 17.392553
+    },
+    {
+      "name": "Sundsvalls Cityhamn",
+      "latitude": 62.389077,
+      "longitude": 17.320974
+    },
+    {
+      "name": "Sundsvalls gästhamn",
+      "latitude": 62.389488,
+      "longitude": 17.319768
+    },
+    {
+      "name": "Sundsvalls småbåtshamn",
+      "latitude": 62.394381,
+      "longitude": 17.34917
+    },
+    {
+      "name": "Sune Carlsons båtvarv",
+      "latitude": 59.294777,
+      "longitude": 18.292235
+    },
+    {
+      "name": "Sunnansjö hamn",
+      "latitude": 60.213153,
+      "longitude": 14.961859
+    },
+    {
+      "name": "Sunnanå gästhamn",
+      "latitude": 58.707159,
+      "longitude": 12.508963
+    },
+    {
+      "name": "Sunne Gästhamn",
+      "latitude": 59.838633,
+      "longitude": 13.146171
+    },
+    {
+      "name": "Svanholmens marina",
+      "latitude": 59.381067,
+      "longitude": 18.083706
+    },
+    {
+      "name": "Svanshalls Hamn",
+      "latitude": 56.252528,
+      "longitude": 12.661958
+    },
+    {
+      "name": "Svanviks Båtklubb",
+      "latitude": 58.11091,
+      "longitude": 11.670362
+    },
+    {
+      "name": "Svartö Hamn",
+      "latitude": 57.085841,
+      "longitude": 16.572513
+    },
+    {
+      "name": "Svedåns hamn",
+      "latitude": 58.022151,
+      "longitude": 14.176376
+    },
+    {
+      "name": "Svenska Sjöräddningssällskapet",
+      "latitude": 60.67983,
+      "longitude": 17.184086
+    },
+    {
+      "name": "Svindersvikens båtklubb",
+      "latitude": 59.310547,
+      "longitude": 18.122498
+    },
+    {
+      "name": "Svinholmens marina",
+      "latitude": 57.464063,
+      "longitude": 12.071368
+    },
+    {
+      "name": "Svinninge Marina",
+      "latitude": 59.457844,
+      "longitude": 18.278456
+    },
+    {
+      "name": "Svinnäs Marina",
+      "latitude": 58.688359,
+      "longitude": 11.254689
+    },
+    {
+      "name": "Svinöra",
+      "latitude": 65.330838,
+      "longitude": 21.656788
+    },
+    {
+      "name": "SXK Uthamn Norrviken",
+      "latitude": 59.271937,
+      "longitude": 18.727423
+    },
+    {
+      "name": "Säbyvikens Marina",
+      "latitude": 59.437575,
+      "longitude": 18.224105
+    },
+    {
+      "name": "Säffle gästhamn",
+      "latitude": 59.127729,
+      "longitude": 12.923705
+    },
+    {
+      "name": "Säljö Brygga Gästhamn",
+      "latitude": 56.156742,
+      "longitude": 15.675937
+    },
+    {
+      "name": "Säters Båtklubb",
+      "latitude": 60.339798,
+      "longitude": 15.738954
+    },
+    {
+      "name": "Sätra varv",
+      "latitude": 59.293922,
+      "longitude": 17.907914
+    },
+    {
+      "name": "Sätra varv",
+      "latitude": 59.294347,
+      "longitude": 17.912527
+    },
+    {
+      "name": "Sågstens småbåtshamn",
+      "latitude": 58.835721,
+      "longitude": 17.871118
+    },
+    {
+      "name": "Såtenäs Båtklubb",
+      "latitude": 58.447629,
+      "longitude": 12.693064
+    },
+    {
+      "name": "Söder Långholm",
+      "latitude": 59.480616,
+      "longitude": 18.831829
+    },
+    {
+      "name": "Söderbärkes hamn",
+      "latitude": 60.070751,
+      "longitude": 15.564571
+    },
+    {
+      "name": "Söderköping",
+      "latitude": 58.482456,
+      "longitude": 16.324093
+    },
+    {
+      "name": "Södermalms båtklubb",
+      "latitude": 59.317571,
+      "longitude": 18.025973
+    },
+    {
+      "name": "Södermalms båtklubb",
+      "latitude": 59.318919,
+      "longitude": 18.027279
+    },
+    {
+      "name": "Södertälje Båtklubb",
+      "latitude": 59.208562,
+      "longitude": 17.612285
+    },
+    {
+      "name": "Södertälje Båtsällskap SBS",
+      "latitude": 59.162149,
+      "longitude": 17.651447
+    },
+    {
+      "name": "Södra hamn",
+      "latitude": 65.579815,
+      "longitude": 22.151941
+    },
+    {
+      "name": "Södra Hamn",
+      "latitude": 65.315569,
+      "longitude": 21.471469
+    },
+    {
+      "name": "Södra Hamnen",
+      "latitude": 57.137229,
+      "longitude": 12.218279
+    },
+    {
+      "name": "Södra Hamnen",
+      "latitude": 58.348576,
+      "longitude": 11.928538
+    },
+    {
+      "name": "Södra Kuddalsviken Båtplats",
+      "latitude": 59.661338,
+      "longitude": 18.602171
+    },
+    {
+      "name": "Södra Skeppbrons Båtklubb",
+      "latitude": 60.679291,
+      "longitude": 17.17978
+    },
+    {
+      "name": "Sölje Brygga",
+      "latitude": 59.488974,
+      "longitude": 12.69561
+    },
+    {
+      "name": "Sölvesborgs innerhamn",
+      "latitude": 56.051468,
+      "longitude": 14.590976
+    },
+    {
+      "name": "Söråkers småbåtshamn",
+      "latitude": 62.499097,
+      "longitude": 17.498217
+    },
+    {
+      "name": "Talluddens båtsällskap",
+      "latitude": 59.35474,
+      "longitude": 18.233821
+    },
+    {
+      "name": "Talluddens båtsällskap",
+      "latitude": 59.353654,
+      "longitude": 18.233509
+    },
+    {
+      "name": "Tanumstrand gästhamn",
+      "latitude": 58.673583,
+      "longitude": 11.26161
+    },
+    {
+      "name": "Timmernabben",
+      "latitude": 56.967742,
+      "longitude": 16.444813
+    },
+    {
+      "name": "Tjusviks hamn",
+      "latitude": 59.203184,
+      "longitude": 18.687316
+    },
+    {
+      "name": "Tjuvkils hamn",
+      "latitude": 57.899211,
+      "longitude": 11.713227
+    },
+    {
+      "name": "Tjörnekalvs gästhamn",
+      "latitude": 57.935652,
+      "longitude": 11.571822
+    },
+    {
+      "name": "Tollare Marina",
+      "latitude": 59.299952,
+      "longitude": 18.232268
+    },
+    {
+      "name": "Toppgatans Bryggförening",
+      "latitude": 65.582565,
+      "longitude": 22.180709
+    },
+    {
+      "name": "Torekovs hamn",
+      "latitude": 56.427885,
+      "longitude": 12.625671
+    },
+    {
+      "name": "Torshälla hamn",
+      "latitude": 59.427094,
+      "longitude": 16.47248
+    },
+    {
+      "name": "Torslanda Lagun",
+      "latitude": 57.700202,
+      "longitude": 11.783788
+    },
+    {
+      "name": "Torviks båtklubb",
+      "latitude": 59.369374,
+      "longitude": 18.117936
+    },
+    {
+      "name": "Tre kronor",
+      "latitude": 59.338923,
+      "longitude": 18.024335
+    },
+    {
+      "name": "Trosa hamn",
+      "latitude": 58.889956,
+      "longitude": 17.552707
+    },
+    {
+      "name": "Trälhavets Båtklubb",
+      "latitude": 59.472573,
+      "longitude": 18.289235
+    },
+    {
+      "name": "Trälhavets Båtklubb",
+      "latitude": 59.463571,
+      "longitude": 18.320561
+    },
+    {
+      "name": "Träslövsläges småbåtshamn",
+      "latitude": 57.057184,
+      "longitude": 12.270189
+    },
+    {
+      "name": "Tullinge Båtsälskap",
+      "latitude": 59.203311,
+      "longitude": 17.875553
+    },
+    {
+      "name": "Turbinhamnen",
+      "latitude": 55.609528,
+      "longitude": 12.974153
+    },
+    {
+      "name": "Turebergs Båtklubb",
+      "latitude": 59.433997,
+      "longitude": 17.957192
+    },
+    {
+      "name": "Tyresö Båtklubb & Trollbäckens Båtsällskap",
+      "latitude": 59.21477,
+      "longitude": 18.312847
+    },
+    {
+      "name": "Tyresö Strands Båtklubb",
+      "latitude": 59.25611,
+      "longitude": 18.279168
+    },
+    {
+      "name": "Tyresö Strands Båtklubb",
+      "latitude": 59.255868,
+      "longitude": 18.27807
+    },
+    {
+      "name": "Tyrislöt hamn",
+      "latitude": 58.321198,
+      "longitude": 16.897354
+    },
+    {
+      "name": "Tällbergs Båthamn",
+      "latitude": 60.828141,
+      "longitude": 14.977724
+    },
+    {
+      "name": "Täppbryggan",
+      "latitude": 59.080526,
+      "longitude": 18.383251
+    },
+    {
+      "name": "Tärnö gästhamn",
+      "latitude": 56.121407,
+      "longitude": 14.964174
+    },
+    {
+      "name": "Tärnö Naturhamn",
+      "latitude": 56.12177,
+      "longitude": 14.974574
+    },
+    {
+      "name": "Tången",
+      "latitude": 57.161922,
+      "longitude": 12.216299
+    },
+    {
+      "name": "Tånguddens båthamn",
+      "latitude": 57.681045,
+      "longitude": 11.872651
+    },
+    {
+      "name": "Tånnö båthamn",
+      "latitude": 57.094853,
+      "longitude": 14.039249
+    },
+    {
+      "name": "Törnbyviken",
+      "latitude": 59.32514,
+      "longitude": 17.70162
+    },
+    {
+      "name": "Uddevalla Motorbåtsklubb",
+      "latitude": 58.304594,
+      "longitude": 11.803265
+    },
+    {
+      "name": "Ulebergshamns småbåtshamn",
+      "latitude": 58.454461,
+      "longitude": 11.298622
+    },
+    {
+      "name": "Ulvesunds Hamn",
+      "latitude": 58.219309,
+      "longitude": 11.885465
+    },
+    {
+      "name": "Ulvsunda Båtsällskap",
+      "latitude": 59.340417,
+      "longitude": 17.97033
+    },
+    {
+      "name": "UMS",
+      "latitude": 59.785679,
+      "longitude": 17.621841
+    },
+    {
+      "name": "Upplands Väsby Båtsällskap ?",
+      "latitude": 59.527451,
+      "longitude": 17.839518
+    },
+    {
+      "name": "Uppsala gästhamn",
+      "latitude": 59.852685,
+      "longitude": 17.644475
+    },
+    {
+      "name": "USS",
+      "latitude": 59.782467,
+      "longitude": 17.630338
+    },
+    {
+      "name": "Utö gästhamn",
+      "latitude": 58.969901,
+      "longitude": 18.322746
+    },
+    {
+      "name": "Uvmarö Hamn i Sankt Anna",
+      "latitude": 58.323936,
+      "longitude": 16.838171
+    },
+    {
+      "name": "Vadviken",
+      "latitude": 59.138789,
+      "longitude": 18.419759
+    },
+    {
+      "name": "Valbodalen småbåtshamn",
+      "latitude": 58.289312,
+      "longitude": 11.434425
+    },
+    {
+      "name": "Varbergs Innerhamn",
+      "latitude": 57.111074,
+      "longitude": 12.242131
+    },
+    {
+      "name": "Varvet i Sjöhed",
+      "latitude": 57.80944,
+      "longitude": 11.864052
+    },
+    {
+      "name": "Vaverön gäst port",
+      "latitude": 60.829594,
+      "longitude": 14.874284
+    },
+    {
+      "name": "Vegabackens Båtklubb",
+      "latitude": 59.391304,
+      "longitude": 18.405725
+    },
+    {
+      "name": "Vejbystrands hamn",
+      "latitude": 56.315837,
+      "longitude": 12.761629
+    },
+    {
+      "name": "Velamsunds båtklubb",
+      "latitude": 59.348161,
+      "longitude": 18.324677
+    },
+    {
+      "name": "Viaredssjöns Segelklubb",
+      "latitude": 57.707382,
+      "longitude": 12.788883
+    },
+    {
+      "name": "Viggbyholms båthamn",
+      "latitude": 59.435272,
+      "longitude": 18.11175
+    },
+    {
+      "name": "Viggeby BåtKlubb",
+      "latitude": 58.207856,
+      "longitude": 15.652322
+    },
+    {
+      "name": "Vika Båtklubb",
+      "latitude": 60.512394,
+      "longitude": 15.71591
+    },
+    {
+      "name": "Vikarby Båtklubb",
+      "latitude": 60.906764,
+      "longitude": 15.035033
+    },
+    {
+      "name": "Vikens Båtklubb",
+      "latitude": 57.746424,
+      "longitude": 11.744578
+    },
+    {
+      "name": "Vikens Hamn",
+      "latitude": 56.142049,
+      "longitude": 12.57828
+    },
+    {
+      "name": "Vikhögs gästhamn",
+      "latitude": 55.727667,
+      "longitude": 12.957736
+    },
+    {
+      "name": "Vikingarnas Segelsällskap",
+      "latitude": 59.327779,
+      "longitude": 18.15379
+    },
+    {
+      "name": "Viksjö Båtklubb",
+      "latitude": 59.415856,
+      "longitude": 17.763151
+    },
+    {
+      "name": "Vindhem",
+      "latitude": 62.355355,
+      "longitude": 17.426159
+    },
+    {
+      "name": "Vindö Marin",
+      "latitude": 58.303692,
+      "longitude": 11.697556
+    },
+    {
+      "name": "Vindöns gästhamn",
+      "latitude": 58.298099,
+      "longitude": 11.687958
+    },
+    {
+      "name": "Vinga gästhamn",
+      "latitude": 57.631387,
+      "longitude": 11.608627
+    },
+    {
+      "name": "Virveln",
+      "latitude": 63.301008,
+      "longitude": 14.469954
+    },
+    {
+      "name": "Vivstavarv",
+      "latitude": 62.491193,
+      "longitude": 17.356464
+    },
+    {
+      "name": "Vrångebäcks brygga",
+      "latitude": 58.425636,
+      "longitude": 11.432366
+    },
+    {
+      "name": "Vrångö hamn",
+      "latitude": 57.574857,
+      "longitude": 11.775886
+    },
+    {
+      "name": "Väbynäs Marina",
+      "latitude": 56.164204,
+      "longitude": 15.127374
+    },
+    {
+      "name": "Väjerns gästhamn",
+      "latitude": 58.380414,
+      "longitude": 11.260286
+    },
+    {
+      "name": "Västerbrohamnen",
+      "latitude": 59.326063,
+      "longitude": 18.025665
+    },
+    {
+      "name": "Västerhammen",
+      "latitude": 59.40104,
+      "longitude": 18.351979
+    },
+    {
+      "name": "Västermalms båtklubb",
+      "latitude": 59.338934,
+      "longitude": 18.019956
+    },
+    {
+      "name": "Västhamn",
+      "latitude": 61.060032,
+      "longitude": 17.268341
+    },
+    {
+      "name": "Västra kajen",
+      "latitude": 65.314271,
+      "longitude": 21.469801
+    },
+    {
+      "name": "Västra Näs",
+      "latitude": 56.023483,
+      "longitude": 14.583591
+    },
+    {
+      "name": "Västra Sveavikens Hamn",
+      "latitude": 59.388457,
+      "longitude": 18.084177
+    },
+    {
+      "name": "Vårby Nautiska Sällskap",
+      "latitude": 59.251835,
+      "longitude": 17.872314
+    },
+    {
+      "name": "Wasahamnen",
+      "latitude": 59.326275,
+      "longitude": 18.093553
+    },
+    {
+      "name": "Wifstavarfs gästhamn",
+      "latitude": 62.490738,
+      "longitude": 17.356797
+    },
+    {
+      "name": "Wik Inn",
+      "latitude": 58.962496,
+      "longitude": 17.985661
+    },
+    {
+      "name": "Yamaha Center",
+      "latitude": 59.458037,
+      "longitude": 17.797985
+    },
+    {
+      "name": "Ystad Marina",
+      "latitude": 55.425837,
+      "longitude": 13.814469
+    },
+    {
+      "name": "Yttre hamnen",
+      "latitude": 59.073824,
+      "longitude": 18.38127
+    },
+    {
+      "name": "Yttre Saltholmen",
+      "latitude": 57.660268,
+      "longitude": 11.837268
+    },
+    {
+      "name": "Älvängens Båtklubb",
+      "latitude": 57.950138,
+      "longitude": 12.094766
+    },
+    {
+      "name": "Ängby båtklubb",
+      "latitude": 59.33695,
+      "longitude": 17.892884
+    },
+    {
+      "name": "Ängelholms föreningshamn",
+      "latitude": 56.269018,
+      "longitude": 12.839131
+    },
+    {
+      "name": "Ängholmens Varv",
+      "latitude": 57.665619,
+      "longitude": 11.843018
+    },
+    {
+      "name": "Ängsviks Båtsällskap",
+      "latitude": 59.235278,
+      "longitude": 18.536437
+    },
+    {
+      "name": "ÅDBK",
+      "latitude": 59.304384,
+      "longitude": 18.045637
+    },
+    {
+      "name": "Åkerängsta brygga",
+      "latitude": 60.55249,
+      "longitude": 15.125299
+    },
+    {
+      "name": "Ålabodarnas hamn",
+      "latitude": 55.939771,
+      "longitude": 12.772378
+    },
+    {
+      "name": "Ålstens Båtsällskap",
+      "latitude": 59.319482,
+      "longitude": 17.94225
+    },
+    {
+      "name": "Åmmebergsbåtklubb",
+      "latitude": 58.861719,
+      "longitude": 14.994203
+    },
+    {
+      "name": "Åmåls gästhamn",
+      "latitude": 59.054518,
+      "longitude": 12.710277
+    },
+    {
+      "name": "Åre marina",
+      "latitude": 63.394187,
+      "longitude": 13.087475
+    },
+    {
+      "name": "Årjängs båtsällskap",
+      "latitude": 59.380915,
+      "longitude": 12.121667
+    },
+    {
+      "name": "Årsta Gårds Båtsällskap",
+      "latitude": 59.304443,
+      "longitude": 18.044556
+    },
+    {
+      "name": "Årsta motorbåtklubb",
+      "latitude": 59.31039,
+      "longitude": 18.04177
+    },
+    {
+      "name": "Årstadals Båtklubb",
+      "latitude": 59.304043,
+      "longitude": 18.04559
+    },
+    {
+      "name": "Årstadals Båtklubb",
+      "latitude": 59.303648,
+      "longitude": 18.048329
+    },
+    {
+      "name": "Årstalundens båtklubb",
+      "latitude": 59.306864,
+      "longitude": 18.057223
+    },
+    {
+      "name": "Årstavikens segelsällskap",
+      "latitude": 59.304275,
+      "longitude": 18.068364
+    },
+    {
+      "name": "Åstols Hamn",
+      "latitude": 57.924074,
+      "longitude": 11.587563
+    },
+    {
+      "name": "Åsättra brygga",
+      "latitude": 59.50475,
+      "longitude": 18.638076
+    },
+    {
+      "name": "Öbacka småbåtshamn",
+      "latitude": 63.818414,
+      "longitude": 20.283495
+    },
+    {
+      "name": "Öbacka småbåtshamn",
+      "latitude": 63.815594,
+      "longitude": 20.290253
+    },
+    {
+      "name": "ÖBK Klubbholmen",
+      "latitude": 60.291285,
+      "longitude": 18.604991
+    },
+    {
+      "name": "ÖBS Klubbhamn",
+      "latitude": 57.725145,
+      "longitude": 11.651754
+    },
+    {
+      "name": "Öckerö Hamn",
+      "latitude": 57.705967,
+      "longitude": 11.662001
+    },
+    {
+      "name": "Öna marina",
+      "latitude": 61.017388,
+      "longitude": 14.520412
+    },
+    {
+      "name": "Önnereds Båtförening",
+      "latitude": 57.63847,
+      "longitude": 11.869074
+    },
+    {
+      "name": "Önnereds Båtlag",
+      "latitude": 57.636182,
+      "longitude": 11.872737
+    },
+    {
+      "name": "Önneredsvikens Marina",
+      "latitude": 57.636569,
+      "longitude": 11.871107
+    },
+    {
+      "name": "Örnsbergs båtklubb",
+      "latitude": 59.30888,
+      "longitude": 17.982394
+    },
+    {
+      "name": "Örnsköldsviks gästhamn",
+      "latitude": 63.286954,
+      "longitude": 18.710835
+    },
+    {
+      "name": "Örnsköldsviks SegelSällskap",
+      "latitude": 63.28393,
+      "longitude": 18.730658
+    },
+    {
+      "name": "Örskärs hamn",
+      "latitude": 60.518878,
+      "longitude": 18.372402
+    },
+    {
+      "name": "Örsundsbro båtklubb",
+      "latitude": 59.736559,
+      "longitude": 17.31419
+    },
+    {
+      "name": "Örsviken",
+      "latitude": 57.560583,
+      "longitude": 11.927312
+    },
+    {
+      "name": "Österhamnen",
+      "latitude": 59.403288,
+      "longitude": 18.355677
+    },
+    {
+      "name": "Österhaninge Båtklubb",
+      "latitude": 59.094373,
+      "longitude": 18.277433
+    },
+    {
+      "name": "Östersunds hamn",
+      "latitude": 63.176196,
+      "longitude": 14.630264
+    },
+    {
+      "name": "Östersviken",
+      "latitude": 58.653852,
+      "longitude": 17.113564
+    },
+    {
+      "name": "Östervallskogs hamn",
+      "latitude": 59.639492,
+      "longitude": 11.865712
+    },
+    {
+      "name": "Östhamn",
+      "latitude": 61.056523,
+      "longitude": 17.282803
+    },
+    {
+      "name": "Östra Torsö",
+      "latitude": 55.999299,
+      "longitude": 14.648839
+    }
+  ],
+  "meta": {
+    "title": "Småbåtshamnar (Marinas) - Gratis nedladdning",
+    "description": "Småbåtshamnar i Sverige — OpenStreetMap-punktdata (OSM-tagg: leisure=marina). Swedish marinas as named point locations with WGS84 coordinates. 1023 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 1023 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Småbåtshamnar (Marinas) | ListBase",
+    "seo_description": "Ladda ner Småbåtshamnar (Marinas) — 1023 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 1023 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

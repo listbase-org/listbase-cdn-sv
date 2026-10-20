@@ -1,0 +1,169 @@
+{
+  "id": "sv-orebro-kommuner",
+  "name": "Kommuner i Örebro län",
+  "title": "Kommuner i Örebro län",
+  "description": "12 kommuner i Örebro län (länskod 18, ISO SE-T , residensstad Örebro). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "1814",
+      "name": "Lekebergs kommun",
+      "name_short": "Lekeberg",
+      "slug": "lekeberg",
+      "locality": "FJUGESTA",
+      "url": "http://www.lekeberg.se",
+      "num_postnummer": 301
+    },
+    {
+      "kommunkod": "1860",
+      "name": "Laxå kommun",
+      "name_short": "Laxå",
+      "slug": "laxa",
+      "locality": "LAXÅ",
+      "url": "http://www.laxa.se",
+      "num_postnummer": 71
+    },
+    {
+      "kommunkod": "1861",
+      "name": "Hallsbergs kommun",
+      "name_short": "Hallsberg",
+      "slug": "hallsberg",
+      "locality": "HALLSBERG",
+      "url": "http://www.hallsberg.se",
+      "num_postnummer": 114
+    },
+    {
+      "kommunkod": "1862",
+      "name": "Degerfors kommun",
+      "name_short": "Degerfors",
+      "slug": "degerfors",
+      "locality": "DEGERFORS",
+      "url": "http://www.degerfors.se",
+      "num_postnummer": 130
+    },
+    {
+      "kommunkod": "1863",
+      "name": "Hällefors kommun",
+      "name_short": "Hällefors",
+      "slug": "hallefors",
+      "locality": "HÄLLEFORS",
+      "url": "http://www.hellefors.se",
+      "num_postnummer": 137
+    },
+    {
+      "kommunkod": "1864",
+      "name": "Ljusnarsbergs kommun",
+      "name_short": "Ljusnarsberg",
+      "slug": "ljusnarsberg",
+      "locality": "KOPPARBERG",
+      "url": "http://www.ljusnarsberg.se",
+      "num_postnummer": 70
+    },
+    {
+      "kommunkod": "1880",
+      "name": "Örebro kommun",
+      "name_short": "Örebro",
+      "slug": "orebro",
+      "locality": "ÖREBRO",
+      "url": "http://www.orebro.se",
+      "num_postnummer": 390
+    },
+    {
+      "kommunkod": "1881",
+      "name": "Kumla kommun",
+      "name_short": "Kumla",
+      "slug": "kumla",
+      "locality": "KUMLA",
+      "url": "http://www.kumla.se",
+      "num_postnummer": 252
+    },
+    {
+      "kommunkod": "1882",
+      "name": "Askersunds kommun",
+      "name_short": "Askersund",
+      "slug": "askersund",
+      "locality": "ASKERSUND",
+      "url": "http://www.askersund.se",
+      "num_postnummer": 142
+    },
+    {
+      "kommunkod": "1883",
+      "name": "Karlskoga kommun",
+      "name_short": "Karlskoga",
+      "slug": "karlskoga",
+      "locality": "KARLSKOGA",
+      "url": "http://www.karlskoga.se",
+      "num_postnummer": 85
+    },
+    {
+      "kommunkod": "1884",
+      "name": "Nora kommun",
+      "name_short": "Nora",
+      "slug": "nora",
+      "locality": "NORA",
+      "url": "http://www.nora.se",
+      "num_postnummer": 276
+    },
+    {
+      "kommunkod": "1885",
+      "name": "Lindesbergs kommun",
+      "name_short": "Lindesberg",
+      "slug": "lindesberg",
+      "locality": "LINDESBERG",
+      "url": "http://www.lindesberg.se",
+      "num_postnummer": 205
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Örebro län - Gratis nedladdning",
+    "description": "12 kommuner i Örebro län (länskod 18, ISO SE-T , residensstad Örebro). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 12 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Örebro län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Örebro län — 12 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 12 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,9928 @@
+{
+  "id": "sv-socknar",
+  "name": "Socknar i Sverige",
+  "title": "Socknar i Sverige",
+  "description": "Sveriges socknar (historiska kyrkliga/administrativa indelningar). Deduplicerad lista (källan har flera geometridelar per socken) med sockenkod och namn. Källa: Lantmäteriet via swemapdata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2473,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "1431",
+      "name": "Abild"
+    },
+    {
+      "code": "1844",
+      "name": "Acklinga"
+    },
+    {
+      "code": "1",
+      "name": "Adelsö"
+    },
+    {
+      "code": "558",
+      "name": "Adelöv"
+    },
+    {
+      "code": "1845",
+      "name": "Agnetorp"
+    },
+    {
+      "code": "693",
+      "name": "Agunnaryd"
+    },
+    {
+      "code": "892",
+      "name": "Akebäck"
+    },
+    {
+      "code": "893",
+      "name": "Ala"
+    },
+    {
+      "code": "2516",
+      "name": "Alanäs"
+    },
+    {
+      "code": "1623",
+      "name": "Alboga"
+    },
+    {
+      "code": "783",
+      "name": "Alböke"
+    },
+    {
+      "code": "1624",
+      "name": "Ale-Skövde"
+    },
+    {
+      "code": "1432",
+      "name": "Alfshög"
+    },
+    {
+      "code": "2394",
+      "name": "Alfta"
+    },
+    {
+      "code": "784",
+      "name": "Algutsboda"
+    },
+    {
+      "code": "785",
+      "name": "Algutsrum"
+    },
+    {
+      "code": "1625",
+      "name": "Algutstorp"
+    },
+    {
+      "code": "1626",
+      "name": "Alingsås"
+    },
+    {
+      "code": "4121",
+      "name": "Alingsås"
+    },
+    {
+      "code": "1173",
+      "name": "Allerum"
+    },
+    {
+      "code": "398",
+      "name": "Allhelgona"
+    },
+    {
+      "code": "559",
+      "name": "Almesåkra"
+    },
+    {
+      "code": "694",
+      "name": "Almundsryd"
+    },
+    {
+      "code": "200",
+      "name": "Almunge"
+    },
+    {
+      "code": "2448",
+      "name": "Alnö"
+    },
+    {
+      "code": "560",
+      "name": "Alseda"
+    },
+    {
+      "code": "2517",
+      "name": "Alsen"
+    },
+    {
+      "code": "201",
+      "name": "Alsike"
+    },
+    {
+      "code": "894",
+      "name": "Alskog"
+    },
+    {
+      "code": "2115",
+      "name": "Alster"
+    },
+    {
+      "code": "202",
+      "name": "Altuna"
+    },
+    {
+      "code": "203",
+      "name": "Alunda"
+    },
+    {
+      "code": "895",
+      "name": "Alva"
+    },
+    {
+      "code": "699",
+      "name": "Alvesta"
+    },
+    {
+      "code": "1627",
+      "name": "Ambjörnarp"
+    },
+    {
+      "code": "1846",
+      "name": "Amnehärad"
+    },
+    {
+      "code": "1174",
+      "name": "Anderslöv"
+    },
+    {
+      "code": "561",
+      "name": "Anderstorp"
+    },
+    {
+      "code": "1022",
+      "name": "Andrarum"
+    },
+    {
+      "code": "696",
+      "name": "Aneboda"
+    },
+    {
+      "code": "896",
+      "name": "Anga"
+    },
+    {
+      "code": "2",
+      "name": "Angarn"
+    },
+    {
+      "code": "697",
+      "name": "Angelstad"
+    },
+    {
+      "code": "562",
+      "name": "Angerdshestra"
+    },
+    {
+      "code": "1530",
+      "name": "Angered"
+    },
+    {
+      "code": "1175",
+      "name": "Annelöv"
+    },
+    {
+      "code": "698",
+      "name": "Annerstad"
+    },
+    {
+      "code": "2449",
+      "name": "Anundsjö"
+    },
+    {
+      "code": "399",
+      "name": "Appuna"
+    },
+    {
+      "code": "2273",
+      "name": "Arboga"
+    },
+    {
+      "code": "3077",
+      "name": "Arboga"
+    },
+    {
+      "code": "2395",
+      "name": "Arbrå"
+    },
+    {
+      "code": "786",
+      "name": "Arby"
+    },
+    {
+      "code": "897",
+      "name": "Ardre"
+    },
+    {
+      "code": "160",
+      "name": "Arjeplog"
+    },
+    {
+      "code": "2450",
+      "name": "Arnäs"
+    },
+    {
+      "code": "1177",
+      "name": "Arrie"
+    },
+    {
+      "code": "161",
+      "name": "Arvidsjaur"
+    },
+    {
+      "code": "2116",
+      "name": "Arvika"
+    },
+    {
+      "code": "700",
+      "name": "Asa"
+    },
+    {
+      "code": "984",
+      "name": "Asarum"
+    },
+    {
+      "code": "400",
+      "name": "Asby"
+    },
+    {
+      "code": "1433",
+      "name": "Asige"
+    },
+    {
+      "code": "1178",
+      "name": "Ask"
+    },
+    {
+      "code": "401",
+      "name": "Ask"
+    },
+    {
+      "code": "402",
+      "name": "Askeby"
+    },
+    {
+      "code": "2214",
+      "name": "Asker"
+    },
+    {
+      "code": "2215",
+      "name": "Askersund"
+    },
+    {
+      "code": "4038",
+      "name": "Askersund"
+    },
+    {
+      "code": "563",
+      "name": "Askeryd"
+    },
+    {
+      "code": "1531",
+      "name": "Askim"
+    },
+    {
+      "code": "1628",
+      "name": "Asklanda"
+    },
+    {
+      "code": "1434",
+      "name": "Askome"
+    },
+    {
+      "code": "1532",
+      "name": "Askum"
+    },
+    {
+      "code": "1179",
+      "name": "Asmundtorp"
+    },
+    {
+      "code": "2340",
+      "name": "Aspeboda"
+    },
+    {
+      "code": "2518",
+      "name": "Aspås"
+    },
+    {
+      "code": "307",
+      "name": "Aspö"
+    },
+    {
+      "code": "985",
+      "name": "Aspö"
+    },
+    {
+      "code": "898",
+      "name": "Atlingbo"
+    },
+    {
+      "code": "2451",
+      "name": "Attmar"
+    },
+    {
+      "code": "986",
+      "name": "Augerum"
+    },
+    {
+      "code": "1023",
+      "name": "Ausås"
+    },
+    {
+      "code": "2341",
+      "name": "Avesta"
+    },
+    {
+      "code": "2216",
+      "name": "Axberg"
+    },
+    {
+      "code": "987",
+      "name": "Backaryd"
+    },
+    {
+      "code": "4124",
+      "name": "Backen"
+    },
+    {
+      "code": "1180",
+      "name": "Baldringe"
+    },
+    {
+      "code": "205",
+      "name": "Balingsta"
+    },
+    {
+      "code": "1181",
+      "name": "Balkåkra"
+    },
+    {
+      "code": "1847",
+      "name": "Baltak"
+    },
+    {
+      "code": "403",
+      "name": "Bankekind"
+    },
+    {
+      "code": "564",
+      "name": "Bankeryd"
+    },
+    {
+      "code": "1182",
+      "name": "Bara"
+    },
+    {
+      "code": "565",
+      "name": "Barkeryd"
+    },
+    {
+      "code": "1024",
+      "name": "Barkåkra"
+    },
+    {
+      "code": "899",
+      "name": "Barlingbo"
+    },
+    {
+      "code": "566",
+      "name": "Barnarp"
+    },
+    {
+      "code": "1848",
+      "name": "Barne-Åsaka"
+    },
+    {
+      "code": "1183",
+      "name": "Barsebäck"
+    },
+    {
+      "code": "308",
+      "name": "Barva"
+    },
+    {
+      "code": "1849",
+      "name": "Beateberg"
+    },
+    {
+      "code": "567",
+      "name": "Bellö"
+    },
+    {
+      "code": "1025",
+      "name": "Benestad"
+    },
+    {
+      "code": "1850",
+      "name": "Berg"
+    },
+    {
+      "code": "2275",
+      "name": "Berg"
+    },
+    {
+      "code": "2519",
+      "name": "Berg"
+    },
+    {
+      "code": "701",
+      "name": "Berg"
+    },
+    {
+      "code": "1851",
+      "name": "Berga"
+    },
+    {
+      "code": "702",
+      "name": "Berga"
+    },
+    {
+      "code": "1630",
+      "name": "Berghem"
+    },
+    {
+      "code": "309",
+      "name": "Bergshammar"
+    },
+    {
+      "code": "2396",
+      "name": "Bergsjö"
+    },
+    {
+      "code": "1631",
+      "name": "Bergstena"
+    },
+    {
+      "code": "1534",
+      "name": "Bergum"
+    },
+    {
+      "code": "703",
+      "name": "Bergunda"
+    },
+    {
+      "code": "310",
+      "name": "Bettna"
+    },
+    {
+      "code": "1184",
+      "name": "Billeberga"
+    },
+    {
+      "code": "1185",
+      "name": "Billinge"
+    },
+    {
+      "code": "1852",
+      "name": "Binneberg"
+    },
+    {
+      "code": "206",
+      "name": "Biskopskulla"
+    },
+    {
+      "code": "1853",
+      "name": "Bjurbäck"
+    },
+    {
+      "code": "130",
+      "name": "Bjurholm"
+    },
+    {
+      "code": "2342",
+      "name": "Bjursås"
+    },
+    {
+      "code": "2117",
+      "name": "Bjurtjärn"
+    },
+    {
+      "code": "1854",
+      "name": "Bjurum"
+    },
+    {
+      "code": "2397",
+      "name": "Bjuråker"
+    },
+    {
+      "code": "1186",
+      "name": "Bjuv"
+    },
+    {
+      "code": "404",
+      "name": "Bjälbo"
+    },
+    {
+      "code": "1187",
+      "name": "Bjällerup"
+    },
+    {
+      "code": "1855",
+      "name": "Bjärby"
+    },
+    {
+      "code": "1188",
+      "name": "Bjäresjö"
+    },
+    {
+      "code": "1856",
+      "name": "Bjärka"
+    },
+    {
+      "code": "1189",
+      "name": "Bjärshög"
+    },
+    {
+      "code": "2452",
+      "name": "Bjärtrå"
+    },
+    {
+      "code": "1190",
+      "name": "Björka"
+    },
+    {
+      "code": "900",
+      "name": "Björke"
+    },
+    {
+      "code": "405",
+      "name": "Björkeberg"
+    },
+    {
+      "code": "1535",
+      "name": "Björketorp"
+    },
+    {
+      "code": "207",
+      "name": "Björklinge"
+    },
+    {
+      "code": "2276",
+      "name": "Björksta"
+    },
+    {
+      "code": "311",
+      "name": "Björkvik"
+    },
+    {
+      "code": "568",
+      "name": "Björkö"
+    },
+    {
+      "code": "3",
+      "name": "Björkö-Arholma"
+    },
+    {
+      "code": "1536",
+      "name": "Björlanda"
+    },
+    {
+      "code": "2453",
+      "name": "Björna"
+    },
+    {
+      "code": "1026",
+      "name": "Björnekulla"
+    },
+    {
+      "code": "312",
+      "name": "Björnlunda"
+    },
+    {
+      "code": "2277",
+      "name": "Björskog"
+    },
+    {
+      "code": "1858",
+      "name": "Björsäter"
+    },
+    {
+      "code": "406",
+      "name": "Björsäter"
+    },
+    {
+      "code": "313",
+      "name": "Blacksta"
+    },
+    {
+      "code": "788",
+      "name": "Blackstad"
+    },
+    {
+      "code": "208",
+      "name": "Bladåker"
+    },
+    {
+      "code": "1191",
+      "name": "Blentarp"
+    },
+    {
+      "code": "1632",
+      "name": "Blidsberg"
+    },
+    {
+      "code": "4",
+      "name": "Blidö"
+    },
+    {
+      "code": "2118",
+      "name": "Blomskog"
+    },
+    {
+      "code": "704",
+      "name": "Blädinge"
+    },
+    {
+      "code": "407",
+      "name": "Blåvik"
+    },
+    {
+      "code": "2217",
+      "name": "Bo"
+    },
+    {
+      "code": "2119",
+      "name": "Boda"
+    },
+    {
+      "code": "2343",
+      "name": "Boda"
+    },
+    {
+      "code": "1192",
+      "name": "Bodarp"
+    },
+    {
+      "code": "163",
+      "name": "Boden"
+    },
+    {
+      "code": "2520",
+      "name": "Bodsjö"
+    },
+    {
+      "code": "2454",
+      "name": "Bodum"
+    },
+    {
+      "code": "901",
+      "name": "Boge"
+    },
+    {
+      "code": "2120",
+      "name": "Bogen"
+    },
+    {
+      "code": "209",
+      "name": "Boglösa"
+    },
+    {
+      "code": "314",
+      "name": "Bogsta"
+    },
+    {
+      "code": "1537",
+      "name": "Bokenäs"
+    },
+    {
+      "code": "1633",
+      "name": "Bollebygd"
+    },
+    {
+      "code": "1027",
+      "name": "Bollerup"
+    },
+    {
+      "code": "2399",
+      "name": "Bollnäs"
+    },
+    {
+      "code": "4019",
+      "name": "Bollnäs"
+    },
+    {
+      "code": "705",
+      "name": "Bolmsö"
+    },
+    {
+      "code": "1028",
+      "name": "Bolshög"
+    },
+    {
+      "code": "1634",
+      "name": "Bolstad"
+    },
+    {
+      "code": "1859",
+      "name": "Bolum"
+    },
+    {
+      "code": "1193",
+      "name": "Bonderup"
+    },
+    {
+      "code": "570",
+      "name": "Bondstorp"
+    },
+    {
+      "code": "5",
+      "name": "Boo"
+    },
+    {
+      "code": "1194",
+      "name": "Borgeby"
+    },
+    {
+      "code": "789",
+      "name": "Borgholm"
+    },
+    {
+      "code": "2455",
+      "name": "Borgsjö"
+    },
+    {
+      "code": "1635",
+      "name": "Borgstena"
+    },
+    {
+      "code": "1860",
+      "name": "Borgunda"
+    },
+    {
+      "code": "2522",
+      "name": "Borgvattnet"
+    },
+    {
+      "code": "2121",
+      "name": "Borgvik"
+    },
+    {
+      "code": "1195",
+      "name": "Borlunda"
+    },
+    {
+      "code": "2344",
+      "name": "Borlänge"
+    },
+    {
+      "code": "1029",
+      "name": "Borrby"
+    },
+    {
+      "code": "1196",
+      "name": "Borrie"
+    },
+    {
+      "code": "1636",
+      "name": "Borås"
+    },
+    {
+      "code": "1197",
+      "name": "Bosarp"
+    },
+    {
+      "code": "571",
+      "name": "Bosebo"
+    },
+    {
+      "code": "1198",
+      "name": "Bosjökloster"
+    },
+    {
+      "code": "2456",
+      "name": "Boteå"
+    },
+    {
+      "code": "2122",
+      "name": "Botilsäter"
+    },
+    {
+      "code": "6",
+      "name": "Botkyrka"
+    },
+    {
+      "code": "1538",
+      "name": "Bottna"
+    },
+    {
+      "code": "572",
+      "name": "Bottnaryd"
+    },
+    {
+      "code": "1199",
+      "name": "Brandstad"
+    },
+    {
+      "code": "1861",
+      "name": "Brandstorp"
+    },
+    {
+      "code": "1539",
+      "name": "Brastad"
+    },
+    {
+      "code": "2123",
+      "name": "Brattfors"
+    },
+    {
+      "code": "1435",
+      "name": "Breared"
+    },
+    {
+      "code": "211",
+      "name": "Bred"
+    },
+    {
+      "code": "1637",
+      "name": "Bredared"
+    },
+    {
+      "code": "573",
+      "name": "Bredaryd"
+    },
+    {
+      "code": "574",
+      "name": "Bredestad"
+    },
+    {
+      "code": "1862",
+      "name": "Bredsäter"
+    },
+    {
+      "code": "790",
+      "name": "Bredsättra"
+    },
+    {
+      "code": "1863",
+      "name": "Brevik"
+    },
+    {
+      "code": "575",
+      "name": "Bringetofta"
+    },
+    {
+      "code": "1864",
+      "name": "Brismene"
+    },
+    {
+      "code": "1540",
+      "name": "Bro"
+    },
+    {
+      "code": "2124",
+      "name": "Bro"
+    },
+    {
+      "code": "7",
+      "name": "Bro"
+    },
+    {
+      "code": "902",
+      "name": "Bro"
+    },
+    {
+      "code": "1865",
+      "name": "Broby"
+    },
+    {
+      "code": "1638",
+      "name": "Broddarp"
+    },
+    {
+      "code": "1866",
+      "name": "Broddetorp"
+    },
+    {
+      "code": "1200",
+      "name": "Bromma"
+    },
+    {
+      "code": "2523",
+      "name": "Brunflo"
+    },
+    {
+      "code": "1201",
+      "name": "Brunnby"
+    },
+    {
+      "code": "410",
+      "name": "Brunneby"
+    },
+    {
+      "code": "1867",
+      "name": "Brunnhem"
+    },
+    {
+      "code": "2125",
+      "name": "Brunskog"
+    },
+    {
+      "code": "2524",
+      "name": "Bräcke"
+    },
+    {
+      "code": "988",
+      "name": "Bräkne-Hoby"
+    },
+    {
+      "code": "1642",
+      "name": "Brämhult"
+    },
+    {
+      "code": "1202",
+      "name": "Brågarp"
+    },
+    {
+      "code": "1640",
+      "name": "Brålanda"
+    },
+    {
+      "code": "1641",
+      "name": "Bråttensby"
+    },
+    {
+      "code": "1031",
+      "name": "Brönnestad"
+    },
+    {
+      "code": "1032",
+      "name": "Brösarp"
+    },
+    {
+      "code": "903",
+      "name": "Bunge"
+    },
+    {
+      "code": "1203",
+      "name": "Bunkeflo"
+    },
+    {
+      "code": "131",
+      "name": "Bureå"
+    },
+    {
+      "code": "1204",
+      "name": "Burlöv"
+    },
+    {
+      "code": "904",
+      "name": "Burs"
+    },
+    {
+      "code": "576",
+      "name": "Burseryd"
+    },
+    {
+      "code": "132",
+      "name": "Burträsk"
+    },
+    {
+      "code": "905",
+      "name": "Buttle"
+    },
+    {
+      "code": "2345",
+      "name": "By"
+    },
+    {
+      "code": "577",
+      "name": "Byarum"
+    },
+    {
+      "code": "133",
+      "name": "Bygdeå"
+    },
+    {
+      "code": "134",
+      "name": "Byske"
+    },
+    {
+      "code": "1868",
+      "name": "Bäck"
+    },
+    {
+      "code": "579",
+      "name": "Bäckaby"
+    },
+    {
+      "code": "1643",
+      "name": "Bäcke"
+    },
+    {
+      "code": "791",
+      "name": "Bäckebo"
+    },
+    {
+      "code": "580",
+      "name": "Bäckseda"
+    },
+    {
+      "code": "906",
+      "name": "Bäl"
+    },
+    {
+      "code": "581",
+      "name": "Bälaryd"
+    },
+    {
+      "code": "212",
+      "name": "Bälinge"
+    },
+    {
+      "code": "3071",
+      "name": "Bälinge"
+    },
+    {
+      "code": "315",
+      "name": "Bälinge"
+    },
+    {
+      "code": "1869",
+      "name": "Bällefors"
+    },
+    {
+      "code": "316",
+      "name": "Bärbo"
+    },
+    {
+      "code": "1870",
+      "name": "Bäreberg"
+    },
+    {
+      "code": "1541",
+      "name": "Bärfendal"
+    },
+    {
+      "code": "3003",
+      "name": "Bäve"
+    },
+    {
+      "code": "578",
+      "name": "Båraryd"
+    },
+    {
+      "code": "1205",
+      "name": "Bårslöv"
+    },
+    {
+      "code": "1033",
+      "name": "Båstad"
+    },
+    {
+      "code": "792",
+      "name": "Böda"
+    },
+    {
+      "code": "1871",
+      "name": "Böja"
+    },
+    {
+      "code": "1645",
+      "name": "Böne"
+    },
+    {
+      "code": "213",
+      "name": "Börje"
+    },
+    {
+      "code": "1206",
+      "name": "Börringe"
+    },
+    {
+      "code": "411",
+      "name": "Börrum"
+    },
+    {
+      "code": "1872",
+      "name": "Börstig"
+    },
+    {
+      "code": "214",
+      "name": "Börstil"
+    },
+    {
+      "code": "1207",
+      "name": "Bösarp"
+    },
+    {
+      "code": "412",
+      "name": "Dagsberg"
+    },
+    {
+      "code": "1208",
+      "name": "Dagstorp"
+    },
+    {
+      "code": "1436",
+      "name": "Dagsås"
+    },
+    {
+      "code": "2457",
+      "name": "Dal"
+    },
+    {
+      "code": "1873",
+      "name": "Dala"
+    },
+    {
+      "code": "8",
+      "name": "Dalarö"
+    },
+    {
+      "code": "1209",
+      "name": "Dalby"
+    },
+    {
+      "code": "2127",
+      "name": "Dalby"
+    },
+    {
+      "code": "215",
+      "name": "Dalby"
+    },
+    {
+      "code": "793",
+      "name": "Dalhem"
+    },
+    {
+      "code": "907",
+      "name": "Dalhem"
+    },
+    {
+      "code": "1210",
+      "name": "Dalköpinge"
+    },
+    {
+      "code": "1646",
+      "name": "Dals-Ed"
+    },
+    {
+      "code": "1647",
+      "name": "Dalskog"
+    },
+    {
+      "code": "1648",
+      "name": "Dalstorp"
+    },
+    {
+      "code": "1649",
+      "name": "Dalum"
+    },
+    {
+      "code": "9",
+      "name": "Danderyd"
+    },
+    {
+      "code": "216",
+      "name": "Danmark"
+    },
+    {
+      "code": "217",
+      "name": "Dannemora"
+    },
+    {
+      "code": "1650",
+      "name": "Dannike"
+    },
+    {
+      "code": "582",
+      "name": "Dannäs"
+    },
+    {
+      "code": "1874",
+      "name": "Daretorp"
+    },
+    {
+      "code": "1034",
+      "name": "Degeberga"
+    },
+    {
+      "code": "135",
+      "name": "Degerfors"
+    },
+    {
+      "code": "2218",
+      "name": "Degerfors"
+    },
+    {
+      "code": "2400",
+      "name": "Delsbo"
+    },
+    {
+      "code": "1875",
+      "name": "Dimbo"
+    },
+    {
+      "code": "2279",
+      "name": "Dingtuna"
+    },
+    {
+      "code": "1035",
+      "name": "Djurröd"
+    },
+    {
+      "code": "794",
+      "name": "Djursdala"
+    },
+    {
+      "code": "10",
+      "name": "Djursholm"
+    },
+    {
+      "code": "11",
+      "name": "Djurö"
+    },
+    {
+      "code": "136",
+      "name": "Dorotea"
+    },
+    {
+      "code": "1543",
+      "name": "Dragsmark"
+    },
+    {
+      "code": "706",
+      "name": "Drev"
+    },
+    {
+      "code": "413",
+      "name": "Drothem"
+    },
+    {
+      "code": "1437",
+      "name": "Drängsered"
+    },
+    {
+      "code": "317",
+      "name": "Dunker"
+    },
+    {
+      "code": "707",
+      "name": "Dädesjö"
+    },
+    {
+      "code": "708",
+      "name": "Dänningelanda"
+    },
+    {
+      "code": "795",
+      "name": "Döderhult"
+    },
+    {
+      "code": "709",
+      "name": "Dörarp"
+    },
+    {
+      "code": "796",
+      "name": "Dörby"
+    },
+    {
+      "code": "12",
+      "name": "Ed"
+    },
+    {
+      "code": "2129",
+      "name": "Ed"
+    },
+    {
+      "code": "2458",
+      "name": "Ed"
+    },
+    {
+      "code": "2130",
+      "name": "Eda"
+    },
+    {
+      "code": "13",
+      "name": "Edebo"
+    },
+    {
+      "code": "164",
+      "name": "Edefors"
+    },
+    {
+      "code": "989",
+      "name": "Edestad"
+    },
+    {
+      "code": "2219",
+      "name": "Edsberg"
+    },
+    {
+      "code": "14",
+      "name": "Edsbro"
+    },
+    {
+      "code": "2459",
+      "name": "Edsele"
+    },
+    {
+      "code": "583",
+      "name": "Edshult"
+    },
+    {
+      "code": "1651",
+      "name": "Edsleskog"
+    },
+    {
+      "code": "1876",
+      "name": "Edsvära"
+    },
+    {
+      "code": "1877",
+      "name": "Edåsa"
+    },
+    {
+      "code": "1438",
+      "name": "Eftra"
+    },
+    {
+      "code": "797",
+      "name": "Egby"
+    },
+    {
+      "code": "1878",
+      "name": "Eggby"
+    },
+    {
+      "code": "1652",
+      "name": "Eggvena"
+    },
+    {
+      "code": "1879",
+      "name": "Ek"
+    },
+    {
+      "code": "1880",
+      "name": "Ekby"
+    },
+    {
+      "code": "908",
+      "name": "Eke"
+    },
+    {
+      "code": "710",
+      "name": "Ekeberga"
+    },
+    {
+      "code": "1211",
+      "name": "Ekeby"
+    },
+    {
+      "code": "218",
+      "name": "Ekeby"
+    },
+    {
+      "code": "2220",
+      "name": "Ekeby"
+    },
+    {
+      "code": "414",
+      "name": "Ekeby"
+    },
+    {
+      "code": "909",
+      "name": "Ekeby"
+    },
+    {
+      "code": "415",
+      "name": "Ekebyborna"
+    },
+    {
+      "code": "15",
+      "name": "Ekerö"
+    },
+    {
+      "code": "1881",
+      "name": "Ekeskog"
+    },
+    {
+      "code": "2131",
+      "name": "Ekshärad"
+    },
+    {
+      "code": "4044",
+      "name": "Eksjö"
+    },
+    {
+      "code": "584",
+      "name": "Eksjö"
+    },
+    {
+      "code": "910",
+      "name": "Eksta"
+    },
+    {
+      "code": "1439",
+      "name": "Eldsberga"
+    },
+    {
+      "code": "1882",
+      "name": "Eling"
+    },
+    {
+      "code": "1036",
+      "name": "Eljaröd"
+    },
+    {
+      "code": "990",
+      "name": "Elleholm"
+    },
+    {
+      "code": "1037",
+      "name": "Emmislöv"
+    },
+    {
+      "code": "911",
+      "name": "Endre"
+    },
+    {
+      "code": "219",
+      "name": "Enköping"
+    },
+    {
+      "code": "220",
+      "name": "Enköpings-Näs"
+    },
+    {
+      "code": "1440",
+      "name": "Enslöv"
+    },
+    {
+      "code": "2346",
+      "name": "Enviken"
+    },
+    {
+      "code": "2280",
+      "name": "Enåker"
+    },
+    {
+      "code": "2401",
+      "name": "Enånger"
+    },
+    {
+      "code": "1883",
+      "name": "Enåsa"
+    },
+    {
+      "code": "1653",
+      "name": "Eriksberg"
+    },
+    {
+      "code": "1654",
+      "name": "Erikstad"
+    },
+    {
+      "code": "991",
+      "name": "Eringsboda"
+    },
+    {
+      "code": "1655",
+      "name": "Erska"
+    },
+    {
+      "code": "2221",
+      "name": "Ervalla"
+    },
+    {
+      "code": "1212",
+      "name": "Esarp"
+    },
+    {
+      "code": "912",
+      "name": "Eskelhem"
+    },
+    {
+      "code": "1213",
+      "name": "Eskilstorp"
+    },
+    {
+      "code": "318",
+      "name": "Eskilstuna"
+    },
+    {
+      "code": "2132",
+      "name": "Eskilsäter"
+    },
+    {
+      "code": "1214",
+      "name": "Eslöv"
+    },
+    {
+      "code": "4127",
+      "name": "Eslöv"
+    },
+    {
+      "code": "1884",
+      "name": "Essunga"
+    },
+    {
+      "code": "17",
+      "name": "Estuna"
+    },
+    {
+      "code": "913",
+      "name": "Etelhem"
+    },
+    {
+      "code": "1215",
+      "name": "Everlöv"
+    },
+    {
+      "code": "1038",
+      "name": "Everöd"
+    },
+    {
+      "code": "1441",
+      "name": "Fagered"
+    },
+    {
+      "code": "799",
+      "name": "Fagerhult"
+    },
+    {
+      "code": "2281",
+      "name": "Fagersta"
+    },
+    {
+      "code": "1442",
+      "name": "Falkenberg"
+    },
+    {
+      "code": "1885",
+      "name": "Falköping"
+    },
+    {
+      "code": "3028",
+      "name": "Falköpings östra"
+    },
+    {
+      "code": "2347",
+      "name": "Falun"
+    },
+    {
+      "code": "914",
+      "name": "Fardhem"
+    },
+    {
+      "code": "1216",
+      "name": "Farhult"
+    },
+    {
+      "code": "221",
+      "name": "Faringe"
+    },
+    {
+      "code": "1039",
+      "name": "Farstorp"
+    },
+    {
+      "code": "18",
+      "name": "Fasterna"
+    },
+    {
+      "code": "1217",
+      "name": "Felestad"
+    },
+    {
+      "code": "2222",
+      "name": "Fellingsbro"
+    },
+    {
+      "code": "585",
+      "name": "Femsjö"
+    },
+    {
+      "code": "915",
+      "name": "Fide"
+    },
+    {
+      "code": "2133",
+      "name": "Filipstad"
+    },
+    {
+      "code": "222",
+      "name": "Film"
+    },
+    {
+      "code": "1040",
+      "name": "Finja"
+    },
+    {
+      "code": "1656",
+      "name": "Finnekumla"
+    },
+    {
+      "code": "2223",
+      "name": "Finnerödja"
+    },
+    {
+      "code": "223",
+      "name": "Fittja"
+    },
+    {
+      "code": "417",
+      "name": "Fivelstad"
+    },
+    {
+      "code": "1888",
+      "name": "Fivlered"
+    },
+    {
+      "code": "1218",
+      "name": "Fjelie"
+    },
+    {
+      "code": "1041",
+      "name": "Fjälkestad"
+    },
+    {
+      "code": "1042",
+      "name": "Fjälkinge"
+    },
+    {
+      "code": "2460",
+      "name": "Fjällsjö"
+    },
+    {
+      "code": "1219",
+      "name": "Fjärestad"
+    },
+    {
+      "code": "1444",
+      "name": "Fjärås"
+    },
+    {
+      "code": "1220",
+      "name": "Flackarp"
+    },
+    {
+      "code": "1889",
+      "name": "Flakeberg"
+    },
+    {
+      "code": "319",
+      "name": "Flen"
+    },
+    {
+      "code": "4048",
+      "name": "Flen"
+    },
+    {
+      "code": "1221",
+      "name": "Fleninge"
+    },
+    {
+      "code": "916",
+      "name": "Fleringe"
+    },
+    {
+      "code": "586",
+      "name": "Flisby"
+    },
+    {
+      "code": "801",
+      "name": "Fliseryd"
+    },
+    {
+      "code": "1890",
+      "name": "Flistad"
+    },
+    {
+      "code": "418",
+      "name": "Flistad"
+    },
+    {
+      "code": "1891",
+      "name": "Flo"
+    },
+    {
+      "code": "1892",
+      "name": "Floby"
+    },
+    {
+      "code": "2348",
+      "name": "Floda"
+    },
+    {
+      "code": "320",
+      "name": "Floda"
+    },
+    {
+      "code": "2282",
+      "name": "Fläckebo"
+    },
+    {
+      "code": "1222",
+      "name": "Flädie"
+    },
+    {
+      "code": "321",
+      "name": "Fogdö"
+    },
+    {
+      "code": "917",
+      "name": "Fole"
+    },
+    {
+      "code": "2349",
+      "name": "Folkärna"
+    },
+    {
+      "code": "918",
+      "name": "Follingbo"
+    },
+    {
+      "code": "419",
+      "name": "Fornåsa"
+    },
+    {
+      "code": "1658",
+      "name": "Fors"
+    },
+    {
+      "code": "2526",
+      "name": "Fors"
+    },
+    {
+      "code": "2402",
+      "name": "Forsa"
+    },
+    {
+      "code": "1893",
+      "name": "Forsby"
+    },
+    {
+      "code": "587",
+      "name": "Forserum"
+    },
+    {
+      "code": "2134",
+      "name": "Forshaga"
+    },
+    {
+      "code": "589",
+      "name": "Forsheda"
+    },
+    {
+      "code": "1894",
+      "name": "Forshem"
+    },
+    {
+      "code": "1544",
+      "name": "Forshälla"
+    },
+    {
+      "code": "224",
+      "name": "Forsmark"
+    },
+    {
+      "code": "322",
+      "name": "Forssa"
+    },
+    {
+      "code": "1545",
+      "name": "Foss"
+    },
+    {
+      "code": "1659",
+      "name": "Fotskäl"
+    },
+    {
+      "code": "137",
+      "name": "Fredrika"
+    },
+    {
+      "code": "1895",
+      "name": "Fredsberg"
+    },
+    {
+      "code": "19",
+      "name": "Fresta"
+    },
+    {
+      "code": "1896",
+      "name": "Fridene"
+    },
+    {
+      "code": "992",
+      "name": "Fridlevstad"
+    },
+    {
+      "code": "1897",
+      "name": "Friel"
+    },
+    {
+      "code": "1224",
+      "name": "Frillestad"
+    },
+    {
+      "code": "1445",
+      "name": "Frillesås"
+    },
+    {
+      "code": "590",
+      "name": "Frinnaryd"
+    },
+    {
+      "code": "1660",
+      "name": "Fristad"
+    },
+    {
+      "code": "1661",
+      "name": "Fritsla"
+    },
+    {
+      "code": "2527",
+      "name": "Frostviken"
+    },
+    {
+      "code": "1225",
+      "name": "Fru Alstad"
+    },
+    {
+      "code": "323",
+      "name": "Frustuna"
+    },
+    {
+      "code": "591",
+      "name": "Fryele"
+    },
+    {
+      "code": "2135",
+      "name": "Frykerud"
+    },
+    {
+      "code": "2136",
+      "name": "Fryksände"
+    },
+    {
+      "code": "1899",
+      "name": "Främmestad"
+    },
+    {
+      "code": "1662",
+      "name": "Frändefors"
+    },
+    {
+      "code": "1226",
+      "name": "Fränninge"
+    },
+    {
+      "code": "592",
+      "name": "Fröderyd"
+    },
+    {
+      "code": "802",
+      "name": "Frödinge"
+    },
+    {
+      "code": "919",
+      "name": "Fröjel"
+    },
+    {
+      "code": "1900",
+      "name": "Fröjered"
+    },
+    {
+      "code": "1663",
+      "name": "Fröskog"
+    },
+    {
+      "code": "225",
+      "name": "Fröslunda"
+    },
+    {
+      "code": "226",
+      "name": "Frösthult"
+    },
+    {
+      "code": "20",
+      "name": "Frösunda"
+    },
+    {
+      "code": "1901",
+      "name": "Frösve"
+    },
+    {
+      "code": "2528",
+      "name": "Frösö"
+    },
+    {
+      "code": "21",
+      "name": "Frötuna"
+    },
+    {
+      "code": "2246",
+      "name": "Frövi"
+    },
+    {
+      "code": "1227",
+      "name": "Fuglie"
+    },
+    {
+      "code": "1664",
+      "name": "Fullestad"
+    },
+    {
+      "code": "1228",
+      "name": "Fulltofta"
+    },
+    {
+      "code": "1902",
+      "name": "Fullösa"
+    },
+    {
+      "code": "227",
+      "name": "Funbo"
+    },
+    {
+      "code": "420",
+      "name": "Furingstad"
+    },
+    {
+      "code": "711",
+      "name": "Furuby"
+    },
+    {
+      "code": "1665",
+      "name": "Fuxerna"
+    },
+    {
+      "code": "1903",
+      "name": "Fyrunga"
+    },
+    {
+      "code": "1905",
+      "name": "Fägre"
+    },
+    {
+      "code": "1666",
+      "name": "Fänneslunda"
+    },
+    {
+      "code": "1906",
+      "name": "Färed"
+    },
+    {
+      "code": "22",
+      "name": "Färentuna"
+    },
+    {
+      "code": "593",
+      "name": "Färgaryd"
+    },
+    {
+      "code": "1667",
+      "name": "Färgelanda"
+    },
+    {
+      "code": "2403",
+      "name": "Färila"
+    },
+    {
+      "code": "1044",
+      "name": "Färingtofta"
+    },
+    {
+      "code": "1045",
+      "name": "Färlöv"
+    },
+    {
+      "code": "2137",
+      "name": "Färnebo"
+    },
+    {
+      "code": "803",
+      "name": "Fågelfors"
+    },
+    {
+      "code": "1043",
+      "name": "Fågeltofta"
+    },
+    {
+      "code": "1904",
+      "name": "Fåglum"
+    },
+    {
+      "code": "920",
+      "name": "Fårö"
+    },
+    {
+      "code": "1668",
+      "name": "Fölene"
+    },
+    {
+      "code": "2529",
+      "name": "Föllinge"
+    },
+    {
+      "code": "804",
+      "name": "Föra"
+    },
+    {
+      "code": "993",
+      "name": "Förkärla"
+    },
+    {
+      "code": "1447",
+      "name": "Förlanda"
+    },
+    {
+      "code": "805",
+      "name": "Förlösa"
+    },
+    {
+      "code": "1046",
+      "name": "Förslöv"
+    },
+    {
+      "code": "2350",
+      "name": "Gagnef"
+    },
+    {
+      "code": "806",
+      "name": "Gamleby"
+    },
+    {
+      "code": "421",
+      "name": "Gammalkil"
+    },
+    {
+      "code": "994",
+      "name": "Gammalstorp"
+    },
+    {
+      "code": "921",
+      "name": "Gammelgarn"
+    },
+    {
+      "code": "922",
+      "name": "Ganthem"
+    },
+    {
+      "code": "923",
+      "name": "Garde"
+    },
+    {
+      "code": "2351",
+      "name": "Garpenberg"
+    },
+    {
+      "code": "1230",
+      "name": "Genarp"
+    },
+    {
+      "code": "924",
+      "name": "Gerum"
+    },
+    {
+      "code": "1240",
+      "name": "Gessie"
+    },
+    {
+      "code": "1669",
+      "name": "Gestad"
+    },
+    {
+      "code": "1670",
+      "name": "Gesäter"
+    },
+    {
+      "code": "1448",
+      "name": "Getinge"
+    },
+    {
+      "code": "2461",
+      "name": "Gideå"
+    },
+    {
+      "code": "2138",
+      "name": "Gillberga"
+    },
+    {
+      "code": "324",
+      "name": "Gillberga"
+    },
+    {
+      "code": "1907",
+      "name": "Gillstad"
+    },
+    {
+      "code": "1671",
+      "name": "Gingri"
+    },
+    {
+      "code": "229",
+      "name": "Giresta"
+    },
+    {
+      "code": "1231",
+      "name": "Gislöv"
+    },
+    {
+      "code": "422",
+      "name": "Gistad"
+    },
+    {
+      "code": "807",
+      "name": "Gladhammar"
+    },
+    {
+      "code": "1047",
+      "name": "Gladsax"
+    },
+    {
+      "code": "2225",
+      "name": "Glanshammar"
+    },
+    {
+      "code": "2139",
+      "name": "Glava"
+    },
+    {
+      "code": "1048",
+      "name": "Glemminge"
+    },
+    {
+      "code": "1049",
+      "name": "Glimåkra"
+    },
+    {
+      "code": "1233",
+      "name": "Glostorp"
+    },
+    {
+      "code": "1234",
+      "name": "Glumslöv"
+    },
+    {
+      "code": "808",
+      "name": "Glömminge"
+    },
+    {
+      "code": "2404",
+      "name": "Gnarp"
+    },
+    {
+      "code": "594",
+      "name": "Gnosjö"
+    },
+    {
+      "code": "423",
+      "name": "Godegård"
+    },
+    {
+      "code": "925",
+      "name": "Gothem"
+    },
+    {
+      "code": "23",
+      "name": "Gottröra"
+    },
+    {
+      "code": "2352",
+      "name": "Grangärde"
+    },
+    {
+      "code": "712",
+      "name": "Granhult"
+    },
+    {
+      "code": "2462",
+      "name": "Graninge"
+    },
+    {
+      "code": "2140",
+      "name": "Grava"
+    },
+    {
+      "code": "424",
+      "name": "Grebo"
+    },
+    {
+      "code": "1908",
+      "name": "Grevbäck"
+    },
+    {
+      "code": "1050",
+      "name": "Grevie"
+    },
+    {
+      "code": "1449",
+      "name": "Grimeton"
+    },
+    {
+      "code": "1450",
+      "name": "Grimmared"
+    },
+    {
+      "code": "1547",
+      "name": "Grinneröd"
+    },
+    {
+      "code": "1672",
+      "name": "Grinstad"
+    },
+    {
+      "code": "1909",
+      "name": "Grolanda"
+    },
+    {
+      "code": "1673",
+      "name": "Grovare"
+    },
+    {
+      "code": "1674",
+      "name": "Grude"
+    },
+    {
+      "code": "2141",
+      "name": "Grums"
+    },
+    {
+      "code": "2463",
+      "name": "Grundsunda"
+    },
+    {
+      "code": "1051",
+      "name": "Gryt"
+    },
+    {
+      "code": "326",
+      "name": "Gryt"
+    },
+    {
+      "code": "425",
+      "name": "Gryt"
+    },
+    {
+      "code": "231",
+      "name": "Gryta"
+    },
+    {
+      "code": "595",
+      "name": "Gryteryd"
+    },
+    {
+      "code": "2226",
+      "name": "Grythyttan"
+    },
+    {
+      "code": "2353",
+      "name": "Grytnäs"
+    },
+    {
+      "code": "4054",
+      "name": "Gränna"
+    },
+    {
+      "code": "596",
+      "name": "Gränna"
+    },
+    {
+      "code": "809",
+      "name": "Gräsgård"
+    },
+    {
+      "code": "2142",
+      "name": "Gräsmark"
+    },
+    {
+      "code": "1910",
+      "name": "Grästorp"
+    },
+    {
+      "code": "232",
+      "name": "Gräsö"
+    },
+    {
+      "code": "2227",
+      "name": "Gräve"
+    },
+    {
+      "code": "24",
+      "name": "Grödinge"
+    },
+    {
+      "code": "1675",
+      "name": "Grönahög"
+    },
+    {
+      "code": "1235",
+      "name": "Grönby"
+    },
+    {
+      "code": "926",
+      "name": "Grötlingbo"
+    },
+    {
+      "code": "1053",
+      "name": "Gualöv"
+    },
+    {
+      "code": "1911",
+      "name": "Gudhem"
+    },
+    {
+      "code": "2475",
+      "name": "Gudmundrå"
+    },
+    {
+      "code": "1236",
+      "name": "Gudmuntorp"
+    },
+    {
+      "code": "927",
+      "name": "Guldrupe"
+    },
+    {
+      "code": "810",
+      "name": "Gullabo"
+    },
+    {
+      "code": "1676",
+      "name": "Gullered"
+    },
+    {
+      "code": "1548",
+      "name": "Gullholmen"
+    },
+    {
+      "code": "1054",
+      "name": "Gumlösa"
+    },
+    {
+      "code": "1451",
+      "name": "Gunnarp"
+    },
+    {
+      "code": "1452",
+      "name": "Gunnarsjö"
+    },
+    {
+      "code": "2143",
+      "name": "Gunnarskog"
+    },
+    {
+      "code": "1677",
+      "name": "Gunnarsnäs"
+    },
+    {
+      "code": "2283",
+      "name": "Gunnilbo"
+    },
+    {
+      "code": "2354",
+      "name": "Gustafs"
+    },
+    {
+      "code": "1055",
+      "name": "Gustav Adolf"
+    },
+    {
+      "code": "1912",
+      "name": "Gustav Adolf"
+    },
+    {
+      "code": "2144",
+      "name": "Gustav Adolf"
+    },
+    {
+      "code": "25",
+      "name": "Gustavsberg"
+    },
+    {
+      "code": "1237",
+      "name": "Gylle"
+    },
+    {
+      "code": "1453",
+      "name": "Gällared"
+    },
+    {
+      "code": "597",
+      "name": "Gällaryd"
+    },
+    {
+      "code": "2228",
+      "name": "Gällersta"
+    },
+    {
+      "code": "1454",
+      "name": "Gällinge"
+    },
+    {
+      "code": "165",
+      "name": "Gällivare"
+    },
+    {
+      "code": "1678",
+      "name": "Gällstad"
+    },
+    {
+      "code": "1679",
+      "name": "Gärdhem"
+    },
+    {
+      "code": "427",
+      "name": "Gärdserum"
+    },
+    {
+      "code": "813",
+      "name": "Gärdslösa"
+    },
+    {
+      "code": "1239",
+      "name": "Gärdslöv"
+    },
+    {
+      "code": "2405",
+      "name": "Gävle"
+    },
+    {
+      "code": "811",
+      "name": "Gårdby"
+    },
+    {
+      "code": "426",
+      "name": "Gårdeby"
+    },
+    {
+      "code": "713",
+      "name": "Gårdsby"
+    },
+    {
+      "code": "1238",
+      "name": "Gårdstånga"
+    },
+    {
+      "code": "812",
+      "name": "Gårdveda"
+    },
+    {
+      "code": "2145",
+      "name": "Gåsborn"
+    },
+    {
+      "code": "327",
+      "name": "Gåsinge-Dillnäs"
+    },
+    {
+      "code": "2530",
+      "name": "Gåxsjö"
+    },
+    {
+      "code": "1241",
+      "name": "Gödelöv"
+    },
+    {
+      "code": "1455",
+      "name": "Gödestad"
+    },
+    {
+      "code": "1913",
+      "name": "Gökhem"
+    },
+    {
+      "code": "1242",
+      "name": "Görslöv"
+    },
+    {
+      "code": "1914",
+      "name": "Gösslunda"
+    },
+    {
+      "code": "1549",
+      "name": "Göteborg"
+    },
+    {
+      "code": "1915",
+      "name": "Götene"
+    },
+    {
+      "code": "714",
+      "name": "Göteryd"
+    },
+    {
+      "code": "1916",
+      "name": "Göteve"
+    },
+    {
+      "code": "1917",
+      "name": "Götlunda"
+    },
+    {
+      "code": "2229",
+      "name": "Götlunda"
+    },
+    {
+      "code": "928",
+      "name": "Hablingbo"
+    },
+    {
+      "code": "1918",
+      "name": "Habo"
+    },
+    {
+      "code": "233",
+      "name": "Hacksta"
+    },
+    {
+      "code": "2230",
+      "name": "Hackvad"
+    },
+    {
+      "code": "2531",
+      "name": "Hackås"
+    },
+    {
+      "code": "26",
+      "name": "Haga"
+    },
+    {
+      "code": "234",
+      "name": "Hagby"
+    },
+    {
+      "code": "814",
+      "name": "Hagby"
+    },
+    {
+      "code": "428",
+      "name": "Hagebyhöga"
+    },
+    {
+      "code": "1919",
+      "name": "Hagelberg"
+    },
+    {
+      "code": "2146",
+      "name": "Hagfors"
+    },
+    {
+      "code": "598",
+      "name": "Hagshult"
+    },
+    {
+      "code": "1680",
+      "name": "Hajom"
+    },
+    {
+      "code": "599",
+      "name": "Hakarp"
+    },
+    {
+      "code": "929",
+      "name": "Hall"
+    },
+    {
+      "code": "328",
+      "name": "Halla"
+    },
+    {
+      "code": "930",
+      "name": "Halla"
+    },
+    {
+      "code": "715",
+      "name": "Hallaryd"
+    },
+    {
+      "code": "1243",
+      "name": "Hallaröd"
+    },
+    {
+      "code": "2532",
+      "name": "Hallen"
+    },
+    {
+      "code": "815",
+      "name": "Hallingeberg"
+    },
+    {
+      "code": "2231",
+      "name": "Hallsberg"
+    },
+    {
+      "code": "2322",
+      "name": "Hallstahammar"
+    },
+    {
+      "code": "816",
+      "name": "Halltorp"
+    },
+    {
+      "code": "1244",
+      "name": "Halmstad"
+    },
+    {
+      "code": "1456",
+      "name": "Halmstad"
+    },
+    {
+      "code": "1920",
+      "name": "Halna"
+    },
+    {
+      "code": "2232",
+      "name": "Hammar"
+    },
+    {
+      "code": "28",
+      "name": "Hammarby"
+    },
+    {
+      "code": "329",
+      "name": "Hammarby"
+    },
+    {
+      "code": "1245",
+      "name": "Hammarlunda"
+    },
+    {
+      "code": "1246",
+      "name": "Hammarlöv"
+    },
+    {
+      "code": "2147",
+      "name": "Hammarö"
+    },
+    {
+      "code": "1056",
+      "name": "Hammenhög"
+    },
+    {
+      "code": "2533",
+      "name": "Hammerdal"
+    },
+    {
+      "code": "716",
+      "name": "Hamneda"
+    },
+    {
+      "code": "3502",
+      "name": "Hamra"
+    },
+    {
+      "code": "931",
+      "name": "Hamra"
+    },
+    {
+      "code": "2407",
+      "name": "Hamrånge"
+    },
+    {
+      "code": "2408",
+      "name": "Hanebo"
+    },
+    {
+      "code": "1921",
+      "name": "Hangelösa"
+    },
+    {
+      "code": "932",
+      "name": "Hangvar"
+    },
+    {
+      "code": "1457",
+      "name": "Hanhals"
+    },
+    {
+      "code": "1057",
+      "name": "Hannas"
+    },
+    {
+      "code": "429",
+      "name": "Hannäs"
+    },
+    {
+      "code": "168",
+      "name": "Haparanda"
+    },
+    {
+      "code": "2286",
+      "name": "Haraker"
+    },
+    {
+      "code": "2287",
+      "name": "Harbo"
+    },
+    {
+      "code": "1247",
+      "name": "Hardeberga"
+    },
+    {
+      "code": "2233",
+      "name": "Hardemo"
+    },
+    {
+      "code": "1550",
+      "name": "Harestad"
+    },
+    {
+      "code": "235",
+      "name": "Harg"
+    },
+    {
+      "code": "1248",
+      "name": "Harlösa"
+    },
+    {
+      "code": "2409",
+      "name": "Harmånger"
+    },
+    {
+      "code": "1458",
+      "name": "Harplinge"
+    },
+    {
+      "code": "2410",
+      "name": "Hassela"
+    },
+    {
+      "code": "1922",
+      "name": "Hassle"
+    },
+    {
+      "code": "1249",
+      "name": "Hassle-Bösarp"
+    },
+    {
+      "code": "995",
+      "name": "Hasslö"
+    },
+    {
+      "code": "1923",
+      "name": "Hasslösa"
+    },
+    {
+      "code": "1459",
+      "name": "Hasslöv"
+    },
+    {
+      "code": "600",
+      "name": "Haurida"
+    },
+    {
+      "code": "933",
+      "name": "Havdhem"
+    },
+    {
+      "code": "2465",
+      "name": "Haverö"
+    },
+    {
+      "code": "2288",
+      "name": "Hed"
+    },
+    {
+      "code": "430",
+      "name": "Heda"
+    },
+    {
+      "code": "1551",
+      "name": "Hede"
+    },
+    {
+      "code": "2534",
+      "name": "Hede"
+    },
+    {
+      "code": "2355",
+      "name": "Hedemora"
+    },
+    {
+      "code": "4059",
+      "name": "Hedemora"
+    },
+    {
+      "code": "1251",
+      "name": "Hedeskoga"
+    },
+    {
+      "code": "2411",
+      "name": "Hedesunda"
+    },
+    {
+      "code": "934",
+      "name": "Hejde"
+    },
+    {
+      "code": "935",
+      "name": "Hejdeby"
+    },
+    {
+      "code": "936",
+      "name": "Hejnum"
+    },
+    {
+      "code": "330",
+      "name": "Helgarö"
+    },
+    {
+      "code": "331",
+      "name": "Helgesta"
+    },
+    {
+      "code": "332",
+      "name": "Helgona"
+    },
+    {
+      "code": "2466",
+      "name": "Helgum"
+    },
+    {
+      "code": "937",
+      "name": "Hellvi"
+    },
+    {
+      "code": "1262",
+      "name": "Helsingborg"
+    },
+    {
+      "code": "1253",
+      "name": "Hemmesdynge"
+    },
+    {
+      "code": "717",
+      "name": "Hemmesjö"
+    },
+    {
+      "code": "938",
+      "name": "Hemse"
+    },
+    {
+      "code": "1681",
+      "name": "Hemsjö"
+    },
+    {
+      "code": "2467",
+      "name": "Hemsö"
+    },
+    {
+      "code": "431",
+      "name": "Herrberga"
+    },
+    {
+      "code": "1552",
+      "name": "Herrestad"
+    },
+    {
+      "code": "432",
+      "name": "Herrestad"
+    },
+    {
+      "code": "1682",
+      "name": "Herrljunga"
+    },
+    {
+      "code": "718",
+      "name": "Herråkra"
+    },
+    {
+      "code": "2234",
+      "name": "Hidinge"
+    },
+    {
+      "code": "169",
+      "name": "Hietaniemi"
+    },
+    {
+      "code": "1683",
+      "name": "Hillared"
+    },
+    {
+      "code": "2412",
+      "name": "Hille"
+    },
+    {
+      "code": "29",
+      "name": "Hilleshög"
+    },
+    {
+      "code": "2289",
+      "name": "Himmeta"
+    },
+    {
+      "code": "719",
+      "name": "Hinneryd"
+    },
+    {
+      "code": "1460",
+      "name": "Hishult"
+    },
+    {
+      "code": "1924",
+      "name": "Hjo"
+    },
+    {
+      "code": "4060",
+      "name": "Hjo"
+    },
+    {
+      "code": "817",
+      "name": "Hjorted"
+    },
+    {
+      "code": "720",
+      "name": "Hjortsberga"
+    },
+    {
+      "code": "996",
+      "name": "Hjortsberga"
+    },
+    {
+      "code": "2235",
+      "name": "Hjulsjö"
+    },
+    {
+      "code": "601",
+      "name": "Hjälmseryd"
+    },
+    {
+      "code": "236",
+      "name": "Hjälsta"
+    },
+    {
+      "code": "1925",
+      "name": "Hjälstad"
+    },
+    {
+      "code": "1058",
+      "name": "Hjärnarp"
+    },
+    {
+      "code": "1059",
+      "name": "Hjärsås"
+    },
+    {
+      "code": "3008",
+      "name": "Hjärtlanda"
+    },
+    {
+      "code": "1684",
+      "name": "Hjärtum"
+    },
+    {
+      "code": "1254",
+      "name": "Hofterup"
+    },
+    {
+      "code": "1553",
+      "name": "Hogdal"
+    },
+    {
+      "code": "939",
+      "name": "Hogrän"
+    },
+    {
+      "code": "433",
+      "name": "Hogstad"
+    },
+    {
+      "code": "1685",
+      "name": "Hol"
+    },
+    {
+      "code": "1461",
+      "name": "Holm"
+    },
+    {
+      "code": "1686",
+      "name": "Holm"
+    },
+    {
+      "code": "237",
+      "name": "Holm"
+    },
+    {
+      "code": "2468",
+      "name": "Holm"
+    },
+    {
+      "code": "1255",
+      "name": "Holmby"
+    },
+    {
+      "code": "2148",
+      "name": "Holmedal"
+    },
+    {
+      "code": "1926",
+      "name": "Holmestad"
+    },
+    {
+      "code": "139",
+      "name": "Holmön"
+    },
+    {
+      "code": "1687",
+      "name": "Holsljunga"
+    },
+    {
+      "code": "1688",
+      "name": "Horla"
+    },
+    {
+      "code": "1927",
+      "name": "Horn"
+    },
+    {
+      "code": "434",
+      "name": "Horn"
+    },
+    {
+      "code": "721",
+      "name": "Hornaryd"
+    },
+    {
+      "code": "1928",
+      "name": "Hornborga"
+    },
+    {
+      "code": "1689",
+      "name": "Horred"
+    },
+    {
+      "code": "170",
+      "name": "Hortlax"
+    },
+    {
+      "code": "818",
+      "name": "Hossmo"
+    },
+    {
+      "code": "2535",
+      "name": "Hotagen"
+    },
+    {
+      "code": "1060",
+      "name": "Hov"
+    },
+    {
+      "code": "1690",
+      "name": "Hov"
+    },
+    {
+      "code": "435",
+      "name": "Hov"
+    },
+    {
+      "code": "1929",
+      "name": "Hova"
+    },
+    {
+      "code": "1930",
+      "name": "Hovby"
+    },
+    {
+      "code": "722",
+      "name": "Hovmantorp"
+    },
+    {
+      "code": "2236",
+      "name": "Hovsta"
+    },
+    {
+      "code": "1061",
+      "name": "Huaröd"
+    },
+    {
+      "code": "2290",
+      "name": "Hubbo"
+    },
+    {
+      "code": "30",
+      "name": "Huddinge"
+    },
+    {
+      "code": "2291",
+      "name": "Huddunge"
+    },
+    {
+      "code": "1691",
+      "name": "Hudene"
+    },
+    {
+      "code": "2413",
+      "name": "Hudiksvall"
+    },
+    {
+      "code": "2149",
+      "name": "Huggenäs"
+    },
+    {
+      "code": "1692",
+      "name": "Hulared"
+    },
+    {
+      "code": "603",
+      "name": "Hult"
+    },
+    {
+      "code": "819",
+      "name": "Hulterstad"
+    },
+    {
+      "code": "604",
+      "name": "Hultsjö"
+    },
+    {
+      "code": "1693",
+      "name": "Humla"
+    },
+    {
+      "code": "1462",
+      "name": "Hunnestad"
+    },
+    {
+      "code": "1256",
+      "name": "Hurva"
+    },
+    {
+      "code": "1931",
+      "name": "Husaby"
+    },
+    {
+      "code": "2356",
+      "name": "Husby"
+    },
+    {
+      "code": "238",
+      "name": "Husby-Långhundra"
+    },
+    {
+      "code": "333",
+      "name": "Husby-Oppunda"
+    },
+    {
+      "code": "334",
+      "name": "Husby-Rekarne"
+    },
+    {
+      "code": "31",
+      "name": "Husby-Sjuhundra"
+    },
+    {
+      "code": "239",
+      "name": "Husby-Sjutolft"
+    },
+    {
+      "code": "32",
+      "name": "Husby-Ärlinghundra"
+    },
+    {
+      "code": "605",
+      "name": "Huskvarna"
+    },
+    {
+      "code": "1258",
+      "name": "Hyby"
+    },
+    {
+      "code": "436",
+      "name": "Hycklinge"
+    },
+    {
+      "code": "606",
+      "name": "Hylletofta"
+    },
+    {
+      "code": "335",
+      "name": "Hyltinge"
+    },
+    {
+      "code": "1932",
+      "name": "Hyringa"
+    },
+    {
+      "code": "1694",
+      "name": "Hyssna"
+    },
+    {
+      "code": "437",
+      "name": "Hägerstad"
+    },
+    {
+      "code": "2469",
+      "name": "Häggdånger"
+    },
+    {
+      "code": "241",
+      "name": "Häggeby"
+    },
+    {
+      "code": "2537",
+      "name": "Häggenås"
+    },
+    {
+      "code": "1936",
+      "name": "Häggesled"
+    },
+    {
+      "code": "1937",
+      "name": "Häggum"
+    },
+    {
+      "code": "1062",
+      "name": "Häglinge"
+    },
+    {
+      "code": "997",
+      "name": "Hällaryd"
+    },
+    {
+      "code": "821",
+      "name": "Hälleberga"
+    },
+    {
+      "code": "2237",
+      "name": "Hällefors"
+    },
+    {
+      "code": "2538",
+      "name": "Hällesjö"
+    },
+    {
+      "code": "1261",
+      "name": "Hällestad"
+    },
+    {
+      "code": "1938",
+      "name": "Hällestad"
+    },
+    {
+      "code": "438",
+      "name": "Hällestad"
+    },
+    {
+      "code": "1698",
+      "name": "Hällstad"
+    },
+    {
+      "code": "1939",
+      "name": "Hällum"
+    },
+    {
+      "code": "2414",
+      "name": "Hälsingtuna"
+    },
+    {
+      "code": "1940",
+      "name": "Händene"
+    },
+    {
+      "code": "336",
+      "name": "Härad"
+    },
+    {
+      "code": "439",
+      "name": "Häradshammar"
+    },
+    {
+      "code": "1941",
+      "name": "Härja"
+    },
+    {
+      "code": "1942",
+      "name": "Härjevad"
+    },
+    {
+      "code": "242",
+      "name": "Härkeberga"
+    },
+    {
+      "code": "1943",
+      "name": "Härlunda"
+    },
+    {
+      "code": "723",
+      "name": "Härlunda"
+    },
+    {
+      "code": "724",
+      "name": "Härlöv"
+    },
+    {
+      "code": "1699",
+      "name": "Härna"
+    },
+    {
+      "code": "243",
+      "name": "Härnevi"
+    },
+    {
+      "code": "2470",
+      "name": "Härnösand"
+    },
+    {
+      "code": "1556",
+      "name": "Härryda"
+    },
+    {
+      "code": "1263",
+      "name": "Härslöv"
+    },
+    {
+      "code": "2471",
+      "name": "Hässjö"
+    },
+    {
+      "code": "608",
+      "name": "Hässleby"
+    },
+    {
+      "code": "1063",
+      "name": "Hässleholm"
+    },
+    {
+      "code": "1264",
+      "name": "Hässlunda"
+    },
+    {
+      "code": "1064",
+      "name": "Hästveda"
+    },
+    {
+      "code": "36",
+      "name": "Häverö"
+    },
+    {
+      "code": "33",
+      "name": "Håbo-Tibble"
+    },
+    {
+      "code": "1695",
+      "name": "Håbol"
+    },
+    {
+      "code": "1554",
+      "name": "Håby"
+    },
+    {
+      "code": "1696",
+      "name": "Håcksvik"
+    },
+    {
+      "code": "1933",
+      "name": "Håkantorp"
+    },
+    {
+      "code": "1697",
+      "name": "Hålanda"
+    },
+    {
+      "code": "1934",
+      "name": "Håle"
+    },
+    {
+      "code": "240",
+      "name": "Hållnäs"
+    },
+    {
+      "code": "1555",
+      "name": "Hålta"
+    },
+    {
+      "code": "607",
+      "name": "Hånger"
+    },
+    {
+      "code": "1935",
+      "name": "Hångsdala"
+    },
+    {
+      "code": "2536",
+      "name": "Håsjö"
+    },
+    {
+      "code": "1259",
+      "name": "Håslöv"
+    },
+    {
+      "code": "1260",
+      "name": "Håstad"
+    },
+    {
+      "code": "34",
+      "name": "Håtuna"
+    },
+    {
+      "code": "1265",
+      "name": "Hög"
+    },
+    {
+      "code": "2415",
+      "name": "Hög"
+    },
+    {
+      "code": "1266",
+      "name": "Höganäs"
+    },
+    {
+      "code": "440",
+      "name": "Högby"
+    },
+    {
+      "code": "822",
+      "name": "Högby"
+    },
+    {
+      "code": "2150",
+      "name": "Högerud"
+    },
+    {
+      "code": "1267",
+      "name": "Högestad"
+    },
+    {
+      "code": "823",
+      "name": "Högsby"
+    },
+    {
+      "code": "1268",
+      "name": "Högseröd"
+    },
+    {
+      "code": "2472",
+      "name": "Högsjö"
+    },
+    {
+      "code": "824",
+      "name": "Högsrum"
+    },
+    {
+      "code": "1944",
+      "name": "Högstena"
+    },
+    {
+      "code": "1700",
+      "name": "Högsäter"
+    },
+    {
+      "code": "1557",
+      "name": "Högås"
+    },
+    {
+      "code": "1065",
+      "name": "Höja"
+    },
+    {
+      "code": "244",
+      "name": "Hökhuvud"
+    },
+    {
+      "code": "1269",
+      "name": "Hököpinge"
+    },
+    {
+      "code": "37",
+      "name": "Hölö"
+    },
+    {
+      "code": "1945",
+      "name": "Hömb"
+    },
+    {
+      "code": "1270",
+      "name": "Hörby"
+    },
+    {
+      "code": "609",
+      "name": "Höreda"
+    },
+    {
+      "code": "1066",
+      "name": "Hörja"
+    },
+    {
+      "code": "140",
+      "name": "Hörnefors"
+    },
+    {
+      "code": "1067",
+      "name": "Hörröd"
+    },
+    {
+      "code": "940",
+      "name": "Hörsne-Bara"
+    },
+    {
+      "code": "1068",
+      "name": "Hörup"
+    },
+    {
+      "code": "1701",
+      "name": "Hössna"
+    },
+    {
+      "code": "1272",
+      "name": "Höör"
+    },
+    {
+      "code": "1463",
+      "name": "Idala"
+    },
+    {
+      "code": "2417",
+      "name": "Idenor"
+    },
+    {
+      "code": "2357",
+      "name": "Idre"
+    },
+    {
+      "code": "1273",
+      "name": "Igelösa"
+    },
+    {
+      "code": "1069",
+      "name": "Ignaberga"
+    },
+    {
+      "code": "2418",
+      "name": "Ilsbo"
+    },
+    {
+      "code": "1274",
+      "name": "Ilstorp"
+    },
+    {
+      "code": "2473",
+      "name": "Indal"
+    },
+    {
+      "code": "38",
+      "name": "Ingarö"
+    },
+    {
+      "code": "610",
+      "name": "Ingatorp"
+    },
+    {
+      "code": "1070",
+      "name": "Ingelstorp"
+    },
+    {
+      "code": "2292",
+      "name": "Irsta"
+    },
+    {
+      "code": "1702",
+      "name": "Istorp"
+    },
+    {
+      "code": "1946",
+      "name": "Istrum"
+    },
+    {
+      "code": "1071",
+      "name": "Ivetofta"
+    },
+    {
+      "code": "1072",
+      "name": "Ivö"
+    },
+    {
+      "code": "171",
+      "name": "Jokkmokk"
+    },
+    {
+      "code": "441",
+      "name": "Jonsberg"
+    },
+    {
+      "code": "1276",
+      "name": "Jonstorp"
+    },
+    {
+      "code": "337",
+      "name": "Julita"
+    },
+    {
+      "code": "245",
+      "name": "Jumkil"
+    },
+    {
+      "code": "1947",
+      "name": "Jung"
+    },
+    {
+      "code": "173",
+      "name": "Junosuando"
+    },
+    {
+      "code": "2474",
+      "name": "Junsele"
+    },
+    {
+      "code": "338",
+      "name": "Jäder"
+    },
+    {
+      "code": "1948",
+      "name": "Jäla"
+    },
+    {
+      "code": "1703",
+      "name": "Jällby"
+    },
+    {
+      "code": "611",
+      "name": "Jälluntofta"
+    },
+    {
+      "code": "998",
+      "name": "Jämjö"
+    },
+    {
+      "code": "999",
+      "name": "Jämshög"
+    },
+    {
+      "code": "1704",
+      "name": "Järbo"
+    },
+    {
+      "code": "2419",
+      "name": "Järbo"
+    },
+    {
+      "code": "825",
+      "name": "Järeda"
+    },
+    {
+      "code": "39",
+      "name": "Järfälla"
+    },
+    {
+      "code": "246",
+      "name": "Järlåsa"
+    },
+    {
+      "code": "1705",
+      "name": "Järn"
+    },
+    {
+      "code": "2358",
+      "name": "Järna"
+    },
+    {
+      "code": "2238",
+      "name": "Järnboås"
+    },
+    {
+      "code": "2151",
+      "name": "Järnskog"
+    },
+    {
+      "code": "1949",
+      "name": "Järpås"
+    },
+    {
+      "code": "1073",
+      "name": "Järrestad"
+    },
+    {
+      "code": "612",
+      "name": "Järsnäs"
+    },
+    {
+      "code": "442",
+      "name": "Järstad"
+    },
+    {
+      "code": "613",
+      "name": "Järstorp"
+    },
+    {
+      "code": "2420",
+      "name": "Järvsö"
+    },
+    {
+      "code": "725",
+      "name": "Jät"
+    },
+    {
+      "code": "2421",
+      "name": "Jättendal"
+    },
+    {
+      "code": "614",
+      "name": "Jönköping"
+    },
+    {
+      "code": "1558",
+      "name": "Jörlanda"
+    },
+    {
+      "code": "141",
+      "name": "Jörn"
+    },
+    {
+      "code": "443",
+      "name": "Kaga"
+    },
+    {
+      "code": "2540",
+      "name": "Kall"
+    },
+    {
+      "code": "247",
+      "name": "Kalmar"
+    },
+    {
+      "code": "826",
+      "name": "Kalmar"
+    },
+    {
+      "code": "1706",
+      "name": "Kalv"
+    },
+    {
+      "code": "726",
+      "name": "Kalvsvik"
+    },
+    {
+      "code": "1950",
+      "name": "Karaby"
+    },
+    {
+      "code": "2293",
+      "name": "Karbenning"
+    },
+    {
+      "code": "1559",
+      "name": "Kareby"
+    },
+    {
+      "code": "176",
+      "name": "Karesuando"
+    },
+    {
+      "code": "1465",
+      "name": "Karl Gustav"
+    },
+    {
+      "code": "177",
+      "name": "Karl Gustav"
+    },
+    {
+      "code": "2152",
+      "name": "Karlanda"
+    },
+    {
+      "code": "1951",
+      "name": "Karleby"
+    },
+    {
+      "code": "1952",
+      "name": "Karlsborg"
+    },
+    {
+      "code": "1000",
+      "name": "Karlshamn"
+    },
+    {
+      "code": "2239",
+      "name": "Karlskoga"
+    },
+    {
+      "code": "4094",
+      "name": "Karlskoga"
+    },
+    {
+      "code": "1001",
+      "name": "Karlskrona"
+    },
+    {
+      "code": "827",
+      "name": "Karlslunda"
+    },
+    {
+      "code": "2153",
+      "name": "Karlstad"
+    },
+    {
+      "code": "615",
+      "name": "Karlstorp"
+    },
+    {
+      "code": "828",
+      "name": "Kastlösa"
+    },
+    {
+      "code": "339",
+      "name": "Katrineholm"
+    },
+    {
+      "code": "1277",
+      "name": "Katslösa"
+    },
+    {
+      "code": "1278",
+      "name": "Kattarp"
+    },
+    {
+      "code": "340",
+      "name": "Kattnäs"
+    },
+    {
+      "code": "1953",
+      "name": "Kestad"
+    },
+    {
+      "code": "1074",
+      "name": "Kiaby"
+    },
+    {
+      "code": "2240",
+      "name": "Kil"
+    },
+    {
+      "code": "2154",
+      "name": "Kila"
+    },
+    {
+      "code": "2294",
+      "name": "Kila"
+    },
+    {
+      "code": "341",
+      "name": "Kila"
+    },
+    {
+      "code": "1707",
+      "name": "Kilanda"
+    },
+    {
+      "code": "444",
+      "name": "Kimstad"
+    },
+    {
+      "code": "1708",
+      "name": "Kinna"
+    },
+    {
+      "code": "1466",
+      "name": "Kinnared"
+    },
+    {
+      "code": "1709",
+      "name": "Kinnarumma"
+    },
+    {
+      "code": "1954",
+      "name": "Kinne-Kleva"
+    },
+    {
+      "code": "1955",
+      "name": "Kinne-Vedum"
+    },
+    {
+      "code": "1956",
+      "name": "Kinneved"
+    },
+    {
+      "code": "172",
+      "name": "Kiruna"
+    },
+    {
+      "code": "179",
+      "name": "Kiruna"
+    },
+    {
+      "code": "445",
+      "name": "Kisa"
+    },
+    {
+      "code": "342",
+      "name": "Kjula"
+    },
+    {
+      "code": "941",
+      "name": "Klinte"
+    },
+    {
+      "code": "1052",
+      "name": "Klippan"
+    },
+    {
+      "code": "446",
+      "name": "Klockrike"
+    },
+    {
+      "code": "829",
+      "name": "Kläckeberga"
+    },
+    {
+      "code": "1560",
+      "name": "Klädesholmen"
+    },
+    {
+      "code": "1561",
+      "name": "Klövedal"
+    },
+    {
+      "code": "2541",
+      "name": "Klövsjö"
+    },
+    {
+      "code": "1076",
+      "name": "Knislinge"
+    },
+    {
+      "code": "2241",
+      "name": "Knista"
+    },
+    {
+      "code": "248",
+      "name": "Knivsta"
+    },
+    {
+      "code": "249",
+      "name": "Knutby"
+    },
+    {
+      "code": "1467",
+      "name": "Knäred"
+    },
+    {
+      "code": "1279",
+      "name": "Knästorp"
+    },
+    {
+      "code": "1710",
+      "name": "Knätte"
+    },
+    {
+      "code": "2295",
+      "name": "Kolbäck"
+    },
+    {
+      "code": "2296",
+      "name": "Kolsva"
+    },
+    {
+      "code": "1280",
+      "name": "Konga"
+    },
+    {
+      "code": "447",
+      "name": "Konungsund"
+    },
+    {
+      "code": "180",
+      "name": "Korpilombolo"
+    },
+    {
+      "code": "1957",
+      "name": "Korsberga"
+    },
+    {
+      "code": "616",
+      "name": "Korsberga"
+    },
+    {
+      "code": "4020",
+      "name": "Kramfors"
+    },
+    {
+      "code": "448",
+      "name": "Kristberg"
+    },
+    {
+      "code": "830",
+      "name": "Kristdala"
+    },
+    {
+      "code": "1002",
+      "name": "Kristianopel"
+    },
+    {
+      "code": "1077",
+      "name": "Kristianstad"
+    },
+    {
+      "code": "2155",
+      "name": "Kristinehamn"
+    },
+    {
+      "code": "831",
+      "name": "Kristvalla"
+    },
+    {
+      "code": "1468",
+      "name": "Krogsered"
+    },
+    {
+      "code": "449",
+      "name": "Krokek"
+    },
+    {
+      "code": "1562",
+      "name": "Krokstad"
+    },
+    {
+      "code": "1281",
+      "name": "Kropp"
+    },
+    {
+      "code": "2156",
+      "name": "Kroppa"
+    },
+    {
+      "code": "2243",
+      "name": "Kräcklinge"
+    },
+    {
+      "code": "942",
+      "name": "Kräklingbo"
+    },
+    {
+      "code": "617",
+      "name": "Kråkshult"
+    },
+    {
+      "code": "832",
+      "name": "Kråksmåla"
+    },
+    {
+      "code": "450",
+      "name": "Kuddby"
+    },
+    {
+      "code": "250",
+      "name": "Kulla"
+    },
+    {
+      "code": "451",
+      "name": "Kullerstad"
+    },
+    {
+      "code": "1711",
+      "name": "Kullings-Skövde"
+    },
+    {
+      "code": "618",
+      "name": "Kulltorp"
+    },
+    {
+      "code": "2244",
+      "name": "Kumla"
+    },
+    {
+      "code": "2297",
+      "name": "Kumla"
+    },
+    {
+      "code": "4067",
+      "name": "Kumla"
+    },
+    {
+      "code": "452",
+      "name": "Kumla"
+    },
+    {
+      "code": "2298",
+      "name": "Kung Karl"
+    },
+    {
+      "code": "2299",
+      "name": "Kungs-Barkarö"
+    },
+    {
+      "code": "251",
+      "name": "Kungs-Husby"
+    },
+    {
+      "code": "1469",
+      "name": "Kungsbacka"
+    },
+    {
+      "code": "4095",
+      "name": "Kungsbacka"
+    },
+    {
+      "code": "1958",
+      "name": "Kungslena"
+    },
+    {
+      "code": "92",
+      "name": "Kungsängen"
+    },
+    {
+      "code": "1470",
+      "name": "Kungsäter"
+    },
+    {
+      "code": "2300",
+      "name": "Kungsåra"
+    },
+    {
+      "code": "1563",
+      "name": "Kungälv"
+    },
+    {
+      "code": "453",
+      "name": "Kvarsebo"
+    },
+    {
+      "code": "727",
+      "name": "Kvenneberga"
+    },
+    {
+      "code": "1080",
+      "name": "Kverrestad"
+    },
+    {
+      "code": "1471",
+      "name": "Kvibille"
+    },
+    {
+      "code": "1078",
+      "name": "Kvidinge"
+    },
+    {
+      "code": "1079",
+      "name": "Kviinge"
+    },
+    {
+      "code": "1564",
+      "name": "Kville"
+    },
+    {
+      "code": "454",
+      "name": "Kvillinge"
+    },
+    {
+      "code": "1712",
+      "name": "Kvinnestad"
+    },
+    {
+      "code": "2245",
+      "name": "Kvistbro"
+    },
+    {
+      "code": "1282",
+      "name": "Kvistofta"
+    },
+    {
+      "code": "1959",
+      "name": "Kvänum"
+    },
+    {
+      "code": "1960",
+      "name": "Kymbo"
+    },
+    {
+      "code": "1283",
+      "name": "Kyrkheddinge"
+    },
+    {
+      "code": "1003",
+      "name": "Kyrkhult"
+    },
+    {
+      "code": "1284",
+      "name": "Kyrkoköpinge"
+    },
+    {
+      "code": "1961",
+      "name": "Kyrkås"
+    },
+    {
+      "code": "2542",
+      "name": "Kyrkås"
+    },
+    {
+      "code": "833",
+      "name": "Källa"
+    },
+    {
+      "code": "1963",
+      "name": "Källby"
+    },
+    {
+      "code": "620",
+      "name": "Källeryd"
+    },
+    {
+      "code": "1081",
+      "name": "Källna"
+    },
+    {
+      "code": "1286",
+      "name": "Källs Nöbbelöv"
+    },
+    {
+      "code": "1472",
+      "name": "Källsjö"
+    },
+    {
+      "code": "455",
+      "name": "Källstad"
+    },
+    {
+      "code": "1288",
+      "name": "Källstorp"
+    },
+    {
+      "code": "1713",
+      "name": "Källunga"
+    },
+    {
+      "code": "943",
+      "name": "Källunge"
+    },
+    {
+      "code": "1964",
+      "name": "Kälvene"
+    },
+    {
+      "code": "621",
+      "name": "Kärda"
+    },
+    {
+      "code": "1566",
+      "name": "Käringön"
+    },
+    {
+      "code": "456",
+      "name": "Kärna"
+    },
+    {
+      "code": "343",
+      "name": "Kärnbo"
+    },
+    {
+      "code": "2301",
+      "name": "Kärrbo"
+    },
+    {
+      "code": "1714",
+      "name": "Kärråkra"
+    },
+    {
+      "code": "457",
+      "name": "Kättilstad"
+    },
+    {
+      "code": "1289",
+      "name": "Kävlinge"
+    },
+    {
+      "code": "622",
+      "name": "Kävsjö"
+    },
+    {
+      "code": "1285",
+      "name": "Kågeröd"
+    },
+    {
+      "code": "1962",
+      "name": "Kållands-Åsaka"
+    },
+    {
+      "code": "1565",
+      "name": "Kållered"
+    },
+    {
+      "code": "619",
+      "name": "Kållerstad"
+    },
+    {
+      "code": "728",
+      "name": "Kånna"
+    },
+    {
+      "code": "41",
+      "name": "Kårsta"
+    },
+    {
+      "code": "1473",
+      "name": "Köinge"
+    },
+    {
+      "code": "2157",
+      "name": "Köla"
+    },
+    {
+      "code": "1715",
+      "name": "Kölaby"
+    },
+    {
+      "code": "1716",
+      "name": "Kölingared"
+    },
+    {
+      "code": "2302",
+      "name": "Köping"
+    },
+    {
+      "code": "834",
+      "name": "Köping"
+    },
+    {
+      "code": "1082",
+      "name": "Köpinge"
+    },
+    {
+      "code": "1290",
+      "name": "Lackalänga"
+    },
+    {
+      "code": "252",
+      "name": "Lagga"
+    },
+    {
+      "code": "1717",
+      "name": "Lagmansered"
+    },
+    {
+      "code": "1474",
+      "name": "Laholm"
+    },
+    {
+      "code": "3080",
+      "name": "Laholm"
+    },
+    {
+      "code": "1475",
+      "name": "Landa"
+    },
+    {
+      "code": "1718",
+      "name": "Landa"
+    },
+    {
+      "code": "1291",
+      "name": "Landskrona"
+    },
+    {
+      "code": "1567",
+      "name": "Landvetter"
+    },
+    {
+      "code": "1568",
+      "name": "Lane-Ryr"
+    },
+    {
+      "code": "623",
+      "name": "Lannaskede"
+    },
+    {
+      "code": "1965",
+      "name": "Larv"
+    },
+    {
+      "code": "1966",
+      "name": "Laske-Vedum"
+    },
+    {
+      "code": "944",
+      "name": "Lau"
+    },
+    {
+      "code": "1967",
+      "name": "Lavad"
+    },
+    {
+      "code": "1719",
+      "name": "Laxarby"
+    },
+    {
+      "code": "2543",
+      "name": "Laxsjö"
+    },
+    {
+      "code": "2242",
+      "name": "Laxå"
+    },
+    {
+      "code": "459",
+      "name": "Ledberg"
+    },
+    {
+      "code": "1968",
+      "name": "Ledsjö"
+    },
+    {
+      "code": "729",
+      "name": "Lekaryd"
+    },
+    {
+      "code": "624",
+      "name": "Lekeryd"
+    },
+    {
+      "code": "2360",
+      "name": "Leksand"
+    },
+    {
+      "code": "1969",
+      "name": "Leksberg"
+    },
+    {
+      "code": "2158",
+      "name": "Lekvattnet"
+    },
+    {
+      "code": "1970",
+      "name": "Lekåsa"
+    },
+    {
+      "code": "625",
+      "name": "Lemnhult"
+    },
+    {
+      "code": "1720",
+      "name": "Lena"
+    },
+    {
+      "code": "253",
+      "name": "Lena"
+    },
+    {
+      "code": "730",
+      "name": "Lenhovda"
+    },
+    {
+      "code": "344",
+      "name": "Lerbo"
+    },
+    {
+      "code": "2247",
+      "name": "Lerbäck"
+    },
+    {
+      "code": "1721",
+      "name": "Lerdal"
+    },
+    {
+      "code": "1971",
+      "name": "Lerdala"
+    },
+    {
+      "code": "1722",
+      "name": "Lerum"
+    },
+    {
+      "code": "3079",
+      "name": "Lessebo"
+    },
+    {
+      "code": "1972",
+      "name": "Levene"
+    },
+    {
+      "code": "945",
+      "name": "Levide"
+    },
+    {
+      "code": "1723",
+      "name": "Liared"
+    },
+    {
+      "code": "345",
+      "name": "Lid"
+    },
+    {
+      "code": "2476",
+      "name": "Liden"
+    },
+    {
+      "code": "732",
+      "name": "Lidhult"
+    },
+    {
+      "code": "42",
+      "name": "Lidingö"
+    },
+    {
+      "code": "1973",
+      "name": "Lidköping"
+    },
+    {
+      "code": "1292",
+      "name": "Lilla Beddinge"
+    },
+    {
+      "code": "1293",
+      "name": "Lilla Harrie"
+    },
+    {
+      "code": "1294",
+      "name": "Lilla Isie"
+    },
+    {
+      "code": "346",
+      "name": "Lilla Malma"
+    },
+    {
+      "code": "1295",
+      "name": "Lilla Slågarp"
+    },
+    {
+      "code": "2303",
+      "name": "Lillhärad"
+    },
+    {
+      "code": "2544",
+      "name": "Lillhärdal"
+    },
+    {
+      "code": "2248",
+      "name": "Lillkyrka"
+    },
+    {
+      "code": "254",
+      "name": "Lillkyrka"
+    },
+    {
+      "code": "460",
+      "name": "Lillkyrka"
+    },
+    {
+      "code": "2362",
+      "name": "Lima"
+    },
+    {
+      "code": "1725",
+      "name": "Limmared"
+    },
+    {
+      "code": "1476",
+      "name": "Lindberg"
+    },
+    {
+      "code": "2249",
+      "name": "Linde"
+    },
+    {
+      "code": "946",
+      "name": "Linde"
+    },
+    {
+      "code": "626",
+      "name": "Linderås"
+    },
+    {
+      "code": "1083",
+      "name": "Linderöd"
+    },
+    {
+      "code": "2250",
+      "name": "Lindesberg"
+    },
+    {
+      "code": "4069",
+      "name": "Lindesberg"
+    },
+    {
+      "code": "1569",
+      "name": "Lindome"
+    },
+    {
+      "code": "1974",
+      "name": "Lindärva"
+    },
+    {
+      "code": "461",
+      "name": "Linköping"
+    },
+    {
+      "code": "733",
+      "name": "Linneryd"
+    },
+    {
+      "code": "2545",
+      "name": "Linsell"
+    },
+    {
+      "code": "347",
+      "name": "Lista"
+    },
+    {
+      "code": "1004",
+      "name": "Listerby"
+    },
+    {
+      "code": "2546",
+      "name": "Lit"
+    },
+    {
+      "code": "255",
+      "name": "Litslena"
+    },
+    {
+      "code": "734",
+      "name": "Ljuder"
+    },
+    {
+      "code": "1570",
+      "name": "Ljung"
+    },
+    {
+      "code": "462",
+      "name": "Ljung"
+    },
+    {
+      "code": "1477",
+      "name": "Ljungby"
+    },
+    {
+      "code": "735",
+      "name": "Ljungby"
+    },
+    {
+      "code": "835",
+      "name": "Ljungby"
+    },
+    {
+      "code": "1975",
+      "name": "Ljunghem"
+    },
+    {
+      "code": "1726",
+      "name": "Ljungsarp"
+    },
+    {
+      "code": "1727",
+      "name": "Ljur"
+    },
+    {
+      "code": "2422",
+      "name": "Ljusdal"
+    },
+    {
+      "code": "1728",
+      "name": "Ljushult"
+    },
+    {
+      "code": "2251",
+      "name": "Ljusnarsberg"
+    },
+    {
+      "code": "44",
+      "name": "Ljusterö"
+    },
+    {
+      "code": "2477",
+      "name": "Ljustorp"
+    },
+    {
+      "code": "1296",
+      "name": "Lockarp"
+    },
+    {
+      "code": "1976",
+      "name": "Locketorp"
+    },
+    {
+      "code": "2547",
+      "name": "Lockne"
+    },
+    {
+      "code": "836",
+      "name": "Locknevi"
+    },
+    {
+      "code": "837",
+      "name": "Lofta"
+    },
+    {
+      "code": "838",
+      "name": "Loftahammar"
+    },
+    {
+      "code": "45",
+      "name": "Lohärad"
+    },
+    {
+      "code": "947",
+      "name": "Lojsta"
+    },
+    {
+      "code": "948",
+      "name": "Lokrume"
+    },
+    {
+      "code": "1297",
+      "name": "Lomma"
+    },
+    {
+      "code": "627",
+      "name": "Lommaryd"
+    },
+    {
+      "code": "1571",
+      "name": "Lommeland"
+    },
+    {
+      "code": "1977",
+      "name": "Long"
+    },
+    {
+      "code": "2423",
+      "name": "Los"
+    },
+    {
+      "code": "1084",
+      "name": "Loshult"
+    },
+    {
+      "code": "46",
+      "name": "Lovö"
+    },
+    {
+      "code": "348",
+      "name": "Ludgo"
+    },
+    {
+      "code": "2363",
+      "name": "Ludvika"
+    },
+    {
+      "code": "4097",
+      "name": "Ludvika"
+    },
+    {
+      "code": "1978",
+      "name": "Lugnås"
+    },
+    {
+      "code": "181",
+      "name": "Luleå"
+    },
+    {
+      "code": "949",
+      "name": "Lummelunda"
+    },
+    {
+      "code": "1298",
+      "name": "Lund"
+    },
+    {
+      "code": "349",
+      "name": "Lunda"
+    },
+    {
+      "code": "47",
+      "name": "Lunda"
+    },
+    {
+      "code": "2160",
+      "name": "Lungsund"
+    },
+    {
+      "code": "1572",
+      "name": "Lur"
+    },
+    {
+      "code": "1979",
+      "name": "Luttra"
+    },
+    {
+      "code": "1299",
+      "name": "Lyby"
+    },
+    {
+      "code": "1573",
+      "name": "Lycke"
+    },
+    {
+      "code": "143",
+      "name": "Lycksele"
+    },
+    {
+      "code": "4028",
+      "name": "Lycksele"
+    },
+    {
+      "code": "950",
+      "name": "Lye"
+    },
+    {
+      "code": "1300",
+      "name": "Lyngby"
+    },
+    {
+      "code": "1085",
+      "name": "Lyngsjö"
+    },
+    {
+      "code": "1980",
+      "name": "Lyrestad"
+    },
+    {
+      "code": "1574",
+      "name": "Lyse"
+    },
+    {
+      "code": "1575",
+      "name": "Lysekil"
+    },
+    {
+      "code": "2161",
+      "name": "Lysvik"
+    },
+    {
+      "code": "257",
+      "name": "Läby"
+    },
+    {
+      "code": "1730",
+      "name": "Länghem"
+    },
+    {
+      "code": "1982",
+      "name": "Längjum"
+    },
+    {
+      "code": "1983",
+      "name": "Längnum"
+    },
+    {
+      "code": "350",
+      "name": "Länna"
+    },
+    {
+      "code": "49",
+      "name": "Länna"
+    },
+    {
+      "code": "2252",
+      "name": "Lännäs"
+    },
+    {
+      "code": "951",
+      "name": "Lärbro"
+    },
+    {
+      "code": "351",
+      "name": "Lästringe"
+    },
+    {
+      "code": "1729",
+      "name": "Långared"
+    },
+    {
+      "code": "628",
+      "name": "Långaryd"
+    },
+    {
+      "code": "1301",
+      "name": "Långaröd"
+    },
+    {
+      "code": "839",
+      "name": "Långasjö"
+    },
+    {
+      "code": "1576",
+      "name": "Långelanda"
+    },
+    {
+      "code": "840",
+      "name": "Långemåla"
+    },
+    {
+      "code": "841",
+      "name": "Långlöt"
+    },
+    {
+      "code": "2478",
+      "name": "Långsele"
+    },
+    {
+      "code": "2162",
+      "name": "Långserud"
+    },
+    {
+      "code": "256",
+      "name": "Långtora"
+    },
+    {
+      "code": "48",
+      "name": "Låssa"
+    },
+    {
+      "code": "1981",
+      "name": "Låstad"
+    },
+    {
+      "code": "1302",
+      "name": "Löddeköpinge"
+    },
+    {
+      "code": "1086",
+      "name": "Löderup"
+    },
+    {
+      "code": "842",
+      "name": "Lönneberga"
+    },
+    {
+      "code": "463",
+      "name": "Lönsås"
+    },
+    {
+      "code": "1005",
+      "name": "Lösen"
+    },
+    {
+      "code": "258",
+      "name": "Löt"
+    },
+    {
+      "code": "843",
+      "name": "Löt"
+    },
+    {
+      "code": "1304",
+      "name": "Lövestad"
+    },
+    {
+      "code": "144",
+      "name": "Lövånger"
+    },
+    {
+      "code": "844",
+      "name": "Madesjö"
+    },
+    {
+      "code": "1305",
+      "name": "Maglarp"
+    },
+    {
+      "code": "1087",
+      "name": "Maglehem"
+    },
+    {
+      "code": "1731",
+      "name": "Magra"
+    },
+    {
+      "code": "464",
+      "name": "Malexander"
+    },
+    {
+      "code": "2364",
+      "name": "Malingsbo"
+    },
+    {
+      "code": "1984",
+      "name": "Malma"
+    },
+    {
+      "code": "629",
+      "name": "Malmbäck"
+    },
+    {
+      "code": "1306",
+      "name": "Malmö"
+    },
+    {
+      "code": "50",
+      "name": "Malsta"
+    },
+    {
+      "code": "2365",
+      "name": "Malung"
+    },
+    {
+      "code": "145",
+      "name": "Malå"
+    },
+    {
+      "code": "2163",
+      "name": "Mangskog"
+    },
+    {
+      "code": "2548",
+      "name": "Marby"
+    },
+    {
+      "code": "1732",
+      "name": "Marbäck"
+    },
+    {
+      "code": "630",
+      "name": "Marbäck"
+    },
+    {
+      "code": "2549",
+      "name": "Marieby"
+    },
+    {
+      "code": "353",
+      "name": "Mariefred"
+    },
+    {
+      "code": "1985",
+      "name": "Mariestad"
+    },
+    {
+      "code": "1986",
+      "name": "Marka"
+    },
+    {
+      "code": "736",
+      "name": "Markaryd"
+    },
+    {
+      "code": "51",
+      "name": "Markim"
+    },
+    {
+      "code": "1577",
+      "name": "Marstrand"
+    },
+    {
+      "code": "952",
+      "name": "Martebo"
+    },
+    {
+      "code": "1987",
+      "name": "Marum"
+    },
+    {
+      "code": "1088",
+      "name": "Matteröd"
+    },
+    {
+      "code": "2550",
+      "name": "Mattmar"
+    },
+    {
+      "code": "1988",
+      "name": "Medelplana"
+    },
+    {
+      "code": "2305",
+      "name": "Medåker"
+    },
+    {
+      "code": "1307",
+      "name": "Mellan-Grevie"
+    },
+    {
+      "code": "1989",
+      "name": "Mellby"
+    },
+    {
+      "code": "632",
+      "name": "Mellby"
+    },
+    {
+      "code": "354",
+      "name": "Mellösa"
+    },
+    {
+      "code": "2164",
+      "name": "Millesvik"
+    },
+    {
+      "code": "737",
+      "name": "Mistelås"
+    },
+    {
+      "code": "845",
+      "name": "Misterhult"
+    },
+    {
+      "code": "1734",
+      "name": "Mjäldrunga"
+    },
+    {
+      "code": "1006",
+      "name": "Mjällby"
+    },
+    {
+      "code": "1735",
+      "name": "Mjöbäck"
+    },
+    {
+      "code": "465",
+      "name": "Mjölby"
+    },
+    {
+      "code": "1578",
+      "name": "Mo"
+    },
+    {
+      "code": "1736",
+      "name": "Mo"
+    },
+    {
+      "code": "1990",
+      "name": "Mo"
+    },
+    {
+      "code": "2424",
+      "name": "Mo"
+    },
+    {
+      "code": "2479",
+      "name": "Mo"
+    },
+    {
+      "code": "1991",
+      "name": "Mofalla"
+    },
+    {
+      "code": "466",
+      "name": "Mogata"
+    },
+    {
+      "code": "738",
+      "name": "Moheda"
+    },
+    {
+      "code": "1737",
+      "name": "Molla"
+    },
+    {
+      "code": "1579",
+      "name": "Mollösund"
+    },
+    {
+      "code": "2366",
+      "name": "Mora"
+    },
+    {
+      "code": "259",
+      "name": "Morkarla"
+    },
+    {
+      "code": "1580",
+      "name": "Morlanda"
+    },
+    {
+      "code": "846",
+      "name": "Mortorp"
+    },
+    {
+      "code": "1479",
+      "name": "Morup"
+    },
+    {
+      "code": "2253",
+      "name": "Mosjö"
+    },
+    {
+      "code": "1738",
+      "name": "Mossebo"
+    },
+    {
+      "code": "467",
+      "name": "Motala"
+    },
+    {
+      "code": "1992",
+      "name": "Mularp"
+    },
+    {
+      "code": "633",
+      "name": "Mulseryd"
+    },
+    {
+      "code": "3059",
+      "name": "Multrå"
+    },
+    {
+      "code": "1089",
+      "name": "Munka Ljungby"
+    },
+    {
+      "code": "1308",
+      "name": "Munkarp"
+    },
+    {
+      "code": "2306",
+      "name": "Munktorp"
+    },
+    {
+      "code": "52",
+      "name": "Munsö"
+    },
+    {
+      "code": "3503",
+      "name": "Muonionalusta"
+    },
+    {
+      "code": "1739",
+      "name": "Murum"
+    },
+    {
+      "code": "53",
+      "name": "Muskö"
+    },
+    {
+      "code": "1581",
+      "name": "Myckleby"
+    },
+    {
+      "code": "634",
+      "name": "Myresjö"
+    },
+    {
+      "code": "2551",
+      "name": "Myssjö"
+    },
+    {
+      "code": "953",
+      "name": "Mästerby"
+    },
+    {
+      "code": "847",
+      "name": "Målilla"
+    },
+    {
+      "code": "635",
+      "name": "Månsarp"
+    },
+    {
+      "code": "1740",
+      "name": "Månstad"
+    },
+    {
+      "code": "1741",
+      "name": "Mårdaklev"
+    },
+    {
+      "code": "54",
+      "name": "Möja"
+    },
+    {
+      "code": "2307",
+      "name": "Möklinta"
+    },
+    {
+      "code": "1310",
+      "name": "Mölleberga"
+    },
+    {
+      "code": "1993",
+      "name": "Mölltorp"
+    },
+    {
+      "code": "1582",
+      "name": "Mölndal"
+    },
+    {
+      "code": "1742",
+      "name": "Möne"
+    },
+    {
+      "code": "848",
+      "name": "Mönsterås"
+    },
+    {
+      "code": "1311",
+      "name": "Mörarp"
+    },
+    {
+      "code": "849",
+      "name": "Mörbylånga"
+    },
+    {
+      "code": "55",
+      "name": "Mörkö"
+    },
+    {
+      "code": "850",
+      "name": "Mörlunda"
+    },
+    {
+      "code": "1007",
+      "name": "Mörrum"
+    },
+    {
+      "code": "2552",
+      "name": "Mörsil"
+    },
+    {
+      "code": "56",
+      "name": "Nacka"
+    },
+    {
+      "code": "1994",
+      "name": "Naum"
+    },
+    {
+      "code": "1583",
+      "name": "Naverstad"
+    },
+    {
+      "code": "184",
+      "name": "Nederkalix"
+    },
+    {
+      "code": "185",
+      "name": "Nederluleå"
+    },
+    {
+      "code": "186",
+      "name": "Nedertorneå"
+    },
+    {
+      "code": "2166",
+      "name": "Nedre Ullerud"
+    },
+    {
+      "code": "1312",
+      "name": "Nevishög"
+    },
+    {
+      "code": "2406",
+      "name": "Nianfors"
+    },
+    {
+      "code": "3052",
+      "name": "Nikolai"
+    },
+    {
+      "code": "1743",
+      "name": "Nittorp"
+    },
+    {
+      "code": "2481",
+      "name": "Njurunda"
+    },
+    {
+      "code": "2426",
+      "name": "Njutånger"
+    },
+    {
+      "code": "2167",
+      "name": "Nor"
+    },
+    {
+      "code": "2254",
+      "name": "Nora"
+    },
+    {
+      "code": "2308",
+      "name": "Nora"
+    },
+    {
+      "code": "2482",
+      "name": "Nora"
+    },
+    {
+      "code": "4077",
+      "name": "Nora"
+    },
+    {
+      "code": "2309",
+      "name": "Norberg"
+    },
+    {
+      "code": "2553",
+      "name": "Norderön"
+    },
+    {
+      "code": "2483",
+      "name": "Nordingrå"
+    },
+    {
+      "code": "146",
+      "name": "Nordmaling"
+    },
+    {
+      "code": "2168",
+      "name": "Nordmark"
+    },
+    {
+      "code": "468",
+      "name": "Normlösa"
+    },
+    {
+      "code": "1744",
+      "name": "Norra Björke"
+    },
+    {
+      "code": "2169",
+      "name": "Norra Finnskoga"
+    },
+    {
+      "code": "1995",
+      "name": "Norra Fågelås"
+    },
+    {
+      "code": "636",
+      "name": "Norra Hestra"
+    },
+    {
+      "code": "1996",
+      "name": "Norra Härene"
+    },
+    {
+      "code": "1997",
+      "name": "Norra Kedum"
+    },
+    {
+      "code": "1998",
+      "name": "Norra Kyrketorp"
+    },
+    {
+      "code": "3012",
+      "name": "Norra Ljunga"
+    },
+    {
+      "code": "1999",
+      "name": "Norra Lundby"
+    },
+    {
+      "code": "1090",
+      "name": "Norra Mellby"
+    },
+    {
+      "code": "851",
+      "name": "Norra Möckleby"
+    },
+    {
+      "code": "2170",
+      "name": "Norra Ny"
+    },
+    {
+      "code": "1313",
+      "name": "Norra Nöbbelöv"
+    },
+    {
+      "code": "2171",
+      "name": "Norra Råda"
+    },
+    {
+      "code": "1314",
+      "name": "Norra Rörum"
+    },
+    {
+      "code": "1091",
+      "name": "Norra Sandby"
+    },
+    {
+      "code": "638",
+      "name": "Norra Sandsjö"
+    },
+    {
+      "code": "1315",
+      "name": "Norra Skrävlinge"
+    },
+    {
+      "code": "639",
+      "name": "Norra Solberga"
+    },
+    {
+      "code": "1092",
+      "name": "Norra Strö"
+    },
+    {
+      "code": "1745",
+      "name": "Norra Säm"
+    },
+    {
+      "code": "640",
+      "name": "Norra Unnaryd"
+    },
+    {
+      "code": "469",
+      "name": "Norra Vi"
+    },
+    {
+      "code": "2000",
+      "name": "Norra Ving"
+    },
+    {
+      "code": "1316",
+      "name": "Norra Vram"
+    },
+    {
+      "code": "2001",
+      "name": "Norra Vånga"
+    },
+    {
+      "code": "1093",
+      "name": "Norra Åkarp"
+    },
+    {
+      "code": "1746",
+      "name": "Norra Åsarp"
+    },
+    {
+      "code": "641",
+      "name": "Norrahammar"
+    },
+    {
+      "code": "2427",
+      "name": "Norrala"
+    },
+    {
+      "code": "2428",
+      "name": "Norrbo"
+    },
+    {
+      "code": "2310",
+      "name": "Norrby"
+    },
+    {
+      "code": "2255",
+      "name": "Norrbyås"
+    },
+    {
+      "code": "2367",
+      "name": "Norrbärke"
+    },
+    {
+      "code": "187",
+      "name": "Norrfjärden"
+    },
+    {
+      "code": "470",
+      "name": "Norrköping"
+    },
+    {
+      "code": "954",
+      "name": "Norrlanda"
+    },
+    {
+      "code": "57",
+      "name": "Norrsunda"
+    },
+    {
+      "code": "58",
+      "name": "Norrtälje"
+    },
+    {
+      "code": "1317",
+      "name": "Norrvidinge"
+    },
+    {
+      "code": "147",
+      "name": "Norsjö"
+    },
+    {
+      "code": "1584",
+      "name": "Norum"
+    },
+    {
+      "code": "1095",
+      "name": "Nosaby"
+    },
+    {
+      "code": "739",
+      "name": "Nottebäck"
+    },
+    {
+      "code": "2172",
+      "name": "Ny"
+    },
+    {
+      "code": "4100",
+      "name": "Nybro"
+    },
+    {
+      "code": "852",
+      "name": "Nybro"
+    },
+    {
+      "code": "642",
+      "name": "Nydala"
+    },
+    {
+      "code": "643",
+      "name": "Nye"
+    },
+    {
+      "code": "2173",
+      "name": "Nyed"
+    },
+    {
+      "code": "2554",
+      "name": "Nyhem"
+    },
+    {
+      "code": "471",
+      "name": "Nykil"
+    },
+    {
+      "code": "2003",
+      "name": "Nykyrka"
+    },
+    {
+      "code": "356",
+      "name": "Nykyrka"
+    },
+    {
+      "code": "357",
+      "name": "Nyköping"
+    },
+    {
+      "code": "1096",
+      "name": "Nymö"
+    },
+    {
+      "code": "61",
+      "name": "Nynäshamn"
+    },
+    {
+      "code": "2174",
+      "name": "Nyskoga"
+    },
+    {
+      "code": "2256",
+      "name": "Nysund"
+    },
+    {
+      "code": "148",
+      "name": "Nysätra"
+    },
+    {
+      "code": "260",
+      "name": "Nysätra"
+    },
+    {
+      "code": "62",
+      "name": "Nämdö"
+    },
+    {
+      "code": "955",
+      "name": "När"
+    },
+    {
+      "code": "63",
+      "name": "Närtuna"
+    },
+    {
+      "code": "2004",
+      "name": "Näs"
+    },
+    {
+      "code": "2555",
+      "name": "Näs"
+    },
+    {
+      "code": "956",
+      "name": "Näs"
+    },
+    {
+      "code": "644",
+      "name": "Näsby"
+    },
+    {
+      "code": "645",
+      "name": "Näshult"
+    },
+    {
+      "code": "358",
+      "name": "Näshulta"
+    },
+    {
+      "code": "1585",
+      "name": "Näsinge"
+    },
+    {
+      "code": "2556",
+      "name": "Näskott"
+    },
+    {
+      "code": "472",
+      "name": "Nässja"
+    },
+    {
+      "code": "4090",
+      "name": "Nässjö"
+    },
+    {
+      "code": "646",
+      "name": "Nässjö"
+    },
+    {
+      "code": "1097",
+      "name": "Näsum"
+    },
+    {
+      "code": "2484",
+      "name": "Nätra"
+    },
+    {
+      "code": "1008",
+      "name": "Nättraby"
+    },
+    {
+      "code": "647",
+      "name": "Nävelsjö"
+    },
+    {
+      "code": "1098",
+      "name": "Nävlinge"
+    },
+    {
+      "code": "1747",
+      "name": "Nårunga"
+    },
+    {
+      "code": "2368",
+      "name": "Nås"
+    },
+    {
+      "code": "740",
+      "name": "Nöbbele"
+    },
+    {
+      "code": "1748",
+      "name": "Nödinge"
+    },
+    {
+      "code": "1749",
+      "name": "Nössemark"
+    },
+    {
+      "code": "1480",
+      "name": "Nösslinge"
+    },
+    {
+      "code": "741",
+      "name": "Nöttja"
+    },
+    {
+      "code": "2429",
+      "name": "Ockelbo"
+    },
+    {
+      "code": "1750",
+      "name": "Od"
+    },
+    {
+      "code": "1318",
+      "name": "Odarslöv"
+    },
+    {
+      "code": "64",
+      "name": "Odensala"
+    },
+    {
+      "code": "742",
+      "name": "Odensjö"
+    },
+    {
+      "code": "2311",
+      "name": "Odensvi"
+    },
+    {
+      "code": "853",
+      "name": "Odensvi"
+    },
+    {
+      "code": "2005",
+      "name": "Odensåker"
+    },
+    {
+      "code": "1099",
+      "name": "Oderljunga"
+    },
+    {
+      "code": "2557",
+      "name": "Offerdal"
+    },
+    {
+      "code": "1481",
+      "name": "Okome"
+    },
+    {
+      "code": "1482",
+      "name": "Onsala"
+    },
+    {
+      "code": "1100",
+      "name": "Onslunda"
+    },
+    {
+      "code": "473",
+      "name": "Oppeby"
+    },
+    {
+      "code": "1101",
+      "name": "Oppmanna"
+    },
+    {
+      "code": "2369",
+      "name": "Ore"
+    },
+    {
+      "code": "65",
+      "name": "Orkesta"
+    },
+    {
+      "code": "474",
+      "name": "Orlunda"
+    },
+    {
+      "code": "743",
+      "name": "Ormesberga"
+    },
+    {
+      "code": "1751",
+      "name": "Ornunga"
+    },
+    {
+      "code": "66",
+      "name": "Ornö"
+    },
+    {
+      "code": "2370",
+      "name": "Orsa"
+    },
+    {
+      "code": "1102",
+      "name": "Osby"
+    },
+    {
+      "code": "854",
+      "name": "Oskar"
+    },
+    {
+      "code": "855",
+      "name": "Oskarshamn"
+    },
+    {
+      "code": "957",
+      "name": "Othem"
+    },
+    {
+      "code": "1319",
+      "name": "Ottarp"
+    },
+    {
+      "code": "2006",
+      "name": "Otterstad"
+    },
+    {
+      "code": "2007",
+      "name": "Ottravad"
+    },
+    {
+      "code": "2008",
+      "name": "Ova"
+    },
+    {
+      "code": "2430",
+      "name": "Ovansjö"
+    },
+    {
+      "code": "2431",
+      "name": "Ovanåker"
+    },
+    {
+      "code": "2558",
+      "name": "Oviken"
+    },
+    {
+      "code": "359",
+      "name": "Oxelösund"
+    },
+    {
+      "code": "1320",
+      "name": "Oxie"
+    },
+    {
+      "code": "188",
+      "name": "Pajala"
+    },
+    {
+      "code": "1586",
+      "name": "Partille"
+    },
+    {
+      "code": "856",
+      "name": "Pelarne"
+    },
+    {
+      "code": "857",
+      "name": "Persnäs"
+    },
+    {
+      "code": "1103",
+      "name": "Perstorp"
+    },
+    {
+      "code": "189",
+      "name": "Piteå"
+    },
+    {
+      "code": "195",
+      "name": "Piteå"
+    },
+    {
+      "code": "744",
+      "name": "Pjätteryd"
+    },
+    {
+      "code": "2009",
+      "name": "Rackeby"
+    },
+    {
+      "code": "2559",
+      "name": "Ragunda"
+    },
+    {
+      "code": "1009",
+      "name": "Ramdala"
+    },
+    {
+      "code": "648",
+      "name": "Ramkvilla"
+    },
+    {
+      "code": "2312",
+      "name": "Ramnäs"
+    },
+    {
+      "code": "2257",
+      "name": "Ramsberg"
+    },
+    {
+      "code": "2485",
+      "name": "Ramsele"
+    },
+    {
+      "code": "2432",
+      "name": "Ramsjö"
+    },
+    {
+      "code": "261",
+      "name": "Ramsta"
+    },
+    {
+      "code": "1104",
+      "name": "Ramsåsa"
+    },
+    {
+      "code": "2010",
+      "name": "Ransberg"
+    },
+    {
+      "code": "2175",
+      "name": "Ransäter"
+    },
+    {
+      "code": "475",
+      "name": "Rappestad"
+    },
+    {
+      "code": "262",
+      "name": "Rasbo"
+    },
+    {
+      "code": "263",
+      "name": "Rasbokil"
+    },
+    {
+      "code": "1105",
+      "name": "Ravlunda"
+    },
+    {
+      "code": "1106",
+      "name": "Rebbelberga"
+    },
+    {
+      "code": "1752",
+      "name": "Redslared"
+    },
+    {
+      "code": "649",
+      "name": "Reftele"
+    },
+    {
+      "code": "476",
+      "name": "Regna"
+    },
+    {
+      "code": "1322",
+      "name": "Remmarlöv"
+    },
+    {
+      "code": "1753",
+      "name": "Remmene"
+    },
+    {
+      "code": "2433",
+      "name": "Rengsjö"
+    },
+    {
+      "code": "2486",
+      "name": "Resele"
+    },
+    {
+      "code": "1323",
+      "name": "Reslöv"
+    },
+    {
+      "code": "858",
+      "name": "Resmo"
+    },
+    {
+      "code": "1587",
+      "name": "Resteröd"
+    },
+    {
+      "code": "1754",
+      "name": "Revesjö"
+    },
+    {
+      "code": "1324",
+      "name": "Revinge"
+    },
+    {
+      "code": "2560",
+      "name": "Revsund"
+    },
+    {
+      "code": "67",
+      "name": "Riala"
+    },
+    {
+      "code": "68",
+      "name": "Rimbo"
+    },
+    {
+      "code": "1010",
+      "name": "Ringamåla"
+    },
+    {
+      "code": "477",
+      "name": "Ringarum"
+    },
+    {
+      "code": "1107",
+      "name": "Rinkaby"
+    },
+    {
+      "code": "2258",
+      "name": "Rinkaby"
+    },
+    {
+      "code": "478",
+      "name": "Rinna"
+    },
+    {
+      "code": "360",
+      "name": "Ripsa"
+    },
+    {
+      "code": "1108",
+      "name": "Riseberga"
+    },
+    {
+      "code": "1325",
+      "name": "Risekatslösa"
+    },
+    {
+      "code": "479",
+      "name": "Risinge"
+    },
+    {
+      "code": "1755",
+      "name": "Roasjö"
+    },
+    {
+      "code": "650",
+      "name": "Rogberga"
+    },
+    {
+      "code": "480",
+      "name": "Rogslösa"
+    },
+    {
+      "code": "2434",
+      "name": "Rogsta"
+    },
+    {
+      "code": "1484",
+      "name": "Rolfstorp"
+    },
+    {
+      "code": "958",
+      "name": "Roma"
+    },
+    {
+      "code": "1588",
+      "name": "Romelanda"
+    },
+    {
+      "code": "2313",
+      "name": "Romfartuna"
+    },
+    {
+      "code": "1756",
+      "name": "Rommele"
+    },
+    {
+      "code": "959",
+      "name": "Rone"
+    },
+    {
+      "code": "1011",
+      "name": "Ronneby"
+    },
+    {
+      "code": "4007",
+      "name": "Ronneby"
+    },
+    {
+      "code": "69",
+      "name": "Roslags-Bro"
+    },
+    {
+      "code": "70",
+      "name": "Roslags-Kulla"
+    },
+    {
+      "code": "2176",
+      "name": "Rudskoga"
+    },
+    {
+      "code": "859",
+      "name": "Rumskulla"
+    },
+    {
+      "code": "860",
+      "name": "Runsten"
+    },
+    {
+      "code": "361",
+      "name": "Runtuna"
+    },
+    {
+      "code": "960",
+      "name": "Rute"
+    },
+    {
+      "code": "1109",
+      "name": "Rya"
+    },
+    {
+      "code": "2012",
+      "name": "Ryda"
+    },
+    {
+      "code": "651",
+      "name": "Rydaholm"
+    },
+    {
+      "code": "745",
+      "name": "Ryssby"
+    },
+    {
+      "code": "861",
+      "name": "Ryssby"
+    },
+    {
+      "code": "481",
+      "name": "Rystad"
+    },
+    {
+      "code": "2314",
+      "name": "Rytterne"
+    },
+    {
+      "code": "2177",
+      "name": "Rämmen"
+    },
+    {
+      "code": "1326",
+      "name": "Räng"
+    },
+    {
+      "code": "1759",
+      "name": "Rännelanda"
+    },
+    {
+      "code": "1485",
+      "name": "Ränneslöv"
+    },
+    {
+      "code": "862",
+      "name": "Räpplinge"
+    },
+    {
+      "code": "2561",
+      "name": "Rätan"
+    },
+    {
+      "code": "2371",
+      "name": "Rättvik"
+    },
+    {
+      "code": "1486",
+      "name": "Rävinge"
+    },
+    {
+      "code": "362",
+      "name": "Råby-Rekarne"
+    },
+    {
+      "code": "363",
+      "name": "Råby-Rönö"
+    },
+    {
+      "code": "1589",
+      "name": "Råda"
+    },
+    {
+      "code": "2013",
+      "name": "Råda"
+    },
+    {
+      "code": "2014",
+      "name": "Rådene"
+    },
+    {
+      "code": "73",
+      "name": "Rådmansö"
+    },
+    {
+      "code": "1757",
+      "name": "Råggärd"
+    },
+    {
+      "code": "190",
+      "name": "Råneå"
+    },
+    {
+      "code": "1758",
+      "name": "Rångedala"
+    },
+    {
+      "code": "75",
+      "name": "Rö"
+    },
+    {
+      "code": "1590",
+      "name": "Rödbo"
+    },
+    {
+      "code": "1327",
+      "name": "Röddinge"
+    },
+    {
+      "code": "1012",
+      "name": "Rödeby"
+    },
+    {
+      "code": "3064",
+      "name": "Rödene"
+    },
+    {
+      "code": "2562",
+      "name": "Rödön"
+    },
+    {
+      "code": "482",
+      "name": "Rök"
+    },
+    {
+      "code": "1110",
+      "name": "Röke"
+    },
+    {
+      "code": "1761",
+      "name": "Rölanda"
+    },
+    {
+      "code": "1591",
+      "name": "Rönnäng"
+    },
+    {
+      "code": "483",
+      "name": "Rönö"
+    },
+    {
+      "code": "1592",
+      "name": "Röra"
+    },
+    {
+      "code": "1111",
+      "name": "Rörum"
+    },
+    {
+      "code": "1328",
+      "name": "Röstånga"
+    },
+    {
+      "code": "2015",
+      "name": "Sal"
+    },
+    {
+      "code": "2315",
+      "name": "Sala"
+    },
+    {
+      "code": "3078",
+      "name": "Sala"
+    },
+    {
+      "code": "2016",
+      "name": "Saleby"
+    },
+    {
+      "code": "76",
+      "name": "Salem"
+    },
+    {
+      "code": "961",
+      "name": "Sanda"
+    },
+    {
+      "code": "863",
+      "name": "Sandby"
+    },
+    {
+      "code": "2017",
+      "name": "Sandhem"
+    },
+    {
+      "code": "1762",
+      "name": "Sandhult"
+    },
+    {
+      "code": "652",
+      "name": "Sandvik"
+    },
+    {
+      "code": "2435",
+      "name": "Sandviken"
+    },
+    {
+      "code": "484",
+      "name": "Sankt Anna"
+    },
+    {
+      "code": "1329",
+      "name": "Sankt Ibb"
+    },
+    {
+      "code": "1112",
+      "name": "Sankt Olof"
+    },
+    {
+      "code": "3045",
+      "name": "Sankt Olof"
+    },
+    {
+      "code": "1763",
+      "name": "Sankt Peder"
+    },
+    {
+      "code": "3046",
+      "name": "Sankt Per"
+    },
+    {
+      "code": "3075",
+      "name": "Sankt Per"
+    },
+    {
+      "code": "864",
+      "name": "Sankt Sigfrid"
+    },
+    {
+      "code": "1593",
+      "name": "Sanne"
+    },
+    {
+      "code": "1331",
+      "name": "Saxtorp"
+    },
+    {
+      "code": "2436",
+      "name": "Segersta"
+    },
+    {
+      "code": "2018",
+      "name": "Segerstad"
+    },
+    {
+      "code": "2178",
+      "name": "Segerstad"
+    },
+    {
+      "code": "865",
+      "name": "Segerstad"
+    },
+    {
+      "code": "1764",
+      "name": "Seglora"
+    },
+    {
+      "code": "2487",
+      "name": "Selånger"
+    },
+    {
+      "code": "2317",
+      "name": "Sevalla"
+    },
+    {
+      "code": "1765",
+      "name": "Sexdrega"
+    },
+    {
+      "code": "1487",
+      "name": "Sibbarp"
+    },
+    {
+      "code": "2488",
+      "name": "Sidensjö"
+    },
+    {
+      "code": "1766",
+      "name": "Siene"
+    },
+    {
+      "code": "80",
+      "name": "Sigtuna"
+    },
+    {
+      "code": "2019",
+      "name": "Sil"
+    },
+    {
+      "code": "2179",
+      "name": "Silbodal"
+    },
+    {
+      "code": "2372",
+      "name": "Siljansnäs"
+    },
+    {
+      "code": "2180",
+      "name": "Sillerud"
+    },
+    {
+      "code": "1013",
+      "name": "Sillhövda"
+    },
+    {
+      "code": "962",
+      "name": "Silte"
+    },
+    {
+      "code": "2373",
+      "name": "Silvberg"
+    },
+    {
+      "code": "1332",
+      "name": "Silvåkra"
+    },
+    {
+      "code": "1333",
+      "name": "Simlinge"
+    },
+    {
+      "code": "487",
+      "name": "Simonstorp"
+    },
+    {
+      "code": "1113",
+      "name": "Simris"
+    },
+    {
+      "code": "1114",
+      "name": "Simrishamn"
+    },
+    {
+      "code": "264",
+      "name": "Simtuna"
+    },
+    {
+      "code": "81",
+      "name": "Singö"
+    },
+    {
+      "code": "1334",
+      "name": "Sireköpinge"
+    },
+    {
+      "code": "2020",
+      "name": "Sjogerstad"
+    },
+    {
+      "code": "963",
+      "name": "Sjonhem"
+    },
+    {
+      "code": "2489",
+      "name": "Själevad"
+    },
+    {
+      "code": "488",
+      "name": "Sjögestad"
+    },
+    {
+      "code": "1335",
+      "name": "Sjörup"
+    },
+    {
+      "code": "746",
+      "name": "Sjösås"
+    },
+    {
+      "code": "1767",
+      "name": "Sjötofta"
+    },
+    {
+      "code": "1336",
+      "name": "Skabersjö"
+    },
+    {
+      "code": "1594",
+      "name": "Skaftö"
+    },
+    {
+      "code": "2259",
+      "name": "Skagershult"
+    },
+    {
+      "code": "2021",
+      "name": "Skallmeja"
+    },
+    {
+      "code": "1768",
+      "name": "Skallsjö"
+    },
+    {
+      "code": "2022",
+      "name": "Skalunda"
+    },
+    {
+      "code": "1337",
+      "name": "Skanör med Falsterbo"
+    },
+    {
+      "code": "2023",
+      "name": "Skara"
+    },
+    {
+      "code": "1338",
+      "name": "Skarhult"
+    },
+    {
+      "code": "2024",
+      "name": "Skarstad"
+    },
+    {
+      "code": "747",
+      "name": "Skatelöv"
+    },
+    {
+      "code": "2025",
+      "name": "Skeby"
+    },
+    {
+      "code": "489",
+      "name": "Skeda"
+    },
+    {
+      "code": "653",
+      "name": "Skede"
+    },
+    {
+      "code": "82",
+      "name": "Skederid"
+    },
+    {
+      "code": "490",
+      "name": "Skedevi"
+    },
+    {
+      "code": "1595",
+      "name": "Skee"
+    },
+    {
+      "code": "1339",
+      "name": "Skeglinge"
+    },
+    {
+      "code": "1340",
+      "name": "Skegrie"
+    },
+    {
+      "code": "149",
+      "name": "Skellefteå"
+    },
+    {
+      "code": "150",
+      "name": "Skellefteå"
+    },
+    {
+      "code": "3500",
+      "name": "Skene"
+    },
+    {
+      "code": "1770",
+      "name": "Skephult"
+    },
+    {
+      "code": "1115",
+      "name": "Skepparslöv"
+    },
+    {
+      "code": "654",
+      "name": "Skepperstad"
+    },
+    {
+      "code": "1771",
+      "name": "Skepplanda"
+    },
+    {
+      "code": "491",
+      "name": "Skeppsås"
+    },
+    {
+      "code": "83",
+      "name": "Skepptuna"
+    },
+    {
+      "code": "2181",
+      "name": "Skillingmark"
+    },
+    {
+      "code": "2319",
+      "name": "Skinnskatteberg"
+    },
+    {
+      "code": "657",
+      "name": "Skirö"
+    },
+    {
+      "code": "1341",
+      "name": "Skivarp"
+    },
+    {
+      "code": "2437",
+      "name": "Skog"
+    },
+    {
+      "code": "2490",
+      "name": "Skog"
+    },
+    {
+      "code": "265",
+      "name": "Skogs-Tibble"
+    },
+    {
+      "code": "1772",
+      "name": "Skogsbygden"
+    },
+    {
+      "code": "266",
+      "name": "Skokloster"
+    },
+    {
+      "code": "2491",
+      "name": "Skorped"
+    },
+    {
+      "code": "1488",
+      "name": "Skrea"
+    },
+    {
+      "code": "1596",
+      "name": "Skredsvik"
+    },
+    {
+      "code": "2320",
+      "name": "Skultuna"
+    },
+    {
+      "code": "1489",
+      "name": "Skummeslöv"
+    },
+    {
+      "code": "1342",
+      "name": "Skurup"
+    },
+    {
+      "code": "267",
+      "name": "Skuttunge"
+    },
+    {
+      "code": "268",
+      "name": "Skäfthammar"
+    },
+    {
+      "code": "1490",
+      "name": "Skällinge"
+    },
+    {
+      "code": "492",
+      "name": "Skällvik"
+    },
+    {
+      "code": "2027",
+      "name": "Skälvum"
+    },
+    {
+      "code": "493",
+      "name": "Skänninge"
+    },
+    {
+      "code": "494",
+      "name": "Skärkind"
+    },
+    {
+      "code": "658",
+      "name": "Skärstad"
+    },
+    {
+      "code": "2028",
+      "name": "Skärv"
+    },
+    {
+      "code": "84",
+      "name": "Skå"
+    },
+    {
+      "code": "1773",
+      "name": "Skållerud"
+    },
+    {
+      "code": "85",
+      "name": "Skånela"
+    },
+    {
+      "code": "1116",
+      "name": "Skånes-Fagerhult"
+    },
+    {
+      "code": "2026",
+      "name": "Skånings-Åsaka"
+    },
+    {
+      "code": "1343",
+      "name": "Skårby"
+    },
+    {
+      "code": "365",
+      "name": "Sköldinge"
+    },
+    {
+      "code": "2260",
+      "name": "Sköllersta"
+    },
+    {
+      "code": "1774",
+      "name": "Skölvene"
+    },
+    {
+      "code": "2492",
+      "name": "Skön"
+    },
+    {
+      "code": "495",
+      "name": "Skönberga"
+    },
+    {
+      "code": "2029",
+      "name": "Skörstorp"
+    },
+    {
+      "code": "2030",
+      "name": "Skövde"
+    },
+    {
+      "code": "496",
+      "name": "Slaka"
+    },
+    {
+      "code": "1344",
+      "name": "Slimminge"
+    },
+    {
+      "code": "2031",
+      "name": "Slädene"
+    },
+    {
+      "code": "1491",
+      "name": "Släp"
+    },
+    {
+      "code": "748",
+      "name": "Slätthög"
+    },
+    {
+      "code": "1492",
+      "name": "Slättåkra"
+    },
+    {
+      "code": "1493",
+      "name": "Slöinge"
+    },
+    {
+      "code": "2032",
+      "name": "Slöta"
+    },
+    {
+      "code": "866",
+      "name": "Smedby"
+    },
+    {
+      "code": "1117",
+      "name": "Smedstorp"
+    },
+    {
+      "code": "1775",
+      "name": "Smula"
+    },
+    {
+      "code": "2261",
+      "name": "Snavlunda"
+    },
+    {
+      "code": "1345",
+      "name": "Snårestad"
+    },
+    {
+      "code": "1494",
+      "name": "Snöstorp"
+    },
+    {
+      "code": "1346",
+      "name": "Solberga"
+    },
+    {
+      "code": "1597",
+      "name": "Solberga"
+    },
+    {
+      "code": "1776",
+      "name": "Solberga"
+    },
+    {
+      "code": "2493",
+      "name": "Sollefteå"
+    },
+    {
+      "code": "4025",
+      "name": "Sollefteå"
+    },
+    {
+      "code": "87",
+      "name": "Sollentuna"
+    },
+    {
+      "code": "2375",
+      "name": "Sollerön"
+    },
+    {
+      "code": "88",
+      "name": "Solna"
+    },
+    {
+      "code": "151",
+      "name": "Sorsele"
+    },
+    {
+      "code": "89",
+      "name": "Sorunda"
+    },
+    {
+      "code": "1495",
+      "name": "Spannarp"
+    },
+    {
+      "code": "2035",
+      "name": "Sparlösa"
+    },
+    {
+      "code": "269",
+      "name": "Sparrsätra"
+    },
+    {
+      "code": "1598",
+      "name": "Spekeröd"
+    },
+    {
+      "code": "366",
+      "name": "Spelvik"
+    },
+    {
+      "code": "1118",
+      "name": "Spjutstorp"
+    },
+    {
+      "code": "964",
+      "name": "Sproge"
+    },
+    {
+      "code": "1496",
+      "name": "Stafsinge"
+    },
+    {
+      "code": "1599",
+      "name": "Stala"
+    },
+    {
+      "code": "1497",
+      "name": "Stamnared"
+    },
+    {
+      "code": "1119",
+      "name": "Starby"
+    },
+    {
+      "code": "1777",
+      "name": "Starrkärr"
+    },
+    {
+      "code": "270",
+      "name": "Stavby"
+    },
+    {
+      "code": "2182",
+      "name": "Stavnäs"
+    },
+    {
+      "code": "1347",
+      "name": "Stehag"
+    },
+    {
+      "code": "659",
+      "name": "Stenberga"
+    },
+    {
+      "code": "749",
+      "name": "Stenbrohult"
+    },
+    {
+      "code": "1778",
+      "name": "Steneby"
+    },
+    {
+      "code": "1348",
+      "name": "Stenestad"
+    },
+    {
+      "code": "660",
+      "name": "Stengårdshult"
+    },
+    {
+      "code": "1498",
+      "name": "Steninge"
+    },
+    {
+      "code": "965",
+      "name": "Stenkumla"
+    },
+    {
+      "code": "367",
+      "name": "Stenkvista"
+    },
+    {
+      "code": "1600",
+      "name": "Stenkyrka"
+    },
+    {
+      "code": "966",
+      "name": "Stenkyrka"
+    },
+    {
+      "code": "152",
+      "name": "Stensele"
+    },
+    {
+      "code": "2036",
+      "name": "Stenstorp"
+    },
+    {
+      "code": "2037",
+      "name": "Stenum"
+    },
+    {
+      "code": "867",
+      "name": "Stenåsa"
+    },
+    {
+      "code": "1120",
+      "name": "Stiby"
+    },
+    {
+      "code": "2494",
+      "name": "Stigsjö"
+    },
+    {
+      "code": "368",
+      "name": "Stigtomta"
+    },
+    {
+      "code": "497",
+      "name": "Stjärnorp"
+    },
+    {
+      "code": "1121",
+      "name": "Stoby"
+    },
+    {
+      "code": "661",
+      "name": "Stockaryd"
+    },
+    {
+      "code": "91",
+      "name": "Stockholm"
+    },
+    {
+      "code": "4123",
+      "name": "Stocksund"
+    },
+    {
+      "code": "1349",
+      "name": "Stora Hammar"
+    },
+    {
+      "code": "1350",
+      "name": "Stora Harrie"
+    },
+    {
+      "code": "1351",
+      "name": "Stora Herrestad"
+    },
+    {
+      "code": "2183",
+      "name": "Stora Kil"
+    },
+    {
+      "code": "2376",
+      "name": "Stora Kopparberg"
+    },
+    {
+      "code": "1352",
+      "name": "Stora Köpinge"
+    },
+    {
+      "code": "1779",
+      "name": "Stora Lundby"
+    },
+    {
+      "code": "369",
+      "name": "Stora Malm"
+    },
+    {
+      "code": "1780",
+      "name": "Stora Mellby"
+    },
+    {
+      "code": "2262",
+      "name": "Stora Mellösa"
+    },
+    {
+      "code": "2377",
+      "name": "Stora Skedvi"
+    },
+    {
+      "code": "1354",
+      "name": "Stora Slågarp"
+    },
+    {
+      "code": "2378",
+      "name": "Stora Tuna"
+    },
+    {
+      "code": "498",
+      "name": "Stora Åby"
+    },
+    {
+      "code": "3501",
+      "name": "Storfors"
+    },
+    {
+      "code": "2563",
+      "name": "Storsjö"
+    },
+    {
+      "code": "370",
+      "name": "Strängnäs"
+    },
+    {
+      "code": "4001",
+      "name": "Strängnäs"
+    },
+    {
+      "code": "1781",
+      "name": "Strängsered"
+    },
+    {
+      "code": "499",
+      "name": "Strå"
+    },
+    {
+      "code": "1499",
+      "name": "Stråvalla"
+    },
+    {
+      "code": "2038",
+      "name": "Strö"
+    },
+    {
+      "code": "2564",
+      "name": "Ström"
+    },
+    {
+      "code": "1601",
+      "name": "Strömstad"
+    },
+    {
+      "code": "1122",
+      "name": "Strövelstorp"
+    },
+    {
+      "code": "2566",
+      "name": "Stugun"
+    },
+    {
+      "code": "1014",
+      "name": "Sturkö"
+    },
+    {
+      "code": "500",
+      "name": "Styra"
+    },
+    {
+      "code": "2495",
+      "name": "Styrnäs"
+    },
+    {
+      "code": "1602",
+      "name": "Styrsö"
+    },
+    {
+      "code": "1356",
+      "name": "Stävie"
+    },
+    {
+      "code": "967",
+      "name": "Stånga"
+    },
+    {
+      "code": "1355",
+      "name": "Stångby"
+    },
+    {
+      "code": "2496",
+      "name": "Stöde"
+    },
+    {
+      "code": "502",
+      "name": "Sund"
+    },
+    {
+      "code": "1782",
+      "name": "Sundals-Ryr"
+    },
+    {
+      "code": "2379",
+      "name": "Sundborn"
+    },
+    {
+      "code": "371",
+      "name": "Sundby"
+    },
+    {
+      "code": "94",
+      "name": "Sundbyberg"
+    },
+    {
+      "code": "968",
+      "name": "Sundre"
+    },
+    {
+      "code": "2567",
+      "name": "Sundsjö"
+    },
+    {
+      "code": "2497",
+      "name": "Sundsvall"
+    },
+    {
+      "code": "2185",
+      "name": "Sunne"
+    },
+    {
+      "code": "2568",
+      "name": "Sunne"
+    },
+    {
+      "code": "2186",
+      "name": "Sunnemo"
+    },
+    {
+      "code": "2039",
+      "name": "Sunnersberg"
+    },
+    {
+      "code": "2040",
+      "name": "Suntak"
+    },
+    {
+      "code": "2321",
+      "name": "Sura"
+    },
+    {
+      "code": "1783",
+      "name": "Surteby-Kattunga"
+    },
+    {
+      "code": "1357",
+      "name": "Svalöv"
+    },
+    {
+      "code": "503",
+      "name": "Svanshals"
+    },
+    {
+      "code": "2187",
+      "name": "Svanskog"
+    },
+    {
+      "code": "1603",
+      "name": "Svarteborg"
+    },
+    {
+      "code": "2380",
+      "name": "Svartnäs"
+    },
+    {
+      "code": "1500",
+      "name": "Svartrå"
+    },
+    {
+      "code": "662",
+      "name": "Svarttorp"
+    },
+    {
+      "code": "1358",
+      "name": "Svedala"
+    },
+    {
+      "code": "2569",
+      "name": "Sveg"
+    },
+    {
+      "code": "663",
+      "name": "Svenarum"
+    },
+    {
+      "code": "2041",
+      "name": "Sveneby"
+    },
+    {
+      "code": "1784",
+      "name": "Svenljunga"
+    },
+    {
+      "code": "1604",
+      "name": "Svenneby"
+    },
+    {
+      "code": "2263",
+      "name": "Svennevad"
+    },
+    {
+      "code": "1359",
+      "name": "Svensköp"
+    },
+    {
+      "code": "1360",
+      "name": "Svenstorp"
+    },
+    {
+      "code": "2042",
+      "name": "Sventorp"
+    },
+    {
+      "code": "504",
+      "name": "Svinhult"
+    },
+    {
+      "code": "271",
+      "name": "Svinnegarn"
+    },
+    {
+      "code": "2381",
+      "name": "Svärdsjö"
+    },
+    {
+      "code": "372",
+      "name": "Svärta"
+    },
+    {
+      "code": "505",
+      "name": "Sya"
+    },
+    {
+      "code": "2043",
+      "name": "Synnerby"
+    },
+    {
+      "code": "2499",
+      "name": "Säbrå"
+    },
+    {
+      "code": "1361",
+      "name": "Säby"
+    },
+    {
+      "code": "2323",
+      "name": "Säby"
+    },
+    {
+      "code": "3013",
+      "name": "Säby"
+    },
+    {
+      "code": "2188",
+      "name": "Säffle"
+    },
+    {
+      "code": "2382",
+      "name": "Säfsnäs"
+    },
+    {
+      "code": "1501",
+      "name": "Sällstorp"
+    },
+    {
+      "code": "2044",
+      "name": "Särestad"
+    },
+    {
+      "code": "2383",
+      "name": "Särna"
+    },
+    {
+      "code": "1362",
+      "name": "Särslöv"
+    },
+    {
+      "code": "2045",
+      "name": "Säter"
+    },
+    {
+      "code": "2384",
+      "name": "Säter"
+    },
+    {
+      "code": "4104",
+      "name": "Säter"
+    },
+    {
+      "code": "1785",
+      "name": "Sätila"
+    },
+    {
+      "code": "373",
+      "name": "Sättersta"
+    },
+    {
+      "code": "2500",
+      "name": "Sättna"
+    },
+    {
+      "code": "2046",
+      "name": "Sätuna"
+    },
+    {
+      "code": "153",
+      "name": "Sävar"
+    },
+    {
+      "code": "2047",
+      "name": "Sävare"
+    },
+    {
+      "code": "1605",
+      "name": "Säve"
+    },
+    {
+      "code": "665",
+      "name": "Sävsjö"
+    },
+    {
+      "code": "2498",
+      "name": "Sånga"
+    },
+    {
+      "code": "95",
+      "name": "Sånga"
+    },
+    {
+      "code": "2439",
+      "name": "Söderala"
+    },
+    {
+      "code": "96",
+      "name": "Söderby-Karl"
+    },
+    {
+      "code": "2385",
+      "name": "Söderbärke"
+    },
+    {
+      "code": "272",
+      "name": "Söderfors"
+    },
+    {
+      "code": "2440",
+      "name": "Söderhamn"
+    },
+    {
+      "code": "506",
+      "name": "Söderköping"
+    },
+    {
+      "code": "98",
+      "name": "Södertälje"
+    },
+    {
+      "code": "1363",
+      "name": "Södervidinge"
+    },
+    {
+      "code": "868",
+      "name": "Söderåkra"
+    },
+    {
+      "code": "1786",
+      "name": "Södra Björke"
+    },
+    {
+      "code": "2189",
+      "name": "Södra Finnskoga"
+    },
+    {
+      "code": "2048",
+      "name": "Södra Fågelås"
+    },
+    {
+      "code": "666",
+      "name": "Södra Hestra"
+    },
+    {
+      "code": "1787",
+      "name": "Södra Härene"
+    },
+    {
+      "code": "2049",
+      "name": "Södra Kedum"
+    },
+    {
+      "code": "2050",
+      "name": "Södra Kyrketorp"
+    },
+    {
+      "code": "751",
+      "name": "Södra Ljunga"
+    },
+    {
+      "code": "2051",
+      "name": "Södra Lundby"
+    },
+    {
+      "code": "1123",
+      "name": "Södra Mellby"
+    },
+    {
+      "code": "869",
+      "name": "Södra Möckleby"
+    },
+    {
+      "code": "2190",
+      "name": "Södra Ny"
+    },
+    {
+      "code": "2052",
+      "name": "Södra Råda"
+    },
+    {
+      "code": "1364",
+      "name": "Södra Rörum"
+    },
+    {
+      "code": "1366",
+      "name": "Södra Sandby"
+    },
+    {
+      "code": "752",
+      "name": "Södra Sandsjö"
+    },
+    {
+      "code": "667",
+      "name": "Södra Solberga"
+    },
+    {
+      "code": "1788",
+      "name": "Södra Säm"
+    },
+    {
+      "code": "668",
+      "name": "Södra Unnaryd"
+    },
+    {
+      "code": "870",
+      "name": "Södra Vi"
+    },
+    {
+      "code": "1789",
+      "name": "Södra Ving"
+    },
+    {
+      "code": "1367",
+      "name": "Södra Vram"
+    },
+    {
+      "code": "1790",
+      "name": "Södra Vånga"
+    },
+    {
+      "code": "1368",
+      "name": "Södra Åby"
+    },
+    {
+      "code": "1369",
+      "name": "Södra Åkarp"
+    },
+    {
+      "code": "1370",
+      "name": "Södra Åsum"
+    },
+    {
+      "code": "1015",
+      "name": "Sölvesborg"
+    },
+    {
+      "code": "4106",
+      "name": "Sölvesborg"
+    },
+    {
+      "code": "1503",
+      "name": "Söndrum"
+    },
+    {
+      "code": "2053",
+      "name": "Söne"
+    },
+    {
+      "code": "753",
+      "name": "Söraby"
+    },
+    {
+      "code": "1124",
+      "name": "Sörby"
+    },
+    {
+      "code": "2054",
+      "name": "Sörby"
+    },
+    {
+      "code": "1371",
+      "name": "Sövde"
+    },
+    {
+      "code": "1372",
+      "name": "Sövestad"
+    },
+    {
+      "code": "754",
+      "name": "Tannåker"
+    },
+    {
+      "code": "1606",
+      "name": "Tanum"
+    },
+    {
+      "code": "1791",
+      "name": "Tarsled"
+    },
+    {
+      "code": "99",
+      "name": "Taxinge"
+    },
+    {
+      "code": "273",
+      "name": "Teda"
+    },
+    {
+      "code": "274",
+      "name": "Tegelsmora"
+    },
+    {
+      "code": "755",
+      "name": "Tegnaby"
+    },
+    {
+      "code": "1607",
+      "name": "Tegneby"
+    },
+    {
+      "code": "2055",
+      "name": "Tengene"
+    },
+    {
+      "code": "275",
+      "name": "Tensta"
+    },
+    {
+      "code": "2056",
+      "name": "Tiarp"
+    },
+    {
+      "code": "2057",
+      "name": "Tibro"
+    },
+    {
+      "code": "2058",
+      "name": "Tidaholm"
+    },
+    {
+      "code": "2059",
+      "name": "Tidavad"
+    },
+    {
+      "code": "507",
+      "name": "Tidersrum"
+    },
+    {
+      "code": "276",
+      "name": "Tierp"
+    },
+    {
+      "code": "2325",
+      "name": "Tillberga"
+    },
+    {
+      "code": "277",
+      "name": "Tillinge"
+    },
+    {
+      "code": "1792",
+      "name": "Timmele"
+    },
+    {
+      "code": "2060",
+      "name": "Timmersdala"
+    },
+    {
+      "code": "2501",
+      "name": "Timrå"
+    },
+    {
+      "code": "969",
+      "name": "Tingstäde"
+    },
+    {
+      "code": "757",
+      "name": "Tingsås"
+    },
+    {
+      "code": "1374",
+      "name": "Tirup"
+    },
+    {
+      "code": "1793",
+      "name": "Tisselskog"
+    },
+    {
+      "code": "2264",
+      "name": "Tived"
+    },
+    {
+      "code": "758",
+      "name": "Tjureda"
+    },
+    {
+      "code": "1016",
+      "name": "Tjurkö"
+    },
+    {
+      "code": "509",
+      "name": "Tjällmo"
+    },
+    {
+      "code": "1504",
+      "name": "Tjärby"
+    },
+    {
+      "code": "1608",
+      "name": "Tjärnö"
+    },
+    {
+      "code": "510",
+      "name": "Tjärstad"
+    },
+    {
+      "code": "1375",
+      "name": "Tjörnarp"
+    },
+    {
+      "code": "1794",
+      "name": "Toarp"
+    },
+    {
+      "code": "1376",
+      "name": "Tofta"
+    },
+    {
+      "code": "970",
+      "name": "Tofta"
+    },
+    {
+      "code": "669",
+      "name": "Tofteryd"
+    },
+    {
+      "code": "278",
+      "name": "Tolfta"
+    },
+    {
+      "code": "759",
+      "name": "Tolg"
+    },
+    {
+      "code": "1377",
+      "name": "Tolånga"
+    },
+    {
+      "code": "2061",
+      "name": "Torbjörntorp"
+    },
+    {
+      "code": "1126",
+      "name": "Torekov"
+    },
+    {
+      "code": "1795",
+      "name": "Torestorp"
+    },
+    {
+      "code": "374",
+      "name": "Toresund"
+    },
+    {
+      "code": "1017",
+      "name": "Torhamn"
+    },
+    {
+      "code": "1609",
+      "name": "Torp"
+    },
+    {
+      "code": "1796",
+      "name": "Torp"
+    },
+    {
+      "code": "2502",
+      "name": "Torp"
+    },
+    {
+      "code": "1505",
+      "name": "Torpa"
+    },
+    {
+      "code": "2326",
+      "name": "Torpa"
+    },
+    {
+      "code": "511",
+      "name": "Torpa"
+    },
+    {
+      "code": "760",
+      "name": "Torpa"
+    },
+    {
+      "code": "1378",
+      "name": "Torrlösa"
+    },
+    {
+      "code": "1798",
+      "name": "Torrskog"
+    },
+    {
+      "code": "1610",
+      "name": "Torsby"
+    },
+    {
+      "code": "375",
+      "name": "Torshälla"
+    },
+    {
+      "code": "4012",
+      "name": "Torshälla"
+    },
+    {
+      "code": "670",
+      "name": "Torskinge"
+    },
+    {
+      "code": "1611",
+      "name": "Torslanda"
+    },
+    {
+      "code": "871",
+      "name": "Torslunda"
+    },
+    {
+      "code": "279",
+      "name": "Torstuna"
+    },
+    {
+      "code": "280",
+      "name": "Torsvi"
+    },
+    {
+      "code": "2441",
+      "name": "Torsåker"
+    },
+    {
+      "code": "2503",
+      "name": "Torsåker"
+    },
+    {
+      "code": "376",
+      "name": "Torsåker"
+    },
+    {
+      "code": "2386",
+      "name": "Torsång"
+    },
+    {
+      "code": "872",
+      "name": "Torsås"
+    },
+    {
+      "code": "2062",
+      "name": "Torsö"
+    },
+    {
+      "code": "2327",
+      "name": "Tortuna"
+    },
+    {
+      "code": "1506",
+      "name": "Torup"
+    },
+    {
+      "code": "100",
+      "name": "Torö"
+    },
+    {
+      "code": "1612",
+      "name": "Tossene"
+    },
+    {
+      "code": "1799",
+      "name": "Tostared"
+    },
+    {
+      "code": "1127",
+      "name": "Tosterup"
+    },
+    {
+      "code": "1379",
+      "name": "Tottarp"
+    },
+    {
+      "code": "1800",
+      "name": "Tranemo"
+    },
+    {
+      "code": "2192",
+      "name": "Trankil"
+    },
+    {
+      "code": "2387",
+      "name": "Transtrand"
+    },
+    {
+      "code": "2063",
+      "name": "Tranum"
+    },
+    {
+      "code": "1128",
+      "name": "Tranås"
+    },
+    {
+      "code": "671",
+      "name": "Tranås"
+    },
+    {
+      "code": "761",
+      "name": "Traryd"
+    },
+    {
+      "code": "512",
+      "name": "Trehörna"
+    },
+    {
+      "code": "2504",
+      "name": "Trehörningsjö"
+    },
+    {
+      "code": "1380",
+      "name": "Trelleborg"
+    },
+    {
+      "code": "1129",
+      "name": "Trolle-Ljungby"
+    },
+    {
+      "code": "1381",
+      "name": "Trollenäs"
+    },
+    {
+      "code": "1801",
+      "name": "Trollhättan"
+    },
+    {
+      "code": "377",
+      "name": "Trosa"
+    },
+    {
+      "code": "378",
+      "name": "Trosa-Vagnhärad"
+    },
+    {
+      "code": "1130",
+      "name": "Tryde"
+    },
+    {
+      "code": "513",
+      "name": "Tryserum"
+    },
+    {
+      "code": "971",
+      "name": "Träkumla"
+    },
+    {
+      "code": "1131",
+      "name": "Träne"
+    },
+    {
+      "code": "1507",
+      "name": "Träslöv"
+    },
+    {
+      "code": "2065",
+      "name": "Trässberg"
+    },
+    {
+      "code": "2066",
+      "name": "Trästena"
+    },
+    {
+      "code": "2067",
+      "name": "Trävattna"
+    },
+    {
+      "code": "2064",
+      "name": "Tråvad"
+    },
+    {
+      "code": "2068",
+      "name": "Trökörna"
+    },
+    {
+      "code": "1508",
+      "name": "Trönninge"
+    },
+    {
+      "code": "2442",
+      "name": "Trönö"
+    },
+    {
+      "code": "1382",
+      "name": "Tullstorp"
+    },
+    {
+      "code": "1802",
+      "name": "Tumberg"
+    },
+    {
+      "code": "379",
+      "name": "Tumbo"
+    },
+    {
+      "code": "2069",
+      "name": "Tun"
+    },
+    {
+      "code": "2505",
+      "name": "Tuna"
+    },
+    {
+      "code": "281",
+      "name": "Tuna"
+    },
+    {
+      "code": "380",
+      "name": "Tuna"
+    },
+    {
+      "code": "873",
+      "name": "Tuna"
+    },
+    {
+      "code": "381",
+      "name": "Tunaberg"
+    },
+    {
+      "code": "1803",
+      "name": "Tunge"
+    },
+    {
+      "code": "101",
+      "name": "Turinge"
+    },
+    {
+      "code": "762",
+      "name": "Tutaryd"
+    },
+    {
+      "code": "1613",
+      "name": "Tuve"
+    },
+    {
+      "code": "102",
+      "name": "Tveta"
+    },
+    {
+      "code": "3056",
+      "name": "Tveta"
+    },
+    {
+      "code": "874",
+      "name": "Tveta"
+    },
+    {
+      "code": "1018",
+      "name": "Tving"
+    },
+    {
+      "code": "1804",
+      "name": "Tvärred"
+    },
+    {
+      "code": "1509",
+      "name": "Tvååker"
+    },
+    {
+      "code": "1805",
+      "name": "Tydje"
+    },
+    {
+      "code": "1383",
+      "name": "Tygelsjö"
+    },
+    {
+      "code": "2506",
+      "name": "Tynderö"
+    },
+    {
+      "code": "103",
+      "name": "Tyresö"
+    },
+    {
+      "code": "2265",
+      "name": "Tysslinge"
+    },
+    {
+      "code": "382",
+      "name": "Tystberga"
+    },
+    {
+      "code": "104",
+      "name": "Täby"
+    },
+    {
+      "code": "2267",
+      "name": "Täby"
+    },
+    {
+      "code": "1806",
+      "name": "Tämta"
+    },
+    {
+      "code": "2071",
+      "name": "Täng"
+    },
+    {
+      "code": "2571",
+      "name": "Tännäs"
+    },
+    {
+      "code": "1807",
+      "name": "Tärby"
+    },
+    {
+      "code": "191",
+      "name": "Tärendö"
+    },
+    {
+      "code": "154",
+      "name": "Tärna"
+    },
+    {
+      "code": "2328",
+      "name": "Tärna"
+    },
+    {
+      "code": "763",
+      "name": "Tävelsås"
+    },
+    {
+      "code": "514",
+      "name": "Tåby"
+    },
+    {
+      "code": "2070",
+      "name": "Tådene"
+    },
+    {
+      "code": "2266",
+      "name": "Tångeråsa"
+    },
+    {
+      "code": "672",
+      "name": "Tånnö"
+    },
+    {
+      "code": "2507",
+      "name": "Tåsjö"
+    },
+    {
+      "code": "1132",
+      "name": "Tåssjö"
+    },
+    {
+      "code": "1133",
+      "name": "Tåstarp"
+    },
+    {
+      "code": "2194",
+      "name": "Töcksmark"
+    },
+    {
+      "code": "1808",
+      "name": "Töftedal"
+    },
+    {
+      "code": "1809",
+      "name": "Töllsjö"
+    },
+    {
+      "code": "1510",
+      "name": "Tölö"
+    },
+    {
+      "code": "1511",
+      "name": "Tönnersjö"
+    },
+    {
+      "code": "192",
+      "name": "Töre"
+    },
+    {
+      "code": "1857",
+      "name": "Töreboda"
+    },
+    {
+      "code": "515",
+      "name": "Törnevalla"
+    },
+    {
+      "code": "875",
+      "name": "Törnsfall"
+    },
+    {
+      "code": "1384",
+      "name": "Törringe"
+    },
+    {
+      "code": "1810",
+      "name": "Tösse"
+    },
+    {
+      "code": "1614",
+      "name": "Ucklum"
+    },
+    {
+      "code": "1615",
+      "name": "Uddevalla"
+    },
+    {
+      "code": "2073",
+      "name": "Ugglum"
+    },
+    {
+      "code": "876",
+      "name": "Ukna"
+    },
+    {
+      "code": "1512",
+      "name": "Ullared"
+    },
+    {
+      "code": "1811",
+      "name": "Ullasjö"
+    },
+    {
+      "code": "2074",
+      "name": "Ullene"
+    },
+    {
+      "code": "2075",
+      "name": "Ullervad"
+    },
+    {
+      "code": "1134",
+      "name": "Ullstorp"
+    },
+    {
+      "code": "2508",
+      "name": "Ullånger"
+    },
+    {
+      "code": "1812",
+      "name": "Ulricehamn"
+    },
+    {
+      "code": "516",
+      "name": "Ulrika"
+    },
+    {
+      "code": "142",
+      "name": "Umeå"
+    },
+    {
+      "code": "155",
+      "name": "Umeå"
+    },
+    {
+      "code": "2076",
+      "name": "Undenäs"
+    },
+    {
+      "code": "2443",
+      "name": "Undersvik"
+    },
+    {
+      "code": "2572",
+      "name": "Undersåker"
+    },
+    {
+      "code": "105",
+      "name": "Ununge"
+    },
+    {
+      "code": "1813",
+      "name": "Upphärad"
+    },
+    {
+      "code": "282",
+      "name": "Uppsala"
+    },
+    {
+      "code": "283",
+      "name": "Uppsala-Näs"
+    },
+    {
+      "code": "1385",
+      "name": "Uppåkra"
+    },
+    {
+      "code": "764",
+      "name": "Urshult"
+    },
+    {
+      "code": "765",
+      "name": "Uråsa"
+    },
+    {
+      "code": "2077",
+      "name": "Utby"
+    },
+    {
+      "code": "2078",
+      "name": "Utvängstorp"
+    },
+    {
+      "code": "106",
+      "name": "Utö"
+    },
+    {
+      "code": "2079",
+      "name": "Uvered"
+    },
+    {
+      "code": "2080",
+      "name": "Vad"
+    },
+    {
+      "code": "107",
+      "name": "Vada"
+    },
+    {
+      "code": "1386",
+      "name": "Vadensjö"
+    },
+    {
+      "code": "383",
+      "name": "Vadsbro"
+    },
+    {
+      "code": "517",
+      "name": "Vadstena"
+    },
+    {
+      "code": "284",
+      "name": "Vaksala"
+    },
+    {
+      "code": "2444",
+      "name": "Valbo"
+    },
+    {
+      "code": "1616",
+      "name": "Valbo-Ryr"
+    },
+    {
+      "code": "675",
+      "name": "Valdshult"
+    },
+    {
+      "code": "1513",
+      "name": "Valinge"
+    },
+    {
+      "code": "972",
+      "name": "Vall"
+    },
+    {
+      "code": "1617",
+      "name": "Valla"
+    },
+    {
+      "code": "1135",
+      "name": "Vallby"
+    },
+    {
+      "code": "285",
+      "name": "Vallby"
+    },
+    {
+      "code": "384",
+      "name": "Vallby"
+    },
+    {
+      "code": "1514",
+      "name": "Vallda"
+    },
+    {
+      "code": "1136",
+      "name": "Valleberga"
+    },
+    {
+      "code": "108",
+      "name": "Vallentuna"
+    },
+    {
+      "code": "519",
+      "name": "Vallerstad"
+    },
+    {
+      "code": "1388",
+      "name": "Vallkärra"
+    },
+    {
+      "code": "3016",
+      "name": "Vallsjö"
+    },
+    {
+      "code": "973",
+      "name": "Vallstena"
+    },
+    {
+      "code": "2081",
+      "name": "Valstad"
+    },
+    {
+      "code": "2082",
+      "name": "Valtorp"
+    },
+    {
+      "code": "286",
+      "name": "Valö"
+    },
+    {
+      "code": "974",
+      "name": "Vamlingbo"
+    },
+    {
+      "code": "1137",
+      "name": "Vankiva"
+    },
+    {
+      "code": "1389",
+      "name": "Vanstad"
+    },
+    {
+      "code": "385",
+      "name": "Vansö"
+    },
+    {
+      "code": "1515",
+      "name": "Vapnö"
+    },
+    {
+      "code": "2083",
+      "name": "Vara"
+    },
+    {
+      "code": "1516",
+      "name": "Varberg"
+    },
+    {
+      "code": "2084",
+      "name": "Varnhem"
+    },
+    {
+      "code": "1814",
+      "name": "Varnum"
+    },
+    {
+      "code": "3057",
+      "name": "Varnum"
+    },
+    {
+      "code": "2085",
+      "name": "Varola"
+    },
+    {
+      "code": "2086",
+      "name": "Vartofta-Åsaka"
+    },
+    {
+      "code": "2087",
+      "name": "Varv"
+    },
+    {
+      "code": "520",
+      "name": "Varv"
+    },
+    {
+      "code": "287",
+      "name": "Vassunda"
+    },
+    {
+      "code": "109",
+      "name": "Vaxholm"
+    },
+    {
+      "code": "1390",
+      "name": "Veberöd"
+    },
+    {
+      "code": "288",
+      "name": "Veckholm"
+    },
+    {
+      "code": "1138",
+      "name": "Vedby"
+    },
+    {
+      "code": "1517",
+      "name": "Veddige"
+    },
+    {
+      "code": "766",
+      "name": "Vederslöv"
+    },
+    {
+      "code": "1518",
+      "name": "Veinge"
+    },
+    {
+      "code": "2088",
+      "name": "Velinga"
+    },
+    {
+      "code": "1391",
+      "name": "Vellinge"
+    },
+    {
+      "code": "2573",
+      "name": "Vemdalen"
+    },
+    {
+      "code": "877",
+      "name": "Vena"
+    },
+    {
+      "code": "289",
+      "name": "Vendel"
+    },
+    {
+      "code": "2390",
+      "name": "Venjan"
+    },
+    {
+      "code": "878",
+      "name": "Ventlinge"
+    },
+    {
+      "code": "1139",
+      "name": "Verum"
+    },
+    {
+      "code": "1816",
+      "name": "Vesene"
+    },
+    {
+      "code": "1519",
+      "name": "Vessige"
+    },
+    {
+      "code": "521",
+      "name": "Veta"
+    },
+    {
+      "code": "4115",
+      "name": "Vetlanda"
+    },
+    {
+      "code": "677",
+      "name": "Vetlanda"
+    },
+    {
+      "code": "2268",
+      "name": "Viby"
+    },
+    {
+      "code": "522",
+      "name": "Viby"
+    },
+    {
+      "code": "2509",
+      "name": "Vibyggerå"
+    },
+    {
+      "code": "879",
+      "name": "Vickleby"
+    },
+    {
+      "code": "110",
+      "name": "Vidbo"
+    },
+    {
+      "code": "2388",
+      "name": "Vika"
+    },
+    {
+      "code": "1392",
+      "name": "Viken"
+    },
+    {
+      "code": "2269",
+      "name": "Viker"
+    },
+    {
+      "code": "523",
+      "name": "Vikingstad"
+    },
+    {
+      "code": "975",
+      "name": "Viklau"
+    },
+    {
+      "code": "2510",
+      "name": "Viksjö"
+    },
+    {
+      "code": "290",
+      "name": "Viksta"
+    },
+    {
+      "code": "156",
+      "name": "Vilhelmina"
+    },
+    {
+      "code": "291",
+      "name": "Villberga"
+    },
+    {
+      "code": "1393",
+      "name": "Villie"
+    },
+    {
+      "code": "678",
+      "name": "Villstad"
+    },
+    {
+      "code": "2089",
+      "name": "Vilske-Kleva"
+    },
+    {
+      "code": "4116",
+      "name": "Vimmerby"
+    },
+    {
+      "code": "880",
+      "name": "Vimmerby"
+    },
+    {
+      "code": "1520",
+      "name": "Vinberg"
+    },
+    {
+      "code": "2090",
+      "name": "Vinköl"
+    },
+    {
+      "code": "1140",
+      "name": "Vinslöv"
+    },
+    {
+      "code": "2270",
+      "name": "Vintrosa"
+    },
+    {
+      "code": "679",
+      "name": "Vireda"
+    },
+    {
+      "code": "767",
+      "name": "Virestad"
+    },
+    {
+      "code": "1394",
+      "name": "Virke"
+    },
+    {
+      "code": "881",
+      "name": "Virserum"
+    },
+    {
+      "code": "976",
+      "name": "Visby"
+    },
+    {
+      "code": "680",
+      "name": "Visingsö"
+    },
+    {
+      "code": "768",
+      "name": "Vislanda"
+    },
+    {
+      "code": "2196",
+      "name": "Visnum"
+    },
+    {
+      "code": "2197",
+      "name": "Visnums-Kil"
+    },
+    {
+      "code": "882",
+      "name": "Vissefjärda"
+    },
+    {
+      "code": "1141",
+      "name": "Visseltofta"
+    },
+    {
+      "code": "525",
+      "name": "Vist"
+    },
+    {
+      "code": "2091",
+      "name": "Vistorp"
+    },
+    {
+      "code": "1142",
+      "name": "Vitaby"
+    },
+    {
+      "code": "2198",
+      "name": "Vitsand"
+    },
+    {
+      "code": "769",
+      "name": "Vittaryd"
+    },
+    {
+      "code": "2329",
+      "name": "Vittinge"
+    },
+    {
+      "code": "1143",
+      "name": "Vittsjö"
+    },
+    {
+      "code": "1144",
+      "name": "Vittskövle"
+    },
+    {
+      "code": "1395",
+      "name": "Vollsjö"
+    },
+    {
+      "code": "1396",
+      "name": "Vomb"
+    },
+    {
+      "code": "2445",
+      "name": "Voxna"
+    },
+    {
+      "code": "681",
+      "name": "Voxtorp"
+    },
+    {
+      "code": "883",
+      "name": "Voxtorp"
+    },
+    {
+      "code": "386",
+      "name": "Vrena"
+    },
+    {
+      "code": "526",
+      "name": "Vreta kloster"
+    },
+    {
+      "code": "682",
+      "name": "Vrigstad"
+    },
+    {
+      "code": "770",
+      "name": "Vrå"
+    },
+    {
+      "code": "1146",
+      "name": "Vä"
+    },
+    {
+      "code": "771",
+      "name": "Väckelsång"
+    },
+    {
+      "code": "112",
+      "name": "Väddö"
+    },
+    {
+      "code": "530",
+      "name": "Väderstad"
+    },
+    {
+      "code": "2094",
+      "name": "Väla"
+    },
+    {
+      "code": "1397",
+      "name": "Välinge"
+    },
+    {
+      "code": "1398",
+      "name": "Välluv"
+    },
+    {
+      "code": "1819",
+      "name": "Väne-Ryr"
+    },
+    {
+      "code": "1820",
+      "name": "Väne-Åsaka"
+    },
+    {
+      "code": "1821",
+      "name": "Vänersborg"
+    },
+    {
+      "code": "1822",
+      "name": "Vänersnäs"
+    },
+    {
+      "code": "1823",
+      "name": "Vänga"
+    },
+    {
+      "code": "293",
+      "name": "Vänge"
+    },
+    {
+      "code": "977",
+      "name": "Vänge"
+    },
+    {
+      "code": "157",
+      "name": "Vännäs"
+    },
+    {
+      "code": "2095",
+      "name": "Väring"
+    },
+    {
+      "code": "113",
+      "name": "Värmdö"
+    },
+    {
+      "code": "2199",
+      "name": "Värmskog"
+    },
+    {
+      "code": "531",
+      "name": "Värna"
+    },
+    {
+      "code": "4042",
+      "name": "Värnamo"
+    },
+    {
+      "code": "684",
+      "name": "Värnamo"
+    },
+    {
+      "code": "2096",
+      "name": "Värsås"
+    },
+    {
+      "code": "1522",
+      "name": "Värö"
+    },
+    {
+      "code": "1399",
+      "name": "Väsby"
+    },
+    {
+      "code": "2200",
+      "name": "Väse"
+    },
+    {
+      "code": "978",
+      "name": "Väskinde"
+    },
+    {
+      "code": "2097",
+      "name": "Västerbitterna"
+    },
+    {
+      "code": "2331",
+      "name": "Västerfärnebo"
+    },
+    {
+      "code": "979",
+      "name": "Västergarn"
+    },
+    {
+      "code": "114",
+      "name": "Västerhaninge"
+    },
+    {
+      "code": "980",
+      "name": "Västerhejde"
+    },
+    {
+      "code": "1824",
+      "name": "Västerlanda"
+    },
+    {
+      "code": "387",
+      "name": "Västerljung"
+    },
+    {
+      "code": "532",
+      "name": "Västerlösa"
+    },
+    {
+      "code": "2332",
+      "name": "Västerlövsta"
+    },
+    {
+      "code": "388",
+      "name": "Västermo"
+    },
+    {
+      "code": "2098",
+      "name": "Västerplana"
+    },
+    {
+      "code": "1400",
+      "name": "Västerstad"
+    },
+    {
+      "code": "884",
+      "name": "Västervik"
+    },
+    {
+      "code": "2333",
+      "name": "Västervåla"
+    },
+    {
+      "code": "294",
+      "name": "Västeråker"
+    },
+    {
+      "code": "2334",
+      "name": "Västerås"
+    },
+    {
+      "code": "2336",
+      "name": "Västerås-Barkarö"
+    },
+    {
+      "code": "295",
+      "name": "Västland"
+    },
+    {
+      "code": "1401",
+      "name": "Västra Alstad"
+    },
+    {
+      "code": "1147",
+      "name": "Västra Broby"
+    },
+    {
+      "code": "885",
+      "name": "Västra Ed"
+    },
+    {
+      "code": "533",
+      "name": "Västra Eneby"
+    },
+    {
+      "code": "2201",
+      "name": "Västra Fågelvik"
+    },
+    {
+      "code": "2099",
+      "name": "Västra Gerum"
+    },
+    {
+      "code": "534",
+      "name": "Västra Harg"
+    },
+    {
+      "code": "1402",
+      "name": "Västra Hoby"
+    },
+    {
+      "code": "535",
+      "name": "Västra Husby"
+    },
+    {
+      "code": "1403",
+      "name": "Västra Ingelstad"
+    },
+    {
+      "code": "1404",
+      "name": "Västra Karaby"
+    },
+    {
+      "code": "1148",
+      "name": "Västra Karup"
+    },
+    {
+      "code": "1405",
+      "name": "Västra Klagstorp"
+    },
+    {
+      "code": "1406",
+      "name": "Västra Kärrstorp"
+    },
+    {
+      "code": "536",
+      "name": "Västra Ny"
+    },
+    {
+      "code": "1407",
+      "name": "Västra Nöbbelöv"
+    },
+    {
+      "code": "116",
+      "name": "Västra Ryd"
+    },
+    {
+      "code": "537",
+      "name": "Västra Ryd"
+    },
+    {
+      "code": "3043",
+      "name": "Västra Sallerup"
+    },
+    {
+      "code": "2337",
+      "name": "Västra Skedvi"
+    },
+    {
+      "code": "538",
+      "name": "Västra Stenby"
+    },
+    {
+      "code": "1409",
+      "name": "Västra Strö"
+    },
+    {
+      "code": "1149",
+      "name": "Västra Sönnarslöv"
+    },
+    {
+      "code": "539",
+      "name": "Västra Tollstad"
+    },
+    {
+      "code": "1410",
+      "name": "Västra Tommarp"
+    },
+    {
+      "code": "772",
+      "name": "Västra Torsås"
+    },
+    {
+      "code": "1150",
+      "name": "Västra Torup"
+    },
+    {
+      "code": "1825",
+      "name": "Västra Tunhem"
+    },
+    {
+      "code": "1411",
+      "name": "Västra Vemmenhög"
+    },
+    {
+      "code": "1412",
+      "name": "Västra Vemmerlöv"
+    },
+    {
+      "code": "389",
+      "name": "Västra Vingåker"
+    },
+    {
+      "code": "1151",
+      "name": "Västra Vram"
+    },
+    {
+      "code": "2202",
+      "name": "Västra Ämtervik"
+    },
+    {
+      "code": "886",
+      "name": "Västrum"
+    },
+    {
+      "code": "981",
+      "name": "Väte"
+    },
+    {
+      "code": "2100",
+      "name": "Vättak"
+    },
+    {
+      "code": "2101",
+      "name": "Vättlösa"
+    },
+    {
+      "code": "117",
+      "name": "Vätö"
+    },
+    {
+      "code": "540",
+      "name": "Väversunda"
+    },
+    {
+      "code": "773",
+      "name": "Växjö"
+    },
+    {
+      "code": "2389",
+      "name": "Våmhus"
+    },
+    {
+      "code": "1145",
+      "name": "Vånga"
+    },
+    {
+      "code": "527",
+      "name": "Vånga"
+    },
+    {
+      "code": "111",
+      "name": "Vårdinge"
+    },
+    {
+      "code": "528",
+      "name": "Vårdnäs"
+    },
+    {
+      "code": "529",
+      "name": "Vårdsberg"
+    },
+    {
+      "code": "292",
+      "name": "Vårfrukyrka"
+    },
+    {
+      "code": "2093",
+      "name": "Vårkumla"
+    },
+    {
+      "code": "1818",
+      "name": "Vårvik"
+    },
+    {
+      "code": "683",
+      "name": "Våthult"
+    },
+    {
+      "code": "1521",
+      "name": "Våxtorp"
+    },
+    {
+      "code": "2102",
+      "name": "Yllestad"
+    },
+    {
+      "code": "1019",
+      "name": "Ysane"
+    },
+    {
+      "code": "1523",
+      "name": "Ysby"
+    },
+    {
+      "code": "1413",
+      "name": "Ystad"
+    },
+    {
+      "code": "1619",
+      "name": "Ytterby"
+    },
+    {
+      "code": "118",
+      "name": "Ytterenhörna"
+    },
+    {
+      "code": "296",
+      "name": "Yttergran"
+    },
+    {
+      "code": "2574",
+      "name": "Ytterhogdal"
+    },
+    {
+      "code": "119",
+      "name": "Ytterjärna"
+    },
+    {
+      "code": "2511",
+      "name": "Ytterlännäs"
+    },
+    {
+      "code": "390",
+      "name": "Ytterselö"
+    },
+    {
+      "code": "541",
+      "name": "Yxnerum"
+    },
+    {
+      "code": "1829",
+      "name": "Älekulla"
+    },
+    {
+      "code": "2105",
+      "name": "Älgarås"
+    },
+    {
+      "code": "775",
+      "name": "Älghult"
+    },
+    {
+      "code": "2205",
+      "name": "Älgå"
+    },
+    {
+      "code": "776",
+      "name": "Älmeboda"
+    },
+    {
+      "code": "2392",
+      "name": "Älvdalen"
+    },
+    {
+      "code": "546",
+      "name": "Älvestad"
+    },
+    {
+      "code": "299",
+      "name": "Älvkarleby"
+    },
+    {
+      "code": "2578",
+      "name": "Älvros"
+    },
+    {
+      "code": "2206",
+      "name": "Älvsbacka"
+    },
+    {
+      "code": "193",
+      "name": "Älvsby"
+    },
+    {
+      "code": "1526",
+      "name": "Älvsered"
+    },
+    {
+      "code": "1527",
+      "name": "Älvsåker"
+    },
+    {
+      "code": "1154",
+      "name": "Ängelholm"
+    },
+    {
+      "code": "2579",
+      "name": "Ängersjö"
+    },
+    {
+      "code": "2338",
+      "name": "Ängsö"
+    },
+    {
+      "code": "2393",
+      "name": "Äppelbo"
+    },
+    {
+      "code": "300",
+      "name": "Ärentuna"
+    },
+    {
+      "code": "393",
+      "name": "Ärla"
+    },
+    {
+      "code": "1830",
+      "name": "Ärtemark"
+    },
+    {
+      "code": "1831",
+      "name": "Äspered"
+    },
+    {
+      "code": "1155",
+      "name": "Äsphult"
+    },
+    {
+      "code": "1414",
+      "name": "Äspinge"
+    },
+    {
+      "code": "1415",
+      "name": "Äspö"
+    },
+    {
+      "code": "542",
+      "name": "Å"
+    },
+    {
+      "code": "887",
+      "name": "Åby"
+    },
+    {
+      "code": "2512",
+      "name": "Ådals-Liden"
+    },
+    {
+      "code": "1152",
+      "name": "Åhus"
+    },
+    {
+      "code": "391",
+      "name": "Åker"
+    },
+    {
+      "code": "685",
+      "name": "Åker"
+    },
+    {
+      "code": "297",
+      "name": "Åkerby"
+    },
+    {
+      "code": "2391",
+      "name": "Ål"
+    },
+    {
+      "code": "298",
+      "name": "Åland"
+    },
+    {
+      "code": "888",
+      "name": "Ålem"
+    },
+    {
+      "code": "1826",
+      "name": "Åmål"
+    },
+    {
+      "code": "4120",
+      "name": "Åmål"
+    },
+    {
+      "code": "1827",
+      "name": "Ånimskog"
+    },
+    {
+      "code": "392",
+      "name": "Årdala"
+    },
+    {
+      "code": "2575",
+      "name": "Åre"
+    },
+    {
+      "code": "1524",
+      "name": "Årstad"
+    },
+    {
+      "code": "2446",
+      "name": "Årsunda"
+    },
+    {
+      "code": "1020",
+      "name": "Åryd"
+    },
+    {
+      "code": "1525",
+      "name": "Ås"
+    },
+    {
+      "code": "2103",
+      "name": "Ås"
+    },
+    {
+      "code": "2576",
+      "name": "Ås"
+    },
+    {
+      "code": "686",
+      "name": "Ås"
+    },
+    {
+      "code": "889",
+      "name": "Ås"
+    },
+    {
+      "code": "2577",
+      "name": "Åsarne"
+    },
+    {
+      "code": "543",
+      "name": "Åsbo"
+    },
+    {
+      "code": "1828",
+      "name": "Åsbräcka"
+    },
+    {
+      "code": "774",
+      "name": "Åseda"
+    },
+    {
+      "code": "158",
+      "name": "Åsele"
+    },
+    {
+      "code": "687",
+      "name": "Åsenhöga"
+    },
+    {
+      "code": "2104",
+      "name": "Åsle"
+    },
+    {
+      "code": "544",
+      "name": "Åtvid"
+    },
+    {
+      "code": "1621",
+      "name": "Öckerö"
+    },
+    {
+      "code": "1832",
+      "name": "Ödeborg"
+    },
+    {
+      "code": "2271",
+      "name": "Ödeby"
+    },
+    {
+      "code": "1833",
+      "name": "Ödenäs"
+    },
+    {
+      "code": "547",
+      "name": "Ödeshög"
+    },
+    {
+      "code": "688",
+      "name": "Ödestugu"
+    },
+    {
+      "code": "1834",
+      "name": "Ödskölt"
+    },
+    {
+      "code": "1622",
+      "name": "Ödsmål"
+    },
+    {
+      "code": "689",
+      "name": "Öggestorp"
+    },
+    {
+      "code": "2106",
+      "name": "Öglunda"
+    },
+    {
+      "code": "1416",
+      "name": "Öja"
+    },
+    {
+      "code": "394",
+      "name": "Öja"
+    },
+    {
+      "code": "778",
+      "name": "Öja"
+    },
+    {
+      "code": "982",
+      "name": "Öja"
+    },
+    {
+      "code": "779",
+      "name": "Öjaby"
+    },
+    {
+      "code": "690",
+      "name": "Ökna"
+    },
+    {
+      "code": "1021",
+      "name": "Öljehult"
+    },
+    {
+      "code": "2207",
+      "name": "Ölme"
+    },
+    {
+      "code": "1528",
+      "name": "Ölmevalla"
+    },
+    {
+      "code": "691",
+      "name": "Ölmstad"
+    },
+    {
+      "code": "2208",
+      "name": "Ölserud"
+    },
+    {
+      "code": "1835",
+      "name": "Ölsremma"
+    },
+    {
+      "code": "1417",
+      "name": "Önnarp"
+    },
+    {
+      "code": "1156",
+      "name": "Önnestad"
+    },
+    {
+      "code": "2108",
+      "name": "Önum"
+    },
+    {
+      "code": "1836",
+      "name": "Ör"
+    },
+    {
+      "code": "780",
+      "name": "Ör"
+    },
+    {
+      "code": "1837",
+      "name": "Öra"
+    },
+    {
+      "code": "548",
+      "name": "Örberga"
+    },
+    {
+      "code": "1838",
+      "name": "Örby"
+    },
+    {
+      "code": "2272",
+      "name": "Örebro"
+    },
+    {
+      "code": "301",
+      "name": "Öregrund"
+    },
+    {
+      "code": "692",
+      "name": "Öreryd"
+    },
+    {
+      "code": "1418",
+      "name": "Örja"
+    },
+    {
+      "code": "1157",
+      "name": "Örkelljunga"
+    },
+    {
+      "code": "1158",
+      "name": "Örkened"
+    },
+    {
+      "code": "2514",
+      "name": "Örnsköldsvik"
+    },
+    {
+      "code": "1419",
+      "name": "Örsjö"
+    },
+    {
+      "code": "890",
+      "name": "Örsjö"
+    },
+    {
+      "code": "2109",
+      "name": "Örslösa"
+    },
+    {
+      "code": "1839",
+      "name": "Örsås"
+    },
+    {
+      "code": "1420",
+      "name": "Örtofta"
+    },
+    {
+      "code": "549",
+      "name": "Örtomta"
+    },
+    {
+      "code": "159",
+      "name": "Örträsk"
+    },
+    {
+      "code": "120",
+      "name": "Ösmo"
+    },
+    {
+      "code": "122",
+      "name": "Össeby-Garn"
+    },
+    {
+      "code": "1159",
+      "name": "Össjö"
+    },
+    {
+      "code": "1840",
+      "name": "Östad"
+    },
+    {
+      "code": "2110",
+      "name": "Österbitterna"
+    },
+    {
+      "code": "2447",
+      "name": "Österfärnebo"
+    },
+    {
+      "code": "983",
+      "name": "Östergarn"
+    },
+    {
+      "code": "123",
+      "name": "Österhaninge"
+    },
+    {
+      "code": "302",
+      "name": "Österlövsta"
+    },
+    {
+      "code": "2111",
+      "name": "Österplana"
+    },
+    {
+      "code": "1160",
+      "name": "Österslöv"
+    },
+    {
+      "code": "2580",
+      "name": "Östersund"
+    },
+    {
+      "code": "124",
+      "name": "Östertälje"
+    },
+    {
+      "code": "303",
+      "name": "Österunda"
+    },
+    {
+      "code": "2209",
+      "name": "Östervallskog"
+    },
+    {
+      "code": "2339",
+      "name": "Östervåla"
+    },
+    {
+      "code": "125",
+      "name": "Österåker"
+    },
+    {
+      "code": "395",
+      "name": "Österåker"
+    },
+    {
+      "code": "304",
+      "name": "Östhammar"
+    },
+    {
+      "code": "2210",
+      "name": "Östmark"
+    },
+    {
+      "code": "1161",
+      "name": "Östra Broby"
+    },
+    {
+      "code": "550",
+      "name": "Östra Ed"
+    },
+    {
+      "code": "1841",
+      "name": "Östra Frölunda"
+    },
+    {
+      "code": "2211",
+      "name": "Östra Fågelvik"
+    },
+    {
+      "code": "2112",
+      "name": "Östra Gerum"
+    },
+    {
+      "code": "1421",
+      "name": "Östra Grevie"
+    },
+    {
+      "code": "551",
+      "name": "Östra Harg"
+    },
+    {
+      "code": "1162",
+      "name": "Östra Herrestad"
+    },
+    {
+      "code": "1163",
+      "name": "Östra Hoby"
+    },
+    {
+      "code": "552",
+      "name": "Östra Husby"
+    },
+    {
+      "code": "1164",
+      "name": "Östra Ingelstad"
+    },
+    {
+      "code": "1422",
+      "name": "Östra Karaby"
+    },
+    {
+      "code": "1165",
+      "name": "Östra Karup"
+    },
+    {
+      "code": "1423",
+      "name": "Östra Klagstorp"
+    },
+    {
+      "code": "1424",
+      "name": "Östra Kärrstorp"
+    },
+    {
+      "code": "1166",
+      "name": "Östra Ljungby"
+    },
+    {
+      "code": "553",
+      "name": "Östra Ny"
+    },
+    {
+      "code": "1167",
+      "name": "Östra Nöbbelöv"
+    },
+    {
+      "code": "126",
+      "name": "Östra Ryd"
+    },
+    {
+      "code": "554",
+      "name": "Östra Ryd"
+    },
+    {
+      "code": "1425",
+      "name": "Östra Sallerup"
+    },
+    {
+      "code": "555",
+      "name": "Östra Skrukeby"
+    },
+    {
+      "code": "556",
+      "name": "Östra Stenby"
+    },
+    {
+      "code": "1426",
+      "name": "Östra Strö"
+    },
+    {
+      "code": "1168",
+      "name": "Östra Sönnarslöv"
+    },
+    {
+      "code": "557",
+      "name": "Östra Tollstad"
+    },
+    {
+      "code": "1169",
+      "name": "Östra Tommarp"
+    },
+    {
+      "code": "1427",
+      "name": "Östra Torp"
+    },
+    {
+      "code": "782",
+      "name": "Östra Torsås"
+    },
+    {
+      "code": "2113",
+      "name": "Östra Tunhem"
+    },
+    {
+      "code": "1428",
+      "name": "Östra Vemmenhög"
+    },
+    {
+      "code": "1170",
+      "name": "Östra Vemmerlöv"
+    },
+    {
+      "code": "396",
+      "name": "Östra Vingåker"
+    },
+    {
+      "code": "1171",
+      "name": "Östra Vram"
+    },
+    {
+      "code": "2212",
+      "name": "Östra Ämtervik"
+    },
+    {
+      "code": "1429",
+      "name": "Östraby"
+    },
+    {
+      "code": "305",
+      "name": "Östuna"
+    },
+    {
+      "code": "2114",
+      "name": "Öttum"
+    },
+    {
+      "code": "1430",
+      "name": "Öved"
+    },
+    {
+      "code": "127",
+      "name": "Överenhörna"
+    },
+    {
+      "code": "306",
+      "name": "Övergran"
+    },
+    {
+      "code": "2581",
+      "name": "Överhogdal"
+    },
+    {
+      "code": "128",
+      "name": "Överjärna"
+    },
+    {
+      "code": "197",
+      "name": "Överkalix"
+    },
+    {
+      "code": "198",
+      "name": "Överluleå"
+    },
+    {
+      "code": "2515",
+      "name": "Överlännäs"
+    },
+    {
+      "code": "397",
+      "name": "Överselö"
+    },
+    {
+      "code": "199",
+      "name": "Övertorneå"
+    },
+    {
+      "code": "891",
+      "name": "Överum"
+    },
+    {
+      "code": "1172",
+      "name": "Övraby"
+    },
+    {
+      "code": "1529",
+      "name": "Övraby"
+    },
+    {
+      "code": "2213",
+      "name": "Övre Ullerud"
+    },
+    {
+      "code": "1842",
+      "name": "Öxabäck"
+    },
+    {
+      "code": "1843",
+      "name": "Öxnevalla"
+    }
+  ],
+  "meta": {
+    "title": "Socknar i Sverige - Gratis nedladdning",
+    "description": "Sveriges socknar (historiska kyrkliga/administrativa indelningar). Deduplicerad lista (källan har flera geometridelar per socken) med sockenkod och namn. Källa: Lantmäteriet via swemapdata. Innehåller 2473 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Socknar i Sverige | ListBase",
+    "seo_description": "Ladda ner Socknar i Sverige — 2473 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 2473 poster / 2 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

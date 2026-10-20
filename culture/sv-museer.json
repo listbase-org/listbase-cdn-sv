@@ -1,0 +1,4579 @@
+{
+  "id": "sv-museer",
+  "name": "Museer i Sverige (Museums in Sweden)",
+  "title": "Museer i Sverige (Museums in Sweden)",
+  "description": "Lista över 502 museer i Sverige från OpenStreetMap — namn, ort, koordinater och webbplats.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 502,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "007 Museum",
+      "name_en": "",
+      "city": "Nybro",
+      "country": "Sweden",
+      "latitude": 56.739724,
+      "longitude": 15.89149,
+      "website": "http://www.007museum.com/"
+    },
+    {
+      "name": "Aeroseum",
+      "name_en": "",
+      "city": "Majorna",
+      "country": "Sweden",
+      "latitude": 57.770657,
+      "longitude": 11.880665,
+      "website": "http://www.aeroseum.se"
+    },
+    {
+      "name": "Aguélimuseet",
+      "name_en": "",
+      "city": "Sala",
+      "country": "Sweden",
+      "latitude": 59.922571,
+      "longitude": 16.60988,
+      "website": ""
+    },
+    {
+      "name": "Akvariet",
+      "name_en": "",
+      "city": "Ludvika",
+      "country": "Sweden",
+      "latitude": 60.155,
+      "longitude": 15.186149,
+      "website": ""
+    },
+    {
+      "name": "Albert Engströms Ateljé",
+      "name_en": "",
+      "city": "Arnö",
+      "country": "Sweden",
+      "latitude": 60.094625,
+      "longitude": 18.818561,
+      "website": ""
+    },
+    {
+      "name": "Albert Engströms Museum",
+      "name_en": "",
+      "city": "Arnö",
+      "country": "Sweden",
+      "latitude": 60.096324,
+      "longitude": 18.814179,
+      "website": ""
+    },
+    {
+      "name": "Albert Engströmsgården",
+      "name_en": "",
+      "city": "Eksjö",
+      "country": "Sweden",
+      "latitude": 57.632982,
+      "longitude": 15.126538,
+      "website": ""
+    },
+    {
+      "name": "Alex-labb",
+      "name_en": "",
+      "city": "Tvååker",
+      "country": "Sweden",
+      "latitude": 57.11373,
+      "longitude": 12.404942,
+      "website": ""
+    },
+    {
+      "name": "Alfvéngården",
+      "name_en": "",
+      "city": "Leksand",
+      "country": "Sweden",
+      "latitude": 60.723886,
+      "longitude": 15.02974,
+      "website": "http://alfvengarden.se"
+    },
+    {
+      "name": "Alingsås Museum",
+      "name_en": "",
+      "city": "Alingsås",
+      "country": "Sweden",
+      "latitude": 57.928535,
+      "longitude": 12.532692,
+      "website": ""
+    },
+    {
+      "name": "Almgrens Sidenväveri & Museum",
+      "name_en": "Almgren Silk-Weaving Mill & Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.317296,
+      "longitude": 18.070677,
+      "website": "www.kasiden.se"
+    },
+    {
+      "name": "Alnarps Lantbruksmuseum",
+      "name_en": "",
+      "city": "Lomma",
+      "country": "Sweden",
+      "latitude": 55.657406,
+      "longitude": 13.078965,
+      "website": "http://www.alnarpsmuseerna.se/"
+    },
+    {
+      "name": "Andrew Peterson museet",
+      "name_en": "",
+      "city": "Österbymo",
+      "country": "Sweden",
+      "latitude": 57.904338,
+      "longitude": 15.20414,
+      "website": ""
+    },
+    {
+      "name": "Aquaria vattenmuseum",
+      "name_en": "Aquaria",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.325308,
+      "longitude": 18.094322,
+      "website": "http://www.aquaria.se/"
+    },
+    {
+      "name": "Arbetets Museum",
+      "name_en": "",
+      "city": "Norrköping",
+      "country": "Sweden",
+      "latitude": 58.589154,
+      "longitude": 16.180073,
+      "website": "http://www.arbetetsmuseum.se/"
+    },
+    {
+      "name": "Arboga museum",
+      "name_en": "",
+      "city": "Arboga",
+      "country": "Sweden",
+      "latitude": 59.394302,
+      "longitude": 15.837582,
+      "website": ""
+    },
+    {
+      "name": "Arkitektur- och designcentrum",
+      "name_en": "Swedish Centre for Architecture and Design",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.325814,
+      "longitude": 18.084654,
+      "website": "http://www.arkitekturmuseet.se/"
+    },
+    {
+      "name": "Arlanda Flygsamlingar",
+      "name_en": "",
+      "city": "Rosersberg",
+      "country": "Sweden",
+      "latitude": 59.641499,
+      "longitude": 17.944674,
+      "website": ""
+    },
+    {
+      "name": "Armémuseum",
+      "name_en": "Swedish Army Museum",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.33484,
+      "longitude": 18.080046,
+      "website": "http://www.armemuseum.se/"
+    },
+    {
+      "name": "Arnolds Bilmuseum",
+      "name_en": "",
+      "city": "Kramfors",
+      "country": "Sweden",
+      "latitude": 62.827773,
+      "longitude": 17.853622,
+      "website": ""
+    },
+    {
+      "name": "Arvika Fordonsmuseum",
+      "name_en": "",
+      "city": "Arvika",
+      "country": "Sweden",
+      "latitude": 59.66119,
+      "longitude": 12.59144,
+      "website": ""
+    },
+    {
+      "name": "Aschanska gården",
+      "name_en": "",
+      "city": "Eksjö",
+      "country": "Sweden",
+      "latitude": 57.667665,
+      "longitude": 14.970751,
+      "website": ""
+    },
+    {
+      "name": "Astrid Lindgrens Näs",
+      "name_en": "",
+      "city": "Vimmerby",
+      "country": "Sweden",
+      "latitude": 57.674973,
+      "longitude": 15.856407,
+      "website": ""
+    },
+    {
+      "name": "Aunesgården",
+      "name_en": "",
+      "city": "Övertorneå",
+      "country": "Sweden",
+      "latitude": 66.394715,
+      "longitude": 23.643485,
+      "website": ""
+    },
+    {
+      "name": "Banco Bryggeri",
+      "name_en": "",
+      "city": "Lessebo",
+      "country": "Sweden",
+      "latitude": 56.676015,
+      "longitude": 15.366489,
+      "website": ""
+    },
+    {
+      "name": "Bastöna gammelgård",
+      "name_en": "",
+      "city": "Floby",
+      "country": "Sweden",
+      "latitude": 58.251,
+      "longitude": 13.351481,
+      "website": ""
+    },
+    {
+      "name": "Batteri Arholma",
+      "name_en": "",
+      "city": "Björkö",
+      "country": "Sweden",
+      "latitude": 59.86162,
+      "longitude": 19.123059,
+      "website": ""
+    },
+    {
+      "name": "Bellmanmuséet",
+      "name_en": "Bellman Exhibition",
+      "city": "Årsta",
+      "country": "Sweden",
+      "latitude": 59.321996,
+      "longitude": 18.025771,
+      "website": "http://www.storahenriksvik.se/bellmanmuseet"
+    },
+    {
+      "name": "Bergmancenter",
+      "name_en": "",
+      "city": "Slite",
+      "country": "Sweden",
+      "latitude": 57.919086,
+      "longitude": 19.138698,
+      "website": ""
+    },
+    {
+      "name": "Bergrum Boliden",
+      "name_en": "",
+      "city": "Boliden",
+      "country": "Sweden",
+      "latitude": 64.874357,
+      "longitude": 20.382872,
+      "website": ""
+    },
+    {
+      "name": "Bergrummet",
+      "name_en": "Skeppsholmen Caverns",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.326501,
+      "longitude": 18.081325,
+      "website": ""
+    },
+    {
+      "name": "Bergööska huset",
+      "name_en": "",
+      "city": "Hallsberg",
+      "country": "Sweden",
+      "latitude": 59.067171,
+      "longitude": 15.114698,
+      "website": ""
+    },
+    {
+      "name": "Biologiska museet",
+      "name_en": "",
+      "city": "Örebro",
+      "country": "Sweden",
+      "latitude": 59.275647,
+      "longitude": 15.21907,
+      "website": ""
+    },
+    {
+      "name": "Birka",
+      "name_en": "",
+      "city": "Stenhamra",
+      "country": "Sweden",
+      "latitude": 59.330525,
+      "longitude": 17.539347,
+      "website": ""
+    },
+    {
+      "name": "Bjuråker Forngård",
+      "name_en": "",
+      "city": "Delsbo",
+      "country": "Sweden",
+      "latitude": 61.860785,
+      "longitude": 16.556878,
+      "website": ""
+    },
+    {
+      "name": "Blekinge Läns Museum",
+      "name_en": "",
+      "city": "Karlskrona",
+      "country": "Sweden",
+      "latitude": 56.162153,
+      "longitude": 15.581312,
+      "website": "http://www.blekingemuseum.se/"
+    },
+    {
+      "name": "Bläse kalkbruksmuseum",
+      "name_en": "",
+      "city": "Slite",
+      "country": "Sweden",
+      "latitude": 57.894477,
+      "longitude": 18.839741,
+      "website": ""
+    },
+    {
+      "name": "Bokmärkesmuseet",
+      "name_en": "",
+      "city": "Vrigstad",
+      "country": "Sweden",
+      "latitude": 57.355693,
+      "longitude": 14.474193,
+      "website": ""
+    },
+    {
+      "name": "Bolindermuseet",
+      "name_en": "",
+      "city": "Jakobsberg",
+      "country": "Sweden",
+      "latitude": 59.454499,
+      "longitude": 17.807602,
+      "website": ""
+    },
+    {
+      "name": "Bondens år",
+      "name_en": "",
+      "city": "Falköping",
+      "country": "Sweden",
+      "latitude": 58.21723,
+      "longitude": 13.498121,
+      "website": ""
+    },
+    {
+      "name": "Bonniers konsthall",
+      "name_en": "Bonniers Art Hall",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.337127,
+      "longitude": 18.042399,
+      "website": "www.bonnierskonsthall.se"
+    },
+    {
+      "name": "Borghamns Fiskemuseum",
+      "name_en": "",
+      "city": "Herrestad",
+      "country": "Sweden",
+      "latitude": 58.381701,
+      "longitude": 14.6799,
+      "website": ""
+    },
+    {
+      "name": "Borgvik Bruksmuseum",
+      "name_en": "",
+      "city": "Slottsbron",
+      "country": "Sweden",
+      "latitude": 59.353672,
+      "longitude": 12.958828,
+      "website": ""
+    },
+    {
+      "name": "Borås Konstmuseum",
+      "name_en": "",
+      "city": "Borås",
+      "country": "Sweden",
+      "latitude": 57.721328,
+      "longitude": 12.948015,
+      "website": ""
+    },
+    {
+      "name": "Botaniska trädgårdens museum",
+      "name_en": "",
+      "city": "Lund",
+      "country": "Sweden",
+      "latitude": 55.704479,
+      "longitude": 13.201856,
+      "website": "http://www.botaniskatradgarden.se/"
+    },
+    {
+      "name": "Boxholms bruksmuseum",
+      "name_en": "",
+      "city": "Boxholm",
+      "country": "Sweden",
+      "latitude": 58.192116,
+      "longitude": 15.047731,
+      "website": ""
+    },
+    {
+      "name": "Brandbilsmuseum",
+      "name_en": "",
+      "city": "Tärnsjö",
+      "country": "Sweden",
+      "latitude": 60.29232,
+      "longitude": 16.879628,
+      "website": ""
+    },
+    {
+      "name": "Braås hembygdsgård",
+      "name_en": "",
+      "city": "Braås",
+      "country": "Sweden",
+      "latitude": 57.067986,
+      "longitude": 15.055935,
+      "website": ""
+    },
+    {
+      "name": "Brigadmuseum",
+      "name_en": "",
+      "city": "Karlstad",
+      "country": "Sweden",
+      "latitude": 59.388075,
+      "longitude": 13.495032,
+      "website": ""
+    },
+    {
+      "name": "Brio Lekoseum",
+      "name_en": "",
+      "city": "Osby",
+      "country": "Sweden",
+      "latitude": 56.379058,
+      "longitude": 13.993323,
+      "website": "http://www.brio.net/Toy_Museum/WelcomeToLekoseum.aspx"
+    },
+    {
+      "name": "Bruksmuseum",
+      "name_en": "",
+      "city": "Robertsfors",
+      "country": "Sweden",
+      "latitude": 64.184713,
+      "longitude": 20.852621,
+      "website": ""
+    },
+    {
+      "name": "Bruksmuseum",
+      "name_en": "",
+      "city": "Odensbacken",
+      "country": "Sweden",
+      "latitude": 59.012223,
+      "longitude": 15.578597,
+      "website": ""
+    },
+    {
+      "name": "Bruksmuseum",
+      "name_en": "",
+      "city": "Säter",
+      "country": "Sweden",
+      "latitude": 60.293422,
+      "longitude": 15.827345,
+      "website": "http://bruksmuseum.se"
+    },
+    {
+      "name": "Bruksmuséet",
+      "name_en": "",
+      "city": "Hälleforsnäs",
+      "country": "Sweden",
+      "latitude": 59.151829,
+      "longitude": 16.489558,
+      "website": ""
+    },
+    {
+      "name": "Brunnsbacka sågkvarn",
+      "name_en": "",
+      "city": "Reftele",
+      "country": "Sweden",
+      "latitude": 56.98202,
+      "longitude": 13.540734,
+      "website": ""
+    },
+    {
+      "name": "Brunskogs Hembygdsgård",
+      "name_en": "",
+      "city": "Arvika",
+      "country": "Sweden",
+      "latitude": 59.657025,
+      "longitude": 12.890637,
+      "website": ""
+    },
+    {
+      "name": "Bräcke hembyggdsmusem",
+      "name_en": "",
+      "city": "Myggenäs",
+      "country": "Sweden",
+      "latitude": 58.041069,
+      "longitude": 11.681638,
+      "website": ""
+    },
+    {
+      "name": "Brännö Lagård",
+      "name_en": "",
+      "city": "Styrsö",
+      "country": "Sweden",
+      "latitude": 57.645409,
+      "longitude": 11.779604,
+      "website": ""
+    },
+    {
+      "name": "Bunge Aviation Museum",
+      "name_en": "",
+      "city": "Slite",
+      "country": "Sweden",
+      "latitude": 57.852206,
+      "longitude": 19.031755,
+      "website": ""
+    },
+    {
+      "name": "Bungemuseet",
+      "name_en": "",
+      "city": "Slite",
+      "country": "Sweden",
+      "latitude": 57.853892,
+      "longitude": 19.028642,
+      "website": ""
+    },
+    {
+      "name": "By Hembygdsgård",
+      "name_en": "",
+      "city": "Horndal",
+      "country": "Sweden",
+      "latitude": 60.192545,
+      "longitude": 16.468495,
+      "website": ""
+    },
+    {
+      "name": "Bärnstensmuseet",
+      "name_en": "The Amber Museum",
+      "city": "Höllviken",
+      "country": "Sweden",
+      "latitude": 55.400238,
+      "longitude": 12.982755,
+      "website": ""
+    },
+    {
+      "name": "Båt- och fiskemuseum",
+      "name_en": "",
+      "city": "Hemmesta",
+      "country": "Sweden",
+      "latitude": 59.525358,
+      "longitude": 18.614529,
+      "website": ""
+    },
+    {
+      "name": "Båthall 2",
+      "name_en": "Boat Hall 2",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.326326,
+      "longitude": 18.09502,
+      "website": "www.sjohistoriska.se/sv/Besok/Besok-oss/Galarvarvet/Oppettider-pa-Galarvarvet/"
+    },
+    {
+      "name": "Båtmuseum",
+      "name_en": "",
+      "city": "Husum",
+      "country": "Sweden",
+      "latitude": 63.192155,
+      "longitude": 19.017139,
+      "website": ""
+    },
+    {
+      "name": "Callanderska gården",
+      "name_en": "",
+      "city": "Mariefred",
+      "country": "Sweden",
+      "latitude": 59.258031,
+      "longitude": 17.223708,
+      "website": ""
+    },
+    {
+      "name": "Carl Eldhs Ateljémuseum",
+      "name_en": "Carl Eldh Studio Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.352867,
+      "longitude": 18.051622,
+      "website": "www.eldhsatelje.se"
+    },
+    {
+      "name": "Charlottenborgs slott",
+      "name_en": "",
+      "city": "Motala",
+      "country": "Sweden",
+      "latitude": 58.540714,
+      "longitude": 15.06408,
+      "website": ""
+    },
+    {
+      "name": "Dalarnas Museum",
+      "name_en": "",
+      "city": "Falun",
+      "country": "Sweden",
+      "latitude": 60.605898,
+      "longitude": 15.628024,
+      "website": ""
+    },
+    {
+      "name": "Dalsland Konstmuseum",
+      "name_en": "",
+      "city": "Mellerud",
+      "country": "Sweden",
+      "latitude": 58.806879,
+      "longitude": 12.436867,
+      "website": ""
+    },
+    {
+      "name": "Dalénium Science Center",
+      "name_en": "",
+      "city": "Åkarp",
+      "country": "Sweden",
+      "latitude": 58.274451,
+      "longitude": 13.713988,
+      "website": "http://www.dalenium.com/"
+    },
+    {
+      "name": "Dalénmuseet",
+      "name_en": "Gustav-Dalén-Museum",
+      "city": "Åkarp",
+      "country": "Sweden",
+      "latitude": 58.27427,
+      "longitude": 13.714256,
+      "website": ""
+    },
+    {
+      "name": "Dammtorps hembygdsgård",
+      "name_en": "",
+      "city": "Laxå",
+      "country": "Sweden",
+      "latitude": 58.780152,
+      "longitude": 14.622858,
+      "website": ""
+    },
+    {
+      "name": "Danielsgården",
+      "name_en": "",
+      "city": "Bjursås",
+      "country": "Sweden",
+      "latitude": 61.021862,
+      "longitude": 15.647359,
+      "website": ""
+    },
+    {
+      "name": "Dannäs hembygdspark",
+      "name_en": "",
+      "city": "Forsheda",
+      "country": "Sweden",
+      "latitude": 57.062439,
+      "longitude": 13.86737,
+      "website": ""
+    },
+    {
+      "name": "Dansmuseet",
+      "name_en": "Dance Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.329628,
+      "longitude": 18.065322,
+      "website": "www.dansmuseet.se"
+    },
+    {
+      "name": "Delsbo Forngård",
+      "name_en": "",
+      "city": "Delsbo",
+      "country": "Sweden",
+      "latitude": 61.819868,
+      "longitude": 16.560012,
+      "website": ""
+    },
+    {
+      "name": "Den förhistoriska världen",
+      "name_en": "",
+      "city": "Umeå",
+      "country": "Sweden",
+      "latitude": 63.836954,
+      "longitude": 20.240405,
+      "website": ""
+    },
+    {
+      "name": "Dragon Gate",
+      "name_en": "",
+      "city": "Älvkarleby",
+      "country": "Sweden",
+      "latitude": 60.462428,
+      "longitude": 17.414732,
+      "website": ""
+    },
+    {
+      "name": "Dragspelsmuseum",
+      "name_en": "",
+      "city": "Sörforsa",
+      "country": "Sweden",
+      "latitude": 61.827065,
+      "longitude": 16.827079,
+      "website": ""
+    },
+    {
+      "name": "Ebbas hus",
+      "name_en": "",
+      "city": "Malmö",
+      "country": "Sweden",
+      "latitude": 55.605364,
+      "longitude": 13.005772,
+      "website": ""
+    },
+    {
+      "name": "Ebelingmuseet",
+      "name_en": "",
+      "city": "Torshälla",
+      "country": "Sweden",
+      "latitude": 59.418782,
+      "longitude": 16.473633,
+      "website": "http://www.eskilstuna.se/ebelingmuseet"
+    },
+    {
+      "name": "Eds Motormuseum",
+      "name_en": "",
+      "city": "Ed",
+      "country": "Sweden",
+      "latitude": 58.912044,
+      "longitude": 11.931549,
+      "website": ""
+    },
+    {
+      "name": "Eds Museum",
+      "name_en": "",
+      "city": "Ed",
+      "country": "Sweden",
+      "latitude": 58.912565,
+      "longitude": 11.932198,
+      "website": ""
+    },
+    {
+      "name": "Eketorp borgs museum",
+      "name_en": "",
+      "city": "Mörbylånga",
+      "country": "Sweden",
+      "latitude": 56.295609,
+      "longitude": 16.486071,
+      "website": ""
+    },
+    {
+      "name": "Eksjö Museum",
+      "name_en": "",
+      "city": "Eksjö",
+      "country": "Sweden",
+      "latitude": 57.66955,
+      "longitude": 14.970702,
+      "website": ""
+    },
+    {
+      "name": "Elvisboden",
+      "name_en": "",
+      "city": "Norberg",
+      "country": "Sweden",
+      "latitude": 60.063651,
+      "longitude": 15.924449,
+      "website": ""
+    },
+    {
+      "name": "Engelsbergs bruk",
+      "name_en": "Engelsbergs Ironworks",
+      "city": "Norberg",
+      "country": "Sweden",
+      "latitude": 59.967599,
+      "longitude": 16.009698,
+      "website": ""
+    },
+    {
+      "name": "Engelsbergs oljefabrik",
+      "name_en": "",
+      "city": "Norberg",
+      "country": "Sweden",
+      "latitude": 59.95707,
+      "longitude": 16.002915,
+      "website": "http://www.oljeon.se/"
+    },
+    {
+      "name": "Eskilstuna konstmuseum",
+      "name_en": "",
+      "city": "Eskilstuna",
+      "country": "Sweden",
+      "latitude": 59.37766,
+      "longitude": 16.510649,
+      "website": ""
+    },
+    {
+      "name": "Eskilstuna stadsmuseum",
+      "name_en": "",
+      "city": "Eskilstuna",
+      "country": "Sweden",
+      "latitude": 59.375144,
+      "longitude": 16.509852,
+      "website": ""
+    },
+    {
+      "name": "Etnografiska Museet",
+      "name_en": "Museum of Ethnography",
+      "city": "Lidingö",
+      "country": "Sweden",
+      "latitude": 59.332667,
+      "longitude": 18.120679,
+      "website": "http://www.etnografiska.se"
+    },
+    {
+      "name": "Evolutionsmuseet Paleontologi",
+      "name_en": "Museum of Evolution",
+      "city": "Uppsala",
+      "country": "Sweden",
+      "latitude": 59.849251,
+      "longitude": 17.62208,
+      "website": "www.evolutionsmuseet.uu.se"
+    },
+    {
+      "name": "Evolutionsmuseet Zoologi",
+      "name_en": "Museum of Evolution",
+      "city": "Uppsala",
+      "country": "Sweden",
+      "latitude": 59.850178,
+      "longitude": 17.626239,
+      "website": "www.evolutionsmuseet.uu.se"
+    },
+    {
+      "name": "F 7 Gårds- och flottiljmuseum",
+      "name_en": "",
+      "city": "Grästorp",
+      "country": "Sweden",
+      "latitude": 58.436447,
+      "longitude": 12.723025,
+      "website": ""
+    },
+    {
+      "name": "F.d. masugn",
+      "name_en": "",
+      "city": "Järbo",
+      "country": "Sweden",
+      "latitude": 60.840965,
+      "longitude": 16.465756,
+      "website": ""
+    },
+    {
+      "name": "F11 Museum",
+      "name_en": "",
+      "city": "Nyköping",
+      "country": "Sweden",
+      "latitude": 58.787695,
+      "longitude": 16.931774,
+      "website": "http://www.f11museum.se"
+    },
+    {
+      "name": "Falkenbergs Museum",
+      "name_en": "",
+      "city": "Falkenberg",
+      "country": "Sweden",
+      "latitude": 56.898889,
+      "longitude": 12.494498,
+      "website": ""
+    },
+    {
+      "name": "Fatmomakke",
+      "name_en": "",
+      "city": "Sjöberg",
+      "country": "Sweden",
+      "latitude": 65.084964,
+      "longitude": 15.146329,
+      "website": ""
+    },
+    {
+      "name": "Fattenborg",
+      "name_en": "",
+      "city": "Töre",
+      "country": "Sweden",
+      "latitude": 66.018666,
+      "longitude": 22.62435,
+      "website": "http://www.kalix.se/Uppleva/Kultur/Fattenborg/"
+    },
+    {
+      "name": "Ferlinmuseet",
+      "name_en": "",
+      "city": "Filipstad",
+      "country": "Sweden",
+      "latitude": 59.712366,
+      "longitude": 14.160748,
+      "website": ""
+    },
+    {
+      "name": "Filfabriken",
+      "name_en": "",
+      "city": "Hässleholm",
+      "country": "Sweden",
+      "latitude": 56.164151,
+      "longitude": 13.76218,
+      "website": ""
+    },
+    {
+      "name": "Fiske- & sjöfarts-museet",
+      "name_en": "",
+      "city": "Umeå",
+      "country": "Sweden",
+      "latitude": 63.83027,
+      "longitude": 20.290263,
+      "website": ""
+    },
+    {
+      "name": "Fiskemuseet",
+      "name_en": "",
+      "city": "Hönö",
+      "country": "Sweden",
+      "latitude": 57.679462,
+      "longitude": 11.643688,
+      "website": ""
+    },
+    {
+      "name": "Fiskemuseum",
+      "name_en": "",
+      "city": "Sölvesborg",
+      "country": "Sweden",
+      "latitude": 56.010966,
+      "longitude": 14.696775,
+      "website": ""
+    },
+    {
+      "name": "Flottningsmuseum",
+      "name_en": "",
+      "city": "Tärnsjö",
+      "country": "Sweden",
+      "latitude": 60.287426,
+      "longitude": 16.884465,
+      "website": ""
+    },
+    {
+      "name": "Flygmuseum",
+      "name_en": "",
+      "city": "Ängelholm",
+      "country": "Sweden",
+      "latitude": 56.288054,
+      "longitude": 12.846251,
+      "website": ""
+    },
+    {
+      "name": "Fläckebo hembygdsgård",
+      "name_en": "",
+      "city": "Skultuna",
+      "country": "Sweden",
+      "latitude": 59.873275,
+      "longitude": 16.34118,
+      "website": ""
+    },
+    {
+      "name": "Fonus Begravningsmuseum",
+      "name_en": "",
+      "city": "Falköping",
+      "country": "Sweden",
+      "latitude": 58.165433,
+      "longitude": 13.575879,
+      "website": ""
+    },
+    {
+      "name": "Fordonsmuseet",
+      "name_en": "",
+      "city": "Torsby",
+      "country": "Sweden",
+      "latitude": 60.133854,
+      "longitude": 12.999522,
+      "website": ""
+    },
+    {
+      "name": "Fornminnesgården",
+      "name_en": "",
+      "city": "Eksjö",
+      "country": "Sweden",
+      "latitude": 57.669262,
+      "longitude": 14.969863,
+      "website": ""
+    },
+    {
+      "name": "Forsbacka järnverks museum",
+      "name_en": "",
+      "city": "Valbo",
+      "country": "Sweden",
+      "latitude": 60.612508,
+      "longitude": 16.903919,
+      "website": ""
+    },
+    {
+      "name": "Forsvik",
+      "name_en": "",
+      "city": "Karlsborg",
+      "country": "Sweden",
+      "latitude": 58.578224,
+      "longitude": 14.437261,
+      "website": ""
+    },
+    {
+      "name": "Forum för levande historia",
+      "name_en": "Living history forum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.324862,
+      "longitude": 18.067974,
+      "website": "www.levandehistoria.se"
+    },
+    {
+      "name": "Fotografiska",
+      "name_en": "",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.317976,
+      "longitude": 18.084799,
+      "website": "http://fotografiska.eu/"
+    },
+    {
+      "name": "Fotomuseet",
+      "name_en": "",
+      "city": "Osby",
+      "country": "Sweden",
+      "latitude": 56.379804,
+      "longitude": 13.997049,
+      "website": "http://www.fotomuseetiosby.nu"
+    },
+    {
+      "name": "Framtidsmuseet",
+      "name_en": "",
+      "city": "Borlänge",
+      "country": "Sweden",
+      "latitude": 60.48816,
+      "longitude": 15.430592,
+      "website": ""
+    },
+    {
+      "name": "Fredens hus",
+      "name_en": "House of Peace",
+      "city": "Uppsala",
+      "country": "Sweden",
+      "latitude": 59.853202,
+      "longitude": 17.635921,
+      "website": "www.fredenshus.se"
+    },
+    {
+      "name": "Fridegårdsmuseet",
+      "name_en": "",
+      "city": "Bålsta",
+      "country": "Sweden",
+      "latitude": 59.630524,
+      "longitude": 17.483117,
+      "website": "www.haboportalen.se/nyheter1/fridegardsmuseet"
+    },
+    {
+      "name": "Friesminnet",
+      "name_en": "",
+      "city": "Hyltebruk",
+      "country": "Sweden",
+      "latitude": 56.890496,
+      "longitude": 13.326472,
+      "website": ""
+    },
+    {
+      "name": "Friluftsmuséet Fiskartorpet",
+      "name_en": "",
+      "city": "Strömstad",
+      "country": "Sweden",
+      "latitude": 58.941087,
+      "longitude": 11.189225,
+      "website": ""
+    },
+    {
+      "name": "Fängelsemuseum",
+      "name_en": "",
+      "city": "Gävle",
+      "country": "Sweden",
+      "latitude": 60.671689,
+      "longitude": 17.143531,
+      "website": ""
+    },
+    {
+      "name": "Färgargården friluftsmuseum",
+      "name_en": "",
+      "city": "Norrköping",
+      "country": "Sweden",
+      "latitude": 58.588037,
+      "longitude": 16.167677,
+      "website": ""
+    },
+    {
+      "name": "Färgfabriken",
+      "name_en": "Colour Factory",
+      "city": "Årsta",
+      "country": "Sweden",
+      "latitude": 59.315253,
+      "longitude": 18.019323,
+      "website": "www.fargfabriken.se"
+    },
+    {
+      "name": "Fårö museum",
+      "name_en": "",
+      "city": "Slite",
+      "country": "Sweden",
+      "latitude": 57.918791,
+      "longitude": 19.138238,
+      "website": ""
+    },
+    {
+      "name": "Försvarsmuseum",
+      "name_en": "",
+      "city": "Boden",
+      "country": "Sweden",
+      "latitude": 65.806586,
+      "longitude": 21.679048,
+      "website": ""
+    },
+    {
+      "name": "Gagnefs Minnesstuga (hembygdsgård)",
+      "name_en": "",
+      "city": "Gagnef",
+      "country": "Sweden",
+      "latitude": 60.588211,
+      "longitude": 15.076941,
+      "website": ""
+    },
+    {
+      "name": "Galleri Andersson/Sandström",
+      "name_en": "",
+      "city": "Röbäck",
+      "country": "Sweden",
+      "latitude": 63.839151,
+      "longitude": 20.158899,
+      "website": "http://www.gsa.se/"
+    },
+    {
+      "name": "Gamel Remsgården",
+      "name_en": "",
+      "city": "Sveg",
+      "country": "Sweden",
+      "latitude": 62.125181,
+      "longitude": 14.162526,
+      "website": ""
+    },
+    {
+      "name": "Gamla Bankgården",
+      "name_en": "",
+      "city": "Vrigstad",
+      "country": "Sweden",
+      "latitude": 57.35568,
+      "longitude": 14.474509,
+      "website": ""
+    },
+    {
+      "name": "Gammelgården",
+      "name_en": "",
+      "city": "Ludvika",
+      "country": "Sweden",
+      "latitude": 60.14762,
+      "longitude": 15.206977,
+      "website": ""
+    },
+    {
+      "name": "Gammelgården",
+      "name_en": "",
+      "city": "Köping",
+      "country": "Sweden",
+      "latitude": 59.511734,
+      "longitude": 16.005565,
+      "website": ""
+    },
+    {
+      "name": "Gammelgårdens Friluftsmuseum",
+      "name_en": "",
+      "city": "Bengtsfors",
+      "country": "Sweden",
+      "latitude": 59.028875,
+      "longitude": 12.237361,
+      "website": ""
+    },
+    {
+      "name": "Gammelgårdens Museum",
+      "name_en": "",
+      "city": "Krokom",
+      "country": "Sweden",
+      "latitude": 63.129769,
+      "longitude": 14.286226,
+      "website": ""
+    },
+    {
+      "name": "Gammelstan",
+      "name_en": "",
+      "city": "Rättvik",
+      "country": "Sweden",
+      "latitude": 61.116851,
+      "longitude": 15.251049,
+      "website": ""
+    },
+    {
+      "name": "Garnisonsmuseet",
+      "name_en": "",
+      "city": "Linköping",
+      "country": "Sweden",
+      "latitude": 58.395477,
+      "longitude": 15.608603,
+      "website": "http://www.soldatmuseum.se"
+    },
+    {
+      "name": "Garvaregården",
+      "name_en": "",
+      "city": "Trosa",
+      "country": "Sweden",
+      "latitude": 58.897925,
+      "longitude": 17.545855,
+      "website": ""
+    },
+    {
+      "name": "Geologiska museet",
+      "name_en": "Geological museum",
+      "city": "Borlänge",
+      "country": "Sweden",
+      "latitude": 60.484157,
+      "longitude": 15.430143,
+      "website": "http://www.geologiskamuseet.se"
+    },
+    {
+      "name": "Geomuseum",
+      "name_en": "",
+      "city": "Malå",
+      "country": "Sweden",
+      "latitude": 65.181771,
+      "longitude": 18.750194,
+      "website": ""
+    },
+    {
+      "name": "Gjuteri- och emaljmuseet",
+      "name_en": "Casting and Enamel Museum",
+      "city": "Kallinge",
+      "country": "Sweden",
+      "latitude": 56.24477,
+      "longitude": 15.285259,
+      "website": ""
+    },
+    {
+      "name": "Gladisvall (Heimathof mit Kräutergarten)",
+      "name_en": "",
+      "city": "Arvika",
+      "country": "Sweden",
+      "latitude": 59.528424,
+      "longitude": 12.612551,
+      "website": ""
+    },
+    {
+      "name": "Godegårds Bruks- & Porslinsmuseum",
+      "name_en": "",
+      "city": "Ryd",
+      "country": "Sweden",
+      "latitude": 58.743927,
+      "longitude": 15.179873,
+      "website": ""
+    },
+    {
+      "name": "Gottfrid Larsson Gården",
+      "name_en": "",
+      "city": "Vadstena",
+      "country": "Sweden",
+      "latitude": 58.447899,
+      "longitude": 14.896605,
+      "website": ""
+    },
+    {
+      "name": "Gripes Modellteater museet",
+      "name_en": "",
+      "city": "Nyköping",
+      "country": "Sweden",
+      "latitude": 58.754331,
+      "longitude": 17.009307,
+      "website": ""
+    },
+    {
+      "name": "Gripsholms Slott",
+      "name_en": "Gripsholm Castle",
+      "city": "Mariefred",
+      "country": "Sweden",
+      "latitude": 59.255726,
+      "longitude": 17.220019,
+      "website": ""
+    },
+    {
+      "name": "Gruvmuseum",
+      "name_en": "",
+      "city": "Ludvika",
+      "country": "Sweden",
+      "latitude": 60.146554,
+      "longitude": 15.20851,
+      "website": ""
+    },
+    {
+      "name": "Gränna Polar Museum",
+      "name_en": "",
+      "city": "Gränna",
+      "country": "Sweden",
+      "latitude": 58.022032,
+      "longitude": 14.467223,
+      "website": ""
+    },
+    {
+      "name": "Guitars the museum",
+      "name_en": "",
+      "city": "Umeå",
+      "country": "Sweden",
+      "latitude": 63.827376,
+      "longitude": 20.268138,
+      "website": "http://www.guitarsthemuseum.com/"
+    },
+    {
+      "name": "Gunnes gård",
+      "name_en": "",
+      "city": "Upplands Väsby",
+      "country": "Sweden",
+      "latitude": 59.508401,
+      "longitude": 17.906797,
+      "website": "http://www.upplandsvasby.se/gunnes"
+    },
+    {
+      "name": "Gustav III:s antikmuseum",
+      "name_en": "Gustav III's Museum of Antiquities",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.327542,
+      "longitude": 18.072054,
+      "website": "http://www.kungahuset.se/besokkungligaslotten/kungligaslottet/gustaviiisantikmuseum"
+    },
+    {
+      "name": "Gustavsbergs Porslinsmuseum",
+      "name_en": "",
+      "city": "Gustavsberg",
+      "country": "Sweden",
+      "latitude": 59.324052,
+      "longitude": 18.384245,
+      "website": ""
+    },
+    {
+      "name": "Gällivare museum",
+      "name_en": "",
+      "city": "Gällivare",
+      "country": "Sweden",
+      "latitude": 67.134152,
+      "longitude": 20.661133,
+      "website": ""
+    },
+    {
+      "name": "Gärsarnas museum",
+      "name_en": "",
+      "city": "Dalarö",
+      "country": "Sweden",
+      "latitude": 59.087005,
+      "longitude": 18.280204,
+      "website": ""
+    },
+    {
+      "name": "Göteborgs spårvägsmuseum",
+      "name_en": "",
+      "city": "Göteborg",
+      "country": "Sweden",
+      "latitude": 57.710012,
+      "longitude": 11.992587,
+      "website": "http://www.ringlinien.org/museum/"
+    },
+    {
+      "name": "H M Konungens Hovstall",
+      "name_en": "Royal Mews",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.332928,
+      "longitude": 18.078639,
+      "website": "www.kungahuset.se"
+    },
+    {
+      "name": "Haga Parkmuseum",
+      "name_en": "",
+      "city": "Bergshamra",
+      "country": "Sweden",
+      "latitude": 59.366844,
+      "longitude": 18.030256,
+      "website": "www.sfv.se/hagaparkmuseum"
+    },
+    {
+      "name": "Hallwylska museet",
+      "name_en": "Hallwyl Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.333186,
+      "longitude": 18.074552,
+      "website": "http://www.hallwylskamuseet.se"
+    },
+    {
+      "name": "Hammarö Skärgårdsmuseum",
+      "name_en": "",
+      "city": "Karlstad",
+      "country": "Sweden",
+      "latitude": 59.33685,
+      "longitude": 13.522857,
+      "website": ""
+    },
+    {
+      "name": "HAMN",
+      "name_en": "",
+      "city": "Fisksätra",
+      "country": "Sweden",
+      "latitude": 59.295378,
+      "longitude": 18.259767,
+      "website": ""
+    },
+    {
+      "name": "Hamnmagasinet",
+      "name_en": "",
+      "city": "Töreboda",
+      "country": "Sweden",
+      "latitude": 58.802568,
+      "longitude": 14.058184,
+      "website": ""
+    },
+    {
+      "name": "Handens muséum & Smedja",
+      "name_en": "",
+      "city": "Handen",
+      "country": "Sweden",
+      "latitude": 59.176841,
+      "longitude": 18.138862,
+      "website": ""
+    },
+    {
+      "name": "Harbo hembygdsgård",
+      "name_en": "",
+      "city": "Östervåla",
+      "country": "Sweden",
+      "latitude": 60.110734,
+      "longitude": 17.210163,
+      "website": ""
+    },
+    {
+      "name": "Harmånger hembygdsgård",
+      "name_en": "",
+      "city": "Bergsjö",
+      "country": "Sweden",
+      "latitude": 61.923866,
+      "longitude": 17.221004,
+      "website": ""
+    },
+    {
+      "name": "Hasse & Tage-museum",
+      "name_en": "",
+      "city": "Tomelilla",
+      "country": "Sweden",
+      "latitude": 55.54449,
+      "longitude": 13.950255,
+      "website": ""
+    },
+    {
+      "name": "Hedemora MC-museum",
+      "name_en": "",
+      "city": "Hedemora",
+      "country": "Sweden",
+      "latitude": 60.280946,
+      "longitude": 15.992081,
+      "website": ""
+    },
+    {
+      "name": "Helsingborgs idrottsmuseum",
+      "name_en": "",
+      "city": "Helsingborg",
+      "country": "Sweden",
+      "latitude": 56.041331,
+      "longitude": 12.700142,
+      "website": ""
+    },
+    {
+      "name": "Hem i Haga",
+      "name_en": "",
+      "city": "Göteborg",
+      "country": "Sweden",
+      "latitude": 57.698632,
+      "longitude": 11.955042,
+      "website": ""
+    },
+    {
+      "name": "Hembygds museet",
+      "name_en": "",
+      "city": "Åmål",
+      "country": "Sweden",
+      "latitude": 59.053246,
+      "longitude": 12.710909,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsgård",
+      "name_en": "",
+      "city": "Älmhult",
+      "country": "Sweden",
+      "latitude": 56.618398,
+      "longitude": 14.199686,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsgård",
+      "name_en": "",
+      "city": "Oskarshamn",
+      "country": "Sweden",
+      "latitude": 57.465016,
+      "longitude": 16.54521,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsgård",
+      "name_en": "",
+      "city": "Öckerö",
+      "country": "Sweden",
+      "latitude": 57.7068,
+      "longitude": 11.644753,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsgård",
+      "name_en": "",
+      "city": "Hofors",
+      "country": "Sweden",
+      "latitude": 60.547621,
+      "longitude": 16.293003,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsgård Museum",
+      "name_en": "",
+      "city": "Vaxholm",
+      "country": "Sweden",
+      "latitude": 59.405721,
+      "longitude": 18.350699,
+      "website": "www.hembygd.se/vaxholms-hembygdsforening/museet/"
+    },
+    {
+      "name": "Hembygdsgården",
+      "name_en": "",
+      "city": "Hagfors",
+      "country": "Sweden",
+      "latitude": 60.155881,
+      "longitude": 13.809631,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsgården Dalen",
+      "name_en": "",
+      "city": "Diseröd",
+      "country": "Sweden",
+      "latitude": 57.956859,
+      "longitude": 11.985617,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsmuseet i Östgöta-Dal",
+      "name_en": "",
+      "city": "Herrestad",
+      "country": "Sweden",
+      "latitude": 58.39378,
+      "longitude": 14.697217,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsmuseum",
+      "name_en": "",
+      "city": "Emmaboda",
+      "country": "Sweden",
+      "latitude": 56.721966,
+      "longitude": 15.581129,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsmuseum",
+      "name_en": "",
+      "city": "Marstrand",
+      "country": "Sweden",
+      "latitude": 57.887526,
+      "longitude": 11.581913,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsmuseum",
+      "name_en": "",
+      "city": "Hemmesta",
+      "country": "Sweden",
+      "latitude": 59.524541,
+      "longitude": 18.616084,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsmuseum",
+      "name_en": "",
+      "city": "Hovmantorp",
+      "country": "Sweden",
+      "latitude": 56.657871,
+      "longitude": 15.131599,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsmuséet",
+      "name_en": "",
+      "city": "Täby",
+      "country": "Sweden",
+      "latitude": 59.455784,
+      "longitude": 18.113691,
+      "website": "www.hembygd.se"
+    },
+    {
+      "name": "Hembygdsomradet",
+      "name_en": "",
+      "city": "Gällivare",
+      "country": "Sweden",
+      "latitude": 67.129827,
+      "longitude": 20.679064,
+      "website": ""
+    },
+    {
+      "name": "Hembygdsparkens muséer",
+      "name_en": "",
+      "city": "Ängelholm",
+      "country": "Sweden",
+      "latitude": 56.254058,
+      "longitude": 12.865405,
+      "website": ""
+    },
+    {
+      "name": "Hemliga fortet",
+      "name_en": "",
+      "city": "Skutskär",
+      "country": "Sweden",
+      "latitude": 60.658579,
+      "longitude": 17.341606,
+      "website": ""
+    },
+    {
+      "name": "Historic Sami village",
+      "name_en": "",
+      "city": "Fristad",
+      "country": "Sweden",
+      "latitude": 65.960866,
+      "longitude": 16.216436,
+      "website": ""
+    },
+    {
+      "name": "Historiska Museet",
+      "name_en": "Museum of National Antiquities",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.33473,
+      "longitude": 18.090844,
+      "website": "http://www.historiska.se"
+    },
+    {
+      "name": "Hjalmar Bergmans museum",
+      "name_en": "",
+      "city": "Örebro",
+      "country": "Sweden",
+      "latitude": 59.272267,
+      "longitude": 15.232274,
+      "website": ""
+    },
+    {
+      "name": "Hjemstavnsgården",
+      "name_en": "",
+      "city": "Tingsryd",
+      "country": "Sweden",
+      "latitude": 56.586402,
+      "longitude": 14.798692,
+      "website": ""
+    },
+    {
+      "name": "Holen gammelgård",
+      "name_en": "",
+      "city": "Leksand",
+      "country": "Sweden",
+      "latitude": 60.819265,
+      "longitude": 14.999464,
+      "website": ""
+    },
+    {
+      "name": "Holgers traktormuseum",
+      "name_en": "",
+      "city": "Överkalix",
+      "country": "Sweden",
+      "latitude": 66.281272,
+      "longitude": 22.834801,
+      "website": ""
+    },
+    {
+      "name": "Holmöns båtmuseum",
+      "name_en": "",
+      "city": "Sävar",
+      "country": "Sweden",
+      "latitude": 63.804871,
+      "longitude": 20.864701,
+      "website": "http://www.holmonsbatmuseum.se/"
+    },
+    {
+      "name": "Huddunge hembygdsgård",
+      "name_en": "",
+      "city": "Tärnsjö",
+      "country": "Sweden",
+      "latitude": 60.045017,
+      "longitude": 16.974419,
+      "website": ""
+    },
+    {
+      "name": "Hultsfreds hembygdsgård",
+      "name_en": "",
+      "city": "Hultsfred",
+      "country": "Sweden",
+      "latitude": 57.493218,
+      "longitude": 15.860725,
+      "website": ""
+    },
+    {
+      "name": "Husby gammelgård",
+      "name_en": "",
+      "city": "Långshyttan",
+      "country": "Sweden",
+      "latitude": 60.393208,
+      "longitude": 16.008143,
+      "website": ""
+    },
+    {
+      "name": "Hängengården",
+      "name_en": "",
+      "city": "Norsjö",
+      "country": "Sweden",
+      "latitude": 65.262179,
+      "longitude": 19.625166,
+      "website": ""
+    },
+    {
+      "name": "Häradshammars bygdegård",
+      "name_en": "",
+      "city": "Olstorp",
+      "country": "Sweden",
+      "latitude": 58.553036,
+      "longitude": 16.644236,
+      "website": ""
+    },
+    {
+      "name": "Härledgården",
+      "name_en": "",
+      "city": "Enköping",
+      "country": "Sweden",
+      "latitude": 59.785237,
+      "longitude": 17.07726,
+      "website": ""
+    },
+    {
+      "name": "Hässleholms museum",
+      "name_en": "",
+      "city": "Hässleholm",
+      "country": "Sweden",
+      "latitude": 56.161272,
+      "longitude": 13.784125,
+      "website": ""
+    },
+    {
+      "name": "Höganäs Museum",
+      "name_en": "",
+      "city": "Höganäs",
+      "country": "Sweden",
+      "latitude": 56.200215,
+      "longitude": 12.57397,
+      "website": ""
+    },
+    {
+      "name": "Hökeriet",
+      "name_en": "",
+      "city": "Lund",
+      "country": "Sweden",
+      "latitude": 55.705996,
+      "longitude": 13.196268,
+      "website": ""
+    },
+    {
+      "name": "IKEA Museum",
+      "name_en": "",
+      "city": "Älmhult",
+      "country": "Sweden",
+      "latitude": 56.552255,
+      "longitude": 14.134432,
+      "website": ""
+    },
+    {
+      "name": "Ilvars Bilmuseum",
+      "name_en": "",
+      "city": "Dorotea",
+      "country": "Sweden",
+      "latitude": 64.107757,
+      "longitude": 16.170081,
+      "website": ""
+    },
+    {
+      "name": "Ingeborrarps Friluftsmuseum",
+      "name_en": "",
+      "city": "Klippan",
+      "country": "Sweden",
+      "latitude": 56.225749,
+      "longitude": 13.17697,
+      "website": ""
+    },
+    {
+      "name": "Jamtli Historieland",
+      "name_en": "",
+      "city": "Östersund",
+      "country": "Sweden",
+      "latitude": 63.187909,
+      "longitude": 14.635501,
+      "website": ""
+    },
+    {
+      "name": "Jim Reeves museum",
+      "name_en": "",
+      "city": "Edsbyn",
+      "country": "Sweden",
+      "latitude": 61.339524,
+      "longitude": 15.571705,
+      "website": "http://www.jimreeves.se/"
+    },
+    {
+      "name": "Joe Hill Gården",
+      "name_en": "",
+      "city": "Gävle",
+      "country": "Sweden",
+      "latitude": 60.672172,
+      "longitude": 17.149921,
+      "website": ""
+    },
+    {
+      "name": "Johannamuseet",
+      "name_en": "",
+      "city": "Skurup",
+      "country": "Sweden",
+      "latitude": 55.500098,
+      "longitude": 13.521948,
+      "website": ""
+    },
+    {
+      "name": "Judiska museet",
+      "name_en": "Jewish Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.341517,
+      "longitude": 18.043993,
+      "website": "www.judiska-museet.se"
+    },
+    {
+      "name": "Jularbomuseet",
+      "name_en": "",
+      "city": "Avesta",
+      "country": "Sweden",
+      "latitude": 60.148333,
+      "longitude": 16.164758,
+      "website": ""
+    },
+    {
+      "name": "Jussi Björlings museum",
+      "name_en": "",
+      "city": "Borlänge",
+      "country": "Sweden",
+      "latitude": 60.484892,
+      "longitude": 15.43121,
+      "website": ""
+    },
+    {
+      "name": "Järnvägsmuseum",
+      "name_en": "Railroad museum",
+      "city": "Hagfors",
+      "country": "Sweden",
+      "latitude": 60.023024,
+      "longitude": 13.692011,
+      "website": ""
+    },
+    {
+      "name": "Jönköpings läns museum",
+      "name_en": "",
+      "city": "Jönköping",
+      "country": "Sweden",
+      "latitude": 57.780199,
+      "longitude": 14.17591,
+      "website": ""
+    },
+    {
+      "name": "Kalkmuseum",
+      "name_en": "",
+      "city": "Krokom",
+      "country": "Sweden",
+      "latitude": 63.319063,
+      "longitude": 14.091276,
+      "website": ""
+    },
+    {
+      "name": "Kamlungebatteriet",
+      "name_en": "",
+      "city": "Rolfs",
+      "country": "Sweden",
+      "latitude": 66.005855,
+      "longitude": 22.945265,
+      "website": ""
+    },
+    {
+      "name": "Karl XII Stugan",
+      "name_en": "",
+      "city": "Töcksfors",
+      "country": "Sweden",
+      "latitude": 59.472175,
+      "longitude": 11.95784,
+      "website": ""
+    },
+    {
+      "name": "Karlshamns Museum",
+      "name_en": "Karlshamn's Museum",
+      "city": "Karlshamn",
+      "country": "Sweden",
+      "latitude": 56.173645,
+      "longitude": 14.859098,
+      "website": "http://www.karlshamnsmuseum.se"
+    },
+    {
+      "name": "Karlskrona konsthall",
+      "name_en": "",
+      "city": "Karlskrona",
+      "country": "Sweden",
+      "latitude": 56.1597,
+      "longitude": 15.597207,
+      "website": ""
+    },
+    {
+      "name": "Klasatorpet",
+      "name_en": "",
+      "city": "Emmaboda",
+      "country": "Sweden",
+      "latitude": 56.575022,
+      "longitude": 15.4632,
+      "website": ""
+    },
+    {
+      "name": "Klasro Skolmuseum",
+      "name_en": "",
+      "city": "Sollentuna",
+      "country": "Sweden",
+      "latitude": 59.448539,
+      "longitude": 17.927395,
+      "website": ""
+    },
+    {
+      "name": "Klensmedjan",
+      "name_en": "",
+      "city": "Slottsbron",
+      "country": "Sweden",
+      "latitude": 59.353234,
+      "longitude": 12.958738,
+      "website": ""
+    },
+    {
+      "name": "Knäckebrödsmuseum",
+      "name_en": "",
+      "city": "Filipstad",
+      "country": "Sweden",
+      "latitude": 59.706845,
+      "longitude": 14.156578,
+      "website": ""
+    },
+    {
+      "name": "Konstakademien",
+      "name_en": "Royal Academy of Fine Arts",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.328766,
+      "longitude": 18.06437,
+      "website": "http://konstakademien.se/"
+    },
+    {
+      "name": "Konstcentrum",
+      "name_en": "",
+      "city": "Gävle",
+      "country": "Sweden",
+      "latitude": 60.672397,
+      "longitude": 17.124879,
+      "website": ""
+    },
+    {
+      "name": "Konstmuseet",
+      "name_en": "",
+      "city": "Skövde",
+      "country": "Sweden",
+      "latitude": 58.389767,
+      "longitude": 13.850992,
+      "website": ""
+    },
+    {
+      "name": "konstmuseum",
+      "name_en": "",
+      "city": "Västerås",
+      "country": "Sweden",
+      "latitude": 59.607572,
+      "longitude": 16.546014,
+      "website": ""
+    },
+    {
+      "name": "Kornskruven (industrimuseum)",
+      "name_en": "",
+      "city": "Hofors",
+      "country": "Sweden",
+      "latitude": 60.552813,
+      "longitude": 16.290635,
+      "website": ""
+    },
+    {
+      "name": "Kortedala museum",
+      "name_en": "",
+      "city": "Eriksbo",
+      "country": "Sweden",
+      "latitude": 57.758254,
+      "longitude": 12.035814,
+      "website": ""
+    },
+    {
+      "name": "Kraftverksmuseum",
+      "name_en": "",
+      "city": "Hammarstrand",
+      "country": "Sweden",
+      "latitude": 63.147589,
+      "longitude": 16.077937,
+      "website": ""
+    },
+    {
+      "name": "Kristianstads järnvägsmuseum",
+      "name_en": "Kristianstad's Railway Museum",
+      "city": "Kristianstad",
+      "country": "Sweden",
+      "latitude": 56.021729,
+      "longitude": 14.163363,
+      "website": "http://www.regionmuseet.se/jarnvagsmuseet.htm"
+    },
+    {
+      "name": "Kristinehamns konstmuseum",
+      "name_en": "",
+      "city": "Kristinehamn",
+      "country": "Sweden",
+      "latitude": 59.327279,
+      "longitude": 14.085843,
+      "website": "http://www.kristinehamnskonstmuseum.com"
+    },
+    {
+      "name": "KRLSG2",
+      "name_en": "",
+      "city": "Västerås",
+      "country": "Sweden",
+      "latitude": 59.610009,
+      "longitude": 16.552013,
+      "website": "http://www.krlsg2.se/"
+    },
+    {
+      "name": "Kronobergs lantbruksmuseum",
+      "name_en": "Kronoberg's Agricultural Museum",
+      "city": "Alvesta",
+      "country": "Sweden",
+      "latitude": 56.925771,
+      "longitude": 14.557573,
+      "website": "http://www.kulturparkensmaland.se/1.0.1.0/68/1/"
+    },
+    {
+      "name": "Kroppjefälls Hembygdsförening",
+      "name_en": "",
+      "city": "Mellerud",
+      "country": "Sweden",
+      "latitude": 58.720464,
+      "longitude": 12.358785,
+      "website": ""
+    },
+    {
+      "name": "Kullabergs Naturum",
+      "name_en": "",
+      "city": "Höganäs",
+      "country": "Sweden",
+      "latitude": 56.301266,
+      "longitude": 12.451932,
+      "website": "http://www.kullabergsnatur.se/"
+    },
+    {
+      "name": "Kulturhuset Slottsvakten",
+      "name_en": "",
+      "city": "Nyköping",
+      "country": "Sweden",
+      "latitude": 58.749351,
+      "longitude": 17.009622,
+      "website": ""
+    },
+    {
+      "name": "Kungajaktmuseet",
+      "name_en": "",
+      "city": "Vargön",
+      "country": "Sweden",
+      "latitude": 58.347161,
+      "longitude": 12.431641,
+      "website": "http://www.algensberg.com/pages/default.asp?SectionID=4390"
+    },
+    {
+      "name": "Kungliga Myntkabinettet",
+      "name_en": "Royal Coin Cabinet",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.325873,
+      "longitude": 18.073377,
+      "website": "http://www.myntkabinettet.se/"
+    },
+    {
+      "name": "Kungsängens Hembygdsgård",
+      "name_en": "",
+      "city": "Kungsängen",
+      "country": "Sweden",
+      "latitude": 59.481695,
+      "longitude": 17.742185,
+      "website": ""
+    },
+    {
+      "name": "Kvarnaslätts hembygdsgård",
+      "name_en": "",
+      "city": "Nybro",
+      "country": "Sweden",
+      "latitude": 56.736117,
+      "longitude": 15.919556,
+      "website": ""
+    },
+    {
+      "name": "Kvarngården Bergshamra",
+      "name_en": "",
+      "city": "Norrtälje",
+      "country": "Sweden",
+      "latitude": 59.642753,
+      "longitude": 18.622052,
+      "website": ""
+    },
+    {
+      "name": "Kvarnvikens kvarn & såg",
+      "name_en": "Kvarnvikens mill",
+      "city": "Bromma",
+      "country": "Sweden",
+      "latitude": 59.348517,
+      "longitude": 17.869452,
+      "website": "www.kvarnvikensmuseum.se"
+    },
+    {
+      "name": "Kvekgården",
+      "name_en": "",
+      "city": "Örsundsbro",
+      "country": "Sweden",
+      "latitude": 59.726919,
+      "longitude": 17.266777,
+      "website": ""
+    },
+    {
+      "name": "Kvibergs Museum",
+      "name_en": "",
+      "city": "Eriksbo",
+      "country": "Sweden",
+      "latitude": 57.73758,
+      "longitude": 12.029075,
+      "website": "http://www.kvibergsmuseum.se"
+    },
+    {
+      "name": "Kvinnohistoriskt museum",
+      "name_en": "",
+      "city": "Umeå",
+      "country": "Sweden",
+      "latitude": 63.824612,
+      "longitude": 20.260259,
+      "website": "http://kvinnohistoriskt.se"
+    },
+    {
+      "name": "Kärnåsens hembygdsgård",
+      "name_en": "",
+      "city": "Hagfors",
+      "country": "Sweden",
+      "latitude": 59.994814,
+      "longitude": 13.567161,
+      "website": "https://www.facebook.com/NorraRadaHembygdsforening"
+    },
+    {
+      "name": "Kåkstaden",
+      "name_en": "",
+      "city": "Malmberget",
+      "country": "Sweden",
+      "latitude": 67.17635,
+      "longitude": 20.664622,
+      "website": ""
+    },
+    {
+      "name": "Kållandsö Hembyggdsmuseum",
+      "name_en": "",
+      "city": "Lidköping",
+      "country": "Sweden",
+      "latitude": 58.652768,
+      "longitude": 13.161589,
+      "website": ""
+    },
+    {
+      "name": "Kålles Rekord-Magasin",
+      "name_en": "",
+      "city": "Vara",
+      "country": "Sweden",
+      "latitude": 58.235799,
+      "longitude": 13.03548,
+      "website": ""
+    },
+    {
+      "name": "Köpings Museum",
+      "name_en": "",
+      "city": "Köping",
+      "country": "Sweden",
+      "latitude": 59.508403,
+      "longitude": 16.000715,
+      "website": ""
+    },
+    {
+      "name": "Lancashiresmedja",
+      "name_en": "",
+      "city": "Ramnäs",
+      "country": "Sweden",
+      "latitude": 59.779853,
+      "longitude": 16.183613,
+      "website": ""
+    },
+    {
+      "name": "Lantbruksmuseum",
+      "name_en": "",
+      "city": "Reftele",
+      "country": "Sweden",
+      "latitude": 57.251021,
+      "longitude": 13.642348,
+      "website": ""
+    },
+    {
+      "name": "Lantbruksmuseum",
+      "name_en": "",
+      "city": "Uppsala",
+      "country": "Sweden",
+      "latitude": 59.848519,
+      "longitude": 17.529493,
+      "website": ""
+    },
+    {
+      "name": "Lanthandelsmuseum",
+      "name_en": "",
+      "city": "Sollefteå",
+      "country": "Sweden",
+      "latitude": 63.16916,
+      "longitude": 17.033549,
+      "website": ""
+    },
+    {
+      "name": "Laxholmen Kulturhus",
+      "name_en": "",
+      "city": "Munkfors",
+      "country": "Sweden",
+      "latitude": 59.848846,
+      "longitude": 13.544342,
+      "website": ""
+    },
+    {
+      "name": "Leksaksmuseet",
+      "name_en": "Toy Museum",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.311891,
+      "longitude": 18.098469,
+      "website": "www.leksaksmuseet.se"
+    },
+    {
+      "name": "Lesjöfors museum",
+      "name_en": "",
+      "city": "Lesjöfors",
+      "country": "Sweden",
+      "latitude": 59.97783,
+      "longitude": 14.186746,
+      "website": "http://www.lesjoforsmuseum.com"
+    },
+    {
+      "name": "Lidingö museum",
+      "name_en": "",
+      "city": "Lidingö",
+      "country": "Sweden",
+      "latitude": 59.366705,
+      "longitude": 18.136017,
+      "website": "www.lidingohembygd.se/museet.html"
+    },
+    {
+      "name": "Liljevalchs konsthall",
+      "name_en": "Liljevalchs Art Gallery",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.325513,
+      "longitude": 18.096167,
+      "website": "http://www.liljevalchs.com/"
+    },
+    {
+      "name": "Lillhersby Hembygdsgård",
+      "name_en": "",
+      "city": "Sollentuna",
+      "country": "Sweden",
+      "latitude": 59.422371,
+      "longitude": 17.957225,
+      "website": ""
+    },
+    {
+      "name": "Linnés Hammarby",
+      "name_en": "",
+      "city": "Alsike",
+      "country": "Sweden",
+      "latitude": 59.817606,
+      "longitude": 17.776227,
+      "website": "http://www.fmis.raa.se/cocoon/fornsok/search.html?tab=3&page=1&objektid=10023801560001"
+    },
+    {
+      "name": "Linnés Råshult",
+      "name_en": "",
+      "city": "Älmhult",
+      "country": "Sweden",
+      "latitude": 56.618215,
+      "longitude": 14.199516,
+      "website": ""
+    },
+    {
+      "name": "Livets Museum",
+      "name_en": "",
+      "city": "Lund",
+      "country": "Sweden",
+      "latitude": 55.708947,
+      "longitude": 13.19508,
+      "website": ""
+    },
+    {
+      "name": "Livrustkammaren",
+      "name_en": "Royal Armoury",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.326615,
+      "longitude": 18.073078,
+      "website": "http://livrustkammaren.se"
+    },
+    {
+      "name": "Ljungbyheds Militärhistoriska Museum",
+      "name_en": "",
+      "city": "Ljungbyhed",
+      "country": "Sweden",
+      "latitude": 56.079049,
+      "longitude": 13.231526,
+      "website": "http://www.lmhm.se/"
+    },
+    {
+      "name": "Ljusterö Konstmuseum",
+      "name_en": "",
+      "city": "Hemmesta",
+      "country": "Sweden",
+      "latitude": 59.523737,
+      "longitude": 18.609164,
+      "website": ""
+    },
+    {
+      "name": "LKAB Gruvmuseum",
+      "name_en": "",
+      "city": "Malmberget",
+      "country": "Sweden",
+      "latitude": 67.176854,
+      "longitude": 20.642325,
+      "website": "http://www.gellivarelapland.se/en/See/Mining-museum/"
+    },
+    {
+      "name": "Lugnets skidmuseum",
+      "name_en": "",
+      "city": "Falun",
+      "country": "Sweden",
+      "latitude": 60.621002,
+      "longitude": 15.665485,
+      "website": ""
+    },
+    {
+      "name": "Lundgrens Industrimuseum",
+      "name_en": "",
+      "city": "Ornäs",
+      "country": "Sweden",
+      "latitude": 60.402996,
+      "longitude": 15.593651,
+      "website": "http://www.lundgrens.nu"
+    },
+    {
+      "name": "Länna gamla prästgård",
+      "name_en": "",
+      "city": "Norrtälje",
+      "country": "Sweden",
+      "latitude": 59.686959,
+      "longitude": 18.613994,
+      "website": ""
+    },
+    {
+      "name": "Länsmuseet Varberg",
+      "name_en": "",
+      "city": "Varberg",
+      "country": "Sweden",
+      "latitude": 57.106013,
+      "longitude": 12.239598,
+      "website": ""
+    },
+    {
+      "name": "Lödöse Museum",
+      "name_en": "",
+      "city": "Lödöse",
+      "country": "Sweden",
+      "latitude": 58.036117,
+      "longitude": 12.154192,
+      "website": ""
+    },
+    {
+      "name": "Madesjö Kyrkstallar Hembygdsmuseum",
+      "name_en": "",
+      "city": "Nybro",
+      "country": "Sweden",
+      "latitude": 56.740383,
+      "longitude": 15.881369,
+      "website": ""
+    },
+    {
+      "name": "Malmberget Museet",
+      "name_en": "",
+      "city": "Malmberget",
+      "country": "Sweden",
+      "latitude": 67.177419,
+      "longitude": 20.663163,
+      "website": ""
+    },
+    {
+      "name": "Mankellmuséet",
+      "name_en": "",
+      "city": "Sveg",
+      "country": "Sweden",
+      "latitude": 62.032856,
+      "longitude": 14.365979,
+      "website": ""
+    },
+    {
+      "name": "Mariestads Industrimuseum",
+      "name_en": "",
+      "city": "Mariestad",
+      "country": "Sweden",
+      "latitude": 58.70828,
+      "longitude": 13.818498,
+      "website": ""
+    },
+    {
+      "name": "Maritiman",
+      "name_en": "",
+      "city": "Göteborg",
+      "country": "Sweden",
+      "latitude": 57.709438,
+      "longitude": 11.960472,
+      "website": "www.maritiman.se"
+    },
+    {
+      "name": "Marmorbrukets museum",
+      "name_en": "",
+      "city": "Krokek",
+      "country": "Sweden",
+      "latitude": 58.660745,
+      "longitude": 16.423644,
+      "website": ""
+    },
+    {
+      "name": "MC Collection",
+      "name_en": "",
+      "city": "Sollentuna",
+      "country": "Sweden",
+      "latitude": 59.440334,
+      "longitude": 17.958982,
+      "website": ""
+    },
+    {
+      "name": "MC-logen i Fjugesta",
+      "name_en": "",
+      "city": "Fjugesta",
+      "country": "Sweden",
+      "latitude": 59.157907,
+      "longitude": 14.866301,
+      "website": ""
+    },
+    {
+      "name": "Medelhavsmuseet",
+      "name_en": "Museum of Mediterranean & Near East Antiquities",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.329453,
+      "longitude": 18.067298,
+      "website": "http://www.medelhavsmuseet.se"
+    },
+    {
+      "name": "Medicinhistoriska Muséet",
+      "name_en": "Medical History Museum",
+      "city": "Göteborg",
+      "country": "Sweden",
+      "latitude": 57.70889,
+      "longitude": 11.966592,
+      "website": "http://www.sahlgrenska.se/museum"
+    },
+    {
+      "name": "Miliseum",
+      "name_en": "",
+      "city": "Skillingaryd",
+      "country": "Sweden",
+      "latitude": 57.426886,
+      "longitude": 14.10211,
+      "website": "http://www.vaggeryd.se/museum"
+    },
+    {
+      "name": "Mineralmuseet",
+      "name_en": "",
+      "city": "Ludvika",
+      "country": "Sweden",
+      "latitude": 60.147252,
+      "longitude": 15.207299,
+      "website": ""
+    },
+    {
+      "name": "Mjellby Konstmuseum",
+      "name_en": "",
+      "city": "Mjällby",
+      "country": "Sweden",
+      "latitude": 56.678987,
+      "longitude": 12.773853,
+      "website": "http://www.mjellbykonstmuseum.se/"
+    },
+    {
+      "name": "Modellkammaren",
+      "name_en": "",
+      "city": "Långshyttan",
+      "country": "Sweden",
+      "latitude": 60.453769,
+      "longitude": 16.040274,
+      "website": ""
+    },
+    {
+      "name": "Moderna museet",
+      "name_en": "Modern Art Museum",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.326349,
+      "longitude": 18.084,
+      "website": "http://www.modernamuseet.se/"
+    },
+    {
+      "name": "Moped MC museum",
+      "name_en": "",
+      "city": "Axvall",
+      "country": "Sweden",
+      "latitude": 58.386483,
+      "longitude": 13.650448,
+      "website": ""
+    },
+    {
+      "name": "Morokulien Infocenter",
+      "name_en": "",
+      "city": "Charlottenberg",
+      "country": "Sweden",
+      "latitude": 59.930669,
+      "longitude": 12.239854,
+      "website": ""
+    },
+    {
+      "name": "Mosstakans Skolmuseum",
+      "name_en": "",
+      "city": "Årjäng",
+      "country": "Sweden",
+      "latitude": 59.634331,
+      "longitude": 12.129711,
+      "website": ""
+    },
+    {
+      "name": "Motala Industrimuseum",
+      "name_en": "",
+      "city": "Motala",
+      "country": "Sweden",
+      "latitude": 58.547898,
+      "longitude": 15.068706,
+      "website": ""
+    },
+    {
+      "name": "Motala Konsthall",
+      "name_en": "",
+      "city": "Motala",
+      "country": "Sweden",
+      "latitude": 58.535547,
+      "longitude": 15.035719,
+      "website": ""
+    },
+    {
+      "name": "Motala motormuseum",
+      "name_en": "",
+      "city": "Motala",
+      "country": "Sweden",
+      "latitude": 58.533318,
+      "longitude": 15.037262,
+      "website": ""
+    },
+    {
+      "name": "Motorcycle Museum",
+      "name_en": "",
+      "city": "Dalarö",
+      "country": "Sweden",
+      "latitude": 58.953444,
+      "longitude": 18.276951,
+      "website": ""
+    },
+    {
+      "name": "Motormuseum",
+      "name_en": "",
+      "city": "Ornäs",
+      "country": "Sweden",
+      "latitude": 60.464024,
+      "longitude": 15.572513,
+      "website": ""
+    },
+    {
+      "name": "Mulle Mecks Museum",
+      "name_en": "",
+      "city": "Hudiksvall",
+      "country": "Sweden",
+      "latitude": 61.727995,
+      "longitude": 17.108558,
+      "website": ""
+    },
+    {
+      "name": "Munktellmuseet",
+      "name_en": "",
+      "city": "Eskilstuna",
+      "country": "Sweden",
+      "latitude": 59.376493,
+      "longitude": 16.510108,
+      "website": ""
+    },
+    {
+      "name": "Mus-Olles Museum",
+      "name_en": "",
+      "city": "Krokom",
+      "country": "Sweden",
+      "latitude": 63.327191,
+      "longitude": 14.169561,
+      "website": ""
+    },
+    {
+      "name": "Museet för drottning Kristinas kröningsekipage",
+      "name_en": "Museum of Queen Kristina's coronation carriage",
+      "city": "Bergshamra",
+      "country": "Sweden",
+      "latitude": 59.388524,
+      "longitude": 18.015138,
+      "website": ""
+    },
+    {
+      "name": "Museifartygen",
+      "name_en": "Maritime Museum, Stockholm",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.327288,
+      "longitude": 18.090768,
+      "website": "www.sjohistoriska.se/sv/Besok/Besok-oss/Galarvarvet/Oppettider-pa-Galarvarvet/"
+    },
+    {
+      "name": "Museihuset - Motorbåtar & Leksaksbilar/tåg",
+      "name_en": "Car and Boat museum",
+      "city": "Ljungsbro",
+      "country": "Sweden",
+      "latitude": 58.518484,
+      "longitude": 15.427632,
+      "website": "http://www.museihuset.se/index.html"
+    },
+    {
+      "name": "Museijärnväg",
+      "name_en": "",
+      "city": "Visby",
+      "country": "Sweden",
+      "latitude": 57.544383,
+      "longitude": 18.531341,
+      "website": "http://gotlandstaget.se/"
+    },
+    {
+      "name": "Museispårvägen Malmköping",
+      "name_en": "",
+      "city": "Malmköping",
+      "country": "Sweden",
+      "latitude": 59.132952,
+      "longitude": 16.736561,
+      "website": ""
+    },
+    {
+      "name": "Museum de Vries",
+      "name_en": "",
+      "city": "Bromma",
+      "country": "Sweden",
+      "latitude": 59.325014,
+      "longitude": 17.887831,
+      "website": ""
+    },
+    {
+      "name": "Museum The Kulenovic Collection",
+      "name_en": "",
+      "city": "Karlskrona",
+      "country": "Sweden",
+      "latitude": 56.160485,
+      "longitude": 15.587165,
+      "website": ""
+    },
+    {
+      "name": "Museum Torfrid Olsson",
+      "name_en": "",
+      "city": "Burträsk",
+      "country": "Sweden",
+      "latitude": 64.423961,
+      "longitude": 20.536551,
+      "website": "http://bygdetrask.skelleftea.org/torfo.htm"
+    },
+    {
+      "name": "Musik- och teatermuseet",
+      "name_en": "Stockholm Music Museum",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.333735,
+      "longitude": 18.078237,
+      "website": "http://statensmusikverk.se/musikochteatermuseet/"
+    },
+    {
+      "name": "Myntmuseet",
+      "name_en": "",
+      "city": "Avesta",
+      "country": "Sweden",
+      "latitude": 60.149893,
+      "longitude": 16.167574,
+      "website": ""
+    },
+    {
+      "name": "Måleriyrkets museum",
+      "name_en": "",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.318425,
+      "longitude": 18.054561,
+      "website": "www.malerimuseum.nu"
+    },
+    {
+      "name": "Möbelindustrimuseet",
+      "name_en": "",
+      "city": "Virserum",
+      "country": "Sweden",
+      "latitude": 57.316404,
+      "longitude": 15.591086,
+      "website": ""
+    },
+    {
+      "name": "Mölndals museum",
+      "name_en": "",
+      "city": "Mölndal",
+      "country": "Sweden",
+      "latitude": 57.657641,
+      "longitude": 12.03203,
+      "website": ""
+    },
+    {
+      "name": "Naturhistoriska riksmuseet",
+      "name_en": "Swedish Museum of Natural History",
+      "city": "Bergshamra",
+      "country": "Sweden",
+      "latitude": 59.369047,
+      "longitude": 18.054003,
+      "website": "http://www.nrm.se"
+    },
+    {
+      "name": "Naturum",
+      "name_en": "",
+      "city": "Trosa",
+      "country": "Sweden",
+      "latitude": 58.744291,
+      "longitude": 17.39382,
+      "website": ""
+    },
+    {
+      "name": "Naturum Trollskogen",
+      "name_en": "",
+      "city": "Västervik",
+      "country": "Sweden",
+      "latitude": 57.3428,
+      "longitude": 17.118964,
+      "website": ""
+    },
+    {
+      "name": "Njurunda Hembygdsgård",
+      "name_en": "",
+      "city": "Nolby",
+      "country": "Sweden",
+      "latitude": 62.275621,
+      "longitude": 17.368009,
+      "website": ""
+    },
+    {
+      "name": "Nobelmuseet (Nobel Museum)",
+      "name_en": "Nobel Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.325277,
+      "longitude": 18.070724,
+      "website": "http://www.nobelmuseet.se/"
+    },
+    {
+      "name": "Norbergs gruvmuseum",
+      "name_en": "",
+      "city": "Norberg",
+      "country": "Sweden",
+      "latitude": 60.081124,
+      "longitude": 15.94607,
+      "website": ""
+    },
+    {
+      "name": "Nordiska museet",
+      "name_en": "Nordic Museum",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.329158,
+      "longitude": 18.093896,
+      "website": "www.nordiskamuseet.se"
+    },
+    {
+      "name": "Nordiska Museet Julita Gård",
+      "name_en": "",
+      "city": "Vingåker",
+      "country": "Sweden",
+      "latitude": 59.14841,
+      "longitude": 16.045075,
+      "website": ""
+    },
+    {
+      "name": "Nordiska Tomtemuseet",
+      "name_en": "",
+      "city": "Mellerud",
+      "country": "Sweden",
+      "latitude": 58.699741,
+      "longitude": 12.461024,
+      "website": ""
+    },
+    {
+      "name": "Norrbottens Järnvägsmuseum",
+      "name_en": "",
+      "city": "Bergnäset",
+      "country": "Sweden",
+      "latitude": 65.596595,
+      "longitude": 22.068325,
+      "website": "http://nbjvm.se/sv"
+    },
+    {
+      "name": "Norrbyskärs museum",
+      "name_en": "",
+      "city": "Hörnefors",
+      "country": "Sweden",
+      "latitude": 63.556688,
+      "longitude": 19.876152,
+      "website": ""
+    },
+    {
+      "name": "Norrköpings konstmuseum",
+      "name_en": "",
+      "city": "Norrköping",
+      "country": "Sweden",
+      "latitude": 58.583033,
+      "longitude": 16.190874,
+      "website": "http://www.norrkopingskonstmuseum.se/"
+    },
+    {
+      "name": "Norrköpings Skolmuseum",
+      "name_en": "",
+      "city": "Norrköping",
+      "country": "Sweden",
+      "latitude": 58.589031,
+      "longitude": 16.197785,
+      "website": ""
+    },
+    {
+      "name": "Norrköpings stadsmuseum",
+      "name_en": "",
+      "city": "Norrköping",
+      "country": "Sweden",
+      "latitude": 58.589679,
+      "longitude": 16.179927,
+      "website": "http://www.norrkopingsstadsmuseum.se/"
+    },
+    {
+      "name": "Norrlanda Fornstuga",
+      "name_en": "",
+      "city": "Slite",
+      "country": "Sweden",
+      "latitude": 57.526428,
+      "longitude": 18.676318,
+      "website": ""
+    },
+    {
+      "name": "Norsjö skidlöparmuseum",
+      "name_en": "",
+      "city": "Norsjö",
+      "country": "Sweden",
+      "latitude": 64.908408,
+      "longitude": 19.47393,
+      "website": ""
+    },
+    {
+      "name": "Nostalgimacken Åhs",
+      "name_en": "",
+      "city": "Träslövsläge",
+      "country": "Sweden",
+      "latitude": 57.045603,
+      "longitude": 12.313627,
+      "website": ""
+    },
+    {
+      "name": "Nostalgimuseum",
+      "name_en": "",
+      "city": "Malmköping",
+      "country": "Sweden",
+      "latitude": 59.076116,
+      "longitude": 16.829546,
+      "website": "http://graforssamlingar.se"
+    },
+    {
+      "name": "Nässjö Järnvägsmuseum",
+      "name_en": "",
+      "city": "Nässjö",
+      "country": "Sweden",
+      "latitude": 57.649618,
+      "longitude": 14.696736,
+      "website": "http://www.lokstallet.se/"
+    },
+    {
+      "name": "Observatoriemuseet",
+      "name_en": "Observatory Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.341524,
+      "longitude": 18.054717,
+      "website": "www.observatoriet.kva.se"
+    },
+    {
+      "name": "odensvi hembygspark",
+      "name_en": "",
+      "city": "Överum",
+      "country": "Sweden",
+      "latitude": 57.891822,
+      "longitude": 16.165628,
+      "website": ""
+    },
+    {
+      "name": "Olle Olsson Hagalund-museet",
+      "name_en": "",
+      "city": "Solna",
+      "country": "Sweden",
+      "latitude": 59.361305,
+      "longitude": 18.016182,
+      "website": "www.solna.se/olleolssonmuseet"
+    },
+    {
+      "name": "Orangerimuseet",
+      "name_en": "",
+      "city": "Bergshamra",
+      "country": "Sweden",
+      "latitude": 59.390645,
+      "longitude": 18.013613,
+      "website": "www.nationalmuseum.se/sv/Om-samlingarna1/NM-runt-om-i-Sverige/Ulriksdals-slott-med-Orangerimuseet/"
+    },
+    {
+      "name": "Ornö museum",
+      "name_en": "",
+      "city": "Dalarö",
+      "country": "Sweden",
+      "latitude": 59.051252,
+      "longitude": 18.429773,
+      "website": "http://www.ornomuseum.se"
+    },
+    {
+      "name": "Ottilia Adelborgmuseet",
+      "name_en": "",
+      "city": "Gagnef",
+      "country": "Sweden",
+      "latitude": 60.591664,
+      "longitude": 15.063836,
+      "website": ""
+    },
+    {
+      "name": "Pansarmuseum",
+      "name_en": "",
+      "city": "Boden",
+      "country": "Sweden",
+      "latitude": 65.803583,
+      "longitude": 21.675196,
+      "website": ""
+    },
+    {
+      "name": "Pengsjö museum",
+      "name_en": "",
+      "city": "Mullsjö",
+      "country": "Sweden",
+      "latitude": 63.830224,
+      "longitude": 19.630506,
+      "website": ""
+    },
+    {
+      "name": "Pers Mekaniska kabinett",
+      "name_en": "",
+      "city": "Kisa",
+      "country": "Sweden",
+      "latitude": 58.015239,
+      "longitude": 15.427126,
+      "website": ""
+    },
+    {
+      "name": "Persnäs fattighus/Schoolmuseum Persnäs",
+      "name_en": "",
+      "city": "Borgholm",
+      "country": "Sweden",
+      "latitude": 57.067512,
+      "longitude": 16.920297,
+      "website": ""
+    },
+    {
+      "name": "Piteå Museum",
+      "name_en": "",
+      "city": "Piteå",
+      "country": "Sweden",
+      "latitude": 65.31622,
+      "longitude": 21.483152,
+      "website": ""
+    },
+    {
+      "name": "Polismuseet",
+      "name_en": "The Police Museum",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.333116,
+      "longitude": 18.118473,
+      "website": "http://www.polismuseet.se/"
+    },
+    {
+      "name": "Postmuseum",
+      "name_en": "Post Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.32408,
+      "longitude": 18.068036,
+      "website": "http://www.postmuseum.se/"
+    },
+    {
+      "name": "Prins Eugens Waldemarsudde",
+      "name_en": "",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.320222,
+      "longitude": 18.114554,
+      "website": ""
+    },
+    {
+      "name": "Pumphuset",
+      "name_en": "",
+      "city": "Landskrona",
+      "country": "Sweden",
+      "latitude": 55.89578,
+      "longitude": 12.804288,
+      "website": ""
+    },
+    {
+      "name": "Pumphuset",
+      "name_en": "",
+      "city": "Uppsala",
+      "country": "Sweden",
+      "latitude": 59.854583,
+      "longitude": 17.64149,
+      "website": ""
+    },
+    {
+      "name": "Rackstadmuseet",
+      "name_en": "",
+      "city": "Arvika",
+      "country": "Sweden",
+      "latitude": 59.671594,
+      "longitude": 12.611769,
+      "website": "www.rackstadmuseet.se"
+    },
+    {
+      "name": "Rademachersmedjorna",
+      "name_en": "",
+      "city": "Eskilstuna",
+      "country": "Sweden",
+      "latitude": 59.374079,
+      "longitude": 16.507512,
+      "website": ""
+    },
+    {
+      "name": "Radio Pelles",
+      "name_en": "",
+      "city": "Mariannelund",
+      "country": "Sweden",
+      "latitude": 57.616022,
+      "longitude": 15.584685,
+      "website": ""
+    },
+    {
+      "name": "Radiomuseet i Göteborg",
+      "name_en": "",
+      "city": "Göteborg",
+      "country": "Sweden",
+      "latitude": 57.708744,
+      "longitude": 11.945264,
+      "website": ""
+    },
+    {
+      "name": "Rallarmuseet",
+      "name_en": "",
+      "city": "Arvidsjaur",
+      "country": "Sweden",
+      "latitude": 65.882523,
+      "longitude": 19.426884,
+      "website": ""
+    },
+    {
+      "name": "Regementsmuseet",
+      "name_en": "",
+      "city": "Umeå",
+      "country": "Sweden",
+      "latitude": 63.835907,
+      "longitude": 20.25406,
+      "website": ""
+    },
+    {
+      "name": "Regionmuseet Kristianstad",
+      "name_en": "Kristianstad's Regional Museum",
+      "city": "Kristianstad",
+      "country": "Sweden",
+      "latitude": 56.031925,
+      "longitude": 14.156233,
+      "website": "http://www.regionmuseet.se/"
+    },
+    {
+      "name": "Ricklundsgarden",
+      "name_en": "",
+      "city": "Sjöberg",
+      "country": "Sweden",
+      "latitude": 64.971096,
+      "longitude": 15.356132,
+      "website": ""
+    },
+    {
+      "name": "Riksidrottsmuseet",
+      "name_en": "National Sports Museum of Sweden",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.333213,
+      "longitude": 18.117001,
+      "website": "http://www.riksidrottsmuseet.se/"
+    },
+    {
+      "name": "Rogsta Hembygdsgård",
+      "name_en": "",
+      "city": "Hudiksvall",
+      "country": "Sweden",
+      "latitude": 61.764772,
+      "longitude": 17.202203,
+      "website": ""
+    },
+    {
+      "name": "Roma Kungsgard",
+      "name_en": "",
+      "city": "Visby",
+      "country": "Sweden",
+      "latitude": 57.516066,
+      "longitude": 18.458972,
+      "website": ""
+    },
+    {
+      "name": "Roslagens Sjöfartsmuseum",
+      "name_en": "",
+      "city": "Hallstavik",
+      "country": "Sweden",
+      "latitude": 59.963807,
+      "longitude": 18.814992,
+      "website": "http://www.sjofartsmuseet.se/"
+    },
+    {
+      "name": "Roslagsmuseet",
+      "name_en": "",
+      "city": "Norrtälje",
+      "country": "Sweden",
+      "latitude": 59.75842,
+      "longitude": 18.698204,
+      "website": "www.roslagsmuseet.se"
+    },
+    {
+      "name": "Runnevåls skolmuseum",
+      "name_en": "",
+      "city": "Kil",
+      "country": "Sweden",
+      "latitude": 59.519904,
+      "longitude": 13.310801,
+      "website": ""
+    },
+    {
+      "name": "Rydaholms Bil-, Musik- och Leksaksmuseum",
+      "name_en": "",
+      "city": "Rydaholm",
+      "country": "Sweden",
+      "latitude": 56.970928,
+      "longitude": 14.327361,
+      "website": "http://www.smalandsbilmuseum.se/"
+    },
+    {
+      "name": "Röda Kvarn",
+      "name_en": "",
+      "city": "Övertorneå",
+      "country": "Sweden",
+      "latitude": 66.388599,
+      "longitude": 23.658279,
+      "website": ""
+    },
+    {
+      "name": "Röda Sten Konsthall",
+      "name_en": "",
+      "city": "Majorna",
+      "country": "Sweden",
+      "latitude": 57.689241,
+      "longitude": 11.901825,
+      "website": ""
+    },
+    {
+      "name": "Rödbergsfortet",
+      "name_en": "",
+      "city": "Boden",
+      "country": "Sweden",
+      "latitude": 65.792181,
+      "longitude": 21.657024,
+      "website": ""
+    },
+    {
+      "name": "Röhsska Museum of Design & Applied Art",
+      "name_en": "Röhsska Museum",
+      "city": "Göteborg",
+      "country": "Sweden",
+      "latitude": 57.699984,
+      "longitude": 11.973515,
+      "website": "http://www.rohsska.se/"
+    },
+    {
+      "name": "S/S Herbert",
+      "name_en": "",
+      "city": "Alingsås",
+      "country": "Sweden",
+      "latitude": 57.929227,
+      "longitude": 12.508122,
+      "website": ""
+    },
+    {
+      "name": "Saab Car Museum",
+      "name_en": "",
+      "city": "Trollhättan",
+      "country": "Sweden",
+      "latitude": 58.272154,
+      "longitude": 12.276461,
+      "website": "http://www.saabbilmuseum.se/"
+    },
+    {
+      "name": "Sala Silvergruva",
+      "name_en": "",
+      "city": "Sala",
+      "country": "Sweden",
+      "latitude": 59.907372,
+      "longitude": 16.575294,
+      "website": ""
+    },
+    {
+      "name": "Sameläger",
+      "name_en": "",
+      "city": "Kiruna",
+      "country": "Sweden",
+      "latitude": 67.846941,
+      "longitude": 20.61999,
+      "website": ""
+    },
+    {
+      "name": "Samlarmuseum",
+      "name_en": "",
+      "city": "Mora",
+      "country": "Sweden",
+      "latitude": 60.920424,
+      "longitude": 14.616639,
+      "website": ""
+    },
+    {
+      "name": "Settler's Hut",
+      "name_en": "",
+      "city": "Sjöberg",
+      "country": "Sweden",
+      "latitude": 65.025377,
+      "longitude": 15.363776,
+      "website": ""
+    },
+    {
+      "name": "Shoemaker Museum",
+      "name_en": "",
+      "city": "Österbymo",
+      "country": "Sweden",
+      "latitude": 57.835154,
+      "longitude": 15.266991,
+      "website": ""
+    },
+    {
+      "name": "Sidensjö Hembygdsgård",
+      "name_en": "",
+      "city": "Bjästa",
+      "country": "Sweden",
+      "latitude": 63.290644,
+      "longitude": 18.299048,
+      "website": ""
+    },
+    {
+      "name": "Siggebohyttan",
+      "name_en": "",
+      "city": "Nora",
+      "country": "Sweden",
+      "latitude": 59.616413,
+      "longitude": 15.03519,
+      "website": ""
+    },
+    {
+      "name": "Sigtuna Rådhus",
+      "name_en": "",
+      "city": "Sigtuna",
+      "country": "Sweden",
+      "latitude": 59.617001,
+      "longitude": 17.721329,
+      "website": ""
+    },
+    {
+      "name": "Siknäs Kustmuseum",
+      "name_en": "",
+      "city": "Töre",
+      "country": "Sweden",
+      "latitude": 65.842741,
+      "longitude": 22.687776,
+      "website": ""
+    },
+    {
+      "name": "Siknäsbatteriet",
+      "name_en": "",
+      "city": "Töre",
+      "country": "Sweden",
+      "latitude": 65.868094,
+      "longitude": 22.643551,
+      "website": ""
+    },
+    {
+      "name": "Siljansfors Skogsmuseum",
+      "name_en": "",
+      "city": "Mora",
+      "country": "Sweden",
+      "latitude": 60.890112,
+      "longitude": 14.373617,
+      "website": ""
+    },
+    {
+      "name": "Silvermuseet",
+      "name_en": "",
+      "city": "Arjeplog",
+      "country": "Sweden",
+      "latitude": 66.050976,
+      "longitude": 17.887147,
+      "website": ""
+    },
+    {
+      "name": "Silvii skola",
+      "name_en": "",
+      "city": "Grästorp",
+      "country": "Sweden",
+      "latitude": 58.430926,
+      "longitude": 12.737773,
+      "website": ""
+    },
+    {
+      "name": "Sjöfartsmuséet Akvariet",
+      "name_en": "Maritime Museum & Aquarium",
+      "city": "Majorna",
+      "country": "Sweden",
+      "latitude": 57.699099,
+      "longitude": 11.931821,
+      "website": ""
+    },
+    {
+      "name": "Sjöhistoriska museet",
+      "name_en": "Maritime Museum",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.33252,
+      "longitude": 18.115885,
+      "website": "http://www.sjohistoriska.se/"
+    },
+    {
+      "name": "Sjönäset",
+      "name_en": "",
+      "city": "Lycksele",
+      "country": "Sweden",
+      "latitude": 64.079971,
+      "longitude": 18.392359,
+      "website": ""
+    },
+    {
+      "name": "Skandiamuséet",
+      "name_en": "",
+      "city": "Lysekil",
+      "country": "Sweden",
+      "latitude": 58.274186,
+      "longitude": 11.426037,
+      "website": ""
+    },
+    {
+      "name": "Skantzen Kanalmuseum",
+      "name_en": "",
+      "city": "Hallstahammar",
+      "country": "Sweden",
+      "latitude": 59.611327,
+      "longitude": 16.210618,
+      "website": ""
+    },
+    {
+      "name": "Skattkammaren",
+      "name_en": "The Treasury",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.326553,
+      "longitude": 18.072662,
+      "website": "http://www.kungahuset.se/kungligaslotten/kungligaslottet/skattkammaren/"
+    },
+    {
+      "name": "Skellefteå Museum",
+      "name_en": "",
+      "city": "Skellefteå",
+      "country": "Sweden",
+      "latitude": 64.748938,
+      "longitude": 20.940891,
+      "website": "http://skellefteamuseum.se"
+    },
+    {
+      "name": "Skelleftå Museums Lanthandeln",
+      "name_en": "",
+      "city": "Skellefteå",
+      "country": "Sweden",
+      "latitude": 64.750001,
+      "longitude": 20.936498,
+      "website": "http://skellefteamuseum.se/om/mer/lanthandeln/"
+    },
+    {
+      "name": "Skolmuseet",
+      "name_en": "",
+      "city": "Örebro",
+      "country": "Sweden",
+      "latitude": 59.272734,
+      "longitude": 15.232577,
+      "website": ""
+    },
+    {
+      "name": "Skolmuseum",
+      "name_en": "",
+      "city": "Emmaboda",
+      "country": "Sweden",
+      "latitude": 56.751049,
+      "longitude": 15.455141,
+      "website": ""
+    },
+    {
+      "name": "Skolmuseum",
+      "name_en": "",
+      "city": "Djurås",
+      "country": "Sweden",
+      "latitude": 60.549254,
+      "longitude": 15.178757,
+      "website": ""
+    },
+    {
+      "name": "Skomakarstugorna",
+      "name_en": "",
+      "city": "Vadstena",
+      "country": "Sweden",
+      "latitude": 58.448079,
+      "longitude": 14.897309,
+      "website": ""
+    },
+    {
+      "name": "Skräddargarden",
+      "name_en": "",
+      "city": "Vikarbyn",
+      "country": "Sweden",
+      "latitude": 60.883039,
+      "longitude": 14.960445,
+      "website": ""
+    },
+    {
+      "name": "Skulpturmuseet",
+      "name_en": "",
+      "city": "Vadstena",
+      "country": "Sweden",
+      "latitude": 58.447683,
+      "longitude": 14.896529,
+      "website": ""
+    },
+    {
+      "name": "Skultuna messingsbruk",
+      "name_en": "",
+      "city": "Skultuna",
+      "country": "Sweden",
+      "latitude": 59.716485,
+      "longitude": 16.418179,
+      "website": "http://www.skultunafabriksbutiker.se/"
+    },
+    {
+      "name": "Skäftekärr",
+      "name_en": "",
+      "city": "Borgholm",
+      "country": "Sweden",
+      "latitude": 57.248756,
+      "longitude": 17.006428,
+      "website": ""
+    },
+    {
+      "name": "Skägårdsmuseum",
+      "name_en": "",
+      "city": "Västervik",
+      "country": "Sweden",
+      "latitude": 57.86253,
+      "longitude": 16.727551,
+      "website": ""
+    },
+    {
+      "name": "Skärgårdskraft",
+      "name_en": "",
+      "city": "Karlskrona",
+      "country": "Sweden",
+      "latitude": 56.125684,
+      "longitude": 15.619117,
+      "website": "http://www.skargardskraft.se/"
+    },
+    {
+      "name": "Skärgårdsmueet",
+      "name_en": "",
+      "city": "Hölö",
+      "country": "Sweden",
+      "latitude": 59.293002,
+      "longitude": 18.688189,
+      "website": "http://www.skargardsmuseet.org/"
+    },
+    {
+      "name": "Slottsmuseet",
+      "name_en": "",
+      "city": "Örebro",
+      "country": "Sweden",
+      "latitude": 59.274221,
+      "longitude": 15.214929,
+      "website": ""
+    },
+    {
+      "name": "Slöjdmuseet",
+      "name_en": "",
+      "city": "Fränsta",
+      "country": "Sweden",
+      "latitude": 62.533635,
+      "longitude": 15.941879,
+      "website": ""
+    },
+    {
+      "name": "Smedsbygget",
+      "name_en": "",
+      "city": "Nykvarn",
+      "country": "Sweden",
+      "latitude": 59.184862,
+      "longitude": 17.430738,
+      "website": ""
+    },
+    {
+      "name": "Smedsgården Bruksmuseum",
+      "name_en": "",
+      "city": "Sandviken",
+      "country": "Sweden",
+      "latitude": 60.616886,
+      "longitude": 16.77989,
+      "website": ""
+    },
+    {
+      "name": "Smedsta skolmuseum",
+      "name_en": "",
+      "city": "Gnesta",
+      "country": "Sweden",
+      "latitude": 59.054394,
+      "longitude": 17.244695,
+      "website": ""
+    },
+    {
+      "name": "Solförrådet",
+      "name_en": "",
+      "city": "Hörby",
+      "country": "Sweden",
+      "latitude": 55.856468,
+      "longitude": 13.764664,
+      "website": "http://www.torstenandersson.com"
+    },
+    {
+      "name": "Sommarviste",
+      "name_en": "Saami summercamp",
+      "city": "Gällivare",
+      "country": "Sweden",
+      "latitude": 67.128942,
+      "longitude": 20.677021,
+      "website": ""
+    },
+    {
+      "name": "Sparreholms Slott",
+      "name_en": "",
+      "city": "Malmköping",
+      "country": "Sweden",
+      "latitude": 59.082818,
+      "longitude": 16.828189,
+      "website": ""
+    },
+    {
+      "name": "Spritmuseum",
+      "name_en": "",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.327029,
+      "longitude": 18.0938,
+      "website": "http://spritmuseum.se/"
+    },
+    {
+      "name": "Spritmuseum & Absolut Art Collection",
+      "name_en": "Museum of Spirits",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.32658,
+      "longitude": 18.094871,
+      "website": "http://spritmuseum.se"
+    },
+    {
+      "name": "Stadsmuseet i Stockholm",
+      "name_en": "Stockholm City Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.319595,
+      "longitude": 18.071261,
+      "website": "http://www.stadsmuseet.stockholm.se/"
+    },
+    {
+      "name": "Statarmuseet",
+      "name_en": "",
+      "city": "Klågerup",
+      "country": "Sweden",
+      "latitude": 55.571545,
+      "longitude": 13.206513,
+      "website": ""
+    },
+    {
+      "name": "Stenhuggarmuseum",
+      "name_en": "",
+      "city": "Hunnebostrand",
+      "country": "Sweden",
+      "latitude": 58.430264,
+      "longitude": 11.302208,
+      "website": ""
+    },
+    {
+      "name": "Stenmuseum",
+      "name_en": "",
+      "city": "Olofström",
+      "country": "Sweden",
+      "latitude": 56.353394,
+      "longitude": 14.475884,
+      "website": ""
+    },
+    {
+      "name": "Stigbergets borgarrum",
+      "name_en": "",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.317218,
+      "longitude": 18.086986,
+      "website": "http://stigbergetsborgarrum.se"
+    },
+    {
+      "name": "Stjärneborgs Museum",
+      "name_en": "",
+      "city": "Aneby",
+      "country": "Sweden",
+      "latitude": 57.904227,
+      "longitude": 14.800315,
+      "website": "http://www.stjarneborg.se/"
+    },
+    {
+      "name": "Stockamöllans Industrimuseum",
+      "name_en": "",
+      "city": "Stehag",
+      "country": "Sweden",
+      "latitude": 55.946632,
+      "longitude": 13.374782,
+      "website": ""
+    },
+    {
+      "name": "Stockholms läns museum",
+      "name_en": "",
+      "city": "Nacka",
+      "country": "Sweden",
+      "latitude": 59.305675,
+      "longitude": 18.120411,
+      "website": "http://www.stockholmslansmuseum.se/"
+    },
+    {
+      "name": "Stockholms medeltidsmuseum",
+      "name_en": "Museum of Medieval Stockholm",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.328236,
+      "longitude": 18.070233,
+      "website": "www.medeltidsmuseet.stockholm.se"
+    },
+    {
+      "name": "Stockholms Spårvägsmuseum",
+      "name_en": "Stockholm Transport Museum",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.311689,
+      "longitude": 18.098356,
+      "website": "www.sparvagsmuseet.sl.se"
+    },
+    {
+      "name": "Storumans hembygdsgård",
+      "name_en": "",
+      "city": "Storuman",
+      "country": "Sweden",
+      "latitude": 65.117629,
+      "longitude": 17.090715,
+      "website": ""
+    },
+    {
+      "name": "Strandridaregården",
+      "name_en": "",
+      "city": "Hemse",
+      "country": "Sweden",
+      "latitude": 57.323704,
+      "longitude": 18.712881,
+      "website": ""
+    },
+    {
+      "name": "Strindbergsmuseet",
+      "name_en": "Strindberg Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.338524,
+      "longitude": 18.056659,
+      "website": "www.strindbergsmuseet.se"
+    },
+    {
+      "name": "Strömstads museum",
+      "name_en": "",
+      "city": "Strömstad",
+      "country": "Sweden",
+      "latitude": 58.939243,
+      "longitude": 11.175313,
+      "website": ""
+    },
+    {
+      "name": "Sundbybergs museum",
+      "name_en": "",
+      "city": "Sundbyberg",
+      "country": "Sweden",
+      "latitude": 59.36477,
+      "longitude": 17.963004,
+      "website": ""
+    },
+    {
+      "name": "Sundsby",
+      "name_en": "",
+      "city": "Myggenäs",
+      "country": "Sweden",
+      "latitude": 58.070296,
+      "longitude": 11.688851,
+      "website": ""
+    },
+    {
+      "name": "Sundsvalls Museum",
+      "name_en": "",
+      "city": "Sundsvall",
+      "country": "Sweden",
+      "latitude": 62.391663,
+      "longitude": 17.312615,
+      "website": ""
+    },
+    {
+      "name": "Sveriges Järnvägsmuseum",
+      "name_en": "Swedish Railway Museum",
+      "city": "Gävle",
+      "country": "Sweden",
+      "latitude": 60.661662,
+      "longitude": 17.170628,
+      "website": ""
+    },
+    {
+      "name": "Sveriges rundradiomuseum",
+      "name_en": "",
+      "city": "Motala",
+      "country": "Sweden",
+      "latitude": 58.54557,
+      "longitude": 15.042687,
+      "website": ""
+    },
+    {
+      "name": "Säters Biografmuseum",
+      "name_en": "",
+      "city": "Säter",
+      "country": "Sweden",
+      "latitude": 60.345046,
+      "longitude": 15.760758,
+      "website": ""
+    },
+    {
+      "name": "Såguddens hembygdsgård",
+      "name_en": "",
+      "city": "Arvika",
+      "country": "Sweden",
+      "latitude": 59.650219,
+      "longitude": 12.603946,
+      "website": ""
+    },
+    {
+      "name": "Söderblomsgården",
+      "name_en": "",
+      "city": "Söderhamn",
+      "country": "Sweden",
+      "latitude": 61.385466,
+      "longitude": 16.883608,
+      "website": ""
+    },
+    {
+      "name": "Söderhamn/F15 Flygmuseum",
+      "name_en": "",
+      "city": "Söderhamn",
+      "country": "Sweden",
+      "latitude": 61.269651,
+      "longitude": 17.086485,
+      "website": "www.soderhamnflygmuseum.se"
+    },
+    {
+      "name": "Söderhamns museum",
+      "name_en": "",
+      "city": "Söderhamn",
+      "country": "Sweden",
+      "latitude": 61.301036,
+      "longitude": 17.044605,
+      "website": ""
+    },
+    {
+      "name": "Sölvesborgs konsthall",
+      "name_en": "",
+      "city": "Sölvesborg",
+      "country": "Sweden",
+      "latitude": 56.051216,
+      "longitude": 14.587778,
+      "website": ""
+    },
+    {
+      "name": "Sölvesborgs museum",
+      "name_en": "",
+      "city": "Sölvesborg",
+      "country": "Sweden",
+      "latitude": 56.051503,
+      "longitude": 14.588268,
+      "website": ""
+    },
+    {
+      "name": "Sörmlands museum",
+      "name_en": "",
+      "city": "Nyköping",
+      "country": "Sweden",
+      "latitude": 58.748833,
+      "longitude": 17.01116,
+      "website": ""
+    },
+    {
+      "name": "Tabergs gruva",
+      "name_en": "",
+      "city": "Taberg",
+      "country": "Sweden",
+      "latitude": 57.677445,
+      "longitude": 14.08215,
+      "website": ""
+    },
+    {
+      "name": "Tantmuseum",
+      "name_en": "",
+      "city": "Färila",
+      "country": "Sweden",
+      "latitude": 61.871389,
+      "longitude": 15.729658,
+      "website": ""
+    },
+    {
+      "name": "Teatermuseet",
+      "name_en": "",
+      "city": "Malmö",
+      "country": "Sweden",
+      "latitude": 55.60594,
+      "longitude": 13.002747,
+      "website": ""
+    },
+    {
+      "name": "Teatermuseum",
+      "name_en": "The Theatre Museum",
+      "city": "Bromma",
+      "country": "Sweden",
+      "latitude": 59.322319,
+      "longitude": 17.884986,
+      "website": ""
+    },
+    {
+      "name": "Technichus",
+      "name_en": "",
+      "city": "Härnösand",
+      "country": "Sweden",
+      "latitude": 62.630478,
+      "longitude": 17.936816,
+      "website": ""
+    },
+    {
+      "name": "Teckningsmuseet",
+      "name_en": "",
+      "city": "Laholm",
+      "country": "Sweden",
+      "latitude": 56.514068,
+      "longitude": 13.041728,
+      "website": ""
+    },
+    {
+      "name": "Teknik på farfars tid",
+      "name_en": "",
+      "city": "Ödåkra",
+      "country": "Sweden",
+      "latitude": 56.074841,
+      "longitude": 12.719415,
+      "website": ""
+    },
+    {
+      "name": "Tekniska museet",
+      "name_en": "Swedish National Museum of Science and Technology",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.3325,
+      "longitude": 18.118828,
+      "website": "http://www.tekniskamuseet.se/"
+    },
+    {
+      "name": "Telemuseet",
+      "name_en": "Museum of Telephony",
+      "city": "Virserum",
+      "country": "Sweden",
+      "latitude": 57.31712,
+      "longitude": 15.591029,
+      "website": ""
+    },
+    {
+      "name": "Tensta konsthall",
+      "name_en": "",
+      "city": "Kista",
+      "country": "Sweden",
+      "latitude": 59.393703,
+      "longitude": 17.903303,
+      "website": "http://www.tenstakonsthall.se/"
+    },
+    {
+      "name": "Textilmuseet",
+      "name_en": "",
+      "city": "Borås",
+      "country": "Sweden",
+      "latitude": 57.715661,
+      "longitude": 12.938757,
+      "website": ""
+    },
+    {
+      "name": "Tibro Museum",
+      "name_en": "",
+      "city": "Tibro",
+      "country": "Sweden",
+      "latitude": 58.424355,
+      "longitude": 14.158262,
+      "website": ""
+    },
+    {
+      "name": "Tidaholms Museum",
+      "name_en": "",
+      "city": "Tidaholm",
+      "country": "Sweden",
+      "latitude": 58.179493,
+      "longitude": 13.958957,
+      "website": ""
+    },
+    {
+      "name": "Tignemåla Skola",
+      "name_en": "",
+      "city": "Rimforsa",
+      "country": "Sweden",
+      "latitude": 58.168312,
+      "longitude": 15.599875,
+      "website": "http://www.tignemala.se/"
+    },
+    {
+      "name": "Tjuls station, Järnvägsmuseum",
+      "name_en": "",
+      "city": "Klintehamn",
+      "country": "Sweden",
+      "latitude": 57.459448,
+      "longitude": 18.237752,
+      "website": "http://tjuls.se/Jarnvagsmus/start-j.htm"
+    },
+    {
+      "name": "Tobak- och Tändsticksmuseum",
+      "name_en": "",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.324893,
+      "longitude": 18.100804,
+      "website": "http://www.tobaksochtandsticksmuseum.se"
+    },
+    {
+      "name": "Tom Tits Experiment",
+      "name_en": "",
+      "city": "Södertälje",
+      "country": "Sweden",
+      "latitude": 59.200158,
+      "longitude": 17.622771,
+      "website": ""
+    },
+    {
+      "name": "Torsångs hembygdsgård",
+      "name_en": "",
+      "city": "Ornäs",
+      "country": "Sweden",
+      "latitude": 60.465943,
+      "longitude": 15.573545,
+      "website": "http://www.torsangshbf.se"
+    },
+    {
+      "name": "Tre Kronor",
+      "name_en": "Tre Kronor Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "latitude": 59.327411,
+      "longitude": 18.071053,
+      "website": "http://www.kungahuset.se/kungligaslotten/kungligaslottet/museumtrekronor"
+    },
+    {
+      "name": "Tropiska Växthuset",
+      "name_en": "",
+      "city": "Uppsala",
+      "country": "Sweden",
+      "latitude": 59.850525,
+      "longitude": 17.627803,
+      "website": ""
+    },
+    {
+      "name": "Tunabygdens Gammelgård",
+      "name_en": "",
+      "city": "Borlänge",
+      "country": "Sweden",
+      "latitude": 60.496116,
+      "longitude": 15.438303,
+      "website": "http://www.tunahembygd.se"
+    },
+    {
+      "name": "Ulrika museum",
+      "name_en": "",
+      "city": "Kisa",
+      "country": "Sweden",
+      "latitude": 58.123666,
+      "longitude": 15.429426,
+      "website": "http://ulrika-museum.ulrikainfo.se/"
+    },
+    {
+      "name": "Umeå MC-museum",
+      "name_en": "",
+      "city": "Röbäck",
+      "country": "Sweden",
+      "latitude": 63.83788,
+      "longitude": 20.157007,
+      "website": ""
+    },
+    {
+      "name": "Underslös Museum",
+      "name_en": "",
+      "city": "Tanumshede",
+      "country": "Sweden",
+      "latitude": 58.734826,
+      "longitude": 11.40365,
+      "website": "http://www.rockartscandinavia.com/"
+    },
+    {
+      "name": "Upplandsmuseet",
+      "name_en": "",
+      "city": "Uppsala",
+      "country": "Sweden",
+      "latitude": 59.858626,
+      "longitude": 17.635634,
+      "website": ""
+    },
+    {
+      "name": "Utmarksmuseet, Pilgrimstapeten, Hembygdgård",
+      "name_en": "",
+      "city": "Torsby",
+      "country": "Sweden",
+      "latitude": 60.680515,
+      "longitude": 12.938782,
+      "website": ""
+    },
+    {
+      "name": "Vadsbo Museum",
+      "name_en": "",
+      "city": "Mariestad",
+      "country": "Sweden",
+      "latitude": 58.708367,
+      "longitude": 13.817668,
+      "website": ""
+    },
+    {
+      "name": "Vadstena Stadsmuseum",
+      "name_en": "",
+      "city": "Vadstena",
+      "country": "Sweden",
+      "latitude": 58.447614,
+      "longitude": 14.887968,
+      "website": ""
+    },
+    {
+      "name": "Vasaloppets Hus",
+      "name_en": "",
+      "city": "Mora",
+      "country": "Sweden",
+      "latitude": 61.007699,
+      "longitude": 14.545024,
+      "website": "www.vasaloppet.se"
+    },
+    {
+      "name": "Vattenkraft- och Miljöcentrum",
+      "name_en": "",
+      "city": "Laholm",
+      "country": "Sweden",
+      "latitude": 56.516243,
+      "longitude": 13.050129,
+      "website": ""
+    },
+    {
+      "name": "Vaxholms fästnings museum",
+      "name_en": "",
+      "city": "Vaxholm",
+      "country": "Sweden",
+      "latitude": 59.402881,
+      "longitude": 18.358469,
+      "website": "www.vaxholmsfastning.se"
+    },
+    {
+      "name": "Vendel visitor centre",
+      "name_en": "",
+      "city": "Örbyhus",
+      "country": "Sweden",
+      "latitude": 60.164205,
+      "longitude": 17.600798,
+      "website": ""
+    },
+    {
+      "name": "Veteranmotor Museum",
+      "name_en": "",
+      "city": "Österbymo",
+      "country": "Sweden",
+      "latitude": 57.834156,
+      "longitude": 15.268889,
+      "website": ""
+    },
+    {
+      "name": "Veteranmuseum Furudal",
+      "name_en": "",
+      "city": "Rättvik",
+      "country": "Sweden",
+      "latitude": 61.194829,
+      "longitude": 15.17619,
+      "website": "http://www.norskveteranmuseum.se/"
+    },
+    {
+      "name": "Vikarvets bohusmuseum",
+      "name_en": "",
+      "city": "Lysekil",
+      "country": "Sweden",
+      "latitude": 58.268299,
+      "longitude": 11.428458,
+      "website": ""
+    },
+    {
+      "name": "Vilhelmina museum",
+      "name_en": "",
+      "city": "Vilhelmina",
+      "country": "Sweden",
+      "latitude": 64.628879,
+      "longitude": 16.649483,
+      "website": "http://www.vilhelmina.se/~abm/index.html"
+    },
+    {
+      "name": "Visualiseringscenter C",
+      "name_en": "",
+      "city": "Norrköping",
+      "country": "Sweden",
+      "latitude": 58.589128,
+      "longitude": 16.177478,
+      "website": ""
+    },
+    {
+      "name": "Volvo Museum",
+      "name_en": "",
+      "city": "Torslanda",
+      "country": "Sweden",
+      "latitude": 57.694913,
+      "longitude": 11.819654,
+      "website": ""
+    },
+    {
+      "name": "Von Echstedtska Gården",
+      "name_en": "",
+      "city": "Åmål",
+      "country": "Sweden",
+      "latitude": 59.227891,
+      "longitude": 12.731329,
+      "website": ""
+    },
+    {
+      "name": "Välluvs hembygdsmuseum",
+      "name_en": "",
+      "city": "Bårslöv",
+      "country": "Sweden",
+      "latitude": 56.01981,
+      "longitude": 12.799286,
+      "website": ""
+    },
+    {
+      "name": "Vänermuséet",
+      "name_en": "",
+      "city": "Lidköping",
+      "country": "Sweden",
+      "latitude": 58.51106,
+      "longitude": 13.146549,
+      "website": ""
+    },
+    {
+      "name": "Vänersborgs Museum",
+      "name_en": "",
+      "city": "Vänersborg",
+      "country": "Sweden",
+      "latitude": 58.379889,
+      "longitude": 12.329288,
+      "website": ""
+    },
+    {
+      "name": "Världsarvet Grimeton, besökscentrum",
+      "name_en": "",
+      "city": "Tvååker",
+      "country": "Sweden",
+      "latitude": 57.113181,
+      "longitude": 12.405323,
+      "website": ""
+    },
+    {
+      "name": "Världsarvet Grimeton, radiostationen",
+      "name_en": "",
+      "city": "Tvååker",
+      "country": "Sweden",
+      "latitude": 57.113951,
+      "longitude": 12.40444,
+      "website": ""
+    },
+    {
+      "name": "Värmdö Hembygdsmuseum",
+      "name_en": "",
+      "city": "Hemmesta",
+      "country": "Sweden",
+      "latitude": 59.358232,
+      "longitude": 18.499743,
+      "website": ""
+    },
+    {
+      "name": "Värmlands Vikingacenter",
+      "name_en": "",
+      "city": "Säffle",
+      "country": "Sweden",
+      "latitude": 59.286826,
+      "longitude": 12.779393,
+      "website": "http://www.varmlandsvikingacenter.se"
+    },
+    {
+      "name": "Väsby Kungsgård",
+      "name_en": "",
+      "city": "Sala",
+      "country": "Sweden",
+      "latitude": 59.927596,
+      "longitude": 16.593577,
+      "website": "http://vasbykungsgard.se/"
+    },
+    {
+      "name": "Västerbottens museum",
+      "name_en": "",
+      "city": "Umeå",
+      "country": "Sweden",
+      "latitude": 63.829376,
+      "longitude": 20.28932,
+      "website": "http://www.vbm.se/"
+    },
+    {
+      "name": "Västerviks museum",
+      "name_en": "",
+      "city": "Västervik",
+      "country": "Sweden",
+      "latitude": 57.766131,
+      "longitude": 16.644131,
+      "website": "http://www.vasterviksmuseum.se"
+    },
+    {
+      "name": "Västerås Flygmuseum",
+      "name_en": "",
+      "city": "Västerås",
+      "country": "Sweden",
+      "latitude": 59.594294,
+      "longitude": 16.625832,
+      "website": "http://www.flygmuseum.com/"
+    },
+    {
+      "name": "Västerås Slott",
+      "name_en": "",
+      "city": "Västerås",
+      "country": "Sweden",
+      "latitude": 59.606527,
+      "longitude": 16.544405,
+      "website": ""
+    },
+    {
+      "name": "Västra Göinge Hembygdsmuseum",
+      "name_en": "",
+      "city": "Hässleholm",
+      "country": "Sweden",
+      "latitude": 56.155998,
+      "longitude": 13.771378,
+      "website": ""
+    },
+    {
+      "name": "Vätternakvariet",
+      "name_en": "",
+      "city": "Motala",
+      "country": "Sweden",
+      "latitude": 58.534486,
+      "longitude": 15.038873,
+      "website": ""
+    },
+    {
+      "name": "Växbo kvarn",
+      "name_en": "",
+      "city": "Bollnäs",
+      "country": "Sweden",
+      "latitude": 61.405198,
+      "longitude": 16.555504,
+      "website": ""
+    },
+    {
+      "name": "Wadstena Spetsmuseum",
+      "name_en": "",
+      "city": "Vadstena",
+      "country": "Sweden",
+      "latitude": 58.447784,
+      "longitude": 14.896239,
+      "website": ""
+    },
+    {
+      "name": "Wira bruksmuseum",
+      "name_en": "",
+      "city": "Norrtälje",
+      "country": "Sweden",
+      "latitude": 59.570968,
+      "longitude": 18.548255,
+      "website": "www.wirabruk.se"
+    },
+    {
+      "name": "Zornmuseet",
+      "name_en": "",
+      "city": "Mora",
+      "country": "Sweden",
+      "latitude": 61.007028,
+      "longitude": 14.5384,
+      "website": "http://zorn.se/zornmuseet"
+    },
+    {
+      "name": "Zorns Gammelgård",
+      "name_en": "",
+      "city": "Mora",
+      "country": "Sweden",
+      "latitude": 60.99867,
+      "longitude": 14.545677,
+      "website": ""
+    },
+    {
+      "name": "Älgens hus",
+      "name_en": "",
+      "city": "Bjurholm",
+      "country": "Sweden",
+      "latitude": 63.911101,
+      "longitude": 19.087792,
+      "website": "http://www.algenshus.se/"
+    },
+    {
+      "name": "Ängabacken Lantbruksmuseum",
+      "name_en": "",
+      "city": "Jämshög",
+      "country": "Sweden",
+      "latitude": 56.183746,
+      "longitude": 14.53423,
+      "website": ""
+    },
+    {
+      "name": "Ängsö slott",
+      "name_en": "",
+      "city": "Hummelsta",
+      "country": "Sweden",
+      "latitude": 59.53292,
+      "longitude": 16.857335,
+      "website": ""
+    },
+    {
+      "name": "Ådalens Veteranbilmuseum",
+      "name_en": "",
+      "city": "Kramfors",
+      "country": "Sweden",
+      "latitude": 62.879713,
+      "longitude": 17.869263,
+      "website": ""
+    },
+    {
+      "name": "Åsgårdarna",
+      "name_en": "",
+      "city": "Säter",
+      "country": "Sweden",
+      "latitude": 60.343049,
+      "longitude": 15.753673,
+      "website": ""
+    },
+    {
+      "name": "Önneköps Lanthandelsmuseum",
+      "name_en": "",
+      "city": "Degeberga",
+      "country": "Sweden",
+      "latitude": 55.786492,
+      "longitude": 13.87109,
+      "website": ""
+    },
+    {
+      "name": "Örebro läns museum",
+      "name_en": "",
+      "city": "Örebro",
+      "country": "Sweden",
+      "latitude": 59.27272,
+      "longitude": 15.218231,
+      "website": ""
+    },
+    {
+      "name": "Östasiatiska museet",
+      "name_en": "Museum of Far Eastern Antiquities",
+      "city": "Östermalm",
+      "country": "Sweden",
+      "latitude": 59.327311,
+      "longitude": 18.081791,
+      "website": "www.ostasiatiska.se"
+    },
+    {
+      "name": "Övralid",
+      "name_en": "",
+      "city": "Motala",
+      "country": "Sweden",
+      "latitude": 58.607883,
+      "longitude": 14.944555,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Sverige (Museums in Sweden) - Gratis nedladdning",
+    "description": "Lista över 502 museer i Sverige från OpenStreetMap — namn, ort, koordinater och webbplats. Innehåller 502 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Sverige (Museums in Sweden) | ListBase",
+    "seo_description": "Ladda ner Museer i Sverige (Museums in Sweden) — 502 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 502 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

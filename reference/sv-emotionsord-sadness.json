@@ -1,0 +1,5606 @@
+{
+  "id": "sv-emotionsord-sadness",
+  "name": "Emotionsord – Sorg",
+  "title": "Emotionsord – Sorg",
+  "description": "Svenska ord associerade med sorg, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1113,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "intensity",
+      "label": "Intensity",
+      "type": "number"
+    },
+    {
+      "key": "emotion",
+      "label": "Emotion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "sorg-",
+      "intensity": "0.969",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tragisk",
+      "intensity": "0.961",
+      "emotion": "sadness"
+    },
+    {
+      "word": "suicidal",
+      "intensity": "0.941",
+      "emotion": "sadness"
+    },
+    {
+      "word": "elände",
+      "intensity": "0.938",
+      "emotion": "sadness"
+    },
+    {
+      "word": "massaker",
+      "intensity": "0.931",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dödshjälp",
+      "intensity": "0.927",
+      "emotion": "sadness"
+    },
+    {
+      "word": "depression",
+      "intensity": "0.925",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sörjande",
+      "intensity": "0.922",
+      "emotion": "sadness"
+    },
+    {
+      "word": "berövad",
+      "intensity": "0.920",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förödelse",
+      "intensity": "0.917",
+      "emotion": "sadness"
+    },
+    {
+      "word": "död",
+      "intensity": "0.915",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förkrossad",
+      "intensity": "0.912",
+      "emotion": "sadness"
+    },
+    {
+      "word": "självmord",
+      "intensity": "0.912",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skräckinjagande",
+      "intensity": "0.907",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tragedi",
+      "intensity": "0.906",
+      "emotion": "sadness"
+    },
+    {
+      "word": "deprimerande",
+      "intensity": "0.906",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vånda",
+      "intensity": "0.900",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dödligt",
+      "intensity": "0.898",
+      "emotion": "sadness"
+    },
+    {
+      "word": "gråtande",
+      "intensity": "0.896",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dödfödsel",
+      "intensity": "0.891",
+      "emotion": "sadness"
+    },
+    {
+      "word": "den avlidne",
+      "intensity": "0.891",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förödande",
+      "intensity": "0.875",
+      "emotion": "sadness"
+    },
+    {
+      "word": "våldta",
+      "intensity": "0.875",
+      "emotion": "sadness"
+    },
+    {
+      "word": "cancer",
+      "intensity": "0.875",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sjuklighet",
+      "intensity": "0.864",
+      "emotion": "sadness"
+    },
+    {
+      "word": "crucifixion",
+      "intensity": "0.859",
+      "emotion": "sadness"
+    },
+    {
+      "word": "deprimerad",
+      "intensity": "0.859",
+      "emotion": "sadness"
+    },
+    {
+      "word": "traumatisk",
+      "intensity": "0.859",
+      "emotion": "sadness"
+    },
+    {
+      "word": "illdåd",
+      "intensity": "0.859",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avrättning",
+      "intensity": "0.859",
+      "emotion": "sadness"
+    },
+    {
+      "word": "övergivenhet",
+      "intensity": "0.859",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förräderi",
+      "intensity": "0.848",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svikit",
+      "intensity": "0.848",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ledsen",
+      "intensity": "0.844",
+      "emotion": "sadness"
+    },
+    {
+      "word": "eländig",
+      "intensity": "0.844",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förföljelse",
+      "intensity": "0.844",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fruktansvärda",
+      "intensity": "0.844",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hopplöshet",
+      "intensity": "0.844",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mördande",
+      "intensity": "0.844",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blodsutgjutelse",
+      "intensity": "0.836",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dråp",
+      "intensity": "0.833",
+      "emotion": "sadness"
+    },
+    {
+      "word": "plågad",
+      "intensity": "0.833",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blodbad",
+      "intensity": "0.833",
+      "emotion": "sadness"
+    },
+    {
+      "word": "outhärdlig",
+      "intensity": "0.830",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dödfödd",
+      "intensity": "0.830",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förintelse",
+      "intensity": "0.828",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sörja",
+      "intensity": "0.828",
+      "emotion": "sadness"
+    },
+    {
+      "word": "slaveri",
+      "intensity": "0.828",
+      "emotion": "sadness"
+    },
+    {
+      "word": "enslaved",
+      "intensity": "0.828",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mörda",
+      "intensity": "0.828",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hjälplöshet",
+      "intensity": "0.828",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fasor",
+      "intensity": "0.828",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stympning",
+      "intensity": "0.828",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förintas",
+      "intensity": "0.828",
+      "emotion": "sadness"
+    },
+    {
+      "word": "missfall",
+      "intensity": "0.824",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svält",
+      "intensity": "0.812",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dödande",
+      "intensity": "0.812",
+      "emotion": "sadness"
+    },
+    {
+      "word": "grymhet",
+      "intensity": "0.812",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förtvivlan",
+      "intensity": "0.812",
+      "emotion": "sadness"
+    },
+    {
+      "word": "saddens",
+      "intensity": "0.812",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förtryck",
+      "intensity": "0.812",
+      "emotion": "sadness"
+    },
+    {
+      "word": "terrorism",
+      "intensity": "0.812",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förgås",
+      "intensity": "0.804",
+      "emotion": "sadness"
+    },
+    {
+      "word": "omänsklighet",
+      "intensity": "0.804",
+      "emotion": "sadness"
+    },
+    {
+      "word": "malignitet",
+      "intensity": "0.803",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förödmjukelse",
+      "intensity": "0.802",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dödlig",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dog",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sarkom",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "livlös",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hemsk",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ödelägga",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "galge",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ödslighet",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "döda",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "slav",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lönnmord",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "leukemi",
+      "intensity": "0.797",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förvisning",
+      "intensity": "0.790",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nedslagen",
+      "intensity": "0.788",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sorg",
+      "intensity": "0.781",
+      "emotion": "sadness"
+    },
+    {
+      "word": "begrava",
+      "intensity": "0.781",
+      "emotion": "sadness"
+    },
+    {
+      "word": "gråt",
+      "intensity": "0.781",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tumör",
+      "intensity": "0.781",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vanhelgande",
+      "intensity": "0.781",
+      "emotion": "sadness"
+    },
+    {
+      "word": "demoraliserade",
+      "intensity": "0.781",
+      "emotion": "sadness"
+    },
+    {
+      "word": "terrorisera",
+      "intensity": "0.781",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lyncha",
+      "intensity": "0.773",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lidande person",
+      "intensity": "0.770",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ensamhet",
+      "intensity": "0.766",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kyrkogård",
+      "intensity": "0.766",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utblottad",
+      "intensity": "0.766",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tortyr",
+      "intensity": "0.766",
+      "emotion": "sadness"
+    },
+    {
+      "word": "abort",
+      "intensity": "0.766",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dödsoffer",
+      "intensity": "0.766",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stympningen",
+      "intensity": "0.766",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dömd",
+      "intensity": "0.766",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rädd",
+      "intensity": "0.766",
+      "emotion": "sadness"
+    },
+    {
+      "word": "baneman",
+      "intensity": "0.766",
+      "emotion": "sadness"
+    },
+    {
+      "word": "döende",
+      "intensity": "0.758",
+      "emotion": "sadness"
+    },
+    {
+      "word": "plågsamt",
+      "intensity": "0.758",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sänka",
+      "intensity": "0.755",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sorgsen",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "beklagande",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fördömelse",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "desperation",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "pandemi",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lik",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "depressiv",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "besegras",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "domedag",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utplånande",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kväljande",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "terrorist",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "incest",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "smärtsam",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bortförande",
+      "intensity": "0.750",
+      "emotion": "sadness"
+    },
+    {
+      "word": "orättvisa",
+      "intensity": "0.745",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ofredande",
+      "intensity": "0.744",
+      "emotion": "sadness"
+    },
+    {
+      "word": "exil",
+      "intensity": "0.742",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bottenlös",
+      "intensity": "0.742",
+      "emotion": "sadness"
+    },
+    {
+      "word": "helvetisk",
+      "intensity": "0.738",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utrota",
+      "intensity": "0.736",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mördare",
+      "intensity": "0.734",
+      "emotion": "sadness"
+    },
+    {
+      "word": "slakt",
+      "intensity": "0.734",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bårhus",
+      "intensity": "0.734",
+      "emotion": "sadness"
+    },
+    {
+      "word": "jordbävning",
+      "intensity": "0.734",
+      "emotion": "sadness"
+    },
+    {
+      "word": "föräldralös",
+      "intensity": "0.734",
+      "emotion": "sadness"
+    },
+    {
+      "word": "disgraced",
+      "intensity": "0.734",
+      "emotion": "sadness"
+    },
+    {
+      "word": "slagna",
+      "intensity": "0.734",
+      "emotion": "sadness"
+    },
+    {
+      "word": "eländigt",
+      "intensity": "0.734",
+      "emotion": "sadness"
+    },
+    {
+      "word": "katastrofal",
+      "intensity": "0.734",
+      "emotion": "sadness"
+    },
+    {
+      "word": "krigföring",
+      "intensity": "0.734",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hemlös",
+      "intensity": "0.734",
+      "emotion": "sadness"
+    },
+    {
+      "word": "håglös",
+      "intensity": "0.729",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tyvärr",
+      "intensity": "0.727",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tomhet",
+      "intensity": "0.727",
+      "emotion": "sadness"
+    },
+    {
+      "word": "aliene",
+      "intensity": "0.727",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fylld",
+      "intensity": "0.722",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utmärglad",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "atrofi",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "krympling",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skamsen",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "spetälska",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "våldsamt",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ropade",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ve",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Skräck",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hjärtlös",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "saknas",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "smärta",
+      "intensity": "0.719",
+      "emotion": "sadness"
+    },
+    {
+      "word": "frånfälle",
+      "intensity": "0.717",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avvisade",
+      "intensity": "0.712",
+      "emotion": "sadness"
+    },
+    {
+      "word": "våld",
+      "intensity": "0.712",
+      "emotion": "sadness"
+    },
+    {
+      "word": "trasig",
+      "intensity": "0.710",
+      "emotion": "sadness"
+    },
+    {
+      "word": "katastrof",
+      "intensity": "0.709",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bister",
+      "intensity": "0.708",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svår",
+      "intensity": "0.704",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lam",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "offer",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vanställd",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "straffa",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utdöd",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "härdsmälta",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förtryckare",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "deformerad",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "slakteri",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förödmjuka",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "omänsklig",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sönderfall",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kvävande",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "likvagn",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "obotlig",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "begravd",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "carcinom",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "deformitet",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "krossad",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "isolera",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tårfylld",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "obit",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "strypa",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "isolering",
+      "intensity": "0.703",
+      "emotion": "sadness"
+    },
+    {
+      "word": "livet suger",
+      "intensity": "0.700",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Helvete",
+      "intensity": "0.700",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ödeläggande",
+      "intensity": "0.698",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förstörd",
+      "intensity": "0.697",
+      "emotion": "sadness"
+    },
+    {
+      "word": "änka",
+      "intensity": "0.697",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förvisa",
+      "intensity": "0.697",
+      "emotion": "sadness"
+    },
+    {
+      "word": "försvann",
+      "intensity": "0.695",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förskjuten",
+      "intensity": "0.691",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fattigdom",
+      "intensity": "0.690",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förlust",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "härbärge",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "depraverad",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skytte",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hugg",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "patetisk",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "för evigt ensam",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "demens",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "travesti",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "epidemi",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rinnande",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "änkling",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "terminal",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "försummad",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "beklagligt",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sårande",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förvisat",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ont",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "folktom",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hopplös",
+      "intensity": "0.688",
+      "emotion": "sadness"
+    },
+    {
+      "word": "alienation",
+      "intensity": "0.685",
+      "emotion": "sadness"
+    },
+    {
+      "word": "strapats",
+      "intensity": "0.685",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sätta i halsen",
+      "intensity": "0.682",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kidnappa",
+      "intensity": "0.682",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blödning",
+      "intensity": "0.673",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blodig",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "illvillig",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dödsruna",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Inaktiverad",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utstött",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förgifta",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nedvärdera",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "jämra sig",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "usling",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "usel",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förringa",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "straffad",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "berövande",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ondska",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Kista",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bedrövligt",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sönderdelas",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förskräcklig",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förtvivlad",
+      "intensity": "0.672",
+      "emotion": "sadness"
+    },
+    {
+      "word": "karg",
+      "intensity": "0.670",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förgiftad",
+      "intensity": "0.667",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bödel",
+      "intensity": "0.667",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sjukdom",
+      "intensity": "0.665",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förtrycka",
+      "intensity": "0.664",
+      "emotion": "sadness"
+    },
+    {
+      "word": "disembodied",
+      "intensity": "0.660",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sjuklig",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "gråta",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fara",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "riva",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "shitty",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ruin",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stjäla",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hata",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "trist",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "polio",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fördärvat",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skrin",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "demonisk",
+      "intensity": "0.656",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kadaver",
+      "intensity": "0.653",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stryk",
+      "intensity": "0.652",
+      "emotion": "sadness"
+    },
+    {
+      "word": "beklagade",
+      "intensity": "0.652",
+      "emotion": "sadness"
+    },
+    {
+      "word": "feghet",
+      "intensity": "0.652",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lidande",
+      "intensity": "0.645",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fruktansvärt",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "uppsägning",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "giftig",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nödsituation",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "farlig",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förfärlig",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "gissel",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "syndig",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "drabbade",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hat",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "maktlös",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "exorcism",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bedrövad",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "drunkna",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "olikhet",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "infertilitet",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fängslande",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oroa",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svepa",
+      "intensity": "0.641",
+      "emotion": "sadness"
+    },
+    {
+      "word": "psykos",
+      "intensity": "0.638",
+      "emotion": "sadness"
+    },
+    {
+      "word": "beklaga",
+      "intensity": "0.636",
+      "emotion": "sadness"
+    },
+    {
+      "word": "besviken",
+      "intensity": "0.636",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bestörtning",
+      "intensity": "0.636",
+      "emotion": "sadness"
+    },
+    {
+      "word": "krossade",
+      "intensity": "0.630",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mausoleum",
+      "intensity": "0.630",
+      "emotion": "sadness"
+    },
+    {
+      "word": "övergiven",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nedslående",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förlamning",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förbannad",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dysterhet",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "impotens",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avsluta",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förtryckande",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oöverstiglig",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "missbruk",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tyrann",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sår",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "revs",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "schizofreni",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förlorat",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bittert",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "postum",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "havere",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "försämras",
+      "intensity": "0.625",
+      "emotion": "sadness"
+    },
+    {
+      "word": "äktenskapsskillnad",
+      "intensity": "0.623",
+      "emotion": "sadness"
+    },
+    {
+      "word": "själlös",
+      "intensity": "0.623",
+      "emotion": "sadness"
+    },
+    {
+      "word": "överge",
+      "intensity": "0.621",
+      "emotion": "sadness"
+    },
+    {
+      "word": "melankoli",
+      "intensity": "0.621",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kremering",
+      "intensity": "0.621",
+      "emotion": "sadness"
+    },
+    {
+      "word": "orolig",
+      "intensity": "0.621",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svår situation",
+      "intensity": "0.621",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bomba",
+      "intensity": "0.621",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oförsonlig",
+      "intensity": "0.612",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sepsis",
+      "intensity": "0.611",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förkrossande",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skadade",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "irreparabel",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "uppoffringar",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "grym",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "överväldigad",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nedsättande",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "levrat blod",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skamlig",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fruktans",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "värdelös",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "trolös",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "splittra",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "krossa",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nedbrytande",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fulhet",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "underkuvande",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "debacle",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "schackel",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svika",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "smäktande",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "alkoholism",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "uteslutna",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "syndare",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bankrutt",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skyldig",
+      "intensity": "0.609",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förbanna",
+      "intensity": "0.608",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rån",
+      "intensity": "0.600",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mjältbrand",
+      "intensity": "0.600",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skam",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fängelse",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vendetta",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ånger",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "beklaga sorgen",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avgrund",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förorenade",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bruten",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lagbrytare",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "intet",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "överträdelse",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fångenskap",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Deportation",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "undergång",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "längtar",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utplåna",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "krypta",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "martyrium",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vräkning",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "berövade",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förlorande",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "faller sönder",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tjuvjakt",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förråda",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hjälplös",
+      "intensity": "0.594",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dysenteri",
+      "intensity": "0.593",
+      "emotion": "sadness"
+    },
+    {
+      "word": "melankolisk",
+      "intensity": "0.591",
+      "emotion": "sadness"
+    },
+    {
+      "word": "brista",
+      "intensity": "0.588",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förrädare",
+      "intensity": "0.588",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tärd",
+      "intensity": "0.587",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lögn",
+      "intensity": "0.585",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kolera",
+      "intensity": "0.583",
+      "emotion": "sadness"
+    },
+    {
+      "word": "begravning",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oönskad",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kaos",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "översittare",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fruktansvärd",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skrämma",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "degeneration",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "smutsig",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bitterhet",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förnedring",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "diskriminering",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nekas",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "omoralisk",
+      "intensity": "0.578",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fången",
+      "intensity": "0.576",
+      "emotion": "sadness"
+    },
+    {
+      "word": "gnälla",
+      "intensity": "0.576",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skadestånd",
+      "intensity": "0.576",
+      "emotion": "sadness"
+    },
+    {
+      "word": "jäkel",
+      "intensity": "0.576",
+      "emotion": "sadness"
+    },
+    {
+      "word": "pessimism",
+      "intensity": "0.576",
+      "emotion": "sadness"
+    },
+    {
+      "word": "delirium",
+      "intensity": "0.576",
+      "emotion": "sadness"
+    },
+    {
+      "word": "djupt beklaga",
+      "intensity": "0.576",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ogillade",
+      "intensity": "0.576",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förhatlig",
+      "intensity": "0.575",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bigott",
+      "intensity": "0.574",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fördärv",
+      "intensity": "0.569",
+      "emotion": "sadness"
+    },
+    {
+      "word": "otrohet",
+      "intensity": "0.566",
+      "emotion": "sadness"
+    },
+    {
+      "word": "korrumperande",
+      "intensity": "0.565",
+      "emotion": "sadness"
+    },
+    {
+      "word": "upprörd",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svek",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "grav",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skada",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Spring iväg",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "reumatism",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tyranni",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "upphöra",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "obduktion",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förbannelse",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "urna",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "prygla",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "endokardit",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oroande",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fattighjon",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "åläggande",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vältra sig",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "pessimist",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förlisning",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avslag",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lura",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "komatös",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bedräglig",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förbittring",
+      "intensity": "0.562",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avgick",
+      "intensity": "0.558",
+      "emotion": "sadness"
+    },
+    {
+      "word": "martyr",
+      "intensity": "0.556",
+      "emotion": "sadness"
+    },
+    {
+      "word": "slå",
+      "intensity": "0.555",
+      "emotion": "sadness"
+    },
+    {
+      "word": "plåga",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dyster",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hängande",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bummed",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hydrocefalus",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "medlidande",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avgång",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skott",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "överlämnande",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "isolerat",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ouppfylld",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "frånvaro",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sky",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avvisa",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "malaria",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bombplan",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förtret",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "minnesmärke",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avskräcka",
+      "intensity": "0.547",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skändlig",
+      "intensity": "0.546",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mörk",
+      "intensity": "0.545",
+      "emotion": "sadness"
+    },
+    {
+      "word": "anklagelse",
+      "intensity": "0.545",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hjärnskakning",
+      "intensity": "0.545",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stön",
+      "intensity": "0.545",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svagt",
+      "intensity": "0.544",
+      "emotion": "sadness"
+    },
+    {
+      "word": "missnöje",
+      "intensity": "0.543",
+      "emotion": "sadness"
+    },
+    {
+      "word": "begravnings",
+      "intensity": "0.538",
+      "emotion": "sadness"
+    },
+    {
+      "word": "försämring",
+      "intensity": "0.536",
+      "emotion": "sadness"
+    },
+    {
+      "word": "angripare",
+      "intensity": "0.536",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sjuk",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "värk",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "epitafium",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skillnad",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "luras",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "missfärgning",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hemlängtan",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vålla",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bot",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "asocial",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "trumpen",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förverkande",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "trösta",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "neuros",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stöld",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utbrott",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fördrivna",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avsky",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "emboli",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "högsta grad",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "attackera",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förlägenhet",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fientlig",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "requiem",
+      "intensity": "0.531",
+      "emotion": "sadness"
+    },
+    {
+      "word": "glömt",
+      "intensity": "0.530",
+      "emotion": "sadness"
+    },
+    {
+      "word": "obehaglig",
+      "intensity": "0.530",
+      "emotion": "sadness"
+    },
+    {
+      "word": "klagomål",
+      "intensity": "0.530",
+      "emotion": "sadness"
+    },
+    {
+      "word": "inaktivera",
+      "intensity": "0.529",
+      "emotion": "sadness"
+    },
+    {
+      "word": "försvarslös",
+      "intensity": "0.526",
+      "emotion": "sadness"
+    },
+    {
+      "word": "borttaget",
+      "intensity": "0.518",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förlöjliga",
+      "intensity": "0.518",
+      "emotion": "sadness"
+    },
+    {
+      "word": "olycka",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "olycklig",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "missnöjd",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förfallen",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ovänlig",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kvarstad",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vegetativ",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avskalade",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blindhet",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "soptippar",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "öm",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vissna",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "eliminering",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "villfarelse",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kvävas",
+      "intensity": "0.516",
+      "emotion": "sadness"
+    },
+    {
+      "word": "beklaglig",
+      "intensity": "0.509",
+      "emotion": "sadness"
+    },
+    {
+      "word": "diktatur",
+      "intensity": "0.509",
+      "emotion": "sadness"
+    },
+    {
+      "word": "klaga",
+      "intensity": "0.509",
+      "emotion": "sadness"
+    },
+    {
+      "word": "obesvarad",
+      "intensity": "0.509",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förlora",
+      "intensity": "0.509",
+      "emotion": "sadness"
+    },
+    {
+      "word": "trolldom",
+      "intensity": "0.508",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ångest",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "obehag",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "gonorrhea",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "endemisk",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "negativ",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "trötta",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "omöjlig",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "störd",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "cytomegalovirus",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stött",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "intolerant",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "åtala",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ruttna",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ateroskleros",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "senil",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kämpat",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "koma",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "konkurs",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kronisk",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svårighet",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tjut",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "krypa",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "äcklig",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "deportera",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "orättvis",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vräka",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "spjäll",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "drogad",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "försvårande",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "krascha",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dödlighet",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "respektlös",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rynkar",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "verkningarna",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ogudaktig",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "explodera",
+      "intensity": "0.500",
+      "emotion": "sadness"
+    },
+    {
+      "word": "råna",
+      "intensity": "0.491",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lågkonjunktur",
+      "intensity": "0.485",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skrika",
+      "intensity": "0.485",
+      "emotion": "sadness"
+    },
+    {
+      "word": "otäck",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svaghet",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sjukhus",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "störning",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förolämpning",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "be",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avgå",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stöna",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "arsenik",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "otillräcklig",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sabotage",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "pank",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "feg",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "olov",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förtränga",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "undvikande",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bärs",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "anfall",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kritik",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "trötthet",
+      "intensity": "0.484",
+      "emotion": "sadness"
+    },
+    {
+      "word": "infektiös",
+      "intensity": "0.483",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oärlig",
+      "intensity": "0.482",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förfall",
+      "intensity": "0.482",
+      "emotion": "sadness"
+    },
+    {
+      "word": "upplösning",
+      "intensity": "0.480",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lägst",
+      "intensity": "0.478",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ohälsosam",
+      "intensity": "0.474",
+      "emotion": "sadness"
+    },
+    {
+      "word": "irritation",
+      "intensity": "0.470",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skadlig",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "straff-",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "återfall",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "uteslutning",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "olyckligt",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "upproriskhet",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mässling",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ail",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "streckad",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Ramla ut",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "maskopi",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sårbarhet",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "straff",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "segregera",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "OBEKYMRAD",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "herravälde",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "konflikt",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kollaps",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "omintetgöra",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lynnig",
+      "intensity": "0.469",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fransig",
+      "intensity": "0.467",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vanära",
+      "intensity": "0.464",
+      "emotion": "sadness"
+    },
+    {
+      "word": "plundra",
+      "intensity": "0.461",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skrivs",
+      "intensity": "0.460",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avta",
+      "intensity": "0.456",
+      "emotion": "sadness"
+    },
+    {
+      "word": "olaglig",
+      "intensity": "0.455",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dåligt",
+      "intensity": "0.455",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förstöra",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "klandra",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "besksöta",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "föll",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vulgaritet",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "omvälvning",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utestänga",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "revolver",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "felaktigt",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "överlämna",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ogilla",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vedermöda",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "despotism",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "minnesmärken",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "borta",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "konfiskera",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ogästvänlig",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avskild",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rynka pannan",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "värre",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oförmåga",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lavin",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bryderi",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stiltje",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "diskriminera",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "invadera",
+      "intensity": "0.453",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ringa",
+      "intensity": "0.448",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ensam",
+      "intensity": "0.446",
+      "emotion": "sadness"
+    },
+    {
+      "word": "giljotin",
+      "intensity": "0.446",
+      "emotion": "sadness"
+    },
+    {
+      "word": "belastning",
+      "intensity": "0.441",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ogiltigförklaring",
+      "intensity": "0.440",
+      "emotion": "sadness"
+    },
+    {
+      "word": "besvikelse",
+      "intensity": "0.439",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förlossning",
+      "intensity": "0.439",
+      "emotion": "sadness"
+    },
+    {
+      "word": "yrande",
+      "intensity": "0.439",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vansinne",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tvång",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fånge",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ogillande",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "flykting",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avvisar",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avresa",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "osammanhängande",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ej godkänd",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blues",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "getto",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "annullering",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oförsiktig",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förbjuda",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sympatiserar",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "problem",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "abscess",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "insolvens",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utfattig",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "apatisk",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fundersam",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "letargi",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oenighet",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stigma",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "farväl",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "minska",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dislocated",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "emotionell",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ouppnåelig",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fientlighet",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "appendicit",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "restriktion",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "betalda",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förmörkad",
+      "intensity": "0.438",
+      "emotion": "sadness"
+    },
+    {
+      "word": "diskvalificeras",
+      "intensity": "0.435",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stör",
+      "intensity": "0.435",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tripping",
+      "intensity": "0.429",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sjunkit",
+      "intensity": "0.426",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vedergällning",
+      "intensity": "0.424",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avtappning",
+      "intensity": "0.424",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vattkoppor",
+      "intensity": "0.424",
+      "emotion": "sadness"
+    },
+    {
+      "word": "handikapp",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avvikelse",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "besatt",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "opartisk",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tjuv",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "cysta",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tiggare",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "faller",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "neuralgi",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "olika",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skärande",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dålig",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vila i frid",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kardiomyopati",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ovälkommen",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "knapp",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förseelse",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "insolvent",
+      "intensity": "0.422",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svårigheter",
+      "intensity": "0.421",
+      "emotion": "sadness"
+    },
+    {
+      "word": "inkräktare",
+      "intensity": "0.420",
+      "emotion": "sadness"
+    },
+    {
+      "word": "drab",
+      "intensity": "0.420",
+      "emotion": "sadness"
+    },
+    {
+      "word": "falla",
+      "intensity": "0.418",
+      "emotion": "sadness"
+    },
+    {
+      "word": "illegitim",
+      "intensity": "0.416",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utvisa",
+      "intensity": "0.414",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mörker",
+      "intensity": "0.409",
+      "emotion": "sadness"
+    },
+    {
+      "word": "synkope",
+      "intensity": "0.407",
+      "emotion": "sadness"
+    },
+    {
+      "word": "osäker",
+      "intensity": "0.406",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stroke",
+      "intensity": "0.406",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bluff",
+      "intensity": "0.406",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mörkna",
+      "intensity": "0.406",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utsattes",
+      "intensity": "0.406",
+      "emotion": "sadness"
+    },
+    {
+      "word": "feodalism",
+      "intensity": "0.406",
+      "emotion": "sadness"
+    },
+    {
+      "word": "raseri",
+      "intensity": "0.406",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tik",
+      "intensity": "0.406",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fiendskap",
+      "intensity": "0.406",
+      "emotion": "sadness"
+    },
+    {
+      "word": "löpeld",
+      "intensity": "0.406",
+      "emotion": "sadness"
+    },
+    {
+      "word": "motbjudande",
+      "intensity": "0.406",
+      "emotion": "sadness"
+    },
+    {
+      "word": "otillfredsställd",
+      "intensity": "0.405",
+      "emotion": "sadness"
+    },
+    {
+      "word": "daska",
+      "intensity": "0.403",
+      "emotion": "sadness"
+    },
+    {
+      "word": "syndaflod",
+      "intensity": "0.402",
+      "emotion": "sadness"
+    },
+    {
+      "word": "suck",
+      "intensity": "0.402",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ogift kvinna",
+      "intensity": "0.400",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blå",
+      "intensity": "0.400",
+      "emotion": "sadness"
+    },
+    {
+      "word": "SOM SKALL BETALAS",
+      "intensity": "0.398",
+      "emotion": "sadness"
+    },
+    {
+      "word": "besvära",
+      "intensity": "0.394",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fälla",
+      "intensity": "0.394",
+      "emotion": "sadness"
+    },
+    {
+      "word": "allvar",
+      "intensity": "0.394",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skuld",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ångra",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "demon",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "monsun",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utmattad",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bår",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nedlåtenhet",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dvärgväxta",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ineffektiv",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "glupande",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "banshee",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kyla",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "om bara",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kränkande",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "knep",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "snara",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stansa",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förebrå",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "inkompetens",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vägrade",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bur",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "djurisk",
+      "intensity": "0.391",
+      "emotion": "sadness"
+    },
+    {
+      "word": "omstörta",
+      "intensity": "0.384",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svartsjuka",
+      "intensity": "0.382",
+      "emotion": "sadness"
+    },
+    {
+      "word": "geriatrisk",
+      "intensity": "0.379",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Fröken",
+      "intensity": "0.379",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kamp",
+      "intensity": "0.379",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oursäktlig",
+      "intensity": "0.379",
+      "emotion": "sadness"
+    },
+    {
+      "word": "härkomst",
+      "intensity": "0.377",
+      "emotion": "sadness"
+    },
+    {
+      "word": "intrasslad",
+      "intensity": "0.377",
+      "emotion": "sadness"
+    },
+    {
+      "word": "aska",
+      "intensity": "0.377",
+      "emotion": "sadness"
+    },
+    {
+      "word": "utmattning",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svärta",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "funk",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "diskvalificera",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svacka",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hänsynslöst",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "noncompliance",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "adjö",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "suger",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "jordskred",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mulen",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fanatisk",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sämre",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "prostitution",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ärr",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skingra",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avsked",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "slöseri",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dra tillbaka",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kasta ut",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sympati",
+      "intensity": "0.375",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dröjsmål",
+      "intensity": "0.373",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oattraktiv",
+      "intensity": "0.373",
+      "emotion": "sadness"
+    },
+    {
+      "word": "be om ursäkt",
+      "intensity": "0.370",
+      "emotion": "sadness"
+    },
+    {
+      "word": "galen",
+      "intensity": "0.368",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bastard",
+      "intensity": "0.366",
+      "emotion": "sadness"
+    },
+    {
+      "word": "försämrats",
+      "intensity": "0.365",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tömma",
+      "intensity": "0.364",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bland",
+      "intensity": "0.364",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hånfull",
+      "intensity": "0.363",
+      "emotion": "sadness"
+    },
+    {
+      "word": "huggorm",
+      "intensity": "0.361",
+      "emotion": "sadness"
+    },
+    {
+      "word": "misslyckad",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hinde",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "flundra",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "jägare",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oförmögen",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fruktlös",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "arraignment",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "håna",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svimning",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "klagande",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svarande",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "koppla från",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "servil",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "arbetslös",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stram",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Låsa in",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "domningar",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "wrangling",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "missförstånd",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fetma",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "idioti",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "invigning",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förövare",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tvivel",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skymf",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "impopulär",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ineffektivitet",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "väsen",
+      "intensity": "0.359",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oro",
+      "intensity": "0.351",
+      "emotion": "sadness"
+    },
+    {
+      "word": "frånvarande",
+      "intensity": "0.348",
+      "emotion": "sadness"
+    },
+    {
+      "word": "intervention",
+      "intensity": "0.348",
+      "emotion": "sadness"
+    },
+    {
+      "word": "wimpy",
+      "intensity": "0.348",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avfall",
+      "intensity": "0.348",
+      "emotion": "sadness"
+    },
+    {
+      "word": "spoiler",
+      "intensity": "0.348",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blint",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fåra",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "milis",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "processa",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "målat",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oinspirerad",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "objuden",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "internering",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kirurgi",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rättegång",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "spöke",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "öken-",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "försvagning",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förverka",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "grunden",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "besvärlig",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sade upp sig",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "eftersläpande",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "medla",
+      "intensity": "0.344",
+      "emotion": "sadness"
+    },
+    {
+      "word": "myopi",
+      "intensity": "0.339",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oansvarig",
+      "intensity": "0.339",
+      "emotion": "sadness"
+    },
+    {
+      "word": "missöde",
+      "intensity": "0.338",
+      "emotion": "sadness"
+    },
+    {
+      "word": "villkorlig dom",
+      "intensity": "0.336",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avvikande mening",
+      "intensity": "0.333",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avgångs",
+      "intensity": "0.333",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skråla",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bakterie",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "på drift",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nedre",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lämna",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "inkompetent",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ändlös",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oacceptabel",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "träldom",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "beroende",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "steril",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "inte erkänd",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "otillåtna",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nepotism",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ömhet",
+      "intensity": "0.328",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skälla",
+      "intensity": "0.327",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ömtålig",
+      "intensity": "0.319",
+      "emotion": "sadness"
+    },
+    {
+      "word": "snål",
+      "intensity": "0.319",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stämma",
+      "intensity": "0.318",
+      "emotion": "sadness"
+    },
+    {
+      "word": "knappt",
+      "intensity": "0.318",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hämma",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tröska",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "misstag",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "committal",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fet",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "glid",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "knäsena",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ulcus",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "trotsa",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nostalgi",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fördunklad",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förbleknande",
+      "intensity": "0.312",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dölja",
+      "intensity": "0.311",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fläck",
+      "intensity": "0.310",
+      "emotion": "sadness"
+    },
+    {
+      "word": "motstå",
+      "intensity": "0.309",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sympatisk",
+      "intensity": "0.307",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bugaboo",
+      "intensity": "0.304",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bekänna",
+      "intensity": "0.303",
+      "emotion": "sadness"
+    },
+    {
+      "word": "opium",
+      "intensity": "0.303",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ack",
+      "intensity": "0.302",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oförenlig",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "motgång",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svag",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "halting",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "om",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "olämplig",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "migrän",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tråkig",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avbrott",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rynkig",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dämpa",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vilseleda",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sättningar",
+      "intensity": "0.297",
+      "emotion": "sadness"
+    },
+    {
+      "word": "eremit",
+      "intensity": "0.296",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rör på sig",
+      "intensity": "0.295",
+      "emotion": "sadness"
+    },
+    {
+      "word": "krympa",
+      "intensity": "0.295",
+      "emotion": "sadness"
+    },
+    {
+      "word": "darrning",
+      "intensity": "0.291",
+      "emotion": "sadness"
+    },
+    {
+      "word": "luffare",
+      "intensity": "0.288",
+      "emotion": "sadness"
+    },
+    {
+      "word": "begränsning",
+      "intensity": "0.288",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oviktig",
+      "intensity": "0.288",
+      "emotion": "sadness"
+    },
+    {
+      "word": "spillror",
+      "intensity": "0.282",
+      "emotion": "sadness"
+    },
+    {
+      "word": "brist",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rygga tillbaka",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ogynnsam",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "meningslös",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "trött",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "exklusive",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "återkalla",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "neger",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "försenad",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avlägsna",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vresig",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "flop",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skrapie",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bekännelse",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skygg",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ner",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avsätta",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "apati",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bismak",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "svart",
+      "intensity": "0.281",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Stöten",
+      "intensity": "0.275",
+      "emotion": "sadness"
+    },
+    {
+      "word": "juridik",
+      "intensity": "0.273",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förvirring",
+      "intensity": "0.273",
+      "emotion": "sadness"
+    },
+    {
+      "word": "soldat",
+      "intensity": "0.273",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bulta",
+      "intensity": "0.273",
+      "emotion": "sadness"
+    },
+    {
+      "word": "grå",
+      "intensity": "0.269",
+      "emotion": "sadness"
+    },
+    {
+      "word": "slapp",
+      "intensity": "0.266",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hinder",
+      "intensity": "0.266",
+      "emotion": "sadness"
+    },
+    {
+      "word": "evighet",
+      "intensity": "0.266",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lämnar",
+      "intensity": "0.266",
+      "emotion": "sadness"
+    },
+    {
+      "word": "orealistisk",
+      "intensity": "0.266",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blandade känslor",
+      "intensity": "0.266",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sluddra",
+      "intensity": "0.266",
+      "emotion": "sadness"
+    },
+    {
+      "word": "drev",
+      "intensity": "0.266",
+      "emotion": "sadness"
+    },
+    {
+      "word": "försumlig",
+      "intensity": "0.266",
+      "emotion": "sadness"
+    },
+    {
+      "word": "obekväm",
+      "intensity": "0.263",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förvrängning",
+      "intensity": "0.259",
+      "emotion": "sadness"
+    },
+    {
+      "word": "begränsa",
+      "intensity": "0.259",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stagnerande",
+      "intensity": "0.259",
+      "emotion": "sadness"
+    },
+    {
+      "word": "otjänst",
+      "intensity": "0.258",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bakvatten",
+      "intensity": "0.255",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vildmark",
+      "intensity": "0.255",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fel",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "slösaktig",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "labored",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "obildad",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Ofullständig",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "äldre",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "spekulation",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "odödlig",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tall",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "storm",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "humbug",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "smäll",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "godtrogen",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "oförklarad",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kommunism",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ankring",
+      "intensity": "0.250",
+      "emotion": "sadness"
+    },
+    {
+      "word": "regnig dag",
+      "intensity": "0.242",
+      "emotion": "sadness"
+    },
+    {
+      "word": "demonstrativ",
+      "intensity": "0.242",
+      "emotion": "sadness"
+    },
+    {
+      "word": "melodrama",
+      "intensity": "0.242",
+      "emotion": "sadness"
+    },
+    {
+      "word": "nödvändighet",
+      "intensity": "0.236",
+      "emotion": "sadness"
+    },
+    {
+      "word": "leda",
+      "intensity": "0.235",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dimmig",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "varp",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skräp",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "burke",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ihålig",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "läkning",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "molnig",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blockad",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avvika",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ointressant",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "annullera",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mening",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blek",
+      "intensity": "0.234",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fall",
+      "intensity": "0.228",
+      "emotion": "sadness"
+    },
+    {
+      "word": "regnig",
+      "intensity": "0.227",
+      "emotion": "sadness"
+    },
+    {
+      "word": "betungande",
+      "intensity": "0.223",
+      "emotion": "sadness"
+    },
+    {
+      "word": "botten",
+      "intensity": "0.223",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ointresserad",
+      "intensity": "0.223",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fasta",
+      "intensity": "0.220",
+      "emotion": "sadness"
+    },
+    {
+      "word": "likgiltighet",
+      "intensity": "0.219",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hantera",
+      "intensity": "0.219",
+      "emotion": "sadness"
+    },
+    {
+      "word": "missfärgad",
+      "intensity": "0.219",
+      "emotion": "sadness"
+    },
+    {
+      "word": "blunder",
+      "intensity": "0.219",
+      "emotion": "sadness"
+    },
+    {
+      "word": "törst",
+      "intensity": "0.219",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dole",
+      "intensity": "0.219",
+      "emotion": "sadness"
+    },
+    {
+      "word": "from",
+      "intensity": "0.219",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kokain",
+      "intensity": "0.218",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tuff",
+      "intensity": "0.212",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lägre",
+      "intensity": "0.203",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vrickning",
+      "intensity": "0.203",
+      "emotion": "sadness"
+    },
+    {
+      "word": "torr",
+      "intensity": "0.203",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fett",
+      "intensity": "0.203",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rotation",
+      "intensity": "0.203",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kyligt",
+      "intensity": "0.203",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avgift",
+      "intensity": "0.203",
+      "emotion": "sadness"
+    },
+    {
+      "word": "trög",
+      "intensity": "0.203",
+      "emotion": "sadness"
+    },
+    {
+      "word": "yucky",
+      "intensity": "0.203",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hoary",
+      "intensity": "0.203",
+      "emotion": "sadness"
+    },
+    {
+      "word": "önskar",
+      "intensity": "0.202",
+      "emotion": "sadness"
+    },
+    {
+      "word": "progression",
+      "intensity": "0.201",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stängning",
+      "intensity": "0.195",
+      "emotion": "sadness"
+    },
+    {
+      "word": "obesegrad",
+      "intensity": "0.193",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ogiltig",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kalvkött",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "pensionering",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "underlighet",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "innerlig",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "meh",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "reta",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "delning",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avbruten",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rykte",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "grå starr",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kuggstång",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "grimma",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kall",
+      "intensity": "0.188",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bekymrad",
+      "intensity": "0.184",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sarkasm",
+      "intensity": "0.181",
+      "emotion": "sadness"
+    },
+    {
+      "word": "remsa",
+      "intensity": "0.179",
+      "emotion": "sadness"
+    },
+    {
+      "word": "aktning",
+      "intensity": "0.172",
+      "emotion": "sadness"
+    },
+    {
+      "word": "känsla",
+      "intensity": "0.172",
+      "emotion": "sadness"
+    },
+    {
+      "word": "överbelastning",
+      "intensity": "0.172",
+      "emotion": "sadness"
+    },
+    {
+      "word": "dividerat",
+      "intensity": "0.172",
+      "emotion": "sadness"
+    },
+    {
+      "word": "minnen",
+      "intensity": "0.172",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sav",
+      "intensity": "0.172",
+      "emotion": "sadness"
+    },
+    {
+      "word": "eschew",
+      "intensity": "0.172",
+      "emotion": "sadness"
+    },
+    {
+      "word": "koppning",
+      "intensity": "0.172",
+      "emotion": "sadness"
+    },
+    {
+      "word": "destination",
+      "intensity": "0.170",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ingen snö",
+      "intensity": "0.169",
+      "emotion": "sadness"
+    },
+    {
+      "word": "begränsad",
+      "intensity": "0.167",
+      "emotion": "sadness"
+    },
+    {
+      "word": "regn",
+      "intensity": "0.163",
+      "emotion": "sadness"
+    },
+    {
+      "word": "avsiktlig",
+      "intensity": "0.160",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ofrälse",
+      "intensity": "0.157",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ogräs",
+      "intensity": "0.156",
+      "emotion": "sadness"
+    },
+    {
+      "word": "snålhet",
+      "intensity": "0.156",
+      "emotion": "sadness"
+    },
+    {
+      "word": "korsa",
+      "intensity": "0.156",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fnysa",
+      "intensity": "0.154",
+      "emotion": "sadness"
+    },
+    {
+      "word": "obetydlig",
+      "intensity": "0.152",
+      "emotion": "sadness"
+    },
+    {
+      "word": "procession",
+      "intensity": "0.152",
+      "emotion": "sadness"
+    },
+    {
+      "word": "beskatta",
+      "intensity": "0.142",
+      "emotion": "sadness"
+    },
+    {
+      "word": "lesbisk",
+      "intensity": "0.141",
+      "emotion": "sadness"
+    },
+    {
+      "word": "emo",
+      "intensity": "0.141",
+      "emotion": "sadness"
+    },
+    {
+      "word": "för dyrt",
+      "intensity": "0.141",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tolerera",
+      "intensity": "0.141",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mugg",
+      "intensity": "0.141",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vikt",
+      "intensity": "0.141",
+      "emotion": "sadness"
+    },
+    {
+      "word": "känslig",
+      "intensity": "0.140",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kennel",
+      "intensity": "0.130",
+      "emotion": "sadness"
+    },
+    {
+      "word": "grundad",
+      "intensity": "0.130",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sent",
+      "intensity": "0.125",
+      "emotion": "sadness"
+    },
+    {
+      "word": "teokratisk",
+      "intensity": "0.125",
+      "emotion": "sadness"
+    },
+    {
+      "word": "moln",
+      "intensity": "0.125",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fantastiskt",
+      "intensity": "0.125",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fira",
+      "intensity": "0.125",
+      "emotion": "sadness"
+    },
+    {
+      "word": "stillhet",
+      "intensity": "0.125",
+      "emotion": "sadness"
+    },
+    {
+      "word": "systerskap",
+      "intensity": "0.125",
+      "emotion": "sadness"
+    },
+    {
+      "word": "socialistisk",
+      "intensity": "0.125",
+      "emotion": "sadness"
+    },
+    {
+      "word": "obetald",
+      "intensity": "0.125",
+      "emotion": "sadness"
+    },
+    {
+      "word": "marginal",
+      "intensity": "0.125",
+      "emotion": "sadness"
+    },
+    {
+      "word": "standard",
+      "intensity": "0.121",
+      "emotion": "sadness"
+    },
+    {
+      "word": "spets",
+      "intensity": "0.118",
+      "emotion": "sadness"
+    },
+    {
+      "word": "opublicerad",
+      "intensity": "0.116",
+      "emotion": "sadness"
+    },
+    {
+      "word": "intresserad",
+      "intensity": "0.114",
+      "emotion": "sadness"
+    },
+    {
+      "word": "fästning",
+      "intensity": "0.110",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skinna",
+      "intensity": "0.109",
+      "emotion": "sadness"
+    },
+    {
+      "word": "betyg",
+      "intensity": "0.109",
+      "emotion": "sadness"
+    },
+    {
+      "word": "frodig",
+      "intensity": "0.109",
+      "emotion": "sadness"
+    },
+    {
+      "word": "harry",
+      "intensity": "0.109",
+      "emotion": "sadness"
+    },
+    {
+      "word": "prästadömet",
+      "intensity": "0.109",
+      "emotion": "sadness"
+    },
+    {
+      "word": "orkester",
+      "intensity": "0.109",
+      "emotion": "sadness"
+    },
+    {
+      "word": "slutlig",
+      "intensity": "0.109",
+      "emotion": "sadness"
+    },
+    {
+      "word": "helga",
+      "intensity": "0.108",
+      "emotion": "sadness"
+    },
+    {
+      "word": "inkomst",
+      "intensity": "0.100",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sonett",
+      "intensity": "0.094",
+      "emotion": "sadness"
+    },
+    {
+      "word": "vinnande",
+      "intensity": "0.094",
+      "emotion": "sadness"
+    },
+    {
+      "word": "tyst",
+      "intensity": "0.094",
+      "emotion": "sadness"
+    },
+    {
+      "word": "bua",
+      "intensity": "0.094",
+      "emotion": "sadness"
+    },
+    {
+      "word": "förgäves",
+      "intensity": "0.091",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ödmjuk",
+      "intensity": "0.078",
+      "emotion": "sadness"
+    },
+    {
+      "word": "hydda",
+      "intensity": "0.078",
+      "emotion": "sadness"
+    },
+    {
+      "word": "våt",
+      "intensity": "0.078",
+      "emotion": "sadness"
+    },
+    {
+      "word": "kram",
+      "intensity": "0.078",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ovation",
+      "intensity": "0.078",
+      "emotion": "sadness"
+    },
+    {
+      "word": "motiverande",
+      "intensity": "0.078",
+      "emotion": "sadness"
+    },
+    {
+      "word": "opera",
+      "intensity": "0.078",
+      "emotion": "sadness"
+    },
+    {
+      "word": "behandla",
+      "intensity": "0.076",
+      "emotion": "sadness"
+    },
+    {
+      "word": "psalm",
+      "intensity": "0.064",
+      "emotion": "sadness"
+    },
+    {
+      "word": "ärlig",
+      "intensity": "0.062",
+      "emotion": "sadness"
+    },
+    {
+      "word": "reliker",
+      "intensity": "0.061",
+      "emotion": "sadness"
+    },
+    {
+      "word": "soffa",
+      "intensity": "0.060",
+      "emotion": "sadness"
+    },
+    {
+      "word": "våffla",
+      "intensity": "0.047",
+      "emotion": "sadness"
+    },
+    {
+      "word": "skal",
+      "intensity": "0.045",
+      "emotion": "sadness"
+    },
+    {
+      "word": "musikalisk",
+      "intensity": "0.045",
+      "emotion": "sadness"
+    },
+    {
+      "word": "njuta av",
+      "intensity": "0.034",
+      "emotion": "sadness"
+    },
+    {
+      "word": "rösta",
+      "intensity": "0.031",
+      "emotion": "sadness"
+    },
+    {
+      "word": "servett",
+      "intensity": "0.031",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sjunga",
+      "intensity": "0.017",
+      "emotion": "sadness"
+    },
+    {
+      "word": "musik",
+      "intensity": "0.016",
+      "emotion": "sadness"
+    },
+    {
+      "word": "mor",
+      "intensity": "0.016",
+      "emotion": "sadness"
+    },
+    {
+      "word": "näringsrik",
+      "intensity": "0.015",
+      "emotion": "sadness"
+    },
+    {
+      "word": "härlig",
+      "intensity": "0.009",
+      "emotion": "sadness"
+    },
+    {
+      "word": "konst",
+      "intensity": "0.000",
+      "emotion": "sadness"
+    },
+    {
+      "word": "romantik",
+      "intensity": "0.000",
+      "emotion": "sadness"
+    },
+    {
+      "word": "sprit",
+      "intensity": "0.000",
+      "emotion": "sadness"
+    },
+    {
+      "word": "Älskling",
+      "intensity": "0.000",
+      "emotion": "sadness"
+    }
+  ],
+  "meta": {
+    "title": "Emotionsord – Sorg - Gratis nedladdning",
+    "description": "Svenska ord associerade med sorg, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska). Innehåller 1113 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Emotionsord – Sorg | ListBase",
+    "seo_description": "Ladda ner Emotionsord – Sorg — 1113 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 1113 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

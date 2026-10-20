@@ -1,0 +1,1336 @@
+{
+  "id": "sv-vasternorrland-valdistrikt-2022",
+  "name": "Valdistrikt i Västernorrlands län (val 2022)",
+  "title": "Valdistrikt i Västernorrlands län (val 2022)",
+  "description": "160 valdistrikt i Västernorrlands län (länskod 22) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 160,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "22600201",
+      "valdistrikt_namn": "Ånge",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22600202",
+      "valdistrikt_namn": "Ånge centrum",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22600203",
+      "valdistrikt_namn": "Alby",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22600204",
+      "valdistrikt_namn": "Hallsta",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22600205",
+      "valdistrikt_namn": "Borgsjö-Erikslund",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22600306",
+      "valdistrikt_namn": "Östavall-Byberget-Överturingen",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22600409",
+      "valdistrikt_namn": "Ljungaverk",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22600410",
+      "valdistrikt_namn": "Fränsta",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22600412",
+      "valdistrikt_namn": "Torpshammar-Naggen-Munkbysjön",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22620106",
+      "valdistrikt_namn": "Bergeforsen",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22620107",
+      "valdistrikt_namn": "Sörberge",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22620109",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22620110",
+      "valdistrikt_namn": "Böle",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22620114",
+      "valdistrikt_namn": "Nyvivsta",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22620116",
+      "valdistrikt_namn": "Vivsta",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22620117",
+      "valdistrikt_namn": "Timrådalen",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22620205",
+      "valdistrikt_namn": "Ljustorp",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22620302",
+      "valdistrikt_namn": "Söråker",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22620303",
+      "valdistrikt_namn": "Ala",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22620401",
+      "valdistrikt_namn": "Tynderö",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800101",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800102",
+      "valdistrikt_namn": "Landgren",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800103",
+      "valdistrikt_namn": "Norra Härnön",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800104",
+      "valdistrikt_namn": "Brännan",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800105",
+      "valdistrikt_namn": "Geresta-Gånsvik",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800106",
+      "valdistrikt_namn": "Rotudden-Gådeåstaden",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800107",
+      "valdistrikt_namn": "Änget-Murberget",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800108",
+      "valdistrikt_namn": "Hälletorp-Framnäs-Baldershage",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800109",
+      "valdistrikt_namn": "Kullen-Haga",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800226",
+      "valdistrikt_namn": "Högsjö",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800323",
+      "valdistrikt_namn": "Häggdånger",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800424",
+      "valdistrikt_namn": "Brunne-Viksjö",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800620",
+      "valdistrikt_namn": "Bondsjö-Säbrå",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22800622",
+      "valdistrikt_namn": "Älandsbro",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810106",
+      "valdistrikt_namn": "Inre hamnen",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810107",
+      "valdistrikt_namn": "Södermalm Ö",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810108",
+      "valdistrikt_namn": "Södermalm N",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810109",
+      "valdistrikt_namn": "Södermalm V",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810110",
+      "valdistrikt_namn": "Stenstaden",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810111",
+      "valdistrikt_namn": "Norrliden",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810112",
+      "valdistrikt_namn": "Norrmalm",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810113",
+      "valdistrikt_namn": "Västermalm N",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810114",
+      "valdistrikt_namn": "Västermalm S",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810115",
+      "valdistrikt_namn": "Sallyhill",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810116",
+      "valdistrikt_namn": "Nacksta Ö",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810118",
+      "valdistrikt_namn": "Nacksta V",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810119",
+      "valdistrikt_namn": "Sidsjö-Böle",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810201",
+      "valdistrikt_namn": "Kubikenborg",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810203",
+      "valdistrikt_namn": "Skönsmon",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810204",
+      "valdistrikt_namn": "Östermalm",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810330",
+      "valdistrikt_namn": "Haga N",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810331",
+      "valdistrikt_namn": "Haga S",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810333",
+      "valdistrikt_namn": "Heffners",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810334",
+      "valdistrikt_namn": "Skönsberg",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810335",
+      "valdistrikt_namn": "Korsta",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810336",
+      "valdistrikt_namn": "Bydalen",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810337",
+      "valdistrikt_namn": "Bosvedjan",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810338",
+      "valdistrikt_namn": "Bosvedjan C",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810339",
+      "valdistrikt_namn": "Ljustadalen-Johannedal",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810340",
+      "valdistrikt_namn": "Birsta",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810341",
+      "valdistrikt_namn": "Finsta",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810420",
+      "valdistrikt_namn": "Alnö S",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810421",
+      "valdistrikt_namn": "Alnö-Vi S",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810422",
+      "valdistrikt_namn": "Alnö-Vi N",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810423",
+      "valdistrikt_namn": "Alnö N",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810424",
+      "valdistrikt_namn": "Alnö Ö",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810545",
+      "valdistrikt_namn": "Sättna",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810624",
+      "valdistrikt_namn": "Granloholm Ö",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810625",
+      "valdistrikt_namn": "Bergsåker V",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810626",
+      "valdistrikt_namn": "Bergsåker Ö",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810627",
+      "valdistrikt_namn": "Granlo S",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810628",
+      "valdistrikt_namn": "Granlo N",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810646",
+      "valdistrikt_namn": "Granloholm mellersta",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810647",
+      "valdistrikt_namn": "Granloholm V",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810701",
+      "valdistrikt_namn": "Stöde N",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810702",
+      "valdistrikt_namn": "Stöde S",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810802",
+      "valdistrikt_namn": "Vattjom-Ängom",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810803",
+      "valdistrikt_namn": "Tuna V",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810804",
+      "valdistrikt_namn": "Allsta",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810805",
+      "valdistrikt_namn": "Matfors",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22810901",
+      "valdistrikt_namn": "Attmar",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22811002",
+      "valdistrikt_namn": "Njurunda S",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22811003",
+      "valdistrikt_namn": "Nolby",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22811004",
+      "valdistrikt_namn": "Skottsund",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22811006",
+      "valdistrikt_namn": "Svartvik",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22811007",
+      "valdistrikt_namn": "Njurundabommen",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22811008",
+      "valdistrikt_namn": "Kvissleby",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22811009",
+      "valdistrikt_namn": "Bredsand",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22811010",
+      "valdistrikt_namn": "Essvik",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22811103",
+      "valdistrikt_namn": "Indal",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22811301",
+      "valdistrikt_namn": "Liden-Holm",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22820101",
+      "valdistrikt_namn": "Björsta",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22820102",
+      "valdistrikt_namn": "Gumås",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22820103",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22820105",
+      "valdistrikt_namn": "Frånö-Lunde",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22820109",
+      "valdistrikt_namn": "Östby",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22820211",
+      "valdistrikt_namn": "Nora-Skog",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22820415",
+      "valdistrikt_namn": "Nordingrå",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22820517",
+      "valdistrikt_namn": "Docksta",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22820618",
+      "valdistrikt_namn": "Ullånger",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22820719",
+      "valdistrikt_namn": "Bjärtrå",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22821125",
+      "valdistrikt_namn": "Bollsta",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22821128",
+      "valdistrikt_namn": "Blästa",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22821129",
+      "valdistrikt_namn": "Nyland",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830111",
+      "valdistrikt_namn": "Skärvsta",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830112",
+      "valdistrikt_namn": "Trästa",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830113",
+      "valdistrikt_namn": "Hullsta",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830114",
+      "valdistrikt_namn": "Önsta",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830115",
+      "valdistrikt_namn": "Remsle",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830116",
+      "valdistrikt_namn": "Prästbordet",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830308",
+      "valdistrikt_namn": "Graninge",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830406",
+      "valdistrikt_namn": "Österforse",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830407",
+      "valdistrikt_namn": "Långsele",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830505",
+      "valdistrikt_namn": "Ed",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830604",
+      "valdistrikt_namn": "Resele",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830709",
+      "valdistrikt_namn": "Helgum",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830803",
+      "valdistrikt_namn": "Ådalsliden",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22830901",
+      "valdistrikt_namn": "Junsele",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22831121",
+      "valdistrikt_namn": "Boteå",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22831424",
+      "valdistrikt_namn": "Edsele",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22831525",
+      "valdistrikt_namn": "Ramsele",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840101",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840102",
+      "valdistrikt_namn": "Östra",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840103",
+      "valdistrikt_namn": "Övre",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840105",
+      "valdistrikt_namn": "Sjukhuset",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840106",
+      "valdistrikt_namn": "Åsdalen",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840107",
+      "valdistrikt_namn": "Skyttis",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840108",
+      "valdistrikt_namn": "Valhalla",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840201",
+      "valdistrikt_namn": "Arnäsvall",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840202",
+      "valdistrikt_namn": "Bonäset",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840205",
+      "valdistrikt_namn": "Gimåt-Högland",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840206",
+      "valdistrikt_namn": "Järved",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840207",
+      "valdistrikt_namn": "Svartby-Brösta",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840208",
+      "valdistrikt_namn": "Ovansjö",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840401",
+      "valdistrikt_namn": "Mellansel",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840402",
+      "valdistrikt_namn": "Bredbyn-Sörflärke",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840403",
+      "valdistrikt_namn": "Norrflärke-Solberg",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840501",
+      "valdistrikt_namn": "Sidensjö Skorped",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840701",
+      "valdistrikt_namn": "Bjästa",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840702",
+      "valdistrikt_namn": "Nätra-Landsbygd",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840704",
+      "valdistrikt_namn": "Köpmanholmen",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840801",
+      "valdistrikt_namn": "Billsta",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840802",
+      "valdistrikt_namn": "Domsjö Södra",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840803",
+      "valdistrikt_namn": "Domsjö Västra",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840804",
+      "valdistrikt_namn": "Gene",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840806",
+      "valdistrikt_namn": "Haffsta",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840807",
+      "valdistrikt_namn": "Hörnett",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840809",
+      "valdistrikt_namn": "Kroksta",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840812",
+      "valdistrikt_namn": "Norrlungånger",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840813",
+      "valdistrikt_namn": "Prästbordet",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840814",
+      "valdistrikt_namn": "Sund",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840815",
+      "valdistrikt_namn": "Gullänget",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840818",
+      "valdistrikt_namn": "Översjäla",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22840901",
+      "valdistrikt_namn": "Mo",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22841001",
+      "valdistrikt_namn": "Grundsunda S",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22841002",
+      "valdistrikt_namn": "Grundsunda N",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22841003",
+      "valdistrikt_namn": "Husum",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22841101",
+      "valdistrikt_namn": "Gideå",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22841201",
+      "valdistrikt_namn": "Björna S",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    },
+    {
+      "valdistrikt_kod": "22841202",
+      "valdistrikt_namn": "Björna Norra-Trehörningsjö",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22",
+      "lan_namn": "Västernorrlands län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Västernorrlands län (val 2022) - Gratis nedladdning",
+    "description": "160 valdistrikt i Västernorrlands län (länskod 22) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 160 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Västernorrlands län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Västernorrlands län (val 2022) — 160 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 160 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "sv-mattenheter-speed",
+  "name": "Måttenheter – kategori 'speed' (6)",
+  "title": "Måttenheter – kategori 'speed' (6)",
+  "description": "Måttenheter i kategorin 'speed' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "speed-beaufort",
+      "kategori": "speed",
+      "namn": "Beaufort",
+      "forkortning": "Bft",
+      "smal_form": "Bft",
+      "monster": "Beaufort {0}"
+    },
+    {
+      "id": 2,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategori": "speed",
+      "namn": "kilometer per timme",
+      "forkortning": "km/h",
+      "smal_form": "km/h",
+      "monster": "{0} kilometer per timme"
+    },
+    {
+      "id": 3,
+      "unit_code": "speed-knot",
+      "kategori": "speed",
+      "namn": "knop",
+      "forkortning": "knop",
+      "smal_form": "knop",
+      "monster": "{0} knop"
+    },
+    {
+      "id": 4,
+      "unit_code": "speed-light-speed",
+      "kategori": "speed",
+      "namn": "ljus",
+      "forkortning": "ljus",
+      "smal_form": "ljs",
+      "monster": "{0} ljus"
+    },
+    {
+      "id": 5,
+      "unit_code": "speed-meter-per-second",
+      "kategori": "speed",
+      "namn": "meter per sekund",
+      "forkortning": "m/s",
+      "smal_form": "m/s",
+      "monster": "{0} meter per sekund"
+    },
+    {
+      "id": 6,
+      "unit_code": "speed-mile-per-hour",
+      "kategori": "speed",
+      "namn": "mile per timme",
+      "forkortning": "mile/timme",
+      "smal_form": "mile/h",
+      "monster": "{0} mile per timme"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'speed' (6) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'speed' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 6 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'speed' (6) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'speed' (6) — 6 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 6 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

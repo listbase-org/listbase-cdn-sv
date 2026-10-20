@@ -1,0 +1,556 @@
+{
+  "id": "sv-sprakvarianter",
+  "name": "Språkvarianter – namn på svenska (CLDR)",
+  "title": "Språkvarianter – namn på svenska (CLDR)",
+  "description": "BCP-47-koder för språkvarianter och deras namn på svenska från den svenska (sv) språkinställningen i CLDR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 103,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "1901",
+      "namn": "traditionell tysk stavning"
+    },
+    {
+      "id": 2,
+      "code": "1994",
+      "namn": "1994 års resisk stavning"
+    },
+    {
+      "id": 3,
+      "code": "1996",
+      "namn": "1996 års reformerad tysk stavning"
+    },
+    {
+      "id": 4,
+      "code": "1606NICT",
+      "namn": "1606 års stavning"
+    },
+    {
+      "id": 5,
+      "code": "1694ACAD",
+      "namn": "1694 års stavning"
+    },
+    {
+      "id": 6,
+      "code": "1959ACAD",
+      "namn": "1959 års stavning"
+    },
+    {
+      "id": 7,
+      "code": "ABL1943",
+      "namn": "1943 års stavning"
+    },
+    {
+      "id": 8,
+      "code": "AKUAPEM",
+      "namn": "akapuem (twi)"
+    },
+    {
+      "id": 9,
+      "code": "ALALC97",
+      "namn": "1997 års ALA-LC"
+    },
+    {
+      "id": 10,
+      "code": "ALUKU",
+      "namn": "Aluku-dialekt"
+    },
+    {
+      "id": 11,
+      "code": "AO1990",
+      "namn": "stavning enligt 1990 års överenskommelse"
+    },
+    {
+      "id": 12,
+      "code": "ARANES",
+      "namn": "aranesiska (occitanska)"
+    },
+    {
+      "id": 13,
+      "code": "AREVELA",
+      "namn": "östarmeniska"
+    },
+    {
+      "id": 14,
+      "code": "AREVMDA",
+      "namn": "västarmeniska"
+    },
+    {
+      "id": 15,
+      "code": "ASANTE",
+      "namn": "asante (twi)"
+    },
+    {
+      "id": 16,
+      "code": "AUVERN",
+      "namn": "auvergniska (occitanska)"
+    },
+    {
+      "id": 17,
+      "code": "BAKU1926",
+      "namn": "1926 års stavning"
+    },
+    {
+      "id": 18,
+      "code": "BALANKA",
+      "namn": "balanka-dialekt"
+    },
+    {
+      "id": 19,
+      "code": "BARLA",
+      "namn": "barlavento-dialekt"
+    },
+    {
+      "id": 20,
+      "code": "BASICENG",
+      "namn": "Ogdens basic english"
+    },
+    {
+      "id": 21,
+      "code": "BAUDDHA",
+      "namn": "bauddha-dialekt"
+    },
+    {
+      "id": 22,
+      "code": "BISCAYAN",
+      "namn": "Biscaya-dialekt"
+    },
+    {
+      "id": 23,
+      "code": "BISKE",
+      "namn": "Bila-dialekt"
+    },
+    {
+      "id": 24,
+      "code": "BOHORIC",
+      "namn": "Bohorič-alfabetet"
+    },
+    {
+      "id": 25,
+      "code": "BOONT",
+      "namn": "boontling"
+    },
+    {
+      "id": 26,
+      "code": "BORNHOLM",
+      "namn": "Bornholm"
+    },
+    {
+      "id": 27,
+      "code": "CISAUP",
+      "namn": "cisalpinska (occitanska)"
+    },
+    {
+      "id": 28,
+      "code": "COLB1945",
+      "namn": "stavning enligt 1945 års konvention mellan Portugal och Brasilien"
+    },
+    {
+      "id": 29,
+      "code": "CORNU",
+      "namn": "kornisk engelska"
+    },
+    {
+      "id": 30,
+      "code": "CREISS",
+      "namn": "croissant-occitanska"
+    },
+    {
+      "id": 31,
+      "code": "DAJNKO",
+      "namn": "Dajnko-alfabetet"
+    },
+    {
+      "id": 32,
+      "code": "EKAVSK",
+      "namn": "ekavisk dialekt"
+    },
+    {
+      "id": 33,
+      "code": "EMODENG",
+      "namn": "tidig modern engelska"
+    },
+    {
+      "id": 34,
+      "code": "FONIPA",
+      "namn": "internationell fonetisk notation - IPA"
+    },
+    {
+      "id": 35,
+      "code": "FONKIRSH",
+      "namn": "Kirshenbaums fonetiska alfabet"
+    },
+    {
+      "id": 36,
+      "code": "FONNAPA",
+      "namn": "nordamerikanskt fonetiskt alfabet"
+    },
+    {
+      "id": 37,
+      "code": "FONUPA",
+      "namn": "uralisk fonetisk notation"
+    },
+    {
+      "id": 38,
+      "code": "FONXSAMP",
+      "namn": "X-SAMPA fonetisk notation"
+    },
+    {
+      "id": 39,
+      "code": "GASCON",
+      "namn": "Gascogne-occitanska"
+    },
+    {
+      "id": 40,
+      "code": "GRCLASS",
+      "namn": "klassisk occitanska"
+    },
+    {
+      "id": 41,
+      "code": "GRITAL",
+      "namn": "italiensk-inspirerad occitanska"
+    },
+    {
+      "id": 42,
+      "code": "GRMISTR",
+      "namn": "Mistral-occitanska"
+    },
+    {
+      "id": 43,
+      "code": "HEPBURN",
+      "namn": "Hepburn"
+    },
+    {
+      "id": 44,
+      "code": "HOGNORSK",
+      "namn": "högnorsk dialekt"
+    },
+    {
+      "id": 45,
+      "code": "HSISTEMO",
+      "namn": "h-system"
+    },
+    {
+      "id": 46,
+      "code": "IJEKAVSK",
+      "namn": "ijekavisk dialekt"
+    },
+    {
+      "id": 47,
+      "code": "ITIHASA",
+      "namn": "itihasa-dialekt"
+    },
+    {
+      "id": 48,
+      "code": "IVANCHOV",
+      "namn": "bulgariska i 1899 års stavning"
+    },
+    {
+      "id": 49,
+      "code": "JAUER",
+      "namn": "jauer-dialekt"
+    },
+    {
+      "id": 50,
+      "code": "JYUTPING",
+      "namn": "jyutping"
+    },
+    {
+      "id": 51,
+      "code": "KKCOR",
+      "namn": "vanlig stavning"
+    },
+    {
+      "id": 52,
+      "code": "KOCIEWIE",
+      "namn": "kociewiska"
+    },
+    {
+      "id": 53,
+      "code": "KSCOR",
+      "namn": "standardstavning"
+    },
+    {
+      "id": 54,
+      "code": "LAUKIKA",
+      "namn": "laukika-dialekt"
+    },
+    {
+      "id": 55,
+      "code": "LEMOSIN",
+      "namn": "Limousin-occitanska"
+    },
+    {
+      "id": 56,
+      "code": "LENGADOC",
+      "namn": "languedociska"
+    },
+    {
+      "id": 57,
+      "code": "LIPAW",
+      "namn": "Lipovaz-dialekt"
+    },
+    {
+      "id": 58,
+      "code": "LUNA1918",
+      "namn": "1918 års stavning"
+    },
+    {
+      "id": 59,
+      "code": "METELKO",
+      "namn": "Metelko-alfabetet"
+    },
+    {
+      "id": 60,
+      "code": "MONOTON",
+      "namn": "monotonisk stavning"
+    },
+    {
+      "id": 61,
+      "code": "NDYUKA",
+      "namn": "Ndyuka-dialekt"
+    },
+    {
+      "id": 62,
+      "code": "NEDIS",
+      "namn": "natisonsk dialekt"
+    },
+    {
+      "id": 63,
+      "code": "NEWFOUND",
+      "namn": "Newfoundland-engelska"
+    },
+    {
+      "id": 64,
+      "code": "NICARD",
+      "namn": "Nice-occitanska"
+    },
+    {
+      "id": 65,
+      "code": "NJIVA",
+      "namn": "Njiva-dialekt"
+    },
+    {
+      "id": 66,
+      "code": "NULIK",
+      "namn": "nulik-stavning"
+    },
+    {
+      "id": 67,
+      "code": "OSOJS",
+      "namn": "Osojane-dialekt"
+    },
+    {
+      "id": 68,
+      "code": "OXENDICT",
+      "namn": "Oxford-stavning"
+    },
+    {
+      "id": 69,
+      "code": "PAHAWH2",
+      "namn": "pahawh hmong andra steget reducerad stavning"
+    },
+    {
+      "id": 70,
+      "code": "PAHAWH3",
+      "namn": "pahawh hmong tredje steget reducerad stavning"
+    },
+    {
+      "id": 71,
+      "code": "PAHAWH4",
+      "namn": "pahawh hmong sista steget reducerad stavning"
+    },
+    {
+      "id": 72,
+      "code": "PAMAKA",
+      "namn": "Pamaka-dialekt"
+    },
+    {
+      "id": 73,
+      "code": "PETR1708",
+      "namn": "1708 års stavning"
+    },
+    {
+      "id": 74,
+      "code": "PINYIN",
+      "namn": "pinyin"
+    },
+    {
+      "id": 75,
+      "code": "POLYTON",
+      "namn": "polytonisk stavning"
+    },
+    {
+      "id": 76,
+      "code": "POSIX",
+      "namn": "Posix"
+    },
+    {
+      "id": 77,
+      "code": "PROVENC",
+      "namn": "provensalska"
+    },
+    {
+      "id": 78,
+      "code": "PUTER",
+      "namn": "puter-dialekt"
+    },
+    {
+      "id": 79,
+      "code": "REVISED",
+      "namn": "reformerad stavning"
+    },
+    {
+      "id": 80,
+      "code": "RIGIK",
+      "namn": "klassisk volapük"
+    },
+    {
+      "id": 81,
+      "code": "ROZAJ",
+      "namn": "resisk dialekt"
+    },
+    {
+      "id": 82,
+      "code": "RUMGR",
+      "namn": "grischun-dialekt"
+    },
+    {
+      "id": 83,
+      "code": "SAAHO",
+      "namn": "saho-dialekt"
+    },
+    {
+      "id": 84,
+      "code": "SCOTLAND",
+      "namn": "skotsk engelska"
+    },
+    {
+      "id": 85,
+      "code": "SCOUSE",
+      "namn": "scouse"
+    },
+    {
+      "id": 86,
+      "code": "SIMPLE",
+      "namn": "lätt"
+    },
+    {
+      "id": 87,
+      "code": "SOLBA",
+      "namn": "Solbica-dialekt"
+    },
+    {
+      "id": 88,
+      "code": "SOTAV",
+      "namn": "sotavento-dialekt"
+    },
+    {
+      "id": 89,
+      "code": "SPANGLIS",
+      "namn": "spangelska"
+    },
+    {
+      "id": 90,
+      "code": "SURMIRAN",
+      "namn": "surmiran-dialekt"
+    },
+    {
+      "id": 91,
+      "code": "SURSILV",
+      "namn": "sursilvan-dialekt"
+    },
+    {
+      "id": 92,
+      "code": "SUTSILV",
+      "namn": "sutsilvan-dialekt"
+    },
+    {
+      "id": 93,
+      "code": "TARASK",
+      "namn": "Taraskievika-stavning"
+    },
+    {
+      "id": 94,
+      "code": "UCCOR",
+      "namn": "unifierad stavning"
+    },
+    {
+      "id": 95,
+      "code": "UCRCOR",
+      "namn": "reviderad unifierad stavning"
+    },
+    {
+      "id": 96,
+      "code": "ULSTER",
+      "namn": "Ulster-dialekt"
+    },
+    {
+      "id": 97,
+      "code": "UNIFON",
+      "namn": "unifon-skrift"
+    },
+    {
+      "id": 98,
+      "code": "VAIDIKA",
+      "namn": "vedisk dialekt"
+    },
+    {
+      "id": 99,
+      "code": "VALENCIA",
+      "namn": "valensisk dialekt"
+    },
+    {
+      "id": 100,
+      "code": "VALLADER",
+      "namn": "vallader-dialekt"
+    },
+    {
+      "id": 101,
+      "code": "VIVARAUP",
+      "namn": "vivaroalpinska (occitanska)"
+    },
+    {
+      "id": 102,
+      "code": "WADEGILE",
+      "namn": "Wade-Giles"
+    },
+    {
+      "id": 103,
+      "code": "XSISTEMO",
+      "namn": "x-system"
+    }
+  ],
+  "meta": {
+    "title": "Språkvarianter – namn på svenska (CLDR) - Gratis nedladdning",
+    "description": "BCP-47-koder för språkvarianter och deras namn på svenska från den svenska (sv) språkinställningen i CLDR. Innehåller 103 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Språkvarianter – namn på svenska (CLDR) | ListBase",
+    "seo_description": "Ladda ner Språkvarianter – namn på svenska (CLDR) — 103 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 103 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

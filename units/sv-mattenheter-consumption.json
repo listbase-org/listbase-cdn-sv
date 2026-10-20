@@ -1,0 +1,97 @@
+{
+  "id": "sv-mattenheter-consumption",
+  "name": "Måttenheter – kategori 'consumption' (4)",
+  "title": "Måttenheter – kategori 'consumption' (4)",
+  "description": "Måttenheter i kategorin 'consumption' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategori": "consumption",
+      "namn": "liter per 100 kilometer",
+      "forkortning": "l/100 km",
+      "smal_form": "l/100 km",
+      "monster": "{0} liter per 100 kilometer"
+    },
+    {
+      "id": 2,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategori": "consumption",
+      "namn": "liter per kilometer",
+      "forkortning": "liter/km",
+      "smal_form": "l/km",
+      "monster": "{0} liter per kilometer"
+    },
+    {
+      "id": 3,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategori": "consumption",
+      "namn": "miles per gallon",
+      "forkortning": "mpg",
+      "smal_form": "mpg",
+      "monster": "{0} miles per gallon"
+    },
+    {
+      "id": 4,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategori": "consumption",
+      "namn": "UK mpg",
+      "forkortning": "UK mpg",
+      "smal_form": "UK mpg",
+      "monster": "{0} UK mil/gn"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'consumption' (4) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'consumption' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 4 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'consumption' (4) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'consumption' (4) — 4 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 4 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

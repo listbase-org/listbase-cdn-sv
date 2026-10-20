@@ -1,0 +1,849 @@
+{
+  "id": "sv-norrbotten-regso",
+  "name": "RegSO-områden i Norrbottens län",
+  "title": "RegSO-områden i Norrbottens län",
+  "description": "114 regionala statistikområden (RegSO) i Norrbottens län (länskod 25). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "2505R001",
+      "regso_namn": "Arvidsjaur centrala",
+      "kommun_kod": "2505",
+      "kommun_namn": "Arvidsjaur",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2505R002",
+      "regso_namn": "Arvidsjaur omland",
+      "kommun_kod": "2505",
+      "kommun_namn": "Arvidsjaur",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2505R003",
+      "regso_namn": "Arvidsjaur västra",
+      "kommun_kod": "2505",
+      "kommun_namn": "Arvidsjaur",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2505R004",
+      "regso_namn": "Arvidsjaur östra",
+      "kommun_kod": "2505",
+      "kommun_namn": "Arvidsjaur",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2506R001",
+      "regso_namn": "Arjeplog glesbygd",
+      "kommun_kod": "2506",
+      "kommun_namn": "Arjeplog",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2506R002",
+      "regso_namn": "Arjeplog tätort",
+      "kommun_kod": "2506",
+      "kommun_namn": "Arjeplog",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2510R001",
+      "regso_namn": "Jokkmokk centralort västra",
+      "kommun_kod": "2510",
+      "kommun_namn": "Jokkmokk",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2510R002",
+      "regso_namn": "Jokkmokk centralort östra",
+      "kommun_kod": "2510",
+      "kommun_namn": "Jokkmokk",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2510R003",
+      "regso_namn": "Jokkmokk västra omland",
+      "kommun_kod": "2510",
+      "kommun_namn": "Jokkmokk",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2510R004",
+      "regso_namn": "Jokkmokk östra omland",
+      "kommun_kod": "2510",
+      "kommun_namn": "Jokkmokk",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2513R001",
+      "regso_namn": "Överkalix omland",
+      "kommun_kod": "2513",
+      "kommun_namn": "Överkalix",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2513R002",
+      "regso_namn": "Överkalix tätort",
+      "kommun_kod": "2513",
+      "kommun_namn": "Överkalix",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2514R001",
+      "regso_namn": "Innanbäcken-Grytnäs",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2514R002",
+      "regso_namn": "Kalix kustbyar",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2514R003",
+      "regso_namn": "Kalix västra",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2514R004",
+      "regso_namn": "Kalix östra",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2514R005",
+      "regso_namn": "Kalix övre bygd",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2514R006",
+      "regso_namn": "Risön-Sangis",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2514R007",
+      "regso_namn": "Töre",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2518R001",
+      "regso_namn": "Övertorneå centralort",
+      "kommun_kod": "2518",
+      "kommun_namn": "Övertorneå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2518R002",
+      "regso_namn": "Övertorneå-Centrala",
+      "kommun_kod": "2518",
+      "kommun_namn": "Övertorneå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2518R003",
+      "regso_namn": "Övertorneå-Norra",
+      "kommun_kod": "2518",
+      "kommun_namn": "Övertorneå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2518R004",
+      "regso_namn": "Övertorneå-Södra",
+      "kommun_kod": "2518",
+      "kommun_namn": "Övertorneå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2521R001",
+      "regso_namn": "Pajala centralort",
+      "kommun_kod": "2521",
+      "kommun_namn": "Pajala",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2521R002",
+      "regso_namn": "Pajala omland",
+      "kommun_kod": "2521",
+      "kommun_namn": "Pajala",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2523R001",
+      "regso_namn": "Andra sidan",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2523R002",
+      "regso_namn": "Gällivare centrum",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2523R003",
+      "regso_namn": "Gällivare norra",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2523R004",
+      "regso_namn": "Gällivare södra",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2523R005",
+      "regso_namn": "Gällivare väst",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2523R006",
+      "regso_namn": "Gällivare öst",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2523R007",
+      "regso_namn": "Gällivare östra omland",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2523R008",
+      "regso_namn": "Koskullskulle",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2523R009",
+      "regso_namn": "Malmberget-Mosebacke",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2523R010",
+      "regso_namn": "Vassara Älv",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2560R001",
+      "regso_namn": "Älvsbyn norra",
+      "kommun_kod": "2560",
+      "kommun_namn": "Älvsbyn",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2560R002",
+      "regso_namn": "Älvsbyn omland",
+      "kommun_kod": "2560",
+      "kommun_namn": "Älvsbyn",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2560R003",
+      "regso_namn": "Älvsbyn västra",
+      "kommun_kod": "2560",
+      "kommun_namn": "Älvsbyn",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2560R004",
+      "regso_namn": "Älvsbyn östra",
+      "kommun_kod": "2560",
+      "kommun_namn": "Älvsbyn",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R001",
+      "regso_namn": "Antnäs",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R002",
+      "regso_namn": "Antnäs omland",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R003",
+      "regso_namn": "Bergnäset-Bergstaden",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R004",
+      "regso_namn": "Bergnäset-Trollstaden",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R005",
+      "regso_namn": "Bergviken",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R006",
+      "regso_namn": "Björkskatan-Hällbacken",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R007",
+      "regso_namn": "Gammelstad",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R008",
+      "regso_namn": "Gammelstad-Ektjärn",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R009",
+      "regso_namn": "Hertsön",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R010",
+      "regso_namn": "Kallax-Gäddvik-Hertsölandet",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R011",
+      "regso_namn": "Kallkällan",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R012",
+      "regso_namn": "Kronan",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R013",
+      "regso_namn": "Lerbäcken-Bredviken",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R014",
+      "regso_namn": "Luleå centrum",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R015",
+      "regso_namn": "Lulsundet",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R016",
+      "regso_namn": "Lövskatan-Svartöstaden",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R017",
+      "regso_namn": "Mjölkudden-Munkeberg",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R018",
+      "regso_namn": "Mjölkudden-Notviken-Karlsvik",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R019",
+      "regso_namn": "Måttsund",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R020",
+      "regso_namn": "Persön-Persön omland",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R021",
+      "regso_namn": "Porsön-Berget-Stranden",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R022",
+      "regso_namn": "Porsön-Porsögården",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R023",
+      "regso_namn": "Porsön-Udden",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R024",
+      "regso_namn": "Råneå",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R025",
+      "regso_namn": "Råneå omland",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R026",
+      "regso_namn": "Skurholmen-Malmudden",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R027",
+      "regso_namn": "Sunderbyn",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R028",
+      "regso_namn": "Tuna",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2580R029",
+      "regso_namn": "Örnäset",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R001",
+      "regso_namn": "Annelund-Backen",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R002",
+      "regso_namn": "Bergsviken",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R003",
+      "regso_namn": "Djupviken-Fårön södra-Berget",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R004",
+      "regso_namn": "Hortlax-Hemlunda-Hemmingsmark",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R005",
+      "regso_namn": "Klubbgärdet-Munksund-Skuthamn",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R006",
+      "regso_namn": "Markbygden-Sikfors-Sjulsmark",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R007",
+      "regso_namn": "Norrfjärden",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R008",
+      "regso_namn": "Pite älvdal-Infjärden-Blåsmark",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R009",
+      "regso_namn": "Piteå centrum",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R010",
+      "regso_namn": "Piteå kustnära områden",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R011",
+      "regso_namn": "Rosvik",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R012",
+      "regso_namn": "Svartudden-Strömnäs-Pitholm norra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2581R013",
+      "regso_namn": "Öjebyn",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R001",
+      "regso_namn": "Björkelund-Svartbjörnsbyn",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R002",
+      "regso_namn": "Boden Central",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R003",
+      "regso_namn": "Boden sydvästra landsbygd-Bredåker",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R004",
+      "regso_namn": "Bodsvedjan-Lejonbacken-Bodforsen",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R005",
+      "regso_namn": "Bodträskfors-Harads-Sandträsk",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R006",
+      "regso_namn": "Buddbyn-Syden-Skogså-Gunnarsbyn",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R007",
+      "regso_namn": "Lundagård-Sveafältet",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R008",
+      "regso_namn": "Norra Svartbyn-Fagernäs-Erikslund",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R009",
+      "regso_namn": "Prästholmen",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R010",
+      "regso_namn": "Sanden-Torpgärdan",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R011",
+      "regso_namn": "Sävast-Sävastön-Gamla Sävast",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R012",
+      "regso_namn": "Södra Svartbyn-Gruvberget",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2582R013",
+      "regso_namn": "Trångfors-Heden-Vittjärv-Hamptjärnmoran",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2583R001",
+      "regso_namn": "Haparanda norra landsbygden",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2583R002",
+      "regso_namn": "Haparanda stad centrala",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2583R003",
+      "regso_namn": "Haparanda stad norra",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2583R004",
+      "regso_namn": "Haparanda stad södra",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2583R005",
+      "regso_namn": "Haparanda södra landsbygden",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R001",
+      "regso_namn": "Bolaget",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R002",
+      "regso_namn": "Högalid",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R003",
+      "regso_namn": "Jukkasjärvi",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R004",
+      "regso_namn": "Kiruna nordost",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R005",
+      "regso_namn": "Kiruna sydost",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R006",
+      "regso_namn": "Kiruna väst",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R007",
+      "regso_namn": "Lombolo mellersta",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R008",
+      "regso_namn": "Lombolo västra",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R009",
+      "regso_namn": "Lombolo östra",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R010",
+      "regso_namn": "Luossavaara",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R011",
+      "regso_namn": "Nya Kiruna centrum-Tuolluvaara",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R012",
+      "regso_namn": "Sandstensberget",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R013",
+      "regso_namn": "Triangeln",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R014",
+      "regso_namn": "Östermalm",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    },
+    {
+      "regso_kod": "2584R015",
+      "regso_namn": "Övre Norrmalm",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Norrbottens län - Gratis nedladdning",
+    "description": "114 regionala statistikområden (RegSO) i Norrbottens län (länskod 25). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 114 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Norrbottens län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Norrbottens län — 114 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 114 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "id": "sv-mattenheter-length",
+  "name": "Måttenheter – kategori 'length' (31)",
+  "title": "Måttenheter – kategori 'length' (31)",
+  "description": "Måttenheter i kategorin 'length' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "length-astronomical-unit",
+      "kategori": "length",
+      "namn": "astronomiska enheter",
+      "forkortning": "AE",
+      "smal_form": "AE",
+      "monster": "{0} astronomiska enheter"
+    },
+    {
+      "id": 2,
+      "unit_code": "length-centimeter",
+      "kategori": "length",
+      "namn": "centimeter",
+      "forkortning": "cm",
+      "smal_form": "cm",
+      "monster": "{0} centimeter"
+    },
+    {
+      "id": 3,
+      "unit_code": "length-chain",
+      "kategori": "length",
+      "namn": "chain",
+      "forkortning": "chain",
+      "smal_form": "chain",
+      "monster": "{0} chain"
+    },
+    {
+      "id": 4,
+      "unit_code": "length-decimeter",
+      "kategori": "length",
+      "namn": "decimeter",
+      "forkortning": "dm",
+      "smal_form": "dm",
+      "monster": "{0} decimeter"
+    },
+    {
+      "id": 5,
+      "unit_code": "length-earth-radius",
+      "kategori": "length",
+      "namn": "jordradie",
+      "forkortning": "R⊕",
+      "smal_form": "R⊕",
+      "monster": "{0} jordradie"
+    },
+    {
+      "id": 6,
+      "unit_code": "length-fathom",
+      "kategori": "length",
+      "namn": "famnar",
+      "forkortning": "famnar",
+      "smal_form": "famnar",
+      "monster": "{0} famnar"
+    },
+    {
+      "id": 7,
+      "unit_code": "length-foot",
+      "kategori": "length",
+      "namn": "fot",
+      "forkortning": "fot",
+      "smal_form": "fot",
+      "monster": "{0} fot"
+    },
+    {
+      "id": 8,
+      "unit_code": "length-furlong",
+      "kategori": "length",
+      "namn": "engelska plogfårelängder",
+      "forkortning": "eng. plogfårelgd",
+      "smal_form": "eng. plogfårelgd",
+      "monster": "{0} engelska plogfårelängder"
+    },
+    {
+      "id": 9,
+      "unit_code": "length-inch",
+      "kategori": "length",
+      "namn": "tum",
+      "forkortning": "tum",
+      "smal_form": "tum",
+      "monster": "{0} tum"
+    },
+    {
+      "id": 10,
+      "unit_code": "length-jo-jp",
+      "kategori": "length",
+      "namn": "jo [JP]",
+      "forkortning": "jo [JP]",
+      "smal_form": "jo [JP]",
+      "monster": "{0} jo [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "length-ken",
+      "kategori": "length",
+      "namn": "ken [JP]",
+      "forkortning": "ken [JP]",
+      "smal_form": "ken [JP]",
+      "monster": "{0} ken [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "length-kilometer",
+      "kategori": "length",
+      "namn": "kilometer",
+      "forkortning": "km",
+      "smal_form": "km",
+      "monster": "{0} kilometer"
+    },
+    {
+      "id": 13,
+      "unit_code": "length-light-year",
+      "kategori": "length",
+      "namn": "ljusår",
+      "forkortning": "ljusår",
+      "smal_form": "ljusår",
+      "monster": "{0} ljusår"
+    },
+    {
+      "id": 14,
+      "unit_code": "length-meter",
+      "kategori": "length",
+      "namn": "meter",
+      "forkortning": "m",
+      "smal_form": "m",
+      "monster": "{0} meter"
+    },
+    {
+      "id": 15,
+      "unit_code": "length-micrometer",
+      "kategori": "length",
+      "namn": "mikrometer",
+      "forkortning": "μm",
+      "smal_form": "μm",
+      "monster": "{0} mikrometer"
+    },
+    {
+      "id": 16,
+      "unit_code": "length-mile",
+      "kategori": "length",
+      "namn": "mile",
+      "forkortning": "mile",
+      "smal_form": "mi",
+      "monster": "{0} mile"
+    },
+    {
+      "id": 17,
+      "unit_code": "length-mile-scandinavian",
+      "kategori": "length",
+      "namn": "mil",
+      "forkortning": "mil",
+      "smal_form": "mil",
+      "monster": "{0} mil"
+    },
+    {
+      "id": 18,
+      "unit_code": "length-millimeter",
+      "kategori": "length",
+      "namn": "millimeter",
+      "forkortning": "mm",
+      "smal_form": "mm",
+      "monster": "{0} millimeter"
+    },
+    {
+      "id": 19,
+      "unit_code": "length-nanometer",
+      "kategori": "length",
+      "namn": "nanometer",
+      "forkortning": "nm",
+      "smal_form": "nm",
+      "monster": "{0} nanometer"
+    },
+    {
+      "id": 20,
+      "unit_code": "length-nautical-mile",
+      "kategori": "length",
+      "namn": "nautiska mil",
+      "forkortning": "naut. mil",
+      "smal_form": "naut. mil",
+      "monster": "{0} nautiska mil"
+    },
+    {
+      "id": 21,
+      "unit_code": "length-parsec",
+      "kategori": "length",
+      "namn": "parsec",
+      "forkortning": "parsec",
+      "smal_form": "parsek",
+      "monster": "{0} parsec"
+    },
+    {
+      "id": 22,
+      "unit_code": "length-picometer",
+      "kategori": "length",
+      "namn": "pikometer",
+      "forkortning": "pm",
+      "smal_form": "pm",
+      "monster": "{0} pikometer"
+    },
+    {
+      "id": 23,
+      "unit_code": "length-point",
+      "kategori": "length",
+      "namn": "punkter",
+      "forkortning": "punkter",
+      "smal_form": "pkt",
+      "monster": "{0} punkter"
+    },
+    {
+      "id": 24,
+      "unit_code": "length-ri-jp",
+      "kategori": "length",
+      "namn": "ri [JP]",
+      "forkortning": "ri [JP]",
+      "smal_form": "ri [JP]",
+      "monster": "{0} ri [JP]"
+    },
+    {
+      "id": 25,
+      "unit_code": "length-rin",
+      "kategori": "length",
+      "namn": "rin [JP]",
+      "forkortning": "rin [JP]",
+      "smal_form": "rin [JP]",
+      "monster": "{0} rin [JP]"
+    },
+    {
+      "id": 26,
+      "unit_code": "length-rod",
+      "kategori": "length",
+      "namn": "rod",
+      "forkortning": "rod",
+      "smal_form": "rod",
+      "monster": "{0} rod"
+    },
+    {
+      "id": 27,
+      "unit_code": "length-shaku-cloth",
+      "kategori": "length",
+      "namn": "shaku [cloth, JP]",
+      "forkortning": "shaku [cloth, JP]",
+      "smal_form": "shaku [cloth, JP]",
+      "monster": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 28,
+      "unit_code": "length-shaku-length",
+      "kategori": "length",
+      "namn": "shaku [JP]",
+      "forkortning": "shaku [JP]",
+      "smal_form": "shaku [JP]",
+      "monster": "{0} shaku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "length-solar-radius",
+      "kategori": "length",
+      "namn": "solradier",
+      "forkortning": "R☉",
+      "smal_form": "R☉",
+      "monster": "{0} solradier"
+    },
+    {
+      "id": 30,
+      "unit_code": "length-sun",
+      "kategori": "length",
+      "namn": "sun [JP]",
+      "forkortning": "sun [JP]",
+      "smal_form": "sun [JP]",
+      "monster": "{0} sun [JP]"
+    },
+    {
+      "id": 31,
+      "unit_code": "length-yard",
+      "kategori": "length",
+      "namn": "yard",
+      "forkortning": "yard",
+      "smal_form": "yd",
+      "monster": "{0} yard"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'length' (31) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'length' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 31 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'length' (31) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'length' (31) — 31 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 31 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

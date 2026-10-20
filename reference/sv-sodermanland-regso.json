@@ -1,0 +1,786 @@
+{
+  "id": "sv-sodermanland-regso",
+  "name": "RegSO-områden i Södermanlands län",
+  "title": "RegSO-områden i Södermanlands län",
+  "description": "105 regionala statistikområden (RegSO) i Södermanlands län (länskod 04). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "0428R001",
+      "regso_namn": "Baggetorp-Marmorbyn",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0428R002",
+      "regso_namn": "Högsjö-Södra landsbygden",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0428R003",
+      "regso_namn": "Läppe-Österåker",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0428R004",
+      "regso_namn": "Vannala",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0428R005",
+      "regso_namn": "Vingåkers norra tätort",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0428R006",
+      "regso_namn": "Vingåkers södra tätort",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0461R001",
+      "regso_namn": "Gnesta norra",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0461R002",
+      "regso_namn": "Gnesta södra",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0461R003",
+      "regso_namn": "Gnesta västra",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0461R004",
+      "regso_namn": "Laxne-Gåsinge-Dillnäs",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0461R005",
+      "regso_namn": "Stjärnhov-Björnlunda-Hållsta",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R001",
+      "regso_namn": "Arnö",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R002",
+      "regso_namn": "Bergshammar-Tuna",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R003",
+      "regso_namn": "Brandholmen-Rosenkälla",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R004",
+      "regso_namn": "Brandkärr",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R005",
+      "regso_namn": "Bryngelstorp-Tjuvholmen",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R006",
+      "regso_namn": "Harg-Oxbacken",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R007",
+      "regso_namn": "Hållet-Blommenhov",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R008",
+      "regso_namn": "Högbrunn-Idbäcken",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R009",
+      "regso_namn": "Lunda-Kila",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R010",
+      "regso_namn": "Nyköping väster-Spelhagen",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R011",
+      "regso_namn": "Nyköping öster-Fågelbo",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R012",
+      "regso_namn": "Oppeby",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R013",
+      "regso_namn": "Runtuna-Ludgo",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R014",
+      "regso_namn": "Stenkulla-Malmbryggshagen",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R015",
+      "regso_namn": "Stigtomta",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R016",
+      "regso_namn": "Svärta",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R017",
+      "regso_namn": "Tunaberg",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R018",
+      "regso_namn": "Tystberga-Lästringe",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R019",
+      "regso_namn": "Vrena-Råby",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0480R020",
+      "regso_namn": "Östra Villastaden-Isaksdal-Ekensberg",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0481R001",
+      "regso_namn": "Oxelösund norra",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0481R002",
+      "regso_namn": "Oxelösund norra omland",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0481R003",
+      "regso_namn": "Oxelösund södra omland",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0481R004",
+      "regso_namn": "Oxelösund västra",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0481R005",
+      "regso_namn": "Oxelösund östra",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0482R001",
+      "regso_namn": "Flens landsbygd norra",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0482R002",
+      "regso_namn": "Flens landsbygd södra",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0482R003",
+      "regso_namn": "Flens landsbygd östra",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0482R004",
+      "regso_namn": "Flensby-Bjurtorp-Öja",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0482R005",
+      "regso_namn": "Hälleforsnäs",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0482R006",
+      "regso_namn": "Malmköping",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0482R007",
+      "regso_namn": "Mellösa-Orrhammar",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0482R008",
+      "regso_namn": "Nybble-Centrum nordväst",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0482R009",
+      "regso_namn": "Orrö-Brogetorp-Centrum nordost",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0482R010",
+      "regso_namn": "Salsta-Centrum södra",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0483R001",
+      "regso_namn": "Forssjö-Björkvik",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0483R002",
+      "regso_namn": "Gersnäs-Lövåsen",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0483R003",
+      "regso_namn": "Julita-Bie",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0483R004",
+      "regso_namn": "Katrineholm centrum-Kerstinboda",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0483R005",
+      "regso_namn": "Katrineholm norra",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0483R006",
+      "regso_namn": "Katrineholm östra",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0483R007",
+      "regso_namn": "Nyhem-Nävertorp",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0483R008",
+      "regso_namn": "Oppunda-Laggarhult",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0483R009",
+      "regso_namn": "Strandsvägsområdet-Skogsborg",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0483R010",
+      "regso_namn": "Valla-Sköldinge-Floda",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0483R011",
+      "regso_namn": "Värmbol-Duveholm",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R001",
+      "regso_namn": "Alberga-Lista",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R002",
+      "regso_namn": "Eskilstuna centrum",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R003",
+      "regso_namn": "Eskilstuna söder",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R004",
+      "regso_namn": "Eskilstuna öster",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R005",
+      "regso_namn": "Fröslunda-Vilsta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R006",
+      "regso_namn": "Gredby-Lundby-Brottsta-Flacksta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R007",
+      "regso_namn": "Göksten-Krusgården-Edvardslund-Glömsta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R008",
+      "regso_namn": "Hållsta-Bälgviken",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R009",
+      "regso_namn": "Hällbybrunn-Folkesta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R010",
+      "regso_namn": "Kvicksund-Tumbo",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R011",
+      "regso_namn": "Lagersberg-Råbergstorp",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R012",
+      "regso_namn": "Mesta-Borsökna",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R013",
+      "regso_namn": "Munktellstaden-Norr-Gamla staden",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R014",
+      "regso_namn": "Myrtorp-Västermalm-Brunnsbacken",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R015",
+      "regso_namn": "Nyfors centrum-Väster",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R016",
+      "regso_namn": "Röksta-Eskilshem-Balsta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R017",
+      "regso_namn": "Skiftinge-Djursta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R018",
+      "regso_namn": "Skiftinge-Ärsta-Sal",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R019",
+      "regso_namn": "Skogstorp",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R020",
+      "regso_namn": "Skogsängen-Viptorp",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R021",
+      "regso_namn": "Snopptorp",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R022",
+      "regso_namn": "Solvik-Mälarbaden-Torshälla centrum",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R023",
+      "regso_namn": "Stenby",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R024",
+      "regso_namn": "Sundbyholm-Kjula-Barva",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R025",
+      "regso_namn": "Trumtorp-Odlaren-Hagnestahill",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R026",
+      "regso_namn": "Valhalla-Slagsta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R027",
+      "regso_namn": "Västra Nyfors",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R028",
+      "regso_namn": "Årby-Vallby",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R029",
+      "regso_namn": "Ärla-Hällberga",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0484R030",
+      "regso_namn": "Östra Nyfors",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R001",
+      "regso_namn": "Mariefred",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R002",
+      "regso_namn": "Mariefred norra",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R003",
+      "regso_namn": "Mariefreds södraomland",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R004",
+      "regso_namn": "Stallarholmen",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R005",
+      "regso_namn": "Strängnäs centrala",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R006",
+      "regso_namn": "Strängnäs mälaröar",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R007",
+      "regso_namn": "Strängnäs norra",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R008",
+      "regso_namn": "Strängnäs omland",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R009",
+      "regso_namn": "Strängnäs Stadsskogen",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R010",
+      "regso_namn": "Strängnäs södra",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R011",
+      "regso_namn": "Strängnäs västra",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0486R012",
+      "regso_namn": "Åkers styckebruk",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0488R001",
+      "regso_namn": "Sund-Lövsta-Åda norra",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0488R002",
+      "regso_namn": "Trosa västra",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0488R003",
+      "regso_namn": "Trosa östra",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0488R004",
+      "regso_namn": "Vagnhärad norra",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0488R005",
+      "regso_namn": "Vagnhärad södra",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04"
+    },
+    {
+      "regso_kod": "0488R006",
+      "regso_namn": "Västerljung",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Södermanlands län - Gratis nedladdning",
+    "description": "105 regionala statistikområden (RegSO) i Södermanlands län (länskod 04). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 105 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Södermanlands län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Södermanlands län — 105 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 105 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "sv-mattenheter-frequency",
+  "name": "Måttenheter – kategori 'frequency' (4)",
+  "title": "Måttenheter – kategori 'frequency' (4)",
+  "description": "Måttenheter i kategorin 'frequency' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "frequency-gigahertz",
+      "kategori": "frequency",
+      "namn": "gigahertz",
+      "forkortning": "GHz",
+      "smal_form": "GHz",
+      "monster": "{0} gigahertz"
+    },
+    {
+      "id": 2,
+      "unit_code": "frequency-hertz",
+      "kategori": "frequency",
+      "namn": "hertz",
+      "forkortning": "Hz",
+      "smal_form": "Hz",
+      "monster": "{0} hertz"
+    },
+    {
+      "id": 3,
+      "unit_code": "frequency-kilohertz",
+      "kategori": "frequency",
+      "namn": "kilohertz",
+      "forkortning": "kHz",
+      "smal_form": "kHz",
+      "monster": "{0} kilohertz"
+    },
+    {
+      "id": 4,
+      "unit_code": "frequency-megahertz",
+      "kategori": "frequency",
+      "namn": "megahertz",
+      "forkortning": "MHz",
+      "smal_form": "MHz",
+      "monster": "{0} megahertz"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'frequency' (4) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'frequency' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 4 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'frequency' (4) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'frequency' (4) — 4 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 4 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

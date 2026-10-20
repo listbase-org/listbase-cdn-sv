@@ -1,0 +1,2384 @@
+{
+  "id": "sv-ostergotland-valdistrikt-2022",
+  "name": "Valdistrikt i Östergötlands län (val 2022)",
+  "title": "Valdistrikt i Östergötlands län (val 2022)",
+  "description": "291 valdistrikt i Östergötlands län (länskod 05) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 291,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "05090101",
+      "valdistrikt_namn": "Holaveden",
+      "kommun_kod": "0509",
+      "kommun_namn": "Ödeshög",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05090201",
+      "valdistrikt_namn": "Fridtjuv Berg",
+      "kommun_kod": "0509",
+      "kommun_namn": "Ödeshög",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05090202",
+      "valdistrikt_namn": "Lysing",
+      "kommun_kod": "0509",
+      "kommun_namn": "Ödeshög",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05090301",
+      "valdistrikt_namn": "Alvastra",
+      "kommun_kod": "0509",
+      "kommun_namn": "Ödeshög",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05120101",
+      "valdistrikt_namn": "Torpa",
+      "kommun_kod": "0512",
+      "kommun_namn": "Ydre",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05120201",
+      "valdistrikt_namn": "Asby",
+      "kommun_kod": "0512",
+      "kommun_namn": "Ydre",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05120301",
+      "valdistrikt_namn": "Sund-Svinhult-Norra Vi",
+      "kommun_kod": "0512",
+      "kommun_namn": "Ydre",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05120401",
+      "valdistrikt_namn": "Västra Ryd",
+      "kommun_kod": "0512",
+      "kommun_namn": "Ydre",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05130201",
+      "valdistrikt_namn": "Kisa samhälle",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05130202",
+      "valdistrikt_namn": "Kisa västra",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05130203",
+      "valdistrikt_namn": "Kisa sydöstra",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05130401",
+      "valdistrikt_namn": "Horn-Hycklinge-Björkfors",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05130901",
+      "valdistrikt_namn": "Rimforsa S",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05130902",
+      "valdistrikt_namn": "Rimforsa N",
+      "kommun_kod": "0513",
+      "kommun_namn": "Kinda",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05600201",
+      "valdistrikt_namn": "Boxholm Östra-Malexander-Blåvik",
+      "kommun_kod": "0560",
+      "kommun_namn": "Boxholm",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05600202",
+      "valdistrikt_namn": "Boxholm Västra m fl",
+      "kommun_kod": "0560",
+      "kommun_namn": "Boxholm",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05600401",
+      "valdistrikt_namn": "Strålsnäs-Åsbo-Ekeby-Rinna",
+      "kommun_kod": "0560",
+      "kommun_namn": "Boxholm",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05610301",
+      "valdistrikt_namn": "Åtvidabergs centrum 1",
+      "kommun_kod": "0561",
+      "kommun_namn": "Åtvidaberg",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05610302",
+      "valdistrikt_namn": "Åtvidabergs centrum 2",
+      "kommun_kod": "0561",
+      "kommun_namn": "Åtvidaberg",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05610303",
+      "valdistrikt_namn": "Åtvidaberg syd",
+      "kommun_kod": "0561",
+      "kommun_namn": "Åtvidaberg",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05610304",
+      "valdistrikt_namn": "Åtvidaberg öst",
+      "kommun_kod": "0561",
+      "kommun_namn": "Åtvidaberg",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05610305",
+      "valdistrikt_namn": "Åtvidaberg nord",
+      "kommun_kod": "0561",
+      "kommun_namn": "Åtvidaberg",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620101",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620102",
+      "valdistrikt_namn": "Bergska",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620103",
+      "valdistrikt_namn": "Svälthagen",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620105",
+      "valdistrikt_namn": "Viggestorp",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620106",
+      "valdistrikt_namn": "Östermalm",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620108",
+      "valdistrikt_namn": "Storängen",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620109",
+      "valdistrikt_namn": "Grosvad",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620110",
+      "valdistrikt_namn": "Lotorp",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620111",
+      "valdistrikt_namn": "Hårstorp Södra",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620112",
+      "valdistrikt_namn": "Hårstorp Norra",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620113",
+      "valdistrikt_namn": "Nyhem",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620201",
+      "valdistrikt_namn": "Grytgöl",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620202",
+      "valdistrikt_namn": "Hällestad",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620203",
+      "valdistrikt_namn": "Ljusfallshammar",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620204",
+      "valdistrikt_namn": "Sonstorp",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620301",
+      "valdistrikt_namn": "Regna",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620401",
+      "valdistrikt_namn": "Hagaryd",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620402",
+      "valdistrikt_namn": "Rejmyre",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05620403",
+      "valdistrikt_namn": "Brenäs",
+      "kommun_kod": "0562",
+      "kommun_namn": "Finspång",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05630101",
+      "valdistrikt_namn": "Valdemarsvik 1",
+      "kommun_kod": "0563",
+      "kommun_namn": "Valdemarsvik",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05630102",
+      "valdistrikt_namn": "Valdemarsvik 2",
+      "kommun_kod": "0563",
+      "kommun_namn": "Valdemarsvik",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05630201",
+      "valdistrikt_namn": "Ringarum",
+      "kommun_kod": "0563",
+      "kommun_namn": "Valdemarsvik",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05630202",
+      "valdistrikt_namn": "Gusum",
+      "kommun_kod": "0563",
+      "kommun_namn": "Valdemarsvik",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05630401",
+      "valdistrikt_namn": "Gryt",
+      "kommun_kod": "0563",
+      "kommun_namn": "Valdemarsvik",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05630501",
+      "valdistrikt_namn": "Tryserum-Östra Ed",
+      "kommun_kod": "0563",
+      "kommun_namn": "Valdemarsvik",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800101",
+      "valdistrikt_namn": "Domkyrko 1 (Nedre Vasastaden V)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800102",
+      "valdistrikt_namn": "Domkyrko 2 (Hunneberg)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800103",
+      "valdistrikt_namn": "Domkyrko 3 (Övre Vasastaden Ö)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800104",
+      "valdistrikt_namn": "Domkyrko 4 (Övre Vasastaden V)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800105",
+      "valdistrikt_namn": "Domkyrko 5 (Nedre Vasastaden Ö)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800106",
+      "valdistrikt_namn": "Domkyrko 6 (Kanberget mfl)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800107",
+      "valdistrikt_namn": "Domkyrko 7 (Innerstaden S)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800108",
+      "valdistrikt_namn": "Domkyrko 8 (Ekkällan-Stolplyckan)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800109",
+      "valdistrikt_namn": "Domkyrko 9 (Gottfridsberg NO)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800110",
+      "valdistrikt_namn": "Domkyrko 10 (Gottfridsberg SO)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800111",
+      "valdistrikt_namn": "Domkyrko 11 (Fridhem)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800112",
+      "valdistrikt_namn": "Domkyrko 12 (Barhäll-Tornhagen)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800113",
+      "valdistrikt_namn": "Domkyrko 13 (Åbylund)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800114",
+      "valdistrikt_namn": "Domkyrko 14 (Valla)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800115",
+      "valdistrikt_namn": "Domkyrko 15 (T1 N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800116",
+      "valdistrikt_namn": "Domkyrko 16 (T1 S)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800117",
+      "valdistrikt_namn": "Domkyrko 17 (Innerstaden N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800118",
+      "valdistrikt_namn": "Domkyrko 18 (Övre Vasastaden N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800119",
+      "valdistrikt_namn": "Domkyrko 19 (Folkets Park)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800120",
+      "valdistrikt_namn": "Domkyrko 20 (Vallastaden N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800121",
+      "valdistrikt_namn": "Domkyrko 21 (Vallastaden S)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800122",
+      "valdistrikt_namn": "Domkyrko 22 (Ebbe Park)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800201",
+      "valdistrikt_namn": "S:t Lars 1 (Innerstaden NO)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800202",
+      "valdistrikt_namn": "S:t Lars 2 (Innerstaden Ö)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800203",
+      "valdistrikt_namn": "S:t Lars 3 (Hejdegården)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800204",
+      "valdistrikt_namn": "S:t Lars 4 (Kungsberget V mfl)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800205",
+      "valdistrikt_namn": "S:t Lars 5 (Kungsberget-Tannefors N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800206",
+      "valdistrikt_namn": "S:t Lars 6 (Råberga-Tannefors S)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800207",
+      "valdistrikt_namn": "S:t Lars 7 (Innerstaden SO)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800208",
+      "valdistrikt_namn": "S:t Lars 8 (Stångån V)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800301",
+      "valdistrikt_namn": "Landeryd 1 (Hackefors mfl)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800302",
+      "valdistrikt_namn": "Landeryd 2 (Ekholmen NO mfl)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800303",
+      "valdistrikt_namn": "Landeryd 3 (Kvinneby mfl)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800304",
+      "valdistrikt_namn": "Landeryd 4 (Ekholmen NV)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800305",
+      "valdistrikt_namn": "Landeryd 5 (Ekholmen SO)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800306",
+      "valdistrikt_namn": "Landeryd 6 (Hjulsbro mellersta)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800307",
+      "valdistrikt_namn": "Landeryd 7 (Ekholmen SV)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800308",
+      "valdistrikt_namn": "Landeryd 8 (Ullstämma)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800309",
+      "valdistrikt_namn": "Landeryd 9 (Möjetorp-Holmen)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800401",
+      "valdistrikt_namn": "Slaka 1 (Lambohov C)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800402",
+      "valdistrikt_namn": "Slaka 2 (Lambohov Ö)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800403",
+      "valdistrikt_namn": "Slaka 3 (Slaka-Lilla Mjärdevi)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800404",
+      "valdistrikt_namn": "Slaka 4 (Lambohov S)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800405",
+      "valdistrikt_namn": "Slaka 5 (Lambohov N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800501",
+      "valdistrikt_namn": "Kärna 1 (Malmslätt SO mfl)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800502",
+      "valdistrikt_namn": "Kärna 2 (Malmslätt mellersta)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800503",
+      "valdistrikt_namn": "Kärna 3 (Tokarp)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800504",
+      "valdistrikt_namn": "Kärna 4 (Malmslätt V)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800601",
+      "valdistrikt_namn": "Kaga-Ledberg",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800801",
+      "valdistrikt_namn": "Vist 1 (Vist-Sturefors S)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800802",
+      "valdistrikt_namn": "Vist 2 (Sturefors N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05800901",
+      "valdistrikt_namn": "Vårdnäs",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801001",
+      "valdistrikt_namn": "Skeda",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801101",
+      "valdistrikt_namn": "Nykil-Gammalkil",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801201",
+      "valdistrikt_namn": "Ulrika",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801401",
+      "valdistrikt_namn": "Sjögestad",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801501",
+      "valdistrikt_namn": "Västerlösa-Björkeberg",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801701",
+      "valdistrikt_namn": "Rappestad (Rappestad-Vikingstad N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801801",
+      "valdistrikt_namn": "Vikingstad (Vikingstad S)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801901",
+      "valdistrikt_namn": "Vreta Kloster 1 Berg-Vreta Kloster S",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801902",
+      "valdistrikt_namn": "Vreta Kloster 2 Ljungsbro-Vreta Kl N",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801903",
+      "valdistrikt_namn": "Vreta Kloster 3 (Ljungsbro Ö)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801904",
+      "valdistrikt_namn": "Vreta Kloster 4 (Ljungsbro S)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05801905",
+      "valdistrikt_namn": "Vreta Kloster 5 (Ljungsbro V)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05802001",
+      "valdistrikt_namn": "Flistad-Ljung",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05802201",
+      "valdistrikt_namn": "Stjärnorp",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05802401",
+      "valdistrikt_namn": "Östra Harg-Rystad 1 (Ö Harg-Rystad)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05802402",
+      "valdistrikt_namn": "Rystad 2 (Tallboda V)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05802403",
+      "valdistrikt_namn": "Rystad 3 (Tallboda Ö)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05802404",
+      "valdistrikt_namn": "Rystad 4 (Ekängen)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05802501",
+      "valdistrikt_namn": "Törnevalla-Ö Skrukeby",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05802701",
+      "valdistrikt_namn": "Lillkyrka-Gistad",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05802901",
+      "valdistrikt_namn": "Örtomta-Askeby",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803101",
+      "valdistrikt_namn": "Bankekind",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803201",
+      "valdistrikt_namn": "Vårdsberg",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803301",
+      "valdistrikt_namn": "Berga 1 (Ramshäll)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803302",
+      "valdistrikt_namn": "Berga 2 (Berga NO)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803303",
+      "valdistrikt_namn": "Berga 3 (Berga NV)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803304",
+      "valdistrikt_namn": "Berga 4 (Berga SO)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803305",
+      "valdistrikt_namn": "Berga 5 (Vidingsjö N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803306",
+      "valdistrikt_namn": "Berga 6 (Berga SV)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803307",
+      "valdistrikt_namn": "Berga 7 (Vidingsjö S)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803308",
+      "valdistrikt_namn": "Berga 8 (Haninge mfl)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803309",
+      "valdistrikt_namn": "Berga 9 (Hagaberg)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803310",
+      "valdistrikt_namn": "Berga 10 (Södra Ekkällan N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803311",
+      "valdistrikt_namn": "Berga 11 (Södra Ekkällan S)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803401",
+      "valdistrikt_namn": "Johannelund 1 (Vimanshäll)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803402",
+      "valdistrikt_namn": "Johannelund 2 (Johannelund NV)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803403",
+      "valdistrikt_namn": "Johannelund 3 (Johannelund NO)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803404",
+      "valdistrikt_namn": "Johannelund 4 (Ånestad)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803405",
+      "valdistrikt_namn": "Johannelund 5 (Johannelund SV)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803406",
+      "valdistrikt_namn": "Johannelund 6 (Johannelund SO)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803501",
+      "valdistrikt_namn": "Skäggetorp 1 (Skäggetorp C)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803502",
+      "valdistrikt_namn": "Skäggetorp 2 (Nygård)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803503",
+      "valdistrikt_namn": "Skäggetorp 3 (Skäggetorp SV)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803504",
+      "valdistrikt_namn": "Skäggetorp 4 (Skäggetorp V)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803505",
+      "valdistrikt_namn": "Skäggetorp 5 (Tornby-Skäggetorp N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803601",
+      "valdistrikt_namn": "Ryd 1 (Ryd N)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803602",
+      "valdistrikt_namn": "Ryd 2 (Ryd SO)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803603",
+      "valdistrikt_namn": "Ryd 3 (Ryd SV)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803604",
+      "valdistrikt_namn": "Ryd 4 (Ryd NO)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05803605",
+      "valdistrikt_namn": "Ryd 5 (Ryd mellersta)",
+      "kommun_kod": "0580",
+      "kommun_namn": "Linköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810104",
+      "valdistrikt_namn": "Hultdalen-Skriketorp",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810105",
+      "valdistrikt_namn": "Jursla",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810106",
+      "valdistrikt_namn": "Åbymo",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810107",
+      "valdistrikt_namn": "Åby Östra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810108",
+      "valdistrikt_namn": "Torshag-Simonstorp",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810111",
+      "valdistrikt_namn": "Hallberga-Fyrby",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810112",
+      "valdistrikt_namn": "Pryssgården",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810113",
+      "valdistrikt_namn": "Eneby Centrum",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810114",
+      "valdistrikt_namn": "Karlshov-Sandbyhov",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810115",
+      "valdistrikt_namn": "Taborsberg",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810123",
+      "valdistrikt_namn": "Saltängen-Nya torget",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810124",
+      "valdistrikt_namn": "Lagerlunda-Herstadberg",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810125",
+      "valdistrikt_namn": "Strömparken-G:a Rådstugugatan",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810126",
+      "valdistrikt_namn": "Rosen-Gamla staden",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810129",
+      "valdistrikt_namn": "Djäknepark",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810131",
+      "valdistrikt_namn": "Söder Tull",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810134",
+      "valdistrikt_namn": "Såpkullen",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810201",
+      "valdistrikt_namn": "Kvarnberget-Tingstad",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810203",
+      "valdistrikt_namn": "Mamre",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810204",
+      "valdistrikt_namn": "Vrinnevi-Klingsborg",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810205",
+      "valdistrikt_namn": "Portlåset",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810206",
+      "valdistrikt_namn": "Hageby Centrum",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810207",
+      "valdistrikt_namn": "Smedby",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810208",
+      "valdistrikt_namn": "Brånnestad",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810211",
+      "valdistrikt_namn": "Ljunga",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810212",
+      "valdistrikt_namn": "Kuddby",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810213",
+      "valdistrikt_namn": "Östra Husby",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810214",
+      "valdistrikt_namn": "Kättinge",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810217",
+      "valdistrikt_namn": "Berga-Långtorp",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810218",
+      "valdistrikt_namn": "Ljura",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810219",
+      "valdistrikt_namn": "Sankt Johannes",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810220",
+      "valdistrikt_namn": "Klingsberg",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810223",
+      "valdistrikt_namn": "Kneippen",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810224",
+      "valdistrikt_namn": "Skarphagen",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810225",
+      "valdistrikt_namn": "Björkalund-Kårtorp",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810231",
+      "valdistrikt_namn": "Borg",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810232",
+      "valdistrikt_namn": "Kullerstad-Vickelby",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810233",
+      "valdistrikt_namn": "Mosstorp",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810234",
+      "valdistrikt_namn": "Vånga",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810235",
+      "valdistrikt_namn": "Kimstad",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810236",
+      "valdistrikt_namn": "Norsholm-Skärkind",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810237",
+      "valdistrikt_namn": "Kärrhagen-Kättsätter",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810238",
+      "valdistrikt_namn": "Atriumhusen",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810239",
+      "valdistrikt_namn": "Ringdansen",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810240",
+      "valdistrikt_namn": "Vasaparken-Ljurafältet",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810241",
+      "valdistrikt_namn": "Vidablick",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810242",
+      "valdistrikt_namn": "Söderporten",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810243",
+      "valdistrikt_namn": "Porten",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810301",
+      "valdistrikt_namn": "Kolmården västra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810302",
+      "valdistrikt_namn": "Kolmården östra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810401",
+      "valdistrikt_namn": "Krokek södra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810402",
+      "valdistrikt_namn": "Krokek norra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810501",
+      "valdistrikt_namn": "Svärtinge mellersta",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810502",
+      "valdistrikt_namn": "Svärtinge västra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810503",
+      "valdistrikt_namn": "Svärtinge östra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810601",
+      "valdistrikt_namn": "Haga södra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810602",
+      "valdistrikt_namn": "Haga norra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810701",
+      "valdistrikt_namn": "Marielund mellersta",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810702",
+      "valdistrikt_namn": "Marielund västra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810703",
+      "valdistrikt_namn": "Marielund södra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810801",
+      "valdistrikt_namn": "Nordantill nordväst",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810802",
+      "valdistrikt_namn": "Nordantill nordost",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810803",
+      "valdistrikt_namn": "Nordantill sydväst",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810804",
+      "valdistrikt_namn": "Nordantill sydost",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810901",
+      "valdistrikt_namn": "Östantill östra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05810902",
+      "valdistrikt_namn": "Östantill västra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811001",
+      "valdistrikt_namn": "Oxelbergen Norra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811002",
+      "valdistrikt_namn": "Oxelbergen Södra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811101",
+      "valdistrikt_namn": "Söderstaden Östra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811102",
+      "valdistrikt_namn": "Söderstaden Västra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811201",
+      "valdistrikt_namn": "Berget Norra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811202",
+      "valdistrikt_namn": "Berget Västra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811203",
+      "valdistrikt_namn": "Berget Östra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811301",
+      "valdistrikt_namn": "Rambodal Södra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811302",
+      "valdistrikt_namn": "Rambodal Norra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811401",
+      "valdistrikt_namn": "Lindö Östra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811402",
+      "valdistrikt_namn": "Lindö Västra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811501",
+      "valdistrikt_namn": "Ektorp Södra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811502",
+      "valdistrikt_namn": "Strömbacken-Ektorp",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811503",
+      "valdistrikt_namn": "Ektorp Centrum",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811601",
+      "valdistrikt_namn": "Vilbergen Norra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811602",
+      "valdistrikt_namn": "Vilbergen Södra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811603",
+      "valdistrikt_namn": "Vilbergen Västra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811701",
+      "valdistrikt_namn": "Klockaretorpet Östra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811702",
+      "valdistrikt_namn": "Klockaretorpet Norra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05811703",
+      "valdistrikt_namn": "Klockaretorpet Södra",
+      "kommun_kod": "0581",
+      "kommun_namn": "Norrköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05820101",
+      "valdistrikt_namn": "S:t Laurentii",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05820102",
+      "valdistrikt_namn": "Bossgård",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05820103",
+      "valdistrikt_namn": "Alboga",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05820201",
+      "valdistrikt_namn": "Drothem",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05820301",
+      "valdistrikt_namn": "Skönberga",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05820401",
+      "valdistrikt_namn": "Västra Husby-Gårdeby",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05820601",
+      "valdistrikt_namn": "Östra Ryd",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05820701",
+      "valdistrikt_namn": "Skällvik-Mogata",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05820801",
+      "valdistrikt_namn": "Sankt Anna-Börrum",
+      "kommun_kod": "0582",
+      "kommun_namn": "Söderköping",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830101",
+      "valdistrikt_namn": "Bispmotala",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830102",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830103",
+      "valdistrikt_namn": "Hyddmarken",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830104",
+      "valdistrikt_namn": "Marieberg -Västra",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830105",
+      "valdistrikt_namn": "Östermalm",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830106",
+      "valdistrikt_namn": "Bergsätter",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830107",
+      "valdistrikt_namn": "Borenshult",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830108",
+      "valdistrikt_namn": "Bråstorp",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830109",
+      "valdistrikt_namn": "Söder",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830110",
+      "valdistrikt_namn": "Ekenäs",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830111",
+      "valdistrikt_namn": "Charlottenborg",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830112",
+      "valdistrikt_namn": "Holm",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830113",
+      "valdistrikt_namn": "Mossen",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830114",
+      "valdistrikt_namn": "Samuelsberg",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830115",
+      "valdistrikt_namn": "Ekön",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830116",
+      "valdistrikt_namn": "Brunnsvik",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830117",
+      "valdistrikt_namn": "Marieberg-Östra",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830301",
+      "valdistrikt_namn": "Nykyrka",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830401",
+      "valdistrikt_namn": "Godegård",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830601",
+      "valdistrikt_namn": "Borensberg Västra - Kristberg",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830602",
+      "valdistrikt_namn": "Borensberg Östra",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05830801",
+      "valdistrikt_namn": "Fornåsa - Österstad",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05832201",
+      "valdistrikt_namn": "Tjällmo",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05832301",
+      "valdistrikt_namn": "Fågelsta",
+      "kommun_kod": "0583",
+      "kommun_namn": "Motala",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05840101",
+      "valdistrikt_namn": "Innerstaden",
+      "kommun_kod": "0584",
+      "kommun_namn": "Vadstena",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05840102",
+      "valdistrikt_namn": "Kvissberg, Borgmästarområdet mfl",
+      "kommun_kod": "0584",
+      "kommun_namn": "Vadstena",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05840103",
+      "valdistrikt_namn": "Gamla Söder-Nya Söder-Hertigen mfl",
+      "kommun_kod": "0584",
+      "kommun_namn": "Vadstena",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05840105",
+      "valdistrikt_namn": "Birgitta, Haga, Hagebyhöga, Hov mfl",
+      "kommun_kod": "0584",
+      "kommun_namn": "Vadstena",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05840301",
+      "valdistrikt_namn": "Borghamn, Skedet, Rogslösa mfl",
+      "kommun_kod": "0584",
+      "kommun_namn": "Vadstena",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860101",
+      "valdistrikt_namn": "Dacke-Egebybacken",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860102",
+      "valdistrikt_namn": "Västra Lundby",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860103",
+      "valdistrikt_namn": "Slomarp-Egeby-Prästgårdsliden",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860104",
+      "valdistrikt_namn": "Östra Lundby mfl",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860105",
+      "valdistrikt_namn": "Norrgården-Albacken mfl",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860106",
+      "valdistrikt_namn": "Vasastaden",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860107",
+      "valdistrikt_namn": "Eldlösa",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860108",
+      "valdistrikt_namn": "Lagman",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860201",
+      "valdistrikt_namn": "Högby",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860301",
+      "valdistrikt_namn": "Västra Lund-Trojenborg",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860302",
+      "valdistrikt_namn": "Skänninge landsbygd",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860303",
+      "valdistrikt_namn": "Skänninge centrum-Hattorp",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05860701",
+      "valdistrikt_namn": "Normlösa mfl",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05861001",
+      "valdistrikt_namn": "Väderstad-Appuna-Hogstad-Kumla",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05861401",
+      "valdistrikt_namn": "Sya-Västra Harg-Östra Tollstad",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05861701",
+      "valdistrikt_namn": "Viby",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05861801",
+      "valdistrikt_namn": "Veta",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    },
+    {
+      "valdistrikt_kod": "05861901",
+      "valdistrikt_namn": "Mantorps centrum mfl",
+      "kommun_kod": "0586",
+      "kommun_namn": "Mjölby",
+      "lan_kod": "05",
+      "lan_namn": "Östergötlands län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Östergötlands län (val 2022) - Gratis nedladdning",
+    "description": "291 valdistrikt i Östergötlands län (länskod 05) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 291 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Östergötlands län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Östergötlands län (val 2022) — 291 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 291 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

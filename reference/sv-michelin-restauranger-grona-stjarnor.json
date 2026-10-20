@@ -1,0 +1,203 @@
+{
+  "id": "sv-michelin-restauranger-grona-stjarnor",
+  "name": "Michelin Gröna stjärnor i Sverige",
+  "title": "Michelin Gröna stjärnor i Sverige",
+  "description": "Lista över 6 restauranger i Sverige med Michelins Gröna stjärna för hållbar gastronomi.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "postcode",
+      "label": "Postcode",
+      "type": "string"
+    },
+    {
+      "key": "cuisine",
+      "label": "Cuisine",
+      "type": "string"
+    },
+    {
+      "key": "price",
+      "label": "Price",
+      "type": "string"
+    },
+    {
+      "key": "award",
+      "label": "Award",
+      "type": "string"
+    },
+    {
+      "key": "green_star",
+      "label": "Green Star",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "michelin_url",
+      "label": "Michelin Url",
+      "type": "string"
+    },
+    {
+      "key": "description_en",
+      "label": "Description En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "slug": "signum-molnlycke",
+      "name": "Signum",
+      "city": "Mölnlycke",
+      "address": "Hällsnäs Hotell, Långenäsvägen 150, Mölnlycke, 435 35, Sweden",
+      "postcode": "435 35",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "award": "2 Stars",
+      "green_star": true,
+      "latitude": 57.675447,
+      "longitude": 12.1786546,
+      "phone": "+4631881803",
+      "website": "https://restaurantsignum.com/",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/molnlycke_2675596/restaurant/signum-1205585",
+      "description_en": "An old manor house on the shores of Landvettersjön Lake provides a beautiful setting for this hotel restaurant, which sits in a boathouse-style annexe. The rustic room is characterised by Scandinavian furnishings, sheepskins and modern art, and floor-to-ceiling windows afford wonderful views over the water. The menu is an excellent showcase of Scandinavian ingredients, with produce coming from the kitchen garden, foraged from the surrounding area and plucked from local waters. Bold flavours and original combinations feature in dishes such as squid, mangalitsa and leek or spruce and Schrenkii caviar."
+    },
+    {
+      "slug": "knystaforsen-rydobruk",
+      "name": "Knystaforsen",
+      "city": "Rydöbruk",
+      "address": "Rydöforsvägen 4, Rydöbruk, 31442, Sweden",
+      "postcode": "31442",
+      "cuisine": "Creative, Modern Cuisine",
+      "price": "€€€€",
+      "award": "1 Star",
+      "green_star": true,
+      "latitude": 56.958207,
+      "longitude": 13.1400487,
+      "phone": "+46728834115",
+      "website": "https://knystaforsen.se",
+      "michelin_url": "https://guide.michelin.com/en/hallands/rydobruk/restaurant/knystaforsen",
+      "description_en": "A meal at Knystaforsen is truly a delight and staying the night further enhances the experience. A former sawmill, it sits in a wonderful spot beside the river, surrounded by woodland, and nature really is at every turn, be that through the panoramic windows or on your plate. Superb ingredients are from the local area and traditional wood-fired cooking adds a smoky edge – one course is even served outside by the campfire. You might sample such delights as moose tartare, trout with lingonberries or duck hearts with wild garlic, which are paired with both wines and interesting non-alcoholic creations."
+    },
+    {
+      "slug": "etoile-stockholm",
+      "name": "Etoile",
+      "city": "Stockholm",
+      "address": "Norra Stationsgatan 51, Stockholm, 113 44, Sweden",
+      "postcode": "113 44",
+      "cuisine": "Creative, International",
+      "price": "€€€€",
+      "award": "1 Star",
+      "green_star": true,
+      "latitude": 59.3495123,
+      "longitude": 18.0437729,
+      "phone": "+468101070",
+      "website": "https://www.restaurantetoile.se/",
+      "michelin_url": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/etoile",
+      "description_en": "After travelling the world, two friends opened this restaurant to showcase their experiences through food, yet with a decidedly imaginative streak. The cooking is characterised by bold, surprising flavours and creativity – what appears to be savoury may in fact be sweet, and vice versa. The chefs delight in subverting expectations with their playfully named dishes that reference global food traditions, like 'Surf and Turf' and 'Afternoon Tea Party'."
+    },
+    {
+      "slug": "ang-tvaaker",
+      "name": "ÄNG",
+      "city": "Tvååker",
+      "address": "Ästad Vingård, Ästad 10, Tvååker, 432 77, Sweden",
+      "postcode": "432 77",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "award": "1 Star",
+      "green_star": true,
+      "latitude": 57.0649323,
+      "longitude": 12.5594919,
+      "phone": "+4634046061",
+      "website": "https://www.restaurangang.se",
+      "michelin_url": "https://guide.michelin.com/en/hallands/tvaaker/restaurant/ang",
+      "description_en": "The Ästad Vingård estate plays host to a luxury hotel and this stunningly designed, greenhouse-inspired restaurant set over two levels. Your visit starts with finely crafted snacks at the chef’s counter, then leads into a no-waste surprise tasting menu that uses fantastic seasonal produce from the surrounding Halland region. Skilfully prepared dishes are delicate, balanced and full of flavour, with combinations like scallop, glazed with fruity chilli caramel and served with preserved yellow tomato coulis, a good example of their cooking style. The cheese course is taken in a magnificent wine cellar."
+    },
+    {
+      "slug": "pm-vanner-restaurant-vaxjo",
+      "name": "PM & Vänner Restaurant",
+      "city": "Växjö",
+      "address": "Storgatan 22, Växjö, 352 31, Sweden",
+      "postcode": "352 31",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "award": "1 Star",
+      "green_star": true,
+      "latitude": 56.8789279,
+      "longitude": 14.8043573,
+      "phone": "+46470759710",
+      "website": "https://pmrestauranger.se",
+      "michelin_url": "https://guide.michelin.com/en/kronoberg/vaxjo/restaurant/pm-vanner",
+      "description_en": "Their philosophy is based on ‘forest, lake and meadow’, with much of the produce coming from their own garden and bakery. The tasting menu is explained with infectious passion, and cooking is ambitious, elaborate and sophisticated. An extraordinary wine list offers a huge array of vintages from top producers."
+    },
+    {
+      "slug": "jord-linkoping",
+      "name": "JORD",
+      "city": "Linkoping",
+      "address": "Johannesborgparken 1A, Linkoping, 582 49, Sweden",
+      "postcode": "582 49",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€",
+      "award": "Selected Restaurants",
+      "green_star": true,
+      "latitude": 58.4073604,
+      "longitude": 15.6022776,
+      "phone": "+4613131337",
+      "website": "https://restaurangjord.se/",
+      "michelin_url": "https://guide.michelin.com/en/ostergotland/linkoping_2608143/restaurant/jord-1202242",
+      "description_en": "‘Forest to plate’ is the message here, with wild and hyper-seasonal ingredients at the fore. Some of the produce is foraged, whilst meat is often hunted by the owner in the surrounding area. The surprise tasting menu delivers a large array of creative dishes with intriguing blends of flavours and textures. Preserving, pickling, smoking and curing are all done in-house, giving new life to the local ingredients."
+    }
+  ],
+  "meta": {
+    "title": "Michelin Gröna stjärnor i Sverige - Gratis nedladdning",
+    "description": "Lista över 6 restauranger i Sverige med Michelins Gröna stjärna för hållbar gastronomi. Innehåller 6 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Michelin Gröna stjärnor i Sverige | ListBase",
+    "seo_description": "Ladda ner Michelin Gröna stjärnor i Sverige — 6 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 6 poster / 15 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

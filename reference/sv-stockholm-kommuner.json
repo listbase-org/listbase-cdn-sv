@@ -1,0 +1,295 @@
+{
+  "id": "sv-stockholm-kommuner",
+  "name": "Kommuner i Stockholms län",
+  "title": "Kommuner i Stockholms län",
+  "description": "26 kommuner i Stockholms län (länskod 01, ISO SE-AB, residensstad Stockholm). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "0114",
+      "name": "Upplands Väsby kommun",
+      "name_short": "Upplands Väsby",
+      "slug": "upplands-vasby",
+      "locality": "UPPLANDS VÄSBY",
+      "url": "http://www.upplandsvasby.se",
+      "num_postnummer": 0
+    },
+    {
+      "kommunkod": "0115",
+      "name": "Vallentuna kommun",
+      "name_short": "Vallentuna",
+      "slug": "vallentuna",
+      "locality": "VALLENTUNA",
+      "url": "http://www.vallentuna.se",
+      "num_postnummer": 328
+    },
+    {
+      "kommunkod": "0117",
+      "name": "Österåkers kommun",
+      "name_short": "Österåker",
+      "slug": "osteraker",
+      "locality": "ÅKERSBERGA",
+      "url": "http://www.osteraker.se",
+      "num_postnummer": 224
+    },
+    {
+      "kommunkod": "0120",
+      "name": "Värmdö kommun",
+      "name_short": "Värmdö",
+      "slug": "varmdo",
+      "locality": "GUSTAVSBERG",
+      "url": "http://www.varmdo.se",
+      "num_postnummer": 239
+    },
+    {
+      "kommunkod": "0123",
+      "name": "Järfälla kommun",
+      "name_short": "Järfälla",
+      "slug": "jarfalla",
+      "locality": "JÄRFÄLLA",
+      "url": "http://www.jarfalla.se",
+      "num_postnummer": 469
+    },
+    {
+      "kommunkod": "0125",
+      "name": "Ekerö kommun",
+      "name_short": "Ekerö",
+      "slug": "ekero",
+      "locality": "EKERÖ",
+      "url": "http://www.ekero.se",
+      "num_postnummer": 662
+    },
+    {
+      "kommunkod": "0126",
+      "name": "Huddinge kommun",
+      "name_short": "Huddinge",
+      "slug": "huddinge",
+      "locality": "HUDDINGE",
+      "url": "http://www.huddinge.se",
+      "num_postnummer": 482
+    },
+    {
+      "kommunkod": "0127",
+      "name": "Botkyrka kommun",
+      "name_short": "Botkyrka",
+      "slug": "botkyrka",
+      "locality": "TUMBA",
+      "url": "http://www.botkyrka.se",
+      "num_postnummer": 306
+    },
+    {
+      "kommunkod": "0128",
+      "name": "Salems kommun",
+      "name_short": "Salem",
+      "slug": "salem",
+      "locality": "RÖNNINGE",
+      "url": "http://www.salem.se",
+      "num_postnummer": 212
+    },
+    {
+      "kommunkod": "0136",
+      "name": "Haninge kommun",
+      "name_short": "Haninge",
+      "slug": "haninge",
+      "locality": "HANINGE",
+      "url": "http://www.haninge.se",
+      "num_postnummer": 330
+    },
+    {
+      "kommunkod": "0138",
+      "name": "Tyresö kommun",
+      "name_short": "Tyresö",
+      "slug": "tyreso",
+      "locality": "TYRESÖ",
+      "url": "http://www.tyreso.se",
+      "num_postnummer": 1264
+    },
+    {
+      "kommunkod": "0139",
+      "name": "Upplands-Bro kommun",
+      "name_short": "Upplands-Bro",
+      "slug": "upplands-bro",
+      "locality": "KUNGSÄNGEN",
+      "url": "http://www.upplands-bro.se",
+      "num_postnummer": 362
+    },
+    {
+      "kommunkod": "0140",
+      "name": "Nykvarns kommun",
+      "name_short": "Nykvarn",
+      "slug": "nykvarn",
+      "locality": "NYKVARN",
+      "url": "http://www.nykvarn.se",
+      "num_postnummer": 154
+    },
+    {
+      "kommunkod": "0160",
+      "name": "Täby kommun",
+      "name_short": "Täby",
+      "slug": "taby",
+      "locality": "TÄBY",
+      "url": "http://www.taby.se",
+      "num_postnummer": 365
+    },
+    {
+      "kommunkod": "0162",
+      "name": "Danderyds kommun",
+      "name_short": "Danderyd",
+      "slug": "danderyd",
+      "locality": "DJURSHOLM",
+      "url": "http://www.danderyd.se",
+      "num_postnummer": 1608
+    },
+    {
+      "kommunkod": "0163",
+      "name": "Sollentuna kommun",
+      "name_short": "Sollentuna",
+      "slug": "sollentuna",
+      "locality": "SOLLENTUNA",
+      "url": "http://www.sollentuna.se",
+      "num_postnummer": 706
+    },
+    {
+      "kommunkod": "0180",
+      "name": "Stockholms stad",
+      "name_short": "Stockholm",
+      "slug": "stockholm",
+      "locality": "STOCKHOLM",
+      "url": "http://www.stockholm.se",
+      "num_postnummer": 2549
+    },
+    {
+      "kommunkod": "0181",
+      "name": "Södertälje kommun",
+      "name_short": "Södertälje",
+      "slug": "sodertalje",
+      "locality": "SÖDERTÄLJE",
+      "url": "http://www.sodertalje.se",
+      "num_postnummer": 247
+    },
+    {
+      "kommunkod": "0182",
+      "name": "Nacka kommun",
+      "name_short": "Nacka",
+      "slug": "nacka",
+      "locality": "NACKA",
+      "url": "http://www.nacka.se",
+      "num_postnummer": 1513
+    },
+    {
+      "kommunkod": "0183",
+      "name": "Sundbybergs stad",
+      "name_short": "Sundbyberg",
+      "slug": "sundbyberg",
+      "locality": "SUNDBYBERG",
+      "url": "http://www.sundbyberg.se",
+      "num_postnummer": 259
+    },
+    {
+      "kommunkod": "0184",
+      "name": "Solna stad",
+      "name_short": "Solna",
+      "slug": "solna",
+      "locality": "SOLNA",
+      "url": "http://www.solna.se",
+      "num_postnummer": 1517
+    },
+    {
+      "kommunkod": "0186",
+      "name": "Lidingö stad",
+      "name_short": "Lidingö",
+      "slug": "lidingo",
+      "locality": "LIDINGÖ",
+      "url": "http://www.lidingo.se",
+      "num_postnummer": 1328
+    },
+    {
+      "kommunkod": "0187",
+      "name": "Vaxholms stad",
+      "name_short": "Vaxholm",
+      "slug": "vaxholm",
+      "locality": "VAXHOLM",
+      "url": "http://www.vaxholm.se",
+      "num_postnummer": 161
+    },
+    {
+      "kommunkod": "0188",
+      "name": "Norrtälje kommun",
+      "name_short": "Norrtälje",
+      "slug": "norrtalje",
+      "locality": "NORRTÄLJE",
+      "url": "http://www.norrtalje.se",
+      "num_postnummer": 265
+    },
+    {
+      "kommunkod": "0191",
+      "name": "Sigtuna kommun",
+      "name_short": "Sigtuna",
+      "slug": "sigtuna",
+      "locality": "MÄRSTA",
+      "url": "http://www.sigtuna.se",
+      "num_postnummer": 302
+    },
+    {
+      "kommunkod": "0192",
+      "name": "Nynäshamns kommun",
+      "name_short": "Nynäshamn",
+      "slug": "nynashamn",
+      "locality": "NYNÄSHAMN",
+      "url": "http://www.nynashamn.se",
+      "num_postnummer": 92
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Stockholms län - Gratis nedladdning",
+    "description": "26 kommuner i Stockholms län (länskod 01, ISO SE-AB, residensstad Stockholm). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 26 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Stockholms län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Stockholms län — 26 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 26 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "sv-synagogor",
+  "name": "Synagogor i Sverige",
+  "title": "Synagogor i Sverige",
+  "description": "Synagogues in Sweden with coordinates, sourced from Wikidata.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_sv",
+      "label": "Name Sv",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_sv",
+      "label": "Admin Area Sv",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10400986",
+      "name_sv": "Adat Jeschurun",
+      "name_en": "Adat Jeschurun",
+      "admin_area_sv": "Stockholms kommun",
+      "admin_area_en": "Stockholm",
+      "latitude": 59.334722,
+      "longitude": 18.075833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10400986"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q2915211",
+      "name_sv": "Göteborgs synagoga",
+      "name_en": "Gothenburg Synagogue",
+      "admin_area_sv": "Göteborgs kommun",
+      "admin_area_en": "Gothenburg Municipality",
+      "latitude": 57.705556,
+      "longitude": 11.9725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2915211"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q130532800",
+      "name_sv": "Kalmar synagoga",
+      "name_en": "Kalmar Synagogue",
+      "admin_area_sv": "Kalmar kommun",
+      "admin_area_en": "Kalmar Municipality",
+      "latitude": 56.665278,
+      "longitude": 16.370278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130532800"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q2096330",
+      "name_sv": "Malmö synagoga",
+      "name_en": "Malmö Synagogue",
+      "admin_area_sv": "Malmö kommun",
+      "admin_area_en": "Malmö Municipality",
+      "latitude": 55.599444,
+      "longitude": 13.010833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2096330"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q1716414",
+      "name_sv": "Norrköpings synagoga",
+      "name_en": "Norrköping Synagogue",
+      "admin_area_sv": "Norrköpings kommun",
+      "admin_area_en": "Norrköping Municipality",
+      "latitude": 58.593333,
+      "longitude": 16.178611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1716414"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q619484",
+      "name_sv": "Stora synagogan i Stockholm",
+      "name_en": "Stockholm Synagogue",
+      "admin_area_sv": "Stockholms kommun",
+      "admin_area_en": "Stockholm",
+      "latitude": 59.331892,
+      "longitude": 18.074208,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q619484"
+    }
+  ],
+  "meta": {
+    "title": "Synagogor i Sverige - Gratis nedladdning",
+    "description": "Synagogues in Sweden with coordinates, sourced from Wikidata. Innehåller 6 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Synagogor i Sverige | ListBase",
+    "seo_description": "Ladda ner Synagogor i Sverige — 6 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 6 poster / 9 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

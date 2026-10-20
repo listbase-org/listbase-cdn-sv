@@ -1,0 +1,816 @@
+{
+  "id": "sv-blekinge-valdistrikt-2022",
+  "name": "Valdistrikt i Blekinge län (val 2022)",
+  "title": "Valdistrikt i Blekinge län (val 2022)",
+  "description": "95 valdistrikt i Blekinge län (länskod 10) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "10600101",
+      "valdistrikt_namn": "Vilboken",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10600102",
+      "valdistrikt_namn": "Kyrkhult-Hemsjö",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10600103",
+      "valdistrikt_namn": "Jämshög",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10600104",
+      "valdistrikt_namn": "Brännaregården",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10600105",
+      "valdistrikt_namn": "Ekeryd-Gränum",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10600106",
+      "valdistrikt_namn": "Oredslund",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10600107",
+      "valdistrikt_namn": "Olofström-Vilshult",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10600108",
+      "valdistrikt_namn": "Olofström C",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800127",
+      "valdistrikt_namn": "Långö-Gräsvik",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800128",
+      "valdistrikt_namn": "Saltö-Björkholmen",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800131",
+      "valdistrikt_namn": "Västerudd",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800132",
+      "valdistrikt_namn": "Rosenfeldt m.fl.",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800133",
+      "valdistrikt_namn": "Trossö Ö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800134",
+      "valdistrikt_namn": "Möllebacken m.fl.",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800135",
+      "valdistrikt_namn": "Wachtmeister m.fl.",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800136",
+      "valdistrikt_namn": "Hogland m.fl.",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800137",
+      "valdistrikt_namn": "Pantarholmen",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800138",
+      "valdistrikt_namn": "Galgamarken",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800139",
+      "valdistrikt_namn": "Bergåsa m.fl.",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800140",
+      "valdistrikt_namn": "Hästö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800141",
+      "valdistrikt_namn": "Marieberg m.fl.",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800142",
+      "valdistrikt_namn": "Kungsmarken",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800143",
+      "valdistrikt_namn": "Mariedal-Backabo-Torskors",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800430",
+      "valdistrikt_namn": "Aspö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800508",
+      "valdistrikt_namn": "Kronotorp m.fl.",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800509",
+      "valdistrikt_namn": "Verkö m.fl.",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800510",
+      "valdistrikt_namn": "Lyckeby V",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800606",
+      "valdistrikt_namn": "Kättilsmåla",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800611",
+      "valdistrikt_namn": "Lyckeby Ö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800612",
+      "valdistrikt_namn": "Spandelstorp m.fl.",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800613",
+      "valdistrikt_namn": "Hässlegården",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800801",
+      "valdistrikt_namn": "Kristianopel",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800903",
+      "valdistrikt_namn": "Jämjö N",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10800904",
+      "valdistrikt_namn": "Jämjö S",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801002",
+      "valdistrikt_namn": "Torhamn",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801107",
+      "valdistrikt_namn": "Sturkö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801205",
+      "valdistrikt_namn": "Ramdala",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801214",
+      "valdistrikt_namn": "Trummenäs",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801421",
+      "valdistrikt_namn": "Strömsberg",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801422",
+      "valdistrikt_namn": "Rödeby N",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801423",
+      "valdistrikt_namn": "Rödeby S",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801518",
+      "valdistrikt_namn": "Fridlevstad",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801616",
+      "valdistrikt_namn": "Sillhövda",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801720",
+      "valdistrikt_namn": "Tving",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801824",
+      "valdistrikt_namn": "Nättraby V",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801825",
+      "valdistrikt_namn": "Nättraby Ö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801844",
+      "valdistrikt_namn": "Nättraby S",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10801926",
+      "valdistrikt_namn": "Hasslö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810101",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810102",
+      "valdistrikt_namn": "Fredriksberg",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810103",
+      "valdistrikt_namn": "Hulta",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810104",
+      "valdistrikt_namn": "Blekan",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810105",
+      "valdistrikt_namn": "Lugnet",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810106",
+      "valdistrikt_namn": "Espedalen",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810107",
+      "valdistrikt_namn": "Älgbacken",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810108",
+      "valdistrikt_namn": "Persborg",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810109",
+      "valdistrikt_namn": "Varan",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810110",
+      "valdistrikt_namn": "Hasselstad-Eringsboda",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810111",
+      "valdistrikt_namn": "Häggatorp",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810112",
+      "valdistrikt_namn": "Kalleberga",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810113",
+      "valdistrikt_namn": "Kallinge",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810314",
+      "valdistrikt_namn": "Backaryd-Öljehult",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810617",
+      "valdistrikt_namn": "Förkärla-Listerby N",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810718",
+      "valdistrikt_namn": "Listerby S",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10810920",
+      "valdistrikt_namn": "Hjortsberga-Edestad",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10811021",
+      "valdistrikt_namn": "Bräkne-Hoby Landsbygd",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10811022",
+      "valdistrikt_namn": "Bräkne-Hoby Samhälle",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820101",
+      "valdistrikt_namn": "Högadal",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820102",
+      "valdistrikt_namn": "Prästslätten",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820103",
+      "valdistrikt_namn": "Stadsporten",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820104",
+      "valdistrikt_namn": "Torget",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820105",
+      "valdistrikt_namn": "Österslätt",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820106",
+      "valdistrikt_namn": "Tubbaryd",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820107",
+      "valdistrikt_namn": "Skogsborg",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820108",
+      "valdistrikt_namn": "Vägga",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820310",
+      "valdistrikt_namn": "Hällaryd",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820512",
+      "valdistrikt_namn": "Horsaryd",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820513",
+      "valdistrikt_namn": "Korpadalen",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820514",
+      "valdistrikt_namn": "Froarp",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820515",
+      "valdistrikt_namn": "Centrala Asarum",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820517",
+      "valdistrikt_namn": "Svängsta nordöst",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820518",
+      "valdistrikt_namn": "Svängsta sydväst",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820619",
+      "valdistrikt_namn": "Mörrum västra",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820620",
+      "valdistrikt_namn": "Mörrum östra",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10820621",
+      "valdistrikt_namn": "Gustavstorp",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10830101",
+      "valdistrikt_namn": "Furulund",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10830102",
+      "valdistrikt_namn": "Möllebacken",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10830103",
+      "valdistrikt_namn": "Falkvik",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10830104",
+      "valdistrikt_namn": "Hjortakroken",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10830105",
+      "valdistrikt_namn": "Norje m fl",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10830106",
+      "valdistrikt_namn": "Gammalstorp m fl",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10830107",
+      "valdistrikt_namn": "Mjällby m fl",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10830108",
+      "valdistrikt_namn": "Hörvik m fl",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10830109",
+      "valdistrikt_namn": "Hällevik m fl",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    },
+    {
+      "valdistrikt_kod": "10830110",
+      "valdistrikt_namn": "Siretorp m fl",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10",
+      "lan_namn": "Blekinge län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Blekinge län (val 2022) - Gratis nedladdning",
+    "description": "95 valdistrikt i Blekinge län (länskod 10) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 95 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Blekinge län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Blekinge län (val 2022) — 95 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 95 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "id": "sv-lan-iso",
+  "name": "Sveriges län — openpotato med ISO 3166-2 (SV/DE/EN)",
+  "title": "Sveriges län — openpotato med ISO 3166-2 (SV/DE/EN)",
+  "description": "Sveriges 21 län med både openpotatos sammansatta kod (SE-XX), den officiella ISO 3166-2:SE-koden (t.ex. SE-K för Blekinge), openpotatos tvåbokstaviga ShortName (BL), kategori på svenska/engelska/tyska (län/county/Provinz) och länets namn på SV/EN/DE. Officiellt språk per län (SV). Parent-kolumnen finns kvar (tomt för Sverige eftersom länen ligger direkt under riket). Kompletterar befintliga sv-lan (GioPalusa, CC0-1.0, 21 records med SCB/Lantmäteriet-koder, residensstäder och antal kommuner) genom att lägga till openpotato-kod, ShortName, ISO 3166-2 och tyska namn för cross-border-användning. Källa: src/se/subdivisions.csv (semikolon-separerad, UTF-8 med BOM).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "short_name",
+      "label": "Short Name",
+      "type": "string"
+    },
+    {
+      "key": "category_sv",
+      "label": "Category Sv",
+      "type": "string"
+    },
+    {
+      "key": "category_en",
+      "label": "Category En",
+      "type": "string"
+    },
+    {
+      "key": "category_de",
+      "label": "Category De",
+      "type": "string"
+    },
+    {
+      "key": "name_sv",
+      "label": "Name Sv",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "official_languages",
+      "label": "Official Languages",
+      "type": "string"
+    },
+    {
+      "key": "parent_short_name",
+      "label": "Parent Short Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "country": "SE",
+      "code": "SE-BL",
+      "iso_code": "SE-K",
+      "short_name": "BL",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Blekinge",
+      "name_en": "Blekinge",
+      "name_de": "Blekinge",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-GT",
+      "iso_code": "SE-I",
+      "short_name": "GT",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Gotlands",
+      "name_en": "Gotland",
+      "name_de": "Gotland",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-GV",
+      "iso_code": "SE-X",
+      "short_name": "GV",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Gävleborgs",
+      "name_en": "Gävleborg",
+      "name_de": "Gävleborg",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-HA",
+      "iso_code": "SE-N",
+      "short_name": "HA",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Hallands",
+      "name_en": "Halland",
+      "name_de": "Halland",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-JA",
+      "iso_code": "SE-Z",
+      "short_name": "JA",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Jämtlands",
+      "name_en": "Jämtland",
+      "name_de": "Jämtland",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-JO",
+      "iso_code": "SE-F",
+      "short_name": "JO",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Jönköpings",
+      "name_en": "Jönköping",
+      "name_de": "Jönköping",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-KA",
+      "iso_code": "SE-H",
+      "short_name": "KA",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Kalmar",
+      "name_en": "Kalmar",
+      "name_de": "Kalmar",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-KO",
+      "iso_code": "SE-W",
+      "short_name": "KO",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Dalarnas",
+      "name_en": "Dalarna",
+      "name_de": "Dalarna",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-KR",
+      "iso_code": "SE-G",
+      "short_name": "KR",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Kronobergs",
+      "name_en": "Kronoberg",
+      "name_de": "Kronoberg",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-NB",
+      "iso_code": "SE-BW",
+      "short_name": "NB",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Norrbottens",
+      "name_en": "Norrbotten",
+      "name_de": "Norrbotten",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-OG",
+      "iso_code": "SE-E",
+      "short_name": "OG",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Östergötlands",
+      "name_en": "Östergötland",
+      "name_de": "Östergötland",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-OR",
+      "iso_code": "SE-T",
+      "short_name": "OR",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Örebro",
+      "name_en": "Örebro",
+      "name_de": "Örebro",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-SD",
+      "iso_code": "SE-D",
+      "short_name": "SD",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Södermanlands",
+      "name_en": "Södermanland",
+      "name_de": "Södermanland",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-SN",
+      "iso_code": "SE-M",
+      "short_name": "SN",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Skåne",
+      "name_en": "Skåne",
+      "name_de": "Skåne",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-ST",
+      "iso_code": "SE-AB",
+      "short_name": "ST",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Stockholms",
+      "name_en": "Stockholm",
+      "name_de": "Stockholm",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-UP",
+      "iso_code": "SE-C",
+      "short_name": "UP",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Uppsala",
+      "name_en": "Uppsala",
+      "name_de": "Uppsala",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-VB",
+      "iso_code": "SE-BE",
+      "short_name": "VB",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Västerbottens",
+      "name_en": "Västerbotten",
+      "name_de": "Västerbotten",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-VG",
+      "iso_code": "SE-O",
+      "short_name": "VG",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Västra Götalands",
+      "name_en": "Västra Götaland",
+      "name_de": "Västra Götaland",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-VM",
+      "iso_code": "SE-U",
+      "short_name": "VM",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Västmanlands",
+      "name_en": "Västmanland",
+      "name_de": "Västmanland",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-VN",
+      "iso_code": "SE-Y",
+      "short_name": "VN",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Västernorrlands",
+      "name_en": "Västernorrland",
+      "name_de": "Västernorrland",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    },
+    {
+      "country": "SE",
+      "code": "SE-VR",
+      "iso_code": "SE-S",
+      "short_name": "VR",
+      "category_sv": "län",
+      "category_en": "county",
+      "category_de": "Provinz",
+      "name_sv": "Värmlands",
+      "name_en": "Värmland",
+      "name_de": "Värmland",
+      "official_languages": "SV",
+      "parent_short_name": ""
+    }
+  ],
+  "meta": {
+    "title": "Sveriges län — openpotato med ISO 3166-2 (SV/DE/EN) - Gratis nedladdning",
+    "description": "Sveriges 21 län med både openpotatos sammansatta kod (SE-XX), den officiella ISO 3166-2:SE-koden (t.ex. SE-K för Blekinge), openpotatos tvåbokstaviga ShortName (BL), kategori på svenska/engelska/tyska (län/county/Provinz) och länets namn på SV/EN/DE. Officiellt språk per län (SV). Parent-kolumnen finns kvar (tomt för Sverige eftersom länen ligger direkt under riket). Kompletterar befintliga sv-lan (GioPalusa, CC0-1.0, 21 records med SCB/Lantmäteriet-koder, residensstäder och antal kommuner) genom att lägga till openpotato-kod, ShortName, ISO 3166-2 och tyska namn för cross-border-användning. Källa: src/se/subdivisions.csv (semikolon-separerad, UTF-8 med BOM). Innehåller 21 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Sveriges län — openpotato med ISO 3166-2 (SV/DE/EN) | ListBase",
+    "seo_description": "Ladda ner Sveriges län — openpotato med ISO 3166-2 (SV/DE/EN) — 21 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 21 poster / 12 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

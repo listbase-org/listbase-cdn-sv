@@ -1,0 +1,115 @@
+{
+  "id": "sv-halland-kommuner",
+  "name": "Kommuner i Hallands län",
+  "title": "Kommuner i Hallands län",
+  "description": "6 kommuner i Hallands län (länskod 13, ISO SE-N , residensstad Halmstad). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "1315",
+      "name": "Hylte kommun",
+      "name_short": "Hylte",
+      "slug": "hylte",
+      "locality": "HYLTEBRUK",
+      "url": "http://www.hylte.se",
+      "num_postnummer": 66
+    },
+    {
+      "kommunkod": "1380",
+      "name": "Halmstads kommun",
+      "name_short": "Halmstad",
+      "slug": "halmstad",
+      "locality": "HALMSTAD",
+      "url": "http://www.halmstad.se",
+      "num_postnummer": 186
+    },
+    {
+      "kommunkod": "1381",
+      "name": "Laholms kommun",
+      "name_short": "Laholm",
+      "slug": "laholm",
+      "locality": "LAHOLM",
+      "url": "http://www.laholm.se",
+      "num_postnummer": 115
+    },
+    {
+      "kommunkod": "1382",
+      "name": "Falkenbergs kommun",
+      "name_short": "Falkenberg",
+      "slug": "falkenberg",
+      "locality": "FALKENBERG",
+      "url": "http://www.falkenberg.se",
+      "num_postnummer": 104
+    },
+    {
+      "kommunkod": "1383",
+      "name": "Varbergs kommun",
+      "name_short": "Varberg",
+      "slug": "varberg",
+      "locality": "VARBERG",
+      "url": "http://www.varberg.se",
+      "num_postnummer": 166
+    },
+    {
+      "kommunkod": "1384",
+      "name": "Kungsbacka kommun",
+      "name_short": "Kungsbacka",
+      "slug": "kungsbacka",
+      "locality": "KUNGSBACKA",
+      "url": "http://www.kungsbacka.se",
+      "num_postnummer": 157
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Hallands län - Gratis nedladdning",
+    "description": "6 kommuner i Hallands län (länskod 13, ISO SE-N , residensstad Halmstad). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 6 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Hallands län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Hallands län — 6 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 6 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

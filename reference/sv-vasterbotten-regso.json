@@ -1,0 +1,821 @@
+{
+  "id": "sv-vasterbotten-regso",
+  "name": "RegSO-områden i Västerbottens län",
+  "title": "RegSO-områden i Västerbottens län",
+  "description": "110 regionala statistikområden (RegSO) i Västerbottens län (länskod 24). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 110,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "2401R001",
+      "regso_namn": "Levaråkern",
+      "kommun_kod": "2401",
+      "kommun_namn": "Nordmaling",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2401R002",
+      "regso_namn": "Nordmaling centrum",
+      "kommun_kod": "2401",
+      "kommun_namn": "Nordmaling",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2401R003",
+      "regso_namn": "Nordmalings norra omland",
+      "kommun_kod": "2401",
+      "kommun_namn": "Nordmaling",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2401R004",
+      "regso_namn": "Nordmalings södra omland",
+      "kommun_kod": "2401",
+      "kommun_namn": "Nordmaling",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2401R005",
+      "regso_namn": "Rundvik-Lögdeå",
+      "kommun_kod": "2401",
+      "kommun_namn": "Nordmaling",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2403R001",
+      "regso_namn": "Bjurholms centralort",
+      "kommun_kod": "2403",
+      "kommun_namn": "Bjurholm",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2403R002",
+      "regso_namn": "Bjurholms landsbygd",
+      "kommun_kod": "2403",
+      "kommun_namn": "Bjurholm",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2404R001",
+      "regso_namn": "Umeälvsdalen",
+      "kommun_kod": "2404",
+      "kommun_namn": "Vindeln",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2404R002",
+      "regso_namn": "Vindelns omland",
+      "kommun_kod": "2404",
+      "kommun_namn": "Vindeln",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2404R003",
+      "regso_namn": "Vindelns tätort",
+      "kommun_kod": "2404",
+      "kommun_namn": "Vindeln",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2409R001",
+      "regso_namn": "Robertsfors",
+      "kommun_kod": "2409",
+      "kommun_namn": "Robertsfors",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2409R002",
+      "regso_namn": "Robertsfors centrala omland",
+      "kommun_kod": "2409",
+      "kommun_namn": "Robertsfors",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2409R003",
+      "regso_namn": "Robertsfors norra omland",
+      "kommun_kod": "2409",
+      "kommun_namn": "Robertsfors",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2409R004",
+      "regso_namn": "Robertsfors södra omland",
+      "kommun_kod": "2409",
+      "kommun_namn": "Robertsfors",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2417R001",
+      "regso_namn": "Norsjö omland",
+      "kommun_kod": "2417",
+      "kommun_namn": "Norsjö",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2417R002",
+      "regso_namn": "Norsjö tätort",
+      "kommun_kod": "2417",
+      "kommun_namn": "Norsjö",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2418R001",
+      "regso_namn": "Malå",
+      "kommun_kod": "2418",
+      "kommun_namn": "Malå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2418R002",
+      "regso_namn": "Malå västra",
+      "kommun_kod": "2418",
+      "kommun_namn": "Malå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2418R003",
+      "regso_namn": "Malå östra",
+      "kommun_kod": "2418",
+      "kommun_namn": "Malå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2421R001",
+      "regso_namn": "Luspen",
+      "kommun_kod": "2421",
+      "kommun_namn": "Storuman",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2421R002",
+      "regso_namn": "Storuman västra",
+      "kommun_kod": "2421",
+      "kommun_namn": "Storuman",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2421R003",
+      "regso_namn": "Storuman östra",
+      "kommun_kod": "2421",
+      "kommun_namn": "Storuman",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2421R004",
+      "regso_namn": "Vallnäs",
+      "kommun_kod": "2421",
+      "kommun_namn": "Storuman",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2422R001",
+      "regso_namn": "Sorsele centralort",
+      "kommun_kod": "2422",
+      "kommun_namn": "Sorsele",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2422R002",
+      "regso_namn": "Sorsele omland",
+      "kommun_kod": "2422",
+      "kommun_namn": "Sorsele",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2425R001",
+      "regso_namn": "Dorotea omland",
+      "kommun_kod": "2425",
+      "kommun_namn": "Dorotea",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2425R002",
+      "regso_namn": "Dorotea tätort",
+      "kommun_kod": "2425",
+      "kommun_namn": "Dorotea",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2460R001",
+      "regso_namn": "Vännäs",
+      "kommun_kod": "2460",
+      "kommun_namn": "Vännäs",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2460R002",
+      "regso_namn": "Vännäs landsbygder",
+      "kommun_kod": "2460",
+      "kommun_namn": "Vännäs",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2460R003",
+      "regso_namn": "Vännäsby",
+      "kommun_kod": "2460",
+      "kommun_namn": "Vännäs",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2462R001",
+      "regso_namn": "Vilhelmina tätort Södra",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2462R002",
+      "regso_namn": "Vilhelmina tätort-Baksjön",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2462R003",
+      "regso_namn": "Vilhelmina tätort-Bergbacka-Trissen",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2462R004",
+      "regso_namn": "Vilhelmina västra",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2462R005",
+      "regso_namn": "Vilhelmina östra",
+      "kommun_kod": "2462",
+      "kommun_namn": "Vilhelmina",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2463R001",
+      "regso_namn": "Åsele omland",
+      "kommun_kod": "2463",
+      "kommun_namn": "Åsele",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2463R002",
+      "regso_namn": "Åsele tätort",
+      "kommun_kod": "2463",
+      "kommun_namn": "Åsele",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R001",
+      "regso_namn": "Berghem norra-Fridhem",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R002",
+      "regso_namn": "Berghem södra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R003",
+      "regso_namn": "Carlshem norra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R004",
+      "regso_namn": "Ersboda centrala-Ersboda sydöstra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R005",
+      "regso_namn": "Ersboda nordöstra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R006",
+      "regso_namn": "Ersboda västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R007",
+      "regso_namn": "Ersmark",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R008",
+      "regso_namn": "Grisbacka-Grubbe-Västerhiske",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R009",
+      "regso_namn": "Haga",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R010",
+      "regso_namn": "Holmsund västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R011",
+      "regso_namn": "Holmsund östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R012",
+      "regso_namn": "Holmsund-Obbola omland",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R013",
+      "regso_namn": "Hörnefors omland",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R014",
+      "regso_namn": "Hörnefors tätort",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R015",
+      "regso_namn": "Marieberg",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R016",
+      "regso_namn": "Mariehem västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R017",
+      "regso_namn": "Mariehem östra-Olofsdal",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R018",
+      "regso_namn": "Obbola",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R019",
+      "regso_namn": "Röbäck",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R020",
+      "regso_namn": "Sandbacka",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R021",
+      "regso_namn": "Sofiehem-Gimonäs-Carlshem södra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R022",
+      "regso_namn": "Sävar omland",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R023",
+      "regso_namn": "Sävar tätort",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R024",
+      "regso_namn": "Teg centrala",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R025",
+      "regso_namn": "Teg västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R026",
+      "regso_namn": "Teg östra-Ön",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R027",
+      "regso_namn": "Tomtebo norra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R028",
+      "regso_namn": "Tomtebo västra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R029",
+      "regso_namn": "Tomtebo östra-Innertavle",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R030",
+      "regso_namn": "Täfteå tätort",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R031",
+      "regso_namn": "Umedalen västra-Backen",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R032",
+      "regso_namn": "Umedalen östra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R033",
+      "regso_namn": "Umeå centrum",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R034",
+      "regso_namn": "Umeå norra landsbygd",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R035",
+      "regso_namn": "Umeå södra landsbygd",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R036",
+      "regso_namn": "Umeå västra landsbygd",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R037",
+      "regso_namn": "Universitetet-sjukhusområdet-Nydalahöjden",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R038",
+      "regso_namn": "Väst på stan",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R039",
+      "regso_namn": "Västerslätt-Rödäng",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R040",
+      "regso_namn": "Ålidhem norra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R041",
+      "regso_namn": "Ålidhem södra",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2480R042",
+      "regso_namn": "Öst på stan",
+      "kommun_kod": "2480",
+      "kommun_namn": "Umeå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2481R001",
+      "regso_namn": "Forsdala-Nydala",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2481R002",
+      "regso_namn": "Jonsta-Villaryd-Furuvik",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2481R003",
+      "regso_namn": "Lugnet-Lycksele centrum",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2481R004",
+      "regso_namn": "Lyckseleomland",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2481R005",
+      "regso_namn": "Norrmalm-Norräng-Solsidan",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2481R006",
+      "regso_namn": "Södermalm",
+      "kommun_kod": "2481",
+      "kommun_namn": "Lycksele",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R001",
+      "regso_namn": "Anderstorp",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R002",
+      "regso_namn": "Bergsbyn",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R003",
+      "regso_namn": "Boliden tätort",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R004",
+      "regso_namn": "Bureå omland",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R005",
+      "regso_namn": "Bureå tätort",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R006",
+      "regso_namn": "Burträsk omland",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R007",
+      "regso_namn": "Burträsk tätort",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R008",
+      "regso_namn": "Byske omland",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R009",
+      "regso_namn": "Byske tätort",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R010",
+      "regso_namn": "Degerbyn-Prästbordet",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R011",
+      "regso_namn": "Ersmark-Kåge tätort",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R012",
+      "regso_namn": "Jörn-Boliden omland",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R013",
+      "regso_namn": "Klutmark-Medle-Myckle-Stämningsgården",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R014",
+      "regso_namn": "Kåge omland",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R015",
+      "regso_namn": "Lund-Sunnanå",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R016",
+      "regso_namn": "Lövånger",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R017",
+      "regso_namn": "Moröhöjden-Morö backe centrum",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R018",
+      "regso_namn": "Morön",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R019",
+      "regso_namn": "Norra Morö backe",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R020",
+      "regso_namn": "Sjungande dalen-Västra Norrböle",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R021",
+      "regso_namn": "Skelleftehamn",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R022",
+      "regso_namn": "Skellefteå centrala stan",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R023",
+      "regso_namn": "Sörböle",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R024",
+      "regso_namn": "Ursviken-Örviken",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    },
+    {
+      "regso_kod": "2482R025",
+      "regso_namn": "Östra Norrböle",
+      "kommun_kod": "2482",
+      "kommun_namn": "Skellefteå",
+      "lan_kod": "24"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Västerbottens län - Gratis nedladdning",
+    "description": "110 regionala statistikområden (RegSO) i Västerbottens län (länskod 24). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 110 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Västerbottens län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Västerbottens län — 110 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 110 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

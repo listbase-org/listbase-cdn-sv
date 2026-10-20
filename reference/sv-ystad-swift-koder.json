@@ -1,0 +1,64 @@
+{
+  "id": "sv-ystad-swift-koder",
+  "name": "SWIFT/BIC-koder — Ystad",
+  "title": "SWIFT/BIC-koder — Ystad",
+  "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 3 institut som källan anger med orten \"YSTAD\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "ATLANT FONDER AB",
+      "city": "YSTAD",
+      "branch": "",
+      "swift_code": "ATFDSE21"
+    },
+    {
+      "bank": "SPARBANKEN SYD",
+      "city": "YSTAD",
+      "branch": "",
+      "swift_code": "SPSDSE21"
+    },
+    {
+      "bank": "SPARBANKEN SYD",
+      "city": "YSTAD",
+      "branch": "",
+      "swift_code": "SPSDSE23"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Ystad - Gratis nedladdning",
+    "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 3 institut som källan anger med orten \"YSTAD\". Innehåller 3 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Ystad | ListBase",
+    "seo_description": "Ladda ner SWIFT/BIC-koder — Ystad — 3 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 3 poster / 4 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

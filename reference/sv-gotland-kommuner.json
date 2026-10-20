@@ -1,0 +1,70 @@
+{
+  "id": "sv-gotland-kommuner",
+  "name": "Kommuner i Gotlands län",
+  "title": "Kommuner i Gotlands län",
+  "description": "1 kommuner i Gotlands län (länskod 09, ISO SE-I , residensstad Visby). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "0980",
+      "name": "Region Gotland (kommun)",
+      "name_short": "Gotland",
+      "slug": "gotland",
+      "locality": "VISBY",
+      "url": "http://www.gotland.se",
+      "num_postnummer": 0
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Gotlands län - Gratis nedladdning",
+    "description": "1 kommuner i Gotlands län (länskod 09, ISO SE-I , residensstad Visby). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 1 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Gotlands län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Gotlands län — 1 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 1 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

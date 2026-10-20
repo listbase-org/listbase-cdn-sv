@@ -1,0 +1,1280 @@
+{
+  "id": "sv-gavleborg-valdistrikt-2022",
+  "name": "Valdistrikt i Gävleborgs län (val 2022)",
+  "title": "Valdistrikt i Gävleborgs län (val 2022)",
+  "description": "153 valdistrikt i Gävleborgs län (länskod 21) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "21010201",
+      "valdistrikt_namn": "Ockelbo Södra",
+      "kommun_kod": "2101",
+      "kommun_namn": "Ockelbo",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21010203",
+      "valdistrikt_namn": "Ockelbo Byar",
+      "kommun_kod": "2101",
+      "kommun_namn": "Ockelbo",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21010205",
+      "valdistrikt_namn": "Ockelbo Norra",
+      "kommun_kod": "2101",
+      "kommun_namn": "Ockelbo",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21040102",
+      "valdistrikt_namn": "Hofors Norra",
+      "kommun_kod": "2104",
+      "kommun_namn": "Hofors",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21040103",
+      "valdistrikt_namn": "Hofors Södra",
+      "kommun_kod": "2104",
+      "kommun_namn": "Hofors",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21040104",
+      "valdistrikt_namn": "Hofors Centrum",
+      "kommun_kod": "2104",
+      "kommun_namn": "Hofors",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21040105",
+      "valdistrikt_namn": "Hofors Västra",
+      "kommun_kod": "2104",
+      "kommun_namn": "Hofors",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21040201",
+      "valdistrikt_namn": "Torsåker",
+      "kommun_kod": "2104",
+      "kommun_namn": "Hofors",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21210105",
+      "valdistrikt_namn": "Ovanåker N",
+      "kommun_kod": "2121",
+      "kommun_namn": "Ovanåker",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21210106",
+      "valdistrikt_namn": "Edsbyn",
+      "kommun_kod": "2121",
+      "kommun_namn": "Ovanåker",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21210201",
+      "valdistrikt_namn": "Ovanåker V",
+      "kommun_kod": "2121",
+      "kommun_namn": "Ovanåker",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21210301",
+      "valdistrikt_namn": "Alfta S",
+      "kommun_kod": "2121",
+      "kommun_namn": "Ovanåker",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21210303",
+      "valdistrikt_namn": "Alfta N",
+      "kommun_kod": "2121",
+      "kommun_namn": "Ovanåker",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21320201",
+      "valdistrikt_namn": "Harmånger-Ilsbo",
+      "kommun_kod": "2132",
+      "kommun_namn": "Nordanstig",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21320301",
+      "valdistrikt_namn": "Jättendal-Stocka-Strömsbruk",
+      "kommun_kod": "2132",
+      "kommun_namn": "Nordanstig",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21320401",
+      "valdistrikt_namn": "Gnarp",
+      "kommun_kod": "2132",
+      "kommun_namn": "Nordanstig",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21320501",
+      "valdistrikt_namn": "Bergsjö",
+      "kommun_kod": "2132",
+      "kommun_namn": "Nordanstig",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21320601",
+      "valdistrikt_namn": "Hassela-Älgered",
+      "kommun_kod": "2132",
+      "kommun_namn": "Nordanstig",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610101",
+      "valdistrikt_namn": "Ljusdal CV",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610102",
+      "valdistrikt_namn": "Tallåsen",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610104",
+      "valdistrikt_namn": "Ljusdal CÖ",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610105",
+      "valdistrikt_namn": "Ljusdal CS",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610106",
+      "valdistrikt_namn": "Ljusdal CN",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610107",
+      "valdistrikt_namn": "Ljusdal C",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610301",
+      "valdistrikt_namn": "Los-Hamra",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610401",
+      "valdistrikt_namn": "Färila",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610501",
+      "valdistrikt_namn": "Korskrogen-Kårböle",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610601",
+      "valdistrikt_namn": "Ramsjö-Hennan",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610701",
+      "valdistrikt_namn": "Järvsö Ö",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610702",
+      "valdistrikt_namn": "Järvsö V",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21610703",
+      "valdistrikt_namn": "Järvsö N",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800101",
+      "valdistrikt_namn": "Väster N",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800102",
+      "valdistrikt_namn": "Villastaden",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800103",
+      "valdistrikt_namn": "Väster S",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800105",
+      "valdistrikt_namn": "Norr",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800106",
+      "valdistrikt_namn": "Öster-Alderholmen",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800107",
+      "valdistrikt_namn": "Söder V",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800108",
+      "valdistrikt_namn": "Stigslund",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800109",
+      "valdistrikt_namn": "Strömsbro",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800110",
+      "valdistrikt_namn": "Norrlandet-Utvalnäs",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800111",
+      "valdistrikt_namn": "Vallbacken",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800113",
+      "valdistrikt_namn": "Nordost",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800114",
+      "valdistrikt_namn": "Gävle Strand",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800201",
+      "valdistrikt_namn": "Söder Ö",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800202",
+      "valdistrikt_namn": "Brynäs V",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800203",
+      "valdistrikt_namn": "Brynäs C",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800204",
+      "valdistrikt_namn": "Brynäs Ö",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800206",
+      "valdistrikt_namn": "Brynäs S",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800208",
+      "valdistrikt_namn": "Hemsta",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800213",
+      "valdistrikt_namn": "Furuvik-Ytterharnäs",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800214",
+      "valdistrikt_namn": "Hemlingby",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800301",
+      "valdistrikt_namn": "Bergby-Axmar",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800302",
+      "valdistrikt_namn": "Norrsundet-Hamrångefjärden",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800401",
+      "valdistrikt_namn": "Hedesunda N",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800402",
+      "valdistrikt_namn": "Hedesunda S",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800501",
+      "valdistrikt_namn": "Hille",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800502",
+      "valdistrikt_namn": "Åbyggeby",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800503",
+      "valdistrikt_namn": "Björke-Trödje",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800604",
+      "valdistrikt_namn": "Valbo C",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800605",
+      "valdistrikt_namn": "Valbo N",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800607",
+      "valdistrikt_namn": "Valbo V",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800608",
+      "valdistrikt_namn": "Forsbacka",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800609",
+      "valdistrikt_namn": "Hagaström C",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800701",
+      "valdistrikt_namn": "Södertull",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800702",
+      "valdistrikt_namn": "Olsbacka",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800703",
+      "valdistrikt_namn": "Sörby",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800704",
+      "valdistrikt_namn": "Fridhem",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800705",
+      "valdistrikt_namn": "Andersberg C",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800706",
+      "valdistrikt_namn": "Andersberg N",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800707",
+      "valdistrikt_namn": "Andersberg S-Sälgsjön-Hästbo",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800801",
+      "valdistrikt_namn": "Sätra C",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800802",
+      "valdistrikt_namn": "Sätra NO",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800804",
+      "valdistrikt_namn": "Sätra Ö",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800805",
+      "valdistrikt_namn": "Sätra V",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800806",
+      "valdistrikt_namn": "Sätra NV",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800901",
+      "valdistrikt_namn": "Bomhus V",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800902",
+      "valdistrikt_namn": "Bomhus N",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800903",
+      "valdistrikt_namn": "Bomhus Ö",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800904",
+      "valdistrikt_namn": "Bomhus C",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800906",
+      "valdistrikt_namn": "Bomhus SV",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21800907",
+      "valdistrikt_namn": "Bomhus SO",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21801002",
+      "valdistrikt_namn": "Norrtull-Lexe",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21801003",
+      "valdistrikt_namn": "Valbo Ö-Hagaström N",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810101",
+      "valdistrikt_namn": "Sandviken Norra",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810102",
+      "valdistrikt_namn": "Jäderfors-Norrsätra",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810103",
+      "valdistrikt_namn": "Murgården",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810104",
+      "valdistrikt_namn": "Sandbacka",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810105",
+      "valdistrikt_namn": "Barrsätra",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810106",
+      "valdistrikt_namn": "Sandviken Centrum",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810109",
+      "valdistrikt_namn": "Jernvallen Norra",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810110",
+      "valdistrikt_namn": "Jernvallen Södra",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810113",
+      "valdistrikt_namn": "Björksätra",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810115",
+      "valdistrikt_namn": "Vallhov",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810202",
+      "valdistrikt_namn": "Kungsgården-Åshammar",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810204",
+      "valdistrikt_namn": "Säljan",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810205",
+      "valdistrikt_namn": "Storvik Norra",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810206",
+      "valdistrikt_namn": "Gästrike-Hammarby-Storvik Södra",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810301",
+      "valdistrikt_namn": "Järbo",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810401",
+      "valdistrikt_namn": "Årsunda",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810501",
+      "valdistrikt_namn": "Österfärnebo",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21810601",
+      "valdistrikt_namn": "Stadsparken",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820101",
+      "valdistrikt_namn": "Söderhamn Centrum-Väster",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820102",
+      "valdistrikt_namn": "Söderhamn Norrtull-Granskär",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820103",
+      "valdistrikt_namn": "Söderhamn Norrberget-Hägnan m fl",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820105",
+      "valdistrikt_namn": "Söderhamn Klossdammen-Stormyran m fl",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820106",
+      "valdistrikt_namn": "Söderhamn Öster-Broberg-Färssjön",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820107",
+      "valdistrikt_namn": "Stugsund",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820201",
+      "valdistrikt_namn": "Sandarne",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820401",
+      "valdistrikt_namn": "Ljusne",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820501",
+      "valdistrikt_namn": "Söderala",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820502",
+      "valdistrikt_namn": "Marma-Mo",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820503",
+      "valdistrikt_namn": "Bergvik – Skog",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820901",
+      "valdistrikt_namn": "Vågbro",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21820902",
+      "valdistrikt_namn": "Norrala-Trönö",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830301",
+      "valdistrikt_namn": "Bollnäs Centrum",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830302",
+      "valdistrikt_namn": "Bollnäs-Sävsberg",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830303",
+      "valdistrikt_namn": "Bollnäs-Granberg",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830304",
+      "valdistrikt_namn": "Bollnäs-Gärdet",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830306",
+      "valdistrikt_namn": "Bollnäs-Hamre",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830307",
+      "valdistrikt_namn": "Bollnäs-Björktjära",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830308",
+      "valdistrikt_namn": "Bollnäs-Lottefors",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830309",
+      "valdistrikt_namn": "Bollnäs-Ren",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830310",
+      "valdistrikt_namn": "Bollnäs-Söräng",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830311",
+      "valdistrikt_namn": "Bollnäs-Hå",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830312",
+      "valdistrikt_namn": "Bollnäs-Kilberg",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830401",
+      "valdistrikt_namn": "Rengsjö",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830501",
+      "valdistrikt_namn": "Hanebo-Segersta",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830602",
+      "valdistrikt_namn": "Hanebo Centrum",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830902",
+      "valdistrikt_namn": "Arbrå Centrum",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830903",
+      "valdistrikt_namn": "Arbrå-Undersvik",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21830904",
+      "valdistrikt_namn": "Arbrå-Flästa",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840101",
+      "valdistrikt_namn": "Helenedal mfl",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840103",
+      "valdistrikt_namn": "Östertull mfl",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840104",
+      "valdistrikt_namn": "Kristineberg mfl",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840105",
+      "valdistrikt_namn": "Västertull mfl",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840106",
+      "valdistrikt_namn": "Kyrkbacken mfl",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840107",
+      "valdistrikt_namn": "Fridhem-Åvik",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840201",
+      "valdistrikt_namn": "Idenor",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840302",
+      "valdistrikt_namn": "Björkberg mfl",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840303",
+      "valdistrikt_namn": "Håsta mfl",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840401",
+      "valdistrikt_namn": "Rogsta",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840501",
+      "valdistrikt_namn": "Njutånger",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840503",
+      "valdistrikt_namn": "Iggesund  Norr",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840504",
+      "valdistrikt_namn": "Iggesund Söder",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840701",
+      "valdistrikt_namn": "Enånger",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840803",
+      "valdistrikt_namn": "Bobygden-Kalvstigen",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840804",
+      "valdistrikt_namn": "Delsbo Östra",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840805",
+      "valdistrikt_namn": "Delsbo Västra",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840901",
+      "valdistrikt_namn": "Friggesund-Hålsjö mfl",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21840902",
+      "valdistrikt_namn": "Svågadalen",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21841101",
+      "valdistrikt_namn": "Näsviken mfl",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21841102",
+      "valdistrikt_namn": "Sörforsa mfl",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    },
+    {
+      "valdistrikt_kod": "21841201",
+      "valdistrikt_namn": "Edsta-Sanna mfl",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21",
+      "lan_namn": "Gävleborgs län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Gävleborgs län (val 2022) - Gratis nedladdning",
+    "description": "153 valdistrikt i Gävleborgs län (länskod 21) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 153 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Gävleborgs län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Gävleborgs län (val 2022) — 153 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 153 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

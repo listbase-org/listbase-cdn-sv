@@ -1,0 +1,133 @@
+{
+  "id": "sv-mattenheter-electric",
+  "name": "Måttenheter – kategori 'electric' (8)",
+  "title": "Måttenheter – kategori 'electric' (8)",
+  "description": "Måttenheter i kategorin 'electric' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "electric-ampere",
+      "kategori": "electric",
+      "namn": "ampere",
+      "forkortning": "A",
+      "smal_form": "A",
+      "monster": "{0} ampere"
+    },
+    {
+      "id": 2,
+      "unit_code": "electric-coulomb",
+      "kategori": "electric",
+      "namn": "coulomb",
+      "forkortning": "C",
+      "smal_form": "C",
+      "monster": "{0} coulomb"
+    },
+    {
+      "id": 3,
+      "unit_code": "electric-farad",
+      "kategori": "electric",
+      "namn": "farad",
+      "forkortning": "F",
+      "smal_form": "F",
+      "monster": "{0} farad"
+    },
+    {
+      "id": 4,
+      "unit_code": "electric-henry",
+      "kategori": "electric",
+      "namn": "henry",
+      "forkortning": "H",
+      "smal_form": "H",
+      "monster": "{0} henry"
+    },
+    {
+      "id": 5,
+      "unit_code": "electric-milliampere",
+      "kategori": "electric",
+      "namn": "milliampere",
+      "forkortning": "mA",
+      "smal_form": "mA",
+      "monster": "{0} milliampere"
+    },
+    {
+      "id": 6,
+      "unit_code": "electric-ohm",
+      "kategori": "electric",
+      "namn": "ohm",
+      "forkortning": "ohm",
+      "smal_form": "Ω",
+      "monster": "{0} ohm"
+    },
+    {
+      "id": 7,
+      "unit_code": "electric-siemens",
+      "kategori": "electric",
+      "namn": "siemens",
+      "forkortning": "S",
+      "smal_form": "S",
+      "monster": "{0} siemens"
+    },
+    {
+      "id": 8,
+      "unit_code": "electric-volt",
+      "kategori": "electric",
+      "namn": "volt",
+      "forkortning": "volt",
+      "smal_form": "V",
+      "monster": "{0} volt"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'electric' (8) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'electric' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 8 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'electric' (8) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'electric' (8) — 8 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 8 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

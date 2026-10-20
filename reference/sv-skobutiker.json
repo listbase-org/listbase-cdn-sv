@@ -1,0 +1,2351 @@
+{
+  "id": "sv-skobutiker",
+  "name": "Skobutiker (Shoe shops)",
+  "title": "Skobutiker (Shoe shops)",
+  "description": "Skobutiker i Sverige — OpenStreetMap-punktdata (OSM-tagg: shop=shoes). Swedish shoe shops as named point locations with WGS84 coordinates. 462 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 462,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alida skor",
+      "latitude": 60.6717,
+      "longitude": 17.14681
+    },
+    {
+      "name": "Alke-Skor",
+      "latitude": 56.278083,
+      "longitude": 14.528308
+    },
+    {
+      "name": "Alline",
+      "latitude": 59.334323,
+      "longitude": 18.076955
+    },
+    {
+      "name": "Anderssons skomakeri",
+      "latitude": 59.32988,
+      "longitude": 18.037395
+    },
+    {
+      "name": "Angela C",
+      "latitude": 59.33629,
+      "longitude": 18.077043
+    },
+    {
+      "name": "Antonios skor",
+      "latitude": 59.521238,
+      "longitude": 17.904379
+    },
+    {
+      "name": "August Johansson",
+      "latitude": 59.858832,
+      "longitude": 17.639836
+    },
+    {
+      "name": "Axel H Larssons Skoaffär",
+      "latitude": 56.200091,
+      "longitude": 12.559919
+    },
+    {
+      "name": "Axel Wallberg skor",
+      "latitude": 58.481555,
+      "longitude": 16.32115
+    },
+    {
+      "name": "Baby Mocs",
+      "latitude": 59.417569,
+      "longitude": 17.856551
+    },
+    {
+      "name": "Bata",
+      "latitude": 59.275239,
+      "longitude": 17.906331
+    },
+    {
+      "name": "Bekväma skor",
+      "latitude": 57.693104,
+      "longitude": 11.972163
+    },
+    {
+      "name": "Bergquist Skor",
+      "latitude": 60.605848,
+      "longitude": 15.632259
+    },
+    {
+      "name": "Bergqvist skor",
+      "latitude": 59.327338,
+      "longitude": 14.522368
+    },
+    {
+      "name": "Bergqvist skor",
+      "latitude": 58.326223,
+      "longitude": 15.127359
+    },
+    {
+      "name": "Bergqvist Skor",
+      "latitude": 59.217687,
+      "longitude": 15.13849
+    },
+    {
+      "name": "Bergqvist skor",
+      "latitude": 59.380325,
+      "longitude": 13.503903
+    },
+    {
+      "name": "Bergqvist Skor",
+      "latitude": 56.884825,
+      "longitude": 14.766415
+    },
+    {
+      "name": "Bergqvist skor",
+      "latitude": 58.537163,
+      "longitude": 15.0363
+    },
+    {
+      "name": "Bergqvist Skor",
+      "latitude": 59.376156,
+      "longitude": 13.42717
+    },
+    {
+      "name": "Bergqvist skor",
+      "latitude": 58.433185,
+      "longitude": 15.585407
+    },
+    {
+      "name": "Bergqvists skor",
+      "latitude": 58.410004,
+      "longitude": 15.626003
+    },
+    {
+      "name": "Bergstrands",
+      "latitude": 55.428792,
+      "longitude": 13.821366
+    },
+    {
+      "name": "Bergströms",
+      "latitude": 59.858316,
+      "longitude": 17.637362
+    },
+    {
+      "name": "Bergströms Skor",
+      "latitude": 59.609896,
+      "longitude": 16.543699
+    },
+    {
+      "name": "Bianco",
+      "latitude": 57.651572,
+      "longitude": 11.911251
+    },
+    {
+      "name": "Bianco Triangeln",
+      "latitude": 55.595158,
+      "longitude": 13.001243
+    },
+    {
+      "name": "Borgeby skor",
+      "latitude": 55.740137,
+      "longitude": 13.033614
+    },
+    {
+      "name": "BR Skor",
+      "latitude": 56.277897,
+      "longitude": 14.532324
+    },
+    {
+      "name": "BR Skor AB",
+      "latitude": 56.066237,
+      "longitude": 14.47893
+    },
+    {
+      "name": "Bra Skor",
+      "latitude": 56.158365,
+      "longitude": 13.765175
+    },
+    {
+      "name": "Broby skoaffär",
+      "latitude": 56.25412,
+      "longitude": 14.071494
+    },
+    {
+      "name": "Bäckmans skoservice",
+      "latitude": 59.335432,
+      "longitude": 18.077853
+    },
+    {
+      "name": "Church's",
+      "latitude": 59.333781,
+      "longitude": 18.07452
+    },
+    {
+      "name": "Cinnamon",
+      "latitude": 59.859648,
+      "longitude": 17.630765
+    },
+    {
+      "name": "Cinnamon",
+      "latitude": 57.702942,
+      "longitude": 11.964088
+    },
+    {
+      "name": "Cinnamon",
+      "latitude": 55.599264,
+      "longitude": 13.000929
+    },
+    {
+      "name": "Cinnamon",
+      "latitude": 59.334244,
+      "longitude": 18.058848
+    },
+    {
+      "name": "Cinnamon",
+      "latitude": 57.705638,
+      "longitude": 11.966728
+    },
+    {
+      "name": "Clarks",
+      "latitude": 59.416582,
+      "longitude": 17.856092
+    },
+    {
+      "name": "Crockett & Jones",
+      "latitude": 59.8597,
+      "longitude": 17.64107
+    },
+    {
+      "name": "Crockett & Jones",
+      "latitude": 56.065067,
+      "longitude": 12.710086
+    },
+    {
+      "name": "Dahlgrens Skor",
+      "latitude": 58.937464,
+      "longitude": 11.173777
+    },
+    {
+      "name": "Dansbutiken",
+      "latitude": 57.700033,
+      "longitude": 11.97239
+    },
+    {
+      "name": "Dansskor i Väst AB",
+      "latitude": 58.016585,
+      "longitude": 11.833369
+    },
+    {
+      "name": "Deichman sko",
+      "latitude": 59.880952,
+      "longitude": 12.29042
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 59.403397,
+      "longitude": 17.944044
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 57.733863,
+      "longitude": 12.938324
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 58.312718,
+      "longitude": 12.308328
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 56.092125,
+      "longitude": 12.758815
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 63.807108,
+      "longitude": 20.254525
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 59.518469,
+      "longitude": 17.911134
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 59.6087,
+      "longitude": 16.456148
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 59.428262,
+      "longitude": 17.950504
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 57.708806,
+      "longitude": 11.970564
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 59.309214,
+      "longitude": 18.164541
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 56.026741,
+      "longitude": 14.206582
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 57.796278,
+      "longitude": 12.05039
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 59.217745,
+      "longitude": 15.136894
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 58.572999,
+      "longitude": 16.209398
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 59.379943,
+      "longitude": 13.501093
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 57.87295,
+      "longitude": 11.968467
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 56.884879,
+      "longitude": 14.766611
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 59.275782,
+      "longitude": 17.906242
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 59.242307,
+      "longitude": 18.092051
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 57.650867,
+      "longitude": 11.913122
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 60.60703,
+      "longitude": 15.629414
+    },
+    {
+      "name": "Din sko",
+      "latitude": 57.6372,
+      "longitude": 18.301222
+    },
+    {
+      "name": "Din sko",
+      "latitude": 60.484347,
+      "longitude": 15.417636
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.403429,
+      "longitude": 17.944224
+    },
+    {
+      "name": "Din sko",
+      "latitude": 57.1062,
+      "longitude": 12.251715
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 55.563822,
+      "longitude": 12.974457
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.330467,
+      "longitude": 18.067405
+    },
+    {
+      "name": "Din sko",
+      "latitude": 57.700621,
+      "longitude": 11.975132
+    },
+    {
+      "name": "din sko",
+      "latitude": 57.700662,
+      "longitude": 11.97506
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 58.354074,
+      "longitude": 11.810436
+    },
+    {
+      "name": "Din sko",
+      "latitude": 56.091613,
+      "longitude": 12.758579
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 58.618571,
+      "longitude": 16.155517
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.197002,
+      "longitude": 17.626504
+    },
+    {
+      "name": "Din sko",
+      "latitude": 60.633524,
+      "longitude": 16.991585
+    },
+    {
+      "name": "Din sko",
+      "latitude": 55.580303,
+      "longitude": 13.004426
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 63.807076,
+      "longitude": 20.255468
+    },
+    {
+      "name": "Din sko",
+      "latitude": 55.604046,
+      "longitude": 13.001067
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.518202,
+      "longitude": 17.912054
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 55.714013,
+      "longitude": 13.159124
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.428449,
+      "longitude": 17.951597
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 57.722729,
+      "longitude": 11.953277
+    },
+    {
+      "name": "Din sko",
+      "latitude": 57.708986,
+      "longitude": 11.96922
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 58.409926,
+      "longitude": 15.623751
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.306011,
+      "longitude": 18.126616
+    },
+    {
+      "name": "Din sko",
+      "latitude": 65.584915,
+      "longitude": 22.155455
+    },
+    {
+      "name": "Din sko",
+      "latitude": 58.405112,
+      "longitude": 13.857071
+    },
+    {
+      "name": "Din sko",
+      "latitude": 56.02676,
+      "longitude": 14.206206
+    },
+    {
+      "name": "Din sko",
+      "latitude": 56.687194,
+      "longitude": 16.319715
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 59.21697,
+      "longitude": 15.138364
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 59.378539,
+      "longitude": 13.425333
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.423178,
+      "longitude": 17.837409
+    },
+    {
+      "name": "din sko",
+      "latitude": 58.586703,
+      "longitude": 16.190513
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.379143,
+      "longitude": 13.50113
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.362731,
+      "longitude": 17.874316
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 55.701983,
+      "longitude": 13.192379
+    },
+    {
+      "name": "Din sko",
+      "latitude": 57.782369,
+      "longitude": 14.173237
+    },
+    {
+      "name": "din sko",
+      "latitude": 56.878782,
+      "longitude": 14.804417
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.876929,
+      "longitude": 17.673578
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.27535,
+      "longitude": 17.908027
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 57.492433,
+      "longitude": 12.074414
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.24277,
+      "longitude": 18.091174
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 62.447089,
+      "longitude": 17.336825
+    },
+    {
+      "name": "Din Sko",
+      "latitude": 56.670603,
+      "longitude": 16.337521
+    },
+    {
+      "name": "din sko",
+      "latitude": 59.359321,
+      "longitude": 18.001754
+    },
+    {
+      "name": "Din sko",
+      "latitude": 59.370786,
+      "longitude": 18.003994
+    },
+    {
+      "name": "Din sko",
+      "latitude": 55.640571,
+      "longitude": 13.084103
+    },
+    {
+      "name": "din sko",
+      "latitude": 58.752367,
+      "longitude": 17.003404
+    },
+    {
+      "name": "Din sko",
+      "latitude": 58.432657,
+      "longitude": 15.585692
+    },
+    {
+      "name": "Dinsko",
+      "latitude": 59.860179,
+      "longitude": 17.635642
+    },
+    {
+      "name": "DinSko",
+      "latitude": 59.333411,
+      "longitude": 18.061706
+    },
+    {
+      "name": "dinsko",
+      "latitude": 59.371497,
+      "longitude": 16.470994
+    },
+    {
+      "name": "Dinsko",
+      "latitude": 57.720581,
+      "longitude": 12.93888
+    },
+    {
+      "name": "DinSko",
+      "latitude": 57.264773,
+      "longitude": 16.446222
+    },
+    {
+      "name": "DinSko",
+      "latitude": 57.652561,
+      "longitude": 11.911981
+    },
+    {
+      "name": "DNA Sko",
+      "latitude": 59.880969,
+      "longitude": 12.29005
+    },
+    {
+      "name": "Dr. Martens",
+      "latitude": 59.312162,
+      "longitude": 18.075692
+    },
+    {
+      "name": "Dr. Martens",
+      "latitude": 59.334082,
+      "longitude": 18.061051
+    },
+    {
+      "name": "Ecco",
+      "latitude": 59.33166,
+      "longitude": 18.063438
+    },
+    {
+      "name": "Ecco",
+      "latitude": 59.858905,
+      "longitude": 17.639997
+    },
+    {
+      "name": "Ecco",
+      "latitude": 57.700563,
+      "longitude": 11.975211
+    },
+    {
+      "name": "Ecco",
+      "latitude": 56.091176,
+      "longitude": 12.755565
+    },
+    {
+      "name": "Ecco",
+      "latitude": 55.602108,
+      "longitude": 13.001199
+    },
+    {
+      "name": "Ecco",
+      "latitude": 56.88644,
+      "longitude": 12.513372
+    },
+    {
+      "name": "Ecco",
+      "latitude": 57.704625,
+      "longitude": 11.967247
+    },
+    {
+      "name": "Ecco",
+      "latitude": 56.170241,
+      "longitude": 14.86199
+    },
+    {
+      "name": "Ecco",
+      "latitude": 57.513129,
+      "longitude": 12.073845
+    },
+    {
+      "name": "Ecco",
+      "latitude": 59.416024,
+      "longitude": 17.856238
+    },
+    {
+      "name": "Ecco",
+      "latitude": 62.447032,
+      "longitude": 17.337141
+    },
+    {
+      "name": "Ecco",
+      "latitude": 57.65077,
+      "longitude": 11.913007
+    },
+    {
+      "name": "Ecco",
+      "latitude": 58.433133,
+      "longitude": 15.585525
+    },
+    {
+      "name": "Ederströms skor",
+      "latitude": 56.412203,
+      "longitude": 15.99987
+    },
+    {
+      "name": "Einars skor",
+      "latitude": 60.731849,
+      "longitude": 14.997432
+    },
+    {
+      "name": "Ek Skoaffär, A",
+      "latitude": 57.401996,
+      "longitude": 14.663057
+    },
+    {
+      "name": "Engholms Skor HB",
+      "latitude": 58.447792,
+      "longitude": 14.889288
+    },
+    {
+      "name": "Englunds Skor",
+      "latitude": 57.527856,
+      "longitude": 18.439993
+    },
+    {
+      "name": "Esplanadens skomakeri o kemtvätt",
+      "latitude": 59.364069,
+      "longitude": 17.966873
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 63.177175,
+      "longitude": 14.637179
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 56.834459,
+      "longitude": 13.943759
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 59.289861,
+      "longitude": 17.81166
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 58.354133,
+      "longitude": 11.809719
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 58.618787,
+      "longitude": 16.155968
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 59.880937,
+      "longitude": 12.290176
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 59.293575,
+      "longitude": 18.080428
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 59.309691,
+      "longitude": 18.023077
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 59.398527,
+      "longitude": 18.036822
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 59.620387,
+      "longitude": 17.85585
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 59.428189,
+      "longitude": 17.95174
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 63.174326,
+      "longitude": 14.692962
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 57.709212,
+      "longitude": 11.969601
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 59.243464,
+      "longitude": 18.092292
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 65.583759,
+      "longitude": 22.152953
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 59.235675,
+      "longitude": 17.981838
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 63.167283,
+      "longitude": 17.268716
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 58.01524,
+      "longitude": 11.833386
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 59.274548,
+      "longitude": 17.908181
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 65.618195,
+      "longitude": 22.039563
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 61.30298,
+      "longitude": 17.056472
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 62.446858,
+      "longitude": 17.337399
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 58.390791,
+      "longitude": 13.846457
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 58.068949,
+      "longitude": 11.816794
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 58.752012,
+      "longitude": 17.006469
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 61.294289,
+      "longitude": 17.017392
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 58.903931,
+      "longitude": 17.946698
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 58.434511,
+      "longitude": 15.586503
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 67.848667,
+      "longitude": 20.306368
+    },
+    {
+      "name": "Eytys",
+      "latitude": 59.335561,
+      "longitude": 18.071207
+    },
+    {
+      "name": "Ferrantino Collection",
+      "latitude": 55.600703,
+      "longitude": 13.001255
+    },
+    {
+      "name": "Foot Locker",
+      "latitude": 59.331125,
+      "longitude": 18.067698
+    },
+    {
+      "name": "Foot Locker",
+      "latitude": 59.275935,
+      "longitude": 17.906236
+    },
+    {
+      "name": "Foot Locker",
+      "latitude": 59.370233,
+      "longitude": 18.004595
+    },
+    {
+      "name": "Fot & Hälsokliniken",
+      "latitude": 57.486848,
+      "longitude": 12.075535
+    },
+    {
+      "name": "Fot&Sko Specialisten",
+      "latitude": 60.672118,
+      "longitude": 17.147157
+    },
+    {
+      "name": "Foten",
+      "latitude": 56.663606,
+      "longitude": 16.361719
+    },
+    {
+      "name": "Foten",
+      "latitude": 58.410358,
+      "longitude": 15.619908
+    },
+    {
+      "name": "Fotriktigt",
+      "latitude": 57.724555,
+      "longitude": 12.990063
+    },
+    {
+      "name": "Freefoot",
+      "latitude": 55.6059,
+      "longitude": 13.004441
+    },
+    {
+      "name": "FreeFoot",
+      "latitude": 57.691623,
+      "longitude": 11.948372
+    },
+    {
+      "name": "Freefot",
+      "latitude": 59.329738,
+      "longitude": 18.038427
+    },
+    {
+      "name": "Fröbergs skor",
+      "latitude": 59.757982,
+      "longitude": 18.703253
+    },
+    {
+      "name": "Frövi",
+      "latitude": 59.323317,
+      "longitude": 18.070786
+    },
+    {
+      "name": "Gamla Stan",
+      "latitude": 58.710592,
+      "longitude": 13.822531
+    },
+    {
+      "name": "Gamla stan",
+      "latitude": 58.710579,
+      "longitude": 13.822552
+    },
+    {
+      "name": "Green Laces",
+      "latitude": 59.317853,
+      "longitude": 18.071317
+    },
+    {
+      "name": "Gustav Olssons Skor",
+      "latitude": 55.545012,
+      "longitude": 13.950948
+    },
+    {
+      "name": "Gustav Olssons Skor",
+      "latitude": 55.430052,
+      "longitude": 13.822491
+    },
+    {
+      "name": "Gå & Löp Kliniken",
+      "latitude": 59.857184,
+      "longitude": 17.642607
+    },
+    {
+      "name": "Gå & löpkliniken",
+      "latitude": 63.830762,
+      "longitude": 20.262962
+    },
+    {
+      "name": "Gå i skor",
+      "latitude": 55.717078,
+      "longitude": 13.344743
+    },
+    {
+      "name": "Hans & Håkan skor",
+      "latitude": 59.281628,
+      "longitude": 15.219473
+    },
+    {
+      "name": "Hectors Skomarknad",
+      "latitude": 58.171263,
+      "longitude": 12.995324
+    },
+    {
+      "name": "Highland Craft",
+      "latitude": 63.450241,
+      "longitude": 18.166881
+    },
+    {
+      "name": "Härnö skor & väskor",
+      "latitude": 62.631637,
+      "longitude": 17.938955
+    },
+    {
+      "name": "Håkansson",
+      "latitude": 55.71363,
+      "longitude": 13.159233
+    },
+    {
+      "name": "Håkanssons",
+      "latitude": 56.091116,
+      "longitude": 12.75581
+    },
+    {
+      "name": "Håkanssons",
+      "latitude": 55.597572,
+      "longitude": 13.001268
+    },
+    {
+      "name": "Håkanssons",
+      "latitude": 63.807511,
+      "longitude": 20.254813
+    },
+    {
+      "name": "Håkanssons",
+      "latitude": 55.704522,
+      "longitude": 13.189364
+    },
+    {
+      "name": "Håkanssons",
+      "latitude": 62.447396,
+      "longitude": 17.33626
+    },
+    {
+      "name": "Håkanssons",
+      "latitude": 59.371071,
+      "longitude": 18.00334
+    },
+    {
+      "name": "Höglunds skor",
+      "latitude": 56.16166,
+      "longitude": 15.579579
+    },
+    {
+      "name": "Högsäters Skor",
+      "latitude": 58.648894,
+      "longitude": 12.053771
+    },
+    {
+      "name": "ICEBUG",
+      "latitude": 57.70304,
+      "longitude": 11.965339
+    },
+    {
+      "name": "Icebug",
+      "latitude": 59.33373,
+      "longitude": 18.071527
+    },
+    {
+      "name": "Ideal",
+      "latitude": 59.317849,
+      "longitude": 18.055416
+    },
+    {
+      "name": "Imeo",
+      "latitude": 57.87203,
+      "longitude": 11.951639
+    },
+    {
+      "name": "JA skor",
+      "latitude": 58.528528,
+      "longitude": 13.494047
+    },
+    {
+      "name": "jarméus",
+      "latitude": 59.362917,
+      "longitude": 17.873912
+    },
+    {
+      "name": "Jarméus Solna Centrum",
+      "latitude": 59.359106,
+      "longitude": 18.000024
+    },
+    {
+      "name": "Jedviks",
+      "latitude": 57.698826,
+      "longitude": 11.976715
+    },
+    {
+      "name": "Johanssons",
+      "latitude": 57.722704,
+      "longitude": 11.951366
+    },
+    {
+      "name": "Johanssons",
+      "latitude": 57.698706,
+      "longitude": 11.976858
+    },
+    {
+      "name": "Johanssons",
+      "latitude": 58.353858,
+      "longitude": 11.811801
+    },
+    {
+      "name": "Johanssons",
+      "latitude": 57.705709,
+      "longitude": 11.970586
+    },
+    {
+      "name": "Johanssons",
+      "latitude": 57.714654,
+      "longitude": 11.997968
+    },
+    {
+      "name": "Johanssons",
+      "latitude": 57.650773,
+      "longitude": 11.912858
+    },
+    {
+      "name": "John Pelle Sport",
+      "latitude": 59.313902,
+      "longitude": 18.073267
+    },
+    {
+      "name": "Karltex.se",
+      "latitude": 57.704312,
+      "longitude": 11.968684
+    },
+    {
+      "name": "Kavat",
+      "latitude": 55.598881,
+      "longitude": 13.001243
+    },
+    {
+      "name": "Kavat",
+      "latitude": 57.705501,
+      "longitude": 11.965946
+    },
+    {
+      "name": "Kavat",
+      "latitude": 59.13988,
+      "longitude": 15.131259
+    },
+    {
+      "name": "Kicks",
+      "latitude": 57.704711,
+      "longitude": 11.967844
+    },
+    {
+      "name": "Klackbaren",
+      "latitude": 60.620341,
+      "longitude": 16.777645
+    },
+    {
+      "name": "Klintheims Skor",
+      "latitude": 56.663519,
+      "longitude": 16.362577
+    },
+    {
+      "name": "Knulp",
+      "latitude": 59.334277,
+      "longitude": 18.058981
+    },
+    {
+      "name": "Kolpa ortopedi och skobutik",
+      "latitude": 59.382388,
+      "longitude": 17.89836
+    },
+    {
+      "name": "Komstad Skor & Tofflor AB",
+      "latitude": 55.566855,
+      "longitude": 14.15383
+    },
+    {
+      "name": "Kängan",
+      "latitude": 59.326917,
+      "longitude": 14.524539
+    },
+    {
+      "name": "Kängspecialisten",
+      "latitude": 59.341895,
+      "longitude": 18.059285
+    },
+    {
+      "name": "L & L",
+      "latitude": 57.402964,
+      "longitude": 14.662497
+    },
+    {
+      "name": "Lester",
+      "latitude": 57.703692,
+      "longitude": 11.964965
+    },
+    {
+      "name": "Levins skor",
+      "latitude": 57.723129,
+      "longitude": 12.940898
+    },
+    {
+      "name": "Life",
+      "latitude": 59.216984,
+      "longitude": 15.137434
+    },
+    {
+      "name": "Liljan Skor",
+      "latitude": 60.003909,
+      "longitude": 15.79319
+    },
+    {
+      "name": "Lilla Skobutiken",
+      "latitude": 58.357676,
+      "longitude": 11.260963
+    },
+    {
+      "name": "Lizas Skor",
+      "latitude": 59.783633,
+      "longitude": 14.523426
+    },
+    {
+      "name": "Loake",
+      "latitude": 59.336234,
+      "longitude": 18.078079
+    },
+    {
+      "name": "Lundins Skor",
+      "latitude": 57.042288,
+      "longitude": 16.446834
+    },
+    {
+      "name": "Löp1",
+      "latitude": 59.379798,
+      "longitude": 13.504004
+    },
+    {
+      "name": "Löplabbet",
+      "latitude": 57.709048,
+      "longitude": 11.966511
+    },
+    {
+      "name": "Löplabbet",
+      "latitude": 63.826752,
+      "longitude": 20.261097
+    },
+    {
+      "name": "Löthmans Skor",
+      "latitude": 60.620761,
+      "longitude": 16.775655
+    },
+    {
+      "name": "Lübecker Skor",
+      "latitude": 55.556324,
+      "longitude": 14.348184
+    },
+    {
+      "name": "M&M Skor",
+      "latitude": 59.388277,
+      "longitude": 17.92865
+    },
+    {
+      "name": "ManWo",
+      "latitude": 56.744551,
+      "longitude": 15.907974
+    },
+    {
+      "name": "Marie’s Skor",
+      "latitude": 59.519211,
+      "longitude": 15.03803
+    },
+    {
+      "name": "Marzio",
+      "latitude": 59.33427,
+      "longitude": 18.077227
+    },
+    {
+      "name": "Mixage",
+      "latitude": 59.333286,
+      "longitude": 18.031037
+    },
+    {
+      "name": "Mobäcks skor",
+      "latitude": 58.664143,
+      "longitude": 16.18051
+    },
+    {
+      "name": "Mokvist",
+      "latitude": 58.75206,
+      "longitude": 17.004565
+    },
+    {
+      "name": "MORJAS",
+      "latitude": 59.336849,
+      "longitude": 18.074259
+    },
+    {
+      "name": "Må Bättre",
+      "latitude": 58.035914,
+      "longitude": 14.977416
+    },
+    {
+      "name": "Nilson Shoes",
+      "latitude": 59.403348,
+      "longitude": 17.944294
+    },
+    {
+      "name": "Nilson Shoes",
+      "latitude": 56.091899,
+      "longitude": 12.755446
+    },
+    {
+      "name": "Nilson Shoes",
+      "latitude": 59.334071,
+      "longitude": 18.072727
+    },
+    {
+      "name": "Nilson shoes",
+      "latitude": 55.603304,
+      "longitude": 13.001895
+    },
+    {
+      "name": "Nilson shoes",
+      "latitude": 57.709022,
+      "longitude": 11.969401
+    },
+    {
+      "name": "Nilson Shoes",
+      "latitude": 57.706374,
+      "longitude": 11.969831
+    },
+    {
+      "name": "Nilson Shoes",
+      "latitude": 59.355497,
+      "longitude": 17.956066
+    },
+    {
+      "name": "Nilson Shoes",
+      "latitude": 59.309699,
+      "longitude": 18.164197
+    },
+    {
+      "name": "Nilson Shoes",
+      "latitude": 59.361944,
+      "longitude": 17.87467
+    },
+    {
+      "name": "Nilson Shoes",
+      "latitude": 62.447102,
+      "longitude": 17.336623
+    },
+    {
+      "name": "Nilsson Shoes",
+      "latitude": 57.707818,
+      "longitude": 11.968576
+    },
+    {
+      "name": "Nordlanders Skor",
+      "latitude": 63.288335,
+      "longitude": 18.716966
+    },
+    {
+      "name": "Nordmalings Skor",
+      "latitude": 63.569565,
+      "longitude": 19.498553
+    },
+    {
+      "name": "Norregatans skor",
+      "latitude": 55.633156,
+      "longitude": 13.706195
+    },
+    {
+      "name": "Nya Skor",
+      "latitude": 58.379698,
+      "longitude": 12.321575
+    },
+    {
+      "name": "Nya Skoshoppen",
+      "latitude": 59.836989,
+      "longitude": 13.144632
+    },
+    {
+      "name": "Nylanders Skor",
+      "latitude": 63.20578,
+      "longitude": 18.507718
+    },
+    {
+      "name": "Nyströms Skor",
+      "latitude": 56.879145,
+      "longitude": 16.658632
+    },
+    {
+      "name": "Nyströms skor",
+      "latitude": 58.699373,
+      "longitude": 12.453903
+    },
+    {
+      "name": "O.J. Skor",
+      "latitude": 58.162302,
+      "longitude": 13.550958
+    },
+    {
+      "name": "O.P. Johanssons Sko-affär",
+      "latitude": 56.030493,
+      "longitude": 14.156503
+    },
+    {
+      "name": "Olivia",
+      "latitude": 59.318322,
+      "longitude": 18.071401
+    },
+    {
+      "name": "Olssons",
+      "latitude": 56.744057,
+      "longitude": 15.909108
+    },
+    {
+      "name": "Optista",
+      "latitude": 55.938131,
+      "longitude": 13.549688
+    },
+    {
+      "name": "Pardon My Kicks.",
+      "latitude": 55.604638,
+      "longitude": 13.000199
+    },
+    {
+      "name": "Pari",
+      "latitude": 57.705475,
+      "longitude": 11.96644
+    },
+    {
+      "name": "Petterssons skor",
+      "latitude": 62.485099,
+      "longitude": 17.324337
+    },
+    {
+      "name": "Pigga Peggy",
+      "latitude": 55.70124,
+      "longitude": 13.195058
+    },
+    {
+      "name": "Pittsburgh 'n Sweden",
+      "latitude": 56.162996,
+      "longitude": 15.581881
+    },
+    {
+      "name": "PK Fotbädd",
+      "latitude": 59.267287,
+      "longitude": 15.227971
+    },
+    {
+      "name": "Plimsele.se",
+      "latitude": 57.697986,
+      "longitude": 11.977961
+    },
+    {
+      "name": "Promenix",
+      "latitude": 59.304042,
+      "longitude": 18.097877
+    },
+    {
+      "name": "Prästtorpet's Skor",
+      "latitude": 59.593207,
+      "longitude": 15.227877
+    },
+    {
+      "name": "Red Wing Shoes",
+      "latitude": 59.333685,
+      "longitude": 18.059116
+    },
+    {
+      "name": "Rieker",
+      "latitude": 59.27221,
+      "longitude": 15.215734
+    },
+    {
+      "name": "Rizzo",
+      "latitude": 59.305864,
+      "longitude": 18.124142
+    },
+    {
+      "name": "Rizzo",
+      "latitude": 57.651209,
+      "longitude": 11.91258
+    },
+    {
+      "name": "RYC",
+      "latitude": 55.600811,
+      "longitude": 13.001258
+    },
+    {
+      "name": "Ryn's skor",
+      "latitude": 59.610828,
+      "longitude": 16.547123
+    },
+    {
+      "name": "Rättviks sko",
+      "latitude": 60.883525,
+      "longitude": 15.119032
+    },
+    {
+      "name": "Sandlunds",
+      "latitude": 65.342286,
+      "longitude": 21.395911
+    },
+    {
+      "name": "Savannahs",
+      "latitude": 59.333273,
+      "longitude": 18.07529
+    },
+    {
+      "name": "Scarett",
+      "latitude": 63.17571,
+      "longitude": 14.638152
+    },
+    {
+      "name": "Scooz",
+      "latitude": 58.379317,
+      "longitude": 12.322547
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.860115,
+      "longitude": 17.6368
+    },
+    {
+      "name": "Scorett",
+      "latitude": 58.354448,
+      "longitude": 11.811572
+    },
+    {
+      "name": "Scorett",
+      "latitude": 58.618664,
+      "longitude": 16.155459
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.880953,
+      "longitude": 12.288692
+    },
+    {
+      "name": "Scorett",
+      "latitude": 63.807627,
+      "longitude": 20.254828
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.333641,
+      "longitude": 18.061472
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.339319,
+      "longitude": 18.091213
+    },
+    {
+      "name": "Scorett",
+      "latitude": 57.136234,
+      "longitude": 12.713969
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.398203,
+      "longitude": 18.036715
+    },
+    {
+      "name": "Scorett",
+      "latitude": 55.604009,
+      "longitude": 13.001072
+    },
+    {
+      "name": "Scorett",
+      "latitude": 56.663745,
+      "longitude": 16.363298
+    },
+    {
+      "name": "Scorett",
+      "latitude": 56.660802,
+      "longitude": 16.364885
+    },
+    {
+      "name": "Scorett",
+      "latitude": 56.676039,
+      "longitude": 12.857599
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.042768,
+      "longitude": 15.878715
+    },
+    {
+      "name": "Scorett",
+      "latitude": 57.720761,
+      "longitude": 12.940592
+    },
+    {
+      "name": "Scorett",
+      "latitude": 55.713584,
+      "longitude": 13.159281
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.428704,
+      "longitude": 17.950123
+    },
+    {
+      "name": "Scorett",
+      "latitude": 57.704501,
+      "longitude": 11.967369
+    },
+    {
+      "name": "Scorett",
+      "latitude": 57.707683,
+      "longitude": 11.969154
+    },
+    {
+      "name": "Scorett",
+      "latitude": 56.047344,
+      "longitude": 12.694674
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.310185,
+      "longitude": 18.163791
+    },
+    {
+      "name": "Scorett",
+      "latitude": 55.704594,
+      "longitude": 13.18937
+    },
+    {
+      "name": "Scorett",
+      "latitude": 65.584898,
+      "longitude": 22.155055
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.244068,
+      "longitude": 18.228576
+    },
+    {
+      "name": "Scorett",
+      "latitude": 56.028955,
+      "longitude": 14.15751
+    },
+    {
+      "name": "Scorett",
+      "latitude": 56.026261,
+      "longitude": 14.204974
+    },
+    {
+      "name": "Scorett",
+      "latitude": 63.826441,
+      "longitude": 20.263385
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.217234,
+      "longitude": 15.138377
+    },
+    {
+      "name": "Scorett",
+      "latitude": 58.572868,
+      "longitude": 16.20884
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.269894,
+      "longitude": 15.211249
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.379724,
+      "longitude": 13.501442
+    },
+    {
+      "name": "Scorett",
+      "latitude": 57.782389,
+      "longitude": 14.173159
+    },
+    {
+      "name": "Scorett",
+      "latitude": 55.871328,
+      "longitude": 12.833519
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.242851,
+      "longitude": 18.090746
+    },
+    {
+      "name": "Scorett",
+      "latitude": 62.447351,
+      "longitude": 17.336526
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.37109,
+      "longitude": 18.003431
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.3556,
+      "longitude": 17.95621
+    },
+    {
+      "name": "Scorett",
+      "latitude": 60.605698,
+      "longitude": 15.632968
+    },
+    {
+      "name": "Scorett",
+      "latitude": 55.429918,
+      "longitude": 13.821627
+    },
+    {
+      "name": "Scorett",
+      "latitude": 58.068745,
+      "longitude": 11.816725
+    },
+    {
+      "name": "Scorett",
+      "latitude": 59.376806,
+      "longitude": 13.426733
+    },
+    {
+      "name": "Scorett",
+      "latitude": 58.433574,
+      "longitude": 15.585146
+    },
+    {
+      "name": "Scorette",
+      "latitude": 58.722854,
+      "longitude": 11.346368
+    },
+    {
+      "name": "Shoe Med",
+      "latitude": 59.345006,
+      "longitude": 18.06029
+    },
+    {
+      "name": "Shoe!On",
+      "latitude": 56.282764,
+      "longitude": 13.277385
+    },
+    {
+      "name": "SHOEmed",
+      "latitude": 55.607678,
+      "longitude": 13.00046
+    },
+    {
+      "name": "Shoes & Bags",
+      "latitude": 56.552863,
+      "longitude": 14.163783
+    },
+    {
+      "name": "Shoes & Bags",
+      "latitude": 55.552113,
+      "longitude": 12.994257
+    },
+    {
+      "name": "Sjöqvists Skovaruhus",
+      "latitude": 57.249674,
+      "longitude": 17.056899
+    },
+    {
+      "name": "Skechers",
+      "latitude": 59.403653,
+      "longitude": 17.943932
+    },
+    {
+      "name": "Skechers",
+      "latitude": 55.564016,
+      "longitude": 12.973755
+    },
+    {
+      "name": "Skechers",
+      "latitude": 58.353807,
+      "longitude": 11.809348
+    },
+    {
+      "name": "Skechers",
+      "latitude": 55.580996,
+      "longitude": 13.004563
+    },
+    {
+      "name": "Skechers",
+      "latitude": 55.595902,
+      "longitude": 13.001842
+    },
+    {
+      "name": "Skechers",
+      "latitude": 63.807164,
+      "longitude": 20.254778
+    },
+    {
+      "name": "Skechers",
+      "latitude": 59.334991,
+      "longitude": 18.064611
+    },
+    {
+      "name": "Skechers",
+      "latitude": 56.675759,
+      "longitude": 12.858918
+    },
+    {
+      "name": "Skechers",
+      "latitude": 59.417421,
+      "longitude": 17.856389
+    },
+    {
+      "name": "Sko & väskhörnan",
+      "latitude": 57.68712,
+      "longitude": 11.920786
+    },
+    {
+      "name": "Sko & Väskhörnan",
+      "latitude": 57.489105,
+      "longitude": 12.076751
+    },
+    {
+      "name": "Sko Janne",
+      "latitude": 58.938895,
+      "longitude": 11.170948
+    },
+    {
+      "name": "Sko Kanonen",
+      "latitude": 57.413307,
+      "longitude": 15.088478
+    },
+    {
+      "name": "Sko Karlsson",
+      "latitude": 58.3496,
+      "longitude": 11.935546
+    },
+    {
+      "name": "Sko Karlsson",
+      "latitude": 58.274566,
+      "longitude": 11.436761
+    },
+    {
+      "name": "Sko Larsson",
+      "latitude": 58.50801,
+      "longitude": 13.145443
+    },
+    {
+      "name": "Sko rett",
+      "latitude": 56.884968,
+      "longitude": 14.766844
+    },
+    {
+      "name": "Sko Service",
+      "latitude": 56.048867,
+      "longitude": 12.693884
+    },
+    {
+      "name": "Sko Uno",
+      "latitude": 59.333654,
+      "longitude": 18.05851
+    },
+    {
+      "name": "SKO-DEJ",
+      "latitude": 56.651888,
+      "longitude": 16.469739
+    },
+    {
+      "name": "Sko-Rönne",
+      "latitude": 56.092092,
+      "longitude": 12.757279
+    },
+    {
+      "name": "Sko-studion",
+      "latitude": 56.6637,
+      "longitude": 16.364581
+    },
+    {
+      "name": "Skoaffär",
+      "latitude": 59.342923,
+      "longitude": 18.039982
+    },
+    {
+      "name": "Skoaffär'n I Anundsjö",
+      "latitude": 63.448391,
+      "longitude": 18.109293
+    },
+    {
+      "name": "Skobaren",
+      "latitude": 59.341492,
+      "longitude": 18.043929
+    },
+    {
+      "name": "Skoboden",
+      "latitude": 57.64231,
+      "longitude": 18.291908
+    },
+    {
+      "name": "Skobutiken KAX",
+      "latitude": 62.389697,
+      "longitude": 17.303813
+    },
+    {
+      "name": "Skocentrum",
+      "latitude": 63.807254,
+      "longitude": 20.254763
+    },
+    {
+      "name": "Skocentrum",
+      "latitude": 63.82603,
+      "longitude": 20.26258
+    },
+    {
+      "name": "SkoDon",
+      "latitude": 56.500733,
+      "longitude": 13.005075
+    },
+    {
+      "name": "Skofynd",
+      "latitude": 56.196442,
+      "longitude": 15.662576
+    },
+    {
+      "name": "Skohus Borlänge",
+      "latitude": 60.485993,
+      "longitude": 15.415743
+    },
+    {
+      "name": "Skohuset",
+      "latitude": 61.004238,
+      "longitude": 14.537431
+    },
+    {
+      "name": "Skohuset",
+      "latitude": 58.078242,
+      "longitude": 13.026549
+    },
+    {
+      "name": "Skohörnan",
+      "latitude": 59.029224,
+      "longitude": 12.226067
+    },
+    {
+      "name": "Skokanonen",
+      "latitude": 65.61905,
+      "longitude": 22.047084
+    },
+    {
+      "name": "Skokomfort",
+      "latitude": 55.583995,
+      "longitude": 13.007086
+    },
+    {
+      "name": "Skokällarn",
+      "latitude": 56.687553,
+      "longitude": 16.320933
+    },
+    {
+      "name": "Skolådan i Hurva",
+      "latitude": 55.786381,
+      "longitude": 13.416915
+    },
+    {
+      "name": "Skomakaren",
+      "latitude": 57.692492,
+      "longitude": 11.98686
+    },
+    {
+      "name": "Skomakaren Henry",
+      "latitude": 55.700424,
+      "longitude": 13.197996
+    },
+    {
+      "name": "Skomakaren i Åmål",
+      "latitude": 59.05266,
+      "longitude": 12.702135
+    },
+    {
+      "name": "Skomakarna Söder",
+      "latitude": 60.671051,
+      "longitude": 17.146984
+    },
+    {
+      "name": "Skomakeri snabbklack",
+      "latitude": 62.389089,
+      "longitude": 17.306732
+    },
+    {
+      "name": "Skoman",
+      "latitude": 59.23611,
+      "longitude": 17.981291
+    },
+    {
+      "name": "Skon vid bron - Sandströms skor",
+      "latitude": 57.988264,
+      "longitude": 15.63465
+    },
+    {
+      "name": "Skopiraten",
+      "latitude": 58.947083,
+      "longitude": 11.192289
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 57.600941,
+      "longitude": 12.048699
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 60.485092,
+      "longitude": 15.418824
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.401965,
+      "longitude": 17.945842
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.860242,
+      "longitude": 17.635505
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 57.73346,
+      "longitude": 12.937925
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 58.35414,
+      "longitude": 11.81064
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 56.092254,
+      "longitude": 12.758589
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 58.618941,
+      "longitude": 16.157944
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.881116,
+      "longitude": 12.291167
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 55.580545,
+      "longitude": 13.004596
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 55.595405,
+      "longitude": 13.001122
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 63.806976,
+      "longitude": 20.255533
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 64.765488,
+      "longitude": 21.022038
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 55.714922,
+      "longitude": 13.157286
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 57.725901,
+      "longitude": 11.953151
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 57.708886,
+      "longitude": 11.97034
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.305363,
+      "longitude": 18.126994
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 56.197841,
+      "longitude": 15.64473
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 58.405446,
+      "longitude": 13.856081
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.187121,
+      "longitude": 17.576538
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 56.02647,
+      "longitude": 14.206124
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 56.6871,
+      "longitude": 16.319564
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.216848,
+      "longitude": 15.137594
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 57.769011,
+      "longitude": 12.001093
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 56.676793,
+      "longitude": 12.806607
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.362782,
+      "longitude": 17.874457
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.846607,
+      "longitude": 17.692771
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.876834,
+      "longitude": 17.673632
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.275239,
+      "longitude": 17.908067
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 57.515179,
+      "longitude": 12.076485
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.415884,
+      "longitude": 17.859032
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 62.441887,
+      "longitude": 17.350097
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.370736,
+      "longitude": 18.004041
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 55.566489,
+      "longitude": 13.048571
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 59.37705,
+      "longitude": 13.430336
+    },
+    {
+      "name": "Skopunkten",
+      "latitude": 58.433863,
+      "longitude": 15.588781
+    },
+    {
+      "name": "Skorosen",
+      "latitude": 55.582573,
+      "longitude": 12.93171
+    },
+    {
+      "name": "Skosalongen",
+      "latitude": 57.930413,
+      "longitude": 12.53373
+    },
+    {
+      "name": "skoshop",
+      "latitude": 58.034599,
+      "longitude": 14.974955
+    },
+    {
+      "name": "Skoshopen",
+      "latitude": 56.162542,
+      "longitude": 15.58534
+    },
+    {
+      "name": "Skostudion Outlet",
+      "latitude": 56.878997,
+      "longitude": 16.658309
+    },
+    {
+      "name": "Skostället",
+      "latitude": 58.895961,
+      "longitude": 17.54915
+    },
+    {
+      "name": "Skostället",
+      "latitude": 56.903525,
+      "longitude": 14.832788
+    },
+    {
+      "name": "Skostället",
+      "latitude": 55.705037,
+      "longitude": 13.18959
+    },
+    {
+      "name": "Skostället",
+      "latitude": 64.20041,
+      "longitude": 19.719163
+    },
+    {
+      "name": "Skostället",
+      "latitude": 64.59486,
+      "longitude": 18.676641
+    },
+    {
+      "name": "SkråmträskSkon",
+      "latitude": 64.687263,
+      "longitude": 20.600894
+    },
+    {
+      "name": "Sköna Skon",
+      "latitude": 58.411442,
+      "longitude": 15.629391
+    },
+    {
+      "name": "Sneaky Steve",
+      "latitude": 57.667844,
+      "longitude": 12.294319
+    },
+    {
+      "name": "South Soles Sneakers",
+      "latitude": 55.589841,
+      "longitude": 13.008169
+    },
+    {
+      "name": "Sportif Unlimited",
+      "latitude": 58.409995,
+      "longitude": 15.621813
+    },
+    {
+      "name": "Stegkliniken",
+      "latitude": 59.341659,
+      "longitude": 18.092107
+    },
+    {
+      "name": "Stinaa.J",
+      "latitude": 59.337731,
+      "longitude": 18.074395
+    },
+    {
+      "name": "Studio Scoop",
+      "latitude": 57.703911,
+      "longitude": 11.967067
+    },
+    {
+      "name": "Stuneks",
+      "latitude": 57.666054,
+      "longitude": 15.854505
+    },
+    {
+      "name": "Temo Skor & Hälsovård",
+      "latitude": 55.70368,
+      "longitude": 13.191021
+    },
+    {
+      "name": "The Athlete's Foot",
+      "latitude": 56.091727,
+      "longitude": 12.757209
+    },
+    {
+      "name": "Toffelmakaren",
+      "latitude": 55.604809,
+      "longitude": 12.998999
+    },
+    {
+      "name": "Trampolin",
+      "latitude": 56.047298,
+      "longitude": 12.694351
+    },
+    {
+      "name": "Tyllströms Skoaffär",
+      "latitude": 60.485907,
+      "longitude": 15.432452
+    },
+    {
+      "name": "UGG",
+      "latitude": 59.335622,
+      "longitude": 18.072457
+    },
+    {
+      "name": "Vagabond",
+      "latitude": 57.704407,
+      "longitude": 11.966793
+    },
+    {
+      "name": "Vans",
+      "latitude": 57.705322,
+      "longitude": 11.97079
+    },
+    {
+      "name": "Vivobarefoot",
+      "latitude": 57.701132,
+      "longitude": 11.958862
+    },
+    {
+      "name": "WalkOn Outlet",
+      "latitude": 60.675091,
+      "longitude": 15.090064
+    }
+  ],
+  "meta": {
+    "title": "Skobutiker (Shoe shops) - Gratis nedladdning",
+    "description": "Skobutiker i Sverige — OpenStreetMap-punktdata (OSM-tagg: shop=shoes). Swedish shoe shops as named point locations with WGS84 coordinates. 462 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 462 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Skobutiker (Shoe shops) | ListBase",
+    "seo_description": "Ladda ner Skobutiker (Shoe shops) — 462 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 462 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,779 @@
+{
+  "id": "sv-kalmar-regso",
+  "name": "RegSO-områden i Kalmar län",
+  "title": "RegSO-områden i Kalmar län",
+  "description": "104 regionala statistikområden (RegSO) i Kalmar län (länskod 08). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "0821R001",
+      "regso_namn": "Fagerhult",
+      "kommun_kod": "0821",
+      "kommun_namn": "Högsby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0821R002",
+      "regso_namn": "Högsby",
+      "kommun_kod": "0821",
+      "kommun_namn": "Högsby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0821R003",
+      "regso_namn": "Högsby omland",
+      "kommun_kod": "0821",
+      "kommun_namn": "Högsby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0821R004",
+      "regso_namn": "Långemåla",
+      "kommun_kod": "0821",
+      "kommun_namn": "Högsby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0834R001",
+      "regso_namn": "Bergkvara",
+      "kommun_kod": "0834",
+      "kommun_namn": "Torsås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0834R002",
+      "regso_namn": "Gullabo",
+      "kommun_kod": "0834",
+      "kommun_namn": "Torsås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0834R003",
+      "regso_namn": "Möre",
+      "kommun_kod": "0834",
+      "kommun_namn": "Torsås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0834R004",
+      "regso_namn": "Söderåkra",
+      "kommun_kod": "0834",
+      "kommun_namn": "Torsås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0834R005",
+      "regso_namn": "Torsås",
+      "kommun_kod": "0834",
+      "kommun_namn": "Torsås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0840R001",
+      "regso_namn": "Algutsrum-Saxnäs-Glömminge",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0840R002",
+      "regso_namn": "Färjestaden centrala",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0840R003",
+      "regso_namn": "Färjestaden norra",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0840R004",
+      "regso_namn": "Färjestaden södra",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0840R005",
+      "regso_namn": "Mörbylånga",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0840R006",
+      "regso_namn": "Mörbylånga omland",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0840R007",
+      "regso_namn": "Skogsby-Torslunda",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0860R001",
+      "regso_namn": "Hultsfreds tätort norra",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0860R002",
+      "regso_namn": "Hultsfreds tätort södra",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0860R003",
+      "regso_namn": "Hultsfreds tätort västra",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0860R004",
+      "regso_namn": "Järnforsen-Målilla-Virserum landsbygd",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0860R005",
+      "regso_namn": "Lönneberga-Silverdalen tätort-landsbygd",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0860R006",
+      "regso_namn": "Målilla-Gårdveda-Rosenfors-Ämmenäs tätort",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0860R007",
+      "regso_namn": "Mörlunda tätort-landsbygd",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0860R008",
+      "regso_namn": "Vena tätort-Vena landsbygd",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0860R009",
+      "regso_namn": "Virserums tätort",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0861R001",
+      "regso_namn": "Blomstermåla",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0861R002",
+      "regso_namn": "Fliseryd omland",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0861R003",
+      "regso_namn": "Mellersta Mönsterås samhälle",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0861R004",
+      "regso_namn": "Mönsterås centrala",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0861R005",
+      "regso_namn": "Mönsterås omland",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0861R006",
+      "regso_namn": "Mönsterås södra samhälle-Oknö",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0861R007",
+      "regso_namn": "Norra-västra Mönsterås samhälle",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0861R008",
+      "regso_namn": "Timmernabben",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0861R009",
+      "regso_namn": "Ålem omland",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0861R010",
+      "regso_namn": "Ålem stationssamhälle",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0862R001",
+      "regso_namn": "Algutsboda-Algutsboda omland",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0862R002",
+      "regso_namn": "Emmaboda norra",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0862R003",
+      "regso_namn": "Emmaboda södra",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0862R004",
+      "regso_namn": "Emmaboda-Lindås",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0862R005",
+      "regso_namn": "Långasjö-Långasjö omland",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0862R006",
+      "regso_namn": "Vissefjärda-Vissefjärda omland",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R001",
+      "regso_namn": "Berga",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R002",
+      "regso_namn": "Bergavik-Björkenäs",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R003",
+      "regso_namn": "Boholmarna-Dunö-Rinkabyholm",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R004",
+      "regso_namn": "Djurängen-Funkabo-Oxhagen",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R005",
+      "regso_namn": "Getingen-Tallhagen-Västra Norrgård",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R006",
+      "regso_namn": "Kalmar centrala-Stensö",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R007",
+      "regso_namn": "Kalmar norra kommundelen",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R008",
+      "regso_namn": "Kalmar södra kommundelen",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R009",
+      "regso_namn": "Kalmar västra kommundelen",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R010",
+      "regso_namn": "Krafslösa-Snurrom-Vimpeltorpet",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R011",
+      "regso_namn": "Lindsdal",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R012",
+      "regso_namn": "Norrliden",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R013",
+      "regso_namn": "Påryd",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R014",
+      "regso_namn": "Tegelviken-Västra Malmen",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R015",
+      "regso_namn": "Västra Smedby",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R016",
+      "regso_namn": "Östra Norrgård-Östra Malmen",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0880R017",
+      "regso_namn": "Östra Smedby",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0881R001",
+      "regso_namn": "Alsjöholm-Örsjö",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0881R002",
+      "regso_namn": "Hälleberga-Kristvalla",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0881R003",
+      "regso_namn": "Kråksmåla",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0881R004",
+      "regso_namn": "Kungshall",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0881R005",
+      "regso_namn": "Myrdalen-Idehult-Rismåla",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0881R006",
+      "regso_namn": "Nybro centrum-Paradiset-Åkrahäll",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0881R007",
+      "regso_namn": "Nybro södra-Madesjö",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0881R008",
+      "regso_namn": "Nybros södra omland",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0881R009",
+      "regso_namn": "Orrefors-Flygsfors",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0882R001",
+      "regso_namn": "Bockara-Påskallavik",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0882R002",
+      "regso_namn": "Döderhult-Svalliden",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0882R003",
+      "regso_namn": "Gröndal-Åsa",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0882R004",
+      "regso_namn": "Hummlekärrshult-Mockebo-Saltvik",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0882R005",
+      "regso_namn": "Kristdala-Fårbo-Figeholm",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0882R006",
+      "regso_namn": "Kristineberg-Mysingsö",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0882R007",
+      "regso_namn": "Norrtorn-Orrängen",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0882R008",
+      "regso_namn": "Oskarshamns centrum",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R001",
+      "regso_namn": "Ankarsrum",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R002",
+      "regso_namn": "Brevik-Gertrudsvik",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R003",
+      "regso_namn": "Gamleby",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R004",
+      "regso_namn": "Gunnebo",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R005",
+      "regso_namn": "Norra Tjust",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R006",
+      "regso_namn": "Peru-Arabien",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R007",
+      "regso_namn": "Piperskärr-Grantorpet",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R008",
+      "regso_namn": "Reginelund-Stenhagen",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R009",
+      "regso_namn": "Skogshaga",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R010",
+      "regso_namn": "Södermalm-Karstorp",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R011",
+      "regso_namn": "Södra Tjust",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R012",
+      "regso_namn": "Västervik centrum",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R013",
+      "regso_namn": "Västralund-Jenny",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R014",
+      "regso_namn": "Örbäcken-Lysingsbadet",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R015",
+      "regso_namn": "Östermalm-Johannesdal",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0883R016",
+      "regso_namn": "Överum",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0884R001",
+      "regso_namn": "Storebro",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0884R002",
+      "regso_namn": "Södra Vi",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0884R003",
+      "regso_namn": "Vimmerby norra",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0884R004",
+      "regso_namn": "Vimmerby norra landsbygd",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0884R005",
+      "regso_namn": "Vimmerby sydost",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0884R006",
+      "regso_namn": "Vimmerby sydväst",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0884R007",
+      "regso_namn": "Vimmerby västra landsbygd",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0884R008",
+      "regso_namn": "Vimmerby östra",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0884R009",
+      "regso_namn": "Vimmerby östra landsbygd",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0884R010",
+      "regso_namn": "Vimmerby-Bullerbyn",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0885R001",
+      "regso_namn": "Borgholm norra kommundelen",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0885R002",
+      "regso_namn": "Borgholm södra kommundelen",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08"
+    },
+    {
+      "regso_kod": "0885R003",
+      "regso_namn": "Borgholm-Köpingsvik",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Kalmar län - Gratis nedladdning",
+    "description": "104 regionala statistikområden (RegSO) i Kalmar län (länskod 08). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 104 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Kalmar län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Kalmar län — 104 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 104 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

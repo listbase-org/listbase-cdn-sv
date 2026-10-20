@@ -1,0 +1,506 @@
+{
+  "id": "sv-jamtland-regso",
+  "name": "RegSO-områden i Jämtlands län",
+  "title": "RegSO-områden i Jämtlands län",
+  "description": "65 regionala statistikområden (RegSO) i Jämtlands län (länskod 23). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "2303R001",
+      "regso_namn": "Hammarstrand",
+      "kommun_kod": "2303",
+      "kommun_namn": "Ragunda",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2303R002",
+      "regso_namn": "Ragunda nordöstra",
+      "kommun_kod": "2303",
+      "kommun_namn": "Ragunda",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2303R003",
+      "regso_namn": "Ragunda sydöstra",
+      "kommun_kod": "2303",
+      "kommun_namn": "Ragunda",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2303R004",
+      "regso_namn": "Ragunda västra",
+      "kommun_kod": "2303",
+      "kommun_namn": "Ragunda",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2305R001",
+      "regso_namn": "Bodsjö-Nyhem-Bräcke",
+      "kommun_kod": "2305",
+      "kommun_namn": "Bräcke",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2305R002",
+      "regso_namn": "Bräcke tätort",
+      "kommun_kod": "2305",
+      "kommun_namn": "Bräcke",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2305R003",
+      "regso_namn": "Hällesjö-Håsjö",
+      "kommun_kod": "2305",
+      "kommun_namn": "Bräcke",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2305R004",
+      "regso_namn": "Revsund",
+      "kommun_kod": "2305",
+      "kommun_namn": "Bräcke",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2305R005",
+      "regso_namn": "Sundsjö",
+      "kommun_kod": "2305",
+      "kommun_namn": "Bräcke",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2309R001",
+      "regso_namn": "Alsen-Trångsviken-Ytterån",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2309R002",
+      "regso_namn": "Aspås",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2309R003",
+      "regso_namn": "Dvärsätt-Hissmofors",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2309R004",
+      "regso_namn": "Föllinge-Hotagen",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2309R005",
+      "regso_namn": "Krokom",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2309R006",
+      "regso_namn": "Nälden-Vaplan",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2309R007",
+      "regso_namn": "Offerdal",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2309R008",
+      "regso_namn": "Rödön-Ås omland",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2309R009",
+      "regso_namn": "Ås norra",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2309R010",
+      "regso_namn": "Ås södra",
+      "kommun_kod": "2309",
+      "kommun_namn": "Krokom",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2313R001",
+      "regso_namn": "Strömsund södra",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2313R002",
+      "regso_namn": "Strömsund tätort",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2313R003",
+      "regso_namn": "Strömsund väster",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2313R004",
+      "regso_namn": "Strömsund öster",
+      "kommun_kod": "2313",
+      "kommun_namn": "Strömsund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2321R001",
+      "regso_namn": "Duved",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2321R002",
+      "regso_namn": "Järpen",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2321R003",
+      "regso_namn": "Mattmar-Mörsil",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2321R004",
+      "regso_namn": "Nordvästra bygden",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2321R005",
+      "regso_namn": "Storsjöbygden",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2321R006",
+      "regso_namn": "Södra Årefjällen",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2321R007",
+      "regso_namn": "Åre",
+      "kommun_kod": "2321",
+      "kommun_namn": "Åre",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2326R001",
+      "regso_namn": "Hackås",
+      "kommun_kod": "2326",
+      "kommun_namn": "Berg",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2326R002",
+      "regso_namn": "Hoverberg",
+      "kommun_kod": "2326",
+      "kommun_namn": "Berg",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2326R003",
+      "regso_namn": "Oviken",
+      "kommun_kod": "2326",
+      "kommun_namn": "Berg",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2326R004",
+      "regso_namn": "Rätan",
+      "kommun_kod": "2326",
+      "kommun_namn": "Berg",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2326R005",
+      "regso_namn": "Svenstavik",
+      "kommun_kod": "2326",
+      "kommun_namn": "Berg",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2326R006",
+      "regso_namn": "Åsarna",
+      "kommun_kod": "2326",
+      "kommun_namn": "Berg",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2361R001",
+      "regso_namn": "Funäsdalen",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2361R002",
+      "regso_namn": "Hede",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2361R003",
+      "regso_namn": "Härjedalen västra",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2361R004",
+      "regso_namn": "Härjedalen östra",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2361R005",
+      "regso_namn": "Sveg",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2361R006",
+      "regso_namn": "Sveg omland",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2361R007",
+      "regso_namn": "Vemdalen omland",
+      "kommun_kod": "2361",
+      "kommun_namn": "Härjedalen",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R001",
+      "regso_namn": "Brittsbo-Lugnviksstrand",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R002",
+      "regso_namn": "Brunflo",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R003",
+      "regso_namn": "Fjällmon",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R004",
+      "regso_namn": "Hornsberg-Östberg",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R005",
+      "regso_namn": "Karlslund-Remonthagen-Blomängen",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R006",
+      "regso_namn": "Körfältet",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R007",
+      "regso_namn": "Lit",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R008",
+      "regso_namn": "Lugnviks centrum",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R009",
+      "regso_namn": "Målsta-Sandviken-Marieby",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R010",
+      "regso_namn": "Norra Frösön-Frösö Berge-Frösödal",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R011",
+      "regso_namn": "Norra Odenslund-Odenskog",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R012",
+      "regso_namn": "Norra Valla-Härke-Västra Frösön",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R013",
+      "regso_namn": "Odensala",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R014",
+      "regso_namn": "Skogsmon",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R015",
+      "regso_namn": "Storsjöstrand-Odensvik-Fagervallen",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R016",
+      "regso_namn": "Södra Odenslund-Söder",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R017",
+      "regso_namn": "Södra Valla-Mjälle-Lövsta",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R018",
+      "regso_namn": "Ängsmon-Torvalla By-Ope",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R019",
+      "regso_namn": "Östersund norr",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R020",
+      "regso_namn": "Östersund norra landsbygd",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R021",
+      "regso_namn": "Östersund staden",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    },
+    {
+      "regso_kod": "2380R022",
+      "regso_namn": "Östersund södra landsbygd",
+      "kommun_kod": "2380",
+      "kommun_namn": "Östersund",
+      "lan_kod": "23"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Jämtlands län - Gratis nedladdning",
+    "description": "65 regionala statistikområden (RegSO) i Jämtlands län (länskod 23). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 65 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Jämtlands län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Jämtlands län — 65 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 65 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "sv-mattenheter-torque",
+  "name": "Måttenheter – kategori 'torque' (2)",
+  "title": "Måttenheter – kategori 'torque' (2)",
+  "description": "Måttenheter i kategorin 'torque' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "torque-newton-meter",
+      "kategori": "torque",
+      "namn": "newton-meter",
+      "forkortning": "Nm",
+      "smal_form": "Nm",
+      "monster": "{0} newton-meter"
+    },
+    {
+      "id": 2,
+      "unit_code": "torque-pound-force-foot",
+      "kategori": "torque",
+      "namn": "pound-force-feet",
+      "forkortning": "lbf⋅ft",
+      "smal_form": "lbf⋅ft",
+      "monster": "{0} pound-force-feet"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'torque' (2) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'torque' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 2 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'torque' (2) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'torque' (2) — 2 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 2 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,6664 @@
+{
+  "id": "sv-skane-valdistrikt-2022",
+  "name": "Valdistrikt i Skåne län (val 2022)",
+  "title": "Valdistrikt i Skåne län (val 2022)",
+  "description": "826 valdistrikt i Skåne län (länskod 12) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 826,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "12140101",
+      "valdistrikt_namn": "Svalöv Östra",
+      "kommun_kod": "1214",
+      "kommun_namn": "Svalöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12140201",
+      "valdistrikt_namn": "Svalöv Norra",
+      "kommun_kod": "1214",
+      "kommun_namn": "Svalöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12140301",
+      "valdistrikt_namn": "Svalöv Västra",
+      "kommun_kod": "1214",
+      "kommun_namn": "Svalöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12140501",
+      "valdistrikt_namn": "Kågeröd - Stenestad",
+      "kommun_kod": "1214",
+      "kommun_namn": "Svalöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12140601",
+      "valdistrikt_namn": "Billeberga - Tågarp",
+      "kommun_kod": "1214",
+      "kommun_namn": "Svalöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12140901",
+      "valdistrikt_namn": "Teckomatorp - Norrvidinge",
+      "kommun_kod": "1214",
+      "kommun_namn": "Svalöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12141401",
+      "valdistrikt_namn": "Röstånga - Konga-Ask",
+      "kommun_kod": "1214",
+      "kommun_namn": "Svalöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300101",
+      "valdistrikt_namn": "Kyrkheddinge",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300409",
+      "valdistrikt_namn": "Uppåkra",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300702",
+      "valdistrikt_namn": "Borggård",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300703",
+      "valdistrikt_namn": "Central Södra",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300704",
+      "valdistrikt_namn": "Bråhög",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300705",
+      "valdistrikt_namn": "Aspvägen",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300706",
+      "valdistrikt_namn": "Stanstorp",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300707",
+      "valdistrikt_namn": "Mellanvången",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300708",
+      "valdistrikt_namn": "Annero",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300709",
+      "valdistrikt_namn": "Central Norra",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300710",
+      "valdistrikt_namn": "Kyrkbyn",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300711",
+      "valdistrikt_namn": "Vikhem",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300712",
+      "valdistrikt_namn": "Hagalid",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300713",
+      "valdistrikt_namn": "Jakriborg",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300714",
+      "valdistrikt_namn": "Hjärup Norra",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300715",
+      "valdistrikt_namn": "Hjärup  Södra",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12300911",
+      "valdistrikt_namn": "Tottarp",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12310101",
+      "valdistrikt_namn": "Karstorp-Svanetorp",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12310102",
+      "valdistrikt_namn": "Gamla Åkarp-Dalslund-Kockumsområdet",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12310103",
+      "valdistrikt_namn": "Harakärrsområdet-Mossvägen-Lyckö äng",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12310104",
+      "valdistrikt_namn": "Tågarp Ö.",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12310105",
+      "valdistrikt_namn": "Centrala Arlöv",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12310106",
+      "valdistrikt_namn": "Elisetorp V.",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12310107",
+      "valdistrikt_namn": "Elisetorp Ö.",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12310108",
+      "valdistrikt_namn": "Svenshög",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12310109",
+      "valdistrikt_namn": "Kronetorp-Burlövs egnahem m.fl.",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12310110",
+      "valdistrikt_namn": "Tågarp V.",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330201",
+      "valdistrikt_namn": "Vellinge Eskilstorp",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330301",
+      "valdistrikt_namn": "Hököpinge-Gessie",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330302",
+      "valdistrikt_namn": "Hököpinge-Bruksparken",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330401",
+      "valdistrikt_namn": "Vellinge södra",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330402",
+      "valdistrikt_namn": "Vellinge väster",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330403",
+      "valdistrikt_namn": "Vellinge centrum",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330404",
+      "valdistrikt_namn": "Vellinge Herrestorp",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330501",
+      "valdistrikt_namn": "Skanör västra",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330502",
+      "valdistrikt_namn": "Skanör östra",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330503",
+      "valdistrikt_namn": "Ljunghusen västra",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330504",
+      "valdistrikt_namn": "Ljunghusen östra",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330505",
+      "valdistrikt_namn": "Skanör centrum",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330601",
+      "valdistrikt_namn": "Falsterbo södra",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330602",
+      "valdistrikt_namn": "Falsterbo norra",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330801",
+      "valdistrikt_namn": "Höllviken norra",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330802",
+      "valdistrikt_namn": "Höllviken västra-centrum",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330803",
+      "valdistrikt_namn": "Höllviken östra-centrum",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330804",
+      "valdistrikt_namn": "Kronodal-Granviks",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330805",
+      "valdistrikt_namn": "Höllviken Gya",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330901",
+      "valdistrikt_namn": "Höllviken-Kämpinge",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330902",
+      "valdistrikt_namn": "Höllviken-Höllviksstrand",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12330903",
+      "valdistrikt_namn": "Räng",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12331201",
+      "valdistrikt_namn": "Östra Grevie",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12331301",
+      "valdistrikt_namn": "Västra Ingelstad",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12560103",
+      "valdistrikt_namn": "Knislinge Öster",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12560104",
+      "valdistrikt_namn": "Knislinge Väster",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12560301",
+      "valdistrikt_namn": "Hanaskog",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12560401",
+      "valdistrikt_namn": "Hjärsås",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12560402",
+      "valdistrikt_namn": "Sibbhult",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12560601",
+      "valdistrikt_namn": "Broby Väster",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12560603",
+      "valdistrikt_namn": "Broby Öster",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12560701",
+      "valdistrikt_namn": "Glimåkra",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12570102",
+      "valdistrikt_namn": "Åsljunga",
+      "kommun_kod": "1257",
+      "kommun_namn": "Örkelljunga",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12570103",
+      "valdistrikt_namn": "Örkelljunga Centrum",
+      "kommun_kod": "1257",
+      "kommun_namn": "Örkelljunga",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12570104",
+      "valdistrikt_namn": "Örkelljunga Norra",
+      "kommun_kod": "1257",
+      "kommun_namn": "Örkelljunga",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12570105",
+      "valdistrikt_namn": "Örkelljunga Mellan",
+      "kommun_kod": "1257",
+      "kommun_namn": "Örkelljunga",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12570206",
+      "valdistrikt_namn": "Rya",
+      "kommun_kod": "1257",
+      "kommun_namn": "Örkelljunga",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12570307",
+      "valdistrikt_namn": "Skånes Fagerhult",
+      "kommun_kod": "1257",
+      "kommun_namn": "Örkelljunga",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12600101",
+      "valdistrikt_namn": "Bjuv 1",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12600102",
+      "valdistrikt_namn": "Bjuv 2",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12600103",
+      "valdistrikt_namn": "Bjuv 3",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12600104",
+      "valdistrikt_namn": "Bjuv 4",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12600105",
+      "valdistrikt_namn": "Bjuv 5",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12600106",
+      "valdistrikt_namn": "Billesholm 3",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12600201",
+      "valdistrikt_namn": "Billesholm 1",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12600302",
+      "valdistrikt_namn": "Billesholm 2",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12600401",
+      "valdistrikt_namn": "Ekeby 1",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12600402",
+      "valdistrikt_namn": "Ekeby 2",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12600403",
+      "valdistrikt_namn": "Ekeby 3",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610101",
+      "valdistrikt_namn": "Kävlinge Öster",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610102",
+      "valdistrikt_namn": "Kävlinge Söder",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610103",
+      "valdistrikt_namn": "Kävlinge Norr",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610104",
+      "valdistrikt_namn": "Kävlinge Väster",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610105",
+      "valdistrikt_namn": "Korsbacka/Arvidsborg",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610301",
+      "valdistrikt_namn": "Karaby/Dösjebro",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610302",
+      "valdistrikt_namn": "Ålstorp",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610401",
+      "valdistrikt_namn": "Lackalänga",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610402",
+      "valdistrikt_namn": "Furulund Centrum",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610403",
+      "valdistrikt_namn": "Stävie",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610901",
+      "valdistrikt_namn": "Stora Harrie",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12610902",
+      "valdistrikt_namn": "Rinnebäck",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12611001",
+      "valdistrikt_namn": "Hofterup",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12611201",
+      "valdistrikt_namn": "Barsebäck",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12611202",
+      "valdistrikt_namn": "Nyvång",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12611203",
+      "valdistrikt_namn": "Sandskogen/Lyckorna",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12611204",
+      "valdistrikt_namn": "Tolvåker",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12611205",
+      "valdistrikt_namn": "Löddeköpinge Centrum",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620101",
+      "valdistrikt_namn": "Lomma N",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620102",
+      "valdistrikt_namn": "Lomma Hamn",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620103",
+      "valdistrikt_namn": "Båtgatorna-Fågelstaden",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620104",
+      "valdistrikt_namn": "Piläng",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620105",
+      "valdistrikt_namn": "Karstorp-Alnarp",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620106",
+      "valdistrikt_namn": "Lervik",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620107",
+      "valdistrikt_namn": "Lomma Centrum",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620201",
+      "valdistrikt_namn": "Borgeby - Löddesnäs Ö",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620202",
+      "valdistrikt_namn": "Löddesnäs V",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620301",
+      "valdistrikt_namn": "Bjärred S - Önnerup",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620302",
+      "valdistrikt_namn": "Bjärehov",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12620303",
+      "valdistrikt_namn": "Bjärred NÖ - Flädie - Fjelie",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630101",
+      "valdistrikt_namn": "Svedala centrum",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630102",
+      "valdistrikt_namn": "Svedala stadsparken-Sjödiken",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630103",
+      "valdistrikt_namn": "Svedala kyrka",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630104",
+      "valdistrikt_namn": "Svedala väster–Skabersjö",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630105",
+      "valdistrikt_namn": "Svedala norr",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630106",
+      "valdistrikt_namn": "Svedala öster-Börringe",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630107",
+      "valdistrikt_namn": "Svedala söder",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630108",
+      "valdistrikt_namn": "Svedala gamla Sockerbruket",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630703",
+      "valdistrikt_namn": "Bara centrum",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630704",
+      "valdistrikt_namn": "Bara Torup",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630705",
+      "valdistrikt_namn": "Bara Bjärshög",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630801",
+      "valdistrikt_namn": "Klågerup, Hyby, Holmeja",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12630802",
+      "valdistrikt_namn": "Klågerup centrum",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12640101",
+      "valdistrikt_namn": "Skurup NV",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12640102",
+      "valdistrikt_namn": "Skurup NO",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12640103",
+      "valdistrikt_namn": "Skurup SV",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12640104",
+      "valdistrikt_namn": "Skurup SO",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12640601",
+      "valdistrikt_namn": "Skivarp N",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12640602",
+      "valdistrikt_namn": "Skivarp S - Abbekås",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12641001",
+      "valdistrikt_namn": "Rydsgård",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12641101",
+      "valdistrikt_namn": "Slimminge",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12650101",
+      "valdistrikt_namn": "Sjöbo Sandbäck",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12650301",
+      "valdistrikt_namn": "Sjöbo Emanuel",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12650302",
+      "valdistrikt_namn": "Sjöbo Centrum",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12650303",
+      "valdistrikt_namn": "Sjöbo Färsinga",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12650304",
+      "valdistrikt_namn": "Sjöbo Linné",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12650401",
+      "valdistrikt_namn": "Sövde",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12650501",
+      "valdistrikt_namn": "Blentarp",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12650601",
+      "valdistrikt_namn": "Everlöv",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12650901",
+      "valdistrikt_namn": "Vanstad",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12651001",
+      "valdistrikt_namn": "Lövestad",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12651101",
+      "valdistrikt_namn": "Fränninge",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12651201",
+      "valdistrikt_namn": "Vollsjö",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12651501",
+      "valdistrikt_namn": "Östra Kärrstorp",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12660201",
+      "valdistrikt_namn": "Frostaskolan",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12660202",
+      "valdistrikt_namn": "Folkets hus",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12660203",
+      "valdistrikt_namn": "Lyby-Georgshill",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12660204",
+      "valdistrikt_namn": "Älvdalsskolan",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12660301",
+      "valdistrikt_namn": "Långaröd",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12660501",
+      "valdistrikt_namn": "Ludvigsborg",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12660701",
+      "valdistrikt_namn": "Östraby-Västerstad",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12660801",
+      "valdistrikt_namn": "Svensköp",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12670201",
+      "valdistrikt_namn": "Höör/Bokeslund",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12670202",
+      "valdistrikt_namn": "Höör/Ormanäs",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12670203",
+      "valdistrikt_namn": "Höör/Veterinärsområdet",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12670204",
+      "valdistrikt_namn": "Höör/Centrum",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12670205",
+      "valdistrikt_namn": "Höör/Maglasäte",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12670206",
+      "valdistrikt_namn": "Höör/Stanstorp",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12670301",
+      "valdistrikt_namn": "Höör/Snogeröd",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12670401",
+      "valdistrikt_namn": "Höör/Orup",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12670601",
+      "valdistrikt_namn": "Höör/Frostavallen",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12670801",
+      "valdistrikt_namn": "Höör/Tjörnarp",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12700510",
+      "valdistrikt_namn": "Tomelilla S",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12700511",
+      "valdistrikt_namn": "Tomelilla tätort SV",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12700512",
+      "valdistrikt_namn": "Tomelilla Ö",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12700513",
+      "valdistrikt_namn": "Tomelilla V och Tryde",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12700607",
+      "valdistrikt_namn": "Onslunda",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12700910",
+      "valdistrikt_namn": "Smedstorp",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12701113",
+      "valdistrikt_namn": "Brösarp",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12720101",
+      "valdistrikt_namn": "Ivetofta",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12720102",
+      "valdistrikt_namn": "Bromölla Västra",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12720103",
+      "valdistrikt_namn": "Bromölla Östra",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12720104",
+      "valdistrikt_namn": "Bromölla Centrala",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12720105",
+      "valdistrikt_namn": "Bromölla Södra",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12720201",
+      "valdistrikt_namn": "Nymölla-Gualöv-Valje",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12720301",
+      "valdistrikt_namn": "Näsum",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12730101",
+      "valdistrikt_namn": "Osby Sydväst",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12730102",
+      "valdistrikt_namn": "Osby Nordväst",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12730103",
+      "valdistrikt_namn": "Osby Norra",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12730104",
+      "valdistrikt_namn": "Osby Nordöst",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12730105",
+      "valdistrikt_namn": "Osby Södra",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12730201",
+      "valdistrikt_namn": "Örkened Centralt",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12730202",
+      "valdistrikt_namn": "Örkened",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12730301",
+      "valdistrikt_namn": "Loshult/Killeberg",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12750101",
+      "valdistrikt_namn": "Södra",
+      "kommun_kod": "1275",
+      "kommun_namn": "Perstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12750102",
+      "valdistrikt_namn": "Västra",
+      "kommun_kod": "1275",
+      "kommun_namn": "Perstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12750103",
+      "valdistrikt_namn": "Oderljunga",
+      "kommun_kod": "1275",
+      "kommun_namn": "Perstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12750104",
+      "valdistrikt_namn": "Östra",
+      "kommun_kod": "1275",
+      "kommun_namn": "Perstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12750105",
+      "valdistrikt_namn": "Centrum och Norra",
+      "kommun_kod": "1275",
+      "kommun_namn": "Perstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12760101",
+      "valdistrikt_namn": "Klippan N-Gråmanstorp mfl",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12760102",
+      "valdistrikt_namn": "Klippan NÖ-Solslätt",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12760103",
+      "valdistrikt_namn": "Klippan V",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12760106",
+      "valdistrikt_namn": "Klippan SÖ-Nyslätt-Elfdalen",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12760204",
+      "valdistrikt_namn": "Storäng-Vedby mfl",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12760305",
+      "valdistrikt_namn": "Krika-Bonnarp-Nybygget",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12760410",
+      "valdistrikt_namn": "Riseberga-Färingtofta mfl",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12760507",
+      "valdistrikt_namn": "Ljungbyhed N",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12760508",
+      "valdistrikt_namn": "Ljungbyhed S",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12760711",
+      "valdistrikt_namn": "Östra Ljungby",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12760712",
+      "valdistrikt_namn": "Stidsvig",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12770101",
+      "valdistrikt_namn": "Åstorp  Centrum",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12770102",
+      "valdistrikt_namn": "Åstorp  Björnekulla",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12770105",
+      "valdistrikt_namn": "Åstorp  Bjärshög",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12770106",
+      "valdistrikt_namn": "Åstorp  Dala",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12770107",
+      "valdistrikt_namn": "Åstorp  Öster",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12770110",
+      "valdistrikt_namn": "Åstorp Norr",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12770203",
+      "valdistrikt_namn": "Nyvång",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12770204",
+      "valdistrikt_namn": "Hyllinge",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12770308",
+      "valdistrikt_namn": "Kvidinge tätort",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12770309",
+      "valdistrikt_namn": "Kvidinge landsbygd",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12780101",
+      "valdistrikt_namn": "Båstad Västra",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12780102",
+      "valdistrikt_namn": "Båstad Östra",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12780202",
+      "valdistrikt_namn": "Förslöv Västra",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12780203",
+      "valdistrikt_namn": "Förslöv Östra",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12780303",
+      "valdistrikt_namn": "Grevie",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12780404",
+      "valdistrikt_namn": "Västra Karup",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12780506",
+      "valdistrikt_namn": "Hov",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12780607",
+      "valdistrikt_namn": "Torekov",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12780703",
+      "valdistrikt_namn": "Östra Karup",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12780704",
+      "valdistrikt_namn": "Hemmeslöv-Riviera",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800101",
+      "valdistrikt_namn": "Gamla staden V",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800102",
+      "valdistrikt_namn": "Gamla staden-Stortorget",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800103",
+      "valdistrikt_namn": "Gamla staden-Caroli",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800104",
+      "valdistrikt_namn": "Gamla staden-Ö Tullgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800105",
+      "valdistrikt_namn": "Gamla staden-Österport",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800106",
+      "valdistrikt_namn": "Davidshall",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800107",
+      "valdistrikt_namn": "Davidshall-Lugnet",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800108",
+      "valdistrikt_namn": "Västra hamnen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800109",
+      "valdistrikt_namn": "Västra hamnen-Flaggskeppet",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800110",
+      "valdistrikt_namn": "Västra hamnen-Dockplatsen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800111",
+      "valdistrikt_namn": "Slussen-Ö Förstadsg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800112",
+      "valdistrikt_namn": "Slussen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800113",
+      "valdistrikt_namn": "Östervärn-Fredsgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800114",
+      "valdistrikt_namn": "Östervärn-Nobelv",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800115",
+      "valdistrikt_namn": "Ellstorp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800116",
+      "valdistrikt_namn": "N Sorgenfri",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800117",
+      "valdistrikt_namn": "Värnhem",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800118",
+      "valdistrikt_namn": "Rörsjöstaden-Rörsjöparken",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800119",
+      "valdistrikt_namn": "Rörsjöstaden-Kungsgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800120",
+      "valdistrikt_namn": "V Sorgenfri-Betania",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800121",
+      "valdistrikt_namn": "V Sorgenfri-Rörsjö",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800122",
+      "valdistrikt_namn": "Lugnet-Rörsjö",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800123",
+      "valdistrikt_namn": "Lugnet",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800124",
+      "valdistrikt_namn": "Rådmansvången-Triangeln",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800125",
+      "valdistrikt_namn": "Rådmansvången-Stadshuset",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800126",
+      "valdistrikt_namn": "Rådmansvången-S Förstadsgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800127",
+      "valdistrikt_namn": "Rådmansvången-Tandläkarhögskolan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800128",
+      "valdistrikt_namn": "Västra hamnen-Fullriggaren",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800129",
+      "valdistrikt_namn": "Gamla staden-S Promenaden",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800130",
+      "valdistrikt_namn": "Rörsjöstaden-Föreningsgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800131",
+      "valdistrikt_namn": "Västra hamnen-Kockum fritid",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800132",
+      "valdistrikt_namn": "Katrinelund-Värnhem",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800133",
+      "valdistrikt_namn": "Västra hamnen-Isbergs gata",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800134",
+      "valdistrikt_namn": "Västra hamnen-Bassängkajen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800135",
+      "valdistrikt_namn": "Västra hamnen-Bomgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800136",
+      "valdistrikt_namn": "Västra hamnen-Varvsparken",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800137",
+      "valdistrikt_namn": "Värnhem-Rörsjö",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800201",
+      "valdistrikt_namn": "Möllevången-Bergsgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800202",
+      "valdistrikt_namn": "V Sorgenfri-Mariagatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800203",
+      "valdistrikt_namn": "V Sorgenfri-Nobelv",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800204",
+      "valdistrikt_namn": "Möllevångstorget N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800205",
+      "valdistrikt_namn": "Möllevången-Folkets park",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800206",
+      "valdistrikt_namn": "Möllevången-Karlskronaplan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800207",
+      "valdistrikt_namn": "Möllevången-Bangatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800208",
+      "valdistrikt_namn": "Möllevången-Södervärnsplan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800209",
+      "valdistrikt_namn": "Södervärn",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800210",
+      "valdistrikt_namn": "Flensburg-Allm sjukhuset",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800211",
+      "valdistrikt_namn": "S Sofielund-Seved",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800212",
+      "valdistrikt_namn": "N Sofielund-Sofielundsskolan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800213",
+      "valdistrikt_namn": "S Sofielund-Bryggeriet",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800214",
+      "valdistrikt_namn": "N Sofielund-Nobelv",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800215",
+      "valdistrikt_namn": "N Sofielund-Nobeltorget",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800216",
+      "valdistrikt_namn": "Ö Sorgenfri-Kiviksgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800217",
+      "valdistrikt_namn": "Ö Sorgenfri-Nobelv",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800218",
+      "valdistrikt_namn": "Ö Sorgenfri-Sorgenfrivägen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800219",
+      "valdistrikt_namn": "Ö Sorgenfri-Brantevik",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800220",
+      "valdistrikt_namn": "Annelund",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800221",
+      "valdistrikt_namn": "Lönngården",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800222",
+      "valdistrikt_namn": "Möllevångstorget S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800301",
+      "valdistrikt_namn": "Hästhagen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800302",
+      "valdistrikt_namn": "Fågelbacken N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800303",
+      "valdistrikt_namn": "Kronprinsen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800304",
+      "valdistrikt_namn": "Fågelbacken S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800305",
+      "valdistrikt_namn": "Kronborg-Teatern",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800306",
+      "valdistrikt_namn": "Rönneholm SO",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800307",
+      "valdistrikt_namn": "Rönneholm-Mariedalsv",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800308",
+      "valdistrikt_namn": "Rönneholm NV",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800309",
+      "valdistrikt_namn": "Rönneholm NO",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800310",
+      "valdistrikt_namn": "Rönneholmsparken",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800311",
+      "valdistrikt_namn": "Ribersborg SO",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800312",
+      "valdistrikt_namn": "Ribersborg NO",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800313",
+      "valdistrikt_namn": "Ribersborgsskolan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800314",
+      "valdistrikt_namn": "Ribersborg-Limhamnsvägen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800315",
+      "valdistrikt_namn": "Ribersborg-Nicoloviusg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800316",
+      "valdistrikt_namn": "Ribersborg-Regementsg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800317",
+      "valdistrikt_namn": "Fridhem",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800318",
+      "valdistrikt_namn": "Västervång-Fridhem",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800319",
+      "valdistrikt_namn": "Mellanheden",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800320",
+      "valdistrikt_namn": "Dammfri-Köpenhamnsvägen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800321",
+      "valdistrikt_namn": "Dammfri-Korsörvägen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800322",
+      "valdistrikt_namn": "Solbacken",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800323",
+      "valdistrikt_namn": "Dammfri-John Ericssons väg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800324",
+      "valdistrikt_namn": "Kronborg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800401",
+      "valdistrikt_namn": "Bellevue-Nya Bellevue",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800402",
+      "valdistrikt_namn": "Rosenvång",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800403",
+      "valdistrikt_namn": "Gamla Limhamn-Västanväg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800404",
+      "valdistrikt_namn": "Limhamn, Ön",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800405",
+      "valdistrikt_namn": "Gamla Limhamn-Tegnérgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800406",
+      "valdistrikt_namn": "Gamla Limhamn-Linnéskolan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800407",
+      "valdistrikt_namn": "Sibbarp N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800408",
+      "valdistrikt_namn": "Annetorp N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800409",
+      "valdistrikt_namn": "Djupadal N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800410",
+      "valdistrikt_namn": "Annetorp S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800411",
+      "valdistrikt_namn": "Sibbarp S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800412",
+      "valdistrikt_namn": "Sibbarp-Hammars Park",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800413",
+      "valdistrikt_namn": "Djupadal-Ö Rosenvång",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800414",
+      "valdistrikt_namn": "Djupadal-Broddaparken",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800415",
+      "valdistrikt_namn": "Hyllieby",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800416",
+      "valdistrikt_namn": "Bunkeflostrand N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800417",
+      "valdistrikt_namn": "Bunkeflostrand-Fjärilsg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800418",
+      "valdistrikt_namn": "Bunkeflostrand-Ängslätt",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800419",
+      "valdistrikt_namn": "Bunkeflostrand-Strandhem",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800420",
+      "valdistrikt_namn": "Annestad N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800421",
+      "valdistrikt_namn": "Bunkeflo-Vintrie",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800422",
+      "valdistrikt_namn": "Klagshamn-V Klagstorp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800423",
+      "valdistrikt_namn": "Tygelsjöby",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800424",
+      "valdistrikt_namn": "Klagshamn-Tygelsjöby",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800425",
+      "valdistrikt_namn": "Limhamn-Dragörkajen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800426",
+      "valdistrikt_namn": "Kalkbrottet",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800427",
+      "valdistrikt_namn": "Annestad S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800428",
+      "valdistrikt_namn": "Elinelund",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800429",
+      "valdistrikt_namn": "Limhamn-Cementparken",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800430",
+      "valdistrikt_namn": "Limhamn-Fendertorget",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800431",
+      "valdistrikt_namn": "Limhamn-Fernissagatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800432",
+      "valdistrikt_namn": "Limhamn-Formgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800433",
+      "valdistrikt_namn": "Limhamn-Rosengrens gata",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800501",
+      "valdistrikt_namn": "Lorensborg N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800502",
+      "valdistrikt_namn": "Lorensborg V",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800503",
+      "valdistrikt_namn": "Lorensborg SO",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800504",
+      "valdistrikt_namn": "Bellevuegården V",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800505",
+      "valdistrikt_namn": "Bellevuegården Ö",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800506",
+      "valdistrikt_namn": "Kroksbäck N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800507",
+      "valdistrikt_namn": "Kroksbäck V",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800508",
+      "valdistrikt_namn": "Kroksbäck S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800509",
+      "valdistrikt_namn": "Borgmästaregården S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800510",
+      "valdistrikt_namn": "Borgmästaregården N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800511",
+      "valdistrikt_namn": "Södertorp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800512",
+      "valdistrikt_namn": "Gröndal",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800513",
+      "valdistrikt_namn": "Kulladal N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800514",
+      "valdistrikt_namn": "Kulladal-Per Albin Hanssons väg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800515",
+      "valdistrikt_namn": "Kulladal-Kulladalsgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800516",
+      "valdistrikt_namn": "Holma N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800517",
+      "valdistrikt_namn": "Holma S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800518",
+      "valdistrikt_namn": "Lindeborg-Axel Danielssons väg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800519",
+      "valdistrikt_namn": "Lindeborg Centrum",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800520",
+      "valdistrikt_namn": "Lindeborg-Stolpalösaparken",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800521",
+      "valdistrikt_namn": "Hyllievång-Tennisgränd",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800522",
+      "valdistrikt_namn": "Hyllievång-Allétorget",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800523",
+      "valdistrikt_namn": "Hyllievång-Dagvattenparken",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800524",
+      "valdistrikt_namn": "Hyllievång-Sagas gränd",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800525",
+      "valdistrikt_namn": "Hyllievång-Skrivaregatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800601",
+      "valdistrikt_namn": "Heleneholm",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800602",
+      "valdistrikt_namn": "Eriksfält",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800603",
+      "valdistrikt_namn": "Almhög V",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800604",
+      "valdistrikt_namn": "Almhög Ö",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800605",
+      "valdistrikt_namn": "Augustenborg N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800606",
+      "valdistrikt_namn": "Augustenborg S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800607",
+      "valdistrikt_namn": "Hindby",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800608",
+      "valdistrikt_namn": "Nydala NV",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800609",
+      "valdistrikt_namn": "Nydala NO",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800610",
+      "valdistrikt_namn": "Nydala SO",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800611",
+      "valdistrikt_namn": "Gullviksborg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800612",
+      "valdistrikt_namn": "Gullvik",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800613",
+      "valdistrikt_namn": "Ö Söderkulla",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800614",
+      "valdistrikt_namn": "Hermodsdal",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800615",
+      "valdistrikt_namn": "Hermodsdal-Gullviksborg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800616",
+      "valdistrikt_namn": "V Söderkulla-Söderkullagatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800617",
+      "valdistrikt_namn": "V Söderkulla Centrum",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800618",
+      "valdistrikt_namn": "V Söderkulla-Fosietorp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800619",
+      "valdistrikt_namn": "Lindängen N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800620",
+      "valdistrikt_namn": "Lindängen Centrum",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800621",
+      "valdistrikt_namn": "Almvik",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800622",
+      "valdistrikt_namn": "Lindängen Ö",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800623",
+      "valdistrikt_namn": "Lindängen-Almvik",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800624",
+      "valdistrikt_namn": "Lindängen-Kastanjegården",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800625",
+      "valdistrikt_namn": "Lindängen-Vårsången",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800701",
+      "valdistrikt_namn": "Oxie Kyrkby N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800702",
+      "valdistrikt_namn": "Oxie Kyrkby Ö",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800703",
+      "valdistrikt_namn": "Oxie Kyrkby-Toarp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800704",
+      "valdistrikt_namn": "Kristineberg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800705",
+      "valdistrikt_namn": "Käglinge",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800706",
+      "valdistrikt_namn": "Oxievång Ö",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800707",
+      "valdistrikt_namn": "Oxievång V",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800708",
+      "valdistrikt_namn": "Käglinge-Lockarp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800801",
+      "valdistrikt_namn": "Törnrosen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800802",
+      "valdistrikt_namn": "Örtagården V",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800803",
+      "valdistrikt_namn": "Persborg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800804",
+      "valdistrikt_namn": "V Kattarp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800805",
+      "valdistrikt_namn": "Rosengård centrum",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800806",
+      "valdistrikt_namn": "Apelgården S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800807",
+      "valdistrikt_namn": "Apelgården N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800808",
+      "valdistrikt_namn": "Kryddgården S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800809",
+      "valdistrikt_namn": "Herrgården",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800810",
+      "valdistrikt_namn": "Kryddgården N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800811",
+      "valdistrikt_namn": "Törnrosen-Örtagården",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800812",
+      "valdistrikt_namn": "Örtagården Ö",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800901",
+      "valdistrikt_namn": "Riseberga-Storhällagatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800902",
+      "valdistrikt_namn": "Riseberga-Ringbergagatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800903",
+      "valdistrikt_namn": "Videdal N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800904",
+      "valdistrikt_namn": "Videdal S",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800905",
+      "valdistrikt_namn": "Virentofta V",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800906",
+      "valdistrikt_namn": "Virentofta Ö",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800907",
+      "valdistrikt_namn": "Höja",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800908",
+      "valdistrikt_namn": "Stenkällan-Höja",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800909",
+      "valdistrikt_namn": "Stenkällan-Jägersro Villastad",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800910",
+      "valdistrikt_namn": "Ö Skrävlinge-Kvarnby",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800911",
+      "valdistrikt_namn": "S Sallerup",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800912",
+      "valdistrikt_namn": "Almgården",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800913",
+      "valdistrikt_namn": "Ö Skrävlinge-Gyllins",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12800914",
+      "valdistrikt_namn": "Riseberga-Elsa Anderssons gata",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12801001",
+      "valdistrikt_namn": "Kirsebergsstaden-Rostorp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12801002",
+      "valdistrikt_namn": "Kirsebergsstaden-Solgatan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12801003",
+      "valdistrikt_namn": "Kirsebergsstaden-Kirsebergstornet",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12801004",
+      "valdistrikt_namn": "Johanneslust",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12801005",
+      "valdistrikt_namn": "Kirsebergsstaden-Beijers park",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12801006",
+      "valdistrikt_namn": "Segevång N",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12801007",
+      "valdistrikt_namn": "Segevång V",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12801008",
+      "valdistrikt_namn": "Segevång Ö",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12801009",
+      "valdistrikt_namn": "Håkanstorp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12801010",
+      "valdistrikt_namn": "Bulltofta-Valdemarsro",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810101",
+      "valdistrikt_namn": "Centrum, Krafts rote",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810102",
+      "valdistrikt_namn": "Centrum, Clemens rote",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810103",
+      "valdistrikt_namn": "Centrum, Vårfru rote",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810104",
+      "valdistrikt_namn": "Mårtenslund",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810105",
+      "valdistrikt_namn": "Nöden",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810106",
+      "valdistrikt_namn": "Revingelyckan-Margretedal",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810107",
+      "valdistrikt_namn": "Stampelyckan-Planetstaden",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810108",
+      "valdistrikt_namn": "Centrum,  Drottens rote-Svanelyckan",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810109",
+      "valdistrikt_namn": "Ulrikedal",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810110",
+      "valdistrikt_namn": "Gylleholm",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810111",
+      "valdistrikt_namn": "Centrum, Färgaren",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810201",
+      "valdistrikt_namn": "Kobjer-Sliparelyckan",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810202",
+      "valdistrikt_namn": "Pilelyckan-Rådmansvången",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810203",
+      "valdistrikt_namn": "Papegojelyckan Ö",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810204",
+      "valdistrikt_namn": "Väster",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810205",
+      "valdistrikt_namn": "Spoletorp V",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810206",
+      "valdistrikt_namn": "Papegojelyckan V",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810207",
+      "valdistrikt_namn": "Värpinge - Klosters Fälad",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810208",
+      "valdistrikt_namn": "Värpinge gård",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810209",
+      "valdistrikt_namn": "Vildanden",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810210",
+      "valdistrikt_namn": "Måsen",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810211",
+      "valdistrikt_namn": "Klosterhusen",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810301",
+      "valdistrikt_namn": "Råbylund",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810302",
+      "valdistrikt_namn": "Linero, Vikingaparken",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810303",
+      "valdistrikt_namn": "Linero, Tre högars park",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810304",
+      "valdistrikt_namn": "Linero, Gårdarike",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810305",
+      "valdistrikt_namn": "Norränga",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810401",
+      "valdistrikt_namn": "Olshög-Professorsstaden",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810402",
+      "valdistrikt_namn": "Spoletorp Ö",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810403",
+      "valdistrikt_namn": "Tuna",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810404",
+      "valdistrikt_namn": "Galjevången",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810405",
+      "valdistrikt_namn": "Möllevången Ö",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810406",
+      "valdistrikt_namn": "Möllevången V",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810407",
+      "valdistrikt_namn": "Plantagelyckan",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810501",
+      "valdistrikt_namn": "Nöbbelövs centrum",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810502",
+      "valdistrikt_namn": "Nöbbelöv-Oscarshem",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810503",
+      "valdistrikt_namn": "Gunnesboparken",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810504",
+      "valdistrikt_namn": "Gunnesbo, Fornängen",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12810505",
+      "valdistrikt_namn": "Norra Nöbbelöv",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12811301",
+      "valdistrikt_namn": "Sandby, Västervång-Hardeberga",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12811302",
+      "valdistrikt_namn": "Sandby, Kyrkovång",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12811303",
+      "valdistrikt_namn": "Sandby, Fågelsång-Assarhusa",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12811304",
+      "valdistrikt_namn": "Sandby, Östervång-Revinge",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12811305",
+      "valdistrikt_namn": "Sandby Centrum",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12811601",
+      "valdistrikt_namn": "Dalby, Centrum-Nyvång",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12811602",
+      "valdistrikt_namn": "Dalby, Norrevång",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12811603",
+      "valdistrikt_namn": "Dalby, Stationen-Påskagänget",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12811604",
+      "valdistrikt_namn": "Dalby, Pinnmöllan-Rökepipan",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12811605",
+      "valdistrikt_namn": "Torna Hällestad",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12811606",
+      "valdistrikt_namn": "Dalby Kolonin",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812001",
+      "valdistrikt_namn": "Genarp, Slätterna",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812002",
+      "valdistrikt_namn": "Genarp, Ekesvång",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812101",
+      "valdistrikt_namn": "Veberöd, Björkhaga-Trulsbo",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812102",
+      "valdistrikt_namn": "Veberöd, Gamla byn",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812103",
+      "valdistrikt_namn": "Veberöd, Idala",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812104",
+      "valdistrikt_namn": "Veberöd Raggeborg",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812401",
+      "valdistrikt_namn": "Hospitalsgården-Järnåkra",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812402",
+      "valdistrikt_namn": "Nilstorp",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812403",
+      "valdistrikt_namn": "Klostergården SV",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812404",
+      "valdistrikt_namn": "Klostergården N",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812405",
+      "valdistrikt_namn": "Sankt Lars",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812406",
+      "valdistrikt_namn": "Klostergården SÖ",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812407",
+      "valdistrikt_namn": "Klostergården Centrum",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812501",
+      "valdistrikt_namn": "N Fäladen, Kämnärsrätten SÖ",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812502",
+      "valdistrikt_namn": "Sankt Hans park",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812503",
+      "valdistrikt_namn": "Fäladstorget",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812504",
+      "valdistrikt_namn": "N Fäladen, Borgareparken",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812505",
+      "valdistrikt_namn": "Ladugårdsmarken",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812506",
+      "valdistrikt_namn": "Annehem",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812507",
+      "valdistrikt_namn": "Delfi",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812508",
+      "valdistrikt_namn": "N Fäladen, Kämnärsrätten NV",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812509",
+      "valdistrikt_namn": "N Fäladen, Rådhusrätten",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812510",
+      "valdistrikt_namn": "Offerkällan",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812511",
+      "valdistrikt_namn": "Brunnshög",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812601",
+      "valdistrikt_namn": "Östra Torn, Spexaren",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812602",
+      "valdistrikt_namn": "Vipelyckan",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812603",
+      "valdistrikt_namn": "Östra Torn, Gåsatoften",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812604",
+      "valdistrikt_namn": "Östra Torn, Vänortsparken",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812605",
+      "valdistrikt_namn": "Östra Torn, Orkesterparken",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812606",
+      "valdistrikt_namn": "Mårtens Fälad",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812701",
+      "valdistrikt_namn": "Vallkärra",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12812702",
+      "valdistrikt_namn": "Torn",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820101",
+      "valdistrikt_namn": "Citadellstaden",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820102",
+      "valdistrikt_namn": "Fröjdenborg",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820103",
+      "valdistrikt_namn": "Norra Förstaden",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820104",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820105",
+      "valdistrikt_namn": "Dammhagen",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820106",
+      "valdistrikt_namn": "Gustav Adolf",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820107",
+      "valdistrikt_namn": "S:t Olov",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820108",
+      "valdistrikt_namn": "Albano",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820109",
+      "valdistrikt_namn": "Larvi",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820110",
+      "valdistrikt_namn": "Sandvången",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820111",
+      "valdistrikt_namn": "Helgebröten",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820112",
+      "valdistrikt_namn": "Norrestad",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820113",
+      "valdistrikt_namn": "Karlslund",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820114",
+      "valdistrikt_namn": "Västra Fäladen",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820115",
+      "valdistrikt_namn": "Drottningen",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820116",
+      "valdistrikt_namn": "Svaneholm",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820117",
+      "valdistrikt_namn": "Norra Borstahusen",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820118",
+      "valdistrikt_namn": "Weibullsholm",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820201",
+      "valdistrikt_namn": "Ven",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820301",
+      "valdistrikt_namn": "Annelöv",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820401",
+      "valdistrikt_namn": "Häljarp Norra",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820402",
+      "valdistrikt_namn": "Häljarp Södra",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820501",
+      "valdistrikt_namn": "Asmundtorp",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820801",
+      "valdistrikt_namn": "Härslöv",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820802",
+      "valdistrikt_namn": "Glumslöv Norra",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12820803",
+      "valdistrikt_namn": "Glumslöv Södra",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830101",
+      "valdistrikt_namn": "Olympia",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830102",
+      "valdistrikt_namn": "Centrum S",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830103",
+      "valdistrikt_namn": "Centrum V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830104",
+      "valdistrikt_namn": "Slottshöjden S",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830105",
+      "valdistrikt_namn": "Slottshöjden N",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830106",
+      "valdistrikt_namn": "Stattena",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830107",
+      "valdistrikt_namn": "Centrum Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830108",
+      "valdistrikt_namn": "Tågaborg Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830109",
+      "valdistrikt_namn": "Tågaborg S",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830110",
+      "valdistrikt_namn": "St Jörgens plats",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830111",
+      "valdistrikt_namn": "Tågaborg M",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830112",
+      "valdistrikt_namn": "Tågaborg N",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830113",
+      "valdistrikt_namn": "Pålsjöbaden",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830114",
+      "valdistrikt_namn": "Pålsjö Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830115",
+      "valdistrikt_namn": "Ringstorp C",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830116",
+      "valdistrikt_namn": "Berga",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830117",
+      "valdistrikt_namn": "Mariastaden N",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830118",
+      "valdistrikt_namn": "Mariastaden V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830119",
+      "valdistrikt_namn": "Mariastaden Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830120",
+      "valdistrikt_namn": "Ringstorp Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830121",
+      "valdistrikt_namn": "Tågaborg C",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830122",
+      "valdistrikt_namn": "Margaretaplatsen",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830123",
+      "valdistrikt_namn": "Ringstorp N",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830124",
+      "valdistrikt_namn": "Mariastaden S",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830201",
+      "valdistrikt_namn": "Furutorp",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830202",
+      "valdistrikt_namn": "Stadsparken",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830203",
+      "valdistrikt_namn": "Högaborg V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830204",
+      "valdistrikt_namn": "Eneborg V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830205",
+      "valdistrikt_namn": "Wilson park",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830206",
+      "valdistrikt_namn": "Eneborg M",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830207",
+      "valdistrikt_namn": "Högaborg Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830208",
+      "valdistrikt_namn": "Viskängen",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830209",
+      "valdistrikt_namn": "Närlunda",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830210",
+      "valdistrikt_namn": "Eskilsminne",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830211",
+      "valdistrikt_namn": "Ragnvalla",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830212",
+      "valdistrikt_namn": "Adolfsberg-Västergård S",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830213",
+      "valdistrikt_namn": "Sofieberg",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830214",
+      "valdistrikt_namn": "Husensjö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830215",
+      "valdistrikt_namn": "Rosengården Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830216",
+      "valdistrikt_namn": "Rosengården V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830217",
+      "valdistrikt_namn": "Västergård N",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830218",
+      "valdistrikt_namn": "Gustavslund Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830219",
+      "valdistrikt_namn": "Söder",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830220",
+      "valdistrikt_namn": "Gustav Adolf",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830221",
+      "valdistrikt_namn": "Oceanhamnen",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830222",
+      "valdistrikt_namn": "Eneborg Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830223",
+      "valdistrikt_namn": "Rosengården C",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830224",
+      "valdistrikt_namn": "Gustavslund V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830301",
+      "valdistrikt_namn": "Råå S",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830302",
+      "valdistrikt_namn": "Råå N",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830303",
+      "valdistrikt_namn": "Högasten",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830304",
+      "valdistrikt_namn": "Lussebäcken",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830305",
+      "valdistrikt_namn": "Planteringen S",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830306",
+      "valdistrikt_namn": "Planteringen N",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830307",
+      "valdistrikt_namn": "Elineberg",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830308",
+      "valdistrikt_namn": "Ramlösabrunn",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830309",
+      "valdistrikt_namn": "Ramlösa N",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830310",
+      "valdistrikt_namn": "Humlegården",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830311",
+      "valdistrikt_namn": "Ättekulla N",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830312",
+      "valdistrikt_namn": "Raus S",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830313",
+      "valdistrikt_namn": "Ramlösa Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830314",
+      "valdistrikt_namn": "Ättekulla Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830401",
+      "valdistrikt_namn": "Välinge",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830501",
+      "valdistrikt_namn": "Kattarp",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830601",
+      "valdistrikt_namn": "Allerum",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830602",
+      "valdistrikt_namn": "Hittarp-Domsten",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830603",
+      "valdistrikt_namn": "Laröd V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830604",
+      "valdistrikt_namn": "Laröd Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830701",
+      "valdistrikt_namn": "Ödåkra N",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830702",
+      "valdistrikt_namn": "Ödåkra Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830703",
+      "valdistrikt_namn": "Björka-Väla",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830704",
+      "valdistrikt_namn": "Ödåkra V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830901",
+      "valdistrikt_namn": "Påarp V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12830902",
+      "valdistrikt_namn": "Påarp Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831201",
+      "valdistrikt_namn": "Mörarp V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831202",
+      "valdistrikt_namn": "Mörarp Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831301",
+      "valdistrikt_namn": "Bårslöv Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831302",
+      "valdistrikt_namn": "Bårslöv V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831601",
+      "valdistrikt_namn": "Rydebäck N",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831602",
+      "valdistrikt_namn": "Rydebäck S",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831603",
+      "valdistrikt_namn": "Gantofta",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831604",
+      "valdistrikt_namn": "Vallåkra-Ottarp",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831605",
+      "valdistrikt_namn": "Rydebäck Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831606",
+      "valdistrikt_namn": "Rydebäck M",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831701",
+      "valdistrikt_namn": "Fredriksdal V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831702",
+      "valdistrikt_namn": "Fredriksdal M",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831703",
+      "valdistrikt_namn": "Drottninghög Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831704",
+      "valdistrikt_namn": "Drottninghög V",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831705",
+      "valdistrikt_namn": "Dalhem-Källstorp",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831706",
+      "valdistrikt_namn": "Dalhem S",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831707",
+      "valdistrikt_namn": "Brohult",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831708",
+      "valdistrikt_namn": "Lundsbäck",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12831709",
+      "valdistrikt_namn": "Fredriksdal Ö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840001",
+      "valdistrikt_namn": "Nyhamn V",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840002",
+      "valdistrikt_namn": "Nyhamn Ö - Brunnby",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840003",
+      "valdistrikt_namn": "Jonstorp V - Ingelsträde",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840004",
+      "valdistrikt_namn": "Jonstorp Ö",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840005",
+      "valdistrikt_namn": "Höganäs NV",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840006",
+      "valdistrikt_namn": "Höganäs NÖ - Väsby",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840007",
+      "valdistrikt_namn": "Höganäs C",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840008",
+      "valdistrikt_namn": "Höganäs S",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840009",
+      "valdistrikt_namn": "Höganäs SÖ",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840010",
+      "valdistrikt_namn": "Höganäs Ö",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840011",
+      "valdistrikt_namn": "Lerberget N",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840012",
+      "valdistrikt_namn": "Lerberget S",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840013",
+      "valdistrikt_namn": "Viken N",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840014",
+      "valdistrikt_namn": "Viken Ö",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12840015",
+      "valdistrikt_namn": "Viken S",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850101",
+      "valdistrikt_namn": "Centrum Sydost",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850102",
+      "valdistrikt_namn": "Centrum Väster",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850103",
+      "valdistrikt_namn": "Karlsro",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850104",
+      "valdistrikt_namn": "Norr",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850105",
+      "valdistrikt_namn": "Rönneberga",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850106",
+      "valdistrikt_namn": "Solkullen",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850107",
+      "valdistrikt_namn": "Väster",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850108",
+      "valdistrikt_namn": "Sallerup",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850109",
+      "valdistrikt_namn": "Berga",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850110",
+      "valdistrikt_namn": "Örtofta",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850111",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850201",
+      "valdistrikt_namn": "Stehag",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850401",
+      "valdistrikt_namn": "Västra Strö",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850801",
+      "valdistrikt_namn": "Billinge",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12850901",
+      "valdistrikt_namn": "Skarhult",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12851101",
+      "valdistrikt_namn": "Marieholm",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12851301",
+      "valdistrikt_namn": "Löberöd",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12851401",
+      "valdistrikt_namn": "Harlösa",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12851601",
+      "valdistrikt_namn": "Flyinge",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860101",
+      "valdistrikt_namn": "Edvinshem SÖ-Gjuteriet",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860102",
+      "valdistrikt_namn": "Edvinshem N",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860103",
+      "valdistrikt_namn": "Bellevue S",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860104",
+      "valdistrikt_namn": "Bellevue N",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860105",
+      "valdistrikt_namn": "Solbacken N",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860106",
+      "valdistrikt_namn": "Hälsobacken",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860107",
+      "valdistrikt_namn": "Egna hem-Solbacken SÖ",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860108",
+      "valdistrikt_namn": "Surbrunnen-Östra förstaden N",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860109",
+      "valdistrikt_namn": "Ö förstaden S-Regementet-Sandskogen",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860110",
+      "valdistrikt_namn": "Gamla staden V",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860111",
+      "valdistrikt_namn": "Västra Sjöstaden-Åkesholm",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860112",
+      "valdistrikt_namn": "Gamla staden Ö",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860401",
+      "valdistrikt_namn": "Svarte-Snårestad-Bjäresjö-Sjörup mfl",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12860701",
+      "valdistrikt_namn": "StHerrestad-Hedeskoga-Bussjö-Källesj",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12861101",
+      "valdistrikt_namn": "Nybrostrand-St Köpinge-Svenstorp",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12861102",
+      "valdistrikt_namn": "Köpingebro",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12861201",
+      "valdistrikt_namn": "Sövestad-Baldringe-Högestad m fl",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12861601",
+      "valdistrikt_namn": "Löderup m fl",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12861801",
+      "valdistrikt_namn": "Glemmingebro-Ingelstorp-Kåseberga",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870101",
+      "valdistrikt_namn": "Stavstensvägen-Bäckaskolan",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870102",
+      "valdistrikt_namn": "Hallabacken-Prästahejdan",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870103",
+      "valdistrikt_namn": "Vannhög-Västervång",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870104",
+      "valdistrikt_namn": "Kattebäck",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870105",
+      "valdistrikt_namn": "Centrum-SSG östra",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870106",
+      "valdistrikt_namn": "Liljeborg-Parken",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870107",
+      "valdistrikt_namn": "Högalid-Söderslättshallen",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870108",
+      "valdistrikt_namn": "Granlunda-Knäckekärr",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870109",
+      "valdistrikt_namn": "Barnängen-Rådmansgatan",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870110",
+      "valdistrikt_namn": "Järnvägsgatan-Söderslättsgatan",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870111",
+      "valdistrikt_namn": "Johan Kocksgatan-Möllaregatan",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870112",
+      "valdistrikt_namn": "Akka",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870113",
+      "valdistrikt_namn": "Österlid-Sockenvägen",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870114",
+      "valdistrikt_namn": "Fagerängen-Östra stranden",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870115",
+      "valdistrikt_namn": "Dalköpinge-Gislövs by",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870116",
+      "valdistrikt_namn": "Centrum-SSG Västra",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870201",
+      "valdistrikt_namn": "Skegrie-Stavstensudde-Fuglie",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12870301",
+      "valdistrikt_namn": "Tommarp-Hammarlöv-Vemmerlöv",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12871001",
+      "valdistrikt_namn": "Alstad-Villie-Minnesberg",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12871301",
+      "valdistrikt_namn": "Gylle-Bösarp",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12871401",
+      "valdistrikt_namn": "Pilevall-Kyrkoköpinge",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12871501",
+      "valdistrikt_namn": "Gislövs läge-Gislövs Strandmark",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12871701",
+      "valdistrikt_namn": "Klagstorp-Simremarken",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12872101",
+      "valdistrikt_namn": "Smygehamn",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12872501",
+      "valdistrikt_namn": "Beddingestrand-Källstorp-Jordberga",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12872801",
+      "valdistrikt_namn": "Grönby-Önnarp",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12873101",
+      "valdistrikt_namn": "Anderslöv",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900101",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900102",
+      "valdistrikt_namn": "Söder - Udden",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900103",
+      "valdistrikt_namn": "Söder",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900104",
+      "valdistrikt_namn": "Östermalm",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900105",
+      "valdistrikt_namn": "Egna Hem - Parkstaden",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900106",
+      "valdistrikt_namn": "Lyckans Höjd",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900107",
+      "valdistrikt_namn": "Östra Fäladen",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900108",
+      "valdistrikt_namn": "Gamlegården1",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900109",
+      "valdistrikt_namn": "Gamlegården2",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900111",
+      "valdistrikt_namn": "Kulltorp",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900112",
+      "valdistrikt_namn": "Näsby norra",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900113",
+      "valdistrikt_namn": "Näsby södra",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900114",
+      "valdistrikt_namn": "Österäng",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900115",
+      "valdistrikt_namn": "Öllsjö",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900116",
+      "valdistrikt_namn": "Sommarlust",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900209",
+      "valdistrikt_namn": "Charlottesborg - Härlöv",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900210",
+      "valdistrikt_namn": "Hedentorp - Åsum",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900216",
+      "valdistrikt_namn": "Vilan - Långebro",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900402",
+      "valdistrikt_namn": "Träne - Djurröd - Skepparslöv",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900702",
+      "valdistrikt_namn": "Vä",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900803",
+      "valdistrikt_namn": "Köpinge - Nöbbelöv",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900901",
+      "valdistrikt_namn": "Hammar",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900902",
+      "valdistrikt_namn": "Nosaby",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12900903",
+      "valdistrikt_namn": "Hammarslund - Gamla Hammar - Araslöv",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12901103",
+      "valdistrikt_namn": "Österslöv - Fjälkestad",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12901303",
+      "valdistrikt_namn": "Önnestad - Norra Strö",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12901401",
+      "valdistrikt_namn": "Färlöv",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12901501",
+      "valdistrikt_namn": "Åhus Centrum",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12901502",
+      "valdistrikt_namn": "Åhus Täppet",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12901503",
+      "valdistrikt_namn": "Åhus Transval - Sånna",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12901505",
+      "valdistrikt_namn": "Åhus Vattentornet - Ripa",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12901506",
+      "valdistrikt_namn": "Åhus Äspet",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12901507",
+      "valdistrikt_namn": "Åhus Vanneberga - Östra Sand",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12901701",
+      "valdistrikt_namn": "Everödsbygden",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12902301",
+      "valdistrikt_namn": "Bäckaskog",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12902401",
+      "valdistrikt_namn": "Fjälkinge - Nymö",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12902501",
+      "valdistrikt_namn": "Gustav Adolf - Rinkaby",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12902901",
+      "valdistrikt_namn": "Degeberga - Hörröd - Huaröd",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12903001",
+      "valdistrikt_namn": "Yngsjö - Vittskövle - Maglehem",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12903103",
+      "valdistrikt_namn": "Tollarp - Linderöd - Äsphult",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12903201",
+      "valdistrikt_namn": "Tollarp centrum södra",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12903202",
+      "valdistrikt_namn": "Tollarp centrum norra",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12903501",
+      "valdistrikt_namn": "Oppmanna - Vånga - Arkelstorp",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12910101",
+      "valdistrikt_namn": "Simrishamn N",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12910102",
+      "valdistrikt_namn": "Simrishamn C",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12910103",
+      "valdistrikt_namn": "Simrishamn S",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12910204",
+      "valdistrikt_namn": "Simris",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12910408",
+      "valdistrikt_namn": "Gladsax",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12910609",
+      "valdistrikt_namn": "Skillinge",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12910710",
+      "valdistrikt_namn": "Borrby",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12911114",
+      "valdistrikt_namn": "Gärsnäs",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12911215",
+      "valdistrikt_namn": "Vitaby",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12911316",
+      "valdistrikt_namn": "Hammenhög",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12911720",
+      "valdistrikt_namn": "S:t Olof",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12911821",
+      "valdistrikt_namn": "Rörum",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12911922",
+      "valdistrikt_namn": "Kivik",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920101",
+      "valdistrikt_namn": "Ausås-Strövelstorp",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920102",
+      "valdistrikt_namn": "Höja-Starby",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920103",
+      "valdistrikt_namn": "Skörpinge",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920104",
+      "valdistrikt_namn": "Södra Utmarken",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920105",
+      "valdistrikt_namn": "Willan",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920106",
+      "valdistrikt_namn": "Ängavången",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920107",
+      "valdistrikt_namn": "Centrum S",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920108",
+      "valdistrikt_namn": "Nya Torg",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920109",
+      "valdistrikt_namn": "Sockerbruket",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920110",
+      "valdistrikt_namn": "Danielslund",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920111",
+      "valdistrikt_namn": "Centrum N",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920201",
+      "valdistrikt_namn": "Kungsgården",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920202",
+      "valdistrikt_namn": "Munka Ljungby S",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920203",
+      "valdistrikt_namn": "Tåssjö-Össjö",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920204",
+      "valdistrikt_namn": "Munka Ljungby N",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920205",
+      "valdistrikt_namn": "Rebbelberga",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920206",
+      "valdistrikt_namn": "Pomona",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920207",
+      "valdistrikt_namn": "Skälderviken",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920208",
+      "valdistrikt_namn": "Magnarp",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920209",
+      "valdistrikt_namn": "Vejbystrand",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920210",
+      "valdistrikt_namn": "Hjärnarp S",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12920211",
+      "valdistrikt_namn": "Hjärnarp N",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930101",
+      "valdistrikt_namn": "T4-området",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930102",
+      "valdistrikt_namn": "Gäddastorp",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930103",
+      "valdistrikt_namn": "Bokeberg",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930104",
+      "valdistrikt_namn": "Stattena",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930105",
+      "valdistrikt_namn": "Hässleholm C",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930106",
+      "valdistrikt_namn": "Djupadal",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930107",
+      "valdistrikt_namn": "Haga",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930108",
+      "valdistrikt_namn": "Kristinehem-Ekedal",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930109",
+      "valdistrikt_namn": "Sjörröd",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930110",
+      "valdistrikt_namn": "Östervärn-Röinge",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930111",
+      "valdistrikt_namn": "Läreda",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930112",
+      "valdistrikt_namn": "Ljungdala",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930113",
+      "valdistrikt_namn": "Fredentorp",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930114",
+      "valdistrikt_namn": "Bokalyckan",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930301",
+      "valdistrikt_namn": "Stoby-Ignaberga",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930302",
+      "valdistrikt_namn": "Ballingslöv",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930501",
+      "valdistrikt_namn": "Vinslöv C",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930502",
+      "valdistrikt_namn": "Vinslöv N",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930503",
+      "valdistrikt_namn": "Vinslöv S",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12930901",
+      "valdistrikt_namn": "Hästveda V",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931002",
+      "valdistrikt_namn": "Hästveda Ö",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931203",
+      "valdistrikt_namn": "Vittsjö utom tätorten",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931204",
+      "valdistrikt_namn": "Vittsjö tätort",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931301",
+      "valdistrikt_namn": "Bjärnum S",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931302",
+      "valdistrikt_namn": "Bjärnum N",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931402",
+      "valdistrikt_namn": "Vankiva",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931503",
+      "valdistrikt_namn": "Sösdala Ö",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931504",
+      "valdistrikt_namn": "Sösdala V",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931704",
+      "valdistrikt_namn": "Tormestorp",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931901",
+      "valdistrikt_namn": "Tyringe N",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931902",
+      "valdistrikt_namn": "Tyringe V",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931903",
+      "valdistrikt_namn": "Finja",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12931904",
+      "valdistrikt_namn": "Tyringe S",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    },
+    {
+      "valdistrikt_kod": "12932005",
+      "valdistrikt_namn": "Röke-Hörja",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12",
+      "lan_namn": "Skåne län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Skåne län (val 2022) - Gratis nedladdning",
+    "description": "826 valdistrikt i Skåne län (länskod 12) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 826 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Skåne län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Skåne län (val 2022) — 826 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 826 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

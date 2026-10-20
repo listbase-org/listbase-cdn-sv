@@ -1,0 +1,6021 @@
+{
+  "id": "sv-vardcentraler",
+  "name": "Vårdcentraler i Sverige",
+  "title": "Vårdcentraler i Sverige",
+  "description": "Vårdcentraler i Sverige (OpenStreetMap-punkter, amenity=clinic). Namn, latitud och longitud (WGS84). 1196 poster.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1196,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aba Ögonklinik",
+      "latitude": 59.335114,
+      "longitude": 17.978215
+    },
+    {
+      "name": "Achima Care Emmaboda Vårdcentral",
+      "latitude": 56.631488,
+      "longitude": 15.540601
+    },
+    {
+      "name": "Achima Care Nybro Vårdcentral",
+      "latitude": 56.743537,
+      "longitude": 15.911357
+    },
+    {
+      "name": "Achima Care Uddevalla vårdcentral",
+      "latitude": 58.350519,
+      "longitude": 11.956646
+    },
+    {
+      "name": "Adina Hälsan Vårdcentral",
+      "latitude": 57.916817,
+      "longitude": 12.065724
+    },
+    {
+      "name": "Adolfsbergs vårdcentral",
+      "latitude": 59.239092,
+      "longitude": 15.160388
+    },
+    {
+      "name": "Akademikliniken",
+      "latitude": 57.689653,
+      "longitude": 11.967265
+    },
+    {
+      "name": "Akilles Fotvård",
+      "latitude": 59.301445,
+      "longitude": 18.009274
+    },
+    {
+      "name": "Akutmottagning",
+      "latitude": 61.728931,
+      "longitude": 17.098968
+    },
+    {
+      "name": "Akutmottagning",
+      "latitude": 62.408041,
+      "longitude": 17.304976
+    },
+    {
+      "name": "Akutmottagning barn",
+      "latitude": 57.719921,
+      "longitude": 12.053068
+    },
+    {
+      "name": "Akutmottagning barn- och ungdomspsykiatri",
+      "latitude": 57.721028,
+      "longitude": 12.055822
+    },
+    {
+      "name": "Akutmottagning för gravida och nyförlösta",
+      "latitude": 57.720973,
+      "longitude": 12.053151
+    },
+    {
+      "name": "Akutmottagning förlossning",
+      "latitude": 57.72125,
+      "longitude": 12.052918
+    },
+    {
+      "name": "Akutmottagning gynekologi",
+      "latitude": 57.682839,
+      "longitude": 11.962606
+    },
+    {
+      "name": "Akutmottagning Mölndal",
+      "latitude": 57.661416,
+      "longitude": 12.012018
+    },
+    {
+      "name": "Akutmottagning psykiatri",
+      "latitude": 57.721112,
+      "longitude": 12.053627
+    },
+    {
+      "name": "Akutmottagning Sahlgrenska",
+      "latitude": 57.683052,
+      "longitude": 11.959844
+    },
+    {
+      "name": "Akutmottagning vuxenpsykiatri Lund",
+      "latitude": 55.718834,
+      "longitude": 13.190154
+    },
+    {
+      "name": "Akutmottagning ögon",
+      "latitude": 57.660137,
+      "longitude": 12.010488
+    },
+    {
+      "name": "Akutmottagning Östra",
+      "latitude": 57.721381,
+      "longitude": 12.051216
+    },
+    {
+      "name": "Akutmottagningen",
+      "latitude": 65.672345,
+      "longitude": 21.93388
+    },
+    {
+      "name": "Alby vårdcentral",
+      "latitude": 59.237949,
+      "longitude": 17.844829
+    },
+    {
+      "name": "Alepraktiken Vårdcentral",
+      "latitude": 57.890221,
+      "longitude": 12.049304
+    },
+    {
+      "name": "Aleris",
+      "latitude": 55.56396,
+      "longitude": 12.975986
+    },
+    {
+      "name": "Aleris",
+      "latitude": 59.335616,
+      "longitude": 18.061375
+    },
+    {
+      "name": "Aleris Specialistklinik Hötorget",
+      "latitude": 59.335743,
+      "longitude": 18.060326
+    },
+    {
+      "name": "Alingsås jourcentral",
+      "latitude": 57.929043,
+      "longitude": 12.518944
+    },
+    {
+      "name": "Allemanshälsans vårdcentral Lunden",
+      "latitude": 58.407221,
+      "longitude": 13.867413
+    },
+    {
+      "name": "Allmanshälsan vårdcentral - Lunden",
+      "latitude": 58.406193,
+      "longitude": 13.853207
+    },
+    {
+      "name": "Allmanshälsans vårdcentral - City",
+      "latitude": 58.406278,
+      "longitude": 13.853207
+    },
+    {
+      "name": "Allékliniken Sleipner",
+      "latitude": 57.721094,
+      "longitude": 12.942305
+    },
+    {
+      "name": "Alnö vårdcentral",
+      "latitude": 62.426851,
+      "longitude": 17.415109
+    },
+    {
+      "name": "Alunda Vårdcentral",
+      "latitude": 60.062015,
+      "longitude": 18.07774
+    },
+    {
+      "name": "Alviks Barnklinik",
+      "latitude": 59.332978,
+      "longitude": 17.981325
+    },
+    {
+      "name": "Alviks vårdcentral",
+      "latitude": 59.3349,
+      "longitude": 17.977923
+    },
+    {
+      "name": "Amadeuskliniken Fyllinge",
+      "latitude": 56.648449,
+      "longitude": 12.919878
+    },
+    {
+      "name": "Amadeuskliniken Söndrum",
+      "latitude": 56.658784,
+      "longitude": 12.805556
+    },
+    {
+      "name": "Andersbergs Hälsocentral",
+      "latitude": 60.650174,
+      "longitude": 17.137518
+    },
+    {
+      "name": "Anderstorps vårdcentral",
+      "latitude": 64.746056,
+      "longitude": 20.989458
+    },
+    {
+      "name": "Anova",
+      "latitude": 59.347148,
+      "longitude": 18.036934
+    },
+    {
+      "name": "Aortascreening",
+      "latitude": 62.407661,
+      "longitude": 17.306791
+    },
+    {
+      "name": "Apladalens vårdcentral",
+      "latitude": 57.186048,
+      "longitude": 14.040418
+    },
+    {
+      "name": "Arjeplogs hälsocentral",
+      "latitude": 66.049969,
+      "longitude": 17.89187
+    },
+    {
+      "name": "Arlövs vårdcentral",
+      "latitude": 55.63454,
+      "longitude": 13.085293
+    },
+    {
+      "name": "Art Clinic",
+      "latitude": 57.768239,
+      "longitude": 14.203068
+    },
+    {
+      "name": "Artist- & Musikerhälsan",
+      "latitude": 55.597182,
+      "longitude": 12.998168
+    },
+    {
+      "name": "Askersunds Vårdscentral",
+      "latitude": 58.883845,
+      "longitude": 14.912928
+    },
+    {
+      "name": "Astrakanen",
+      "latitude": 56.941968,
+      "longitude": 15.913603
+    },
+    {
+      "name": "Atrium vårdcentral",
+      "latitude": 59.337757,
+      "longitude": 18.012878
+    },
+    {
+      "name": "Audika Hörselklinik",
+      "latitude": 58.413,
+      "longitude": 15.622978
+    },
+    {
+      "name": "Avonova",
+      "latitude": 58.505499,
+      "longitude": 13.159613
+    },
+    {
+      "name": "Axelsbergs vårdcentral",
+      "latitude": 59.303872,
+      "longitude": 17.974119
+    },
+    {
+      "name": "Backaplan Vårdcentral och BVC",
+      "latitude": 57.725938,
+      "longitude": 11.946862
+    },
+    {
+      "name": "Backe Hälsocentral",
+      "latitude": 63.807273,
+      "longitude": 16.408503
+    },
+    {
+      "name": "Backens hälsocentral",
+      "latitude": 63.837264,
+      "longitude": 20.163274
+    },
+    {
+      "name": "Bagarmossens vårdcentral",
+      "latitude": 59.276377,
+      "longitude": 18.13544
+    },
+    {
+      "name": "Baggängens vårdcentral",
+      "latitude": 59.314682,
+      "longitude": 14.48843
+    },
+    {
+      "name": "Barkarby Vårdcentral",
+      "latitude": 59.402554,
+      "longitude": 17.868149
+    },
+    {
+      "name": "Barn- och ungdomshabilitering Gävle",
+      "latitude": 60.686446,
+      "longitude": 17.133498
+    },
+    {
+      "name": "Barn- och ungdomspsykiatri",
+      "latitude": 64.584507,
+      "longitude": 18.680788
+    },
+    {
+      "name": "Barn- och ungdomspsykiatrisk mottagning Karlshamn",
+      "latitude": 56.174039,
+      "longitude": 14.872058
+    },
+    {
+      "name": "Barn- och ungdomspsykiatrisk mottagning Karlskrona",
+      "latitude": 56.163767,
+      "longitude": 15.584598
+    },
+    {
+      "name": "Barnavårdscentral",
+      "latitude": 58.42689,
+      "longitude": 15.782662
+    },
+    {
+      "name": "Barnavårdscentral",
+      "latitude": 59.276574,
+      "longitude": 18.134487
+    },
+    {
+      "name": "Barnavårdscentral BVC Mariehem",
+      "latitude": 63.838537,
+      "longitude": 20.327261
+    },
+    {
+      "name": "Barnavårdscentralen Allemanshälsans vårdcentral Lunden",
+      "latitude": 58.40722,
+      "longitude": 13.867389
+    },
+    {
+      "name": "Barnavårdscentralen Andersberg",
+      "latitude": 56.66188,
+      "longitude": 12.899092
+    },
+    {
+      "name": "Barnavårdscentralen Hyllie",
+      "latitude": 55.57668,
+      "longitude": 12.973869
+    },
+    {
+      "name": "Barnavårdscentralen Kronoparken",
+      "latitude": 59.405794,
+      "longitude": 13.579359
+    },
+    {
+      "name": "Barnavårdscentralen Molkom",
+      "latitude": 59.599344,
+      "longitude": 13.721613
+    },
+    {
+      "name": "Barnhälsovården",
+      "latitude": 56.914923,
+      "longitude": 13.983253
+    },
+    {
+      "name": "Barnhälsovårds-mottagningen",
+      "latitude": 56.738997,
+      "longitude": 15.909641
+    },
+    {
+      "name": "Barnhälsovårdsenheten",
+      "latitude": 58.589221,
+      "longitude": 16.191764
+    },
+    {
+      "name": "Barnmorskemottagning",
+      "latitude": 56.832226,
+      "longitude": 13.941163
+    },
+    {
+      "name": "Barnmorskemottagningen Kronoparken",
+      "latitude": 59.405755,
+      "longitude": 13.57939
+    },
+    {
+      "name": "Barnortopediskt Centrum",
+      "latitude": 59.336915,
+      "longitude": 18.05059
+    },
+    {
+      "name": "Bellevue Vårdcentral",
+      "latitude": 55.582594,
+      "longitude": 12.980863
+    },
+    {
+      "name": "Berga hälsocentral",
+      "latitude": 56.69193,
+      "longitude": 16.338354
+    },
+    {
+      "name": "Bergnäsets hälsocentral",
+      "latitude": 65.574545,
+      "longitude": 22.106539
+    },
+    {
+      "name": "Bergsjön Vårdcentral och BVC",
+      "latitude": 57.755974,
+      "longitude": 12.072105
+    },
+    {
+      "name": "Beroendemottagning Hisingen",
+      "latitude": 57.724656,
+      "longitude": 11.947026
+    },
+    {
+      "name": "Beroendemottagning Olskroken",
+      "latitude": 57.718145,
+      "longitude": 12.000344
+    },
+    {
+      "name": "Bjärnums vårdcentral",
+      "latitude": 56.291647,
+      "longitude": 13.715508
+    },
+    {
+      "name": "Björknäs hälsocentral",
+      "latitude": 65.827583,
+      "longitude": 21.682707
+    },
+    {
+      "name": "Björkskatans hälsocentral",
+      "latitude": 65.614561,
+      "longitude": 22.170293
+    },
+    {
+      "name": "Blackebergs Vårdcentral",
+      "latitude": 59.348053,
+      "longitude": 17.882514
+    },
+    {
+      "name": "Blomstermåla hälsocentral",
+      "latitude": 56.980883,
+      "longitude": 16.33267
+    },
+    {
+      "name": "Blåvik",
+      "latitude": 63.257489,
+      "longitude": 18.330713
+    },
+    {
+      "name": "Bollmora Vårdcentral",
+      "latitude": 59.246064,
+      "longitude": 18.22896
+    },
+    {
+      "name": "Boo vårdcentral",
+      "latitude": 59.328073,
+      "longitude": 18.259219
+    },
+    {
+      "name": "Borgholms Hälsocentral",
+      "latitude": 56.880965,
+      "longitude": 16.663119
+    },
+    {
+      "name": "Borås jourcentral",
+      "latitude": 57.718005,
+      "longitude": 12.941878
+    },
+    {
+      "name": "Borås Vårdcentral",
+      "latitude": 57.734259,
+      "longitude": 12.939565
+    },
+    {
+      "name": "Bra Liv Skillingaryds Vårdcentral",
+      "latitude": 57.426821,
+      "longitude": 14.09658
+    },
+    {
+      "name": "Brahehälsan",
+      "latitude": 55.775551,
+      "longitude": 13.520379
+    },
+    {
+      "name": "Bredäng Sätra Vårdcentral",
+      "latitude": 59.295445,
+      "longitude": 17.935014
+    },
+    {
+      "name": "Brinkens Vårdcentral",
+      "latitude": 58.529183,
+      "longitude": 15.051178
+    },
+    {
+      "name": "Britsarvets Vårdcentral",
+      "latitude": 60.620736,
+      "longitude": 15.622504
+    },
+    {
+      "name": "Brunnsgårdens vårdcentral",
+      "latitude": 56.171707,
+      "longitude": 14.869261
+    },
+    {
+      "name": "Bräcke Diakoni Vårdcentralen Centrum",
+      "latitude": 57.930574,
+      "longitude": 12.529973
+    },
+    {
+      "name": "Bräcke diakoni Vårdcentralen Malmen",
+      "latitude": 58.392285,
+      "longitude": 13.429072
+    },
+    {
+      "name": "Bräcke vårdcentral Centralhälsan",
+      "latitude": 58.164685,
+      "longitude": 13.553521
+    },
+    {
+      "name": "Bräcke vårdcentral Nyhälsan Forserum",
+      "latitude": 57.702749,
+      "longitude": 14.477684
+    },
+    {
+      "name": "Bräcke vårdcentral Vilan",
+      "latitude": 58.385972,
+      "longitude": 13.4544
+    },
+    {
+      "name": "Bräkne-Hoby vårdcentral",
+      "latitude": 56.227418,
+      "longitude": 15.116421
+    },
+    {
+      "name": "Brämhults vårdcentral",
+      "latitude": 57.726038,
+      "longitude": 13.003961
+    },
+    {
+      "name": "Brålanda Vårdcentral",
+      "latitude": 58.561416,
+      "longitude": 12.359592
+    },
+    {
+      "name": "Bröstcentrum",
+      "latitude": 59.333153,
+      "longitude": 18.023509
+    },
+    {
+      "name": "BUP Sollentuna",
+      "latitude": 59.429089,
+      "longitude": 17.946778
+    },
+    {
+      "name": "BVC Grodan",
+      "latitude": 56.648535,
+      "longitude": 12.920023
+    },
+    {
+      "name": "BVC Limhamnsläkarna",
+      "latitude": 55.581562,
+      "longitude": 12.933555
+    },
+    {
+      "name": "Byle Gård",
+      "latitude": 59.497255,
+      "longitude": 18.07739
+    },
+    {
+      "name": "Byske Hälsocentral",
+      "latitude": 64.950578,
+      "longitude": 21.207232
+    },
+    {
+      "name": "Bälinge vårdcentral",
+      "latitude": 59.949378,
+      "longitude": 17.530359
+    },
+    {
+      "name": "BålstaDoktorn",
+      "latitude": 59.557906,
+      "longitude": 17.537986
+    },
+    {
+      "name": "Capio",
+      "latitude": 59.360684,
+      "longitude": 17.998839
+    },
+    {
+      "name": "Capio Barnavårdscentral",
+      "latitude": 59.295343,
+      "longitude": 18.099621
+    },
+    {
+      "name": "Capio Barnavårdscentralen (BVC)",
+      "latitude": 55.875486,
+      "longitude": 12.832608
+    },
+    {
+      "name": "Capio BVC",
+      "latitude": 56.674204,
+      "longitude": 12.854799
+    },
+    {
+      "name": "Capio Citykliniken",
+      "latitude": 55.579989,
+      "longitude": 12.9325
+    },
+    {
+      "name": "Capio Citykliniken",
+      "latitude": 55.601384,
+      "longitude": 13.039517
+    },
+    {
+      "name": "Capio Citykliniken",
+      "latitude": 55.613841,
+      "longitude": 12.989146
+    },
+    {
+      "name": "Capio Citykliniken",
+      "latitude": 55.706669,
+      "longitude": 13.187877
+    },
+    {
+      "name": "Capio Citykliniken",
+      "latitude": 55.708082,
+      "longitude": 13.19073
+    },
+    {
+      "name": "Capio Citykliniken",
+      "latitude": 56.041369,
+      "longitude": 12.701825
+    },
+    {
+      "name": "Capio Citykliniken",
+      "latitude": 59.264174,
+      "longitude": 18.037858
+    },
+    {
+      "name": "Capio Gastro Center",
+      "latitude": 57.66475,
+      "longitude": 11.942653
+    },
+    {
+      "name": "Capio Hälsocentral Brynäs",
+      "latitude": 60.671429,
+      "longitude": 17.165793
+    },
+    {
+      "name": "Capio Hälsocentral Gävle",
+      "latitude": 60.666226,
+      "longitude": 17.149921
+    },
+    {
+      "name": "Capio Hälsocentral Wasahuset",
+      "latitude": 60.674853,
+      "longitude": 17.137655
+    },
+    {
+      "name": "Capio Maria",
+      "latitude": 59.316051,
+      "longitude": 18.057738
+    },
+    {
+      "name": "Capio Spine Center",
+      "latitude": 57.66481,
+      "longitude": 11.942678
+    },
+    {
+      "name": "Capio Vårdcentral",
+      "latitude": 55.875454,
+      "longitude": 12.832404
+    },
+    {
+      "name": "Capio Vårdcentral",
+      "latitude": 56.159196,
+      "longitude": 13.765033
+    },
+    {
+      "name": "Capio vårdcentral",
+      "latitude": 56.203304,
+      "longitude": 15.285676
+    },
+    {
+      "name": "Capio Vårdcentral",
+      "latitude": 58.944933,
+      "longitude": 11.186094
+    },
+    {
+      "name": "Capio Vårdcentral",
+      "latitude": 59.380563,
+      "longitude": 17.817275
+    },
+    {
+      "name": "Capio Vårdcentral",
+      "latitude": 59.403097,
+      "longitude": 13.190259
+    },
+    {
+      "name": "Capio Vårdcentral Almö",
+      "latitude": 58.061367,
+      "longitude": 11.752205
+    },
+    {
+      "name": "Capio Vårdcentral Amhult",
+      "latitude": 57.709522,
+      "longitude": 11.781013
+    },
+    {
+      "name": "Capio Vårdcentral Angered",
+      "latitude": 57.797583,
+      "longitude": 12.049099
+    },
+    {
+      "name": "Capio Vårdcentral Axess",
+      "latitude": 57.69959,
+      "longitude": 11.957871
+    },
+    {
+      "name": "Capio Vårdcentral Berga",
+      "latitude": 58.392127,
+      "longitude": 15.642558
+    },
+    {
+      "name": "Capio Vårdcentral Broby",
+      "latitude": 56.252095,
+      "longitude": 14.073519
+    },
+    {
+      "name": "Capio Vårdcentral Bunkeflo-Hyllie",
+      "latitude": 55.557343,
+      "longitude": 12.93636
+    },
+    {
+      "name": "Capio vårdcentral Grästorp",
+      "latitude": 58.330822,
+      "longitude": 12.677062
+    },
+    {
+      "name": "Capio Vårdcentral Gårda",
+      "latitude": 57.710706,
+      "longitude": 11.995373
+    },
+    {
+      "name": "Capio Vårdcentral Hjortmossen",
+      "latitude": 58.273809,
+      "longitude": 12.290271
+    },
+    {
+      "name": "Capio Vårdcentral Hovshaga",
+      "latitude": 56.909309,
+      "longitude": 14.798571
+    },
+    {
+      "name": "Capio Vårdcentral Hovås",
+      "latitude": 57.598346,
+      "longitude": 11.952246
+    },
+    {
+      "name": "Capio Vårdcentral Johannelund",
+      "latitude": 58.395482,
+      "longitude": 15.662992
+    },
+    {
+      "name": "Capio Vårdcentral Kristianstad",
+      "latitude": 56.028914,
+      "longitude": 14.178109
+    },
+    {
+      "name": "Capio Vårdcentral Kvillebäcken",
+      "latitude": 57.721162,
+      "longitude": 11.948389
+    },
+    {
+      "name": "Capio Vårdcentral Lekeberg",
+      "latitude": 59.175428,
+      "longitude": 14.864973
+    },
+    {
+      "name": "Capio Vårdcentral Lina Hage",
+      "latitude": 59.210186,
+      "longitude": 17.592478
+    },
+    {
+      "name": "Capio Vårdcentral Lysekil",
+      "latitude": 58.274051,
+      "longitude": 11.438291
+    },
+    {
+      "name": "Capio Vårdcentral Lödöse",
+      "latitude": 58.034026,
+      "longitude": 12.153752
+    },
+    {
+      "name": "Capio Vårdcentral Mölndal",
+      "latitude": 57.655852,
+      "longitude": 12.013359
+    },
+    {
+      "name": "Capio Vårdcentral Orust",
+      "latitude": 58.233465,
+      "longitude": 11.677731
+    },
+    {
+      "name": "Capio Vårdcentral Rehab",
+      "latitude": 56.909849,
+      "longitude": 14.796764
+    },
+    {
+      "name": "Capio Vårdcentral Slussen",
+      "latitude": 59.319586,
+      "longitude": 18.070464
+    },
+    {
+      "name": "Capio Vårdcentral Stenungsund",
+      "latitude": 58.072394,
+      "longitude": 11.815039
+    },
+    {
+      "name": "Capio Vårdcentral Sävedalen",
+      "latitude": 57.720213,
+      "longitude": 12.070138
+    },
+    {
+      "name": "Capio Vårdcentral Sävja",
+      "latitude": 59.809983,
+      "longitude": 17.702437
+    },
+    {
+      "name": "Capio Vårdcentral Vallby",
+      "latitude": 59.622911,
+      "longitude": 16.503177
+    },
+    {
+      "name": "Capio Vårdcentral Vasastaden",
+      "latitude": 58.419541,
+      "longitude": 15.608923
+    },
+    {
+      "name": "Capio Vårdcentral Väsby",
+      "latitude": 59.519688,
+      "longitude": 17.909773
+    },
+    {
+      "name": "Capio Ögon",
+      "latitude": 57.712418,
+      "longitude": 11.968445
+    },
+    {
+      "name": "Capio Ögon",
+      "latitude": 58.410105,
+      "longitude": 15.627002
+    },
+    {
+      "name": "CareClinic",
+      "latitude": 56.662318,
+      "longitude": 16.364012
+    },
+    {
+      "name": "Carlanderska",
+      "latitude": 57.68591,
+      "longitude": 11.984393
+    },
+    {
+      "name": "Centralhälsan Silentzvägen",
+      "latitude": 58.35314,
+      "longitude": 11.928263
+    },
+    {
+      "name": "Centrumkliniken",
+      "latitude": 59.858684,
+      "longitude": 17.643071
+    },
+    {
+      "name": "Centrumpraktiken",
+      "latitude": 57.875774,
+      "longitude": 11.975331
+    },
+    {
+      "name": "Citadellkliniken",
+      "latitude": 55.703157,
+      "longitude": 13.18037
+    },
+    {
+      "name": "City Clinic",
+      "latitude": 59.340841,
+      "longitude": 18.039964
+    },
+    {
+      "name": "City Närvården",
+      "latitude": 59.610911,
+      "longitude": 16.549023
+    },
+    {
+      "name": "Cityhälsan Söder",
+      "latitude": 58.574969,
+      "longitude": 16.203475
+    },
+    {
+      "name": "Cityläkarna Borås",
+      "latitude": 57.72114,
+      "longitude": 12.928748
+    },
+    {
+      "name": "Citysjukhuset +7",
+      "latitude": 57.705471,
+      "longitude": 11.957879
+    },
+    {
+      "name": "Citysjukhuset plus7 vårdcentral",
+      "latitude": 57.70544,
+      "longitude": 11.957972
+    },
+    {
+      "name": "Dala Vård & Vaccin",
+      "latitude": 60.486588,
+      "longitude": 15.432048
+    },
+    {
+      "name": "Danderyds sjukhus Dialysen",
+      "latitude": 59.392982,
+      "longitude": 18.037934
+    },
+    {
+      "name": "Danderyds vårdcentral",
+      "latitude": 59.398664,
+      "longitude": 18.035985
+    },
+    {
+      "name": "Delsbo & Friggesund Din Hälsocentral",
+      "latitude": 61.80053,
+      "longitude": 16.557715
+    },
+    {
+      "name": "Diagnostiskt Centrum Hud",
+      "latitude": 58.410089,
+      "longitude": 15.627008
+    },
+    {
+      "name": "Dialysmottagning",
+      "latitude": 63.300583,
+      "longitude": 18.709974
+    },
+    {
+      "name": "Din Klinik",
+      "latitude": 57.680112,
+      "longitude": 11.9888
+    },
+    {
+      "name": "Din Klinik",
+      "latitude": 57.680477,
+      "longitude": 11.98826
+    },
+    {
+      "name": "Distriksläkarna Kviberg Vårdcentral och BVC",
+      "latitude": 57.731839,
+      "longitude": 12.023899
+    },
+    {
+      "name": "Distriktsläkarna Mölndal Vårdcentral och BVC",
+      "latitude": 57.659372,
+      "longitude": 12.001033
+    },
+    {
+      "name": "Distriktssköterska",
+      "latitude": 64.703898,
+      "longitude": 15.535754
+    },
+    {
+      "name": "Distriktssköterskemottagning",
+      "latitude": 58.806873,
+      "longitude": 12.418763
+    },
+    {
+      "name": "Distriktssköterskemottagning",
+      "latitude": 63.549747,
+      "longitude": 18.602214
+    },
+    {
+      "name": "Djurö vårdcentral",
+      "latitude": 59.311634,
+      "longitude": 18.704042
+    },
+    {
+      "name": "doctor24",
+      "latitude": 58.39085,
+      "longitude": 13.848058
+    },
+    {
+      "name": "DoctorRY Skin Clinic",
+      "latitude": 55.705698,
+      "longitude": 13.19222
+    },
+    {
+      "name": "Dr. Dropin",
+      "latitude": 55.705606,
+      "longitude": 13.19247
+    },
+    {
+      "name": "Dr. Dropin Hudcentrum",
+      "latitude": 55.609018,
+      "longitude": 12.995864
+    },
+    {
+      "name": "Dragonens hälsocentral",
+      "latitude": 63.833147,
+      "longitude": 20.252637
+    },
+    {
+      "name": "E-Hälsan",
+      "latitude": 61.29417,
+      "longitude": 17.018528
+    },
+    {
+      "name": "Edsbergs vårdcentral",
+      "latitude": 59.444448,
+      "longitude": 17.966606
+    },
+    {
+      "name": "Edsbyns Hälsocentral",
+      "latitude": 61.379899,
+      "longitude": 15.810212
+    },
+    {
+      "name": "Eira",
+      "latitude": 60.672725,
+      "longitude": 17.147484
+    },
+    {
+      "name": "Ekensberg vårdcentral",
+      "latitude": 58.760952,
+      "longitude": 17.0342
+    },
+    {
+      "name": "Ekerö vårdcentral",
+      "latitude": 59.289268,
+      "longitude": 17.810557
+    },
+    {
+      "name": "Emmaboda hälsocentral",
+      "latitude": 56.632462,
+      "longitude": 15.53705
+    },
+    {
+      "name": "Engelbrektskliniken",
+      "latitude": 59.342305,
+      "longitude": 18.076113
+    },
+    {
+      "name": "Erikslid vårdcentral",
+      "latitude": 64.761276,
+      "longitude": 20.952807
+    },
+    {
+      "name": "Erikslunds hälsocentral",
+      "latitude": 65.829571,
+      "longitude": 21.727711
+    },
+    {
+      "name": "Ersboda hälsocentral",
+      "latitude": 63.856506,
+      "longitude": 20.3171
+    },
+    {
+      "name": "Esplanaden vårdcentral",
+      "latitude": 57.753371,
+      "longitude": 16.640245
+    },
+    {
+      "name": "Evidia",
+      "latitude": 55.607807,
+      "longitude": 13.024978
+    },
+    {
+      "name": "Evidia Hyllie Röntgen",
+      "latitude": 55.563835,
+      "longitude": 12.975712
+    },
+    {
+      "name": "Falck Hälospartner",
+      "latitude": 60.621291,
+      "longitude": 16.773823
+    },
+    {
+      "name": "Falu Vårdcentral",
+      "latitude": 60.613023,
+      "longitude": 15.620526
+    },
+    {
+      "name": "Falu Vårdcentral - Kaserngården",
+      "latitude": 60.605119,
+      "longitude": 15.653131
+    },
+    {
+      "name": "Familjecentral Andersberg",
+      "latitude": 60.651652,
+      "longitude": 17.138391
+    },
+    {
+      "name": "Familjecentralen",
+      "latitude": 57.175451,
+      "longitude": 14.023962
+    },
+    {
+      "name": "Familjecentralen Nävertorp",
+      "latitude": 58.984097,
+      "longitude": 16.183453
+    },
+    {
+      "name": "Familjecentralen Sandbyhov",
+      "latitude": 58.604938,
+      "longitude": 16.163492
+    },
+    {
+      "name": "Familjehälsan Vårdcentral, Gamlestaden",
+      "latitude": 57.729092,
+      "longitude": 12.016686
+    },
+    {
+      "name": "Familjeläkarna",
+      "latitude": 58.326137,
+      "longitude": 15.126322
+    },
+    {
+      "name": "Familjeläkarna",
+      "latitude": 59.567343,
+      "longitude": 17.527935
+    },
+    {
+      "name": "Familjeläkarna Barkarby",
+      "latitude": 59.414578,
+      "longitude": 17.864998
+    },
+    {
+      "name": "Familjeläkarna i Mölnlycke Vårdcentral och BVC",
+      "latitude": 57.656161,
+      "longitude": 12.117132
+    },
+    {
+      "name": "Familjeläkarna Kapellgärdet",
+      "latitude": 59.873985,
+      "longitude": 17.63658
+    },
+    {
+      "name": "Familjeläkarna Saltsjöbaden",
+      "latitude": 59.285612,
+      "longitude": 18.281037
+    },
+    {
+      "name": "Farsta Husläkarmottagning",
+      "latitude": 59.242708,
+      "longitude": 18.089691
+    },
+    {
+      "name": "Feelgood Företagshälsovård",
+      "latitude": 63.821714,
+      "longitude": 20.271729
+    },
+    {
+      "name": "Fellingsbro vårdcentral",
+      "latitude": 59.435076,
+      "longitude": 15.591285
+    },
+    {
+      "name": "Fellingsbro Vårdcentral",
+      "latitude": 59.435191,
+      "longitude": 15.591716
+    },
+    {
+      "name": "Fittja vårdcentral",
+      "latitude": 59.248491,
+      "longitude": 17.860173
+    },
+    {
+      "name": "Fjällbacka barnavårdscentral",
+      "latitude": 58.597253,
+      "longitude": 11.291759
+    },
+    {
+      "name": "Fjällbacka vårdcentral - Hamburgsund",
+      "latitude": 58.551663,
+      "longitude": 11.272918
+    },
+    {
+      "name": "Fjärås vårdcentral",
+      "latitude": 57.462385,
+      "longitude": 12.171453
+    },
+    {
+      "name": "Folkets Hus",
+      "latitude": 59.48006,
+      "longitude": 18.295783
+    },
+    {
+      "name": "Folktandvården",
+      "latitude": 57.492353,
+      "longitude": 14.134364
+    },
+    {
+      "name": "Folktandvården",
+      "latitude": 58.135657,
+      "longitude": 15.686495
+    },
+    {
+      "name": "Fornhöjdens vårdcentrum",
+      "latitude": 59.191292,
+      "longitude": 17.66511
+    },
+    {
+      "name": "Forshaga vårdcentral",
+      "latitude": 59.528023,
+      "longitude": 13.484544
+    },
+    {
+      "name": "Forsåker Vårdcentral och BVC",
+      "latitude": 57.65016,
+      "longitude": 12.025394
+    },
+    {
+      "name": "Fotcompaniet",
+      "latitude": 59.34648,
+      "longitude": 18.055664
+    },
+    {
+      "name": "Fridhemsplans vårdcentral",
+      "latitude": 59.331937,
+      "longitude": 18.032257
+    },
+    {
+      "name": "Fröslunda Vårdcentral",
+      "latitude": 59.352413,
+      "longitude": 16.495924
+    },
+    {
+      "name": "Full funktion naprapatklinik",
+      "latitude": 59.337496,
+      "longitude": 18.052546
+    },
+    {
+      "name": "Funäsdalens hälsocentral",
+      "latitude": 62.549008,
+      "longitude": 12.525861
+    },
+    {
+      "name": "Furunäsets hälsocentral",
+      "latitude": 65.294015,
+      "longitude": 21.48535
+    },
+    {
+      "name": "Färjestadens hälsocentral",
+      "latitude": 56.640984,
+      "longitude": 16.475578
+    },
+    {
+      "name": "Fålhagens vårdcentral",
+      "latitude": 59.857711,
+      "longitude": 17.650216
+    },
+    {
+      "name": "Gamleby vårdcentral",
+      "latitude": 57.898173,
+      "longitude": 16.400445
+    },
+    {
+      "name": "Gammelstads hälsocentral",
+      "latitude": 65.640888,
+      "longitude": 22.014458
+    },
+    {
+      "name": "Gavle Naprapat Klinik",
+      "latitude": 60.664956,
+      "longitude": 17.132533
+    },
+    {
+      "name": "Geria Vårdcentral i Söderköping",
+      "latitude": 58.480608,
+      "longitude": 16.328434
+    },
+    {
+      "name": "Geriatrisk, neuro- och smärtmottagning",
+      "latitude": 62.40876,
+      "longitude": 17.306377
+    },
+    {
+      "name": "Getinge vårdcentral",
+      "latitude": 56.816233,
+      "longitude": 12.735123
+    },
+    {
+      "name": "Gimo vårdcentral",
+      "latitude": 60.172447,
+      "longitude": 18.185375
+    },
+    {
+      "name": "Gnesta Vårdcentral",
+      "latitude": 59.045576,
+      "longitude": 17.301794
+    },
+    {
+      "name": "Golab Gynekologi&Obstetrik Läkartjänst AB",
+      "latitude": 60.675525,
+      "longitude": 17.133861
+    },
+    {
+      "name": "Granlo vårdcentral",
+      "latitude": 62.40384,
+      "longitude": 17.255217
+    },
+    {
+      "name": "Gränsbygdskliniken",
+      "latitude": 56.521384,
+      "longitude": 13.3155
+    },
+    {
+      "name": "Gröndals Vårdcentral",
+      "latitude": 59.313885,
+      "longitude": 18.017239
+    },
+    {
+      "name": "Guldhedskliniken",
+      "latitude": 57.688907,
+      "longitude": 11.967097
+    },
+    {
+      "name": "Gustavsbergs Vårdcentral",
+      "latitude": 59.32293,
+      "longitude": 18.380575
+    },
+    {
+      "name": "Gynekologimottagning akut Malmö",
+      "latitude": 55.58751,
+      "longitude": 12.999992
+    },
+    {
+      "name": "Gärdets vårdcentral",
+      "latitude": 59.347211,
+      "longitude": 18.103804
+    },
+    {
+      "name": "Gävle Strand Din hälsocentral",
+      "latitude": 60.678641,
+      "longitude": 17.163125
+    },
+    {
+      "name": "Gävledalakirurgin AB",
+      "latitude": 60.674924,
+      "longitude": 17.147976
+    },
+    {
+      "name": "Gå & löpkliniken",
+      "latitude": 59.334865,
+      "longitude": 18.083923
+    },
+    {
+      "name": "Gårdsten Vårdcentral och BVC, Angered",
+      "latitude": 57.803897,
+      "longitude": 12.031415
+    },
+    {
+      "name": "Habilitering Karlskrona",
+      "latitude": 56.18489,
+      "longitude": 15.606819
+    },
+    {
+      "name": "Habiliteringen Linköping",
+      "latitude": 58.40502,
+      "longitude": 15.625898
+    },
+    {
+      "name": "Habo Vårdcentral",
+      "latitude": 57.909995,
+      "longitude": 14.08963
+    },
+    {
+      "name": "Haga vårdcentral",
+      "latitude": 59.275153,
+      "longitude": 15.16633
+    },
+    {
+      "name": "Hagakliniken",
+      "latitude": 57.699769,
+      "longitude": 11.948833
+    },
+    {
+      "name": "Hagfors vårdcentral",
+      "latitude": 60.032978,
+      "longitude": 13.71055
+    },
+    {
+      "name": "Hallsbergs Vårdcentral",
+      "latitude": 59.060221,
+      "longitude": 15.11731
+    },
+    {
+      "name": "Hallunda vårdcentral",
+      "latitude": 59.24462,
+      "longitude": 17.82845
+    },
+    {
+      "name": "Hammarstrands hälsocentral",
+      "latitude": 63.114302,
+      "longitude": 16.347949
+    },
+    {
+      "name": "Hamnstadens Vårdcentral",
+      "latitude": 58.506741,
+      "longitude": 13.157733
+    },
+    {
+      "name": "Hansakliniken Kalmar",
+      "latitude": 56.689405,
+      "longitude": 16.316406
+    },
+    {
+      "name": "Haparanda vårdcentral",
+      "latitude": 65.838877,
+      "longitude": 24.134922
+    },
+    {
+      "name": "Harplinge vårdcentral",
+      "latitude": 56.744784,
+      "longitude": 12.723532
+    },
+    {
+      "name": "HC Renen",
+      "latitude": 63.392571,
+      "longitude": 12.916937
+    },
+    {
+      "name": "Health Sub Center",
+      "latitude": 57.124804,
+      "longitude": 16.267919
+    },
+    {
+      "name": "Heby vårdcentral",
+      "latitude": 59.942097,
+      "longitude": 16.861763
+    },
+    {
+      "name": "Hedemora vårdcentral",
+      "latitude": 60.273308,
+      "longitude": 15.996476
+    },
+    {
+      "name": "HeLahälsan",
+      "latitude": 60.279193,
+      "longitude": 15.979839
+    },
+    {
+      "name": "HeLahälsan",
+      "latitude": 60.341484,
+      "longitude": 15.715714
+    },
+    {
+      "name": "Helsa vårdcentral",
+      "latitude": 56.502695,
+      "longitude": 13.051634
+    },
+    {
+      "name": "Helsa Vårdcentral Vilbergen",
+      "latitude": 58.571343,
+      "longitude": 16.170018
+    },
+    {
+      "name": "Herkules Vårdcentral",
+      "latitude": 57.722794,
+      "longitude": 12.938054
+    },
+    {
+      "name": "Herrhagens vårdcentral",
+      "latitude": 59.38165,
+      "longitude": 13.519504
+    },
+    {
+      "name": "Hertsöns hälsocentral",
+      "latitude": 65.588766,
+      "longitude": 22.228647
+    },
+    {
+      "name": "HMC Hjärup",
+      "latitude": 55.669075,
+      "longitude": 13.139748
+    },
+    {
+      "name": "HMC Hjärup",
+      "latitude": 55.669665,
+      "longitude": 13.160222
+    },
+    {
+      "name": "Hofors Hälsocentral",
+      "latitude": 60.547604,
+      "longitude": 16.286348
+    },
+    {
+      "name": "Holmsunds vårdcentral",
+      "latitude": 63.707272,
+      "longitude": 20.365023
+    },
+    {
+      "name": "Hortlax Hälsocentral",
+      "latitude": 65.288157,
+      "longitude": 21.41071
+    },
+    {
+      "name": "Hud & Fotkliniken",
+      "latitude": 59.422361,
+      "longitude": 17.833773
+    },
+    {
+      "name": "Hud- och STI-mottagningen",
+      "latitude": 62.409741,
+      "longitude": 17.306355
+    },
+    {
+      "name": "Huddinge vårdcentral",
+      "latitude": 59.236952,
+      "longitude": 17.977946
+    },
+    {
+      "name": "Hudläkartjänst",
+      "latitude": 59.330827,
+      "longitude": 18.053222
+    },
+    {
+      "name": "Husläkarcentralen Kinna",
+      "latitude": 57.50688,
+      "longitude": 12.691737
+    },
+    {
+      "name": "Husläkarcentrum Kalmar",
+      "latitude": 56.665419,
+      "longitude": 16.361187
+    },
+    {
+      "name": "Husläkaren Lugn&Ro",
+      "latitude": 59.758777,
+      "longitude": 18.703662
+    },
+    {
+      "name": "Husläkarmottagningen för hemlösa och Sprutbytet",
+      "latitude": 59.849491,
+      "longitude": 17.643051
+    },
+    {
+      "name": "Husläkarmottagningen Johannes",
+      "latitude": 59.345942,
+      "longitude": 18.05684
+    },
+    {
+      "name": "Hällefors vårdcentral",
+      "latitude": 59.779594,
+      "longitude": 14.521859
+    },
+    {
+      "name": "Hälsa Hemma Vårdcentral",
+      "latitude": 57.608043,
+      "longitude": 12.042415
+    },
+    {
+      "name": "Hälsans Vårdcentral",
+      "latitude": 59.394616,
+      "longitude": 17.901698
+    },
+    {
+      "name": "HälsoBrunnen - vårdcentral",
+      "latitude": 57.805236,
+      "longitude": 13.407499
+    },
+    {
+      "name": "Hälsocentral",
+      "latitude": 63.694494,
+      "longitude": 16.880526
+    },
+    {
+      "name": "Hälsocentral",
+      "latitude": 67.223635,
+      "longitude": 23.343458
+    },
+    {
+      "name": "Hälsocentral Björksätra",
+      "latitude": 60.609526,
+      "longitude": 16.759621
+    },
+    {
+      "name": "Hälsocentral Centrum",
+      "latitude": 60.609595,
+      "longitude": 16.760018
+    },
+    {
+      "name": "Hälsocentral Norra",
+      "latitude": 60.60954,
+      "longitude": 16.759943
+    },
+    {
+      "name": "Hälsocentral Stöde",
+      "latitude": 62.418586,
+      "longitude": 16.588027
+    },
+    {
+      "name": "Hälsocentral Torget",
+      "latitude": 60.609567,
+      "longitude": 16.759778
+    },
+    {
+      "name": "Hälsocentralen",
+      "latitude": 58.307901,
+      "longitude": 14.285843
+    },
+    {
+      "name": "Hälsocentralen Ankaret",
+      "latitude": 63.29872,
+      "longitude": 18.713851
+    },
+    {
+      "name": "Hälsocentralen Bredbyn",
+      "latitude": 63.447713,
+      "longitude": 18.109374
+    },
+    {
+      "name": "Hälsocentralen Centrum",
+      "latitude": 62.395346,
+      "longitude": 17.312254
+    },
+    {
+      "name": "Hälsocentralen Falken",
+      "latitude": 56.976924,
+      "longitude": 15.654832
+    },
+    {
+      "name": "Hälsocentralen Husum-Trehörningsjö",
+      "latitude": 63.339592,
+      "longitude": 19.165247
+    },
+    {
+      "name": "Hälsocentralen i Tibro",
+      "latitude": 58.423163,
+      "longitude": 14.166774
+    },
+    {
+      "name": "Hälsocentralen Liden",
+      "latitude": 62.700411,
+      "longitude": 16.802925
+    },
+    {
+      "name": "Hälsocentralen Sankt Hans",
+      "latitude": 55.723159,
+      "longitude": 13.20326
+    },
+    {
+      "name": "Hälsocentralen Södra Sundet",
+      "latitude": 62.624442,
+      "longitude": 17.929858
+    },
+    {
+      "name": "Hälsohuset för alla Vedeby",
+      "latitude": 56.20284,
+      "longitude": 15.640035
+    },
+    {
+      "name": "Hälsohuset för alla vårdcentral",
+      "latitude": 56.165086,
+      "longitude": 15.583987
+    },
+    {
+      "name": "Håstaholmens Hälsocentral",
+      "latitude": 61.717976,
+      "longitude": 17.105311
+    },
+    {
+      "name": "Högsboläkarna",
+      "latitude": 57.671902,
+      "longitude": 11.930754
+    },
+    {
+      "name": "Högsby hälsocentral",
+      "latitude": 57.171323,
+      "longitude": 16.025568
+    },
+    {
+      "name": "Hönö Vårdcentral",
+      "latitude": 57.697038,
+      "longitude": 11.651344
+    },
+    {
+      "name": "Hörby vårdcentral",
+      "latitude": 55.84536,
+      "longitude": 13.670049
+    },
+    {
+      "name": "I.vega AB",
+      "latitude": 60.674619,
+      "longitude": 17.174895
+    },
+    {
+      "name": "Idrottskliniken",
+      "latitude": 59.370198,
+      "longitude": 17.999018
+    },
+    {
+      "name": "Iduns hälsa",
+      "latitude": 59.364946,
+      "longitude": 18.004325
+    },
+    {
+      "name": "Iggesunds Hälsocentral",
+      "latitude": 61.643572,
+      "longitude": 17.074625
+    },
+    {
+      "name": "Infektionsmottagning",
+      "latitude": 57.721783,
+      "longitude": 12.053834
+    },
+    {
+      "name": "Ingelstad Vårdcentral",
+      "latitude": 56.74377,
+      "longitude": 14.921536
+    },
+    {
+      "name": "Integrerad missbruks- och beroendemottagning",
+      "latitude": 56.830765,
+      "longitude": 13.948249
+    },
+    {
+      "name": "Johannesvården - Vårdcentral och BVC",
+      "latitude": 57.652624,
+      "longitude": 11.892572
+    },
+    {
+      "name": "Jordbro vårdcentral",
+      "latitude": 59.141398,
+      "longitude": 18.132371
+    },
+    {
+      "name": "Jämjö vårdcentral",
+      "latitude": 56.189238,
+      "longitude": 15.832995
+    },
+    {
+      "name": "Järpens Hälsocentral",
+      "latitude": 63.348364,
+      "longitude": 13.458931
+    },
+    {
+      "name": "Järva Specialistvård Martina",
+      "latitude": 59.38613,
+      "longitude": 17.937646
+    },
+    {
+      "name": "Järvsö hälsocentral",
+      "latitude": 61.712505,
+      "longitude": 16.170117
+    },
+    {
+      "name": "Kalix hälsocentral",
+      "latitude": 65.854713,
+      "longitude": 23.158141
+    },
+    {
+      "name": "Kallhälls vårdcentral",
+      "latitude": 59.454706,
+      "longitude": 17.808934
+    },
+    {
+      "name": "Kallinge vårdcentral",
+      "latitude": 56.246924,
+      "longitude": 15.287439
+    },
+    {
+      "name": "Karla vårdcentral",
+      "latitude": 59.275957,
+      "longitude": 15.196886
+    },
+    {
+      "name": "Karlshamn Ungdomsmottagning",
+      "latitude": 56.171453,
+      "longitude": 14.868415
+    },
+    {
+      "name": "Karlskrona fysio",
+      "latitude": 56.174867,
+      "longitude": 15.597555
+    },
+    {
+      "name": "Karlskrona Ungdomsmottagning",
+      "latitude": 56.161718,
+      "longitude": 15.585908
+    },
+    {
+      "name": "Karlstads Kirurgiska Laserklinik",
+      "latitude": 59.40606,
+      "longitude": 13.502366
+    },
+    {
+      "name": "Karolina Vårdcentral",
+      "latitude": 59.327244,
+      "longitude": 14.523392
+    },
+    {
+      "name": "Kirurg- och urologmottagning",
+      "latitude": 62.407673,
+      "longitude": 17.306442
+    },
+    {
+      "name": "KirurgiTeamet specialistläkarklinik",
+      "latitude": 56.87956,
+      "longitude": 14.780574
+    },
+    {
+      "name": "Kisa vårdcentral",
+      "latitude": 57.993229,
+      "longitude": 15.636472
+    },
+    {
+      "name": "Klinik Skölden",
+      "latitude": 59.872488,
+      "longitude": 17.623733
+    },
+    {
+      "name": "Knivsta vårdcentral",
+      "latitude": 59.724382,
+      "longitude": 17.785426
+    },
+    {
+      "name": "Knäred Vårdcentral",
+      "latitude": 56.52133,
+      "longitude": 13.31463
+    },
+    {
+      "name": "Kolla vårdcentral",
+      "latitude": 57.478,
+      "longitude": 12.069994
+    },
+    {
+      "name": "Kolmårdens Vårdcentral",
+      "latitude": 58.669016,
+      "longitude": 16.363525
+    },
+    {
+      "name": "Kommunhälsan",
+      "latitude": 65.601187,
+      "longitude": 22.129733
+    },
+    {
+      "name": "Kongahälla kliniken",
+      "latitude": 57.873668,
+      "longitude": 11.976887
+    },
+    {
+      "name": "Kopparbergs vårdcentral",
+      "latitude": 59.874232,
+      "longitude": 15.003074
+    },
+    {
+      "name": "Kramfors Hälsocentral",
+      "latitude": 62.933263,
+      "longitude": 17.780594
+    },
+    {
+      "name": "Kransens Gynekologmottagning",
+      "latitude": 59.301787,
+      "longitude": 18.013823
+    },
+    {
+      "name": "Kristianstadkliniken",
+      "latitude": 56.029466,
+      "longitude": 14.157791
+    },
+    {
+      "name": "Kristinehamns Vårdcentral",
+      "latitude": 59.305527,
+      "longitude": 14.098897
+    },
+    {
+      "name": "Kristinelundskliniken",
+      "latitude": 57.700094,
+      "longitude": 11.977054
+    },
+    {
+      "name": "Kry Barnavårdcentral",
+      "latitude": 55.701999,
+      "longitude": 13.192023
+    },
+    {
+      "name": "Kry BVC Sundbyberg",
+      "latitude": 59.36149,
+      "longitude": 17.975978
+    },
+    {
+      "name": "Kry Vårdcentral",
+      "latitude": 55.701905,
+      "longitude": 13.192411
+    },
+    {
+      "name": "Kry Vårdcentral",
+      "latitude": 55.851876,
+      "longitude": 13.662361
+    },
+    {
+      "name": "Kry Vårdcentral",
+      "latitude": 59.338491,
+      "longitude": 18.08214
+    },
+    {
+      "name": "Kry Vårdcentral Järvastaden",
+      "latitude": 59.382076,
+      "longitude": 17.986534
+    },
+    {
+      "name": "Kry Vårdcentral Kalmar",
+      "latitude": 56.665584,
+      "longitude": 16.354234
+    },
+    {
+      "name": "Kry Vårdcentral Nybro",
+      "latitude": 56.744233,
+      "longitude": 15.905508
+    },
+    {
+      "name": "Kry Vårdcentral Osby",
+      "latitude": 56.381139,
+      "longitude": 13.997033
+    },
+    {
+      "name": "Kry Vårdcentral Osby",
+      "latitude": 56.398038,
+      "longitude": 14.318133
+    },
+    {
+      "name": "Kry vårdcentral Spiran",
+      "latitude": 58.58708,
+      "longitude": 16.188573
+    },
+    {
+      "name": "Kry Vårdcentral Storgatan",
+      "latitude": 56.07915,
+      "longitude": 14.472709
+    },
+    {
+      "name": "Kry Vårdcentral Sundbyberg",
+      "latitude": 59.361129,
+      "longitude": 17.975167
+    },
+    {
+      "name": "Kry Vårdcentral Vallentuna",
+      "latitude": 59.535523,
+      "longitude": 18.078057
+    },
+    {
+      "name": "Kry Vårdcentral Årup",
+      "latitude": 56.064555,
+      "longitude": 14.468316
+    },
+    {
+      "name": "Kungsgärdets vårdcentral",
+      "latitude": 59.855542,
+      "longitude": 17.620998
+    },
+    {
+      "name": "Kungshamn barnavårdscentral",
+      "latitude": 58.440328,
+      "longitude": 11.304143
+    },
+    {
+      "name": "Kungsmarkens vårdcentral",
+      "latitude": 56.194001,
+      "longitude": 15.621905
+    },
+    {
+      "name": "Kungälv jourcentral",
+      "latitude": 57.878373,
+      "longitude": 11.96869
+    },
+    {
+      "name": "Kungälvs Specialistklinik",
+      "latitude": 57.873751,
+      "longitude": 11.973852
+    },
+    {
+      "name": "Kvarnholmens hälsocentral",
+      "latitude": 56.665643,
+      "longitude": 16.363064
+    },
+    {
+      "name": "Kvarterskliniken Avenyn",
+      "latitude": 57.699492,
+      "longitude": 11.975743
+    },
+    {
+      "name": "Kvarterskliniken Husaren",
+      "latitude": 57.69652,
+      "longitude": 11.959124
+    },
+    {
+      "name": "Kvarterskliniken Lorensberg",
+      "latitude": 57.699142,
+      "longitude": 11.976266
+    },
+    {
+      "name": "Kvarterskliniken Tanum",
+      "latitude": 58.724885,
+      "longitude": 11.324517
+    },
+    {
+      "name": "Kvinnohälsan Torkelbergsgatan 11",
+      "latitude": 58.406185,
+      "longitude": 15.627051
+    },
+    {
+      "name": "Kvinnohälsovårdsmottagning Olofström",
+      "latitude": 56.278015,
+      "longitude": 14.539405
+    },
+    {
+      "name": "Kvinnohälsovårdsmottagning Sölvesborg",
+      "latitude": 56.056109,
+      "longitude": 14.583962
+    },
+    {
+      "name": "Kvinnokliniken",
+      "latitude": 58.562543,
+      "longitude": 16.17686
+    },
+    {
+      "name": "Kvinnomottagning",
+      "latitude": 62.407339,
+      "longitude": 17.306431
+    },
+    {
+      "name": "Kärna vårdcentral",
+      "latitude": 57.846131,
+      "longitude": 11.795706
+    },
+    {
+      "name": "Kärråkra vårdcentral",
+      "latitude": 55.844262,
+      "longitude": 13.286549
+    },
+    {
+      "name": "Kävlinge vårdcentral",
+      "latitude": 55.79059,
+      "longitude": 13.112508
+    },
+    {
+      "name": "Kåge vårdcentral",
+      "latitude": 64.831654,
+      "longitude": 20.983375
+    },
+    {
+      "name": "Kållered Sjukgymnastik och Rehab",
+      "latitude": 57.610086,
+      "longitude": 12.050161
+    },
+    {
+      "name": "Laholmshälsan",
+      "latitude": 56.498899,
+      "longitude": 13.032047
+    },
+    {
+      "name": "Lamkan AB",
+      "latitude": 60.692094,
+      "longitude": 17.113565
+    },
+    {
+      "name": "Landsbro Vårdcentral",
+      "latitude": 57.370591,
+      "longitude": 14.912354
+    },
+    {
+      "name": "Landskrona Naprapat klinik",
+      "latitude": 55.871763,
+      "longitude": 12.830152
+    },
+    {
+      "name": "LARO-mottagning Östra",
+      "latitude": 57.721308,
+      "longitude": 12.055108
+    },
+    {
+      "name": "Laröds vårdcentral",
+      "latitude": 56.093888,
+      "longitude": 12.65667
+    },
+    {
+      "name": "Laserklinikcenter",
+      "latitude": 59.338366,
+      "longitude": 18.052595
+    },
+    {
+      "name": "Leksands Vårdcentral",
+      "latitude": 60.737423,
+      "longitude": 14.999818
+    },
+    {
+      "name": "Lessebo Vårdcentral",
+      "latitude": 56.752821,
+      "longitude": 15.270428
+    },
+    {
+      "name": "Levfrisk",
+      "latitude": 59.192944,
+      "longitude": 17.628595
+    },
+    {
+      "name": "Lextorp Vårdcentral",
+      "latitude": 58.26249,
+      "longitude": 12.297784
+    },
+    {
+      "name": "Likenäs vårdcentral",
+      "latitude": 60.611956,
+      "longitude": 13.043831
+    },
+    {
+      "name": "Liljeholmens Vårdcentral",
+      "latitude": 59.309929,
+      "longitude": 18.021807
+    },
+    {
+      "name": "Lillåns Vårdcentral",
+      "latitude": 59.319331,
+      "longitude": 15.223672
+    },
+    {
+      "name": "Lindesbergs vårdcentral",
+      "latitude": 59.597056,
+      "longitude": 15.227867
+    },
+    {
+      "name": "Lindsdals hälsocentral",
+      "latitude": 56.734105,
+      "longitude": 16.295217
+    },
+    {
+      "name": "Linköping Health Care",
+      "latitude": 58.40533,
+      "longitude": 15.624847
+    },
+    {
+      "name": "Lirema Ögonklinik",
+      "latitude": 55.611749,
+      "longitude": 12.994855
+    },
+    {
+      "name": "Ljungbyholms hälsocentral",
+      "latitude": 56.633638,
+      "longitude": 16.172846
+    },
+    {
+      "name": "Lomma vårdcentral",
+      "latitude": 55.67474,
+      "longitude": 13.07027
+    },
+    {
+      "name": "Lotusläkarna",
+      "latitude": 57.496486,
+      "longitude": 12.066269
+    },
+    {
+      "name": "Lyckeby vårdcentral",
+      "latitude": 56.198601,
+      "longitude": 15.649499
+    },
+    {
+      "name": "Lysekil barnavårdscentral",
+      "latitude": 58.280795,
+      "longitude": 11.440307
+    },
+    {
+      "name": "Läjeskliniken",
+      "latitude": 57.055135,
+      "longitude": 12.296456
+    },
+    {
+      "name": "Läkargruppen Landskrona",
+      "latitude": 55.869503,
+      "longitude": 12.829979
+    },
+    {
+      "name": "Läkargruppen Munka Ljungby",
+      "latitude": 56.262065,
+      "longitude": 12.969786
+    },
+    {
+      "name": "Läkargruppen Mölndalsbro",
+      "latitude": 57.655202,
+      "longitude": 12.015223
+    },
+    {
+      "name": "Läkarhus Kyrkbyn",
+      "latitude": 57.709083,
+      "longitude": 11.907357
+    },
+    {
+      "name": "Läkarhuset Farsta",
+      "latitude": 59.241668,
+      "longitude": 18.089972
+    },
+    {
+      "name": "Läkarhuset i Karlshamn",
+      "latitude": 56.171203,
+      "longitude": 14.864142
+    },
+    {
+      "name": "Läkarhuset i Lund",
+      "latitude": 55.713547,
+      "longitude": 13.170641
+    },
+    {
+      "name": "Läkarhuset Kronan Kalmar",
+      "latitude": 56.66419,
+      "longitude": 16.349231
+    },
+    {
+      "name": "Läkarhuset Kungsholmen",
+      "latitude": 59.329614,
+      "longitude": 18.041426
+    },
+    {
+      "name": "Läkarhuset Norr",
+      "latitude": 63.837402,
+      "longitude": 20.161112
+    },
+    {
+      "name": "Läkarhuset Torsvik",
+      "latitude": 57.690123,
+      "longitude": 14.149811
+    },
+    {
+      "name": "Läkarmottagning",
+      "latitude": 61.174108,
+      "longitude": 13.002695
+    },
+    {
+      "name": "Långshyttans vårdcentral",
+      "latitude": 60.458101,
+      "longitude": 16.050769
+    },
+    {
+      "name": "Maria Alberts Vårdcentral",
+      "latitude": 58.283322,
+      "longitude": 12.291926
+    },
+    {
+      "name": "Mariannelunds vårdcentral",
+      "latitude": 57.617491,
+      "longitude": 15.570349
+    },
+    {
+      "name": "Mariebergs vårdcentral",
+      "latitude": 58.539897,
+      "longitude": 15.000605
+    },
+    {
+      "name": "Mariefreds Vårdcentral",
+      "latitude": 59.264713,
+      "longitude": 17.216762
+    },
+    {
+      "name": "Mariehems hälsocentral",
+      "latitude": 63.838682,
+      "longitude": 20.328157
+    },
+    {
+      "name": "Marstrand vårdcentral",
+      "latitude": 57.887521,
+      "longitude": 11.588036
+    },
+    {
+      "name": "Massageterapeut Tomas Hellman",
+      "latitude": 59.521543,
+      "longitude": 17.915103
+    },
+    {
+      "name": "Medical Vårdcentral Bergsjön",
+      "latitude": 57.762851,
+      "longitude": 12.071021
+    },
+    {
+      "name": "Medical Vårdcentral och BVC Bohus",
+      "latitude": 57.851622,
+      "longitude": 12.016326
+    },
+    {
+      "name": "Medical Vårdcentral och BVC Kortedala",
+      "latitude": 57.751748,
+      "longitude": 12.032329
+    },
+    {
+      "name": "Medicinmottagning",
+      "latitude": 62.40909,
+      "longitude": 17.306336
+    },
+    {
+      "name": "Medicinsk Röntgen Eriksborg",
+      "latitude": 59.619903,
+      "longitude": 16.468332
+    },
+    {
+      "name": "Medipart Partille Vårdcentral och BVC",
+      "latitude": 57.739473,
+      "longitude": 12.106977
+    },
+    {
+      "name": "Medpro Clinic Brålanda-Torpa Vårdcentral",
+      "latitude": 58.367657,
+      "longitude": 12.333768
+    },
+    {
+      "name": "Medpro Clinic Lilla Edet Vårdcentral",
+      "latitude": 58.134564,
+      "longitude": 12.125079
+    },
+    {
+      "name": "Medpro Clinic Noltorp Vårdcentral",
+      "latitude": 57.938704,
+      "longitude": 12.519367
+    },
+    {
+      "name": "Medpro Clinic Stavre Vårdcentral",
+      "latitude": 58.287935,
+      "longitude": 12.319858
+    },
+    {
+      "name": "Meliva",
+      "latitude": 59.275846,
+      "longitude": 17.888972
+    },
+    {
+      "name": "Meliva",
+      "latitude": 59.339188,
+      "longitude": 18.005738
+    },
+    {
+      "name": "Meliva Landvetter vårdcentral",
+      "latitude": 57.687613,
+      "longitude": 12.19827
+    },
+    {
+      "name": "Meliva vårdcentral Ekeby",
+      "latitude": 59.848596,
+      "longitude": 17.606797
+    },
+    {
+      "name": "Meliva vårdcentral Fredriksdal",
+      "latitude": 57.683127,
+      "longitude": 12.000035
+    },
+    {
+      "name": "Mikaeli vårdcentral",
+      "latitude": 59.288157,
+      "longitude": 15.199222
+    },
+    {
+      "name": "Min doktor",
+      "latitude": 57.650968,
+      "longitude": 11.950218
+    },
+    {
+      "name": "Min Doktor",
+      "latitude": 58.432074,
+      "longitude": 15.592262
+    },
+    {
+      "name": "Min Doktor Kliniken",
+      "latitude": 59.37041,
+      "longitude": 18.004594
+    },
+    {
+      "name": "Minnesmottagning",
+      "latitude": 57.663016,
+      "longitude": 12.000219
+    },
+    {
+      "name": "Mitt Hjärta - Varvet Hälsocentral",
+      "latitude": 61.726165,
+      "longitude": 17.121636
+    },
+    {
+      "name": "Mjällbyhälsan vårdcentral",
+      "latitude": 56.044988,
+      "longitude": 14.673681
+    },
+    {
+      "name": "More Than Skin Deep",
+      "latitude": 55.598106,
+      "longitude": 13.001311
+    },
+    {
+      "name": "Morö Backe vårdcentral",
+      "latitude": 64.753332,
+      "longitude": 21.026723
+    },
+    {
+      "name": "Mälaröarnas barnhälsovård",
+      "latitude": 59.289331,
+      "longitude": 17.810695
+    },
+    {
+      "name": "Mödra- och barnhälsovårdspsykolog Karlshamn",
+      "latitude": 56.17408,
+      "longitude": 14.871985
+    },
+    {
+      "name": "Möllevångens vårdcentral",
+      "latitude": 55.588564,
+      "longitude": 13.008166
+    },
+    {
+      "name": "Mölnlycke barn- och ungdomsmedicinsk mottagning",
+      "latitude": 57.657973,
+      "longitude": 12.111555
+    },
+    {
+      "name": "Mölnlycke barnmorskemottagning",
+      "latitude": 57.657922,
+      "longitude": 12.113091
+    },
+    {
+      "name": "Mölnlycke ungdomsmottagning",
+      "latitude": 57.658213,
+      "longitude": 12.112744
+    },
+    {
+      "name": "Mörbylånga hälsocentral",
+      "latitude": 56.522364,
+      "longitude": 16.395287
+    },
+    {
+      "name": "Nacka Psykiatri",
+      "latitude": 59.311137,
+      "longitude": 18.202559
+    },
+    {
+      "name": "Naturhälsans osteopati",
+      "latitude": 57.868546,
+      "longitude": 11.984991
+    },
+    {
+      "name": "Neurology Clinic",
+      "latitude": 59.347976,
+      "longitude": 18.080032
+    },
+    {
+      "name": "Neuropsykiatrimottagning Öster",
+      "latitude": 57.668774,
+      "longitude": 12.01027
+    },
+    {
+      "name": "Nora Vårdcentral",
+      "latitude": 59.521354,
+      "longitude": 15.031206
+    },
+    {
+      "name": "Norbergs vårdcentral",
+      "latitude": 60.060066,
+      "longitude": 15.928296
+    },
+    {
+      "name": "Nordiskt Centrum för Kirurgi",
+      "latitude": 58.405807,
+      "longitude": 15.623691
+    },
+    {
+      "name": "Norra Fäladen Vårdcentral",
+      "latitude": 55.723647,
+      "longitude": 13.204308
+    },
+    {
+      "name": "Norrlidens hälsocentral",
+      "latitude": 56.706504,
+      "longitude": 16.354164
+    },
+    {
+      "name": "Norrskenets Hälsocentral",
+      "latitude": 67.845233,
+      "longitude": 20.253755
+    },
+    {
+      "name": "Norrvikens vårdcentral",
+      "latitude": 59.460162,
+      "longitude": 17.921549
+    },
+    {
+      "name": "Norsjö vårdcentral",
+      "latitude": 64.909553,
+      "longitude": 19.491078
+    },
+    {
+      "name": "Norslunds Vårdcentral",
+      "latitude": 60.597722,
+      "longitude": 15.667244
+    },
+    {
+      "name": "Novakliniken",
+      "latitude": 55.635982,
+      "longitude": 13.490354
+    },
+    {
+      "name": "Novakliniken Sjöbo",
+      "latitude": 55.632876,
+      "longitude": 13.706544
+    },
+    {
+      "name": "Nude Tattoo Removal",
+      "latitude": 59.331993,
+      "longitude": 18.008423
+    },
+    {
+      "name": "Nybro hälsocentral",
+      "latitude": 56.743791,
+      "longitude": 15.911328
+    },
+    {
+      "name": "Nykvarns Vårdcentral",
+      "latitude": 59.177654,
+      "longitude": 17.433236
+    },
+    {
+      "name": "Närakuten",
+      "latitude": 57.17244,
+      "longitude": 14.028903
+    },
+    {
+      "name": "Närakuten Lidköping",
+      "latitude": 58.497886,
+      "longitude": 13.152781
+    },
+    {
+      "name": "Närhälsan Angered barnavårdscentral",
+      "latitude": 57.797779,
+      "longitude": 12.04887
+    },
+    {
+      "name": "Närhälsan Angered rehabmottagning",
+      "latitude": 57.79839,
+      "longitude": 12.051311
+    },
+    {
+      "name": "Närhälsan Angered vårdcentral",
+      "latitude": 57.796695,
+      "longitude": 12.047889
+    },
+    {
+      "name": "Närhälsan Backa barnavårdscentral",
+      "latitude": 57.747187,
+      "longitude": 11.987399
+    },
+    {
+      "name": "Närhälsan Backa rehabmottagning",
+      "latitude": 57.74765,
+      "longitude": 11.984693
+    },
+    {
+      "name": "Närhälsan Backa vårdcentral",
+      "latitude": 57.747232,
+      "longitude": 11.987392
+    },
+    {
+      "name": "Närhälsan Bengtsfors barnmorskemottagning",
+      "latitude": 59.028686,
+      "longitude": 12.225973
+    },
+    {
+      "name": "Närhälsan Bengtsfors rehabmottagning",
+      "latitude": 59.028586,
+      "longitude": 12.225971
+    },
+    {
+      "name": "Närhälsan Bengtsfors vårdcentral",
+      "latitude": 59.028632,
+      "longitude": 12.22597
+    },
+    {
+      "name": "Närhälsan Bengtsfors vårdcentral - Dals Långed",
+      "latitude": 58.921612,
+      "longitude": 12.314845
+    },
+    {
+      "name": "Närhälsan Billingen barnavårdscentral",
+      "latitude": 58.400154,
+      "longitude": 13.838504
+    },
+    {
+      "name": "Närhälsan Billingen vårdcentral",
+      "latitude": 58.40019,
+      "longitude": 13.838498
+    },
+    {
+      "name": "Närhälsan Biskopsgården barnavårdscentral",
+      "latitude": 57.713818,
+      "longitude": 11.893847
+    },
+    {
+      "name": "Närhälsan Biskopsgården vårdcentral",
+      "latitude": 57.713766,
+      "longitude": 11.893862
+    },
+    {
+      "name": "Närhälsan Bjurslätt vårdcentral",
+      "latitude": 57.729418,
+      "longitude": 11.926182
+    },
+    {
+      "name": "Närhälsan Björkekärr vårdcentral",
+      "latitude": 57.714875,
+      "longitude": 12.04658
+    },
+    {
+      "name": "Närhälsan Boda barnavårdscentral",
+      "latitude": 57.729877,
+      "longitude": 12.987915
+    },
+    {
+      "name": "Närhälsan Boda vårdcentral",
+      "latitude": 57.729921,
+      "longitude": 12.987917
+    },
+    {
+      "name": "Närhälsan Bollebygd barnavårdscentral",
+      "latitude": 57.669524,
+      "longitude": 12.57211
+    },
+    {
+      "name": "Närhälsan Bollebygd rehabmottagning",
+      "latitude": 57.669494,
+      "longitude": 12.57211
+    },
+    {
+      "name": "Närhälsan Bollebygd vårdcentral",
+      "latitude": 57.669555,
+      "longitude": 12.57211
+    },
+    {
+      "name": "Närhälsan Brämaregården barnavårdscentral",
+      "latitude": 57.720414,
+      "longitude": 11.939958
+    },
+    {
+      "name": "Närhälsan Brämaregården vårdcentral",
+      "latitude": 57.720456,
+      "longitude": 11.939964
+    },
+    {
+      "name": "Närhälsan Bäckefors barnavårdscentral",
+      "latitude": 58.798597,
+      "longitude": 12.162015
+    },
+    {
+      "name": "Närhälsan Bäckefors jourcentral",
+      "latitude": 58.798555,
+      "longitude": 12.161747
+    },
+    {
+      "name": "Närhälsan Bäckefors vårdcentral",
+      "latitude": 58.797969,
+      "longitude": 12.160787
+    },
+    {
+      "name": "Närhälsan Dagson barnavårdscentral",
+      "latitude": 58.348533,
+      "longitude": 11.933473
+    },
+    {
+      "name": "Närhälsan Dagson vårdcentral",
+      "latitude": 58.348109,
+      "longitude": 11.933307
+    },
+    {
+      "name": "Närhälsan Dalaberg barnavårdscentral",
+      "latitude": 58.37158,
+      "longitude": 11.935073
+    },
+    {
+      "name": "Närhälsan Dalaberg vårdcentral",
+      "latitude": 58.371656,
+      "longitude": 11.935071
+    },
+    {
+      "name": "Närhälsan Dals-Ed barnavårdscentral",
+      "latitude": 58.911028,
+      "longitude": 11.940055
+    },
+    {
+      "name": "Närhälsan Dals-Ed rehabmottagning",
+      "latitude": 58.910945,
+      "longitude": 11.940028
+    },
+    {
+      "name": "Närhälsan Dals-Ed vårdcentral",
+      "latitude": 58.911122,
+      "longitude": 11.940095
+    },
+    {
+      "name": "Närhälsan Dalsjöfors barnavårdscentral",
+      "latitude": 57.714686,
+      "longitude": 13.091921
+    },
+    {
+      "name": "Närhälsan Dalsjöfors rehabmottagning",
+      "latitude": 57.71459,
+      "longitude": 13.091712
+    },
+    {
+      "name": "Närhälsan Dalsjöfors vårdcentral",
+      "latitude": 57.714795,
+      "longitude": 13.091677
+    },
+    {
+      "name": "Närhälsan Ekmanska barnavårdscentral",
+      "latitude": 57.700608,
+      "longitude": 12.008827
+    },
+    {
+      "name": "Närhälsan Ekmanska vårdcentral",
+      "latitude": 57.700692,
+      "longitude": 12.00883
+    },
+    {
+      "name": "Närhälsan Eriksberg barnavårdscentral",
+      "latitude": 57.701523,
+      "longitude": 11.915482
+    },
+    {
+      "name": "Närhälsan Eriksberg rehabmottagning",
+      "latitude": 57.701483,
+      "longitude": 11.915487
+    },
+    {
+      "name": "Närhälsan Eriksberg vårdcentral",
+      "latitude": 57.701172,
+      "longitude": 11.915627
+    },
+    {
+      "name": "Närhälsan Falköping rehabmottagning",
+      "latitude": 58.189059,
+      "longitude": 13.553991
+    },
+    {
+      "name": "Närhälsan Fjällbacka vårdcentral",
+      "latitude": 58.597318,
+      "longitude": 11.29174
+    },
+    {
+      "name": "Närhälsan Floda barnavårdscentral",
+      "latitude": 57.808197,
+      "longitude": 12.36144
+    },
+    {
+      "name": "Närhälsan Floda vårdcentral",
+      "latitude": 57.80826,
+      "longitude": 12.36144
+    },
+    {
+      "name": "Närhälsan Fristad barnavårdscentral",
+      "latitude": 57.826498,
+      "longitude": 13.011785
+    },
+    {
+      "name": "Närhälsan Fristad rehabmottagning",
+      "latitude": 57.826781,
+      "longitude": 13.011796
+    },
+    {
+      "name": "Närhälsan Fristad vårdcentral",
+      "latitude": 57.826577,
+      "longitude": 13.01178
+    },
+    {
+      "name": "Närhälsan Frölunda barnavårdscentral",
+      "latitude": 57.65027,
+      "longitude": 11.917871
+    },
+    {
+      "name": "Närhälsan Frölunda rehabmottagning",
+      "latitude": 57.65173,
+      "longitude": 11.910976
+    },
+    {
+      "name": "Närhälsan Frölunda vårdcentral",
+      "latitude": 57.65176,
+      "longitude": 11.910977
+    },
+    {
+      "name": "Närhälsan Furulund barnavårdscentral Öjersjö",
+      "latitude": 57.702861,
+      "longitude": 12.145228
+    },
+    {
+      "name": "Närhälsan Furulund vårdcentral",
+      "latitude": 57.725345,
+      "longitude": 12.129639
+    },
+    {
+      "name": "Närhälsan Färgelanda barnavårdscentral",
+      "latitude": 58.5608,
+      "longitude": 11.990793
+    },
+    {
+      "name": "Närhälsan Färgelanda rehabmottagning",
+      "latitude": 58.560755,
+      "longitude": 11.990786
+    },
+    {
+      "name": "Närhälsan Färgelanda vårdcentral",
+      "latitude": 58.560855,
+      "longitude": 11.990786
+    },
+    {
+      "name": "Närhälsan Gamlestadstorget barnavårdscentral",
+      "latitude": 57.7269,
+      "longitude": 12.006878
+    },
+    {
+      "name": "Närhälsan Gamlestadstorget jourcentral",
+      "latitude": 57.726828,
+      "longitude": 12.006884
+    },
+    {
+      "name": "Närhälsan Gamlestadstorget rehabmottagning",
+      "latitude": 57.726859,
+      "longitude": 12.006882
+    },
+    {
+      "name": "Närhälsan Gamlestadstorget vårdcentral",
+      "latitude": 57.726947,
+      "longitude": 12.006882
+    },
+    {
+      "name": "Närhälsan Gibraltar rehabmottagning",
+      "latitude": 57.691897,
+      "longitude": 11.97755
+    },
+    {
+      "name": "Närhälsan Gibraltargatan barnavårdscentral",
+      "latitude": 57.69192,
+      "longitude": 11.977554
+    },
+    {
+      "name": "Närhälsan Gibraltargatan vårdcentral",
+      "latitude": 57.691963,
+      "longitude": 11.977564
+    },
+    {
+      "name": "Närhälsan Grästorp rehabmottagning",
+      "latitude": 58.330893,
+      "longitude": 12.677238
+    },
+    {
+      "name": "Närhälsan Gråbo barnavårdscentral",
+      "latitude": 57.834988,
+      "longitude": 12.296728
+    },
+    {
+      "name": "Närhälsan Gråbo vårdcentral",
+      "latitude": 57.835053,
+      "longitude": 12.296943
+    },
+    {
+      "name": "Närhälsan Guldvingen barnavårdscentral",
+      "latitude": 58.49434,
+      "longitude": 13.167431
+    },
+    {
+      "name": "Närhälsan Guldvingen vårdcentral",
+      "latitude": 58.494942,
+      "longitude": 13.168546
+    },
+    {
+      "name": "Närhälsan Gullspång barnavårdscentral",
+      "latitude": 58.980058,
+      "longitude": 14.087398
+    },
+    {
+      "name": "Närhälsan Gullspång rehabmottagning",
+      "latitude": 58.980048,
+      "longitude": 14.087125
+    },
+    {
+      "name": "Närhälsan Gullspång vårdcentral",
+      "latitude": 58.980116,
+      "longitude": 14.087231
+    },
+    {
+      "name": "Närhälsan Gullspång vårdcentral - Hova",
+      "latitude": 58.858016,
+      "longitude": 14.213784
+    },
+    {
+      "name": "Närhälsan Götene barnavårdscentral",
+      "latitude": 58.527634,
+      "longitude": 13.494222
+    },
+    {
+      "name": "Närhälsan Götene vårdcentral",
+      "latitude": 58.527676,
+      "longitude": 13.494221
+    },
+    {
+      "name": "Närhälsan Heimdal barnavårdscentral",
+      "latitude": 57.722853,
+      "longitude": 12.941692
+    },
+    {
+      "name": "Närhälsan Heimdal vårdcentral",
+      "latitude": 57.722885,
+      "longitude": 12.941703
+    },
+    {
+      "name": "Närhälsan Hentorp barnavårdscentral - Skultorp",
+      "latitude": 58.342974,
+      "longitude": 13.828876
+    },
+    {
+      "name": "Närhälsan Hentorp barnavårdscentral - Skultorp",
+      "latitude": 58.370124,
+      "longitude": 13.82826
+    },
+    {
+      "name": "Närhälsan Hentorp vårdcentral",
+      "latitude": 58.370167,
+      "longitude": 13.828265
+    },
+    {
+      "name": "Närhälsan Hentorp vårdcentral - Skultorp",
+      "latitude": 58.343018,
+      "longitude": 13.82888
+    },
+    {
+      "name": "Närhälsan Herrestad barnavårdscentral",
+      "latitude": 58.350576,
+      "longitude": 11.844573
+    },
+    {
+      "name": "Närhälsan Herrestad rehabmottagning",
+      "latitude": 58.350534,
+      "longitude": 11.844576
+    },
+    {
+      "name": "Närhälsan Herrestad vårdcentral",
+      "latitude": 58.35063,
+      "longitude": 11.84457
+    },
+    {
+      "name": "Närhälsan Herrljunga barnavårdscentral",
+      "latitude": 58.075847,
+      "longitude": 13.014609
+    },
+    {
+      "name": "Närhälsan Herrljunga rehabmottagning",
+      "latitude": 58.076038,
+      "longitude": 13.014528
+    },
+    {
+      "name": "Närhälsan Herrljunga vårdcentral",
+      "latitude": 58.075894,
+      "longitude": 13.014614
+    },
+    {
+      "name": "Närhälsan Hindås barnavårdscentral",
+      "latitude": 57.703877,
+      "longitude": 12.451052
+    },
+    {
+      "name": "Närhälsan Hindås vårdcentral",
+      "latitude": 57.703927,
+      "longitude": 12.451047
+    },
+    {
+      "name": "Närhälsan Hisingen jourcentral",
+      "latitude": 57.720388,
+      "longitude": 11.939953
+    },
+    {
+      "name": "Närhälsan Hjo barnavårdscentral",
+      "latitude": 58.308885,
+      "longitude": 14.299831
+    },
+    {
+      "name": "Närhälsan Hjo rehabmottagning",
+      "latitude": 58.308843,
+      "longitude": 14.299837
+    },
+    {
+      "name": "Närhälsan Hjo vårdcentral",
+      "latitude": 58.308938,
+      "longitude": 14.299833
+    },
+    {
+      "name": "Närhälsan Hjällbo barnavårdscentral",
+      "latitude": 57.769032,
+      "longitude": 12.018828
+    },
+    {
+      "name": "Närhälsan Hjällbo vårdcentral",
+      "latitude": 57.769089,
+      "longitude": 12.018831
+    },
+    {
+      "name": "Närhälsan Horred vårdcentral",
+      "latitude": 57.355648,
+      "longitude": 12.474879
+    },
+    {
+      "name": "Närhälsan Högsbo barnavårdscentral",
+      "latitude": 57.669787,
+      "longitude": 11.929253
+    },
+    {
+      "name": "Närhälsan Högsbo vårdcentral",
+      "latitude": 57.670148,
+      "longitude": 11.92888
+    },
+    {
+      "name": "Närhälsan Kallebäck vårdcentral",
+      "latitude": 57.678909,
+      "longitude": 12.009762
+    },
+    {
+      "name": "Närhälsan Karlsborg barnavårdscentral",
+      "latitude": 58.530381,
+      "longitude": 14.515351
+    },
+    {
+      "name": "Närhälsan Karlsborg rehabmottagning",
+      "latitude": 58.530311,
+      "longitude": 14.515359
+    },
+    {
+      "name": "Närhälsan Karlsborg vårdcentral",
+      "latitude": 58.530458,
+      "longitude": 14.515392
+    },
+    {
+      "name": "Närhälsan Kinna barnavårdscentral",
+      "latitude": 57.51178,
+      "longitude": 12.712068
+    },
+    {
+      "name": "Närhälsan Kinna vårdcentral",
+      "latitude": 57.511835,
+      "longitude": 12.712107
+    },
+    {
+      "name": "Närhälsan Kongahälla barnavårdscentral",
+      "latitude": 57.873961,
+      "longitude": 11.967473
+    },
+    {
+      "name": "Närhälsan Kongahälla rehabmottagning",
+      "latitude": 57.873849,
+      "longitude": 11.967486
+    },
+    {
+      "name": "Närhälsan Kongahälla vårdcentral",
+      "latitude": 57.874073,
+      "longitude": 11.967477
+    },
+    {
+      "name": "Närhälsan Krokslätt barnavårdscentral",
+      "latitude": 57.673789,
+      "longitude": 12.008387
+    },
+    {
+      "name": "Närhälsan Krokslätt vårdcentral",
+      "latitude": 57.673741,
+      "longitude": 12.008383
+    },
+    {
+      "name": "Närhälsan Kungshamn rehabmottagning",
+      "latitude": 58.360399,
+      "longitude": 11.256681
+    },
+    {
+      "name": "Närhälsan Kungshamn vårdcentral",
+      "latitude": 58.360347,
+      "longitude": 11.256827
+    },
+    {
+      "name": "Närhälsan Kungshöjd barnavårdscentral",
+      "latitude": 57.703028,
+      "longitude": 11.96109
+    },
+    {
+      "name": "Närhälsan Kungshöjd jourcentral",
+      "latitude": 57.702976,
+      "longitude": 11.961113
+    },
+    {
+      "name": "Närhälsan Kungshöjd vårdcentral",
+      "latitude": 57.703094,
+      "longitude": 11.961066
+    },
+    {
+      "name": "Närhälsan Kungssten barnavårdscentral",
+      "latitude": 57.682153,
+      "longitude": 11.908342
+    },
+    {
+      "name": "Närhälsan Kungssten vårdcentral",
+      "latitude": 57.682195,
+      "longitude": 11.908356
+    },
+    {
+      "name": "Närhälsan Källstorp barnavårdscentral",
+      "latitude": 58.293748,
+      "longitude": 12.283409
+    },
+    {
+      "name": "Närhälsan Källstorp vårdcentral",
+      "latitude": 58.293793,
+      "longitude": 12.283415
+    },
+    {
+      "name": "Närhälsan Kärra barnavårdscentral",
+      "latitude": 57.793741,
+      "longitude": 11.996121
+    },
+    {
+      "name": "Närhälsan Kärra vårdcentral",
+      "latitude": 57.793813,
+      "longitude": 11.996126
+    },
+    {
+      "name": "Närhälsan Landvetter barnavårdscentral",
+      "latitude": 57.686475,
+      "longitude": 12.21387
+    },
+    {
+      "name": "Närhälsan Landvetter vårdcentral",
+      "latitude": 57.686846,
+      "longitude": 12.210842
+    },
+    {
+      "name": "Närhälsan Lerum barnavårdscentral",
+      "latitude": 57.768464,
+      "longitude": 12.266215
+    },
+    {
+      "name": "Närhälsan Lerum rehabmottagning",
+      "latitude": 57.768421,
+      "longitude": 12.266215
+    },
+    {
+      "name": "Närhälsan Lerum vårdcentral",
+      "latitude": 57.76852,
+      "longitude": 12.266229
+    },
+    {
+      "name": "Närhälsan Lidköping rehabmottagning",
+      "latitude": 58.492767,
+      "longitude": 13.136483
+    },
+    {
+      "name": "Närhälsan Lilla Edet rehabmottagning",
+      "latitude": 58.134599,
+      "longitude": 12.12501
+    },
+    {
+      "name": "Närhälsan Lindome barnavårdscentral",
+      "latitude": 57.577052,
+      "longitude": 12.08774
+    },
+    {
+      "name": "Närhälsan Lindome vårdcentral",
+      "latitude": 57.577095,
+      "longitude": 12.087738
+    },
+    {
+      "name": "Närhälsan Linnéstaden BVC  barnavårdscentral",
+      "latitude": 57.698101,
+      "longitude": 11.943997
+    },
+    {
+      "name": "Närhälsan Ljungskile barnavårdscentral",
+      "latitude": 58.226667,
+      "longitude": 11.918394
+    },
+    {
+      "name": "Närhälsan Ljungskile vårdcentral",
+      "latitude": 58.226694,
+      "longitude": 11.918333
+    },
+    {
+      "name": "Närhälsan Lysekil vårdcentral",
+      "latitude": 58.280836,
+      "longitude": 11.440299
+    },
+    {
+      "name": "Närhälsan Lövgärdet barnavårdscentral",
+      "latitude": 57.815864,
+      "longitude": 12.041682
+    },
+    {
+      "name": "Närhälsan Lövgärdet vårdcentral",
+      "latitude": 57.815934,
+      "longitude": 12.04169
+    },
+    {
+      "name": "Närhälsan Majorna barnavårdscentral",
+      "latitude": 57.697456,
+      "longitude": 11.923409
+    },
+    {
+      "name": "Närhälsan Majorna rehabmottagning",
+      "latitude": 57.697421,
+      "longitude": 11.9234
+    },
+    {
+      "name": "Närhälsan Majorna vårdcentral",
+      "latitude": 57.697495,
+      "longitude": 11.923412
+    },
+    {
+      "name": "Närhälsan Mariestad barnavårdscentral",
+      "latitude": 58.70508,
+      "longitude": 13.79578
+    },
+    {
+      "name": "Närhälsan Mariestad jourcentral",
+      "latitude": 58.70496,
+      "longitude": 13.795781
+    },
+    {
+      "name": "Närhälsan Mariestad rehabmottagning",
+      "latitude": 58.70502,
+      "longitude": 13.795781
+    },
+    {
+      "name": "Närhälsan Mariestad vårdcentral",
+      "latitude": 58.70516,
+      "longitude": 13.795789
+    },
+    {
+      "name": "Närhälsan Masthugget vårdcentral",
+      "latitude": 57.698112,
+      "longitude": 11.943997
+    },
+    {
+      "name": "Närhälsan Mellerud barnavårdscentral",
+      "latitude": 58.700244,
+      "longitude": 12.454154
+    },
+    {
+      "name": "Närhälsan Mellerud rehabmottagning",
+      "latitude": 58.700226,
+      "longitude": 12.454153
+    },
+    {
+      "name": "Närhälsan Mellerud vårdcentral",
+      "latitude": 58.700265,
+      "longitude": 12.454154
+    },
+    {
+      "name": "Närhälsan Munkebäck barnavårdscentral",
+      "latitude": 57.71936,
+      "longitude": 12.026478
+    },
+    {
+      "name": "Närhälsan Munkedal barnavårdscentral",
+      "latitude": 58.470489,
+      "longitude": 11.671065
+    },
+    {
+      "name": "Närhälsan Munkedal rehabmottagning",
+      "latitude": 58.467835,
+      "longitude": 11.668111
+    },
+    {
+      "name": "Närhälsan Munkedal vårdcentral",
+      "latitude": 58.467883,
+      "longitude": 11.668123
+    },
+    {
+      "name": "Närhälsan Munkedal vårdcentral - Dingle",
+      "latitude": 58.529641,
+      "longitude": 11.577815
+    },
+    {
+      "name": "Närhälsan Munkedal vårdcentral - Hedekas",
+      "latitude": 58.644739,
+      "longitude": 11.778238
+    },
+    {
+      "name": "Närhälsan Mölnlycke barnavårdscentral",
+      "latitude": 57.658041,
+      "longitude": 12.113382
+    },
+    {
+      "name": "Närhälsan Mölnlycke rehabmottagning",
+      "latitude": 57.658175,
+      "longitude": 12.112543
+    },
+    {
+      "name": "Närhälsan Mölnlycke Ungas psykiska hälsa",
+      "latitude": 57.658327,
+      "longitude": 12.113209
+    },
+    {
+      "name": "Närhälsan Mölnlycke vårdcentral",
+      "latitude": 57.657913,
+      "longitude": 12.112735
+    },
+    {
+      "name": "Närhälsan Mösseberg barnavårdscentral",
+      "latitude": 58.189222,
+      "longitude": 13.554134
+    },
+    {
+      "name": "Närhälsan Mösseberg vårdcentral",
+      "latitude": 58.187745,
+      "longitude": 13.551866
+    },
+    {
+      "name": "Närhälsan Mösseberg vårdcentral",
+      "latitude": 58.189246,
+      "longitude": 13.554135
+    },
+    {
+      "name": "Närhälsan Norrmalm barnavårdscentral",
+      "latitude": 58.400074,
+      "longitude": 13.838496
+    },
+    {
+      "name": "Närhälsan Norrmalm vårdcentral",
+      "latitude": 58.400109,
+      "longitude": 13.838498
+    },
+    {
+      "name": "Närhälsan Nossebro barnavårdscentral",
+      "latitude": 58.191644,
+      "longitude": 12.72579
+    },
+    {
+      "name": "Närhälsan Nossebro rehabmottagning",
+      "latitude": 58.19163,
+      "longitude": 12.725789
+    },
+    {
+      "name": "Närhälsan Nossebro vårdcentral",
+      "latitude": 58.191661,
+      "longitude": 12.72579
+    },
+    {
+      "name": "Närhälsan Oden barnavårdscentral",
+      "latitude": 58.163977,
+      "longitude": 13.552637
+    },
+    {
+      "name": "Närhälsan Oden vårdcentral",
+      "latitude": 58.164002,
+      "longitude": 13.55263
+    },
+    {
+      "name": "Närhälsan Olskroken rehabmottagning",
+      "latitude": 57.714599,
+      "longitude": 11.997387
+    },
+    {
+      "name": "Närhälsan Olskroken vårdcentral",
+      "latitude": 57.714565,
+      "longitude": 11.997379
+    },
+    {
+      "name": "Närhälsan Opaltorget barnavårdscentral",
+      "latitude": 57.640811,
+      "longitude": 11.900469
+    },
+    {
+      "name": "Närhälsan Opaltorget vårdcentral",
+      "latitude": 57.640846,
+      "longitude": 11.900444
+    },
+    {
+      "name": "Närhälsan Partille barnavårdscentral",
+      "latitude": 57.739169,
+      "longitude": 12.105102
+    },
+    {
+      "name": "Närhälsan Partille vårdcentral",
+      "latitude": 57.739199,
+      "longitude": 12.105102
+    },
+    {
+      "name": "Närhälsan Sandared barnavårdscentral",
+      "latitude": 57.709452,
+      "longitude": 12.798957
+    },
+    {
+      "name": "Närhälsan Sandared rehabmottagning",
+      "latitude": 57.709439,
+      "longitude": 12.798952
+    },
+    {
+      "name": "Närhälsan Sandared vårdcentral",
+      "latitude": 57.70947,
+      "longitude": 12.798958
+    },
+    {
+      "name": "Närhälsan Sannegården barnavårdscentral",
+      "latitude": 57.709702,
+      "longitude": 11.927746
+    },
+    {
+      "name": "Närhälsan Sannegården rehabmottagning",
+      "latitude": 57.709691,
+      "longitude": 11.927741
+    },
+    {
+      "name": "Närhälsan Sannegården vårdcentral",
+      "latitude": 57.709716,
+      "longitude": 11.927743
+    },
+    {
+      "name": "Närhälsan Sisjön barnavårdscentral",
+      "latitude": 57.63915,
+      "longitude": 11.952546
+    },
+    {
+      "name": "Närhälsan Sisjön vårdcentral",
+      "latitude": 57.639164,
+      "longitude": 11.952544
+    },
+    {
+      "name": "Närhälsan Sjöbo barnavårdscentral",
+      "latitude": 57.749791,
+      "longitude": 12.944287
+    },
+    {
+      "name": "Närhälsan Sjöbo vårdcentral",
+      "latitude": 57.749803,
+      "longitude": 12.944288
+    },
+    {
+      "name": "Närhälsan Skara rehabmottagning",
+      "latitude": 58.392159,
+      "longitude": 13.429059
+    },
+    {
+      "name": "Närhälsan Skene barnavårdscentral",
+      "latitude": 57.492567,
+      "longitude": 12.647538
+    },
+    {
+      "name": "Närhälsan Skene jourcentral",
+      "latitude": 57.492733,
+      "longitude": 12.647388
+    },
+    {
+      "name": "Närhälsan Skene rehabmottagning",
+      "latitude": 57.492534,
+      "longitude": 12.647536
+    },
+    {
+      "name": "Närhälsan Skene rehabmottagning - Sätila",
+      "latitude": 57.542063,
+      "longitude": 12.434494
+    },
+    {
+      "name": "Närhälsan Skene vårdcentral",
+      "latitude": 57.492591,
+      "longitude": 12.647537
+    },
+    {
+      "name": "Närhälsan Skogslyckan barnavårdscentral",
+      "latitude": 58.360533,
+      "longitude": 11.91521
+    },
+    {
+      "name": "Närhälsan Skogslyckan vårdcentral",
+      "latitude": 58.360546,
+      "longitude": 11.915213
+    },
+    {
+      "name": "Närhälsan Skövde barnmorskemottagning",
+      "latitude": 58.387603,
+      "longitude": 13.841959
+    },
+    {
+      "name": "Närhälsan Skövde rehabmottagning",
+      "latitude": 58.393709,
+      "longitude": 13.840805
+    },
+    {
+      "name": "Närhälsan Slottsskogen vårdcentral",
+      "latitude": 57.690635,
+      "longitude": 11.947776
+    },
+    {
+      "name": "Närhälsan Solgärde barnavårdscentral",
+      "latitude": 57.888608,
+      "longitude": 11.950313
+    },
+    {
+      "name": "Närhälsan Solgärde rehabmottagning",
+      "latitude": 57.888584,
+      "longitude": 11.950315
+    },
+    {
+      "name": "Närhälsan Solgärde vårdcentral",
+      "latitude": 57.88877,
+      "longitude": 11.950518
+    },
+    {
+      "name": "Närhälsan Solhem rehabmottagning",
+      "latitude": 57.720909,
+      "longitude": 12.966732
+    },
+    {
+      "name": "Närhälsan Sollebrunn barnavårdscentral",
+      "latitude": 58.119574,
+      "longitude": 12.530285
+    },
+    {
+      "name": "Närhälsan Sollebrunn rehabmottagning",
+      "latitude": 58.119522,
+      "longitude": 12.530275
+    },
+    {
+      "name": "Närhälsan Sollebrunn vårdcentral",
+      "latitude": 58.1196,
+      "longitude": 12.5303
+    },
+    {
+      "name": "Närhälsan Stenstorp barnavårdscentral",
+      "latitude": 58.271492,
+      "longitude": 13.712089
+    },
+    {
+      "name": "Närhälsan Stenstorp vårdcentral",
+      "latitude": 58.271515,
+      "longitude": 13.712089
+    },
+    {
+      "name": "Närhälsan Stenungsund barnavårdscentral",
+      "latitude": 58.061798,
+      "longitude": 11.843015
+    },
+    {
+      "name": "Närhälsan Stenungsund rehabmottagning",
+      "latitude": 58.066543,
+      "longitude": 11.817597
+    },
+    {
+      "name": "Närhälsan Stenungsund rehabmottagning - Nösnäs",
+      "latitude": 58.056273,
+      "longitude": 11.826295
+    },
+    {
+      "name": "Närhälsan Stenungsund vårdcentral",
+      "latitude": 58.066715,
+      "longitude": 11.818002
+    },
+    {
+      "name": "Närhälsan Stora Höga barnavårdscentral",
+      "latitude": 58.016705,
+      "longitude": 11.83155
+    },
+    {
+      "name": "Närhälsan Stora Höga vårdcentral",
+      "latitude": 58.01676,
+      "longitude": 11.831613
+    },
+    {
+      "name": "Närhälsan Styrsö barnavårdscentral",
+      "latitude": 57.616738,
+      "longitude": 11.792182
+    },
+    {
+      "name": "Närhälsan Styrsö rehabmottagning",
+      "latitude": 57.616715,
+      "longitude": 11.792173
+    },
+    {
+      "name": "Närhälsan Styrsö vårdcentral",
+      "latitude": 57.616759,
+      "longitude": 11.792182
+    },
+    {
+      "name": "Närhälsan Svenljunga barnavårdscentral",
+      "latitude": 57.49443,
+      "longitude": 13.117589
+    },
+    {
+      "name": "Närhälsan Svenljunga rehabmottagning",
+      "latitude": 57.494377,
+      "longitude": 13.117544
+    },
+    {
+      "name": "Närhälsan Svenljunga vårdcentral",
+      "latitude": 57.494482,
+      "longitude": 13.117617
+    },
+    {
+      "name": "Närhälsan Sylte barnavårdscentral",
+      "latitude": 58.254677,
+      "longitude": 12.278294
+    },
+    {
+      "name": "Närhälsan Sylte vårdcentral",
+      "latitude": 58.254618,
+      "longitude": 12.278595
+    },
+    {
+      "name": "Närhälsan Sävedalen rehabmottagning",
+      "latitude": 57.73145,
+      "longitude": 12.062544
+    },
+    {
+      "name": "Närhälsan Södra Ryd barnavårdscentral",
+      "latitude": 58.425459,
+      "longitude": 13.876839
+    },
+    {
+      "name": "Närhälsan Södra Ryd vårdcentral",
+      "latitude": 58.423837,
+      "longitude": 13.868993
+    },
+    {
+      "name": "Närhälsan Södra torget barnavårdscentral",
+      "latitude": 57.717972,
+      "longitude": 12.941823
+    },
+    {
+      "name": "Närhälsan Södra torget rehabmottagning",
+      "latitude": 57.718032,
+      "longitude": 12.941886
+    },
+    {
+      "name": "Närhälsan Södra torget vårdcentral",
+      "latitude": 57.718063,
+      "longitude": 12.941924
+    },
+    {
+      "name": "Närhälsan Sörhaga barnavårdscentral",
+      "latitude": 57.92907,
+      "longitude": 12.524652
+    },
+    {
+      "name": "Närhälsan Sörhaga rehabmottagning",
+      "latitude": 57.929023,
+      "longitude": 12.518947
+    },
+    {
+      "name": "Närhälsan Sörhaga vårdcentral",
+      "latitude": 57.929058,
+      "longitude": 12.518944
+    },
+    {
+      "name": "Närhälsan Tanumshede vårdcentral",
+      "latitude": 58.724199,
+      "longitude": 11.32248
+    },
+    {
+      "name": "Närhälsan Tibro barnavårdscentral",
+      "latitude": 58.425232,
+      "longitude": 14.164875
+    },
+    {
+      "name": "Närhälsan Tibro rehabmottagning",
+      "latitude": 58.425728,
+      "longitude": 14.164437
+    },
+    {
+      "name": "Närhälsan Tibro vårdcentral",
+      "latitude": 58.425258,
+      "longitude": 14.164877
+    },
+    {
+      "name": "Närhälsan Tidaholm barnavårdscentral",
+      "latitude": 58.178098,
+      "longitude": 13.956224
+    },
+    {
+      "name": "Närhälsan Tidaholm rehabmottagning",
+      "latitude": 58.178067,
+      "longitude": 13.956236
+    },
+    {
+      "name": "Närhälsan Tidaholm vårdcentral",
+      "latitude": 58.178127,
+      "longitude": 13.956217
+    },
+    {
+      "name": "Närhälsan Tidan barnavårdscentral",
+      "latitude": 58.574567,
+      "longitude": 14.005647
+    },
+    {
+      "name": "Närhälsan Tidan vårdcentral",
+      "latitude": 58.574589,
+      "longitude": 14.005636
+    },
+    {
+      "name": "Närhälsan Tjörn barnavårdscentral",
+      "latitude": 58.025315,
+      "longitude": 11.658023
+    },
+    {
+      "name": "Närhälsan Tjörn barnavårdscentral - Skärhamn",
+      "latitude": 57.991078,
+      "longitude": 11.546611
+    },
+    {
+      "name": "Närhälsan Tjörn rehabmottagning",
+      "latitude": 58.025207,
+      "longitude": 11.65827
+    },
+    {
+      "name": "Närhälsan Tjörn vårdcentral",
+      "latitude": 58.025179,
+      "longitude": 11.657843
+    },
+    {
+      "name": "Närhälsan Tjörn vårdcentral - Skärhamn",
+      "latitude": 57.991093,
+      "longitude": 11.546609
+    },
+    {
+      "name": "Närhälsan Torpavallen vårdcentral",
+      "latitude": 57.724042,
+      "longitude": 12.033905
+    },
+    {
+      "name": "Närhälsan Torslanda barnavårdscentral",
+      "latitude": 57.719062,
+      "longitude": 11.775018
+    },
+    {
+      "name": "Närhälsan Torslanda rehabmottagning",
+      "latitude": 57.709478,
+      "longitude": 11.781205
+    },
+    {
+      "name": "Närhälsan Torslanda vårdcentral",
+      "latitude": 57.71909,
+      "longitude": 11.775024
+    },
+    {
+      "name": "Närhälsan Trandared barnavårdscentral",
+      "latitude": 57.70792,
+      "longitude": 12.952948
+    },
+    {
+      "name": "Närhälsan Trandared vårdcentral",
+      "latitude": 57.707955,
+      "longitude": 12.952892
+    },
+    {
+      "name": "Närhälsan Tranemo barnavårdscentral",
+      "latitude": 57.480836,
+      "longitude": 13.347195
+    },
+    {
+      "name": "Närhälsan Tranemo rehabmottagning",
+      "latitude": 57.4808,
+      "longitude": 13.347176
+    },
+    {
+      "name": "Närhälsan Tranemo vårdcentral",
+      "latitude": 57.480925,
+      "longitude": 13.34725
+    },
+    {
+      "name": "Närhälsan Tranemo vårdcentral - Dalstorp",
+      "latitude": 57.604156,
+      "longitude": 13.510689
+    },
+    {
+      "name": "Närhälsan Tranemo vårdcentral - Limmared",
+      "latitude": 57.531617,
+      "longitude": 13.359423
+    },
+    {
+      "name": "Närhälsan Tranemo vårdcentral - Länghem",
+      "latitude": 57.603029,
+      "longitude": 13.250276
+    },
+    {
+      "name": "Närhälsan Trollhättan rehabmottagning",
+      "latitude": 58.282281,
+      "longitude": 12.289579
+    },
+    {
+      "name": "Närhälsan Tuve barnavårdscentral",
+      "latitude": 57.7548,
+      "longitude": 11.926701
+    },
+    {
+      "name": "Närhälsan Tuve vårdcentral",
+      "latitude": 57.755221,
+      "longitude": 11.926798
+    },
+    {
+      "name": "Närhälsan Töreboda barnavårdscentral",
+      "latitude": 58.706551,
+      "longitude": 14.121246
+    },
+    {
+      "name": "Närhälsan Töreboda rehabmottagning",
+      "latitude": 58.706534,
+      "longitude": 14.121241
+    },
+    {
+      "name": "Närhälsan Töreboda vårdcentral",
+      "latitude": 58.706568,
+      "longitude": 14.121251
+    },
+    {
+      "name": "Närhälsan Uddevalla jourcentral",
+      "latitude": 58.348147,
+      "longitude": 11.933303
+    },
+    {
+      "name": "Närhälsan Ulricehamn barnavårdscentral",
+      "latitude": 57.793227,
+      "longitude": 13.412719
+    },
+    {
+      "name": "Närhälsan Ulricehamn jourcentral",
+      "latitude": 57.793856,
+      "longitude": 13.41575
+    },
+    {
+      "name": "Närhälsan Ulricehamn rehabmottagning",
+      "latitude": 57.793816,
+      "longitude": 13.415744
+    },
+    {
+      "name": "Närhälsan Ulricehamn vårdcentral",
+      "latitude": 57.793925,
+      "longitude": 13.41576
+    },
+    {
+      "name": "Närhälsan Ulricehamn vårdcentral - Dalum",
+      "latitude": 57.897141,
+      "longitude": 13.465164
+    },
+    {
+      "name": "Närhälsan Vara barnavårdscentral",
+      "latitude": 58.264181,
+      "longitude": 12.966126
+    },
+    {
+      "name": "Närhälsan Vara rehabmottagning",
+      "latitude": 58.264158,
+      "longitude": 12.966126
+    },
+    {
+      "name": "Närhälsan Vara vårdcentral",
+      "latitude": 58.26421,
+      "longitude": 12.966136
+    },
+    {
+      "name": "Närhälsan Vargön barnavårdscentral",
+      "latitude": 58.356471,
+      "longitude": 12.389356
+    },
+    {
+      "name": "Närhälsan Vargön vårdcentral",
+      "latitude": 58.35645,
+      "longitude": 12.389334
+    },
+    {
+      "name": "Närhälsan Vänerparken barnavårdscentral",
+      "latitude": 58.374552,
+      "longitude": 12.319729
+    },
+    {
+      "name": "Närhälsan Vänerparken vårdcentral",
+      "latitude": 58.37458,
+      "longitude": 12.319719
+    },
+    {
+      "name": "Närhälsan Vänersborg rehabmottagning",
+      "latitude": 58.374757,
+      "longitude": 12.318914
+    },
+    {
+      "name": "Närhälsan Vårgårda barnavårdscentral",
+      "latitude": 58.032334,
+      "longitude": 12.810521
+    },
+    {
+      "name": "Närhälsan Vårgårda vårdcentral",
+      "latitude": 58.032205,
+      "longitude": 12.810686
+    },
+    {
+      "name": "Närhälsan Ytterby barnmorskemottagning",
+      "latitude": 57.86213,
+      "longitude": 11.918719
+    },
+    {
+      "name": "Närhälsan Älvängen vårdcentral",
+      "latitude": 57.961029,
+      "longitude": 12.126372
+    },
+    {
+      "name": "Närhälsan Ängabo barnavårdscentral",
+      "latitude": 57.918574,
+      "longitude": 12.563659
+    },
+    {
+      "name": "Närhälsan Ängabo rehabmottagning",
+      "latitude": 57.918525,
+      "longitude": 12.563671
+    },
+    {
+      "name": "Närhälsan Ängabo vårdcentral",
+      "latitude": 57.918606,
+      "longitude": 12.563354
+    },
+    {
+      "name": "Närhälsan Ågårdsskogen barnavårdscentral",
+      "latitude": 58.492883,
+      "longitude": 13.13663
+    },
+    {
+      "name": "Närhälsan Ågårdsskogen vårdcentral",
+      "latitude": 58.492817,
+      "longitude": 13.136512
+    },
+    {
+      "name": "Närhälsan Åmål barnmorskemottagning",
+      "latitude": 59.048019,
+      "longitude": 12.704334
+    },
+    {
+      "name": "Närhälsan Åmål rehabmottagning",
+      "latitude": 59.049351,
+      "longitude": 12.705705
+    },
+    {
+      "name": "Närhälsan Åmål ungdomsmottagning",
+      "latitude": 59.049128,
+      "longitude": 12.70481
+    },
+    {
+      "name": "Närhälsan Öckerö rehabmottagning",
+      "latitude": 57.70868,
+      "longitude": 11.65495
+    },
+    {
+      "name": "Närhälsan Öckerö vårdcentral",
+      "latitude": 57.70864,
+      "longitude": 11.654923
+    },
+    {
+      "name": "Närhälsan Öjersjö vårdcentral",
+      "latitude": 57.700136,
+      "longitude": 12.13102
+    },
+    {
+      "name": "Närhälsan Östra sjukhuset närakut",
+      "latitude": 57.722014,
+      "longitude": 12.047963
+    },
+    {
+      "name": "Närlunda vårdcentral",
+      "latitude": 56.034729,
+      "longitude": 12.718656
+    },
+    {
+      "name": "Närvård",
+      "latitude": 62.624766,
+      "longitude": 17.929291
+    },
+    {
+      "name": "Näsets läkargrupp",
+      "latitude": 55.41149,
+      "longitude": 12.845236
+    },
+    {
+      "name": "Näsets läkargrupp",
+      "latitude": 55.418385,
+      "longitude": 12.951336
+    },
+    {
+      "name": "Nättraby vårdcentral",
+      "latitude": 56.201887,
+      "longitude": 15.536699
+    },
+    {
+      "name": "Nöbbelöv vårdcentral",
+      "latitude": 55.728059,
+      "longitude": 13.176807
+    },
+    {
+      "name": "Nötkärnan Friskväderstorget Vårdcentral och BVC",
+      "latitude": 57.72486,
+      "longitude": 11.892452
+    },
+    {
+      "name": "Nötkärnan Guldheden Familjeläkare och BVC",
+      "latitude": 57.683269,
+      "longitude": 11.971573
+    },
+    {
+      "name": "Nötkärnan Hovås Askim Familjeläkare och BVC",
+      "latitude": 57.633523,
+      "longitude": 11.936986
+    },
+    {
+      "name": "Nötkärnan Kortedala Vårdcentral och BVC",
+      "latitude": 57.762042,
+      "longitude": 12.041006
+    },
+    {
+      "name": "Nötkärnan Kållered Familjeläkare och BVC",
+      "latitude": 57.610873,
+      "longitude": 12.048858
+    },
+    {
+      "name": "Nötkärnan Matshugget Familjeläkare och BVC",
+      "latitude": 57.698672,
+      "longitude": 11.940406
+    },
+    {
+      "name": "Nötkärnan Sävelången Familjeläkare och BVC",
+      "latitude": 57.919743,
+      "longitude": 12.511515
+    },
+    {
+      "name": "Odensala HC",
+      "latitude": 63.157871,
+      "longitude": 14.709796
+    },
+    {
+      "name": "Odensbackens Vårdcentral",
+      "latitude": 59.158229,
+      "longitude": 15.524889
+    },
+    {
+      "name": "Olaus Petri Vårdcentral",
+      "latitude": 59.280527,
+      "longitude": 15.217369
+    },
+    {
+      "name": "Olofström Ungdomsmottagning",
+      "latitude": 56.277897,
+      "longitude": 14.532018
+    },
+    {
+      "name": "Olofströms vårdcentral",
+      "latitude": 56.278031,
+      "longitude": 14.539519
+    },
+    {
+      "name": "Olofströmskliniken vårdcentral",
+      "latitude": 56.27736,
+      "longitude": 14.529122
+    },
+    {
+      "name": "Omtanken Vårdcentral",
+      "latitude": 57.732704,
+      "longitude": 12.031529
+    },
+    {
+      "name": "Omtanken Vårdcentral Frölunda Torg",
+      "latitude": 57.652618,
+      "longitude": 11.911738
+    },
+    {
+      "name": "Omtanken Vårdcentral Kållered",
+      "latitude": 57.648157,
+      "longitude": 12.016707
+    },
+    {
+      "name": "Omtanken Vårdcentral Landala",
+      "latitude": 57.693506,
+      "longitude": 11.9704
+    },
+    {
+      "name": "Omtanken Vårdcentral Majorna",
+      "latitude": 57.690829,
+      "longitude": 11.915951
+    },
+    {
+      "name": "Omtanken Vårdcentral Olskroken",
+      "latitude": 57.715237,
+      "longitude": 12.001497
+    },
+    {
+      "name": "Omtanken Vårdcentral Pedagogen Park",
+      "latitude": 57.652046,
+      "longitude": 11.986934
+    },
+    {
+      "name": "Omtanken Vårdcentral Åby",
+      "latitude": 57.648161,
+      "longitude": 12.016612
+    },
+    {
+      "name": "Omtanken Vårdcentralen Grimmered",
+      "latitude": 57.654213,
+      "longitude": 11.90235
+    },
+    {
+      "name": "Ortopedmottagning",
+      "latitude": 62.40799,
+      "longitude": 17.306405
+    },
+    {
+      "name": "Ortopedtekniskt Centrum",
+      "latitude": 55.712533,
+      "longitude": 13.197408
+    },
+    {
+      "name": "Oxbackens Vårdcentral",
+      "latitude": 59.605865,
+      "longitude": 16.531279
+    },
+    {
+      "name": "Oxie vårdcentral",
+      "latitude": 55.539064,
+      "longitude": 13.095406
+    },
+    {
+      "name": "Plastikakademin",
+      "latitude": 58.397283,
+      "longitude": 15.615196
+    },
+    {
+      "name": "Praktikertjänst AB Hälsocentralen City",
+      "latitude": 60.675623,
+      "longitude": 17.147071
+    },
+    {
+      "name": "Praktikertjänst Lerums Vårdcentral",
+      "latitude": 57.764778,
+      "longitude": 12.263845
+    },
+    {
+      "name": "Precision Heath",
+      "latitude": 59.365037,
+      "longitude": 17.959152
+    },
+    {
+      "name": "Primapraktiken",
+      "latitude": 58.270137,
+      "longitude": 12.276493
+    },
+    {
+      "name": "Provtagning & Klinisk kemi",
+      "latitude": 55.588361,
+      "longitude": 13.000467
+    },
+    {
+      "name": "Provtagningscentral Solna vuxen/barn",
+      "latitude": 59.348648,
+      "longitude": 18.029497
+    },
+    {
+      "name": "Psykiatrisk mottagning intellektuell funktionsnedsättning",
+      "latitude": 57.663038,
+      "longitude": 12.000524
+    },
+    {
+      "name": "Psykiatrisk öppenvård",
+      "latitude": 57.754045,
+      "longitude": 16.631582
+    },
+    {
+      "name": "Psykiatrisk Öppenvårdsmottagning",
+      "latitude": 57.768421,
+      "longitude": 12.273199
+    },
+    {
+      "name": "Psykosmottagning Öster",
+      "latitude": 57.723267,
+      "longitude": 12.023223
+    },
+    {
+      "name": "Pålsboda Vårdcentral",
+      "latitude": 59.069335,
+      "longitude": 15.332941
+    },
+    {
+      "name": "Rehabcentrum",
+      "latitude": 62.626215,
+      "longitude": 17.931173
+    },
+    {
+      "name": "Rehabiliteringsmottagningen Linden",
+      "latitude": 56.197674,
+      "longitude": 14.821731
+    },
+    {
+      "name": "RFSU-kliniken",
+      "latitude": 59.314111,
+      "longitude": 18.071324
+    },
+    {
+      "name": "Rinkeby Bumm",
+      "latitude": 59.388888,
+      "longitude": 17.92973
+    },
+    {
+      "name": "Robertsfors Vårdcentral",
+      "latitude": 64.193174,
+      "longitude": 20.844442
+    },
+    {
+      "name": "Ronneby rehabiliteringscenter",
+      "latitude": 56.212406,
+      "longitude": 15.274545
+    },
+    {
+      "name": "Ronneby Ungdomsmottagning",
+      "latitude": 56.206498,
+      "longitude": 15.270672
+    },
+    {
+      "name": "Ronneby vårdcentral",
+      "latitude": 56.206409,
+      "longitude": 15.270467
+    },
+    {
+      "name": "Rosengårdskliniken",
+      "latitude": 55.585435,
+      "longitude": 13.050188
+    },
+    {
+      "name": "Rosenlunds vårdcentral",
+      "latitude": 57.778201,
+      "longitude": 14.207444
+    },
+    {
+      "name": "Rosie Beauty Clinic",
+      "latitude": 60.667681,
+      "longitude": 17.146946
+    },
+    {
+      "name": "Rygg- och idrottsskadekliniken",
+      "latitude": 59.340468,
+      "longitude": 18.057719
+    },
+    {
+      "name": "Ryggkirurgiska Kliniken",
+      "latitude": 59.351422,
+      "longitude": 17.075173
+    },
+    {
+      "name": "Rättviks vårdcentral",
+      "latitude": 60.88837,
+      "longitude": 15.115444
+    },
+    {
+      "name": "Rävlanda vårdcentral",
+      "latitude": 57.653642,
+      "longitude": 12.497265
+    },
+    {
+      "name": "Råneå Vardcentral",
+      "latitude": 65.85847,
+      "longitude": 22.297103
+    },
+    {
+      "name": "Råslätt Vårdcentral",
+      "latitude": 57.738683,
+      "longitude": 14.153959
+    },
+    {
+      "name": "Rödeby vårdcentral",
+      "latitude": 56.261431,
+      "longitude": 15.616368
+    },
+    {
+      "name": "Röntgenenheten Mjärdevi",
+      "latitude": 58.393674,
+      "longitude": 15.566743
+    },
+    {
+      "name": "S:t Eriks Vårdcentral",
+      "latitude": 59.333487,
+      "longitude": 18.041094
+    },
+    {
+      "name": "S:t Olof vårdcentral",
+      "latitude": 62.392526,
+      "longitude": 17.262844
+    },
+    {
+      "name": "Sabbatsbergs ryggcentrum",
+      "latitude": 59.338875,
+      "longitude": 18.047897
+    },
+    {
+      "name": "Sala Väsby vårdcentral",
+      "latitude": 59.923991,
+      "longitude": 16.602283
+    },
+    {
+      "name": "Sala vårdcentral",
+      "latitude": 59.925515,
+      "longitude": 16.600438
+    },
+    {
+      "name": "Samariten vårdcentral",
+      "latitude": 56.18704,
+      "longitude": 14.850921
+    },
+    {
+      "name": "Samariten vårdcentral",
+      "latitude": 56.192979,
+      "longitude": 14.745033
+    },
+    {
+      "name": "Samariterhemmet",
+      "latitude": 59.85554,
+      "longitude": 17.648126
+    },
+    {
+      "name": "Sankt Lars vårdcentral",
+      "latitude": 55.686844,
+      "longitude": 13.185003
+    },
+    {
+      "name": "Scandinavian Gastro Clinic Karlstad",
+      "latitude": 59.381524,
+      "longitude": 13.511696
+    },
+    {
+      "name": "Sibyllekliniken",
+      "latitude": 59.339031,
+      "longitude": 18.08217
+    },
+    {
+      "name": "Sjukhem Fyrklövern",
+      "latitude": 59.774667,
+      "longitude": 14.533565
+    },
+    {
+      "name": "Sjöbo Vårdcentral",
+      "latitude": 55.626159,
+      "longitude": 13.700891
+    },
+    {
+      "name": "Sjöstadens Vårdcentral",
+      "latitude": 58.705226,
+      "longitude": 13.829914
+    },
+    {
+      "name": "Skagerns Vård och Hälsoenhet",
+      "latitude": 58.980194,
+      "longitude": 14.086715
+    },
+    {
+      "name": "Skaraborgs Vaccinationscentrum",
+      "latitude": 58.389055,
+      "longitude": 13.843871
+    },
+    {
+      "name": "Skebäcks vårdcentral",
+      "latitude": 59.272365,
+      "longitude": 15.235736
+    },
+    {
+      "name": "Skepplanda Läkarhus",
+      "latitude": 57.982398,
+      "longitude": 12.211916
+    },
+    {
+      "name": "Skiftinge Vårdcentral",
+      "latitude": 59.390107,
+      "longitude": 16.538614
+    },
+    {
+      "name": "Skinart Clinic Sweden AB",
+      "latitude": 60.673241,
+      "longitude": 17.1414
+    },
+    {
+      "name": "Skinnskattebergs Vårdcentral",
+      "latitude": 59.82768,
+      "longitude": 15.686706
+    },
+    {
+      "name": "Sköndals husläkarmottagning",
+      "latitude": 59.255354,
+      "longitude": 18.115157
+    },
+    {
+      "name": "Skönsmons vårdcentral",
+      "latitude": 62.379134,
+      "longitude": 17.34758
+    },
+    {
+      "name": "Slottsfjärdens läkarmottagning Kalmar",
+      "latitude": 56.663358,
+      "longitude": 16.368689
+    },
+    {
+      "name": "Smedby hälsocentral",
+      "latitude": 56.6816,
+      "longitude": 16.230693
+    },
+    {
+      "name": "Snabbkliniken",
+      "latitude": 59.446968,
+      "longitude": 17.952
+    },
+    {
+      "name": "Sofia vårdcentral",
+      "latitude": 59.310654,
+      "longitude": 18.096027
+    },
+    {
+      "name": "Solklart Vård",
+      "latitude": 56.086461,
+      "longitude": 12.916309
+    },
+    {
+      "name": "Sollentunahälsan",
+      "latitude": 59.428984,
+      "longitude": 17.946873
+    },
+    {
+      "name": "Solstenen i Lund",
+      "latitude": 55.701476,
+      "longitude": 13.199598
+    },
+    {
+      "name": "Sorgenfrimottagningen",
+      "latitude": 55.594513,
+      "longitude": 13.020991
+    },
+    {
+      "name": "Sotenäs Vårdcentral",
+      "latitude": 58.438744,
+      "longitude": 11.301584
+    },
+    {
+      "name": "Specialisthuset Eslöv",
+      "latitude": 55.840779,
+      "longitude": 13.280822
+    },
+    {
+      "name": "SPOT",
+      "latitude": 62.409541,
+      "longitude": 17.299984
+    },
+    {
+      "name": "Spånga Läkarmottagning",
+      "latitude": 59.395298,
+      "longitude": 17.902742
+    },
+    {
+      "name": "Spånga Vårdcentral",
+      "latitude": 59.380708,
+      "longitude": 17.898486
+    },
+    {
+      "name": "STAC Scandinavian Top Athletic Center",
+      "latitude": 56.212922,
+      "longitude": 15.277974
+    },
+    {
+      "name": "Stamina hälsoklinik",
+      "latitude": 57.870051,
+      "longitude": 11.982478
+    },
+    {
+      "name": "Stattena vårdcentral",
+      "latitude": 56.059485,
+      "longitude": 12.697259
+    },
+    {
+      "name": "Stegkliniken",
+      "latitude": 59.305782,
+      "longitude": 18.003845
+    },
+    {
+      "name": "Stenhamra Hälsocentral",
+      "latitude": 59.334723,
+      "longitude": 17.680293
+    },
+    {
+      "name": "Stensö hälsocentral",
+      "latitude": 56.659122,
+      "longitude": 16.324475
+    },
+    {
+      "name": "Stenungsund jourcentral",
+      "latitude": 58.066508,
+      "longitude": 11.818019
+    },
+    {
+      "name": "Stjärnkliniken",
+      "latitude": 58.412097,
+      "longitude": 15.624761
+    },
+    {
+      "name": "Stockholms skolors ungdomsmottagning",
+      "latitude": 59.340031,
+      "longitude": 18.048238
+    },
+    {
+      "name": "Stora Höga Läkarhus",
+      "latitude": 58.01626,
+      "longitude": 11.833294
+    },
+    {
+      "name": "Stora Trädgårdsgatans hälsocentral",
+      "latitude": 57.766458,
+      "longitude": 16.61223
+    },
+    {
+      "name": "Storumans sjukstuga",
+      "latitude": 65.096885,
+      "longitude": 17.121597
+    },
+    {
+      "name": "Storvik Din hälsocentral",
+      "latitude": 60.586734,
+      "longitude": 16.533186
+    },
+    {
+      "name": "Storvretas vårdcentral",
+      "latitude": 59.960439,
+      "longitude": 17.703198
+    },
+    {
+      "name": "Storvretens Vårdcentral",
+      "latitude": 59.192981,
+      "longitude": 17.838811
+    },
+    {
+      "name": "Storå Vårdcentral",
+      "latitude": 59.714199,
+      "longitude": 15.127775
+    },
+    {
+      "name": "Strängnäs vårdcentral",
+      "latitude": 59.367163,
+      "longitude": 17.028128
+    },
+    {
+      "name": "Ströget's Fina Fötter",
+      "latitude": 55.871917,
+      "longitude": 12.833888
+    },
+    {
+      "name": "Strömstad barnmorskemottagning",
+      "latitude": 58.942327,
+      "longitude": 11.170762
+    },
+    {
+      "name": "Strömstad rehabmottagning",
+      "latitude": 58.941321,
+      "longitude": 11.16897
+    },
+    {
+      "name": "Strömsunds vårdcentral",
+      "latitude": 63.85913,
+      "longitude": 15.564391
+    },
+    {
+      "name": "Substitutionsmottagning Olskroken",
+      "latitude": 57.717792,
+      "longitude": 11.999883
+    },
+    {
+      "name": "Sundbrolunds Vårdcentral",
+      "latitude": 63.014318,
+      "longitude": 18.184784
+    },
+    {
+      "name": "Sundbybergs Ungdomsmottagning",
+      "latitude": 59.361283,
+      "longitude": 17.975686
+    },
+    {
+      "name": "Sunne Vårdcentral",
+      "latitude": 59.843723,
+      "longitude": 13.140763
+    },
+    {
+      "name": "Svartbäckens vårdcentral",
+      "latitude": 59.869025,
+      "longitude": 17.626618
+    },
+    {
+      "name": "Svea vaccin",
+      "latitude": 55.595457,
+      "longitude": 13.000659
+    },
+    {
+      "name": "Svea Vaccin",
+      "latitude": 55.602137,
+      "longitude": 13.001461
+    },
+    {
+      "name": "Svea Vaccin",
+      "latitude": 55.701372,
+      "longitude": 13.195854
+    },
+    {
+      "name": "Svea Vaccin",
+      "latitude": 58.410476,
+      "longitude": 15.623108
+    },
+    {
+      "name": "Svea Vårdcentral",
+      "latitude": 59.136295,
+      "longitude": 12.933793
+    },
+    {
+      "name": "Sveakliniken",
+      "latitude": 55.518383,
+      "longitude": 13.230334
+    },
+    {
+      "name": "Svegs hälsocentral",
+      "latitude": 62.040045,
+      "longitude": 14.353663
+    },
+    {
+      "name": "Svenska Fot & Hudkliniken",
+      "latitude": 59.429289,
+      "longitude": 17.952045
+    },
+    {
+      "name": "Svärdsjö vårdcentral",
+      "latitude": 60.741472,
+      "longitude": 15.907939
+    },
+    {
+      "name": "Syncentralen Östergötland",
+      "latitude": 58.397359,
+      "longitude": 15.615191
+    },
+    {
+      "name": "Säffle Vårdcentral",
+      "latitude": 59.135905,
+      "longitude": 12.933354
+    },
+    {
+      "name": "Särna vårdcentral",
+      "latitude": 61.69144,
+      "longitude": 13.1247
+    },
+    {
+      "name": "Sätila vårdcentral",
+      "latitude": 57.542998,
+      "longitude": 12.432787
+    },
+    {
+      "name": "Sätra Din hälsocentral",
+      "latitude": 60.692726,
+      "longitude": 17.11597
+    },
+    {
+      "name": "Sätra vårdcentral",
+      "latitude": 59.285339,
+      "longitude": 17.920095
+    },
+    {
+      "name": "Sävedalens vårdcentral och BVC",
+      "latitude": 57.732582,
+      "longitude": 12.072677
+    },
+    {
+      "name": "Sävsjö Vårdcentral",
+      "latitude": 57.406868,
+      "longitude": 14.657965
+    },
+    {
+      "name": "Söderhamns barnmorskemottagning",
+      "latitude": 61.298053,
+      "longitude": 17.055262
+    },
+    {
+      "name": "Södertälje vårdcentral",
+      "latitude": 59.196241,
+      "longitude": 17.628425
+    },
+    {
+      "name": "Södervärns Vårdcentral",
+      "latitude": 55.589141,
+      "longitude": 13.004595
+    },
+    {
+      "name": "Söderåkra filial - Torsås hälsocentral",
+      "latitude": 56.449763,
+      "longitude": 16.074107
+    },
+    {
+      "name": "Sölvesborg Ungdomsmottagning",
+      "latitude": 56.050925,
+      "longitude": 14.587194
+    },
+    {
+      "name": "Sölvesborgs vårdcentral",
+      "latitude": 56.056106,
+      "longitude": 14.583345
+    },
+    {
+      "name": "Sömnappnémottagning",
+      "latitude": 62.409424,
+      "longitude": 17.306328
+    },
+    {
+      "name": "Söråkers vårdcentral",
+      "latitude": 62.507326,
+      "longitude": 17.507313
+    },
+    {
+      "name": "Tanumshede barnavårdscentral",
+      "latitude": 58.726212,
+      "longitude": 11.316173
+    },
+    {
+      "name": "Tanumshede jourcentral",
+      "latitude": 58.724232,
+      "longitude": 11.322542
+    },
+    {
+      "name": "Tanumshede rehabmottagning",
+      "latitude": 58.723675,
+      "longitude": 11.323074
+    },
+    {
+      "name": "Tanumshede vårdcentral Bullaren",
+      "latitude": 58.77455,
+      "longitude": 11.559937
+    },
+    {
+      "name": "Tegs hälsocentral",
+      "latitude": 63.820285,
+      "longitude": 20.25371
+    },
+    {
+      "name": "Teleborgs vårdcentral",
+      "latitude": 56.855252,
+      "longitude": 14.819527
+    },
+    {
+      "name": "Terveystalo Tornio",
+      "latitude": 65.842617,
+      "longitude": 24.143713
+    },
+    {
+      "name": "Tierps vårdcentral",
+      "latitude": 60.337069,
+      "longitude": 17.514863
+    },
+    {
+      "name": "Timrå vårdcentral",
+      "latitude": 62.486696,
+      "longitude": 17.324275
+    },
+    {
+      "name": "Tjörn barn- och ungdomsmedicinsk mottagning",
+      "latitude": 58.025052,
+      "longitude": 11.658066
+    },
+    {
+      "name": "Torshälla vårdcentral",
+      "latitude": 59.419562,
+      "longitude": 16.48567
+    },
+    {
+      "name": "Torsviks Vårdcentral",
+      "latitude": 59.362199,
+      "longitude": 18.122565
+    },
+    {
+      "name": "Torsås hälsocentral",
+      "latitude": 56.41151,
+      "longitude": 15.996976
+    },
+    {
+      "name": "Tranehälsan",
+      "latitude": 57.48661,
+      "longitude": 13.355278
+    },
+    {
+      "name": "Tranehälsan",
+      "latitude": 57.604749,
+      "longitude": 13.511046
+    },
+    {
+      "name": "Trehörningsjö Vårdcentral",
+      "latitude": 63.693615,
+      "longitude": 18.867895
+    },
+    {
+      "name": "Trollhättan jourcentral",
+      "latitude": 58.293695,
+      "longitude": 12.283181
+    },
+    {
+      "name": "Trosa Vårdcentral",
+      "latitude": 58.902168,
+      "longitude": 17.559129
+    },
+    {
+      "name": "Trossö vårdcentral",
+      "latitude": 56.160577,
+      "longitude": 15.589515
+    },
+    {
+      "name": "Tryggakliniken Kristianstad",
+      "latitude": 56.027903,
+      "longitude": 14.20595
+    },
+    {
+      "name": "Trädgårdstorgets vårdcentral",
+      "latitude": 58.412735,
+      "longitude": 15.624511
+    },
+    {
+      "name": "Tudorkliniken",
+      "latitude": 56.460749,
+      "longitude": 12.922207
+    },
+    {
+      "name": "Tullinge vårdcentral",
+      "latitude": 59.205393,
+      "longitude": 17.907037
+    },
+    {
+      "name": "Tunafors vårdcentral",
+      "latitude": 59.366431,
+      "longitude": 16.522945
+    },
+    {
+      "name": "Turebergs familjecentral",
+      "latitude": 59.425442,
+      "longitude": 17.949132
+    },
+    {
+      "name": "Tveta Hälsocentral",
+      "latitude": 59.177548,
+      "longitude": 17.608659
+    },
+    {
+      "name": "Tvings läkarmottagning",
+      "latitude": 56.311236,
+      "longitude": 15.463911
+    },
+    {
+      "name": "Tybble vårdcentral",
+      "latitude": 59.254422,
+      "longitude": 15.236767
+    },
+    {
+      "name": "Tärnaby sjukstuga",
+      "latitude": 65.715864,
+      "longitude": 15.313593
+    },
+    {
+      "name": "Tåbelunds Vårdcentral",
+      "latitude": 55.833202,
+      "longitude": 13.288537
+    },
+    {
+      "name": "Töcksfors Vårdcentral",
+      "latitude": 59.510507,
+      "longitude": 11.836523
+    },
+    {
+      "name": "Uddevalla rehabmottagning",
+      "latitude": 58.35194,
+      "longitude": 11.928889
+    },
+    {
+      "name": "Ullvi-Tuna vårdcentral",
+      "latitude": 59.508905,
+      "longitude": 16.00377
+    },
+    {
+      "name": "Ultraljudsbarnmorskorna",
+      "latitude": 59.312259,
+      "longitude": 18.023192
+    },
+    {
+      "name": "Ultraljudsbarnmorskorna",
+      "latitude": 59.341394,
+      "longitude": 18.096888
+    },
+    {
+      "name": "Unga vuxna",
+      "latitude": 55.703179,
+      "longitude": 13.197761
+    },
+    {
+      "name": "Ungdomshälsan",
+      "latitude": 58.414148,
+      "longitude": 15.625508
+    },
+    {
+      "name": "Ungdomsmottagning",
+      "latitude": 56.831904,
+      "longitude": 13.940951
+    },
+    {
+      "name": "Ungdomsmottagning",
+      "latitude": 59.058323,
+      "longitude": 16.58504
+    },
+    {
+      "name": "Ungdomsmottagningen",
+      "latitude": 58.412942,
+      "longitude": 15.620027
+    },
+    {
+      "name": "Ungdomsmottagningen Mini-Maria",
+      "latitude": 58.41393,
+      "longitude": 15.625084
+    },
+    {
+      "name": "Ungdomsmottagningen Värnamo",
+      "latitude": 57.182518,
+      "longitude": 14.050517
+    },
+    {
+      "name": "Uppsala Barncentrum & Vårdcentral",
+      "latitude": 59.860132,
+      "longitude": 17.635679
+    },
+    {
+      "name": "Vaccin Direkt",
+      "latitude": 55.702087,
+      "longitude": 13.193586
+    },
+    {
+      "name": "Vaccin Direkt",
+      "latitude": 59.242186,
+      "longitude": 18.090746
+    },
+    {
+      "name": "Vaccinationsmottagningen Luleå",
+      "latitude": 65.589237,
+      "longitude": 22.229086
+    },
+    {
+      "name": "Vaccincenter Kung Oskar",
+      "latitude": 55.711199,
+      "longitude": 13.18428
+    },
+    {
+      "name": "Vaccincenter Varvet",
+      "latitude": 55.610538,
+      "longitude": 12.980693
+    },
+    {
+      "name": "VaccinDirekt",
+      "latitude": 59.193705,
+      "longitude": 17.627673
+    },
+    {
+      "name": "VaccinDirekt",
+      "latitude": 59.611492,
+      "longitude": 16.54602
+    },
+    {
+      "name": "Vaccinova",
+      "latitude": 58.416826,
+      "longitude": 15.621396
+    },
+    {
+      "name": "Vaccinspecialisten",
+      "latitude": 60.60629,
+      "longitude": 15.632151
+    },
+    {
+      "name": "Vadstena vårdcentral",
+      "latitude": 58.453051,
+      "longitude": 14.900462
+    },
+    {
+      "name": "Vaggeryds vårdcentral",
+      "latitude": 57.491926,
+      "longitude": 14.134113
+    },
+    {
+      "name": "Valbo Hälsocentral",
+      "latitude": 60.643926,
+      "longitude": 17.007272
+    },
+    {
+      "name": "Valjehälsan vårdcentral",
+      "latitude": 56.048928,
+      "longitude": 14.555104
+    },
+    {
+      "name": "Vallatorpsdoktorn",
+      "latitude": 59.465798,
+      "longitude": 18.043086
+    },
+    {
+      "name": "Vasakliniken",
+      "latitude": 57.699833,
+      "longitude": 11.971926
+    },
+    {
+      "name": "VasaNova",
+      "latitude": 57.696816,
+      "longitude": 11.976413
+    },
+    {
+      "name": "Vasastans Vårdcentral",
+      "latitude": 59.33967,
+      "longitude": 18.05128
+    },
+    {
+      "name": "Vega Vårdcentral och BVC i Fristad",
+      "latitude": 57.825386,
+      "longitude": 13.00886
+    },
+    {
+      "name": "Vendelsö vårdcentral",
+      "latitude": 59.193044,
+      "longitude": 18.196323
+    },
+    {
+      "name": "Victoria Vård & Hälsa",
+      "latitude": 55.572808,
+      "longitude": 12.933123
+    },
+    {
+      "name": "Vidarkliniken",
+      "latitude": 59.065098,
+      "longitude": 17.616314
+    },
+    {
+      "name": "Vikens Vårdcentral",
+      "latitude": 56.15925,
+      "longitude": 12.578841
+    },
+    {
+      "name": "Viklinik",
+      "latitude": 55.698952,
+      "longitude": 13.212667
+    },
+    {
+      "name": "Viktoriakliniken",
+      "latitude": 56.672636,
+      "longitude": 12.861561
+    },
+    {
+      "name": "Vilhelmina vårdcentral",
+      "latitude": 64.625148,
+      "longitude": 16.662491
+    },
+    {
+      "name": "Vimmerby Hälsocentral",
+      "latitude": 57.667861,
+      "longitude": 15.858572
+    },
+    {
+      "name": "Vingåkers Vårdcentral",
+      "latitude": 59.044046,
+      "longitude": 15.869723
+    },
+    {
+      "name": "Viskaforskliniken",
+      "latitude": 57.630691,
+      "longitude": 12.865802
+    },
+    {
+      "name": "Vitala Vårdcentral",
+      "latitude": 57.426279,
+      "longitude": 15.090135
+    },
+    {
+      "name": "Vivalla/Lundby vårdcentral",
+      "latitude": 59.299583,
+      "longitude": 15.187
+    },
+    {
+      "name": "Vrigstad Läkarmottagning",
+      "latitude": 57.356206,
+      "longitude": 14.465616
+    },
+    {
+      "name": "Vråens vårdcentral",
+      "latitude": 57.18218,
+      "longitude": 14.067381
+    },
+    {
+      "name": "Vuxenpsykiatrimottagning 1 Lund",
+      "latitude": 55.71811,
+      "longitude": 13.19063
+    },
+    {
+      "name": "Vuxenpsykiatrimottagning 2 Lund",
+      "latitude": 55.718155,
+      "longitude": 13.19118
+    },
+    {
+      "name": "Vuxenpsykiatrisk mottagning Karlshamn",
+      "latitude": 56.187033,
+      "longitude": 14.850748
+    },
+    {
+      "name": "Vuxenpsykiatrisk mottagning Olofström",
+      "latitude": 56.278047,
+      "longitude": 14.539399
+    },
+    {
+      "name": "Vuxenpsykiatrisk mottagning Sölvesborg",
+      "latitude": 56.056517,
+      "longitude": 14.583309
+    },
+    {
+      "name": "Vuxenpsykiatrisk mottagning.",
+      "latitude": 56.205404,
+      "longitude": 15.270672
+    },
+    {
+      "name": "Vuxenpsykiatrisk Öppenvårdsmottagning - NP/Laro",
+      "latitude": 58.280358,
+      "longitude": 12.286695
+    },
+    {
+      "name": "Vuxenpsykiatrisk Öppenvårdsmottagning - Psykos/Bipolär",
+      "latitude": 58.28036,
+      "longitude": 12.286668
+    },
+    {
+      "name": "Vällingby Läkarhus",
+      "latitude": 59.364079,
+      "longitude": 17.871347
+    },
+    {
+      "name": "Vännäs Hälsocentral",
+      "latitude": 63.909525,
+      "longitude": 19.773336
+    },
+    {
+      "name": "Väster vårdcentral",
+      "latitude": 57.170726,
+      "longitude": 14.027632
+    },
+    {
+      "name": "Västerorts vårdcentral",
+      "latitude": 59.371829,
+      "longitude": 17.859543
+    },
+    {
+      "name": "Västerstrand vårdcentral",
+      "latitude": 59.385604,
+      "longitude": 13.464447
+    },
+    {
+      "name": "Vårby Vårdcentral",
+      "latitude": 59.2539,
+      "longitude": 17.879572
+    },
+    {
+      "name": "Vårdcenteralen Centrum",
+      "latitude": 59.059079,
+      "longitude": 16.590731
+    },
+    {
+      "name": "Vårdcentral",
+      "latitude": 57.103551,
+      "longitude": 12.246961
+    },
+    {
+      "name": "Vårdcentral",
+      "latitude": 57.703826,
+      "longitude": 14.117347
+    },
+    {
+      "name": "Vårdcentral",
+      "latitude": 59.375437,
+      "longitude": 17.968213
+    },
+    {
+      "name": "Vårdcentral",
+      "latitude": 59.402925,
+      "longitude": 18.350192
+    },
+    {
+      "name": "Vårdcentral",
+      "latitude": 59.51552,
+      "longitude": 17.6438
+    },
+    {
+      "name": "Vårdcentral Bagaregatan",
+      "latitude": 58.748534,
+      "longitude": 17.006243
+    },
+    {
+      "name": "Vårdcentral för hemlösa",
+      "latitude": 57.697392,
+      "longitude": 11.923395
+    },
+    {
+      "name": "Vårdcentral Hjärtat",
+      "latitude": 56.068191,
+      "longitude": 12.719158
+    },
+    {
+      "name": "Vårdcentral Kungshögen",
+      "latitude": 56.836233,
+      "longitude": 13.933887
+    },
+    {
+      "name": "Vårdcentral Kvarnporten",
+      "latitude": 60.598158,
+      "longitude": 15.643577
+    },
+    {
+      "name": "Vårdcentral Njurunda",
+      "latitude": 62.296857,
+      "longitude": 17.378643
+    },
+    {
+      "name": "Vårdcentral och tandläkare",
+      "latitude": 59.352726,
+      "longitude": 13.101715
+    },
+    {
+      "name": "Vårdcentral Skaftö",
+      "latitude": 58.23745,
+      "longitude": 11.456267
+    },
+    {
+      "name": "Vårdcentral Sländan",
+      "latitude": 56.836397,
+      "longitude": 13.934366
+    },
+    {
+      "name": "Vårdcentral Smedjebacken",
+      "latitude": 60.145935,
+      "longitude": 15.410642
+    },
+    {
+      "name": "Vårdcentral Solbrinken",
+      "latitude": 56.166652,
+      "longitude": 13.786901
+    },
+    {
+      "name": "Vårdcentral Stationstorget",
+      "latitude": 55.640488,
+      "longitude": 13.080287
+    },
+    {
+      "name": "Vårdcentral Tisken",
+      "latitude": 60.602752,
+      "longitude": 15.63282
+    },
+    {
+      "name": "Vårdcentral Växjöhälsan",
+      "latitude": 56.906648,
+      "longitude": 14.819143
+    },
+    {
+      "name": "Vårdcentral Åsidan",
+      "latitude": 58.760187,
+      "longitude": 16.999602
+    },
+    {
+      "name": "Vårdcentral, Tandläkare och Äldreboende",
+      "latitude": 65.596998,
+      "longitude": 19.168626
+    },
+    {
+      "name": "Vårdcentralen",
+      "latitude": 55.66353,
+      "longitude": 13.350755
+    },
+    {
+      "name": "Vårdcentralen",
+      "latitude": 58.34963,
+      "longitude": 15.287103
+    },
+    {
+      "name": "Vårdcentralen",
+      "latitude": 59.201212,
+      "longitude": 17.767136
+    },
+    {
+      "name": "Vårdcentralen",
+      "latitude": 60.552462,
+      "longitude": 15.129114
+    },
+    {
+      "name": "Vårdcentralen Achima Care Älmhult",
+      "latitude": 56.547561,
+      "longitude": 14.140992
+    },
+    {
+      "name": "Vårdcentralen Alvesta",
+      "latitude": 56.899796,
+      "longitude": 14.553458
+    },
+    {
+      "name": "Vårdcentralen Andersberg",
+      "latitude": 56.661882,
+      "longitude": 12.898681
+    },
+    {
+      "name": "Vårdcentralen Badhotellet",
+      "latitude": 59.193031,
+      "longitude": 17.625782
+    },
+    {
+      "name": "Vårdcentralen Bohuslinden",
+      "latitude": 58.931404,
+      "longitude": 11.170698
+    },
+    {
+      "name": "Vårdcentralen Bokskogen",
+      "latitude": 55.578039,
+      "longitude": 13.174977
+    },
+    {
+      "name": "Vårdcentralen Borensberg",
+      "latitude": 58.561848,
+      "longitude": 15.277456
+    },
+    {
+      "name": "Vårdcentralen Carlanderska",
+      "latitude": 57.693519,
+      "longitude": 11.986532
+    },
+    {
+      "name": "Vårdcentralen Centrum",
+      "latitude": 55.879446,
+      "longitude": 12.841537
+    },
+    {
+      "name": "Vårdcentralen Centrum",
+      "latitude": 58.388976,
+      "longitude": 13.850499
+    },
+    {
+      "name": "Vårdcentralen Drottninggatan",
+      "latitude": 58.409244,
+      "longitude": 15.630556
+    },
+    {
+      "name": "Vårdcentralen Drottninghög",
+      "latitude": 56.063016,
+      "longitude": 12.729203
+    },
+    {
+      "name": "Vårdcentralen Eda",
+      "latitude": 59.882321,
+      "longitude": 12.307235
+    },
+    {
+      "name": "Vårdcentralen Eden",
+      "latitude": 55.593302,
+      "longitude": 13.010626
+    },
+    {
+      "name": "Vårdcentralen Ekholmen",
+      "latitude": 58.377418,
+      "longitude": 15.680537
+    },
+    {
+      "name": "Vårdcentralen Falkenberg",
+      "latitude": 56.907362,
+      "longitude": 12.501207
+    },
+    {
+      "name": "Vårdcentralen Förslöv",
+      "latitude": 56.349481,
+      "longitude": 12.818438
+    },
+    {
+      "name": "Vårdcentralen Getingen",
+      "latitude": 55.712514,
+      "longitude": 13.196663
+    },
+    {
+      "name": "Vårdcentralen Grebbestad",
+      "latitude": 58.692816,
+      "longitude": 11.253474
+    },
+    {
+      "name": "Vårdcentralen Gripen",
+      "latitude": 59.3829,
+      "longitude": 13.502188
+    },
+    {
+      "name": "Vårdcentralen Gullviksborg",
+      "latitude": 55.567774,
+      "longitude": 13.022729
+    },
+    {
+      "name": "Vårdcentralen Hertig Knut",
+      "latitude": 56.676092,
+      "longitude": 12.857265
+    },
+    {
+      "name": "Vårdcentralen Husensjö",
+      "latitude": 56.049879,
+      "longitude": 12.726263
+    },
+    {
+      "name": "Vårdcentralen Husie",
+      "latitude": 55.580335,
+      "longitude": 13.067707
+    },
+    {
+      "name": "Vårdcentralen Husum-Trehörningsjö",
+      "latitude": 63.33965,
+      "longitude": 19.165193
+    },
+    {
+      "name": "Vårdcentralen Håsten",
+      "latitude": 57.11199,
+      "longitude": 12.279656
+    },
+    {
+      "name": "Vårdcentralen Höör",
+      "latitude": 55.931303,
+      "longitude": 13.547512
+    },
+    {
+      "name": "Vårdcentralen Johannesberg",
+      "latitude": 62.634875,
+      "longitude": 17.931715
+    },
+    {
+      "name": "Vårdcentralen Jägersrohälsan",
+      "latitude": 55.578395,
+      "longitude": 13.065202
+    },
+    {
+      "name": "Vårdcentralen Kasernhöjden",
+      "latitude": 59.387335,
+      "longitude": 13.487699
+    },
+    {
+      "name": "Vårdcentralen Kil",
+      "latitude": 59.49818,
+      "longitude": 13.319913
+    },
+    {
+      "name": "Vårdcentralen Knislinge",
+      "latitude": 56.193033,
+      "longitude": 14.088644
+    },
+    {
+      "name": "Vårdcentralen Kronoparken",
+      "latitude": 59.407085,
+      "longitude": 13.578799
+    },
+    {
+      "name": "Vårdcentralen Kry Älmhult",
+      "latitude": 56.554658,
+      "longitude": 14.134452
+    },
+    {
+      "name": "Vårdcentralen Kryddgården",
+      "latitude": 55.58618,
+      "longitude": 13.048796
+    },
+    {
+      "name": "Vårdcentralen Kungsgatan",
+      "latitude": 58.412923,
+      "longitude": 15.619903
+    },
+    {
+      "name": "Vårdcentralen Kusten",
+      "latitude": 57.86161,
+      "longitude": 11.918567
+    },
+    {
+      "name": "Vårdcentralen Kärna",
+      "latitude": 58.420358,
+      "longitude": 15.50853
+    },
+    {
+      "name": "Vårdcentralen Lagan",
+      "latitude": 56.919516,
+      "longitude": 13.996149
+    },
+    {
+      "name": "Vårdcentralen Lambohov",
+      "latitude": 58.387693,
+      "longitude": 15.563713
+    },
+    {
+      "name": "Vårdcentralen Landborgen",
+      "latitude": 56.057091,
+      "longitude": 12.691885
+    },
+    {
+      "name": "Vårdcentralen Laxen",
+      "latitude": 56.24658,
+      "longitude": 12.857381
+    },
+    {
+      "name": "Vårdcentralen Limhamn",
+      "latitude": 55.587024,
+      "longitude": 12.927603
+    },
+    {
+      "name": "Vårdcentralen Limhamnsläkarna",
+      "latitude": 55.581379,
+      "longitude": 12.933499
+    },
+    {
+      "name": "Vårdcentralen Linero/Östra Torn",
+      "latitude": 55.695151,
+      "longitude": 13.242186
+    },
+    {
+      "name": "Vårdcentralen Linghem",
+      "latitude": 58.42723,
+      "longitude": 15.782426
+    },
+    {
+      "name": "Vårdcentralen Läkarhuset",
+      "latitude": 57.699929,
+      "longitude": 11.978586
+    },
+    {
+      "name": "Vårdcentralen Löddeköpinge",
+      "latitude": 55.75979,
+      "longitude": 13.016097
+    },
+    {
+      "name": "Vårdcentralen Markaryd",
+      "latitude": 56.460328,
+      "longitude": 13.607253
+    },
+    {
+      "name": "Vårdcentralen Mjölby",
+      "latitude": 58.324424,
+      "longitude": 15.123579
+    },
+    {
+      "name": "Vårdcentralen Moheda",
+      "latitude": 57.000709,
+      "longitude": 14.574469
+    },
+    {
+      "name": "Vårdcentralen Molkom",
+      "latitude": 59.599429,
+      "longitude": 13.721655
+    },
+    {
+      "name": "Vårdcentralen Multi Clinic",
+      "latitude": 55.559358,
+      "longitude": 13.013603
+    },
+    {
+      "name": "Vårdcentralen Munkfors",
+      "latitude": 59.831995,
+      "longitude": 13.54313
+    },
+    {
+      "name": "Vårdcentralen Mäster Olof",
+      "latitude": 59.376893,
+      "longitude": 17.034117
+    },
+    {
+      "name": "Vårdcentralen Måsen",
+      "latitude": 55.707751,
+      "longitude": 13.172055
+    },
+    {
+      "name": "Vårdcentralen Nordstan",
+      "latitude": 58.382996,
+      "longitude": 12.323111
+    },
+    {
+      "name": "Vårdcentralen Nygatan",
+      "latitude": 58.409578,
+      "longitude": 15.620947
+    },
+    {
+      "name": "Vårdcentralen Nyhem",
+      "latitude": 56.666406,
+      "longitude": 12.879207
+    },
+    {
+      "name": "Vårdcentralen Näsby",
+      "latitude": 56.060162,
+      "longitude": 14.163111
+    },
+    {
+      "name": "Vårdcentralen Onsala",
+      "latitude": 57.412754,
+      "longitude": 12.016736
+    },
+    {
+      "name": "Vårdcentralen Osby",
+      "latitude": 56.382725,
+      "longitude": 14.008856
+    },
+    {
+      "name": "Vårdcentralen Planteringen",
+      "latitude": 56.028317,
+      "longitude": 12.709191
+    },
+    {
+      "name": "Vårdcentralen Rud",
+      "latitude": 59.405175,
+      "longitude": 13.518619
+    },
+    {
+      "name": "Vårdcentralen Ryd",
+      "latitude": 56.464967,
+      "longitude": 14.692974
+    },
+    {
+      "name": "Vårdcentralen Ryd",
+      "latitude": 58.409708,
+      "longitude": 15.561036
+    },
+    {
+      "name": "Vårdcentralen Rydebäck",
+      "latitude": 55.965897,
+      "longitude": 12.775099
+    },
+    {
+      "name": "Vårdcentralen Råå",
+      "latitude": 56.003721,
+      "longitude": 12.732101
+    },
+    {
+      "name": "Vårdcentralen Sandbyhov",
+      "latitude": 58.604948,
+      "longitude": 16.163355
+    },
+    {
+      "name": "Vårdcentralen Sjöcrona",
+      "latitude": 56.196109,
+      "longitude": 12.576904
+    },
+    {
+      "name": "Vårdcentralen Skoghall",
+      "latitude": 59.32457,
+      "longitude": 13.465252
+    },
+    {
+      "name": "Vårdcentralen Skäggetorp",
+      "latitude": 58.427736,
+      "longitude": 15.583828
+    },
+    {
+      "name": "Vårdcentralen Skänninge",
+      "latitude": 58.388414,
+      "longitude": 15.087906
+    },
+    {
+      "name": "Vårdcentralen Skärblacka",
+      "latitude": 58.580607,
+      "longitude": 15.913734
+    },
+    {
+      "name": "Vårdcentralen Skåre",
+      "latitude": 59.436508,
+      "longitude": 13.439219
+    },
+    {
+      "name": "Vårdcentralen Stadsfjärden",
+      "latitude": 58.745243,
+      "longitude": 17.012855
+    },
+    {
+      "name": "Vårdcentralen Storfors",
+      "latitude": 59.531923,
+      "longitude": 14.276798
+    },
+    {
+      "name": "Vårdcentralen Södertull",
+      "latitude": 55.698088,
+      "longitude": 13.191475
+    },
+    {
+      "name": "Vårdcentralen Söderåsen",
+      "latitude": 56.078823,
+      "longitude": 12.921604
+    },
+    {
+      "name": "Vårdcentralen Tannefors",
+      "latitude": 58.407064,
+      "longitude": 15.641742
+    },
+    {
+      "name": "Vårdcentralen Tingsryd",
+      "latitude": 56.52309,
+      "longitude": 14.981949
+    },
+    {
+      "name": "Vårdcentralen Tollarp",
+      "latitude": 55.934447,
+      "longitude": 13.971573
+    },
+    {
+      "name": "Vårdcentralen Tornet",
+      "latitude": 55.888373,
+      "longitude": 12.825169
+    },
+    {
+      "name": "Vårdcentralen Ullared",
+      "latitude": 57.135094,
+      "longitude": 12.719412
+    },
+    {
+      "name": "Vårdcentralen Unnaryd",
+      "latitude": 56.956297,
+      "longitude": 13.531542
+    },
+    {
+      "name": "Vårdcentralen Valdemarsvik",
+      "latitude": 58.202109,
+      "longitude": 16.591911
+    },
+    {
+      "name": "Vårdcentralen Valla",
+      "latitude": 58.402846,
+      "longitude": 15.604727
+    },
+    {
+      "name": "Vårdcentralen Verkstaden",
+      "latitude": 59.654257,
+      "longitude": 12.601581
+    },
+    {
+      "name": "Vårdcentralen Viken",
+      "latitude": 56.146299,
+      "longitude": 12.578762
+    },
+    {
+      "name": "Vårdcentralen Vilan",
+      "latitude": 56.019203,
+      "longitude": 14.140896
+    },
+    {
+      "name": "Vårdcentralen Vinslöv",
+      "latitude": 56.09492,
+      "longitude": 13.909015
+    },
+    {
+      "name": "Vårdcentralen Vä",
+      "latitude": 56.001075,
+      "longitude": 14.095534
+    },
+    {
+      "name": "Vårdcentralen Åhus",
+      "latitude": 55.928821,
+      "longitude": 14.285054
+    },
+    {
+      "name": "Vårdcentralen Årjäng",
+      "latitude": 59.388464,
+      "longitude": 12.130154
+    },
+    {
+      "name": "Vårdcentralen Åseda",
+      "latitude": 57.170761,
+      "longitude": 15.344909
+    },
+    {
+      "name": "Vårdcentralen Åttkanten",
+      "latitude": 59.381953,
+      "longitude": 13.512739
+    },
+    {
+      "name": "Vårdcentralen Örkelljunga",
+      "latitude": 56.284335,
+      "longitude": 13.278785
+    },
+    {
+      "name": "Vårdcentralen Österbymo",
+      "latitude": 57.825172,
+      "longitude": 15.276556
+    },
+    {
+      "name": "Vårdcentralen Östermalm",
+      "latitude": 56.030167,
+      "longitude": 14.163686
+    },
+    {
+      "name": "Vårdcentralernas jourmottagning",
+      "latitude": 59.271834,
+      "longitude": 15.20775
+    },
+    {
+      "name": "Vårdhuset",
+      "latitude": 55.602414,
+      "longitude": 13.002323
+    },
+    {
+      "name": "Wellness Corner",
+      "latitude": 56.21168,
+      "longitude": 15.275539
+    },
+    {
+      "name": "Wetterhälsan",
+      "latitude": 57.770894,
+      "longitude": 14.15597
+    },
+    {
+      "name": "Wämö vårdcentral",
+      "latitude": 56.182006,
+      "longitude": 15.601496
+    },
+    {
+      "name": "Wästerläkarna",
+      "latitude": 57.670969,
+      "longitude": 11.878973
+    },
+    {
+      "name": "Wästerläkarna Redegatan",
+      "latitude": 57.673177,
+      "longitude": 11.881888
+    },
+    {
+      "name": "Zätagränd",
+      "latitude": 63.177643,
+      "longitude": 14.63595
+    },
+    {
+      "name": "Älvdalens vårdcentral",
+      "latitude": 61.231497,
+      "longitude": 14.040551
+    },
+    {
+      "name": "Älvens Hus",
+      "latitude": 62.519767,
+      "longitude": 17.392352
+    },
+    {
+      "name": "Älvpraktiken",
+      "latitude": 57.868992,
+      "longitude": 11.956288
+    },
+    {
+      "name": "Älvsjö hudmottagning",
+      "latitude": 59.278507,
+      "longitude": 18.009219
+    },
+    {
+      "name": "Älvsjö sexuell hälsa",
+      "latitude": 59.279802,
+      "longitude": 18.009499
+    },
+    {
+      "name": "Älvsjö Vårdcentral",
+      "latitude": 59.279791,
+      "longitude": 18.009449
+    },
+    {
+      "name": "Älvängens Läkarhus",
+      "latitude": 57.962923,
+      "longitude": 12.13201
+    },
+    {
+      "name": "Ängens vårdcentral",
+      "latitude": 59.256969,
+      "longitude": 15.204377
+    },
+    {
+      "name": "Ätstörningsmottagningen Örebro",
+      "latitude": 59.239216,
+      "longitude": 15.164576
+    },
+    {
+      "name": "Åbågen Fysioterapimottagning",
+      "latitude": 59.391036,
+      "longitude": 15.835231
+    },
+    {
+      "name": "Ålidhems hälsocentral/Primärvårdsjouren",
+      "latitude": 63.814982,
+      "longitude": 20.316968
+    },
+    {
+      "name": "Åmål Vårdcentral",
+      "latitude": 59.049106,
+      "longitude": 12.703659
+    },
+    {
+      "name": "Åre Hälsocentral",
+      "latitude": 63.394902,
+      "longitude": 13.096579
+    },
+    {
+      "name": "Åsele sjukstuga",
+      "latitude": 64.160874,
+      "longitude": 17.3599
+    },
+    {
+      "name": "Åsö vårdcentral",
+      "latitude": 59.314056,
+      "longitude": 18.083503
+    },
+    {
+      "name": "Öbacka vårdcentral",
+      "latitude": 62.632003,
+      "longitude": 17.957617
+    },
+    {
+      "name": "Öckerö jourcentral",
+      "latitude": 57.708714,
+      "longitude": 11.65496
+    },
+    {
+      "name": "Ögonklinik Tiberias Eye Center",
+      "latitude": 58.419231,
+      "longitude": 15.618437
+    },
+    {
+      "name": "Ögonmottagningen Linköping",
+      "latitude": 58.396986,
+      "longitude": 15.61431
+    },
+    {
+      "name": "Ögonmottagningen, Sunderby sjukhus",
+      "latitude": 65.67253,
+      "longitude": 21.933212
+    },
+    {
+      "name": "Örestadskliniken",
+      "latitude": 55.585695,
+      "longitude": 12.971125
+    },
+    {
+      "name": "Öresundsläkarna",
+      "latitude": 55.57525,
+      "longitude": 13.047372
+    },
+    {
+      "name": "Örnäsets hälsocentral",
+      "latitude": 65.58204,
+      "longitude": 22.198555
+    },
+    {
+      "name": "Öron näsa hals",
+      "latitude": 59.220193,
+      "longitude": 17.936253
+    },
+    {
+      "name": "Öron-, näs- och halsmottagning",
+      "latitude": 62.407021,
+      "longitude": 17.306397
+    },
+    {
+      "name": "Örsundsbro vårdcentral",
+      "latitude": 59.731727,
+      "longitude": 17.308553
+    },
+    {
+      "name": "Ösmos Vård",
+      "latitude": 58.983429,
+      "longitude": 17.899546
+    },
+    {
+      "name": "Österbybruks vårdcentral",
+      "latitude": 60.198378,
+      "longitude": 17.892371
+    },
+    {
+      "name": "Östervåla Vårdcentral",
+      "latitude": 60.181993,
+      "longitude": 17.186779
+    },
+    {
+      "name": "Östhammars vårdcentral",
+      "latitude": 60.257521,
+      "longitude": 18.364809
+    },
+    {
+      "name": "Östra Läkargruppen Praktikertjänst",
+      "latitude": 56.02862,
+      "longitude": 14.17908
+    },
+    {
+      "name": "Övertorneå Vårdcentral",
+      "latitude": 66.38896,
+      "longitude": 23.652247
+    },
+    {
+      "name": "Öxnehaga vårdcentral",
+      "latitude": 57.774727,
+      "longitude": 14.265397
+    }
+  ],
+  "meta": {
+    "title": "Vårdcentraler i Sverige - Gratis nedladdning",
+    "description": "Vårdcentraler i Sverige (OpenStreetMap-punkter, amenity=clinic). Namn, latitud och longitud (WGS84). 1196 poster. Innehåller 1196 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Vårdcentraler i Sverige | ListBase",
+    "seo_description": "Ladda ner Vårdcentraler i Sverige — 1196 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 1196 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

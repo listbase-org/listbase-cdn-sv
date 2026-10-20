@@ -1,0 +1,1544 @@
+{
+  "id": "sv-sodermanland-valdistrikt-2022",
+  "name": "Valdistrikt i Södermanlands län (val 2022)",
+  "title": "Valdistrikt i Södermanlands län (val 2022)",
+  "description": "186 valdistrikt i Södermanlands län (länskod 04) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 186,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "04280101",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04280102",
+      "valdistrikt_namn": "Norra",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04280104",
+      "valdistrikt_namn": "Södra",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04280105",
+      "valdistrikt_namn": "Högsjö",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04280106",
+      "valdistrikt_namn": "Baggetorp-Marmorbyn",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04280201",
+      "valdistrikt_namn": "Österåker",
+      "kommun_kod": "0428",
+      "kommun_namn": "Vingåker",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04610101",
+      "valdistrikt_namn": "Freja",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04610102",
+      "valdistrikt_namn": "Dansut",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04610103",
+      "valdistrikt_namn": "Gnesta Centralt",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04610104",
+      "valdistrikt_namn": "Frönäs",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04610305",
+      "valdistrikt_namn": "Gåsinge-Dillnäs",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04610406",
+      "valdistrikt_namn": "Björnlunda",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04610506",
+      "valdistrikt_namn": "Gryt",
+      "kommun_kod": "0461",
+      "kommun_namn": "Gnesta",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800001",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800002",
+      "valdistrikt_namn": "Väster",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800003",
+      "valdistrikt_namn": "Nicolai",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800004",
+      "valdistrikt_namn": "Stadsfjärden",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800005",
+      "valdistrikt_namn": "Högbrunn",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800006",
+      "valdistrikt_namn": "Arnö Långsätter",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800007",
+      "valdistrikt_namn": "Arnö Herrhagen",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800008",
+      "valdistrikt_namn": "Rosenhill",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800009",
+      "valdistrikt_namn": "Oppeby",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800010",
+      "valdistrikt_namn": "Oppeby gård",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800011",
+      "valdistrikt_namn": "Alla Helgona",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800012",
+      "valdistrikt_namn": "Öster",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800013",
+      "valdistrikt_namn": "Isaksdal",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800014",
+      "valdistrikt_namn": "Östra Brandkärr",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800015",
+      "valdistrikt_namn": "Ekensberg",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800016",
+      "valdistrikt_namn": "Västra Brandkärr",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800017",
+      "valdistrikt_namn": "Östra Bergen",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800018",
+      "valdistrikt_namn": "Stenkulla",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800019",
+      "valdistrikt_namn": "Rosenkälla",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800020",
+      "valdistrikt_namn": "Brandholmen",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800021",
+      "valdistrikt_namn": "Bryngelstorp",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800022",
+      "valdistrikt_namn": "Ängstugan",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800023",
+      "valdistrikt_namn": "Helgona",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800024",
+      "valdistrikt_namn": "Hagalund",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800025",
+      "valdistrikt_namn": "Svärta",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800026",
+      "valdistrikt_namn": "Tystberga",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800027",
+      "valdistrikt_namn": "Koppartorp",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800028",
+      "valdistrikt_namn": "Nävekvarn",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800029",
+      "valdistrikt_namn": "Bergshammar",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800030",
+      "valdistrikt_namn": "Tuna",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800031",
+      "valdistrikt_namn": "Lunda",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800032",
+      "valdistrikt_namn": "Kila",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800033",
+      "valdistrikt_namn": "Stigtomta Centrum",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800034",
+      "valdistrikt_namn": "Stigtomta Ytterområde",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800035",
+      "valdistrikt_namn": "Vrena",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800036",
+      "valdistrikt_namn": "Råby-Ripsa",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04800037",
+      "valdistrikt_namn": "Runtuna",
+      "kommun_kod": "0480",
+      "kommun_namn": "Nyköping",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04810101",
+      "valdistrikt_namn": "Norra innerstaden",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04810102",
+      "valdistrikt_namn": "Södra innerstaden",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04810103",
+      "valdistrikt_namn": "Dalgången",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04810104",
+      "valdistrikt_namn": "Frösäng",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04810105",
+      "valdistrikt_namn": "Sunda",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04810106",
+      "valdistrikt_namn": "Peterslund",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04810107",
+      "valdistrikt_namn": "Danvik",
+      "kommun_kod": "0481",
+      "kommun_namn": "Oxelösund",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04820101",
+      "valdistrikt_namn": "Flens västra",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04820102",
+      "valdistrikt_namn": "Flens norra",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04820103",
+      "valdistrikt_namn": "Flens östra",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04820104",
+      "valdistrikt_namn": "Flens södra",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04820105",
+      "valdistrikt_namn": "Flens centrum",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04820209",
+      "valdistrikt_namn": "Helgesta-Hyltinge",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04820507",
+      "valdistrikt_namn": "Malmköping västra",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04820508",
+      "valdistrikt_namn": "Malmköping östra",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04820705",
+      "valdistrikt_namn": "Mellösa",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04820706",
+      "valdistrikt_namn": "Hälleforsnäs",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04820810",
+      "valdistrikt_namn": "Bettna",
+      "kommun_kod": "0482",
+      "kommun_namn": "Flen",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830101",
+      "valdistrikt_namn": "Gamla Vattentornet",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830102",
+      "valdistrikt_namn": "Norr City",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830103",
+      "valdistrikt_namn": "Lövåsen",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830104",
+      "valdistrikt_namn": "Järven",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830105",
+      "valdistrikt_namn": "Linnéan",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830106",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830112",
+      "valdistrikt_namn": "Duveholm",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830114",
+      "valdistrikt_namn": "Laggarhult",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830201",
+      "valdistrikt_namn": "Björkvik",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830302",
+      "valdistrikt_namn": "Valla",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830401",
+      "valdistrikt_namn": "Sköldinge-Floda",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830501",
+      "valdistrikt_namn": "Bie",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830601",
+      "valdistrikt_namn": "Forssjö",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830702",
+      "valdistrikt_namn": "Värmbol",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830801",
+      "valdistrikt_namn": "Julita",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830901",
+      "valdistrikt_namn": "Nyhem",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830902",
+      "valdistrikt_namn": "Nävertorp",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830903",
+      "valdistrikt_namn": "Strandvägsområdet",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830904",
+      "valdistrikt_namn": "Skogsborg",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04830905",
+      "valdistrikt_namn": "Oppunda",
+      "kommun_kod": "0483",
+      "kommun_namn": "Katrineholm",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840101",
+      "valdistrikt_namn": "Eskilstuna Centrum Norra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840102",
+      "valdistrikt_namn": "Nyforstorget",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840103",
+      "valdistrikt_namn": "Nyfors Centrum",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840104",
+      "valdistrikt_namn": "Nyfors Östra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840105",
+      "valdistrikt_namn": "Forsbomsvreten",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840106",
+      "valdistrikt_namn": "Västermarksparken",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840107",
+      "valdistrikt_namn": "Västermalm",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840108",
+      "valdistrikt_namn": "Myrtorp",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840109",
+      "valdistrikt_namn": "Fröslunda-Tallåsparken",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840110",
+      "valdistrikt_namn": "Fröslunda-Björkhultsvägen",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840111",
+      "valdistrikt_namn": "Råbergstorp-Lagersberg",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840112",
+      "valdistrikt_namn": "Tunavallen",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840113",
+      "valdistrikt_namn": "Lundby-Gredby",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840114",
+      "valdistrikt_namn": "Ekeby-Brottsta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840115",
+      "valdistrikt_namn": "Stenby",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840116",
+      "valdistrikt_namn": "Mesta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840160",
+      "valdistrikt_namn": "Eskilstuna Centrum S - Rinmansparken",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840217",
+      "valdistrikt_namn": "Köpmangatsområdet",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840218",
+      "valdistrikt_namn": "Slottsbacken",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840219",
+      "valdistrikt_namn": "Stadsparken",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840220",
+      "valdistrikt_namn": "Ekbacken",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840221",
+      "valdistrikt_namn": "Röksta - Eskilshem Västra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840222",
+      "valdistrikt_namn": "Årby - Navigatören",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840223",
+      "valdistrikt_namn": "Årby-Notarien",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840224",
+      "valdistrikt_namn": "Munktellstaden -Valhalla",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840225",
+      "valdistrikt_namn": "Lindhaga",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840226",
+      "valdistrikt_namn": "Slagsta-Måsta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840227",
+      "valdistrikt_namn": "Ärsta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840228",
+      "valdistrikt_namn": "Skiftinge Norra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840229",
+      "valdistrikt_namn": "Skiftinge Södra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840230",
+      "valdistrikt_namn": "Östermalm",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840231",
+      "valdistrikt_namn": "Hisingsbacke",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840232",
+      "valdistrikt_namn": "Sveaplan - Sjukhusområdet",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840233",
+      "valdistrikt_namn": "Balsta - Eskilshem Östra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840234",
+      "valdistrikt_namn": "Eskilsparken",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840235",
+      "valdistrikt_namn": "Söderängsparken",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840236",
+      "valdistrikt_namn": "Lustigbacke",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840237",
+      "valdistrikt_namn": "Snopptorp-Skogsängen",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840238",
+      "valdistrikt_namn": "Viptorp",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840239",
+      "valdistrikt_namn": "Odlaren-Hagnesta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840263",
+      "valdistrikt_namn": "Slagsta Södra - Helgestahill",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840340",
+      "valdistrikt_namn": "Solvik - Kogne - Roxnäs",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840341",
+      "valdistrikt_namn": "Krusgårdsberget",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840342",
+      "valdistrikt_namn": "Gökstensparken",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840343",
+      "valdistrikt_namn": "Holmberget - Rådhustorget",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840344",
+      "valdistrikt_namn": "Edvardslund-Haga",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04840362",
+      "valdistrikt_namn": "Mälarbaden - Mälby - Ängsholmen",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841048",
+      "valdistrikt_namn": "Hällbybrunns Södra - Råby-Rekarne",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841049",
+      "valdistrikt_namn": "Hällbybrunns Norra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841150",
+      "valdistrikt_namn": "Tumbo",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841351",
+      "valdistrikt_namn": "Gillberga-Lista",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841359",
+      "valdistrikt_namn": "Borsökna Västra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841364",
+      "valdistrikt_namn": "Borsökna Östra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841552",
+      "valdistrikt_namn": "Öja-Västermo",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841753",
+      "valdistrikt_namn": "Näshulta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841854",
+      "valdistrikt_namn": "Skogstorp Norra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841855",
+      "valdistrikt_namn": "Skogstorp Södra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841856",
+      "valdistrikt_namn": "Hållsta",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04841957",
+      "valdistrikt_namn": "Stenkvista",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04842058",
+      "valdistrikt_namn": "Ärla",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04842145",
+      "valdistrikt_namn": "Kjula",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04842146",
+      "valdistrikt_namn": "Barva-Jäder",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04842147",
+      "valdistrikt_namn": "Hammarby-Vallby",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04842161",
+      "valdistrikt_namn": "Sundbyholm-Ostra",
+      "kommun_kod": "0484",
+      "kommun_namn": "Eskilstuna",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860101",
+      "valdistrikt_namn": "Eldsund-Tingstuhöjden",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860102",
+      "valdistrikt_namn": "Ulvhäll-Långberget",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860103",
+      "valdistrikt_namn": "Tallåsen-Sörgärdet",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860104",
+      "valdistrikt_namn": "Kyrkberget-Kvarnbacken",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860105",
+      "valdistrikt_namn": "Stadsskogen",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860106",
+      "valdistrikt_namn": "Finninge",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860107",
+      "valdistrikt_namn": "Dammen-Malmby-Löt",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860108",
+      "valdistrikt_namn": "Strängnäs centrum",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860109",
+      "valdistrikt_namn": "Stavlund -Södra Tosterö",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860110",
+      "valdistrikt_namn": "Norra Tosterö - Aspö",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860111",
+      "valdistrikt_namn": "Storgärdet-Sidöparken",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860112",
+      "valdistrikt_namn": "Abborrberget - Sundby",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860401",
+      "valdistrikt_namn": "Mariefred C",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860402",
+      "valdistrikt_namn": "Öster-Ekhov-Kalkudden",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860403",
+      "valdistrikt_namn": "Slottsbrinken-Viggeby",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860404",
+      "valdistrikt_namn": "Marielund-Hedlandet",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860501",
+      "valdistrikt_namn": "Länna",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860601",
+      "valdistrikt_namn": "Åker S",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860602",
+      "valdistrikt_namn": "Åker N",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860701",
+      "valdistrikt_namn": "Toresund",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04860801",
+      "valdistrikt_namn": "Ytterselö-Överselö",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04861301",
+      "valdistrikt_namn": "Härad",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04861401",
+      "valdistrikt_namn": "Vårfruberga",
+      "kommun_kod": "0486",
+      "kommun_namn": "Strängnäs",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04880101",
+      "valdistrikt_namn": "Trosa sydost",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04880102",
+      "valdistrikt_namn": "Trosa sydväst",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04880103",
+      "valdistrikt_namn": "Trosa södra",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04880104",
+      "valdistrikt_namn": "Trosa centrum",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04880105",
+      "valdistrikt_namn": "Trosa nordväst",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04880106",
+      "valdistrikt_namn": "Trosa norra",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04880201",
+      "valdistrikt_namn": "Vagnhärad norra",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04880202",
+      "valdistrikt_namn": "Vagnhärad södra",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04880203",
+      "valdistrikt_namn": "Vagnhärad västra",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04880204",
+      "valdistrikt_namn": "Vagnhärad östra",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    },
+    {
+      "valdistrikt_kod": "04880301",
+      "valdistrikt_namn": "Västerljung",
+      "kommun_kod": "0488",
+      "kommun_namn": "Trosa",
+      "lan_kod": "04",
+      "lan_namn": "Södermanlands län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Södermanlands län (val 2022) - Gratis nedladdning",
+    "description": "186 valdistrikt i Södermanlands län (länskod 04) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 186 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Södermanlands län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Södermanlands län (val 2022) — 186 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 186 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

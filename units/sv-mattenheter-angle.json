@@ -1,0 +1,115 @@
+{
+  "id": "sv-mattenheter-angle",
+  "name": "Måttenheter – kategori 'angle' (6)",
+  "title": "Måttenheter – kategori 'angle' (6)",
+  "description": "Måttenheter i kategorin 'angle' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "angle-arc-minute",
+      "kategori": "angle",
+      "namn": "bågminuter",
+      "forkortning": "bågminuter",
+      "smal_form": "bågmin",
+      "monster": "{0} bågminuter"
+    },
+    {
+      "id": 2,
+      "unit_code": "angle-arc-second",
+      "kategori": "angle",
+      "namn": "bågsekunder",
+      "forkortning": "bågsekunder",
+      "smal_form": "bågsek",
+      "monster": "{0} bågsekunder"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-degree",
+      "kategori": "angle",
+      "namn": "grader",
+      "forkortning": "grader",
+      "smal_form": "°",
+      "monster": "{0} grader"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-radian",
+      "kategori": "angle",
+      "namn": "radianer",
+      "forkortning": "radianer",
+      "smal_form": "rad",
+      "monster": "{0} radianer"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-revolution",
+      "kategori": "angle",
+      "namn": "varv",
+      "forkortning": "varv",
+      "smal_form": "varv",
+      "monster": "{0} varv"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-steradian",
+      "kategori": "angle",
+      "namn": "steradianer",
+      "forkortning": "sr",
+      "smal_form": "sr",
+      "monster": "{0} steradianer"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'angle' (6) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'angle' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 6 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'angle' (6) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'angle' (6) — 6 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 6 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,779 @@
+{
+  "id": "sv-vastmanland-regso",
+  "name": "RegSO-områden i Västmanlands län",
+  "title": "RegSO-områden i Västmanlands län",
+  "description": "104 regionala statistikområden (RegSO) i Västmanlands län (länskod 19). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "1904R001",
+      "regso_namn": "Skinnskatteberg centralort",
+      "kommun_kod": "1904",
+      "kommun_namn": "Skinnskatteberg",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1904R002",
+      "regso_namn": "Skinnskatteberg ytterområden",
+      "kommun_kod": "1904",
+      "kommun_namn": "Skinnskatteberg",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1907R001",
+      "regso_namn": "Bruket",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1907R002",
+      "regso_namn": "Dalskogen",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1907R003",
+      "regso_namn": "Ramnäs",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1907R004",
+      "regso_namn": "Skogslund",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1907R005",
+      "regso_namn": "Stavtorpet",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1907R006",
+      "regso_namn": "Surahammars landsbygd",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1907R007",
+      "regso_namn": "Virsbo",
+      "kommun_kod": "1907",
+      "kommun_namn": "Surahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1960R001",
+      "regso_namn": "Granhammar-Torpa",
+      "kommun_kod": "1960",
+      "kommun_namn": "Kungsör",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1960R002",
+      "regso_namn": "Kungsör centrala",
+      "kommun_kod": "1960",
+      "kommun_namn": "Kungsör",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1960R003",
+      "regso_namn": "Kungsör norra",
+      "kommun_kod": "1960",
+      "kommun_namn": "Kungsör",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1960R004",
+      "regso_namn": "Kungsör södra",
+      "kommun_kod": "1960",
+      "kommun_namn": "Kungsör",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1960R005",
+      "regso_namn": "Valskog-Kungs Barkarö",
+      "kommun_kod": "1960",
+      "kommun_namn": "Kungsör",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1961R001",
+      "regso_namn": "Barnängen-Centrum-Trollebo",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1961R002",
+      "regso_namn": "Duvhällarna-Fredhem",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1961R003",
+      "regso_namn": "Hallstahammar-Kolbäck landsbygd",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1961R004",
+      "regso_namn": "Kolbäck-Sörstafors",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1961R005",
+      "regso_namn": "Nibble-Lövboås",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1961R006",
+      "regso_namn": "Näs-Lustigkulla",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1961R007",
+      "regso_namn": "Strömsholm-Säby",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1961R008",
+      "regso_namn": "Surbrunnsvägen-Tuna",
+      "kommun_kod": "1961",
+      "kommun_namn": "Hallstahammar",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1962R001",
+      "regso_namn": "Norberg norra",
+      "kommun_kod": "1962",
+      "kommun_namn": "Norberg",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1962R002",
+      "regso_namn": "Norberg omland",
+      "kommun_kod": "1962",
+      "kommun_namn": "Norberg",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1962R003",
+      "regso_namn": "Norberg västra",
+      "kommun_kod": "1962",
+      "kommun_namn": "Norberg",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1962R004",
+      "regso_namn": "Norberg östra",
+      "kommun_kod": "1962",
+      "kommun_namn": "Norberg",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R001",
+      "regso_namn": "Annedal-Sydvästra centrum",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R002",
+      "regso_namn": "Aroslund-Karlsdal",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R003",
+      "regso_namn": "Blåsbo-Norrmalm",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R004",
+      "regso_namn": "Brottberga-Norra Vallby",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R005",
+      "regso_namn": "Dingtuna",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R006",
+      "regso_namn": "Enhagen-Barkarö",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R007",
+      "regso_namn": "Erikslund-Eriksborg-Hagaberg",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R008",
+      "regso_namn": "Finnslätten-Norra Bjurhovda",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R009",
+      "regso_namn": "Framnäs-Talltorp-Hässlö",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R010",
+      "regso_namn": "Gideonsberg-Emaus",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R011",
+      "regso_namn": "Hacksta-Stohagen",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R012",
+      "regso_namn": "Haga-Sandgärdet",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R013",
+      "regso_namn": "Hammarby Stadshage-Östra Hammarby-Södra Vetterstorp",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R014",
+      "regso_namn": "Hemdal-Klockartorpet",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R015",
+      "regso_namn": "Herrgärdet-Kyrkbacken",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R016",
+      "regso_namn": "Hökåsen-Hökåsen omland",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R017",
+      "regso_namn": "Irsta",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R018",
+      "regso_namn": "Kopparlunden-Östermalm",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R019",
+      "regso_namn": "Kvicksund",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R020",
+      "regso_namn": "Malmaberg",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R021",
+      "regso_namn": "Nordanby Gärde-Norra Gideonsberg",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R022",
+      "regso_namn": "Norra Brandthovda-Tibble",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R023",
+      "regso_namn": "Norra Skallberget-Nordanby",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R024",
+      "regso_namn": "Rönnby-Billsta-Åshagen",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R025",
+      "regso_namn": "Skiljeboplatsen",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R026",
+      "regso_namn": "Skiljebo-Södra Brandthovda-Hälla",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R027",
+      "regso_namn": "Skultuna",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R028",
+      "regso_namn": "Sydvästra Bjurhovda",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R029",
+      "regso_namn": "Södra Gryta",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R030",
+      "regso_namn": "Södra Jakobsberg",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R031",
+      "regso_namn": "Södra Skallberget",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R032",
+      "regso_namn": "Tillberga",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R033",
+      "regso_namn": "Vega-Tunby-Sydvästra Nordanby",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R034",
+      "regso_namn": "Vetterslund-Nordöstra Råby",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R035",
+      "regso_namn": "Västerås norra landsbygd",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R036",
+      "regso_namn": "Västerås västra landsbygd",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R037",
+      "regso_namn": "Västerås östra landsbygd",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R038",
+      "regso_namn": "Västra Bäckby-Nordöstra Skälby",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R039",
+      "regso_namn": "Västra centrum-Västermalm-Almelund",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R040",
+      "regso_namn": "Västra Hammarby",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R041",
+      "regso_namn": "Västra Pettersberg-Södra Vallby-Källtorp",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R042",
+      "regso_namn": "Västra Råby",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R043",
+      "regso_namn": "Västra Skälby",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R044",
+      "regso_namn": "Västra Viksäng-Kungsängen-Ängsgärdet",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R045",
+      "regso_namn": "Önsta-Norra Gryta-Stenby",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R046",
+      "regso_namn": "Östra Bäckby",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R047",
+      "regso_namn": "Östra hamnen-Öster Mälarstrand",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R048",
+      "regso_namn": "Östra Pettersberg-Trumslagarbacken-Lustigkulla",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R049",
+      "regso_namn": "Östra Råby-Norra Vetterstorp",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1980R050",
+      "regso_namn": "Östra Viksäng",
+      "kommun_kod": "1980",
+      "kommun_namn": "Västerås",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1981R001",
+      "regso_namn": "Sala centralt",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1981R002",
+      "regso_namn": "Sala omland norra",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1981R003",
+      "regso_namn": "Sala omland södra",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1981R004",
+      "regso_namn": "Sala stad övriga",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1981R005",
+      "regso_namn": "Åkra-Jakobsberg-Bryggeriet",
+      "kommun_kod": "1981",
+      "kommun_namn": "Sala",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1982R001",
+      "regso_namn": "Fagersta centrum",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1982R002",
+      "regso_namn": "Per Ols",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1982R003",
+      "regso_namn": "Västanfors västra-Hedkärra",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1982R004",
+      "regso_namn": "Västanfors östra-Meling",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1982R005",
+      "regso_namn": "Åvestbo-Ängelsberg-Ulvsbo",
+      "kommun_kod": "1982",
+      "kommun_namn": "Fagersta",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1983R001",
+      "regso_namn": "Kolsva",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1983R002",
+      "regso_namn": "Köping centrala",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1983R003",
+      "regso_namn": "Köping nordväst",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1983R004",
+      "regso_namn": "Köping sydväst",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1983R005",
+      "regso_namn": "Köping västra omland",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1983R006",
+      "regso_namn": "Köping östra omland",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1983R007",
+      "regso_namn": "Nibblesbacke",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1983R008",
+      "regso_namn": "Skogsborg",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1983R009",
+      "regso_namn": "Östanås-Johannisdal",
+      "kommun_kod": "1983",
+      "kommun_namn": "Köping",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1984R001",
+      "regso_namn": "Arboga landsbyggd norr",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1984R002",
+      "regso_namn": "Arboga landsbyggd syd",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1984R003",
+      "regso_namn": "Grindberga-Anneberg",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1984R004",
+      "regso_namn": "Ladubackgärdena-Prästgärdet",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1984R005",
+      "regso_namn": "Nästkvarn-Studrestaden",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1984R006",
+      "regso_namn": "Sjukhusgärdet-Ekbacken",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1984R007",
+      "regso_namn": "Strömsnäs-Brattberget",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1984R008",
+      "regso_namn": "Vasastaden-Marieborg-Näsby",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19"
+    },
+    {
+      "regso_kod": "1984R009",
+      "regso_namn": "Vinbäcken-Åbrinken-Söder",
+      "kommun_kod": "1984",
+      "kommun_namn": "Arboga",
+      "lan_kod": "19"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Västmanlands län - Gratis nedladdning",
+    "description": "104 regionala statistikområden (RegSO) i Västmanlands län (länskod 19). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 104 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Västmanlands län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Västmanlands län — 104 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 104 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

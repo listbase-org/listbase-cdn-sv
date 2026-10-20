@@ -1,0 +1,2140 @@
+{
+  "id": "sv-mattenheter",
+  "name": "Måttenheter – namn på svenska (CLDR)",
+  "title": "Måttenheter – namn på svenska (CLDR)",
+  "description": "Lista över måttenheter i den svenska (sv) språkinställningen i CLDR – med fullständigt namn (namn), förkortning (forkortning), smal form (smal_form) och visningsmönster (monster).",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 231,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategori": "acceleration",
+      "namn": "g-kraft",
+      "forkortning": "g-kraft",
+      "smal_form": "G",
+      "monster": "{0} g-kraft"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategori": "acceleration",
+      "namn": "meter per kvadratsekund",
+      "forkortning": "m/s²",
+      "smal_form": "m/s²",
+      "monster": "{0} meter per kvadratsekund"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-arc-minute",
+      "kategori": "angle",
+      "namn": "bågminuter",
+      "forkortning": "bågminuter",
+      "smal_form": "bågmin",
+      "monster": "{0} bågminuter"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-arc-second",
+      "kategori": "angle",
+      "namn": "bågsekunder",
+      "forkortning": "bågsekunder",
+      "smal_form": "bågsek",
+      "monster": "{0} bågsekunder"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-degree",
+      "kategori": "angle",
+      "namn": "grader",
+      "forkortning": "grader",
+      "smal_form": "°",
+      "monster": "{0} grader"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-radian",
+      "kategori": "angle",
+      "namn": "radianer",
+      "forkortning": "radianer",
+      "smal_form": "rad",
+      "monster": "{0} radianer"
+    },
+    {
+      "id": 7,
+      "unit_code": "angle-revolution",
+      "kategori": "angle",
+      "namn": "varv",
+      "forkortning": "varv",
+      "smal_form": "varv",
+      "monster": "{0} varv"
+    },
+    {
+      "id": 8,
+      "unit_code": "angle-steradian",
+      "kategori": "angle",
+      "namn": "steradianer",
+      "forkortning": "sr",
+      "smal_form": "sr",
+      "monster": "{0} steradianer"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-acre",
+      "kategori": "area",
+      "namn": "engelska tunnland",
+      "forkortning": "eng. tunnland",
+      "smal_form": "eng. tunnland",
+      "monster": "{0} engelska tunnland"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-bu-jp",
+      "kategori": "area",
+      "namn": "bu [JP]",
+      "forkortning": "bu [JP]",
+      "smal_form": "bu [JP]",
+      "monster": "{0} bu [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-cho",
+      "kategori": "area",
+      "namn": "cho [JP]",
+      "forkortning": "cho [JP]",
+      "smal_form": "cho [JP]",
+      "monster": "{0} cho [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-dunam",
+      "kategori": "area",
+      "namn": "dunam",
+      "forkortning": "dunam",
+      "smal_form": "dunam",
+      "monster": "{0} dunam"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-hectare",
+      "kategori": "area",
+      "namn": "hektar",
+      "forkortning": "hektar",
+      "smal_form": "ha",
+      "monster": "{0} hektar"
+    },
+    {
+      "id": 14,
+      "unit_code": "area-se-jp",
+      "kategori": "area",
+      "namn": "se [JP]",
+      "forkortning": "se [JP]",
+      "smal_form": "se [JP]",
+      "monster": "{0} se [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "area-square-centimeter",
+      "kategori": "area",
+      "namn": "kvadratcentimeter",
+      "forkortning": "cm²",
+      "smal_form": "cm²",
+      "monster": "{0} kvadratcentimeter"
+    },
+    {
+      "id": 16,
+      "unit_code": "area-square-foot",
+      "kategori": "area",
+      "namn": "kvadratfot",
+      "forkortning": "kv.fot",
+      "smal_form": "fot²",
+      "monster": "{0} kvadratfot"
+    },
+    {
+      "id": 17,
+      "unit_code": "area-square-inch",
+      "kategori": "area",
+      "namn": "kvadrattum",
+      "forkortning": "tum²",
+      "smal_form": "tum²",
+      "monster": "{0} kvadrattum"
+    },
+    {
+      "id": 18,
+      "unit_code": "area-square-kilometer",
+      "kategori": "area",
+      "namn": "kvadratkilometer",
+      "forkortning": "km²",
+      "smal_form": "km²",
+      "monster": "{0} kvadratkilometer"
+    },
+    {
+      "id": 19,
+      "unit_code": "area-square-meter",
+      "kategori": "area",
+      "namn": "kvadratmeter",
+      "forkortning": "m²",
+      "smal_form": "m²",
+      "monster": "{0} kvadratmeter"
+    },
+    {
+      "id": 20,
+      "unit_code": "area-square-mile",
+      "kategori": "area",
+      "namn": "kvadratmile",
+      "forkortning": "kvadratmile",
+      "smal_form": "mi²",
+      "monster": "{0} kvadratmile"
+    },
+    {
+      "id": 21,
+      "unit_code": "area-square-yard",
+      "kategori": "area",
+      "namn": "kvadratyard",
+      "forkortning": "yard²",
+      "smal_form": "yd²",
+      "monster": "{0} kvadratyard"
+    },
+    {
+      "id": 22,
+      "unit_code": "concentr-item",
+      "kategori": "concentr",
+      "namn": "objekt",
+      "forkortning": "objekt",
+      "smal_form": "objekt",
+      "monster": "{0} objekt"
+    },
+    {
+      "id": 23,
+      "unit_code": "concentr-karat",
+      "kategori": "concentr",
+      "namn": "karat",
+      "forkortning": "karat",
+      "smal_form": "karat",
+      "monster": "{0} karat"
+    },
+    {
+      "id": 24,
+      "unit_code": "concentr-katal",
+      "kategori": "concentr",
+      "namn": "katal",
+      "forkortning": "kat",
+      "smal_form": "kat",
+      "monster": "{0} katal"
+    },
+    {
+      "id": 25,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategori": "concentr",
+      "namn": "milligram per deciliter",
+      "forkortning": "mg/dl",
+      "smal_form": "mg/dl",
+      "monster": "{0} milligram per deciliter"
+    },
+    {
+      "id": 26,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategori": "concentr",
+      "namn": "millimol per liter",
+      "forkortning": "mmol/l",
+      "smal_form": "mmol/l",
+      "monster": "{0} millimol per liter"
+    },
+    {
+      "id": 27,
+      "unit_code": "concentr-mole",
+      "kategori": "concentr",
+      "namn": "mol",
+      "forkortning": "mol",
+      "smal_form": "mol",
+      "monster": "{0} mol"
+    },
+    {
+      "id": 28,
+      "unit_code": "concentr-ofglucose",
+      "kategori": "concentr",
+      "namn": "glukos",
+      "forkortning": "glc",
+      "smal_form": "glc",
+      "monster": "{0} glukos"
+    },
+    {
+      "id": 29,
+      "unit_code": "concentr-part",
+      "kategori": "concentr",
+      "namn": "delar",
+      "forkortning": "del",
+      "smal_form": "del",
+      "monster": "{0} delar"
+    },
+    {
+      "id": 30,
+      "unit_code": "concentr-part-per-1e6",
+      "kategori": "concentr",
+      "namn": "miljondelar",
+      "forkortning": "miljondelar",
+      "smal_form": "miljondelar",
+      "monster": "{0} miljondelar"
+    },
+    {
+      "id": 31,
+      "unit_code": "concentr-part-per-1e9",
+      "kategori": "concentr",
+      "namn": "miljarddelar",
+      "forkortning": "ppb",
+      "smal_form": "ppb",
+      "monster": "{0} miljarddelar"
+    },
+    {
+      "id": 32,
+      "unit_code": "concentr-percent",
+      "kategori": "concentr",
+      "namn": "procent",
+      "forkortning": "%",
+      "smal_form": "%",
+      "monster": "{0} procent"
+    },
+    {
+      "id": 33,
+      "unit_code": "concentr-permille",
+      "kategori": "concentr",
+      "namn": "promille",
+      "forkortning": "‰",
+      "smal_form": "‰",
+      "monster": "{0} promille"
+    },
+    {
+      "id": 34,
+      "unit_code": "concentr-permyriad",
+      "kategori": "concentr",
+      "namn": "promyriad",
+      "forkortning": "‱",
+      "smal_form": "‱",
+      "monster": "{0} promyriad"
+    },
+    {
+      "id": 35,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategori": "consumption",
+      "namn": "liter per 100 kilometer",
+      "forkortning": "l/100 km",
+      "smal_form": "l/100 km",
+      "monster": "{0} liter per 100 kilometer"
+    },
+    {
+      "id": 36,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategori": "consumption",
+      "namn": "liter per kilometer",
+      "forkortning": "liter/km",
+      "smal_form": "l/km",
+      "monster": "{0} liter per kilometer"
+    },
+    {
+      "id": 37,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategori": "consumption",
+      "namn": "miles per gallon",
+      "forkortning": "mpg",
+      "smal_form": "mpg",
+      "monster": "{0} miles per gallon"
+    },
+    {
+      "id": 38,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategori": "consumption",
+      "namn": "UK mpg",
+      "forkortning": "UK mpg",
+      "smal_form": "UK mpg",
+      "monster": "{0} UK mil/gn"
+    },
+    {
+      "id": 39,
+      "unit_code": "digital-bit",
+      "kategori": "digital",
+      "namn": "bit",
+      "forkortning": "b",
+      "smal_form": "b",
+      "monster": "{0} bit"
+    },
+    {
+      "id": 40,
+      "unit_code": "digital-byte",
+      "kategori": "digital",
+      "namn": "byte",
+      "forkortning": "byte",
+      "smal_form": "B",
+      "monster": "{0} byte"
+    },
+    {
+      "id": 41,
+      "unit_code": "digital-gigabit",
+      "kategori": "digital",
+      "namn": "gigabit",
+      "forkortning": "Gb",
+      "smal_form": "Gb",
+      "monster": "{0} gigabit"
+    },
+    {
+      "id": 42,
+      "unit_code": "digital-gigabyte",
+      "kategori": "digital",
+      "namn": "gigabyte",
+      "forkortning": "GB",
+      "smal_form": "GB",
+      "monster": "{0} gigabyte"
+    },
+    {
+      "id": 43,
+      "unit_code": "digital-kilobit",
+      "kategori": "digital",
+      "namn": "kilobit",
+      "forkortning": "kb",
+      "smal_form": "kb",
+      "monster": "{0} kilobit"
+    },
+    {
+      "id": 44,
+      "unit_code": "digital-kilobyte",
+      "kategori": "digital",
+      "namn": "kilobyte",
+      "forkortning": "kB",
+      "smal_form": "kB",
+      "monster": "{0} kilobyte"
+    },
+    {
+      "id": 45,
+      "unit_code": "digital-megabit",
+      "kategori": "digital",
+      "namn": "megabit",
+      "forkortning": "Mb",
+      "smal_form": "Mb",
+      "monster": "{0} megabit"
+    },
+    {
+      "id": 46,
+      "unit_code": "digital-megabyte",
+      "kategori": "digital",
+      "namn": "megabyte",
+      "forkortning": "MB",
+      "smal_form": "MB",
+      "monster": "{0} megabyte"
+    },
+    {
+      "id": 47,
+      "unit_code": "digital-petabyte",
+      "kategori": "digital",
+      "namn": "petabyte",
+      "forkortning": "PB",
+      "smal_form": "PB",
+      "monster": "{0} petabyte"
+    },
+    {
+      "id": 48,
+      "unit_code": "digital-terabit",
+      "kategori": "digital",
+      "namn": "terabit",
+      "forkortning": "Tb",
+      "smal_form": "Tb",
+      "monster": "{0} terabit"
+    },
+    {
+      "id": 49,
+      "unit_code": "digital-terabyte",
+      "kategori": "digital",
+      "namn": "terabyte",
+      "forkortning": "TB",
+      "smal_form": "TB",
+      "monster": "{0} terabyte"
+    },
+    {
+      "id": 50,
+      "unit_code": "duration-century",
+      "kategori": "duration",
+      "namn": "århundraden",
+      "forkortning": "årh",
+      "smal_form": "årh",
+      "monster": "{0} århundraden"
+    },
+    {
+      "id": 51,
+      "unit_code": "duration-day",
+      "kategori": "duration",
+      "namn": "dygn",
+      "forkortning": "dygn",
+      "smal_form": "d",
+      "monster": "{0} dygn"
+    },
+    {
+      "id": 52,
+      "unit_code": "duration-decade",
+      "kategori": "duration",
+      "namn": "årtionden",
+      "forkortning": "årt",
+      "smal_form": "årt",
+      "monster": "{0} årtionden"
+    },
+    {
+      "id": 53,
+      "unit_code": "duration-fortnight",
+      "kategori": "duration",
+      "namn": "fortnight",
+      "forkortning": "fortnight",
+      "smal_form": "fortnight",
+      "monster": "{0} fw"
+    },
+    {
+      "id": 54,
+      "unit_code": "duration-hour",
+      "kategori": "duration",
+      "namn": "timmar",
+      "forkortning": "tim",
+      "smal_form": "h",
+      "monster": "{0} timmar"
+    },
+    {
+      "id": 55,
+      "unit_code": "duration-microsecond",
+      "kategori": "duration",
+      "namn": "mikrosekunder",
+      "forkortning": "μs",
+      "smal_form": "μs",
+      "monster": "{0} mikrosekunder"
+    },
+    {
+      "id": 56,
+      "unit_code": "duration-millisecond",
+      "kategori": "duration",
+      "namn": "millisekunder",
+      "forkortning": "ms",
+      "smal_form": "ms",
+      "monster": "{0} millisekunder"
+    },
+    {
+      "id": 57,
+      "unit_code": "duration-minute",
+      "kategori": "duration",
+      "namn": "minuter",
+      "forkortning": "min",
+      "smal_form": "m",
+      "monster": "{0} minuter"
+    },
+    {
+      "id": 58,
+      "unit_code": "duration-month",
+      "kategori": "duration",
+      "namn": "månader",
+      "forkortning": "mån",
+      "smal_form": "m",
+      "monster": "{0} månader"
+    },
+    {
+      "id": 59,
+      "unit_code": "duration-nanosecond",
+      "kategori": "duration",
+      "namn": "nanosekunder",
+      "forkortning": "ns",
+      "smal_form": "ns",
+      "monster": "{0} nanosekunder"
+    },
+    {
+      "id": 60,
+      "unit_code": "duration-night",
+      "kategori": "duration",
+      "namn": "nätter",
+      "forkortning": "nätter",
+      "smal_form": "nttr",
+      "monster": "{0} nätter"
+    },
+    {
+      "id": 61,
+      "unit_code": "duration-quarter",
+      "kategori": "duration",
+      "namn": "kvartal",
+      "forkortning": "kv",
+      "smal_form": "kv",
+      "monster": "{0} kvartal"
+    },
+    {
+      "id": 62,
+      "unit_code": "duration-second",
+      "kategori": "duration",
+      "namn": "sekunder",
+      "forkortning": "sek",
+      "smal_form": "sek",
+      "monster": "{0} sekunder"
+    },
+    {
+      "id": 63,
+      "unit_code": "duration-week",
+      "kategori": "duration",
+      "namn": "veckor",
+      "forkortning": "vkr",
+      "smal_form": "v",
+      "monster": "{0} veckor"
+    },
+    {
+      "id": 64,
+      "unit_code": "duration-year",
+      "kategori": "duration",
+      "namn": "år",
+      "forkortning": "år",
+      "smal_form": "år",
+      "monster": "{0} år"
+    },
+    {
+      "id": 65,
+      "unit_code": "electric-ampere",
+      "kategori": "electric",
+      "namn": "ampere",
+      "forkortning": "A",
+      "smal_form": "A",
+      "monster": "{0} ampere"
+    },
+    {
+      "id": 66,
+      "unit_code": "electric-coulomb",
+      "kategori": "electric",
+      "namn": "coulomb",
+      "forkortning": "C",
+      "smal_form": "C",
+      "monster": "{0} coulomb"
+    },
+    {
+      "id": 67,
+      "unit_code": "electric-farad",
+      "kategori": "electric",
+      "namn": "farad",
+      "forkortning": "F",
+      "smal_form": "F",
+      "monster": "{0} farad"
+    },
+    {
+      "id": 68,
+      "unit_code": "electric-henry",
+      "kategori": "electric",
+      "namn": "henry",
+      "forkortning": "H",
+      "smal_form": "H",
+      "monster": "{0} henry"
+    },
+    {
+      "id": 69,
+      "unit_code": "electric-milliampere",
+      "kategori": "electric",
+      "namn": "milliampere",
+      "forkortning": "mA",
+      "smal_form": "mA",
+      "monster": "{0} milliampere"
+    },
+    {
+      "id": 70,
+      "unit_code": "electric-ohm",
+      "kategori": "electric",
+      "namn": "ohm",
+      "forkortning": "ohm",
+      "smal_form": "Ω",
+      "monster": "{0} ohm"
+    },
+    {
+      "id": 71,
+      "unit_code": "electric-siemens",
+      "kategori": "electric",
+      "namn": "siemens",
+      "forkortning": "S",
+      "smal_form": "S",
+      "monster": "{0} siemens"
+    },
+    {
+      "id": 72,
+      "unit_code": "electric-volt",
+      "kategori": "electric",
+      "namn": "volt",
+      "forkortning": "volt",
+      "smal_form": "V",
+      "monster": "{0} volt"
+    },
+    {
+      "id": 73,
+      "unit_code": "energy-becquerel",
+      "kategori": "energy",
+      "namn": "becquerel",
+      "forkortning": "Bq",
+      "smal_form": "Bq",
+      "monster": "{0} becquerel"
+    },
+    {
+      "id": 74,
+      "unit_code": "energy-british-thermal-unit",
+      "kategori": "energy",
+      "namn": "British thermal units",
+      "forkortning": "BTU",
+      "smal_form": "BTU",
+      "monster": "{0} British thermal units"
+    },
+    {
+      "id": 75,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategori": "energy",
+      "namn": "BTU-IT",
+      "forkortning": "BTU-IT",
+      "smal_form": "BTU-IT",
+      "monster": "{0} BTU-IT"
+    },
+    {
+      "id": 76,
+      "unit_code": "energy-calorie",
+      "kategori": "energy",
+      "namn": "kalorier",
+      "forkortning": "cal",
+      "smal_form": "cal",
+      "monster": "{0} kalorier"
+    },
+    {
+      "id": 77,
+      "unit_code": "energy-calorie-it",
+      "kategori": "energy",
+      "namn": "IT-kalorier",
+      "forkortning": "cal IT",
+      "smal_form": "calIT",
+      "monster": "{0} IT-kalorier"
+    },
+    {
+      "id": 78,
+      "unit_code": "energy-electronvolt",
+      "kategori": "energy",
+      "namn": "elektronvolt",
+      "forkortning": "eV",
+      "smal_form": "eV",
+      "monster": "{0} elektronvolt"
+    },
+    {
+      "id": 79,
+      "unit_code": "energy-foodcalorie",
+      "kategori": "energy",
+      "namn": "kilokalorier",
+      "forkortning": "",
+      "smal_form": "",
+      "monster": "{0} kilokalorier"
+    },
+    {
+      "id": 80,
+      "unit_code": "energy-gray",
+      "kategori": "energy",
+      "namn": "gray",
+      "forkortning": "Gy",
+      "smal_form": "Gy",
+      "monster": "{0} gray"
+    },
+    {
+      "id": 81,
+      "unit_code": "energy-joule",
+      "kategori": "energy",
+      "namn": "joule",
+      "forkortning": "J",
+      "smal_form": "J",
+      "monster": "{0} joule"
+    },
+    {
+      "id": 82,
+      "unit_code": "energy-kilocalorie",
+      "kategori": "energy",
+      "namn": "kilokalorier",
+      "forkortning": "kcal",
+      "smal_form": "kcal",
+      "monster": "{0} kilokalorier"
+    },
+    {
+      "id": 83,
+      "unit_code": "energy-kilojoule",
+      "kategori": "energy",
+      "namn": "kilojoule",
+      "forkortning": "kJ",
+      "smal_form": "kJ",
+      "monster": "{0} kilojoule"
+    },
+    {
+      "id": 84,
+      "unit_code": "energy-kilowatt-hour",
+      "kategori": "energy",
+      "namn": "kilowattimmar",
+      "forkortning": "kWh",
+      "smal_form": "kWh",
+      "monster": "{0} kilowattimmar"
+    },
+    {
+      "id": 85,
+      "unit_code": "energy-sievert",
+      "kategori": "energy",
+      "namn": "sievert",
+      "forkortning": "Sv",
+      "smal_form": "Sv",
+      "monster": "{0} sievert"
+    },
+    {
+      "id": 86,
+      "unit_code": "energy-therm-us",
+      "kategori": "energy",
+      "namn": "am. therm",
+      "forkortning": "am. therm",
+      "smal_form": "am. therm",
+      "monster": "{0} am. therms"
+    },
+    {
+      "id": 87,
+      "unit_code": "force-kilogram-force",
+      "kategori": "force",
+      "namn": "kilogramkraft",
+      "forkortning": "kgf",
+      "smal_form": "kgf",
+      "monster": "{0} kilogramkrafter"
+    },
+    {
+      "id": 88,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategori": "force",
+      "namn": "kWh/100 km",
+      "forkortning": "kWh/100 km",
+      "smal_form": "kWh/100 km",
+      "monster": "{0} kWh/100 km"
+    },
+    {
+      "id": 89,
+      "unit_code": "force-newton",
+      "kategori": "force",
+      "namn": "newton",
+      "forkortning": "newton",
+      "smal_form": "newton",
+      "monster": "{0} newton"
+    },
+    {
+      "id": 90,
+      "unit_code": "force-pound-force",
+      "kategori": "force",
+      "namn": "pounds of force",
+      "forkortning": "pound-force",
+      "smal_form": "pound-force",
+      "monster": "{0} pounds of force"
+    },
+    {
+      "id": 91,
+      "unit_code": "frequency-gigahertz",
+      "kategori": "frequency",
+      "namn": "gigahertz",
+      "forkortning": "GHz",
+      "smal_form": "GHz",
+      "monster": "{0} gigahertz"
+    },
+    {
+      "id": 92,
+      "unit_code": "frequency-hertz",
+      "kategori": "frequency",
+      "namn": "hertz",
+      "forkortning": "Hz",
+      "smal_form": "Hz",
+      "monster": "{0} hertz"
+    },
+    {
+      "id": 93,
+      "unit_code": "frequency-kilohertz",
+      "kategori": "frequency",
+      "namn": "kilohertz",
+      "forkortning": "kHz",
+      "smal_form": "kHz",
+      "monster": "{0} kilohertz"
+    },
+    {
+      "id": 94,
+      "unit_code": "frequency-megahertz",
+      "kategori": "frequency",
+      "namn": "megahertz",
+      "forkortning": "MHz",
+      "smal_form": "MHz",
+      "monster": "{0} megahertz"
+    },
+    {
+      "id": 95,
+      "unit_code": "graphics-dot",
+      "kategori": "graphics",
+      "namn": "punkt",
+      "forkortning": "punkt",
+      "smal_form": "pkt",
+      "monster": "{0} punkter"
+    },
+    {
+      "id": 96,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategori": "graphics",
+      "namn": "punkter per centimeter",
+      "forkortning": "dpcm",
+      "smal_form": "dpcm",
+      "monster": "{0} punkter per centimeter"
+    },
+    {
+      "id": 97,
+      "unit_code": "graphics-dot-per-inch",
+      "kategori": "graphics",
+      "namn": "punkter per tum",
+      "forkortning": "dpi",
+      "smal_form": "dpi",
+      "monster": "{0} punkter per tum"
+    },
+    {
+      "id": 98,
+      "unit_code": "graphics-em",
+      "kategori": "graphics",
+      "namn": "typografisk fyrkant",
+      "forkortning": "fyrkant",
+      "smal_form": "fyrkant",
+      "monster": "{0} fyrkanter"
+    },
+    {
+      "id": 99,
+      "unit_code": "graphics-megapixel",
+      "kategori": "graphics",
+      "namn": "megapixlar",
+      "forkortning": "mpx",
+      "smal_form": "mpx",
+      "monster": "{0} megapixlar"
+    },
+    {
+      "id": 100,
+      "unit_code": "graphics-pixel",
+      "kategori": "graphics",
+      "namn": "pixlar",
+      "forkortning": "px",
+      "smal_form": "px",
+      "monster": "{0} pixlar"
+    },
+    {
+      "id": 101,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategori": "graphics",
+      "namn": "pixlar per centimeter",
+      "forkortning": "px/cm",
+      "smal_form": "px/cm",
+      "monster": "{0} pixlar per centimeter"
+    },
+    {
+      "id": 102,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategori": "graphics",
+      "namn": "pixel per tum",
+      "forkortning": "px/tum",
+      "smal_form": "px/tum",
+      "monster": "{0} pixel per tum"
+    },
+    {
+      "id": 103,
+      "unit_code": "length-astronomical-unit",
+      "kategori": "length",
+      "namn": "astronomiska enheter",
+      "forkortning": "AE",
+      "smal_form": "AE",
+      "monster": "{0} astronomiska enheter"
+    },
+    {
+      "id": 104,
+      "unit_code": "length-centimeter",
+      "kategori": "length",
+      "namn": "centimeter",
+      "forkortning": "cm",
+      "smal_form": "cm",
+      "monster": "{0} centimeter"
+    },
+    {
+      "id": 105,
+      "unit_code": "length-chain",
+      "kategori": "length",
+      "namn": "chain",
+      "forkortning": "chain",
+      "smal_form": "chain",
+      "monster": "{0} chain"
+    },
+    {
+      "id": 106,
+      "unit_code": "length-decimeter",
+      "kategori": "length",
+      "namn": "decimeter",
+      "forkortning": "dm",
+      "smal_form": "dm",
+      "monster": "{0} decimeter"
+    },
+    {
+      "id": 107,
+      "unit_code": "length-earth-radius",
+      "kategori": "length",
+      "namn": "jordradie",
+      "forkortning": "R⊕",
+      "smal_form": "R⊕",
+      "monster": "{0} jordradie"
+    },
+    {
+      "id": 108,
+      "unit_code": "length-fathom",
+      "kategori": "length",
+      "namn": "famnar",
+      "forkortning": "famnar",
+      "smal_form": "famnar",
+      "monster": "{0} famnar"
+    },
+    {
+      "id": 109,
+      "unit_code": "length-foot",
+      "kategori": "length",
+      "namn": "fot",
+      "forkortning": "fot",
+      "smal_form": "fot",
+      "monster": "{0} fot"
+    },
+    {
+      "id": 110,
+      "unit_code": "length-furlong",
+      "kategori": "length",
+      "namn": "engelska plogfårelängder",
+      "forkortning": "eng. plogfårelgd",
+      "smal_form": "eng. plogfårelgd",
+      "monster": "{0} engelska plogfårelängder"
+    },
+    {
+      "id": 111,
+      "unit_code": "length-inch",
+      "kategori": "length",
+      "namn": "tum",
+      "forkortning": "tum",
+      "smal_form": "tum",
+      "monster": "{0} tum"
+    },
+    {
+      "id": 112,
+      "unit_code": "length-jo-jp",
+      "kategori": "length",
+      "namn": "jo [JP]",
+      "forkortning": "jo [JP]",
+      "smal_form": "jo [JP]",
+      "monster": "{0} jo [JP]"
+    },
+    {
+      "id": 113,
+      "unit_code": "length-ken",
+      "kategori": "length",
+      "namn": "ken [JP]",
+      "forkortning": "ken [JP]",
+      "smal_form": "ken [JP]",
+      "monster": "{0} ken [JP]"
+    },
+    {
+      "id": 114,
+      "unit_code": "length-kilometer",
+      "kategori": "length",
+      "namn": "kilometer",
+      "forkortning": "km",
+      "smal_form": "km",
+      "monster": "{0} kilometer"
+    },
+    {
+      "id": 115,
+      "unit_code": "length-light-year",
+      "kategori": "length",
+      "namn": "ljusår",
+      "forkortning": "ljusår",
+      "smal_form": "ljusår",
+      "monster": "{0} ljusår"
+    },
+    {
+      "id": 116,
+      "unit_code": "length-meter",
+      "kategori": "length",
+      "namn": "meter",
+      "forkortning": "m",
+      "smal_form": "m",
+      "monster": "{0} meter"
+    },
+    {
+      "id": 117,
+      "unit_code": "length-micrometer",
+      "kategori": "length",
+      "namn": "mikrometer",
+      "forkortning": "μm",
+      "smal_form": "μm",
+      "monster": "{0} mikrometer"
+    },
+    {
+      "id": 118,
+      "unit_code": "length-mile",
+      "kategori": "length",
+      "namn": "mile",
+      "forkortning": "mile",
+      "smal_form": "mi",
+      "monster": "{0} mile"
+    },
+    {
+      "id": 119,
+      "unit_code": "length-mile-scandinavian",
+      "kategori": "length",
+      "namn": "mil",
+      "forkortning": "mil",
+      "smal_form": "mil",
+      "monster": "{0} mil"
+    },
+    {
+      "id": 120,
+      "unit_code": "length-millimeter",
+      "kategori": "length",
+      "namn": "millimeter",
+      "forkortning": "mm",
+      "smal_form": "mm",
+      "monster": "{0} millimeter"
+    },
+    {
+      "id": 121,
+      "unit_code": "length-nanometer",
+      "kategori": "length",
+      "namn": "nanometer",
+      "forkortning": "nm",
+      "smal_form": "nm",
+      "monster": "{0} nanometer"
+    },
+    {
+      "id": 122,
+      "unit_code": "length-nautical-mile",
+      "kategori": "length",
+      "namn": "nautiska mil",
+      "forkortning": "naut. mil",
+      "smal_form": "naut. mil",
+      "monster": "{0} nautiska mil"
+    },
+    {
+      "id": 123,
+      "unit_code": "length-parsec",
+      "kategori": "length",
+      "namn": "parsec",
+      "forkortning": "parsec",
+      "smal_form": "parsek",
+      "monster": "{0} parsec"
+    },
+    {
+      "id": 124,
+      "unit_code": "length-picometer",
+      "kategori": "length",
+      "namn": "pikometer",
+      "forkortning": "pm",
+      "smal_form": "pm",
+      "monster": "{0} pikometer"
+    },
+    {
+      "id": 125,
+      "unit_code": "length-point",
+      "kategori": "length",
+      "namn": "punkter",
+      "forkortning": "punkter",
+      "smal_form": "pkt",
+      "monster": "{0} punkter"
+    },
+    {
+      "id": 126,
+      "unit_code": "length-ri-jp",
+      "kategori": "length",
+      "namn": "ri [JP]",
+      "forkortning": "ri [JP]",
+      "smal_form": "ri [JP]",
+      "monster": "{0} ri [JP]"
+    },
+    {
+      "id": 127,
+      "unit_code": "length-rin",
+      "kategori": "length",
+      "namn": "rin [JP]",
+      "forkortning": "rin [JP]",
+      "smal_form": "rin [JP]",
+      "monster": "{0} rin [JP]"
+    },
+    {
+      "id": 128,
+      "unit_code": "length-rod",
+      "kategori": "length",
+      "namn": "rod",
+      "forkortning": "rod",
+      "smal_form": "rod",
+      "monster": "{0} rod"
+    },
+    {
+      "id": 129,
+      "unit_code": "length-shaku-cloth",
+      "kategori": "length",
+      "namn": "shaku [cloth, JP]",
+      "forkortning": "shaku [cloth, JP]",
+      "smal_form": "shaku [cloth, JP]",
+      "monster": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 130,
+      "unit_code": "length-shaku-length",
+      "kategori": "length",
+      "namn": "shaku [JP]",
+      "forkortning": "shaku [JP]",
+      "smal_form": "shaku [JP]",
+      "monster": "{0} shaku [JP]"
+    },
+    {
+      "id": 131,
+      "unit_code": "length-solar-radius",
+      "kategori": "length",
+      "namn": "solradier",
+      "forkortning": "R☉",
+      "smal_form": "R☉",
+      "monster": "{0} solradier"
+    },
+    {
+      "id": 132,
+      "unit_code": "length-sun",
+      "kategori": "length",
+      "namn": "sun [JP]",
+      "forkortning": "sun [JP]",
+      "smal_form": "sun [JP]",
+      "monster": "{0} sun [JP]"
+    },
+    {
+      "id": 133,
+      "unit_code": "length-yard",
+      "kategori": "length",
+      "namn": "yard",
+      "forkortning": "yard",
+      "smal_form": "yd",
+      "monster": "{0} yard"
+    },
+    {
+      "id": 134,
+      "unit_code": "light-candela",
+      "kategori": "light",
+      "namn": "candela",
+      "forkortning": "cd",
+      "smal_form": "cd",
+      "monster": "{0} candela"
+    },
+    {
+      "id": 135,
+      "unit_code": "light-lumen",
+      "kategori": "light",
+      "namn": "lumen",
+      "forkortning": "lm",
+      "smal_form": "lm",
+      "monster": "{0} lumen"
+    },
+    {
+      "id": 136,
+      "unit_code": "light-lux",
+      "kategori": "light",
+      "namn": "lux",
+      "forkortning": "lux",
+      "smal_form": "lux",
+      "monster": "{0} lux"
+    },
+    {
+      "id": 137,
+      "unit_code": "light-solar-luminosity",
+      "kategori": "light",
+      "namn": "solluminositeter",
+      "forkortning": "L☉",
+      "smal_form": "L☉",
+      "monster": "{0} solluminositeter"
+    },
+    {
+      "id": 138,
+      "unit_code": "magnetic-tesla",
+      "kategori": "magnetic",
+      "namn": "tesla",
+      "forkortning": "T",
+      "smal_form": "T",
+      "monster": "{0} tesla"
+    },
+    {
+      "id": 139,
+      "unit_code": "magnetic-weber",
+      "kategori": "magnetic",
+      "namn": "weber",
+      "forkortning": "Wb",
+      "smal_form": "Wb",
+      "monster": "{0} weber"
+    },
+    {
+      "id": 140,
+      "unit_code": "mass-carat",
+      "kategori": "mass",
+      "namn": "karat",
+      "forkortning": "karat",
+      "smal_form": "karat",
+      "monster": "{0} karat"
+    },
+    {
+      "id": 141,
+      "unit_code": "mass-dalton",
+      "kategori": "mass",
+      "namn": "dalton",
+      "forkortning": "dalton",
+      "smal_form": "Da",
+      "monster": "{0} dalton"
+    },
+    {
+      "id": 142,
+      "unit_code": "mass-earth-mass",
+      "kategori": "mass",
+      "namn": "jordmassor",
+      "forkortning": "M⊕",
+      "smal_form": "M⊕",
+      "monster": "{0} jordmassor"
+    },
+    {
+      "id": 143,
+      "unit_code": "mass-fun",
+      "kategori": "mass",
+      "namn": "fun [JP]",
+      "forkortning": "fun [JP]",
+      "smal_form": "fun [JP]",
+      "monster": "{0} fun [JP]"
+    },
+    {
+      "id": 144,
+      "unit_code": "mass-grain",
+      "kategori": "mass",
+      "namn": "grain",
+      "forkortning": "grain",
+      "smal_form": "grain",
+      "monster": "{0} grains"
+    },
+    {
+      "id": 145,
+      "unit_code": "mass-gram",
+      "kategori": "mass",
+      "namn": "gram",
+      "forkortning": "g",
+      "smal_form": "g",
+      "monster": "{0} gram"
+    },
+    {
+      "id": 146,
+      "unit_code": "mass-kilogram",
+      "kategori": "mass",
+      "namn": "kilogram",
+      "forkortning": "kg",
+      "smal_form": "kg",
+      "monster": "{0} kilogram"
+    },
+    {
+      "id": 147,
+      "unit_code": "mass-microgram",
+      "kategori": "mass",
+      "namn": "mikrogram",
+      "forkortning": "μg",
+      "smal_form": "μg",
+      "monster": "{0} mikrogram"
+    },
+    {
+      "id": 148,
+      "unit_code": "mass-milligram",
+      "kategori": "mass",
+      "namn": "milligram",
+      "forkortning": "mg",
+      "smal_form": "mg",
+      "monster": "{0} milligram"
+    },
+    {
+      "id": 149,
+      "unit_code": "mass-ounce",
+      "kategori": "mass",
+      "namn": "uns",
+      "forkortning": "uns",
+      "smal_form": "uns",
+      "monster": "{0} uns"
+    },
+    {
+      "id": 150,
+      "unit_code": "mass-ounce-troy",
+      "kategori": "mass",
+      "namn": "troy uns",
+      "forkortning": "ozt",
+      "smal_form": "ozt",
+      "monster": "{0} troy uns"
+    },
+    {
+      "id": 151,
+      "unit_code": "mass-pound",
+      "kategori": "mass",
+      "namn": "pund",
+      "forkortning": "pund",
+      "smal_form": "pund",
+      "monster": "{0} pund"
+    },
+    {
+      "id": 152,
+      "unit_code": "mass-slug",
+      "kategori": "mass",
+      "namn": "slug",
+      "forkortning": "slug",
+      "smal_form": "slug",
+      "monster": "{0} slug"
+    },
+    {
+      "id": 153,
+      "unit_code": "mass-solar-mass",
+      "kategori": "mass",
+      "namn": "solmassor",
+      "forkortning": "M☉",
+      "smal_form": "M☉",
+      "monster": "{0} solmassor"
+    },
+    {
+      "id": 154,
+      "unit_code": "mass-stone",
+      "kategori": "mass",
+      "namn": "engelska stenar",
+      "forkortning": "eng. sten",
+      "smal_form": "eng. sten",
+      "monster": "{0} engelska stenar"
+    },
+    {
+      "id": 155,
+      "unit_code": "mass-ton",
+      "kategori": "mass",
+      "namn": "engelska korta ton",
+      "forkortning": "eng. k. ton",
+      "smal_form": "eng. k. ton",
+      "monster": "{0} engelska korta ton"
+    },
+    {
+      "id": 156,
+      "unit_code": "mass-tonne",
+      "kategori": "mass",
+      "namn": "ton",
+      "forkortning": "t",
+      "smal_form": "t",
+      "monster": "{0} ton"
+    },
+    {
+      "id": 157,
+      "unit_code": "power-gigawatt",
+      "kategori": "power",
+      "namn": "gigawatt",
+      "forkortning": "GW",
+      "smal_form": "GW",
+      "monster": "{0} gigawatt"
+    },
+    {
+      "id": 158,
+      "unit_code": "power-horsepower",
+      "kategori": "power",
+      "namn": "hästkrafter",
+      "forkortning": "hästkrafter",
+      "smal_form": "hk",
+      "monster": "{0} hästkrafter"
+    },
+    {
+      "id": 159,
+      "unit_code": "power-kilowatt",
+      "kategori": "power",
+      "namn": "kilowatt",
+      "forkortning": "kW",
+      "smal_form": "kW",
+      "monster": "{0} kilowatt"
+    },
+    {
+      "id": 160,
+      "unit_code": "power-megawatt",
+      "kategori": "power",
+      "namn": "megawatt",
+      "forkortning": "MW",
+      "smal_form": "MW",
+      "monster": "{0} megawatt"
+    },
+    {
+      "id": 161,
+      "unit_code": "power-milliwatt",
+      "kategori": "power",
+      "namn": "milliwatt",
+      "forkortning": "mW",
+      "smal_form": "mW",
+      "monster": "{0} milliwatt"
+    },
+    {
+      "id": 162,
+      "unit_code": "power-watt",
+      "kategori": "power",
+      "namn": "watt",
+      "forkortning": "W",
+      "smal_form": "W",
+      "monster": "{0} watt"
+    },
+    {
+      "id": 163,
+      "unit_code": "pressure-atmosphere",
+      "kategori": "pressure",
+      "namn": "atmosfärer",
+      "forkortning": "atm",
+      "smal_form": "atm",
+      "monster": "{0} atmosfärer"
+    },
+    {
+      "id": 164,
+      "unit_code": "pressure-bar",
+      "kategori": "pressure",
+      "namn": "bar",
+      "forkortning": "bar",
+      "smal_form": "bar",
+      "monster": "{0} bar"
+    },
+    {
+      "id": 165,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategori": "pressure",
+      "namn": "gas E",
+      "forkortning": "gas E",
+      "smal_form": "gas E",
+      "monster": "{0} gas E"
+    },
+    {
+      "id": 166,
+      "unit_code": "pressure-hectopascal",
+      "kategori": "pressure",
+      "namn": "hektopascal",
+      "forkortning": "hPa",
+      "smal_form": "hPa",
+      "monster": "{0} hektopascal"
+    },
+    {
+      "id": 167,
+      "unit_code": "pressure-inch-ofhg",
+      "kategori": "pressure",
+      "namn": "tum kvicksilver",
+      "forkortning": "tum Hg",
+      "smal_form": "tum Hg",
+      "monster": "{0} tum kvicksilver"
+    },
+    {
+      "id": 168,
+      "unit_code": "pressure-kilopascal",
+      "kategori": "pressure",
+      "namn": "kilopascal",
+      "forkortning": "kPa",
+      "smal_form": "kPa",
+      "monster": "{0} kilopascal"
+    },
+    {
+      "id": 169,
+      "unit_code": "pressure-megapascal",
+      "kategori": "pressure",
+      "namn": "megapascal",
+      "forkortning": "MPa",
+      "smal_form": "MPa",
+      "monster": "{0} megapascal"
+    },
+    {
+      "id": 170,
+      "unit_code": "pressure-millibar",
+      "kategori": "pressure",
+      "namn": "millibar",
+      "forkortning": "mbar",
+      "smal_form": "mbar",
+      "monster": "{0} millibar"
+    },
+    {
+      "id": 171,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategori": "pressure",
+      "namn": "millimeter kvicksilver",
+      "forkortning": "mm Hg",
+      "smal_form": "mm Hg",
+      "monster": "{0} millimeter kvicksilver"
+    },
+    {
+      "id": 172,
+      "unit_code": "pressure-ofhg",
+      "kategori": "pressure",
+      "namn": "kvicksilver",
+      "forkortning": "Hg",
+      "smal_form": "Hg",
+      "monster": "{0} kvicksilver"
+    },
+    {
+      "id": 173,
+      "unit_code": "pressure-pascal",
+      "kategori": "pressure",
+      "namn": "pascal",
+      "forkortning": "Pa",
+      "smal_form": "Pa",
+      "monster": "{0} pascal"
+    },
+    {
+      "id": 174,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategori": "pressure",
+      "namn": "pund per kvadrattum",
+      "forkortning": "psi",
+      "smal_form": "psi",
+      "monster": "{0} pund per kvadrattum"
+    },
+    {
+      "id": 175,
+      "unit_code": "speed-beaufort",
+      "kategori": "speed",
+      "namn": "Beaufort",
+      "forkortning": "Bft",
+      "smal_form": "Bft",
+      "monster": "Beaufort {0}"
+    },
+    {
+      "id": 176,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategori": "speed",
+      "namn": "kilometer per timme",
+      "forkortning": "km/h",
+      "smal_form": "km/h",
+      "monster": "{0} kilometer per timme"
+    },
+    {
+      "id": 177,
+      "unit_code": "speed-knot",
+      "kategori": "speed",
+      "namn": "knop",
+      "forkortning": "knop",
+      "smal_form": "knop",
+      "monster": "{0} knop"
+    },
+    {
+      "id": 178,
+      "unit_code": "speed-light-speed",
+      "kategori": "speed",
+      "namn": "ljus",
+      "forkortning": "ljus",
+      "smal_form": "ljs",
+      "monster": "{0} ljus"
+    },
+    {
+      "id": 179,
+      "unit_code": "speed-meter-per-second",
+      "kategori": "speed",
+      "namn": "meter per sekund",
+      "forkortning": "m/s",
+      "smal_form": "m/s",
+      "monster": "{0} meter per sekund"
+    },
+    {
+      "id": 180,
+      "unit_code": "speed-mile-per-hour",
+      "kategori": "speed",
+      "namn": "mile per timme",
+      "forkortning": "mile/timme",
+      "smal_form": "mile/h",
+      "monster": "{0} mile per timme"
+    },
+    {
+      "id": 181,
+      "unit_code": "temperature-celsius",
+      "kategori": "temperature",
+      "namn": "grader Celsius",
+      "forkortning": "°C",
+      "smal_form": "°C",
+      "monster": "{0} grader Celsius"
+    },
+    {
+      "id": 182,
+      "unit_code": "temperature-fahrenheit",
+      "kategori": "temperature",
+      "namn": "grader Fahrenheit",
+      "forkortning": "°F",
+      "smal_form": "°F",
+      "monster": "{0} grader Fahrenheit"
+    },
+    {
+      "id": 183,
+      "unit_code": "temperature-generic",
+      "kategori": "temperature",
+      "namn": "grader",
+      "forkortning": "°",
+      "smal_form": "°",
+      "monster": "{0} grader"
+    },
+    {
+      "id": 184,
+      "unit_code": "temperature-kelvin",
+      "kategori": "temperature",
+      "namn": "kelvin",
+      "forkortning": "K",
+      "smal_form": "K",
+      "monster": "{0} kelvin"
+    },
+    {
+      "id": 185,
+      "unit_code": "temperature-rankine",
+      "kategori": "temperature",
+      "namn": "°R",
+      "forkortning": "°R",
+      "smal_form": "°R",
+      "monster": "{0} °R"
+    },
+    {
+      "id": 186,
+      "unit_code": "torque-newton-meter",
+      "kategori": "torque",
+      "namn": "newton-meter",
+      "forkortning": "Nm",
+      "smal_form": "Nm",
+      "monster": "{0} newton-meter"
+    },
+    {
+      "id": 187,
+      "unit_code": "torque-pound-force-foot",
+      "kategori": "torque",
+      "namn": "pound-force-feet",
+      "forkortning": "lbf⋅ft",
+      "smal_form": "lbf⋅ft",
+      "monster": "{0} pound-force-feet"
+    },
+    {
+      "id": 188,
+      "unit_code": "volume-acre-foot",
+      "kategori": "volume",
+      "namn": "engelska tunnland gånger fot",
+      "forkortning": "eng. t:land·fot",
+      "smal_form": "eng. t:land·fot",
+      "monster": "{0} engelska tunnland gånger fot"
+    },
+    {
+      "id": 189,
+      "unit_code": "volume-barrel",
+      "kategori": "volume",
+      "namn": "fat",
+      "forkortning": "fat",
+      "smal_form": "fat",
+      "monster": "{0} fat"
+    },
+    {
+      "id": 190,
+      "unit_code": "volume-bushel",
+      "kategori": "volume",
+      "namn": "skäppor",
+      "forkortning": "skäppa",
+      "smal_form": "skäppa",
+      "monster": "{0} skäppor"
+    },
+    {
+      "id": 191,
+      "unit_code": "volume-centiliter",
+      "kategori": "volume",
+      "namn": "centiliter",
+      "forkortning": "cl",
+      "smal_form": "cl",
+      "monster": "{0} centiliter"
+    },
+    {
+      "id": 192,
+      "unit_code": "volume-cubic-centimeter",
+      "kategori": "volume",
+      "namn": "kubikcentimeter",
+      "forkortning": "cm³",
+      "smal_form": "cm³",
+      "monster": "{0} kubikcentimeter"
+    },
+    {
+      "id": 193,
+      "unit_code": "volume-cubic-foot",
+      "kategori": "volume",
+      "namn": "kubikfot",
+      "forkortning": "fot³",
+      "smal_form": "fot³",
+      "monster": "{0} kubikfot"
+    },
+    {
+      "id": 194,
+      "unit_code": "volume-cubic-inch",
+      "kategori": "volume",
+      "namn": "kubiktum",
+      "forkortning": "tum³",
+      "smal_form": "tum³",
+      "monster": "{0} kubiktum"
+    },
+    {
+      "id": 195,
+      "unit_code": "volume-cubic-kilometer",
+      "kategori": "volume",
+      "namn": "kubikkilometer",
+      "forkortning": "km³",
+      "smal_form": "km³",
+      "monster": "{0} kubikkilometer"
+    },
+    {
+      "id": 196,
+      "unit_code": "volume-cubic-meter",
+      "kategori": "volume",
+      "namn": "kubikmeter",
+      "forkortning": "m³",
+      "smal_form": "m³",
+      "monster": "{0} kubikmeter"
+    },
+    {
+      "id": 197,
+      "unit_code": "volume-cubic-mile",
+      "kategori": "volume",
+      "namn": "kubikmile",
+      "forkortning": "mi³",
+      "smal_form": "mi³",
+      "monster": "{0} kubikmile"
+    },
+    {
+      "id": 198,
+      "unit_code": "volume-cubic-yard",
+      "kategori": "volume",
+      "namn": "kubikyard",
+      "forkortning": "yard³",
+      "smal_form": "yd³",
+      "monster": "{0} kubikyard"
+    },
+    {
+      "id": 199,
+      "unit_code": "volume-cup",
+      "kategori": "volume",
+      "namn": "koppar",
+      "forkortning": "koppar",
+      "smal_form": "koppar",
+      "monster": "{0} koppar"
+    },
+    {
+      "id": 200,
+      "unit_code": "volume-cup-imperial",
+      "kategori": "volume",
+      "namn": "cup Imp.",
+      "forkortning": "cup Imp.",
+      "smal_form": "cup Imp.",
+      "monster": "{0} cup Imp."
+    },
+    {
+      "id": 201,
+      "unit_code": "volume-cup-jp",
+      "kategori": "volume",
+      "namn": "cup [JP]",
+      "forkortning": "cup [JP]",
+      "smal_form": "cup [JP]",
+      "monster": "{0} cup [JP]"
+    },
+    {
+      "id": 202,
+      "unit_code": "volume-cup-metric",
+      "kategori": "volume",
+      "namn": "metriska koppar",
+      "forkortning": "mcup",
+      "smal_form": "mcup",
+      "monster": "{0} metriska koppar"
+    },
+    {
+      "id": 203,
+      "unit_code": "volume-deciliter",
+      "kategori": "volume",
+      "namn": "deciliter",
+      "forkortning": "dl",
+      "smal_form": "dl",
+      "monster": "{0} deciliter"
+    },
+    {
+      "id": 204,
+      "unit_code": "volume-dessert-spoon",
+      "kategori": "volume",
+      "namn": "dessertskedar",
+      "forkortning": "des.sked",
+      "smal_form": "dsk",
+      "monster": "{0} dessertskedar"
+    },
+    {
+      "id": 205,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategori": "volume",
+      "namn": "brittiska dessertskedar",
+      "forkortning": "br. dsk",
+      "smal_form": "br. dsk",
+      "monster": "{0} brittiska dessertskedar"
+    },
+    {
+      "id": 206,
+      "unit_code": "volume-dram",
+      "kategori": "volume",
+      "namn": "brittisk dram",
+      "forkortning": "flytande dram",
+      "smal_form": "fl. dram",
+      "monster": "{0} dram"
+    },
+    {
+      "id": 207,
+      "unit_code": "volume-drop",
+      "kategori": "volume",
+      "namn": "droppe",
+      "forkortning": "droppe",
+      "smal_form": "drp",
+      "monster": "{0} droppar"
+    },
+    {
+      "id": 208,
+      "unit_code": "volume-fluid-ounce",
+      "kategori": "volume",
+      "namn": "flytande uns",
+      "forkortning": "fl oz",
+      "smal_form": "fl oz",
+      "monster": "{0} fluid ounces"
+    },
+    {
+      "id": 209,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategori": "volume",
+      "namn": "Imp. fluid ounces",
+      "forkortning": "Imp. fl oz",
+      "smal_form": "Imp fl oz",
+      "monster": "{0} Imp. fluid ounces"
+    },
+    {
+      "id": 210,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategori": "volume",
+      "namn": "metriska flytande uns",
+      "forkortning": "fl oz m.",
+      "smal_form": "fl oz m.",
+      "monster": "{0} metriska flytande uns"
+    },
+    {
+      "id": 211,
+      "unit_code": "volume-gallon",
+      "kategori": "volume",
+      "namn": "gallon",
+      "forkortning": "gal",
+      "smal_form": "gal",
+      "monster": "{0} gallon"
+    },
+    {
+      "id": 212,
+      "unit_code": "volume-gallon-imperial",
+      "kategori": "volume",
+      "namn": "Br. gallon",
+      "forkortning": "Br. gal",
+      "smal_form": "Br. gal",
+      "monster": "{0} br. gallon"
+    },
+    {
+      "id": 213,
+      "unit_code": "volume-hectoliter",
+      "kategori": "volume",
+      "namn": "hektoliter",
+      "forkortning": "hl",
+      "smal_form": "hl",
+      "monster": "{0} hektoliter"
+    },
+    {
+      "id": 214,
+      "unit_code": "volume-jigger",
+      "kategori": "volume",
+      "namn": "mätglas",
+      "forkortning": "mätglas",
+      "smal_form": "mätglas",
+      "monster": "{0} mätglas"
+    },
+    {
+      "id": 215,
+      "unit_code": "volume-koku",
+      "kategori": "volume",
+      "namn": "koku [JP]",
+      "forkortning": "koku [JP]",
+      "smal_form": "koku [JP]",
+      "monster": "{0} koku [JP]"
+    },
+    {
+      "id": 216,
+      "unit_code": "volume-kosaji",
+      "kategori": "volume",
+      "namn": "kosaji [JP]",
+      "forkortning": "kosaji [JP]",
+      "smal_form": "kosaji [JP]",
+      "monster": "{0} kosaji [JP]"
+    },
+    {
+      "id": 217,
+      "unit_code": "volume-liter",
+      "kategori": "volume",
+      "namn": "liter",
+      "forkortning": "liter",
+      "smal_form": "liter",
+      "monster": "{0} liter"
+    },
+    {
+      "id": 218,
+      "unit_code": "volume-megaliter",
+      "kategori": "volume",
+      "namn": "megaliter",
+      "forkortning": "Ml",
+      "smal_form": "Ml",
+      "monster": "{0} megaliter"
+    },
+    {
+      "id": 219,
+      "unit_code": "volume-milliliter",
+      "kategori": "volume",
+      "namn": "milliliter",
+      "forkortning": "ml",
+      "smal_form": "ml",
+      "monster": "{0} milliliter"
+    },
+    {
+      "id": 220,
+      "unit_code": "volume-osaji",
+      "kategori": "volume",
+      "namn": "osaji [JP]",
+      "forkortning": "osaji [JP]",
+      "smal_form": "osaji [JP]",
+      "monster": "{0} osaji [JP]"
+    },
+    {
+      "id": 221,
+      "unit_code": "volume-pinch",
+      "kategori": "volume",
+      "namn": "nypa",
+      "forkortning": "nypa",
+      "smal_form": "nypa",
+      "monster": "{0} nypa"
+    },
+    {
+      "id": 222,
+      "unit_code": "volume-pint",
+      "kategori": "volume",
+      "namn": "pint",
+      "forkortning": "pint",
+      "smal_form": "pt",
+      "monster": "{0} pint"
+    },
+    {
+      "id": 223,
+      "unit_code": "volume-pint-imperial",
+      "kategori": "volume",
+      "namn": "pint Imp.",
+      "forkortning": "pint Imp.",
+      "smal_form": "pint Imp.",
+      "monster": "{0} pt Imp."
+    },
+    {
+      "id": 224,
+      "unit_code": "volume-pint-metric",
+      "kategori": "volume",
+      "namn": "metriska pint",
+      "forkortning": "mpt",
+      "smal_form": "pt",
+      "monster": "{0} metriska pint"
+    },
+    {
+      "id": 225,
+      "unit_code": "volume-quart",
+      "kategori": "volume",
+      "namn": "quart",
+      "forkortning": "quart",
+      "smal_form": "quart",
+      "monster": "{0} quart"
+    },
+    {
+      "id": 226,
+      "unit_code": "volume-quart-imperial",
+      "kategori": "volume",
+      "namn": "br. quart",
+      "forkortning": "br. qt",
+      "smal_form": "br. qt",
+      "monster": "{0} brittiska quarts"
+    },
+    {
+      "id": 227,
+      "unit_code": "volume-sai",
+      "kategori": "volume",
+      "namn": "sai [JP]",
+      "forkortning": "sai [JP]",
+      "smal_form": "sai [JP]",
+      "monster": "{0} sai [JP]"
+    },
+    {
+      "id": 228,
+      "unit_code": "volume-shaku",
+      "kategori": "volume",
+      "namn": "shaku [vol, JP]",
+      "forkortning": "shaku [vol, JP]",
+      "smal_form": "shaku [vol, JP]",
+      "monster": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 229,
+      "unit_code": "volume-tablespoon",
+      "kategori": "volume",
+      "namn": "matskedar",
+      "forkortning": "msk",
+      "smal_form": "msk",
+      "monster": "{0} matskedar"
+    },
+    {
+      "id": 230,
+      "unit_code": "volume-teaspoon",
+      "kategori": "volume",
+      "namn": "teskedar",
+      "forkortning": "tsk",
+      "smal_form": "tsk",
+      "monster": "{0} teskedar"
+    },
+    {
+      "id": 231,
+      "unit_code": "volume-to-jp",
+      "kategori": "volume",
+      "namn": "to [JP]",
+      "forkortning": "to [JP]",
+      "smal_form": "to [JP]",
+      "monster": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – namn på svenska (CLDR) - Gratis nedladdning",
+    "description": "Lista över måttenheter i den svenska (sv) språkinställningen i CLDR – med fullständigt namn (namn), förkortning (forkortning), smal form (smal_form) och visningsmönster (monster). Innehåller 231 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – namn på svenska (CLDR) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – namn på svenska (CLDR) — 231 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 231 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

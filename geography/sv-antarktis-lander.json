@@ -1,0 +1,176 @@
+{
+  "id": "sv-antarktis-lander",
+  "name": "Länder – Antarktis",
+  "title": "Länder – Antarktis",
+  "description": "Länder på kontinenten Antarktis med ISO-koder, svenska namn, landsnummer och övriga metadata.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "name_sv",
+      "label": "Name Sv",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "phone_codes",
+      "label": "Phone Codes",
+      "type": "number"
+    },
+    {
+      "key": "phone_codes_formatted",
+      "label": "Phone Codes Formatted",
+      "type": "string"
+    },
+    {
+      "key": "continent_code",
+      "label": "Continent Code",
+      "type": "string"
+    },
+    {
+      "key": "continent_sv",
+      "label": "Continent Sv",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "currency_codes",
+      "label": "Currency Codes",
+      "type": "string"
+    },
+    {
+      "key": "language_codes",
+      "label": "Language Codes",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "iso_3166_1_alpha_3": "ATA",
+      "name_sv": "Antarktis",
+      "name_en": "Antarctica",
+      "name_native": "Antarctica",
+      "slug": "antarctica",
+      "phone_codes": "",
+      "phone_codes_formatted": "",
+      "continent_code": "AN",
+      "continent_sv": "Antarktis",
+      "capital": "",
+      "currency_codes": "",
+      "language_codes": "",
+      "emoji_flag": "🇦🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "BV",
+      "iso_3166_1_alpha_3": "BVT",
+      "name_sv": "Bouvetön",
+      "name_en": "Bouvet Island",
+      "name_native": "Bouvetøya",
+      "slug": "bouvet-island",
+      "phone_codes": "47",
+      "phone_codes_formatted": "+47",
+      "continent_code": "AN",
+      "continent_sv": "Antarktis",
+      "capital": "",
+      "currency_codes": "",
+      "language_codes": "nor",
+      "emoji_flag": "🇧🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "GS",
+      "iso_3166_1_alpha_3": "SGS",
+      "name_sv": "Sydgeorgien",
+      "name_en": "South Georgia",
+      "name_native": "South Georgia",
+      "slug": "south-georgia",
+      "phone_codes": "500",
+      "phone_codes_formatted": "+500",
+      "continent_code": "AN",
+      "continent_sv": "Antarktis",
+      "capital": "King Edward Point",
+      "currency_codes": "SHP",
+      "language_codes": "eng",
+      "emoji_flag": "🇬🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "HM",
+      "iso_3166_1_alpha_3": "HMD",
+      "name_sv": "Heard- och McDonaldöarna",
+      "name_en": "Heard Island and McDonald Islands",
+      "name_native": "Heard Island and McDonald Islands",
+      "slug": "heard-island-and-mcdonald-islands",
+      "phone_codes": "",
+      "phone_codes_formatted": "",
+      "continent_code": "AN",
+      "continent_sv": "Antarktis",
+      "capital": "",
+      "currency_codes": "",
+      "language_codes": "eng",
+      "emoji_flag": "🇭🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "TF",
+      "iso_3166_1_alpha_3": "ATF",
+      "name_sv": "Franska södra territorierna",
+      "name_en": "French Southern and Antarctic Lands",
+      "name_native": "Terres australes et antarctiques françaises",
+      "slug": "french-southern-and-antarctic-lands",
+      "phone_codes": "262",
+      "phone_codes_formatted": "+262",
+      "continent_code": "AN",
+      "continent_sv": "Antarktis",
+      "capital": "Port-aux-Français",
+      "currency_codes": "EUR",
+      "language_codes": "fra",
+      "emoji_flag": "🇹🇫"
+    }
+  ],
+  "meta": {
+    "title": "Länder – Antarktis - Gratis nedladdning",
+    "description": "Länder på kontinenten Antarktis med ISO-koder, svenska namn, landsnummer och övriga metadata. Innehåller 5 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Länder – Antarktis | ListBase",
+    "seo_description": "Ladda ner Länder – Antarktis — 5 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 5 poster / 14 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,2736 @@
+{
+  "id": "sv-emotionsord-surprise",
+  "name": "Emotionsord – Överraskning",
+  "title": "Emotionsord – Överraskning",
+  "description": "Svenska ord associerade med överraskning, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 539,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "intensity",
+      "label": "Intensity",
+      "type": "number"
+    },
+    {
+      "key": "emotion",
+      "label": "Emotion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "överraskning",
+      "intensity": "0.930",
+      "emotion": "surprise"
+    },
+    {
+      "word": "flabbergast",
+      "intensity": "0.906",
+      "emotion": "surprise"
+    },
+    {
+      "word": "explodera",
+      "intensity": "0.906",
+      "emotion": "surprise"
+    },
+    {
+      "word": "explosion",
+      "intensity": "0.898",
+      "emotion": "surprise"
+    },
+    {
+      "word": "explosiv",
+      "intensity": "0.883",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bakhåll",
+      "intensity": "0.883",
+      "emotion": "surprise"
+    },
+    {
+      "word": "chockerande",
+      "intensity": "0.875",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förvånande",
+      "intensity": "0.867",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skrämd",
+      "intensity": "0.867",
+      "emotion": "surprise"
+    },
+    {
+      "word": "överraskad",
+      "intensity": "0.867",
+      "emotion": "surprise"
+    },
+    {
+      "word": "utbrott",
+      "intensity": "0.859",
+      "emotion": "surprise"
+    },
+    {
+      "word": "mirakel",
+      "intensity": "0.859",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kul",
+      "intensity": "0.852",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ryck",
+      "intensity": "0.844",
+      "emotion": "surprise"
+    },
+    {
+      "word": "blixten",
+      "intensity": "0.844",
+      "emotion": "surprise"
+    },
+    {
+      "word": "chock",
+      "intensity": "0.844",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skrämsel",
+      "intensity": "0.836",
+      "emotion": "surprise"
+    },
+    {
+      "word": "smäll",
+      "intensity": "0.836",
+      "emotion": "surprise"
+    },
+    {
+      "word": "blända",
+      "intensity": "0.836",
+      "emotion": "surprise"
+    },
+    {
+      "word": "nödsituation",
+      "intensity": "0.828",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förvirring",
+      "intensity": "0.828",
+      "emotion": "surprise"
+    },
+    {
+      "word": "plötsligt",
+      "intensity": "0.828",
+      "emotion": "surprise"
+    },
+    {
+      "word": "häpnadsväckande",
+      "intensity": "0.828",
+      "emotion": "surprise"
+    },
+    {
+      "word": "slå med häpnad",
+      "intensity": "0.820",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bedövad",
+      "intensity": "0.820",
+      "emotion": "surprise"
+    },
+    {
+      "word": "katastrof",
+      "intensity": "0.812",
+      "emotion": "surprise"
+    },
+    {
+      "word": "jackpott",
+      "intensity": "0.812",
+      "emotion": "surprise"
+    },
+    {
+      "word": "jordbävning",
+      "intensity": "0.812",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förvåning",
+      "intensity": "0.805",
+      "emotion": "surprise"
+    },
+    {
+      "word": "klimax",
+      "intensity": "0.805",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bestört",
+      "intensity": "0.805",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skrämma",
+      "intensity": "0.797",
+      "emotion": "surprise"
+    },
+    {
+      "word": "awestruck",
+      "intensity": "0.797",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bomba",
+      "intensity": "0.789",
+      "emotion": "surprise"
+    },
+    {
+      "word": "få ett utbrott",
+      "intensity": "0.789",
+      "emotion": "surprise"
+    },
+    {
+      "word": "utropa",
+      "intensity": "0.789",
+      "emotion": "surprise"
+    },
+    {
+      "word": "detonera",
+      "intensity": "0.773",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oroväckande",
+      "intensity": "0.773",
+      "emotion": "surprise"
+    },
+    {
+      "word": "mirakulös",
+      "intensity": "0.773",
+      "emotion": "surprise"
+    },
+    {
+      "word": "invadera",
+      "intensity": "0.773",
+      "emotion": "surprise"
+    },
+    {
+      "word": "räd",
+      "intensity": "0.773",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bortförande",
+      "intensity": "0.773",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kidnappa",
+      "intensity": "0.766",
+      "emotion": "surprise"
+    },
+    {
+      "word": "stupefy",
+      "intensity": "0.758",
+      "emotion": "surprise"
+    },
+    {
+      "word": "överväldigande",
+      "intensity": "0.758",
+      "emotion": "surprise"
+    },
+    {
+      "word": "dumfound",
+      "intensity": "0.758",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oförutsägbar",
+      "intensity": "0.758",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ofattbar",
+      "intensity": "0.750",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oregelbunden",
+      "intensity": "0.750",
+      "emotion": "surprise"
+    },
+    {
+      "word": "olycka",
+      "intensity": "0.750",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skandalös",
+      "intensity": "0.750",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förvåna",
+      "intensity": "0.742",
+      "emotion": "surprise"
+    },
+    {
+      "word": "rygga tillbaka",
+      "intensity": "0.742",
+      "emotion": "surprise"
+    },
+    {
+      "word": "blitz",
+      "intensity": "0.742",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förstena",
+      "intensity": "0.742",
+      "emotion": "surprise"
+    },
+    {
+      "word": "Skräck",
+      "intensity": "0.742",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förvilla",
+      "intensity": "0.742",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förstöra",
+      "intensity": "0.742",
+      "emotion": "surprise"
+    },
+    {
+      "word": "häpnad",
+      "intensity": "0.734",
+      "emotion": "surprise"
+    },
+    {
+      "word": "frenetisk",
+      "intensity": "0.734",
+      "emotion": "surprise"
+    },
+    {
+      "word": "utom sig",
+      "intensity": "0.734",
+      "emotion": "surprise"
+    },
+    {
+      "word": "krascha",
+      "intensity": "0.734",
+      "emotion": "surprise"
+    },
+    {
+      "word": "plötslig",
+      "intensity": "0.727",
+      "emotion": "surprise"
+    },
+    {
+      "word": "utsvävande",
+      "intensity": "0.727",
+      "emotion": "surprise"
+    },
+    {
+      "word": "försvann",
+      "intensity": "0.727",
+      "emotion": "surprise"
+    },
+    {
+      "word": "mångalen",
+      "intensity": "0.727",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förvirrad",
+      "intensity": "0.719",
+      "emotion": "surprise"
+    },
+    {
+      "word": "sabotage",
+      "intensity": "0.719",
+      "emotion": "surprise"
+    },
+    {
+      "word": "andfådd",
+      "intensity": "0.719",
+      "emotion": "surprise"
+    },
+    {
+      "word": "dråp",
+      "intensity": "0.719",
+      "emotion": "surprise"
+    },
+    {
+      "word": "brista",
+      "intensity": "0.719",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oförutsedda",
+      "intensity": "0.719",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oväntat",
+      "intensity": "0.711",
+      "emotion": "surprise"
+    },
+    {
+      "word": "okontrollerbar",
+      "intensity": "0.711",
+      "emotion": "surprise"
+    },
+    {
+      "word": "elektrifiera",
+      "intensity": "0.711",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bedöva",
+      "intensity": "0.711",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skott",
+      "intensity": "0.711",
+      "emotion": "surprise"
+    },
+    {
+      "word": "lavin",
+      "intensity": "0.711",
+      "emotion": "surprise"
+    },
+    {
+      "word": "flämtning",
+      "intensity": "0.711",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oförutsedd",
+      "intensity": "0.703",
+      "emotion": "surprise"
+    },
+    {
+      "word": "slam",
+      "intensity": "0.703",
+      "emotion": "surprise"
+    },
+    {
+      "word": "svalla",
+      "intensity": "0.703",
+      "emotion": "surprise"
+    },
+    {
+      "word": "inkräktare",
+      "intensity": "0.703",
+      "emotion": "surprise"
+    },
+    {
+      "word": "abrupt",
+      "intensity": "0.703",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förödelse",
+      "intensity": "0.703",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skrik",
+      "intensity": "0.695",
+      "emotion": "surprise"
+    },
+    {
+      "word": "flyktighet",
+      "intensity": "0.695",
+      "emotion": "surprise"
+    },
+    {
+      "word": "excitera",
+      "intensity": "0.695",
+      "emotion": "surprise"
+    },
+    {
+      "word": "utan motstycke",
+      "intensity": "0.695",
+      "emotion": "surprise"
+    },
+    {
+      "word": "hugg",
+      "intensity": "0.695",
+      "emotion": "surprise"
+    },
+    {
+      "word": "brådskande",
+      "intensity": "0.695",
+      "emotion": "surprise"
+    },
+    {
+      "word": "strejk",
+      "intensity": "0.695",
+      "emotion": "surprise"
+    },
+    {
+      "word": "störning",
+      "intensity": "0.688",
+      "emotion": "surprise"
+    },
+    {
+      "word": "blodbad",
+      "intensity": "0.688",
+      "emotion": "surprise"
+    },
+    {
+      "word": "spektakulär",
+      "intensity": "0.688",
+      "emotion": "surprise"
+    },
+    {
+      "word": "otrolig",
+      "intensity": "0.688",
+      "emotion": "surprise"
+    },
+    {
+      "word": "larm",
+      "intensity": "0.680",
+      "emotion": "surprise"
+    },
+    {
+      "word": "spänning",
+      "intensity": "0.680",
+      "emotion": "surprise"
+    },
+    {
+      "word": "övermod",
+      "intensity": "0.680",
+      "emotion": "surprise"
+    },
+    {
+      "word": "slag",
+      "intensity": "0.680",
+      "emotion": "surprise"
+    },
+    {
+      "word": "monstruös",
+      "intensity": "0.680",
+      "emotion": "surprise"
+    },
+    {
+      "word": "spännande",
+      "intensity": "0.672",
+      "emotion": "surprise"
+    },
+    {
+      "word": "av misstag",
+      "intensity": "0.672",
+      "emotion": "surprise"
+    },
+    {
+      "word": "slående",
+      "intensity": "0.672",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fängsla",
+      "intensity": "0.672",
+      "emotion": "surprise"
+    },
+    {
+      "word": "upprymdhet",
+      "intensity": "0.672",
+      "emotion": "surprise"
+    },
+    {
+      "word": "terrorist",
+      "intensity": "0.672",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oförklarlig",
+      "intensity": "0.672",
+      "emotion": "surprise"
+    },
+    {
+      "word": "störta",
+      "intensity": "0.664",
+      "emotion": "surprise"
+    },
+    {
+      "word": "vulkan",
+      "intensity": "0.664",
+      "emotion": "surprise"
+    },
+    {
+      "word": "rotation",
+      "intensity": "0.664",
+      "emotion": "surprise"
+    },
+    {
+      "word": "underlig",
+      "intensity": "0.664",
+      "emotion": "surprise"
+    },
+    {
+      "word": "upphetsande",
+      "intensity": "0.656",
+      "emotion": "surprise"
+    },
+    {
+      "word": "revolt",
+      "intensity": "0.656",
+      "emotion": "surprise"
+    },
+    {
+      "word": "blodsutgjutelse",
+      "intensity": "0.656",
+      "emotion": "surprise"
+    },
+    {
+      "word": "cyklon",
+      "intensity": "0.648",
+      "emotion": "surprise"
+    },
+    {
+      "word": "våldsam",
+      "intensity": "0.648",
+      "emotion": "surprise"
+    },
+    {
+      "word": "avbrott",
+      "intensity": "0.648",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förtrollad",
+      "intensity": "0.648",
+      "emotion": "surprise"
+    },
+    {
+      "word": "intet ont anande",
+      "intensity": "0.648",
+      "emotion": "surprise"
+    },
+    {
+      "word": "myteri",
+      "intensity": "0.648",
+      "emotion": "surprise"
+    },
+    {
+      "word": "attackera",
+      "intensity": "0.648",
+      "emotion": "surprise"
+    },
+    {
+      "word": "otroligt",
+      "intensity": "0.648",
+      "emotion": "surprise"
+    },
+    {
+      "word": "epidemi",
+      "intensity": "0.648",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skrika",
+      "intensity": "0.641",
+      "emotion": "surprise"
+    },
+    {
+      "word": "löpeld",
+      "intensity": "0.641",
+      "emotion": "surprise"
+    },
+    {
+      "word": "obeskrivlig",
+      "intensity": "0.641",
+      "emotion": "surprise"
+    },
+    {
+      "word": "entusiasm",
+      "intensity": "0.641",
+      "emotion": "surprise"
+    },
+    {
+      "word": "excitation",
+      "intensity": "0.641",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tumult",
+      "intensity": "0.641",
+      "emotion": "surprise"
+    },
+    {
+      "word": "improvisation",
+      "intensity": "0.641",
+      "emotion": "surprise"
+    },
+    {
+      "word": "anomali",
+      "intensity": "0.633",
+      "emotion": "surprise"
+    },
+    {
+      "word": "uppenbarelse",
+      "intensity": "0.633",
+      "emotion": "surprise"
+    },
+    {
+      "word": "presto",
+      "intensity": "0.633",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gapa",
+      "intensity": "0.633",
+      "emotion": "surprise"
+    },
+    {
+      "word": "agape",
+      "intensity": "0.633",
+      "emotion": "surprise"
+    },
+    {
+      "word": "osäker",
+      "intensity": "0.633",
+      "emotion": "surprise"
+    },
+    {
+      "word": "plundra",
+      "intensity": "0.633",
+      "emotion": "surprise"
+    },
+    {
+      "word": "slakt",
+      "intensity": "0.625",
+      "emotion": "surprise"
+    },
+    {
+      "word": "storm",
+      "intensity": "0.625",
+      "emotion": "surprise"
+    },
+    {
+      "word": "lura",
+      "intensity": "0.625",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förundran",
+      "intensity": "0.625",
+      "emotion": "surprise"
+    },
+    {
+      "word": "upphetsad",
+      "intensity": "0.625",
+      "emotion": "surprise"
+    },
+    {
+      "word": "trolldom",
+      "intensity": "0.625",
+      "emotion": "surprise"
+    },
+    {
+      "word": "mördande",
+      "intensity": "0.625",
+      "emotion": "surprise"
+    },
+    {
+      "word": "brådskande karaktär",
+      "intensity": "0.625",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ångest",
+      "intensity": "0.625",
+      "emotion": "surprise"
+    },
+    {
+      "word": "mysterium",
+      "intensity": "0.625",
+      "emotion": "surprise"
+    },
+    {
+      "word": "knep",
+      "intensity": "0.617",
+      "emotion": "surprise"
+    },
+    {
+      "word": "intensiv",
+      "intensity": "0.617",
+      "emotion": "surprise"
+    },
+    {
+      "word": "försvinna",
+      "intensity": "0.617",
+      "emotion": "surprise"
+    },
+    {
+      "word": "mörda",
+      "intensity": "0.617",
+      "emotion": "surprise"
+    },
+    {
+      "word": "snabbhet",
+      "intensity": "0.617",
+      "emotion": "surprise"
+    },
+    {
+      "word": "påträngande",
+      "intensity": "0.617",
+      "emotion": "surprise"
+    },
+    {
+      "word": "upptåg",
+      "intensity": "0.617",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ögonbindel",
+      "intensity": "0.609",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kupp",
+      "intensity": "0.609",
+      "emotion": "surprise"
+    },
+    {
+      "word": "stänk",
+      "intensity": "0.609",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tjuv",
+      "intensity": "0.609",
+      "emotion": "surprise"
+    },
+    {
+      "word": "magisk",
+      "intensity": "0.609",
+      "emotion": "surprise"
+    },
+    {
+      "word": "instabil",
+      "intensity": "0.609",
+      "emotion": "surprise"
+    },
+    {
+      "word": "splittra",
+      "intensity": "0.609",
+      "emotion": "surprise"
+    },
+    {
+      "word": "krossa",
+      "intensity": "0.609",
+      "emotion": "surprise"
+    },
+    {
+      "word": "strypa",
+      "intensity": "0.609",
+      "emotion": "surprise"
+    },
+    {
+      "word": "trotsa",
+      "intensity": "0.602",
+      "emotion": "surprise"
+    },
+    {
+      "word": "syndaflod",
+      "intensity": "0.602",
+      "emotion": "surprise"
+    },
+    {
+      "word": "otänkbart",
+      "intensity": "0.602",
+      "emotion": "surprise"
+    },
+    {
+      "word": "jubileum",
+      "intensity": "0.602",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tackla",
+      "intensity": "0.602",
+      "emotion": "surprise"
+    },
+    {
+      "word": "angripa",
+      "intensity": "0.602",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förråda",
+      "intensity": "0.602",
+      "emotion": "surprise"
+    },
+    {
+      "word": "monster",
+      "intensity": "0.594",
+      "emotion": "surprise"
+    },
+    {
+      "word": "varningar",
+      "intensity": "0.594",
+      "emotion": "surprise"
+    },
+    {
+      "word": "blixt-",
+      "intensity": "0.594",
+      "emotion": "surprise"
+    },
+    {
+      "word": "missöde",
+      "intensity": "0.594",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gäll",
+      "intensity": "0.594",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förbluffande",
+      "intensity": "0.594",
+      "emotion": "surprise"
+    },
+    {
+      "word": "mystisk",
+      "intensity": "0.586",
+      "emotion": "surprise"
+    },
+    {
+      "word": "lam",
+      "intensity": "0.586",
+      "emotion": "surprise"
+    },
+    {
+      "word": "slumpvis",
+      "intensity": "0.586",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bonus",
+      "intensity": "0.586",
+      "emotion": "surprise"
+    },
+    {
+      "word": "svek",
+      "intensity": "0.586",
+      "emotion": "surprise"
+    },
+    {
+      "word": "vild",
+      "intensity": "0.586",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fälla",
+      "intensity": "0.586",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kuslig",
+      "intensity": "0.586",
+      "emotion": "surprise"
+    },
+    {
+      "word": "elektrisk",
+      "intensity": "0.578",
+      "emotion": "surprise"
+    },
+    {
+      "word": "underlighet",
+      "intensity": "0.578",
+      "emotion": "surprise"
+    },
+    {
+      "word": "död",
+      "intensity": "0.578",
+      "emotion": "surprise"
+    },
+    {
+      "word": "jublande",
+      "intensity": "0.578",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gudagåva",
+      "intensity": "0.578",
+      "emotion": "surprise"
+    },
+    {
+      "word": "sprida",
+      "intensity": "0.578",
+      "emotion": "surprise"
+    },
+    {
+      "word": "yra",
+      "intensity": "0.578",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fröjd",
+      "intensity": "0.578",
+      "emotion": "surprise"
+    },
+    {
+      "word": "för tidig",
+      "intensity": "0.578",
+      "emotion": "surprise"
+    },
+    {
+      "word": "lyckträff",
+      "intensity": "0.578",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bisarr",
+      "intensity": "0.578",
+      "emotion": "surprise"
+    },
+    {
+      "word": "hämnd",
+      "intensity": "0.570",
+      "emotion": "surprise"
+    },
+    {
+      "word": "dynamisk",
+      "intensity": "0.570",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bestörtning",
+      "intensity": "0.570",
+      "emotion": "surprise"
+    },
+    {
+      "word": "extatisk",
+      "intensity": "0.562",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fascinera",
+      "intensity": "0.562",
+      "emotion": "surprise"
+    },
+    {
+      "word": "avslöja",
+      "intensity": "0.562",
+      "emotion": "surprise"
+    },
+    {
+      "word": "rycka",
+      "intensity": "0.562",
+      "emotion": "surprise"
+    },
+    {
+      "word": "pris",
+      "intensity": "0.562",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skändlig",
+      "intensity": "0.562",
+      "emotion": "surprise"
+    },
+    {
+      "word": "återuppstå",
+      "intensity": "0.562",
+      "emotion": "surprise"
+    },
+    {
+      "word": "infall",
+      "intensity": "0.555",
+      "emotion": "surprise"
+    },
+    {
+      "word": "trolla",
+      "intensity": "0.555",
+      "emotion": "surprise"
+    },
+    {
+      "word": "crescendo",
+      "intensity": "0.555",
+      "emotion": "surprise"
+    },
+    {
+      "word": "zany",
+      "intensity": "0.555",
+      "emotion": "surprise"
+    },
+    {
+      "word": "thaumaturgy",
+      "intensity": "0.555",
+      "emotion": "surprise"
+    },
+    {
+      "word": "dvala",
+      "intensity": "0.547",
+      "emotion": "surprise"
+    },
+    {
+      "word": "belysa",
+      "intensity": "0.547",
+      "emotion": "surprise"
+    },
+    {
+      "word": "rädda",
+      "intensity": "0.547",
+      "emotion": "surprise"
+    },
+    {
+      "word": "frestande",
+      "intensity": "0.547",
+      "emotion": "surprise"
+    },
+    {
+      "word": "vinnare",
+      "intensity": "0.547",
+      "emotion": "surprise"
+    },
+    {
+      "word": "hjältemod",
+      "intensity": "0.547",
+      "emotion": "surprise"
+    },
+    {
+      "word": "sällsynthet",
+      "intensity": "0.547",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ejakulation",
+      "intensity": "0.547",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ohämmad",
+      "intensity": "0.547",
+      "emotion": "surprise"
+    },
+    {
+      "word": "omintetgöra",
+      "intensity": "0.547",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förräderi",
+      "intensity": "0.539",
+      "emotion": "surprise"
+    },
+    {
+      "word": "stansa",
+      "intensity": "0.539",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förolämpning",
+      "intensity": "0.539",
+      "emotion": "surprise"
+    },
+    {
+      "word": "illusion",
+      "intensity": "0.539",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tur-",
+      "intensity": "0.539",
+      "emotion": "surprise"
+    },
+    {
+      "word": "avbryta",
+      "intensity": "0.539",
+      "emotion": "surprise"
+    },
+    {
+      "word": "heja på",
+      "intensity": "0.539",
+      "emotion": "surprise"
+    },
+    {
+      "word": "firande",
+      "intensity": "0.539",
+      "emotion": "surprise"
+    },
+    {
+      "word": "överträdelse",
+      "intensity": "0.539",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förundras",
+      "intensity": "0.539",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fruktans",
+      "intensity": "0.531",
+      "emotion": "surprise"
+    },
+    {
+      "word": "dold",
+      "intensity": "0.531",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skorv",
+      "intensity": "0.531",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skymf",
+      "intensity": "0.531",
+      "emotion": "surprise"
+    },
+    {
+      "word": "krux",
+      "intensity": "0.531",
+      "emotion": "surprise"
+    },
+    {
+      "word": "svänga",
+      "intensity": "0.523",
+      "emotion": "surprise"
+    },
+    {
+      "word": "undra",
+      "intensity": "0.523",
+      "emotion": "surprise"
+    },
+    {
+      "word": "omedelbarhet",
+      "intensity": "0.523",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oupptäckt",
+      "intensity": "0.523",
+      "emotion": "surprise"
+    },
+    {
+      "word": "övergivenhet",
+      "intensity": "0.523",
+      "emotion": "surprise"
+    },
+    {
+      "word": "glädjas",
+      "intensity": "0.523",
+      "emotion": "surprise"
+    },
+    {
+      "word": "improvisera",
+      "intensity": "0.523",
+      "emotion": "surprise"
+    },
+    {
+      "word": "majestätisk",
+      "intensity": "0.523",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skorpion",
+      "intensity": "0.523",
+      "emotion": "surprise"
+    },
+    {
+      "word": "offer",
+      "intensity": "0.523",
+      "emotion": "surprise"
+    },
+    {
+      "word": "befria",
+      "intensity": "0.523",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tjut",
+      "intensity": "0.516",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gläfsa",
+      "intensity": "0.516",
+      "emotion": "surprise"
+    },
+    {
+      "word": "i smyg",
+      "intensity": "0.516",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kittla",
+      "intensity": "0.516",
+      "emotion": "surprise"
+    },
+    {
+      "word": "chans",
+      "intensity": "0.516",
+      "emotion": "surprise"
+    },
+    {
+      "word": "vika av",
+      "intensity": "0.508",
+      "emotion": "surprise"
+    },
+    {
+      "word": "reflex-",
+      "intensity": "0.508",
+      "emotion": "surprise"
+    },
+    {
+      "word": "rave",
+      "intensity": "0.508",
+      "emotion": "surprise"
+    },
+    {
+      "word": "pop-",
+      "intensity": "0.508",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tur",
+      "intensity": "0.508",
+      "emotion": "surprise"
+    },
+    {
+      "word": "magnifik",
+      "intensity": "0.508",
+      "emotion": "surprise"
+    },
+    {
+      "word": "överskridande",
+      "intensity": "0.508",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skrikig",
+      "intensity": "0.508",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oavsiktligt",
+      "intensity": "0.508",
+      "emotion": "surprise"
+    },
+    {
+      "word": "sällsynt",
+      "intensity": "0.500",
+      "emotion": "surprise"
+    },
+    {
+      "word": "heroisk-",
+      "intensity": "0.500",
+      "emotion": "surprise"
+    },
+    {
+      "word": "anmärkningsvärd",
+      "intensity": "0.500",
+      "emotion": "surprise"
+    },
+    {
+      "word": "svimning",
+      "intensity": "0.500",
+      "emotion": "surprise"
+    },
+    {
+      "word": "baneman",
+      "intensity": "0.500",
+      "emotion": "surprise"
+    },
+    {
+      "word": "erotisk",
+      "intensity": "0.500",
+      "emotion": "surprise"
+    },
+    {
+      "word": "liva upp",
+      "intensity": "0.500",
+      "emotion": "surprise"
+    },
+    {
+      "word": "vakenhet",
+      "intensity": "0.500",
+      "emotion": "surprise"
+    },
+    {
+      "word": "dåligt uppförande",
+      "intensity": "0.500",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förlägenhet",
+      "intensity": "0.500",
+      "emotion": "surprise"
+    },
+    {
+      "word": "avledning",
+      "intensity": "0.500",
+      "emotion": "surprise"
+    },
+    {
+      "word": "haffa",
+      "intensity": "0.492",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kamouflage",
+      "intensity": "0.492",
+      "emotion": "surprise"
+    },
+    {
+      "word": "trumf",
+      "intensity": "0.492",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bulvan",
+      "intensity": "0.492",
+      "emotion": "surprise"
+    },
+    {
+      "word": "chimär",
+      "intensity": "0.492",
+      "emotion": "surprise"
+    },
+    {
+      "word": "infarkt",
+      "intensity": "0.492",
+      "emotion": "surprise"
+    },
+    {
+      "word": "födelsedag",
+      "intensity": "0.492",
+      "emotion": "surprise"
+    },
+    {
+      "word": "storhet",
+      "intensity": "0.492",
+      "emotion": "surprise"
+    },
+    {
+      "word": "outsäglig",
+      "intensity": "0.484",
+      "emotion": "surprise"
+    },
+    {
+      "word": "iver",
+      "intensity": "0.484",
+      "emotion": "surprise"
+    },
+    {
+      "word": "sticka",
+      "intensity": "0.484",
+      "emotion": "surprise"
+    },
+    {
+      "word": "underskattar",
+      "intensity": "0.484",
+      "emotion": "surprise"
+    },
+    {
+      "word": "hord",
+      "intensity": "0.484",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fanfar",
+      "intensity": "0.484",
+      "emotion": "surprise"
+    },
+    {
+      "word": "demon",
+      "intensity": "0.484",
+      "emotion": "surprise"
+    },
+    {
+      "word": "variabel",
+      "intensity": "0.484",
+      "emotion": "surprise"
+    },
+    {
+      "word": "nyfikenhet",
+      "intensity": "0.484",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gawk",
+      "intensity": "0.477",
+      "emotion": "surprise"
+    },
+    {
+      "word": "obevakad",
+      "intensity": "0.477",
+      "emotion": "surprise"
+    },
+    {
+      "word": "chikan",
+      "intensity": "0.477",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förmögenhet",
+      "intensity": "0.477",
+      "emotion": "surprise"
+    },
+    {
+      "word": "nysa",
+      "intensity": "0.477",
+      "emotion": "surprise"
+    },
+    {
+      "word": "belysning",
+      "intensity": "0.477",
+      "emotion": "surprise"
+    },
+    {
+      "word": "incident",
+      "intensity": "0.477",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fruktansvärt",
+      "intensity": "0.477",
+      "emotion": "surprise"
+    },
+    {
+      "word": "konstig",
+      "intensity": "0.477",
+      "emotion": "surprise"
+    },
+    {
+      "word": "omstörtande",
+      "intensity": "0.477",
+      "emotion": "surprise"
+    },
+    {
+      "word": "trollkarl",
+      "intensity": "0.469",
+      "emotion": "surprise"
+    },
+    {
+      "word": "omkastning",
+      "intensity": "0.469",
+      "emotion": "surprise"
+    },
+    {
+      "word": "stryka omkring",
+      "intensity": "0.469",
+      "emotion": "surprise"
+    },
+    {
+      "word": "snabb",
+      "intensity": "0.469",
+      "emotion": "surprise"
+    },
+    {
+      "word": "leery",
+      "intensity": "0.469",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tillfällighet",
+      "intensity": "0.461",
+      "emotion": "surprise"
+    },
+    {
+      "word": "munter",
+      "intensity": "0.461",
+      "emotion": "surprise"
+    },
+    {
+      "word": "avvikande",
+      "intensity": "0.461",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ha sönder",
+      "intensity": "0.461",
+      "emotion": "surprise"
+    },
+    {
+      "word": "glida",
+      "intensity": "0.461",
+      "emotion": "surprise"
+    },
+    {
+      "word": "underbar",
+      "intensity": "0.453",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bluff",
+      "intensity": "0.453",
+      "emotion": "surprise"
+    },
+    {
+      "word": "vinnande",
+      "intensity": "0.453",
+      "emotion": "surprise"
+    },
+    {
+      "word": "överskattning",
+      "intensity": "0.453",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bekännelse",
+      "intensity": "0.453",
+      "emotion": "surprise"
+    },
+    {
+      "word": "prövning",
+      "intensity": "0.453",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förbleknande",
+      "intensity": "0.453",
+      "emotion": "surprise"
+    },
+    {
+      "word": "munterhet",
+      "intensity": "0.453",
+      "emotion": "surprise"
+    },
+    {
+      "word": "lotta ut",
+      "intensity": "0.453",
+      "emotion": "surprise"
+    },
+    {
+      "word": "entusiast",
+      "intensity": "0.445",
+      "emotion": "surprise"
+    },
+    {
+      "word": "utmärkt",
+      "intensity": "0.445",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bedrift",
+      "intensity": "0.445",
+      "emotion": "surprise"
+    },
+    {
+      "word": "måhända",
+      "intensity": "0.445",
+      "emotion": "surprise"
+    },
+    {
+      "word": "excel",
+      "intensity": "0.445",
+      "emotion": "surprise"
+    },
+    {
+      "word": "spelande",
+      "intensity": "0.445",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oavsiktlig",
+      "intensity": "0.438",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ljusna",
+      "intensity": "0.438",
+      "emotion": "surprise"
+    },
+    {
+      "word": "föränderlig",
+      "intensity": "0.438",
+      "emotion": "surprise"
+    },
+    {
+      "word": "försjunken",
+      "intensity": "0.438",
+      "emotion": "surprise"
+    },
+    {
+      "word": "unik",
+      "intensity": "0.438",
+      "emotion": "surprise"
+    },
+    {
+      "word": "prakt",
+      "intensity": "0.438",
+      "emotion": "surprise"
+    },
+    {
+      "word": "meningslös",
+      "intensity": "0.438",
+      "emotion": "surprise"
+    },
+    {
+      "word": "smyg",
+      "intensity": "0.430",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gåva",
+      "intensity": "0.430",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fascination",
+      "intensity": "0.430",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bävan",
+      "intensity": "0.430",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fiesta",
+      "intensity": "0.430",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förtjust",
+      "intensity": "0.430",
+      "emotion": "surprise"
+    },
+    {
+      "word": "rättegång",
+      "intensity": "0.430",
+      "emotion": "surprise"
+    },
+    {
+      "word": "intrig",
+      "intensity": "0.430",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kvicksilver",
+      "intensity": "0.422",
+      "emotion": "surprise"
+    },
+    {
+      "word": "originalitet",
+      "intensity": "0.422",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gåta",
+      "intensity": "0.422",
+      "emotion": "surprise"
+    },
+    {
+      "word": "dom",
+      "intensity": "0.422",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tjusa",
+      "intensity": "0.422",
+      "emotion": "surprise"
+    },
+    {
+      "word": "smygande",
+      "intensity": "0.422",
+      "emotion": "surprise"
+    },
+    {
+      "word": "sanningshalten",
+      "intensity": "0.414",
+      "emotion": "surprise"
+    },
+    {
+      "word": "elusive",
+      "intensity": "0.414",
+      "emotion": "surprise"
+    },
+    {
+      "word": "mened",
+      "intensity": "0.414",
+      "emotion": "surprise"
+    },
+    {
+      "word": "sprit",
+      "intensity": "0.414",
+      "emotion": "surprise"
+    },
+    {
+      "word": "befrielse",
+      "intensity": "0.414",
+      "emotion": "surprise"
+    },
+    {
+      "word": "illegitim",
+      "intensity": "0.414",
+      "emotion": "surprise"
+    },
+    {
+      "word": "synkope",
+      "intensity": "0.414",
+      "emotion": "surprise"
+    },
+    {
+      "word": "experimentera",
+      "intensity": "0.414",
+      "emotion": "surprise"
+    },
+    {
+      "word": "spelare",
+      "intensity": "0.406",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ivrig",
+      "intensity": "0.406",
+      "emotion": "surprise"
+    },
+    {
+      "word": "inspirerad",
+      "intensity": "0.406",
+      "emotion": "surprise"
+    },
+    {
+      "word": "applåder",
+      "intensity": "0.406",
+      "emotion": "surprise"
+    },
+    {
+      "word": "locka",
+      "intensity": "0.406",
+      "emotion": "surprise"
+    },
+    {
+      "word": "parad",
+      "intensity": "0.406",
+      "emotion": "surprise"
+    },
+    {
+      "word": "furstlig",
+      "intensity": "0.398",
+      "emotion": "surprise"
+    },
+    {
+      "word": "äktenskapsskillnad",
+      "intensity": "0.398",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gissa",
+      "intensity": "0.398",
+      "emotion": "surprise"
+    },
+    {
+      "word": "burlesk",
+      "intensity": "0.398",
+      "emotion": "surprise"
+    },
+    {
+      "word": "sekretess",
+      "intensity": "0.398",
+      "emotion": "surprise"
+    },
+    {
+      "word": "strävan",
+      "intensity": "0.391",
+      "emotion": "surprise"
+    },
+    {
+      "word": "peri",
+      "intensity": "0.391",
+      "emotion": "surprise"
+    },
+    {
+      "word": "glad",
+      "intensity": "0.391",
+      "emotion": "surprise"
+    },
+    {
+      "word": "hermafrodit",
+      "intensity": "0.391",
+      "emotion": "surprise"
+    },
+    {
+      "word": "överlägsenhet",
+      "intensity": "0.391",
+      "emotion": "surprise"
+    },
+    {
+      "word": "inkontinens",
+      "intensity": "0.391",
+      "emotion": "surprise"
+    },
+    {
+      "word": "arv",
+      "intensity": "0.383",
+      "emotion": "surprise"
+    },
+    {
+      "word": "Göra",
+      "intensity": "0.383",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förlora",
+      "intensity": "0.383",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kröning",
+      "intensity": "0.383",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bock",
+      "intensity": "0.383",
+      "emotion": "surprise"
+    },
+    {
+      "word": "beröm",
+      "intensity": "0.383",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kadaver",
+      "intensity": "0.383",
+      "emotion": "surprise"
+    },
+    {
+      "word": "klunk",
+      "intensity": "0.375",
+      "emotion": "surprise"
+    },
+    {
+      "word": "yster",
+      "intensity": "0.375",
+      "emotion": "surprise"
+    },
+    {
+      "word": "mystiker",
+      "intensity": "0.375",
+      "emotion": "surprise"
+    },
+    {
+      "word": "lyckas",
+      "intensity": "0.375",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förskott",
+      "intensity": "0.375",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gnistra",
+      "intensity": "0.367",
+      "emotion": "surprise"
+    },
+    {
+      "word": "hoppas",
+      "intensity": "0.367",
+      "emotion": "surprise"
+    },
+    {
+      "word": "joker",
+      "intensity": "0.367",
+      "emotion": "surprise"
+    },
+    {
+      "word": "sensuell",
+      "intensity": "0.367",
+      "emotion": "surprise"
+    },
+    {
+      "word": "utgrävning",
+      "intensity": "0.367",
+      "emotion": "surprise"
+    },
+    {
+      "word": "känsla",
+      "intensity": "0.359",
+      "emotion": "surprise"
+    },
+    {
+      "word": "underhållning",
+      "intensity": "0.359",
+      "emotion": "surprise"
+    },
+    {
+      "word": "clown",
+      "intensity": "0.352",
+      "emotion": "surprise"
+    },
+    {
+      "word": "nykomling",
+      "intensity": "0.352",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ändra",
+      "intensity": "0.352",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tilldela",
+      "intensity": "0.352",
+      "emotion": "surprise"
+    },
+    {
+      "word": "välsignelser",
+      "intensity": "0.352",
+      "emotion": "surprise"
+    },
+    {
+      "word": "senareläggning",
+      "intensity": "0.352",
+      "emotion": "surprise"
+    },
+    {
+      "word": "obit",
+      "intensity": "0.352",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kändis",
+      "intensity": "0.344",
+      "emotion": "surprise"
+    },
+    {
+      "word": "hjälte",
+      "intensity": "0.344",
+      "emotion": "surprise"
+    },
+    {
+      "word": "Start",
+      "intensity": "0.344",
+      "emotion": "surprise"
+    },
+    {
+      "word": "underbart",
+      "intensity": "0.344",
+      "emotion": "surprise"
+    },
+    {
+      "word": "högsta",
+      "intensity": "0.344",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skicklighet",
+      "intensity": "0.344",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förhärliga",
+      "intensity": "0.344",
+      "emotion": "surprise"
+    },
+    {
+      "word": "obesegrad",
+      "intensity": "0.336",
+      "emotion": "surprise"
+    },
+    {
+      "word": "minnesvärd",
+      "intensity": "0.336",
+      "emotion": "surprise"
+    },
+    {
+      "word": "helga",
+      "intensity": "0.336",
+      "emotion": "surprise"
+    },
+    {
+      "word": "återuppväcka",
+      "intensity": "0.336",
+      "emotion": "surprise"
+    },
+    {
+      "word": "optimism",
+      "intensity": "0.336",
+      "emotion": "surprise"
+    },
+    {
+      "word": "varnade",
+      "intensity": "0.336",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oerhörd",
+      "intensity": "0.336",
+      "emotion": "surprise"
+    },
+    {
+      "word": "upplösning",
+      "intensity": "0.336",
+      "emotion": "surprise"
+    },
+    {
+      "word": "flin",
+      "intensity": "0.336",
+      "emotion": "surprise"
+    },
+    {
+      "word": "beundran",
+      "intensity": "0.328",
+      "emotion": "surprise"
+    },
+    {
+      "word": "hypertrofi",
+      "intensity": "0.328",
+      "emotion": "surprise"
+    },
+    {
+      "word": "närvarande",
+      "intensity": "0.320",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ängel",
+      "intensity": "0.320",
+      "emotion": "surprise"
+    },
+    {
+      "word": "undersökning",
+      "intensity": "0.320",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fånga",
+      "intensity": "0.320",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tillfällig",
+      "intensity": "0.312",
+      "emotion": "surprise"
+    },
+    {
+      "word": "flört",
+      "intensity": "0.312",
+      "emotion": "surprise"
+    },
+    {
+      "word": "puma",
+      "intensity": "0.312",
+      "emotion": "surprise"
+    },
+    {
+      "word": "frihet",
+      "intensity": "0.312",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kyss",
+      "intensity": "0.312",
+      "emotion": "surprise"
+    },
+    {
+      "word": "omfamning",
+      "intensity": "0.312",
+      "emotion": "surprise"
+    },
+    {
+      "word": "behandla",
+      "intensity": "0.312",
+      "emotion": "surprise"
+    },
+    {
+      "word": "helgon",
+      "intensity": "0.312",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gruff",
+      "intensity": "0.312",
+      "emotion": "surprise"
+    },
+    {
+      "word": "uppsägning",
+      "intensity": "0.312",
+      "emotion": "surprise"
+    },
+    {
+      "word": "utfall",
+      "intensity": "0.305",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fulländning",
+      "intensity": "0.305",
+      "emotion": "surprise"
+    },
+    {
+      "word": "generositet",
+      "intensity": "0.305",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gratify",
+      "intensity": "0.305",
+      "emotion": "surprise"
+    },
+    {
+      "word": "saintly",
+      "intensity": "0.305",
+      "emotion": "surprise"
+    },
+    {
+      "word": "polaritet",
+      "intensity": "0.297",
+      "emotion": "surprise"
+    },
+    {
+      "word": "till sist",
+      "intensity": "0.297",
+      "emotion": "surprise"
+    },
+    {
+      "word": "annorlunda",
+      "intensity": "0.297",
+      "emotion": "surprise"
+    },
+    {
+      "word": "påtaglig",
+      "intensity": "0.297",
+      "emotion": "surprise"
+    },
+    {
+      "word": "varna",
+      "intensity": "0.297",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ceremoni",
+      "intensity": "0.297",
+      "emotion": "surprise"
+    },
+    {
+      "word": "större",
+      "intensity": "0.297",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gynnsam",
+      "intensity": "0.297",
+      "emotion": "surprise"
+    },
+    {
+      "word": "romantik",
+      "intensity": "0.289",
+      "emotion": "surprise"
+    },
+    {
+      "word": "medalj",
+      "intensity": "0.289",
+      "emotion": "surprise"
+    },
+    {
+      "word": "inbjudande",
+      "intensity": "0.289",
+      "emotion": "surprise"
+    },
+    {
+      "word": "hälsning",
+      "intensity": "0.289",
+      "emotion": "surprise"
+    },
+    {
+      "word": "uppriktig",
+      "intensity": "0.281",
+      "emotion": "surprise"
+    },
+    {
+      "word": "avgång",
+      "intensity": "0.281",
+      "emotion": "surprise"
+    },
+    {
+      "word": "resa",
+      "intensity": "0.281",
+      "emotion": "surprise"
+    },
+    {
+      "word": "accolade",
+      "intensity": "0.281",
+      "emotion": "surprise"
+    },
+    {
+      "word": "arbetskraft",
+      "intensity": "0.281",
+      "emotion": "surprise"
+    },
+    {
+      "word": "stirra",
+      "intensity": "0.273",
+      "emotion": "surprise"
+    },
+    {
+      "word": "glimma",
+      "intensity": "0.266",
+      "emotion": "surprise"
+    },
+    {
+      "word": "inbjudan",
+      "intensity": "0.266",
+      "emotion": "surprise"
+    },
+    {
+      "word": "somatisk",
+      "intensity": "0.266",
+      "emotion": "surprise"
+    },
+    {
+      "word": "beundra",
+      "intensity": "0.266",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fördjupa",
+      "intensity": "0.266",
+      "emotion": "surprise"
+    },
+    {
+      "word": "festival",
+      "intensity": "0.266",
+      "emotion": "surprise"
+    },
+    {
+      "word": "härmning",
+      "intensity": "0.266",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kompensera",
+      "intensity": "0.266",
+      "emotion": "surprise"
+    },
+    {
+      "word": "insolvens",
+      "intensity": "0.266",
+      "emotion": "surprise"
+    },
+    {
+      "word": "lekfull",
+      "intensity": "0.266",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skratt",
+      "intensity": "0.258",
+      "emotion": "surprise"
+    },
+    {
+      "word": "komplement",
+      "intensity": "0.258",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tar emot",
+      "intensity": "0.258",
+      "emotion": "surprise"
+    },
+    {
+      "word": "hypotes",
+      "intensity": "0.258",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skrocka",
+      "intensity": "0.258",
+      "emotion": "surprise"
+    },
+    {
+      "word": "smekmånad",
+      "intensity": "0.250",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gifta sig",
+      "intensity": "0.242",
+      "emotion": "surprise"
+    },
+    {
+      "word": "oberoende",
+      "intensity": "0.242",
+      "emotion": "surprise"
+    },
+    {
+      "word": "opera",
+      "intensity": "0.242",
+      "emotion": "surprise"
+    },
+    {
+      "word": "behaglig",
+      "intensity": "0.242",
+      "emotion": "surprise"
+    },
+    {
+      "word": "rytmisk",
+      "intensity": "0.234",
+      "emotion": "surprise"
+    },
+    {
+      "word": "bedömning",
+      "intensity": "0.234",
+      "emotion": "surprise"
+    },
+    {
+      "word": "hoppfull",
+      "intensity": "0.234",
+      "emotion": "surprise"
+    },
+    {
+      "word": "trofén",
+      "intensity": "0.234",
+      "emotion": "surprise"
+    },
+    {
+      "word": "helighet",
+      "intensity": "0.234",
+      "emotion": "surprise"
+    },
+    {
+      "word": "sång",
+      "intensity": "0.234",
+      "emotion": "surprise"
+    },
+    {
+      "word": "lämna",
+      "intensity": "0.234",
+      "emotion": "surprise"
+    },
+    {
+      "word": "procession",
+      "intensity": "0.227",
+      "emotion": "surprise"
+    },
+    {
+      "word": "plakat",
+      "intensity": "0.227",
+      "emotion": "surprise"
+    },
+    {
+      "word": "handla",
+      "intensity": "0.219",
+      "emotion": "surprise"
+    },
+    {
+      "word": "vårda",
+      "intensity": "0.219",
+      "emotion": "surprise"
+    },
+    {
+      "word": "Bra",
+      "intensity": "0.219",
+      "emotion": "surprise"
+    },
+    {
+      "word": "musikalisk",
+      "intensity": "0.219",
+      "emotion": "surprise"
+    },
+    {
+      "word": "skal",
+      "intensity": "0.211",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gryning",
+      "intensity": "0.211",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förenkla",
+      "intensity": "0.211",
+      "emotion": "surprise"
+    },
+    {
+      "word": "renhet",
+      "intensity": "0.203",
+      "emotion": "surprise"
+    },
+    {
+      "word": "annullera",
+      "intensity": "0.203",
+      "emotion": "surprise"
+    },
+    {
+      "word": "pengar",
+      "intensity": "0.203",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ljuv",
+      "intensity": "0.203",
+      "emotion": "surprise"
+    },
+    {
+      "word": "moral",
+      "intensity": "0.203",
+      "emotion": "surprise"
+    },
+    {
+      "word": "synkronisera",
+      "intensity": "0.195",
+      "emotion": "surprise"
+    },
+    {
+      "word": "konserveringsmedel",
+      "intensity": "0.195",
+      "emotion": "surprise"
+    },
+    {
+      "word": "humanitär",
+      "intensity": "0.195",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ouppfylld",
+      "intensity": "0.195",
+      "emotion": "surprise"
+    },
+    {
+      "word": "dyrbar",
+      "intensity": "0.195",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tvinga",
+      "intensity": "0.188",
+      "emotion": "surprise"
+    },
+    {
+      "word": "singularly",
+      "intensity": "0.188",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förutse",
+      "intensity": "0.180",
+      "emotion": "surprise"
+    },
+    {
+      "word": "be",
+      "intensity": "0.180",
+      "emotion": "surprise"
+    },
+    {
+      "word": "gradering",
+      "intensity": "0.180",
+      "emotion": "surprise"
+    },
+    {
+      "word": "härlig",
+      "intensity": "0.180",
+      "emotion": "surprise"
+    },
+    {
+      "word": "Sol",
+      "intensity": "0.172",
+      "emotion": "surprise"
+    },
+    {
+      "word": "konst",
+      "intensity": "0.172",
+      "emotion": "surprise"
+    },
+    {
+      "word": "mun",
+      "intensity": "0.172",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ungdom",
+      "intensity": "0.172",
+      "emotion": "surprise"
+    },
+    {
+      "word": "törst",
+      "intensity": "0.172",
+      "emotion": "surprise"
+    },
+    {
+      "word": "ung",
+      "intensity": "0.164",
+      "emotion": "surprise"
+    },
+    {
+      "word": "godhet",
+      "intensity": "0.164",
+      "emotion": "surprise"
+    },
+    {
+      "word": "försenad",
+      "intensity": "0.156",
+      "emotion": "surprise"
+    },
+    {
+      "word": "visir",
+      "intensity": "0.156",
+      "emotion": "surprise"
+    },
+    {
+      "word": "tränad",
+      "intensity": "0.156",
+      "emotion": "surprise"
+    },
+    {
+      "word": "latent",
+      "intensity": "0.156",
+      "emotion": "surprise"
+    },
+    {
+      "word": "lojala",
+      "intensity": "0.148",
+      "emotion": "surprise"
+    },
+    {
+      "word": "förvänta",
+      "intensity": "0.148",
+      "emotion": "surprise"
+    },
+    {
+      "word": "destination",
+      "intensity": "0.148",
+      "emotion": "surprise"
+    },
+    {
+      "word": "trådlös",
+      "intensity": "0.148",
+      "emotion": "surprise"
+    },
+    {
+      "word": "Citat",
+      "intensity": "0.141",
+      "emotion": "surprise"
+    },
+    {
+      "word": "slask",
+      "intensity": "0.141",
+      "emotion": "surprise"
+    },
+    {
+      "word": "spädbarn",
+      "intensity": "0.141",
+      "emotion": "surprise"
+    },
+    {
+      "word": "grädde",
+      "intensity": "0.141",
+      "emotion": "surprise"
+    },
+    {
+      "word": "lekplats",
+      "intensity": "0.133",
+      "emotion": "surprise"
+    },
+    {
+      "word": "organisation",
+      "intensity": "0.125",
+      "emotion": "surprise"
+    },
+    {
+      "word": "lära",
+      "intensity": "0.125",
+      "emotion": "surprise"
+    },
+    {
+      "word": "rösta",
+      "intensity": "0.125",
+      "emotion": "surprise"
+    },
+    {
+      "word": "leende",
+      "intensity": "0.117",
+      "emotion": "surprise"
+    },
+    {
+      "word": "vikt",
+      "intensity": "0.117",
+      "emotion": "surprise"
+    },
+    {
+      "word": "delfin",
+      "intensity": "0.117",
+      "emotion": "surprise"
+    },
+    {
+      "word": "systerskap",
+      "intensity": "0.109",
+      "emotion": "surprise"
+    },
+    {
+      "word": "kabel-",
+      "intensity": "0.109",
+      "emotion": "surprise"
+    },
+    {
+      "word": "solig",
+      "intensity": "0.102",
+      "emotion": "surprise"
+    },
+    {
+      "word": "stadig",
+      "intensity": "0.094",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fritid",
+      "intensity": "0.086",
+      "emotion": "surprise"
+    },
+    {
+      "word": "fredlig",
+      "intensity": "0.086",
+      "emotion": "surprise"
+    },
+    {
+      "word": "spa",
+      "intensity": "0.086",
+      "emotion": "surprise"
+    },
+    {
+      "word": "träd",
+      "intensity": "0.078",
+      "emotion": "surprise"
+    },
+    {
+      "word": "picknick",
+      "intensity": "0.078",
+      "emotion": "surprise"
+    },
+    {
+      "word": "mask",
+      "intensity": "0.055",
+      "emotion": "surprise"
+    }
+  ],
+  "meta": {
+    "title": "Emotionsord – Överraskning - Gratis nedladdning",
+    "description": "Svenska ord associerade med överraskning, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska). Innehåller 539 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Emotionsord – Överraskning | ListBase",
+    "seo_description": "Ladda ner Emotionsord – Överraskning — 539 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 539 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

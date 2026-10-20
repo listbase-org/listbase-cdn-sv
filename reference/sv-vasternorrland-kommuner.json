@@ -1,0 +1,124 @@
+{
+  "id": "sv-vasternorrland-kommuner",
+  "name": "Kommuner i Västernorrlands län",
+  "title": "Kommuner i Västernorrlands län",
+  "description": "7 kommuner i Västernorrlands län (länskod 22, ISO SE-Y , residensstad Härnösand). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "2260",
+      "name": "Ånge kommun",
+      "name_short": "Ånge",
+      "slug": "ange",
+      "locality": "ÅNGE",
+      "url": "http://www.ange.se",
+      "num_postnummer": 66
+    },
+    {
+      "kommunkod": "2262",
+      "name": "Timrå kommun",
+      "name_short": "Timrå",
+      "slug": "timra",
+      "locality": "TIMRÅ",
+      "url": "http://www.timra.se",
+      "num_postnummer": 329
+    },
+    {
+      "kommunkod": "2280",
+      "name": "Härnösands kommun",
+      "name_short": "Härnösand",
+      "slug": "harnosand",
+      "locality": "HÄRNÖSAND",
+      "url": "http://www.harnosand.se",
+      "num_postnummer": 80
+    },
+    {
+      "kommunkod": "2281",
+      "name": "Sundsvalls kommun",
+      "name_short": "Sundsvall",
+      "slug": "sundsvall",
+      "locality": "SUNDSVALL",
+      "url": "http://www.sundsvall.se",
+      "num_postnummer": 335
+    },
+    {
+      "kommunkod": "2282",
+      "name": "Kramfors kommun",
+      "name_short": "Kramfors",
+      "slug": "kramfors",
+      "locality": "KRAMFORS",
+      "url": "http://www.kramfors.se",
+      "num_postnummer": 107
+    },
+    {
+      "kommunkod": "2283",
+      "name": "Sollefteå kommun",
+      "name_short": "Sollefteå",
+      "slug": "solleftea",
+      "locality": "SOLLEFTEÅ",
+      "url": "http://www.solleftea.se",
+      "num_postnummer": 177
+    },
+    {
+      "kommunkod": "2284",
+      "name": "Örnsköldsviks kommun",
+      "name_short": "Örnsköldsvik",
+      "slug": "ornskoldsvik",
+      "locality": "ÖRNSKÖLDSVIK",
+      "url": "http://www.ornskoldsvik.se",
+      "num_postnummer": 204
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Västernorrlands län - Gratis nedladdning",
+    "description": "7 kommuner i Västernorrlands län (länskod 22, ISO SE-Y , residensstad Härnösand). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 7 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Västernorrlands län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Västernorrlands län — 7 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 7 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

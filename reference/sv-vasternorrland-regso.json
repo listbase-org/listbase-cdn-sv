@@ -1,0 +1,702 @@
+{
+  "id": "sv-vasternorrland-regso",
+  "name": "RegSO-områden i Västernorrlands län",
+  "title": "RegSO-områden i Västernorrlands län",
+  "description": "93 regionala statistikområden (RegSO) i Västernorrlands län (länskod 22). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "2260R001",
+      "regso_namn": "Fränsta",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2260R002",
+      "regso_namn": "Ljungaverk",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2260R003",
+      "regso_namn": "Ånge omland",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2260R004",
+      "regso_namn": "Ånge tätort",
+      "kommun_kod": "2260",
+      "kommun_namn": "Ånge",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2262R001",
+      "regso_namn": "Bergeforsen-Stavreviken",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2262R002",
+      "regso_namn": "Edsgården-Vävland-Timrådalen",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2262R003",
+      "regso_namn": "Ljustorp",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2262R004",
+      "regso_namn": "Sörberge-Fagervik-Norrberge",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2262R005",
+      "regso_namn": "Söråker",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2262R006",
+      "regso_namn": "Tallnäs-Böle",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2262R007",
+      "regso_namn": "Timrå centrum",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2262R008",
+      "regso_namn": "Timrå-Söråker omland",
+      "kommun_kod": "2262",
+      "kommun_namn": "Timrå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2280R001",
+      "regso_namn": "Bondsjöhöjden-Härnön östra-Häggdånger",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2280R002",
+      "regso_namn": "Hemsön-Älandsbro-Ramsås",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2280R003",
+      "regso_namn": "Härnösand centrum",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2280R004",
+      "regso_namn": "Härnösand södra",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2280R005",
+      "regso_namn": "Murberget-Gådeåstaden",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2280R006",
+      "regso_namn": "Norra Brännan-Eriksdal-Gånsvik",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2280R007",
+      "regso_namn": "Rotudden-Hälletorp-Bondsjöstaden",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2280R008",
+      "regso_namn": "Stigsjö-Viksjö",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2280R009",
+      "regso_namn": "Södra Brännan-Stenhammar-Nickebo",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2280R010",
+      "regso_namn": "Utansjö-Ramvik",
+      "kommun_kod": "2280",
+      "kommun_namn": "Härnösand",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R001",
+      "regso_namn": "Allsta-Klingsta",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R002",
+      "regso_namn": "Alnö",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R003",
+      "regso_namn": "Bergsåker västra",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R004",
+      "regso_namn": "Bergsåker östra",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R005",
+      "regso_namn": "Bosvedjan",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R006",
+      "regso_namn": "Bredsand",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R007",
+      "regso_namn": "Bydalen",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R008",
+      "regso_namn": "Essvik-Svartvik",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R009",
+      "regso_namn": "Granlo",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R010",
+      "regso_namn": "Granloholm",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R011",
+      "regso_namn": "Haga",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R012",
+      "regso_namn": "Indal-Liden",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R013",
+      "regso_namn": "Juniskär-Skottsund",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R014",
+      "regso_namn": "Korsta-Tunadal",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R015",
+      "regso_namn": "Kovland",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R016",
+      "regso_namn": "Kvissleby",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R017",
+      "regso_namn": "Ljustadalen-Sundsbruk",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R018",
+      "regso_namn": "Matfors",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R019",
+      "regso_namn": "Nacksta",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R020",
+      "regso_namn": "Njurunda Södra",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R021",
+      "regso_namn": "Njurundabommen",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R022",
+      "regso_namn": "Norrmalm",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R023",
+      "regso_namn": "Sallyhill",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R024",
+      "regso_namn": "Sidsjö-Böle",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R025",
+      "regso_namn": "Skönsberg",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R026",
+      "regso_namn": "Skönsmon",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R027",
+      "regso_namn": "Stenstan",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R028",
+      "regso_namn": "Stöde",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R029",
+      "regso_namn": "Sundsvall omland",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R030",
+      "regso_namn": "Södermalm-Östermalm",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2281R031",
+      "regso_namn": "Västermalm",
+      "kommun_kod": "2281",
+      "kommun_namn": "Sundsvall",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R001",
+      "regso_namn": "Bollstabruk",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R002",
+      "regso_namn": "Kramfors stad centrum",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R003",
+      "regso_namn": "Kramfors stad södra",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R004",
+      "regso_namn": "Kramfors stad västra",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R005",
+      "regso_namn": "Kramfors stad östra",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R006",
+      "regso_namn": "Nora-Skog",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R007",
+      "regso_namn": "Nordingrå",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R008",
+      "regso_namn": "Nyland-Sandslån",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R009",
+      "regso_namn": "Ullånger",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R010",
+      "regso_namn": "Vibyggerå",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R011",
+      "regso_namn": "Väja-Dynäs",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R012",
+      "regso_namn": "Älven västra",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2282R013",
+      "regso_namn": "Älven östra",
+      "kommun_kod": "2282",
+      "kommun_namn": "Kramfors",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2283R001",
+      "regso_namn": "Graninge-Helgum",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2283R002",
+      "regso_namn": "Junsele-Ramsele",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2283R003",
+      "regso_namn": "Långsele",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2283R004",
+      "regso_namn": "Näsåker-Resele",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2283R005",
+      "regso_namn": "Skedom-Skärvsta-Prästbordet",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2283R006",
+      "regso_namn": "Sollefteå centrum-Övergård",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2283R007",
+      "regso_namn": "Sollefteå omland",
+      "kommun_kod": "2283",
+      "kommun_namn": "Sollefteå",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R001",
+      "regso_namn": "Anundsjö-Solberg",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R002",
+      "regso_namn": "Bjästa",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R003",
+      "regso_namn": "Bredbyn",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R004",
+      "regso_namn": "Domsjö-Gene",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R005",
+      "regso_namn": "Gideälvdal",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R006",
+      "regso_namn": "Gimåt-Högland-Arnäsvall",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R007",
+      "regso_namn": "Grundsunda",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R008",
+      "regso_namn": "Gullänget-Kroksta",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R009",
+      "regso_namn": "Husum",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R010",
+      "regso_namn": "Hörnett-Sund",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R011",
+      "regso_namn": "Järved-Bonäset-Dekarsön",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R012",
+      "regso_namn": "Köpmanholmen",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R013",
+      "regso_namn": "Mellansel-Gottne-Moliden",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R014",
+      "regso_namn": "Nätradalens omland",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R015",
+      "regso_namn": "Sjukhuset-Gullänget",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R016",
+      "regso_namn": "Valhalla-Sörliden",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R017",
+      "regso_namn": "Västerhus-Själevad-Billsta",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R018",
+      "regso_namn": "Örnsköldsviks centrum",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R019",
+      "regso_namn": "Örnsköldsviks östra omland",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    },
+    {
+      "regso_kod": "2284R020",
+      "regso_namn": "Översjäla-Ås",
+      "kommun_kod": "2284",
+      "kommun_namn": "Örnsköldsvik",
+      "lan_kod": "22"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Västernorrlands län - Gratis nedladdning",
+    "description": "93 regionala statistikområden (RegSO) i Västernorrlands län (länskod 22). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 93 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Västernorrlands län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Västernorrlands län — 93 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 93 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

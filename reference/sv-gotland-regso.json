@@ -1,0 +1,135 @@
+{
+  "id": "sv-gotland-regso",
+  "name": "RegSO-områden i Gotlands län",
+  "title": "RegSO-områden i Gotlands län",
+  "description": "12 regionala statistikområden (RegSO) i Gotlands län (länskod 09). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "0980R001",
+      "regso_namn": "Bingeby",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    },
+    {
+      "regso_kod": "0980R002",
+      "regso_namn": "Gotland mellersta",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    },
+    {
+      "regso_kod": "0980R003",
+      "regso_namn": "Gotland norra",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    },
+    {
+      "regso_kod": "0980R004",
+      "regso_namn": "Gotland södra",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    },
+    {
+      "regso_kod": "0980R005",
+      "regso_namn": "Gråbo",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    },
+    {
+      "regso_kod": "0980R006",
+      "regso_namn": "Hemse",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    },
+    {
+      "regso_kod": "0980R007",
+      "regso_namn": "Innerstaden-Visby norra",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    },
+    {
+      "regso_kod": "0980R008",
+      "regso_namn": "Klintehamn",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    },
+    {
+      "regso_kod": "0980R009",
+      "regso_namn": "Roma",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    },
+    {
+      "regso_kod": "0980R010",
+      "regso_namn": "Slite",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    },
+    {
+      "regso_kod": "0980R011",
+      "regso_namn": "Visby omland",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    },
+    {
+      "regso_kod": "0980R012",
+      "regso_namn": "Visby södra",
+      "kommun_kod": "0980",
+      "kommun_namn": "Gotland",
+      "lan_kod": "09"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Gotlands län - Gratis nedladdning",
+    "description": "12 regionala statistikområden (RegSO) i Gotlands län (länskod 09). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 12 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Gotlands län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Gotlands län — 12 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 12 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

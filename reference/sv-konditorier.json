@@ -1,0 +1,551 @@
+{
+  "id": "sv-konditorier",
+  "name": "Konditorier (Pastry shops)",
+  "title": "Konditorier (Pastry shops)",
+  "description": "Konditorier i Sverige — OpenStreetMap-punktdata (OSM-tagg: shop=pastry). Swedish pastry shops as named point locations with WGS84 coordinates. 102 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A Blossom in a Cake",
+      "latitude": 58.407963,
+      "longitude": 15.618689
+    },
+    {
+      "name": "Aboullaban Sweets",
+      "latitude": 58.597439,
+      "longitude": 16.171188
+    },
+    {
+      "name": "Al Mounajed Sweet",
+      "latitude": 59.378649,
+      "longitude": 13.503955
+    },
+    {
+      "name": "Al Rayyes Sweets",
+      "latitude": 55.584913,
+      "longitude": 13.0277
+    },
+    {
+      "name": "Al Zawwak konditori",
+      "latitude": 59.608596,
+      "longitude": 16.537535
+    },
+    {
+      "name": "Alnö Hembageri",
+      "latitude": 62.428583,
+      "longitude": 17.415855
+    },
+    {
+      "name": "Alvesta Hembageri",
+      "latitude": 56.900646,
+      "longitude": 14.556668
+    },
+    {
+      "name": "Ambrosia Café & Konditori",
+      "latitude": 55.605766,
+      "longitude": 13.00757
+    },
+    {
+      "name": "Bageri & Konditori Kardemumma Enebyberg",
+      "latitude": 59.432338,
+      "longitude": 18.039668
+    },
+    {
+      "name": "Baklava hus",
+      "latitude": 62.392304,
+      "longitude": 17.306808
+    },
+    {
+      "name": "Bengtssons bästa",
+      "latitude": 55.875585,
+      "longitude": 12.838502
+    },
+    {
+      "name": "Blombacka Hembageri",
+      "latitude": 58.384557,
+      "longitude": 13.433769
+    },
+    {
+      "name": "Bread Factory",
+      "latitude": 59.369843,
+      "longitude": 17.973568
+    },
+    {
+      "name": "Brogyllen",
+      "latitude": 57.65141,
+      "longitude": 11.987781
+    },
+    {
+      "name": "Broqvist Konditori",
+      "latitude": 56.878956,
+      "longitude": 14.810474
+    },
+    {
+      "name": "Brynolf bagare",
+      "latitude": 59.610391,
+      "longitude": 16.613341
+    },
+    {
+      "name": "Bröd & Salt",
+      "latitude": 59.29892,
+      "longitude": 18.01398
+    },
+    {
+      "name": "Cake Center",
+      "latitude": 57.692697,
+      "longitude": 11.953411
+    },
+    {
+      "name": "Cakes of Love",
+      "latitude": 55.874959,
+      "longitude": 12.831594
+    },
+    {
+      "name": "Conditori Boulevard",
+      "latitude": 56.038625,
+      "longitude": 14.163957
+    },
+    {
+      "name": "Conditori Cecil",
+      "latitude": 56.513162,
+      "longitude": 13.04386
+    },
+    {
+      "name": "Conditori Nordpolen",
+      "latitude": 58.260771,
+      "longitude": 12.953792
+    },
+    {
+      "name": "Dahls Bageributik",
+      "latitude": 57.707387,
+      "longitude": 11.968004
+    },
+    {
+      "name": "Dame Ginette",
+      "latitude": 55.607482,
+      "longitude": 13.01717
+    },
+    {
+      "name": "Danielas Konditori",
+      "latitude": 56.158151,
+      "longitude": 13.766012
+    },
+    {
+      "name": "Desserterie & Catering",
+      "latitude": 58.413765,
+      "longitude": 15.60856
+    },
+    {
+      "name": "Dri Konditori",
+      "latitude": 59.853577,
+      "longitude": 17.660007
+    },
+    {
+      "name": "Einars konditori",
+      "latitude": 58.348878,
+      "longitude": 11.942701
+    },
+    {
+      "name": "Ekelunds konditori",
+      "latitude": 56.66477,
+      "longitude": 16.349992
+    },
+    {
+      "name": "Ekmans Konditori",
+      "latitude": 58.286356,
+      "longitude": 12.288317
+    },
+    {
+      "name": "Esters Hantverksbageri",
+      "latitude": 58.591069,
+      "longitude": 16.174771
+    },
+    {
+      "name": "Estvalls Café",
+      "latitude": 56.899946,
+      "longitude": 14.556068
+    },
+    {
+      "name": "Fjällkonditoriet",
+      "latitude": 62.112792,
+      "longitude": 13.271631
+    },
+    {
+      "name": "Gamla Östberga Bageri",
+      "latitude": 59.283848,
+      "longitude": 18.042503
+    },
+    {
+      "name": "Gateau",
+      "latitude": 59.403554,
+      "longitude": 17.947101
+    },
+    {
+      "name": "Gilberts Konditori",
+      "latitude": 57.777296,
+      "longitude": 14.222714
+    },
+    {
+      "name": "Hanis Cafe & Konditori",
+      "latitude": 57.655684,
+      "longitude": 12.014797
+    },
+    {
+      "name": "Hennings Konditori",
+      "latitude": 56.878483,
+      "longitude": 14.789675
+    },
+    {
+      "name": "Honey Sweets",
+      "latitude": 59.205132,
+      "longitude": 17.644785
+    },
+    {
+      "name": "Jähnkes Konditori",
+      "latitude": 58.345396,
+      "longitude": 11.928712
+    },
+    {
+      "name": "Kajsa På Sundings Konditori",
+      "latitude": 63.308142,
+      "longitude": 13.663283
+    },
+    {
+      "name": "Konditori &",
+      "latitude": 56.157567,
+      "longitude": 13.764996
+    },
+    {
+      "name": "Konditori & Café Madame",
+      "latitude": 60.633181,
+      "longitude": 16.995059
+    },
+    {
+      "name": "Konditori Centrum",
+      "latitude": 57.710434,
+      "longitude": 12.792144
+    },
+    {
+      "name": "Konditori Kaveh",
+      "latitude": 59.414994,
+      "longitude": 17.913702
+    },
+    {
+      "name": "Konditori Rosetten",
+      "latitude": 57.771212,
+      "longitude": 14.157999
+    },
+    {
+      "name": "Konditori Rosetten",
+      "latitude": 57.776557,
+      "longitude": 14.17865
+    },
+    {
+      "name": "Konditori Trianon",
+      "latitude": 59.870447,
+      "longitude": 17.627733
+    },
+    {
+      "name": "Kopparberg Konditori",
+      "latitude": 59.875559,
+      "longitude": 14.99606
+    },
+    {
+      "name": "Kristers Bageri & Konditori",
+      "latitude": 59.615527,
+      "longitude": 17.719935
+    },
+    {
+      "name": "Krümel shop",
+      "latitude": 59.347375,
+      "longitude": 18.06689
+    },
+    {
+      "name": "Landhs Konditori",
+      "latitude": 57.860359,
+      "longitude": 14.123503
+    },
+    {
+      "name": "Laure's Fika Umeå",
+      "latitude": 63.82944,
+      "longitude": 20.265322
+    },
+    {
+      "name": "Leijon Stenugnsbageri & Konditori",
+      "latitude": 59.865992,
+      "longitude": 17.668573
+    },
+    {
+      "name": "Libanon Konditori",
+      "latitude": 55.589651,
+      "longitude": 13.015626
+    },
+    {
+      "name": "Lindahls Konditori",
+      "latitude": 58.563648,
+      "longitude": 16.178572
+    },
+    {
+      "name": "Lindahls Konditori",
+      "latitude": 58.586189,
+      "longitude": 16.190022
+    },
+    {
+      "name": "Mekka",
+      "latitude": 63.828947,
+      "longitude": 20.265524
+    },
+    {
+      "name": "Milo's Kiflice",
+      "latitude": 55.607441,
+      "longitude": 13.023831
+    },
+    {
+      "name": "Mimmas Tårtdesign & Café",
+      "latitude": 55.471298,
+      "longitude": 13.019908
+    },
+    {
+      "name": "Minigolf och kafé",
+      "latitude": 59.655858,
+      "longitude": 18.272214
+    },
+    {
+      "name": "Mormors Kunafa",
+      "latitude": 55.58198,
+      "longitude": 13.065039
+    },
+    {
+      "name": "Mr Cake",
+      "latitude": 59.32993,
+      "longitude": 18.058088
+    },
+    {
+      "name": "Mr Cake",
+      "latitude": 59.33417,
+      "longitude": 18.067539
+    },
+    {
+      "name": "Nya konditoriet",
+      "latitude": 63.826207,
+      "longitude": 20.261566
+    },
+    {
+      "name": "Nya Konditoriet",
+      "latitude": 61.798343,
+      "longitude": 16.550808
+    },
+    {
+      "name": "Näslunds Konditori",
+      "latitude": 63.569601,
+      "longitude": 19.503301
+    },
+    {
+      "name": "Original Sham Sweets",
+      "latitude": 58.595174,
+      "longitude": 16.174274
+    },
+    {
+      "name": "Paulssons Konditori",
+      "latitude": 56.673108,
+      "longitude": 12.864162
+    },
+    {
+      "name": "Percy Pastries",
+      "latitude": 55.588661,
+      "longitude": 12.927105
+    },
+    {
+      "name": "Peters konditori och stenugnsbageri",
+      "latitude": 56.886643,
+      "longitude": 12.512442
+    },
+    {
+      "name": "Petra Sweets",
+      "latitude": 59.276664,
+      "longitude": 17.903958
+    },
+    {
+      "name": "Petra's Cake",
+      "latitude": 58.410488,
+      "longitude": 15.62102
+    },
+    {
+      "name": "Petra's Cake",
+      "latitude": 58.405828,
+      "longitude": 15.616635
+    },
+    {
+      "name": "Princesskonditoriet",
+      "latitude": 59.36283,
+      "longitude": 17.969615
+    },
+    {
+      "name": "Regnbågen",
+      "latitude": 56.673903,
+      "longitude": 12.852406
+    },
+    {
+      "name": "Ritz",
+      "latitude": 58.286049,
+      "longitude": 12.291582
+    },
+    {
+      "name": "Roffes Konditori",
+      "latitude": 59.188465,
+      "longitude": 17.621089
+    },
+    {
+      "name": "S-Foodies",
+      "latitude": 59.847879,
+      "longitude": 17.651251
+    },
+    {
+      "name": "Sham Sweets",
+      "latitude": 58.407927,
+      "longitude": 15.618019
+    },
+    {
+      "name": "Sjömans Konditori",
+      "latitude": 59.51351,
+      "longitude": 15.993269
+    },
+    {
+      "name": "Skärblacka Hembageri",
+      "latitude": 58.581175,
+      "longitude": 15.914346
+    },
+    {
+      "name": "Skåres Konditori",
+      "latitude": 56.879888,
+      "longitude": 14.8087
+    },
+    {
+      "name": "Smörgås",
+      "latitude": 57.695323,
+      "longitude": 11.933866
+    },
+    {
+      "name": "Steinbrenner & Nyberg",
+      "latitude": 57.655193,
+      "longitude": 12.012365
+    },
+    {
+      "name": "Steinbrenner & Nyberg",
+      "latitude": 57.873815,
+      "longitude": 11.968778
+    },
+    {
+      "name": "Sudersands Stenugnsbageri",
+      "latitude": 57.955366,
+      "longitude": 19.251225
+    },
+    {
+      "name": "Sultans Konditori",
+      "latitude": 58.997539,
+      "longitude": 16.208719
+    },
+    {
+      "name": "Söt & Sur Bageri",
+      "latitude": 59.262524,
+      "longitude": 18.013813
+    },
+    {
+      "name": "Sött hus",
+      "latitude": 58.405589,
+      "longitude": 15.642681
+    },
+    {
+      "name": "Tahiti Konditori",
+      "latitude": 55.853226,
+      "longitude": 13.661712
+    },
+    {
+      "name": "Thelins",
+      "latitude": 59.35837,
+      "longitude": 18.000338
+    },
+    {
+      "name": "Thelins",
+      "latitude": 59.361435,
+      "longitude": 17.964915
+    },
+    {
+      "name": "Toftanaise, ICA MAxi",
+      "latitude": 55.597648,
+      "longitude": 13.098732
+    },
+    {
+      "name": "Ullas kondis",
+      "latitude": 63.836424,
+      "longitude": 20.2336
+    },
+    {
+      "name": "Vanilla House of Cake",
+      "latitude": 59.208046,
+      "longitude": 17.64085
+    },
+    {
+      "name": "Viva La Sweet",
+      "latitude": 59.195513,
+      "longitude": 17.626125
+    },
+    {
+      "name": "Vivels konditori",
+      "latitude": 59.338478,
+      "longitude": 17.939063
+    },
+    {
+      "name": "Wards Konditori",
+      "latitude": 58.350074,
+      "longitude": 11.934824
+    },
+    {
+      "name": "Wiener",
+      "latitude": 59.59385,
+      "longitude": 15.227069
+    },
+    {
+      "name": "Wienerkonditoriet",
+      "latitude": 58.349559,
+      "longitude": 11.933711
+    },
+    {
+      "name": "Öhrmans Konditori",
+      "latitude": 59.611375,
+      "longitude": 16.54352
+    }
+  ],
+  "meta": {
+    "title": "Konditorier (Pastry shops) - Gratis nedladdning",
+    "description": "Konditorier i Sverige — OpenStreetMap-punktdata (OSM-tagg: shop=pastry). Swedish pastry shops as named point locations with WGS84 coordinates. 102 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 102 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Konditorier (Pastry shops) | ListBase",
+    "seo_description": "Ladda ner Konditorier (Pastry shops) — 102 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 102 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

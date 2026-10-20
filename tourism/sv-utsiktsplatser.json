@@ -1,0 +1,2686 @@
+{
+  "id": "sv-utsiktsplatser",
+  "name": "Utsiktsplatser (Viewpoints)",
+  "title": "Utsiktsplatser (Viewpoints)",
+  "description": "Utsiktsplatser i Sverige — OpenStreetMap-punktdata (OSM-tagg: tourism=viewpoint). Swedish viewpoints as named point locations with WGS84 coordinates. 529 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 529,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "360deg",
+      "latitude": 59.460518,
+      "longitude": 18.051463
+    },
+    {
+      "name": "Alep Spádnek",
+      "latitude": 67.213582,
+      "longitude": 17.980881
+    },
+    {
+      "name": "Alsjöklint",
+      "latitude": 59.097267,
+      "longitude": 17.412472
+    },
+    {
+      "name": "Amerika Berget",
+      "latitude": 59.130455,
+      "longitude": 18.403883
+    },
+    {
+      "name": "Ananasse",
+      "latitude": 66.863257,
+      "longitude": 19.892061
+    },
+    {
+      "name": "Angsjöutsikten",
+      "latitude": 63.967449,
+      "longitude": 18.04925
+    },
+    {
+      "name": "Ankringen",
+      "latitude": 59.309355,
+      "longitude": 17.968166
+    },
+    {
+      "name": "Antarsberget",
+      "latitude": 63.454274,
+      "longitude": 18.17941
+    },
+    {
+      "name": "Arlanda Airport utsiktsplats",
+      "latitude": 59.65051,
+      "longitude": 17.966429
+    },
+    {
+      "name": "Arneberget",
+      "latitude": 63.530085,
+      "longitude": 18.001388
+    },
+    {
+      "name": "Askasfallet",
+      "latitude": 66.806561,
+      "longitude": 20.153581
+    },
+    {
+      "name": "Asons By utsikten",
+      "latitude": 57.897182,
+      "longitude": 14.516471
+    },
+    {
+      "name": "August Kobbs Stigs Utsiktsplats",
+      "latitude": 57.693185,
+      "longitude": 11.945275
+    },
+    {
+      "name": "Aurora Sky Station",
+      "latitude": 68.361713,
+      "longitude": 18.723346
+    },
+    {
+      "name": "Aurora view point",
+      "latitude": 68.409018,
+      "longitude": 18.666663
+    },
+    {
+      "name": "Badklipporna",
+      "latitude": 59.592222,
+      "longitude": 19.177196
+    },
+    {
+      "name": "Balingsta kvarn",
+      "latitude": 59.202589,
+      "longitude": 18.032535
+    },
+    {
+      "name": "Barakullen",
+      "latitude": 56.2907,
+      "longitude": 12.486546
+    },
+    {
+      "name": "Bastion Christina Regina",
+      "latitude": 57.701487,
+      "longitude": 11.960016
+    },
+    {
+      "name": "Belvederen",
+      "latitude": 58.404407,
+      "longitude": 15.620537
+    },
+    {
+      "name": "Berga",
+      "latitude": 59.327119,
+      "longitude": 14.81496
+    },
+    {
+      "name": "Berget",
+      "latitude": 56.511774,
+      "longitude": 14.235019
+    },
+    {
+      "name": "Berghagen",
+      "latitude": 57.750383,
+      "longitude": 14.206776
+    },
+    {
+      "name": "Bergtjärn",
+      "latitude": 63.801481,
+      "longitude": 13.802648
+    },
+    {
+      "name": "Bergåsen",
+      "latitude": 62.552136,
+      "longitude": 15.91919
+    },
+    {
+      "name": "Billaberget",
+      "latitude": 63.325342,
+      "longitude": 18.484264
+    },
+    {
+      "name": "Bird tower",
+      "latitude": 59.162888,
+      "longitude": 18.244728
+    },
+    {
+      "name": "Birds view",
+      "latitude": 59.293574,
+      "longitude": 15.268394
+    },
+    {
+      "name": "Bispbergs klack",
+      "latitude": 60.35671,
+      "longitude": 15.815695
+    },
+    {
+      "name": "Björkberget",
+      "latitude": 60.513778,
+      "longitude": 15.09802
+    },
+    {
+      "name": "Björkmans kulle",
+      "latitude": 58.017383,
+      "longitude": 14.46373
+    },
+    {
+      "name": "Björnbergets utkiksplats",
+      "latitude": 63.982395,
+      "longitude": 18.036616
+    },
+    {
+      "name": "Björnknösen",
+      "latitude": 65.260408,
+      "longitude": 15.504126
+    },
+    {
+      "name": "Blacksåsberget",
+      "latitude": 61.598201,
+      "longitude": 15.997241
+    },
+    {
+      "name": "Bligehöj",
+      "latitude": 55.723843,
+      "longitude": 13.527017
+    },
+    {
+      "name": "Blänkabacken",
+      "latitude": 59.253624,
+      "longitude": 15.300345
+    },
+    {
+      "name": "Blåsut",
+      "latitude": 58.384016,
+      "longitude": 12.30871
+    },
+    {
+      "name": "Bomans udde",
+      "latitude": 59.573108,
+      "longitude": 18.36723
+    },
+    {
+      "name": "Borgareberget",
+      "latitude": 59.0528,
+      "longitude": 15.153589
+    },
+    {
+      "name": "Bragnums klint",
+      "latitude": 58.327593,
+      "longitude": 12.534424
+    },
+    {
+      "name": "Brakkåfallet",
+      "latitude": 64.798311,
+      "longitude": 14.05206
+    },
+    {
+      "name": "Brattafallet",
+      "latitude": 60.293639,
+      "longitude": 13.469259
+    },
+    {
+      "name": "Bratthusberget",
+      "latitude": 63.298909,
+      "longitude": 18.50748
+    },
+    {
+      "name": "Bredablick",
+      "latitude": 58.268693,
+      "longitude": 11.428067
+    },
+    {
+      "name": "Brors Utsikt",
+      "latitude": 58.374307,
+      "longitude": 11.883144
+    },
+    {
+      "name": "Brunstorpsberget",
+      "latitude": 57.823772,
+      "longitude": 14.274657
+    },
+    {
+      "name": "Brusberget",
+      "latitude": 63.455861,
+      "longitude": 18.121862
+    },
+    {
+      "name": "Bråview",
+      "latitude": 58.668402,
+      "longitude": 16.232213
+    },
+    {
+      "name": "Buffils Annas",
+      "latitude": 60.789685,
+      "longitude": 14.853586
+    },
+    {
+      "name": "Bult-Olas utsikt",
+      "latitude": 56.191044,
+      "longitude": 15.056021
+    },
+    {
+      "name": "Bumbleberget (Orrnäsberget)",
+      "latitude": 59.243177,
+      "longitude": 18.308778
+    },
+    {
+      "name": "Bunkris brandtorn (Bunkris fire tower)",
+      "latitude": 61.42801,
+      "longitude": 13.472644
+    },
+    {
+      "name": "Bäckaby kyrkplats",
+      "latitude": 57.783372,
+      "longitude": 14.139409
+    },
+    {
+      "name": "Bäcklandshyllan",
+      "latitude": 62.909848,
+      "longitude": 18.365282
+    },
+    {
+      "name": "Börshults Utsiktsplats",
+      "latitude": 58.004369,
+      "longitude": 15.166545
+    },
+    {
+      "name": "Börsåsberget",
+      "latitude": 57.734629,
+      "longitude": 11.977791
+    },
+    {
+      "name": "Cabine 29",
+      "latitude": 58.931953,
+      "longitude": 13.135213
+    },
+    {
+      "name": "Canyon Abiskojakka",
+      "latitude": 68.355364,
+      "longitude": 18.7667
+    },
+    {
+      "name": "Carl XVI Gustafs utkik",
+      "latitude": 60.597272,
+      "longitude": 15.61131
+    },
+    {
+      "name": "City view",
+      "latitude": 59.300003,
+      "longitude": 17.956002
+    },
+    {
+      "name": "Cocos Kurva",
+      "latitude": 63.390933,
+      "longitude": 13.118433
+    },
+    {
+      "name": "Dalsberget",
+      "latitude": 62.946603,
+      "longitude": 18.189497
+    },
+    {
+      "name": "Djupdals höjden",
+      "latitude": 59.681188,
+      "longitude": 12.718699
+    },
+    {
+      "name": "Djäknebölsklinten",
+      "latitude": 63.772463,
+      "longitude": 20.103059
+    },
+    {
+      "name": "Dolperna",
+      "latitude": 63.311015,
+      "longitude": 12.525873
+    },
+    {
+      "name": "Drottningens utkik",
+      "latitude": 60.597452,
+      "longitude": 15.614933
+    },
+    {
+      "name": "Edsvik",
+      "latitude": 59.43993,
+      "longitude": 17.958566
+    },
+    {
+      "name": "Edsåsen",
+      "latitude": 57.687072,
+      "longitude": 12.050951
+    },
+    {
+      "name": "Ekebacken",
+      "latitude": 58.396557,
+      "longitude": 12.467559
+    },
+    {
+      "name": "Ekotemplet",
+      "latitude": 59.372444,
+      "longitude": 17.036401
+    },
+    {
+      "name": "Elggreten",
+      "latitude": 59.604223,
+      "longitude": 18.657467
+    },
+    {
+      "name": "Epis",
+      "latitude": 57.690985,
+      "longitude": 11.974009
+    },
+    {
+      "name": "Falkaberget",
+      "latitude": 59.331021,
+      "longitude": 14.916745
+    },
+    {
+      "name": "Falknästet utsiktspunkt",
+      "latitude": 61.631459,
+      "longitude": 15.972003
+    },
+    {
+      "name": "Fanbyklacken",
+      "latitude": 62.30438,
+      "longitude": 16.544485
+    },
+    {
+      "name": "Fatburen",
+      "latitude": 59.325988,
+      "longitude": 18.102507
+    },
+    {
+      "name": "Finske himmel",
+      "latitude": 56.184191,
+      "longitude": 15.076536
+    },
+    {
+      "name": "Fjällberget",
+      "latitude": 60.095405,
+      "longitude": 14.915977
+    },
+    {
+      "name": "Flatruet",
+      "latitude": 62.740044,
+      "longitude": 12.741352
+    },
+    {
+      "name": "Flinesjön fågelltorn",
+      "latitude": 60.365946,
+      "longitude": 16.122774
+    },
+    {
+      "name": "Fluxfallet",
+      "latitude": 57.921997,
+      "longitude": 13.097447
+    },
+    {
+      "name": "Flögberget",
+      "latitude": 62.978366,
+      "longitude": 18.406763
+    },
+    {
+      "name": "Forest View Point",
+      "latitude": 56.81699,
+      "longitude": 13.565984
+    },
+    {
+      "name": "Fridsnästornet",
+      "latitude": 57.151034,
+      "longitude": 13.664319
+    },
+    {
+      "name": "Frägnhällan Vindskydd",
+      "latitude": 62.319324,
+      "longitude": 14.7841
+    },
+    {
+      "name": "Frösundatoppen",
+      "latitude": 59.366164,
+      "longitude": 18.024842
+    },
+    {
+      "name": "Frösötornet",
+      "latitude": 63.183217,
+      "longitude": 14.597477
+    },
+    {
+      "name": "Fulltofta strand fågelskådningsplats",
+      "latitude": 55.87304,
+      "longitude": 13.600598
+    },
+    {
+      "name": "Furuhöjden",
+      "latitude": 59.362284,
+      "longitude": 14.413485
+    },
+    {
+      "name": "Fäberget",
+      "latitude": 63.017635,
+      "longitude": 18.325839
+    },
+    {
+      "name": "Fåfängan",
+      "latitude": 59.315039,
+      "longitude": 18.101229
+    },
+    {
+      "name": "Fågelkullen",
+      "latitude": 68.364673,
+      "longitude": 18.784332
+    },
+    {
+      "name": "Fågeltorn",
+      "latitude": 59.107637,
+      "longitude": 14.708273
+    },
+    {
+      "name": "Fötene dammar",
+      "latitude": 58.08041,
+      "longitude": 12.790343
+    },
+    {
+      "name": "Galgberget Castle",
+      "latitude": 56.68307,
+      "longitude": 12.851962
+    },
+    {
+      "name": "Gallberget",
+      "latitude": 59.695392,
+      "longitude": 12.70068
+    },
+    {
+      "name": "Gamla Varberg",
+      "latitude": 57.158167,
+      "longitude": 12.234834
+    },
+    {
+      "name": "Gammelhamn",
+      "latitude": 61.011582,
+      "longitude": 17.262186
+    },
+    {
+      "name": "Garnsviken",
+      "latitude": 59.503253,
+      "longitude": 18.257829
+    },
+    {
+      "name": "Garves bod",
+      "latitude": 60.637104,
+      "longitude": 15.645721
+    },
+    {
+      "name": "Gaustafallet",
+      "latitude": 64.96825,
+      "longitude": 14.202542
+    },
+    {
+      "name": "Getskump",
+      "latitude": 60.729904,
+      "longitude": 15.032118
+    },
+    {
+      "name": "Gettjärnsklätten",
+      "latitude": 59.893703,
+      "longitude": 12.951612
+    },
+    {
+      "name": "Gideberget",
+      "latitude": 63.548907,
+      "longitude": 18.640923
+    },
+    {
+      "name": "Gimsklack",
+      "latitude": 60.542644,
+      "longitude": 15.29244
+    },
+    {
+      "name": "Gluggberget",
+      "latitude": 61.630387,
+      "longitude": 15.951797
+    },
+    {
+      "name": "Glötesåsens utsiktsplats",
+      "latitude": 62.081177,
+      "longitude": 13.484496
+    },
+    {
+      "name": "Grillplats",
+      "latitude": 62.423058,
+      "longitude": 17.290833
+    },
+    {
+      "name": "Grottebergets utsiktsplats",
+      "latitude": 58.643529,
+      "longitude": 14.400375
+    },
+    {
+      "name": "Grävlingsholmen utsikt",
+      "latitude": 59.542796,
+      "longitude": 18.15013
+    },
+    {
+      "name": "Gråberget",
+      "latitude": 59.063116,
+      "longitude": 18.378055
+    },
+    {
+      "name": "Grönstaviken",
+      "latitude": 59.37834,
+      "longitude": 18.165533
+    },
+    {
+      "name": "Gullhösen",
+      "latitude": 64.061312,
+      "longitude": 19.817012
+    },
+    {
+      "name": "Gundrastorp kvarn",
+      "latitude": 56.354581,
+      "longitude": 13.701188
+    },
+    {
+      "name": "Gussiberget",
+      "latitude": 61.228879,
+      "longitude": 17.115842
+    },
+    {
+      "name": "Gustafs schakt Västra utkiken",
+      "latitude": 60.599295,
+      "longitude": 15.607842
+    },
+    {
+      "name": "Gyaberget",
+      "latitude": 55.90117,
+      "longitude": 13.386923
+    },
+    {
+      "name": "Gömsle Magle våtmark",
+      "latitude": 56.13651,
+      "longitude": 13.760646
+    },
+    {
+      "name": "Göpommen",
+      "latitude": 59.703797,
+      "longitude": 12.695117
+    },
+    {
+      "name": "Göpås",
+      "latitude": 57.958423,
+      "longitude": 12.319524
+    },
+    {
+      "name": "Götheborgsutkiken",
+      "latitude": 57.713361,
+      "longitude": 11.9673
+    },
+    {
+      "name": "Halsudden",
+      "latitude": 58.853786,
+      "longitude": 18.105587
+    },
+    {
+      "name": "Halvars utkikspunkt",
+      "latitude": 60.165785,
+      "longitude": 15.076327
+    },
+    {
+      "name": "Hamnakullen",
+      "latitude": 56.183338,
+      "longitude": 15.076809
+    },
+    {
+      "name": "Harsprångets Utsiktsplats",
+      "latitude": 59.550371,
+      "longitude": 15.094782
+    },
+    {
+      "name": "Hatten",
+      "latitude": 59.295883,
+      "longitude": 17.897688
+    },
+    {
+      "name": "Havsbad",
+      "latitude": 58.871174,
+      "longitude": 17.474305
+    },
+    {
+      "name": "Hestra klint",
+      "latitude": 57.729484,
+      "longitude": 12.91089
+    },
+    {
+      "name": "Himmelsfärdsberget",
+      "latitude": 59.339875,
+      "longitude": 17.983302
+    },
+    {
+      "name": "Hindens rev",
+      "latitude": 58.58493,
+      "longitude": 12.855429
+    },
+    {
+      "name": "Hippaberget",
+      "latitude": 62.800187,
+      "longitude": 17.45724
+    },
+    {
+      "name": "Hisneklint",
+      "latitude": 58.029351,
+      "longitude": 15.714853
+    },
+    {
+      "name": "Hjelmkollen",
+      "latitude": 59.100507,
+      "longitude": 11.275626
+    },
+    {
+      "name": "Hjortsprånget",
+      "latitude": 56.034872,
+      "longitude": 13.247184
+    },
+    {
+      "name": "Hjässan",
+      "latitude": 58.306651,
+      "longitude": 14.648648
+    },
+    {
+      "name": "Honingsberget",
+      "latitude": 63.391131,
+      "longitude": 14.001604
+    },
+    {
+      "name": "Hoppbackarna",
+      "latitude": 60.620767,
+      "longitude": 15.663891
+    },
+    {
+      "name": "Hoven sjö",
+      "latitude": 59.621945,
+      "longitude": 18.362199
+    },
+    {
+      "name": "Hoven sjö",
+      "latitude": 59.62265,
+      "longitude": 18.361436
+    },
+    {
+      "name": "Hoven sjö (norr)",
+      "latitude": 59.627502,
+      "longitude": 18.365454
+    },
+    {
+      "name": "Hovgårds klack",
+      "latitude": 60.387627,
+      "longitude": 15.519616
+    },
+    {
+      "name": "Huberget",
+      "latitude": 62.415573,
+      "longitude": 16.565861
+    },
+    {
+      "name": "Hullstaklippen",
+      "latitude": 63.150998,
+      "longitude": 17.258868
+    },
+    {
+      "name": "Hultaklint",
+      "latitude": 57.125264,
+      "longitude": 14.705778
+    },
+    {
+      "name": "Hultomsberget",
+      "latitude": 62.732122,
+      "longitude": 18.088563
+    },
+    {
+      "name": "Hundforsklippen",
+      "latitude": 63.418907,
+      "longitude": 16.922619
+    },
+    {
+      "name": "Husdalsberget",
+      "latitude": 58.922895,
+      "longitude": 12.478517
+    },
+    {
+      "name": "Huseby",
+      "latitude": 58.165195,
+      "longitude": 11.486677
+    },
+    {
+      "name": "Häftingsklint",
+      "latitude": 57.883802,
+      "longitude": 18.623435
+    },
+    {
+      "name": "Hällbergsklacken",
+      "latitude": 61.2478,
+      "longitude": 14.518154
+    },
+    {
+      "name": "Hällingsåfallet",
+      "latitude": 64.349017,
+      "longitude": 14.382984
+    },
+    {
+      "name": "Hästbergs klack",
+      "latitude": 60.32973,
+      "longitude": 15.066825
+    },
+    {
+      "name": "Hårgaberget",
+      "latitude": 61.2627,
+      "longitude": 16.586
+    },
+    {
+      "name": "Hårskerödsutsikten",
+      "latitude": 57.636048,
+      "longitude": 12.111078
+    },
+    {
+      "name": "Höga punkten",
+      "latitude": 57.432041,
+      "longitude": 15.391709
+    },
+    {
+      "name": "Högbyhatt",
+      "latitude": 59.818576,
+      "longitude": 17.566174
+    },
+    {
+      "name": "Högeklint",
+      "latitude": 58.220063,
+      "longitude": 13.805403
+    },
+    {
+      "name": "Höggarn",
+      "latitude": 59.126944,
+      "longitude": 18.346179
+    },
+    {
+      "name": "Högklinten",
+      "latitude": 62.985754,
+      "longitude": 18.391573
+    },
+    {
+      "name": "Högsta punkten",
+      "latitude": 56.114006,
+      "longitude": 14.971669
+    },
+    {
+      "name": "Högtorn",
+      "latitude": 59.137363,
+      "longitude": 17.268864
+    },
+    {
+      "name": "Höjdpunkten",
+      "latitude": 64.568816,
+      "longitude": 18.673125
+    },
+    {
+      "name": "Hökberget",
+      "latitude": 61.063759,
+      "longitude": 14.322696
+    },
+    {
+      "name": "Hökhöjdens Utsiktspunkt",
+      "latitude": 59.793358,
+      "longitude": 14.559095
+    },
+    {
+      "name": "Höle klack",
+      "latitude": 61.409514,
+      "longitude": 16.680363
+    },
+    {
+      "name": "Idhöjden",
+      "latitude": 57.763026,
+      "longitude": 15.586972
+    },
+    {
+      "name": "Ilabacken",
+      "latitude": 56.467726,
+      "longitude": 14.500842
+    },
+    {
+      "name": "Insiktstornet",
+      "latitude": 65.288946,
+      "longitude": 21.463977
+    },
+    {
+      "name": "Johannelundstoppen",
+      "latitude": 59.373647,
+      "longitude": 17.849719
+    },
+    {
+      "name": "Josefinelust",
+      "latitude": 56.299312,
+      "longitude": 12.482334
+    },
+    {
+      "name": "Josefsberget",
+      "latitude": 61.805656,
+      "longitude": 16.806216
+    },
+    {
+      "name": "Jättadalen",
+      "latitude": 58.432167,
+      "longitude": 13.702269
+    },
+    {
+      "name": "Jättarsberget",
+      "latitude": 58.928841,
+      "longitude": 17.610051
+    },
+    {
+      "name": "Jätteklacken",
+      "latitude": 60.347303,
+      "longitude": 15.807022
+    },
+    {
+      "name": "Kalkbrottet",
+      "latitude": 55.566087,
+      "longitude": 12.943251
+    },
+    {
+      "name": "Kalklinten",
+      "latitude": 59.740434,
+      "longitude": 14.888311
+    },
+    {
+      "name": "Kammen",
+      "latitude": 63.627177,
+      "longitude": 18.699719
+    },
+    {
+      "name": "Kamrisdalen",
+      "latitude": 62.800092,
+      "longitude": 15.512175
+    },
+    {
+      "name": "Kanalen",
+      "latitude": 59.59249,
+      "longitude": 19.155756
+    },
+    {
+      "name": "Kanonberget",
+      "latitude": 57.101811,
+      "longitude": 12.259164
+    },
+    {
+      "name": "Kanonberget",
+      "latitude": 57.783743,
+      "longitude": 14.144541
+    },
+    {
+      "name": "Kanonberget",
+      "latitude": 59.053883,
+      "longitude": 18.160668
+    },
+    {
+      "name": "Karolinermonument",
+      "latitude": 63.391402,
+      "longitude": 12.875
+    },
+    {
+      "name": "Kasberget",
+      "latitude": 61.314646,
+      "longitude": 16.744753
+    },
+    {
+      "name": "Kasberget",
+      "latitude": 59.995112,
+      "longitude": 18.880602
+    },
+    {
+      "name": "Katarinahissen",
+      "latitude": 59.319912,
+      "longitude": 18.073168
+    },
+    {
+      "name": "Kempekullen",
+      "latitude": 63.261711,
+      "longitude": 18.717
+    },
+    {
+      "name": "Kikarberget",
+      "latitude": 59.209168,
+      "longitude": 18.786554
+    },
+    {
+      "name": "Kindlatornet",
+      "latitude": 59.763316,
+      "longitude": 14.899712
+    },
+    {
+      "name": "Klabbölebänken",
+      "latitude": 63.817862,
+      "longitude": 20.117445
+    },
+    {
+      "name": "Klarälven",
+      "latitude": 60.283425,
+      "longitude": 13.442523
+    },
+    {
+      "name": "Klevaberget",
+      "latitude": 57.860395,
+      "longitude": 15.423756
+    },
+    {
+      "name": "Klevens Topp",
+      "latitude": 62.862455,
+      "longitude": 15.636297
+    },
+    {
+      "name": "Klintaberget",
+      "latitude": 57.95151,
+      "longitude": 14.584782
+    },
+    {
+      "name": "Klintens utsiktsplats",
+      "latitude": 58.537118,
+      "longitude": 14.457567
+    },
+    {
+      "name": "Klippekulle",
+      "latitude": 56.785772,
+      "longitude": 12.632414
+    },
+    {
+      "name": "Klockarbackens utsiktstorn",
+      "latitude": 59.86245,
+      "longitude": 14.990999
+    },
+    {
+      "name": "Klockberget",
+      "latitude": 59.422388,
+      "longitude": 16.467264
+    },
+    {
+      "name": "Klosterbacken",
+      "latitude": 59.542478,
+      "longitude": 18.140581
+    },
+    {
+      "name": "Klosterängshöjden",
+      "latitude": 55.726763,
+      "longitude": 13.226607
+    },
+    {
+      "name": "Klövberget",
+      "latitude": 59.817991,
+      "longitude": 13.109641
+    },
+    {
+      "name": "Komnäset",
+      "latitude": 63.319192,
+      "longitude": 18.405562
+    },
+    {
+      "name": "Konjaksklippan",
+      "latitude": 62.410701,
+      "longitude": 17.682689
+    },
+    {
+      "name": "Kopparhatten",
+      "latitude": 56.034653,
+      "longitude": 13.23848
+    },
+    {
+      "name": "Kopparklinten",
+      "latitude": 58.276292,
+      "longitude": 12.271471
+    },
+    {
+      "name": "Korallgrottan Waterfall",
+      "latitude": 64.887342,
+      "longitude": 14.155783
+    },
+    {
+      "name": "Korpberget",
+      "latitude": 57.883177,
+      "longitude": 15.330655
+    },
+    {
+      "name": "Korpklint",
+      "latitude": 58.685281,
+      "longitude": 16.276129
+    },
+    {
+      "name": "Korpklint",
+      "latitude": 58.685257,
+      "longitude": 16.274146
+    },
+    {
+      "name": "Korpklint",
+      "latitude": 58.685268,
+      "longitude": 16.27506
+    },
+    {
+      "name": "Kraftledningsgatans topp",
+      "latitude": 59.262083,
+      "longitude": 17.917341
+    },
+    {
+      "name": "Kransnabben",
+      "latitude": 68.330479,
+      "longitude": 18.821455
+    },
+    {
+      "name": "Kravattensliden",
+      "latitude": 63.603096,
+      "longitude": 18.494539
+    },
+    {
+      "name": "Krikberget",
+      "latitude": 62.946814,
+      "longitude": 18.387744
+    },
+    {
+      "name": "Kråkberget",
+      "latitude": 58.759346,
+      "longitude": 17.011005
+    },
+    {
+      "name": "Kubbeberget",
+      "latitude": 63.524704,
+      "longitude": 18.067789
+    },
+    {
+      "name": "Kungsbergets NR view",
+      "latitude": 60.75017,
+      "longitude": 16.510446
+    },
+    {
+      "name": "Kungshögshällarna",
+      "latitude": 60.274121,
+      "longitude": 16.62892
+    },
+    {
+      "name": "Kvarnen",
+      "latitude": 59.420768,
+      "longitude": 17.829048
+    },
+    {
+      "name": "Kvarnen",
+      "latitude": 58.96732,
+      "longitude": 18.323247
+    },
+    {
+      "name": "Kvarntorpshögen",
+      "latitude": 59.126119,
+      "longitude": 15.254145
+    },
+    {
+      "name": "Kyrksjön",
+      "latitude": 59.735718,
+      "longitude": 18.671305
+    },
+    {
+      "name": "Kälemåla knapp",
+      "latitude": 57.876553,
+      "longitude": 15.32625
+    },
+    {
+      "name": "Kärleksträdet",
+      "latitude": 56.178323,
+      "longitude": 15.566696
+    },
+    {
+      "name": "Kärringberget",
+      "latitude": 63.292419,
+      "longitude": 18.604885
+    },
+    {
+      "name": "Kärringbergets utsiktsplats",
+      "latitude": 64.088088,
+      "longitude": 18.628955
+    },
+    {
+      "name": "Körsbärsdalen",
+      "latitude": 55.609289,
+      "longitude": 13.513831
+    },
+    {
+      "name": "Labbarpaberget",
+      "latitude": 57.844699,
+      "longitude": 14.129903
+    },
+    {
+      "name": "Lagunen",
+      "latitude": 59.273585,
+      "longitude": 18.407666
+    },
+    {
+      "name": "Lakeview",
+      "latitude": 56.335028,
+      "longitude": 15.823858
+    },
+    {
+      "name": "Landzunge",
+      "latitude": 58.046258,
+      "longitude": 16.743064
+    },
+    {
+      "name": "Laponia",
+      "latitude": 66.642387,
+      "longitude": 19.824244
+    },
+    {
+      "name": "Lapporten view",
+      "latitude": 68.360887,
+      "longitude": 18.790494
+    },
+    {
+      "name": "Laxbron",
+      "latitude": 64.94852,
+      "longitude": 21.211824
+    },
+    {
+      "name": "Lekhytte klint",
+      "latitude": 59.257768,
+      "longitude": 14.807028
+    },
+    {
+      "name": "Lekomberg",
+      "latitude": 60.201399,
+      "longitude": 15.13726
+    },
+    {
+      "name": "Lerduvetornet",
+      "latitude": 56.049844,
+      "longitude": 14.123874
+    },
+    {
+      "name": "Lierna",
+      "latitude": 56.025705,
+      "longitude": 13.221279
+    },
+    {
+      "name": "Lilla utsikten",
+      "latitude": 59.410348,
+      "longitude": 18.573691
+    },
+    {
+      "name": "Lillklev",
+      "latitude": 57.59574,
+      "longitude": 18.195114
+    },
+    {
+      "name": "Lillsjöbacken",
+      "latitude": 59.491768,
+      "longitude": 17.722283
+    },
+    {
+      "name": "Linkafallet",
+      "latitude": 67.519621,
+      "longitude": 20.305201
+    },
+    {
+      "name": "Linnés utsikten",
+      "latitude": 57.421115,
+      "longitude": 18.857518
+    },
+    {
+      "name": "Ljusterö Huvud",
+      "latitude": 59.492886,
+      "longitude": 18.511848
+    },
+    {
+      "name": "Lotsberget",
+      "latitude": 59.132,
+      "longitude": 18.409813
+    },
+    {
+      "name": "Lotsberget",
+      "latitude": 58.10903,
+      "longitude": 11.358446
+    },
+    {
+      "name": "Lotsutkiken",
+      "latitude": 57.571486,
+      "longitude": 11.779121
+    },
+    {
+      "name": "Lulep Spádnek",
+      "latitude": 67.200124,
+      "longitude": 17.980072
+    },
+    {
+      "name": "Lundaberget",
+      "latitude": 56.174826,
+      "longitude": 14.77809
+    },
+    {
+      "name": "Lunnabakken",
+      "latitude": 56.587006,
+      "longitude": 14.798196
+    },
+    {
+      "name": "Lybergsgnupen",
+      "latitude": 60.861294,
+      "longitude": 13.683738
+    },
+    {
+      "name": "Långberget",
+      "latitude": 59.368739,
+      "longitude": 17.031604
+    },
+    {
+      "name": "Långflytje",
+      "latitude": 65.937982,
+      "longitude": 16.238485
+    },
+    {
+      "name": "Långstadudden",
+      "latitude": 58.042415,
+      "longitude": 16.747621
+    },
+    {
+      "name": "Lönnebergaleden utsiktspunkt",
+      "latitude": 57.468629,
+      "longitude": 16.0014
+    },
+    {
+      "name": "Majberget",
+      "latitude": 64.699866,
+      "longitude": 15.542291
+    },
+    {
+      "name": "Malingsklack",
+      "latitude": 59.946372,
+      "longitude": 15.497454
+    },
+    {
+      "name": "Marberget",
+      "latitude": 58.336557,
+      "longitude": 14.655787
+    },
+    {
+      "name": "Marieberg",
+      "latitude": 59.231509,
+      "longitude": 18.095615
+    },
+    {
+      "name": "Marranäsvältan",
+      "latitude": 65.111,
+      "longitude": 20.775598
+    },
+    {
+      "name": "Meditationsplats",
+      "latitude": 68.255887,
+      "longitude": 18.591205
+    },
+    {
+      "name": "Mejdåsens utsiktstorn",
+      "latitude": 60.437551,
+      "longitude": 14.711146
+    },
+    {
+      "name": "Minneberget",
+      "latitude": 58.915336,
+      "longitude": 12.322604
+    },
+    {
+      "name": "Mittiberget",
+      "latitude": 63.803157,
+      "longitude": 18.30008
+    },
+    {
+      "name": "Moldusen",
+      "latitude": 60.405471,
+      "longitude": 12.605159
+    },
+    {
+      "name": "Monte Composto",
+      "latitude": 55.721724,
+      "longitude": 13.194289
+    },
+    {
+      "name": "Monteliusvägen",
+      "latitude": 59.320747,
+      "longitude": 18.060407
+    },
+    {
+      "name": "Monteliusvägen",
+      "latitude": 59.320881,
+      "longitude": 18.062607
+    },
+    {
+      "name": "Mycklingberget",
+      "latitude": 63.306064,
+      "longitude": 18.606416
+    },
+    {
+      "name": "Måla kulle",
+      "latitude": 57.850477,
+      "longitude": 14.339489
+    },
+    {
+      "name": "Målabråtens utsikt",
+      "latitude": 57.857909,
+      "longitude": 14.325327
+    },
+    {
+      "name": "Mårtens Klack",
+      "latitude": 60.809924,
+      "longitude": 16.669083
+    },
+    {
+      "name": "Möckelkullen",
+      "latitude": 57.889235,
+      "longitude": 16.165385
+    },
+    {
+      "name": "Mörtaberget",
+      "latitude": 60.490501,
+      "longitude": 15.904221
+    },
+    {
+      "name": "Mössebergs utsiktstorn",
+      "latitude": 58.18455,
+      "longitude": 13.541278
+    },
+    {
+      "name": "Naggen utsiktstorn",
+      "latitude": 62.275551,
+      "longitude": 16.003497
+    },
+    {
+      "name": "Nalles klippa",
+      "latitude": 63.401536,
+      "longitude": 13.09575
+    },
+    {
+      "name": "Nasta Marmorbrott",
+      "latitude": 59.350535,
+      "longitude": 15.332973
+    },
+    {
+      "name": "Natthall",
+      "latitude": 56.009727,
+      "longitude": 13.387735
+    },
+    {
+      "name": "Naturspot 5",
+      "latitude": 57.811222,
+      "longitude": 12.071859
+    },
+    {
+      "name": "Nils-Torstensgruvan",
+      "latitude": 59.747685,
+      "longitude": 14.289516
+    },
+    {
+      "name": "Nipan",
+      "latitude": 63.990259,
+      "longitude": 19.895421
+    },
+    {
+      "name": "Nisses kulle",
+      "latitude": 58.435869,
+      "longitude": 11.684796
+    },
+    {
+      "name": "Njupeskär",
+      "latitude": 61.634909,
+      "longitude": 12.685629
+    },
+    {
+      "name": "Nordbacka",
+      "latitude": 57.541997,
+      "longitude": 12.55385
+    },
+    {
+      "name": "Norra Berget",
+      "latitude": 62.398397,
+      "longitude": 17.294374
+    },
+    {
+      "name": "Norra Toppen",
+      "latitude": 57.734476,
+      "longitude": 11.923833
+    },
+    {
+      "name": "Norra utsikten",
+      "latitude": 62.613854,
+      "longitude": 17.974536
+    },
+    {
+      "name": "Norrfors Laxtrappa",
+      "latitude": 63.878873,
+      "longitude": 20.01898
+    },
+    {
+      "name": "Norrlands",
+      "latitude": 63.173473,
+      "longitude": 17.271654
+    },
+    {
+      "name": "Nya vattentornet",
+      "latitude": 59.136356,
+      "longitude": 15.140626
+    },
+    {
+      "name": "Nyarpsbacken",
+      "latitude": 57.856358,
+      "longitude": 14.143031
+    },
+    {
+      "name": "Nybroberget",
+      "latitude": 60.403343,
+      "longitude": 15.463098
+    },
+    {
+      "name": "Nybyberget",
+      "latitude": 59.422761,
+      "longitude": 16.461605
+    },
+    {
+      "name": "Nämdö böte",
+      "latitude": 59.208412,
+      "longitude": 18.74273
+    },
+    {
+      "name": "Nävekvarns klint",
+      "latitude": 58.623662,
+      "longitude": 16.780438
+    },
+    {
+      "name": "Nävsjöberget",
+      "latitude": 58.65767,
+      "longitude": 16.712012
+    },
+    {
+      "name": "Orienterings Tavla",
+      "latitude": 57.678581,
+      "longitude": 14.082266
+    },
+    {
+      "name": "Ormberget",
+      "latitude": 59.317064,
+      "longitude": 18.002639
+    },
+    {
+      "name": "Oscarshöjd",
+      "latitude": 58.019554,
+      "longitude": 14.467096
+    },
+    {
+      "name": "Oskarsborg",
+      "latitude": 61.300834,
+      "longitude": 17.058674
+    },
+    {
+      "name": "Oxhagahallarna",
+      "latitude": 56.840822,
+      "longitude": 14.767319
+    },
+    {
+      "name": "Paddus",
+      "latitude": 68.318916,
+      "longitude": 18.865438
+    },
+    {
+      "name": "Paradishöjden",
+      "latitude": 59.250343,
+      "longitude": 14.58358
+    },
+    {
+      "name": "Pariserhjul",
+      "latitude": 56.669728,
+      "longitude": 16.487813
+    },
+    {
+      "name": "Paviljongen",
+      "latitude": 60.081976,
+      "longitude": 15.949066
+    },
+    {
+      "name": "Pelles utsikt",
+      "latitude": 62.607586,
+      "longitude": 17.963486
+    },
+    {
+      "name": "Per Anders Fogelströms Terrass",
+      "latitude": 59.317337,
+      "longitude": 18.087858
+    },
+    {
+      "name": "Pers kulle",
+      "latitude": 59.193452,
+      "longitude": 14.723155
+    },
+    {
+      "name": "Pilkalampinoppi",
+      "latitude": 61.59104,
+      "longitude": 14.740237
+    },
+    {
+      "name": "Piskarmalberget",
+      "latitude": 62.882931,
+      "longitude": 18.448428
+    },
+    {
+      "name": "Plattformen",
+      "latitude": 59.324681,
+      "longitude": 18.515048
+    },
+    {
+      "name": "Potatisbacken",
+      "latitude": 65.961913,
+      "longitude": 16.220188
+    },
+    {
+      "name": "Predikstolen",
+      "latitude": 58.931422,
+      "longitude": 12.479302
+    },
+    {
+      "name": "Predikstolen",
+      "latitude": 63.070802,
+      "longitude": 18.374341
+    },
+    {
+      "name": "Predikstolen",
+      "latitude": 60.36167,
+      "longitude": 15.011822
+    },
+    {
+      "name": "Pundet",
+      "latitude": 60.677427,
+      "longitude": 15.540467
+    },
+    {
+      "name": "Pältsanjakka",
+      "latitude": 68.967627,
+      "longitude": 20.372495
+    },
+    {
+      "name": "Rackenutsikten",
+      "latitude": 59.697789,
+      "longitude": 12.683279
+    },
+    {
+      "name": "Ramneklint",
+      "latitude": 58.289739,
+      "longitude": 12.46059
+    },
+    {
+      "name": "Rastplats",
+      "latitude": 60.101162,
+      "longitude": 15.597173
+    },
+    {
+      "name": "Ruin",
+      "latitude": 59.440225,
+      "longitude": 17.872
+    },
+    {
+      "name": "Rusakulan",
+      "latitude": 59.40744,
+      "longitude": 15.022925
+    },
+    {
+      "name": "Rya klint",
+      "latitude": 57.752134,
+      "longitude": 12.922415
+    },
+    {
+      "name": "Ryds grottor",
+      "latitude": 58.430762,
+      "longitude": 13.822949
+    },
+    {
+      "name": "Ryssbergsbacken",
+      "latitude": 58.736773,
+      "longitude": 16.963961
+    },
+    {
+      "name": "Ryssby klint",
+      "latitude": 57.731731,
+      "longitude": 12.912987
+    },
+    {
+      "name": "Rävnabben",
+      "latitude": 68.336222,
+      "longitude": 18.822407
+    },
+    {
+      "name": "Rårödspågen",
+      "latitude": 56.036203,
+      "longitude": 13.244797
+    },
+    {
+      "name": "Röaberget",
+      "latitude": 57.964307,
+      "longitude": 15.166944
+    },
+    {
+      "name": "Rödklitten",
+      "latitude": 62.906418,
+      "longitude": 18.252305
+    },
+    {
+      "name": "Rönnlandsutsikten",
+      "latitude": 63.971856,
+      "longitude": 17.971702
+    },
+    {
+      "name": "Rönnåsen",
+      "latitude": 60.901351,
+      "longitude": 16.627088
+    },
+    {
+      "name": "Rösaring - kultplats - labyrint",
+      "latitude": 59.507766,
+      "longitude": 17.54606
+    },
+    {
+      "name": "Rösåsberget",
+      "latitude": 63.396923,
+      "longitude": 18.416809
+    },
+    {
+      "name": "Rösåsens utsiktstorn",
+      "latitude": 60.449975,
+      "longitude": 15.679769
+    },
+    {
+      "name": "Rövar Liljas håla",
+      "latitude": 57.593626,
+      "longitude": 18.191905
+    },
+    {
+      "name": "Sandsvedjeberget",
+      "latitude": 63.416463,
+      "longitude": 17.92249
+    },
+    {
+      "name": "Sandtaget",
+      "latitude": 59.286995,
+      "longitude": 18.915342
+    },
+    {
+      "name": "Sankt Olovs valar",
+      "latitude": 58.015622,
+      "longitude": 11.519493
+    },
+    {
+      "name": "Sareklåptå",
+      "latitude": 67.480095,
+      "longitude": 17.706387
+    },
+    {
+      "name": "Satsfjället 1105 m",
+      "latitude": 64.938235,
+      "longitude": 15.245216
+    },
+    {
+      "name": "Saxeknut",
+      "latitude": 59.774215,
+      "longitude": 14.458879
+    },
+    {
+      "name": "Seglarö Blick",
+      "latitude": 59.483133,
+      "longitude": 18.464929
+    },
+    {
+      "name": "Selsknösen",
+      "latitude": 64.049568,
+      "longitude": 19.956347
+    },
+    {
+      "name": "Sexbergets utsiktstorn",
+      "latitude": 63.924385,
+      "longitude": 18.577407
+    },
+    {
+      "name": "Sigeränget",
+      "latitude": 60.4356,
+      "longitude": 17.214179
+    },
+    {
+      "name": "Silverknuten",
+      "latitude": 59.860278,
+      "longitude": 14.499466
+    },
+    {
+      "name": "Singollas Grotta",
+      "latitude": 57.12729,
+      "longitude": 14.701775
+    },
+    {
+      "name": "Sjoutnäset",
+      "latitude": 64.608202,
+      "longitude": 14.93185
+    },
+    {
+      "name": "Själandsklinten",
+      "latitude": 62.913835,
+      "longitude": 18.366971
+    },
+    {
+      "name": "Sjömärket",
+      "latitude": 59.205568,
+      "longitude": 18.84682
+    },
+    {
+      "name": "Skansberget",
+      "latitude": 59.460665,
+      "longitude": 18.107461
+    },
+    {
+      "name": "Skatudden",
+      "latitude": 60.107959,
+      "longitude": 18.835207
+    },
+    {
+      "name": "Skebergsklitten",
+      "latitude": 60.65006,
+      "longitude": 14.892025
+    },
+    {
+      "name": "Skekarsbo utsiktstorn",
+      "latitude": 60.21258,
+      "longitude": 16.854894
+    },
+    {
+      "name": "Skiren",
+      "latitude": 59.531016,
+      "longitude": 18.390522
+    },
+    {
+      "name": "Skogsbrandtornet S:t Bengtsberget Lundaskog",
+      "latitude": 58.69177,
+      "longitude": 16.717698
+    },
+    {
+      "name": "Skultorps Nabbe",
+      "latitude": 58.348699,
+      "longitude": 13.81648
+    },
+    {
+      "name": "Skytteklev",
+      "latitude": 58.384591,
+      "longitude": 12.486888
+    },
+    {
+      "name": "Skyview",
+      "latitude": 59.293505,
+      "longitude": 18.082379
+    },
+    {
+      "name": "Skywalk",
+      "latitude": 56.906715,
+      "longitude": 13.991099
+    },
+    {
+      "name": "Skären lake",
+      "latitude": 59.6328,
+      "longitude": 18.390737
+    },
+    {
+      "name": "Skådarkullen",
+      "latitude": 60.924294,
+      "longitude": 14.585408
+    },
+    {
+      "name": "Slakteriet",
+      "latitude": 64.950075,
+      "longitude": 21.203826
+    },
+    {
+      "name": "Slottet",
+      "latitude": 57.411876,
+      "longitude": 18.731497
+    },
+    {
+      "name": "Soffan",
+      "latitude": 59.222979,
+      "longitude": 18.266538
+    },
+    {
+      "name": "Soludden",
+      "latitude": 60.731969,
+      "longitude": 17.317934
+    },
+    {
+      "name": "Soluppgångens berg",
+      "latitude": 59.202301,
+      "longitude": 18.853759
+    },
+    {
+      "name": "Speckstaberget",
+      "latitude": 62.606408,
+      "longitude": 18.003038
+    },
+    {
+      "name": "Spiran",
+      "latitude": 58.660548,
+      "longitude": 16.433081
+    },
+    {
+      "name": "Spjutåsberget",
+      "latitude": 62.588584,
+      "longitude": 17.835465
+    },
+    {
+      "name": "Stabergs Klack",
+      "latitude": 60.566308,
+      "longitude": 15.784101
+    },
+    {
+      "name": "Stenberget",
+      "latitude": 63.30689,
+      "longitude": 18.816705
+    },
+    {
+      "name": "Stenbergets utsiktplats",
+      "latitude": 56.147222,
+      "longitude": 13.607475
+    },
+    {
+      "name": "Stenbrott",
+      "latitude": 55.694688,
+      "longitude": 13.360007
+    },
+    {
+      "name": "Stenbrottet i Marieby",
+      "latitude": 63.121165,
+      "longitude": 14.73401
+    },
+    {
+      "name": "Stockholm-Arlanda Airport",
+      "latitude": 59.653094,
+      "longitude": 17.955373
+    },
+    {
+      "name": "Stockholmsberget",
+      "latitude": 59.294905,
+      "longitude": 18.373105
+    },
+    {
+      "name": "Stocklycke hamn",
+      "latitude": 58.306868,
+      "longitude": 14.627247
+    },
+    {
+      "name": "Stoms ås",
+      "latitude": 57.548048,
+      "longitude": 12.55708
+    },
+    {
+      "name": "Stops fall",
+      "latitude": 61.319562,
+      "longitude": 13.883364
+    },
+    {
+      "name": "Stora Harsjön",
+      "latitude": 59.555418,
+      "longitude": 18.320077
+    },
+    {
+      "name": "Stora Harsjön",
+      "latitude": 59.558713,
+      "longitude": 18.325406
+    },
+    {
+      "name": "Storbjörken",
+      "latitude": 63.151838,
+      "longitude": 14.522761
+    },
+    {
+      "name": "Storbrottsstupet",
+      "latitude": 61.243693,
+      "longitude": 14.031912
+    },
+    {
+      "name": "Store Mosse",
+      "latitude": 57.300813,
+      "longitude": 13.932858
+    },
+    {
+      "name": "Store Valeklinten",
+      "latitude": 58.21052,
+      "longitude": 12.072432
+    },
+    {
+      "name": "Storknabben",
+      "latitude": 66.588335,
+      "longitude": 19.858237
+    },
+    {
+      "name": "Storliden",
+      "latitude": 63.664237,
+      "longitude": 18.910217
+    },
+    {
+      "name": "Stornabben",
+      "latitude": 68.340075,
+      "longitude": 18.824633
+    },
+    {
+      "name": "Storstupet",
+      "latitude": 61.226736,
+      "longitude": 14.790268
+    },
+    {
+      "name": "Stranneberget",
+      "latitude": 63.310958,
+      "longitude": 18.809881
+    },
+    {
+      "name": "Strutsabacken",
+      "latitude": 57.806087,
+      "longitude": 14.282931
+    },
+    {
+      "name": "Struves Meridianbage Tynnyrilaki",
+      "latitude": 68.254932,
+      "longitude": 22.982929
+    },
+    {
+      "name": "Sturklitt",
+      "latitude": 60.723608,
+      "longitude": 15.043944
+    },
+    {
+      "name": "Stärnö udde",
+      "latitude": 56.134589,
+      "longitude": 14.834886
+    },
+    {
+      "name": "Störberget",
+      "latitude": 58.688229,
+      "longitude": 11.257616
+    },
+    {
+      "name": "Svartkolsberget",
+      "latitude": 59.071621,
+      "longitude": 17.605995
+    },
+    {
+      "name": "Svens Altare",
+      "latitude": 58.194746,
+      "longitude": 11.540803
+    },
+    {
+      "name": "Svensbodaberget",
+      "latitude": 59.286976,
+      "longitude": 14.892985
+    },
+    {
+      "name": "Sveriges Geografiska Mittpunkt",
+      "latitude": 62.386717,
+      "longitude": 16.32224
+    },
+    {
+      "name": "Sveriges sydligaste udde",
+      "latitude": 55.337088,
+      "longitude": 13.360261
+    },
+    {
+      "name": "SW",
+      "latitude": 59.518365,
+      "longitude": 18.123853
+    },
+    {
+      "name": "Sätraberget (nedre)",
+      "latitude": 59.290345,
+      "longitude": 17.894526
+    },
+    {
+      "name": "Södra bergen",
+      "latitude": 59.756154,
+      "longitude": 18.702365
+    },
+    {
+      "name": "Södra Lundspetsen",
+      "latitude": 56.21201,
+      "longitude": 16.407225
+    },
+    {
+      "name": "Södra toppen",
+      "latitude": 57.733614,
+      "longitude": 11.932086
+    },
+    {
+      "name": "Södra utsikten",
+      "latitude": 62.608255,
+      "longitude": 17.951142
+    },
+    {
+      "name": "Sörängesberget",
+      "latitude": 63.287112,
+      "longitude": 18.799882
+    },
+    {
+      "name": "Taberg",
+      "latitude": 57.678713,
+      "longitude": 14.082759
+    },
+    {
+      "name": "Tallbergsbroarna",
+      "latitude": 63.795559,
+      "longitude": 19.348329
+    },
+    {
+      "name": "Talludden",
+      "latitude": 57.820276,
+      "longitude": 14.274891
+    },
+    {
+      "name": "Tanumsslätten",
+      "latitude": 58.694639,
+      "longitude": 11.339758
+    },
+    {
+      "name": "Tavlekullen",
+      "latitude": 58.77733,
+      "longitude": 12.38318
+    },
+    {
+      "name": "Telegrafberget",
+      "latitude": 59.078745,
+      "longitude": 18.393131
+    },
+    {
+      "name": "Telegrafen",
+      "latitude": 59.336928,
+      "longitude": 18.225748
+    },
+    {
+      "name": "Terrassen",
+      "latitude": 57.89484,
+      "longitude": 11.579097
+    },
+    {
+      "name": "Texelberget",
+      "latitude": 57.370368,
+      "longitude": 12.392649
+    },
+    {
+      "name": "Texelberget",
+      "latitude": 57.370861,
+      "longitude": 12.391116
+    },
+    {
+      "name": "Tjusarklinten",
+      "latitude": 62.617646,
+      "longitude": 17.894075
+    },
+    {
+      "name": "Tjuvklämman",
+      "latitude": 58.012659,
+      "longitude": 11.996818
+    },
+    {
+      "name": "Tomtberget",
+      "latitude": 63.382186,
+      "longitude": 18.588425
+    },
+    {
+      "name": "Tomte Land",
+      "latitude": 57.736972,
+      "longitude": 11.764453
+    },
+    {
+      "name": "Toppen av Järabacken",
+      "latitude": 57.766211,
+      "longitude": 14.238744
+    },
+    {
+      "name": "Toppstuga",
+      "latitude": 65.93038,
+      "longitude": 19.510115
+    },
+    {
+      "name": "Toppstugan",
+      "latitude": 63.454131,
+      "longitude": 13.952317
+    },
+    {
+      "name": "Toppstugan",
+      "latitude": 65.269497,
+      "longitude": 19.638433
+    },
+    {
+      "name": "Torberg",
+      "latitude": 57.548179,
+      "longitude": 12.550797
+    },
+    {
+      "name": "Tornbergstornet",
+      "latitude": 59.137,
+      "longitude": 18.014321
+    },
+    {
+      "name": "Tossebergsklätten",
+      "latitude": 59.978224,
+      "longitude": 13.090929
+    },
+    {
+      "name": "Transmitter",
+      "latitude": 58.646701,
+      "longitude": 14.405729
+    },
+    {
+      "name": "Trappstegsforsen",
+      "latitude": 64.955911,
+      "longitude": 15.465809
+    },
+    {
+      "name": "Trehörningen sjö",
+      "latitude": 59.84974,
+      "longitude": 17.894235
+    },
+    {
+      "name": "Trehörningens gamla vattentorn",
+      "latitude": 58.892354,
+      "longitude": 17.949072
+    },
+    {
+      "name": "Trollberget",
+      "latitude": 59.940642,
+      "longitude": 17.726934
+    },
+    {
+      "name": "Trollbo platform",
+      "latitude": 60.306179,
+      "longitude": 16.088179
+    },
+    {
+      "name": "Trollstigen",
+      "latitude": 59.980952,
+      "longitude": 14.196445
+    },
+    {
+      "name": "Tunafjärden",
+      "latitude": 59.459532,
+      "longitude": 18.299162
+    },
+    {
+      "name": "Tunhems klint",
+      "latitude": 58.30824,
+      "longitude": 12.405848
+    },
+    {
+      "name": "Tunåsen",
+      "latitude": 59.893822,
+      "longitude": 17.621609
+    },
+    {
+      "name": "Tuäggen",
+      "latitude": 62.855627,
+      "longitude": 17.812266
+    },
+    {
+      "name": "Ugglekullen",
+      "latitude": 59.903015,
+      "longitude": 14.53225
+    },
+    {
+      "name": "Untsikstsplats Solgårds fornborg",
+      "latitude": 59.224315,
+      "longitude": 17.974941
+    },
+    {
+      "name": "Utemuseum Pulken",
+      "latitude": 55.889293,
+      "longitude": 14.203109
+    },
+    {
+      "name": "Utkiken",
+      "latitude": 55.366652,
+      "longitude": 13.147231
+    },
+    {
+      "name": "Utkikkspunkt losen",
+      "latitude": 58.994205,
+      "longitude": 11.062271
+    },
+    {
+      "name": "Utkiksberget",
+      "latitude": 59.278943,
+      "longitude": 18.797766
+    },
+    {
+      "name": "Utsiksplats RÖEBJAR",
+      "latitude": 56.342884,
+      "longitude": 13.665021
+    },
+    {
+      "name": "Utsikstorn",
+      "latitude": 56.178122,
+      "longitude": 15.002196
+    },
+    {
+      "name": "Utsikt",
+      "latitude": 56.02322,
+      "longitude": 13.175425
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 66.281421,
+      "longitude": 16.674992
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 65.086706,
+      "longitude": 17.13722
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 58.514658,
+      "longitude": 15.492006
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 60.571815,
+      "longitude": 15.066898
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 59.339381,
+      "longitude": 18.226107
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 57.794151,
+      "longitude": 14.284497
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 60.694198,
+      "longitude": 15.160622
+    },
+    {
+      "name": "Utsiktplats Fulufjället",
+      "latitude": 61.649763,
+      "longitude": 12.796284
+    },
+    {
+      "name": "Utsiktsberget",
+      "latitude": 58.836913,
+      "longitude": 17.870013
+    },
+    {
+      "name": "Utsiktskullen",
+      "latitude": 68.36088,
+      "longitude": 18.787127
+    },
+    {
+      "name": "Utsiktsplats",
+      "latitude": 55.618512,
+      "longitude": 13.451772
+    },
+    {
+      "name": "Utsiktsplats",
+      "latitude": 65.581484,
+      "longitude": 19.169458
+    },
+    {
+      "name": "Utsiktsplats Långbergskullarnas naturreservat",
+      "latitude": 63.7532,
+      "longitude": 19.809695
+    },
+    {
+      "name": "Utsiktspunkt",
+      "latitude": 59.268131,
+      "longitude": 17.997511
+    },
+    {
+      "name": "Utsiktspunkt",
+      "latitude": 56.109465,
+      "longitude": 13.461493
+    },
+    {
+      "name": "Utsiktspunkt Spishall",
+      "latitude": 56.51166,
+      "longitude": 13.225632
+    },
+    {
+      "name": "Utsiktspunkt Östersund",
+      "latitude": 63.18669,
+      "longitude": 14.60644
+    },
+    {
+      "name": "Utsiktstorn",
+      "latitude": 60.187404,
+      "longitude": 15.279187
+    },
+    {
+      "name": "Utsiktstorn",
+      "latitude": 60.157592,
+      "longitude": 15.399623
+    },
+    {
+      "name": "Utsiktstorn",
+      "latitude": 64.431198,
+      "longitude": 19.52662
+    },
+    {
+      "name": "Utsiktstorn",
+      "latitude": 59.307973,
+      "longitude": 18.285387
+    },
+    {
+      "name": "Utsiktstornet",
+      "latitude": 62.398546,
+      "longitude": 17.294069
+    },
+    {
+      "name": "Uvberget",
+      "latitude": 62.686543,
+      "longitude": 17.907884
+    },
+    {
+      "name": "Vagnaren",
+      "latitude": 59.031932,
+      "longitude": 11.140652
+    },
+    {
+      "name": "Valebergas utsiktsplats",
+      "latitude": 55.385425,
+      "longitude": 14.093526
+    },
+    {
+      "name": "Valhalla",
+      "latitude": 56.267477,
+      "longitude": 14.590028
+    },
+    {
+      "name": "Vansjöåsen",
+      "latitude": 59.742932,
+      "longitude": 17.088571
+    },
+    {
+      "name": "Varggropens fågeltorn",
+      "latitude": 60.155967,
+      "longitude": 17.632518
+    },
+    {
+      "name": "Varkullen",
+      "latitude": 57.726932,
+      "longitude": 14.099493
+    },
+    {
+      "name": "Varvsberget",
+      "latitude": 63.288182,
+      "longitude": 18.692794
+    },
+    {
+      "name": "Varvsberget",
+      "latitude": 63.28755,
+      "longitude": 18.695933
+    },
+    {
+      "name": "Vasshusberget",
+      "latitude": 59.781987,
+      "longitude": 17.085247
+    },
+    {
+      "name": "Vattugårdsklocken",
+      "latitude": 63.487846,
+      "longitude": 18.109127
+    },
+    {
+      "name": "Vaxholms Roddförening view",
+      "latitude": 59.403836,
+      "longitude": 18.312058
+    },
+    {
+      "name": "Venastugan",
+      "latitude": 59.294595,
+      "longitude": 15.261821
+    },
+    {
+      "name": "Vidablick",
+      "latitude": 60.86435,
+      "longitude": 15.123011
+    },
+    {
+      "name": "Viewpoint of Kvarnsjön",
+      "latitude": 59.195696,
+      "longitude": 18.089153
+    },
+    {
+      "name": "Viewpoint over Rapadalen",
+      "latitude": 67.285644,
+      "longitude": 17.802045
+    },
+    {
+      "name": "Viewpoint over valley",
+      "latitude": 68.171457,
+      "longitude": 18.846032
+    },
+    {
+      "name": "Vimpelkullen",
+      "latitude": 58.286577,
+      "longitude": 12.279588
+    },
+    {
+      "name": "Virensjö utsiktsplats",
+      "latitude": 59.674813,
+      "longitude": 18.416707
+    },
+    {
+      "name": "Vråhålan",
+      "latitude": 58.192376,
+      "longitude": 13.478906
+    },
+    {
+      "name": "Vy från Kungsgrottan",
+      "latitude": 63.073742,
+      "longitude": 18.350791
+    },
+    {
+      "name": "Väcklingetornet",
+      "latitude": 57.158726,
+      "longitude": 13.63798
+    },
+    {
+      "name": "Västra Banken",
+      "latitude": 60.340512,
+      "longitude": 18.44478
+    },
+    {
+      "name": "Västra Stäket",
+      "latitude": 58.01101,
+      "longitude": 16.766618
+    },
+    {
+      "name": "Västra Väggar",
+      "latitude": 58.356385,
+      "longitude": 14.656139
+    },
+    {
+      "name": "Västtoppen (Dundret)",
+      "latitude": 67.107842,
+      "longitude": 20.513178
+    },
+    {
+      "name": "Vättaberget",
+      "latitude": 63.124157,
+      "longitude": 16.309262
+    },
+    {
+      "name": "Våckelberget",
+      "latitude": 60.894008,
+      "longitude": 15.731824
+    },
+    {
+      "name": "Våckelberget",
+      "latitude": 60.892026,
+      "longitude": 15.731294
+    },
+    {
+      "name": "Vångans Dal",
+      "latitude": 60.295795,
+      "longitude": 13.440892
+    },
+    {
+      "name": "Vårdkasberget",
+      "latitude": 62.609878,
+      "longitude": 17.950919
+    },
+    {
+      "name": "Vårdkasen",
+      "latitude": 59.408957,
+      "longitude": 18.890052
+    },
+    {
+      "name": "Waterfall",
+      "latitude": 64.891609,
+      "longitude": 14.166359
+    },
+    {
+      "name": "Yrjön ja Jussan lintutorni",
+      "latitude": 68.126337,
+      "longitude": 23.341862
+    },
+    {
+      "name": "Älgnabben",
+      "latitude": 68.33373,
+      "longitude": 18.827873
+    },
+    {
+      "name": "Älvutsikten",
+      "latitude": 58.333399,
+      "longitude": 12.395976
+    },
+    {
+      "name": "Älvåsen",
+      "latitude": 62.063754,
+      "longitude": 16.7302
+    },
+    {
+      "name": "Ängen",
+      "latitude": 60.594778,
+      "longitude": 15.718142
+    },
+    {
+      "name": "Ärteråsberget",
+      "latitude": 61.25392,
+      "longitude": 15.097153
+    },
+    {
+      "name": "Ärtknubben",
+      "latitude": 60.818538,
+      "longitude": 15.483247
+    },
+    {
+      "name": "Ättestupan",
+      "latitude": 58.675456,
+      "longitude": 16.164797
+    },
+    {
+      "name": "Åaskärvet",
+      "latitude": 56.566379,
+      "longitude": 14.587279
+    },
+    {
+      "name": "Åmålsbergen",
+      "latitude": 59.068394,
+      "longitude": 12.47474
+    },
+    {
+      "name": "Ånnaboda utsikten",
+      "latitude": 59.333861,
+      "longitude": 14.947966
+    },
+    {
+      "name": "Årstablick",
+      "latitude": 59.302298,
+      "longitude": 18.058475
+    },
+    {
+      "name": "Åsberg",
+      "latitude": 60.816912,
+      "longitude": 14.642046
+    },
+    {
+      "name": "Åsen",
+      "latitude": 60.015314,
+      "longitude": 14.055768
+    },
+    {
+      "name": "Åsens hällar",
+      "latitude": 59.302875,
+      "longitude": 17.987326
+    },
+    {
+      "name": "Åsikten",
+      "latitude": 65.048711,
+      "longitude": 17.450951
+    },
+    {
+      "name": "Åsljunga Utkikspunkt",
+      "latitude": 56.306234,
+      "longitude": 13.349656
+    },
+    {
+      "name": "Åsöberget",
+      "latitude": 59.314457,
+      "longitude": 18.095833
+    },
+    {
+      "name": "Öby kulle",
+      "latitude": 59.177263,
+      "longitude": 15.377021
+    },
+    {
+      "name": "Örnklipporna",
+      "latitude": 59.357488,
+      "longitude": 18.096116
+    },
+    {
+      "name": "Örsjöberget",
+      "latitude": 62.595398,
+      "longitude": 18.017323
+    },
+    {
+      "name": "Östra Utkiken",
+      "latitude": 60.599373,
+      "longitude": 15.615773
+    },
+    {
+      "name": "Övre Brakkåfallet",
+      "latitude": 64.797603,
+      "longitude": 14.046161
+    }
+  ],
+  "meta": {
+    "title": "Utsiktsplatser (Viewpoints) - Gratis nedladdning",
+    "description": "Utsiktsplatser i Sverige — OpenStreetMap-punktdata (OSM-tagg: tourism=viewpoint). Swedish viewpoints as named point locations with WGS84 coordinates. 529 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 529 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Utsiktsplatser (Viewpoints) | ListBase",
+    "seo_description": "Ladda ner Utsiktsplatser (Viewpoints) — 529 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 529 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

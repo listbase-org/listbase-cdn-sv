@@ -1,0 +1,1488 @@
+{
+  "id": "sv-varmland-valdistrikt-2022",
+  "name": "Valdistrikt i Värmlands län (val 2022)",
+  "title": "Valdistrikt i Värmlands län (val 2022)",
+  "description": "179 valdistrikt i Värmlands län (länskod 17) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 179,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "17150101",
+      "valdistrikt_namn": "Vikstad",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17150102",
+      "valdistrikt_namn": "Tolita",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17150103",
+      "valdistrikt_namn": "Dalliden",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17150109",
+      "valdistrikt_namn": "Stenåsen",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17150110",
+      "valdistrikt_namn": "Sannerud",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17150205",
+      "valdistrikt_namn": "Fagerås",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17150206",
+      "valdistrikt_namn": "Frykerud",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17150308",
+      "valdistrikt_namn": "Boda",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17300101",
+      "valdistrikt_namn": "Charlottenbergs tätort",
+      "kommun_kod": "1730",
+      "kommun_namn": "Eda",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17300102",
+      "valdistrikt_namn": "Charlottenbergs omland",
+      "kommun_kod": "1730",
+      "kommun_namn": "Eda",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17300105",
+      "valdistrikt_namn": "Åmotfors",
+      "kommun_kod": "1730",
+      "kommun_namn": "Eda",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17300307",
+      "valdistrikt_namn": "Koppom",
+      "kommun_kod": "1730",
+      "kommun_namn": "Eda",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17300511",
+      "valdistrikt_namn": "Köla-Skillingmark",
+      "kommun_kod": "1730",
+      "kommun_namn": "Eda",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17370101",
+      "valdistrikt_namn": "Torsby Norra",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17370102",
+      "valdistrikt_namn": "Oleby",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17370105",
+      "valdistrikt_namn": "Svenneby",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17370106",
+      "valdistrikt_namn": "Torsby Södra",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17370309",
+      "valdistrikt_namn": "Vitsand",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17370512",
+      "valdistrikt_namn": "Östmark",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17370617",
+      "valdistrikt_namn": "Sysslebäck",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17370822",
+      "valdistrikt_namn": "Likenäs",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17370923",
+      "valdistrikt_namn": "Stöllet",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17600103",
+      "valdistrikt_namn": "Storfors Centrala",
+      "kommun_kod": "1760",
+      "kommun_namn": "Storfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17600201",
+      "valdistrikt_namn": "Bjurtjärn",
+      "kommun_kod": "1760",
+      "kommun_namn": "Storfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17600302",
+      "valdistrikt_namn": "Lungsund",
+      "kommun_kod": "1760",
+      "kommun_namn": "Storfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17610101",
+      "valdistrikt_namn": "Skoghall",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17610102",
+      "valdistrikt_namn": "Haga",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17610103",
+      "valdistrikt_namn": "Gunnarskär",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17610104",
+      "valdistrikt_namn": "Mörmon",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17610105",
+      "valdistrikt_namn": "Klöverud",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17610106",
+      "valdistrikt_namn": "Hammar",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17610107",
+      "valdistrikt_namn": "Lövnäs",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17610108",
+      "valdistrikt_namn": "Hallersrud",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17610109",
+      "valdistrikt_namn": "Östra Bärstad-Rud",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17620102",
+      "valdistrikt_namn": "Munkfors Södra",
+      "kommun_kod": "1762",
+      "kommun_namn": "Munkfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17620203",
+      "valdistrikt_namn": "Munkfors Västra",
+      "kommun_kod": "1762",
+      "kommun_namn": "Munkfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17620205",
+      "valdistrikt_namn": "Munkfors Centrala",
+      "kommun_kod": "1762",
+      "kommun_namn": "Munkfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17630101",
+      "valdistrikt_namn": "Forshaga öst",
+      "kommun_kod": "1763",
+      "kommun_namn": "Forshaga",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17630102",
+      "valdistrikt_namn": "Forshaga väst-Dyvelsten",
+      "kommun_kod": "1763",
+      "kommun_namn": "Forshaga",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17630103",
+      "valdistrikt_namn": "Grossbol",
+      "kommun_kod": "1763",
+      "kommun_namn": "Forshaga",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17630104",
+      "valdistrikt_namn": "Skived öst",
+      "kommun_kod": "1763",
+      "kommun_namn": "Forshaga",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17630105",
+      "valdistrikt_namn": "Skived väst",
+      "kommun_kod": "1763",
+      "kommun_namn": "Forshaga",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17630212",
+      "valdistrikt_namn": "Deje",
+      "kommun_kod": "1763",
+      "kommun_namn": "Forshaga",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17630315",
+      "valdistrikt_namn": "Dejefors",
+      "kommun_kod": "1763",
+      "kommun_namn": "Forshaga",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17640101",
+      "valdistrikt_namn": "Grums Södra",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17640102",
+      "valdistrikt_namn": "Grums Västra",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17640103",
+      "valdistrikt_namn": "Grums Centrala",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17640104",
+      "valdistrikt_namn": "Grums Norra",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17640105",
+      "valdistrikt_namn": "Gamla Slottsbron",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17640307",
+      "valdistrikt_namn": "Slottsbron",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17640308",
+      "valdistrikt_namn": "Segmon",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17640411",
+      "valdistrikt_namn": "Värmskog",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17650101",
+      "valdistrikt_namn": "Årjäng N",
+      "kommun_kod": "1765",
+      "kommun_namn": "Årjäng",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17650102",
+      "valdistrikt_namn": "Årjäng Ö",
+      "kommun_kod": "1765",
+      "kommun_namn": "Årjäng",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17650203",
+      "valdistrikt_namn": "Sillerud",
+      "kommun_kod": "1765",
+      "kommun_namn": "Årjäng",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17650307",
+      "valdistrikt_namn": "Holmedal-Karlanda",
+      "kommun_kod": "1765",
+      "kommun_namn": "Årjäng",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17650509",
+      "valdistrikt_namn": "Årjäng V",
+      "kommun_kod": "1765",
+      "kommun_namn": "Årjäng",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17650711",
+      "valdistrikt_namn": "Töcksfors",
+      "kommun_kod": "1765",
+      "kommun_namn": "Årjäng",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17660101",
+      "valdistrikt_namn": "Klockaregården",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17660102",
+      "valdistrikt_namn": "Åmberg",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17660103",
+      "valdistrikt_namn": "Leran",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17660106",
+      "valdistrikt_namn": "Södra Borgeby",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17660109",
+      "valdistrikt_namn": "Rottneros",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17660110",
+      "valdistrikt_namn": "Stöpafors",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17660119",
+      "valdistrikt_namn": "Gräsmark",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17660124",
+      "valdistrikt_namn": "Brobyäng",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17660215",
+      "valdistrikt_namn": "Västra Ämtervik",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17660317",
+      "valdistrikt_namn": "Östra Ämtervik",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17660523",
+      "valdistrikt_namn": "Lysvik",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800101",
+      "valdistrikt_namn": "Tingvallastaden",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800102",
+      "valdistrikt_namn": "Viken",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800103",
+      "valdistrikt_namn": "Marieberg-Sommaro",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800104",
+      "valdistrikt_namn": "Orrholmen",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800105",
+      "valdistrikt_namn": "Kvarnberget",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800106",
+      "valdistrikt_namn": "Tullholmsviken",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800107",
+      "valdistrikt_namn": "Inre Hamn",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800111",
+      "valdistrikt_namn": "Tingvalla",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800112",
+      "valdistrikt_namn": "Klara",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800113",
+      "valdistrikt_namn": "Råtorp-Älvåker",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800114",
+      "valdistrikt_namn": "Haga",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800115",
+      "valdistrikt_namn": "Herrhagen 1",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800116",
+      "valdistrikt_namn": "Herrhagen 2",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800117",
+      "valdistrikt_namn": "Herrhagen 3",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800118",
+      "valdistrikt_namn": "Torrmestad-Lamberget",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800119",
+      "valdistrikt_namn": "Råtorp söder",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800230",
+      "valdistrikt_namn": "Sundsta",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800231",
+      "valdistrikt_namn": "Norrstrand centrum",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800232",
+      "valdistrikt_namn": "Norrstrand norr",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800233",
+      "valdistrikt_namn": "Norrstrand-Sjöstad",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800234",
+      "valdistrikt_namn": "Norrstrand söder",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800235",
+      "valdistrikt_namn": "Kroppkärr",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800236",
+      "valdistrikt_namn": "Färjestad",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800237",
+      "valdistrikt_namn": "Färjestad-Rud",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800238",
+      "valdistrikt_namn": "Lorensberg",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800239",
+      "valdistrikt_namn": "Rud norr",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800240",
+      "valdistrikt_namn": "Rud söder",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800241",
+      "valdistrikt_namn": "Kronoparken väst",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800242",
+      "valdistrikt_namn": "Kronoparken söder",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800243",
+      "valdistrikt_namn": "Stockfallet",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800244",
+      "valdistrikt_namn": "Universitetet",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800245",
+      "valdistrikt_namn": "Kronoparken öst",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800246",
+      "valdistrikt_namn": "Kronoparken centrum",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800247",
+      "valdistrikt_namn": "Alster söder",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800350",
+      "valdistrikt_namn": "Skattkärr",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800351",
+      "valdistrikt_namn": "Östra Fågelvik",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800456",
+      "valdistrikt_namn": "Väse",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800665",
+      "valdistrikt_namn": "Molkom",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800667",
+      "valdistrikt_namn": "Nyed",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800775",
+      "valdistrikt_namn": "Alster norr",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800880",
+      "valdistrikt_namn": "Skåre",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800881",
+      "valdistrikt_namn": "Soldattorpet",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800882",
+      "valdistrikt_namn": "Grava",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800883",
+      "valdistrikt_namn": "Stodene",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800990",
+      "valdistrikt_namn": "Vålberg-Nor",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800991",
+      "valdistrikt_namn": "Vålberg",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17800992",
+      "valdistrikt_namn": "Edsvalla",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17801106",
+      "valdistrikt_namn": "Romstad-Strand",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17801107",
+      "valdistrikt_namn": "Gruvlyckan",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17801108",
+      "valdistrikt_namn": "Våxnäs söder",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17801109",
+      "valdistrikt_namn": "Hagalund",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17801110",
+      "valdistrikt_namn": "Våxnäs norr",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17801119",
+      "valdistrikt_namn": "Bellevue-Bergvik",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17801120",
+      "valdistrikt_namn": "Hultsberg",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810101",
+      "valdistrikt_namn": "Innerstaden",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810102",
+      "valdistrikt_namn": "Södermalm",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810103",
+      "valdistrikt_namn": "Enserud",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810104",
+      "valdistrikt_namn": "Fältet",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810105",
+      "valdistrikt_namn": "Djurgården",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810106",
+      "valdistrikt_namn": "Kurlanda",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810107",
+      "valdistrikt_namn": "Östra Vålösundet",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810108",
+      "valdistrikt_namn": "Stenstaliden",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810109",
+      "valdistrikt_namn": "Strand",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810110",
+      "valdistrikt_namn": "Ölme",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810111",
+      "valdistrikt_namn": "Kristinehamn norra",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810112",
+      "valdistrikt_namn": "Kristinehamn nord-östra",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810113",
+      "valdistrikt_namn": "Kristinehamn östra",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810114",
+      "valdistrikt_namn": "Björneborg",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17810115",
+      "valdistrikt_namn": "Kristinehamn södra",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17820101",
+      "valdistrikt_namn": "Filipstads Norra Kalhyttan-Storbron",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17820102",
+      "valdistrikt_namn": "Filipstads Västra-Centrum",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17820103",
+      "valdistrikt_namn": "Filipstads Södra",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17820104",
+      "valdistrikt_namn": "Filipstads Östra",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17820105",
+      "valdistrikt_namn": "Persberg",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17820110",
+      "valdistrikt_namn": "Långban-Gåsborn",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17820308",
+      "valdistrikt_namn": "Brattfors",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17820409",
+      "valdistrikt_namn": "Nordmark",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17820611",
+      "valdistrikt_namn": "Kroppa",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17820712",
+      "valdistrikt_namn": "Rämmen",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17830101",
+      "valdistrikt_namn": "Hagfors Centrum",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17830105",
+      "valdistrikt_namn": "Hagfors Östra",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17830210",
+      "valdistrikt_namn": "Ekshärad-Västanberg",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17830315",
+      "valdistrikt_namn": "Hagfors Norra-Gustav Adolf",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17830418",
+      "valdistrikt_namn": "Råda-Höje",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17830522",
+      "valdistrikt_namn": "Sunnemo-Uddeholm",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840102",
+      "valdistrikt_namn": "Haga Arvika",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840103",
+      "valdistrikt_namn": "Minneberg Arvika",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840104",
+      "valdistrikt_namn": "Solberga Arvika",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840105",
+      "valdistrikt_namn": "Styckåsen Arvika",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840106",
+      "valdistrikt_namn": "Degerängen Arvika",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840125",
+      "valdistrikt_namn": "Rosendal Arvika",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840207",
+      "valdistrikt_namn": "Dottevik Arvika",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840208",
+      "valdistrikt_namn": "Solvik Arvika",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840209",
+      "valdistrikt_namn": "Agneteberg Arvika",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840210",
+      "valdistrikt_namn": "Jössefors Arvika",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840228",
+      "valdistrikt_namn": "Taserud Arvika",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840311",
+      "valdistrikt_namn": "Stavnäs-Högerud",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840514",
+      "valdistrikt_namn": "Glava",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840617",
+      "valdistrikt_namn": "Gunnarskog-Bogen",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17840920",
+      "valdistrikt_namn": "Älgå-Ny",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17841122",
+      "valdistrikt_namn": "Edane-Mangskog-Vikene",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17850101",
+      "valdistrikt_namn": "Tegnér",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17850102",
+      "valdistrikt_namn": "Tingvalla",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17850103",
+      "valdistrikt_namn": "Trätälja",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17850105",
+      "valdistrikt_namn": "Värmlandsnäs Södra",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17850206",
+      "valdistrikt_namn": "Höglunda",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17850308",
+      "valdistrikt_namn": "Värmlandsnäs Norra",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17851018",
+      "valdistrikt_namn": "Annelund",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17851120",
+      "valdistrikt_namn": "Svaneholm",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    },
+    {
+      "valdistrikt_kod": "17851223",
+      "valdistrikt_namn": "Nysäter",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17",
+      "lan_namn": "Värmlands län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Värmlands län (val 2022) - Gratis nedladdning",
+    "description": "179 valdistrikt i Värmlands län (länskod 17) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 179 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Värmlands län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Värmlands län (val 2022) — 179 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 179 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

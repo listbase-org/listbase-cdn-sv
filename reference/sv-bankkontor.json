@@ -1,0 +1,3621 @@
+{
+  "id": "sv-bankkontor",
+  "name": "Bankkontor (Bank branches)",
+  "title": "Bankkontor (Bank branches)",
+  "description": "Bankkontor i Sverige — OpenStreetMap-punktdata (OSM-tagg: amenity=bank). Swedish bank branches as named point locations with WGS84 coordinates. 716 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). (Kompletterar sv-banker som listar clearingnummer-register.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 716,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AXA",
+      "latitude": 59.856451,
+      "longitude": 17.630497
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 55.868549,
+      "longitude": 12.830783
+    },
+    {
+      "name": "Bergslagens Sparbank",
+      "latitude": 59.590814,
+      "longitude": 15.227641
+    },
+    {
+      "name": "Bergslagens Sparbank",
+      "latitude": 59.434199,
+      "longitude": 15.592985
+    },
+    {
+      "name": "Bjursås Sparbank",
+      "latitude": 60.739658,
+      "longitude": 15.44401
+    },
+    {
+      "name": "Change Money",
+      "latitude": 59.30557,
+      "longitude": 18.128093
+    },
+    {
+      "name": "Dalslands Sparbank",
+      "latitude": 58.698986,
+      "longitude": 12.452162
+    },
+    {
+      "name": "Dalslands Sparbank",
+      "latitude": 58.567522,
+      "longitude": 11.996771
+    },
+    {
+      "name": "Dalslands Sparbank",
+      "latitude": 59.029286,
+      "longitude": 12.224997
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 59.295797,
+      "longitude": 18.080406
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 59.309546,
+      "longitude": 18.028188
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.609927,
+      "longitude": 12.999128
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 57.704416,
+      "longitude": 11.968969
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 57.706093,
+      "longitude": 11.966566
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 58.411853,
+      "longitude": 15.633355
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 55.702509,
+      "longitude": 13.190206
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 56.879317,
+      "longitude": 14.808467
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 59.375708,
+      "longitude": 13.50633
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 57.64256,
+      "longitude": 11.947394
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 58.428182,
+      "longitude": 15.611901
+    },
+    {
+      "name": "Danske Bank Kalmar",
+      "latitude": 56.661887,
+      "longitude": 16.362132
+    },
+    {
+      "name": "Danske Bank Kristianstad",
+      "latitude": 56.025732,
+      "longitude": 14.158962
+    },
+    {
+      "name": "Falkenbergs Sparbank",
+      "latitude": 56.903917,
+      "longitude": 12.491058
+    },
+    {
+      "name": "Forex",
+      "latitude": 63.175082,
+      "longitude": 14.637461
+    },
+    {
+      "name": "Forex",
+      "latitude": 59.310016,
+      "longitude": 18.164557
+    },
+    {
+      "name": "Forex",
+      "latitude": 65.584529,
+      "longitude": 22.156437
+    },
+    {
+      "name": "Forex",
+      "latitude": 58.588794,
+      "longitude": 16.187862
+    },
+    {
+      "name": "Forex",
+      "latitude": 57.667395,
+      "longitude": 12.295095
+    },
+    {
+      "name": "Forex Bank",
+      "latitude": 57.700077,
+      "longitude": 11.975903
+    },
+    {
+      "name": "Forex bank",
+      "latitude": 58.353617,
+      "longitude": 11.809313
+    },
+    {
+      "name": "Forex Bank",
+      "latitude": 60.675541,
+      "longitude": 17.146715
+    },
+    {
+      "name": "Forex Bank",
+      "latitude": 57.704786,
+      "longitude": 11.970277
+    },
+    {
+      "name": "Forex Bank",
+      "latitude": 58.410966,
+      "longitude": 15.625429
+    },
+    {
+      "name": "Forex Bank",
+      "latitude": 57.491575,
+      "longitude": 12.074682
+    },
+    {
+      "name": "Forex Bank",
+      "latitude": 59.218009,
+      "longitude": 15.138456
+    },
+    {
+      "name": "Forex Bank",
+      "latitude": 57.650675,
+      "longitude": 11.911065
+    },
+    {
+      "name": "Forex Bank",
+      "latitude": 57.668765,
+      "longitude": 12.295106
+    },
+    {
+      "name": "Fryksdalens Sparbank",
+      "latitude": 59.836858,
+      "longitude": 13.145169
+    },
+    {
+      "name": "Fryksdalens Sparbank Sysslebäck",
+      "latitude": 60.730867,
+      "longitude": 12.870933
+    },
+    {
+      "name": "Getinge sparbank",
+      "latitude": 56.819241,
+      "longitude": 12.732954
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.051167,
+      "longitude": 12.705938
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.03519,
+      "longitude": 14.976524
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 62.48487,
+      "longitude": 17.323975
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.201861,
+      "longitude": 17.76682
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 67.848469,
+      "longitude": 20.301445
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.485009,
+      "longitude": 15.432383
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.401637,
+      "longitude": 17.946793
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.625997,
+      "longitude": 17.413083
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.480492,
+      "longitude": 18.298993
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.17885,
+      "longitude": 14.636831
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.328961,
+      "longitude": 18.042705
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.332264,
+      "longitude": 18.079359
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.332841,
+      "longitude": 18.056884
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.329882,
+      "longitude": 18.073666
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 56.833612,
+      "longitude": 13.94138
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.255711,
+      "longitude": 18.114486
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.261893,
+      "longitude": 12.951642
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.325481,
+      "longitude": 14.517181
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.28988,
+      "longitude": 17.811825
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 64.912547,
+      "longitude": 19.480279
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.855625,
+      "longitude": 17.664811
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.862698,
+      "longitude": 17.613271
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.85961,
+      "longitude": 17.640024
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 66.328448,
+      "longitude": 22.840862
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.708327,
+      "longitude": 11.939589
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.709081,
+      "longitude": 11.920327
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.689351,
+      "longitude": 11.995322
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.7013,
+      "longitude": 11.974135
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.69908,
+      "longitude": 11.977328
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 65.537406,
+      "longitude": 17.528344
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.569177,
+      "longitude": 19.498472
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 56.904323,
+      "longitude": 12.489672
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.399039,
+      "longitude": 13.076194
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 62.033779,
+      "longitude": 14.358297
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 62.751893,
+      "longitude": 15.417531
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.294029,
+      "longitude": 18.032026
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.294557,
+      "longitude": 18.08036
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.310002,
+      "longitude": 18.02858
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.595793,
+      "longitude": 13.000856
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.050018,
+      "longitude": 18.596928
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.820569,
+      "longitude": 20.253046
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.288917,
+      "longitude": 18.719096
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.345326,
+      "longitude": 18.039135
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.337004,
+      "longitude": 18.089821
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.335126,
+      "longitude": 18.02877
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.340236,
+      "longitude": 18.076422
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.333759,
+      "longitude": 18.073696
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.339717,
+      "longitude": 18.03615
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.348654,
+      "longitude": 18.101006
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.34331,
+      "longitude": 18.05081
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.370792,
+      "longitude": 16.513351
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.496106,
+      "longitude": 13.110602
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.293182,
+      "longitude": 17.96723
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.378552,
+      "longitude": 12.321984
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.707429,
+      "longitude": 15.774897
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 64.279221,
+      "longitude": 21.041062
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.318776,
+      "longitude": 15.583244
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 61.375107,
+      "longitude": 15.818853
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.397556,
+      "longitude": 18.089275
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.398463,
+      "longitude": 18.036103
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.562722,
+      "longitude": 15.280651
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.652244,
+      "longitude": 11.987294
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.605553,
+      "longitude": 13.001837
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.616814,
+      "longitude": 17.722062
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.896024,
+      "longitude": 17.547016
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 62.930792,
+      "longitude": 17.776759
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.675261,
+      "longitude": 17.143046
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.631605,
+      "longitude": 13.704541
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 56.674563,
+      "longitude": 12.866211
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.709936,
+      "longitude": 11.774086
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.725867,
+      "longitude": 17.789331
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 56.513799,
+      "longitude": 13.044176
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 64.624944,
+      "longitude": 16.654431
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.727823,
+      "longitude": 11.861154
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.700672,
+      "longitude": 11.946527
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.340184,
+      "longitude": 19.163725
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.426863,
+      "longitude": 17.95252
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.643488,
+      "longitude": 13.209156
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.206231,
+      "longitude": 17.903125
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 65.855606,
+      "longitude": 22.287194
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.39511,
+      "longitude": 15.840763
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.706207,
+      "longitude": 11.967849
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.712575,
+      "longitude": 11.966799
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.704593,
+      "longitude": 12.007044
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 65.592412,
+      "longitude": 19.177225
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.412277,
+      "longitude": 15.627154
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.707889,
+      "longitude": 20.36518
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.202516,
+      "longitude": 18.503582
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.339566,
+      "longitude": 17.938238
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.339413,
+      "longitude": 18.005229
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.277734,
+      "longitude": 15.985751
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 56.052569,
+      "longitude": 14.583223
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.332741,
+      "longitude": 17.98262
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.673312,
+      "longitude": 13.068689
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.983062,
+      "longitude": 17.893933
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.048397,
+      "longitude": 17.307206
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 56.87931,
+      "longitude": 16.657083
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.556793,
+      "longitude": 14.350194
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.601371,
+      "longitude": 16.575881
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.326624,
+      "longitude": 15.127078
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.793174,
+      "longitude": 13.413421
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 62.524274,
+      "longitude": 15.658215
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 64.749068,
+      "longitude": 20.950008
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.734285,
+      "longitude": 15.439946
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 65.835615,
+      "longitude": 24.13775
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.2843,
+      "longitude": 12.288803
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.733217,
+      "longitude": 12.076705
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.456471,
+      "longitude": 14.730497
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.266202,
+      "longitude": 18.690849
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.757308,
+      "longitude": 18.703149
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.279341,
+      "longitude": 18.008933
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.009447,
+      "longitude": 18.18744
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.93489,
+      "longitude": 13.53876
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 65.584108,
+      "longitude": 22.149806
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.861657,
+      "longitude": 19.056607
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.621033,
+      "longitude": 16.775566
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.901202,
+      "longitude": 20.55045
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 56.242994,
+      "longitude": 12.862365
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 65.183336,
+      "longitude": 18.742199
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.4794,
+      "longitude": 17.750073
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.831869,
+      "longitude": 15.69171
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.824658,
+      "longitude": 20.263502
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.160563,
+      "longitude": 13.554693
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.238019,
+      "longitude": 14.573207
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.236564,
+      "longitude": 17.983246
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.326974,
+      "longitude": 18.392405
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.732155,
+      "longitude": 14.995946
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.48803,
+      "longitude": 15.841331
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 66.387959,
+      "longitude": 23.65759
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.580638,
+      "longitude": 16.215752
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.743708,
+      "longitude": 18.366613
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 61.004655,
+      "longitude": 14.536158
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.592577,
+      "longitude": 16.185872
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 64.202766,
+      "longitude": 19.718364
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.349514,
+      "longitude": 11.934313
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.166571,
+      "longitude": 16.02521
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.272006,
+      "longitude": 15.2137
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.276192,
+      "longitude": 15.205649
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.167089,
+      "longitude": 17.270419
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 65.825207,
+      "longitude": 21.688454
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.380364,
+      "longitude": 13.501573
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.635507,
+      "longitude": 13.490694
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.362341,
+      "longitude": 17.871885
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.701097,
+      "longitude": 13.192528
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.683875,
+      "longitude": 14.226832
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.782637,
+      "longitude": 14.169562
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 63.346103,
+      "longitude": 13.459622
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.874432,
+      "longitude": 11.966881
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.507922,
+      "longitude": 13.235513
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 56.170443,
+      "longitude": 14.861846
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 61.727752,
+      "longitude": 17.105693
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 61.302771,
+      "longitude": 17.05616
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.078169,
+      "longitude": 13.025375
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.791398,
+      "longitude": 13.109457
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 66.606294,
+      "longitude": 19.833306
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.242304,
+      "longitude": 18.093066
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.185467,
+      "longitude": 14.038034
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.928334,
+      "longitude": 14.295274
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.672159,
+      "longitude": 11.880087
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.667823,
+      "longitude": 12.568403
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.69996,
+      "longitude": 12.452414
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.920607,
+      "longitude": 16.605599
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.534518,
+      "longitude": 18.076674
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.390668,
+      "longitude": 13.84646
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.400698,
+      "longitude": 14.666347
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 57.64106,
+      "longitude": 11.947578
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.361255,
+      "longitude": 17.966404
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.592629,
+      "longitude": 15.225254
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.632889,
+      "longitude": 13.072123
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.606966,
+      "longitude": 15.630987
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 55.429033,
+      "longitude": 13.821198
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.033065,
+      "longitude": 12.808829
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 61.828138,
+      "longitude": 16.095298
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 64.59518,
+      "longitude": 18.676955
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.939766,
+      "longitude": 11.170219
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 58.90361,
+      "longitude": 17.948053
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.376826,
+      "longitude": 17.026853
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.510301,
+      "longitude": 14.226573
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 56.427024,
+      "longitude": 12.849432
+    },
+    {
+      "name": "Handelsbanken Bjurholm",
+      "latitude": 63.930577,
+      "longitude": 19.214611
+    },
+    {
+      "name": "Handelsbanken Bredbyn",
+      "latitude": 63.448636,
+      "longitude": 18.108403
+    },
+    {
+      "name": "Handelsbanken Fridhem",
+      "latitude": 55.594061,
+      "longitude": 12.965108
+    },
+    {
+      "name": "Handelsbanken Frölunda",
+      "latitude": 57.648183,
+      "longitude": 11.913698
+    },
+    {
+      "name": "Handelsbanken Gällivare",
+      "latitude": 67.134383,
+      "longitude": 20.659112
+    },
+    {
+      "name": "Handelsbanken Helsingborg Norr",
+      "latitude": 56.057528,
+      "longitude": 12.701677
+    },
+    {
+      "name": "Handelsbanken Härnösand",
+      "latitude": 62.633161,
+      "longitude": 17.938962
+    },
+    {
+      "name": "Handelsbanken Högalid",
+      "latitude": 59.316381,
+      "longitude": 18.041049
+    },
+    {
+      "name": "Handelsbanken Höllviken",
+      "latitude": 55.421156,
+      "longitude": 12.956665
+    },
+    {
+      "name": "Handelsbanken Kalmar",
+      "latitude": 56.663327,
+      "longitude": 16.36341
+    },
+    {
+      "name": "Handelsbanken Karlskrona",
+      "latitude": 56.167434,
+      "longitude": 15.590858
+    },
+    {
+      "name": "Handelsbanken Kristianstad",
+      "latitude": 56.029062,
+      "longitude": 14.15914
+    },
+    {
+      "name": "Handelsbanken Lidköping",
+      "latitude": 58.503305,
+      "longitude": 13.156985
+    },
+    {
+      "name": "Handelsbanken Nacka",
+      "latitude": 59.30897,
+      "longitude": 18.166006
+    },
+    {
+      "name": "Handelsbanken Nora",
+      "latitude": 59.519411,
+      "longitude": 15.037994
+    },
+    {
+      "name": "Handelsbanken Orsa",
+      "latitude": 61.121094,
+      "longitude": 14.620032
+    },
+    {
+      "name": "Handelsbanken Pajala",
+      "latitude": 67.213096,
+      "longitude": 23.365943
+    },
+    {
+      "name": "Handelsbanken Robertsfors",
+      "latitude": 64.193378,
+      "longitude": 20.848106
+    },
+    {
+      "name": "Handelsbanken Stortorget",
+      "latitude": 56.046732,
+      "longitude": 12.693675
+    },
+    {
+      "name": "Handelsbanken Tornio",
+      "latitude": 65.845372,
+      "longitude": 24.14806
+    },
+    {
+      "name": "Handelsbanken Torsåker",
+      "latitude": 60.510056,
+      "longitude": 16.472096
+    },
+    {
+      "name": "Handelsbanken Uppsala Rosendal",
+      "latitude": 59.831562,
+      "longitude": 17.635051
+    },
+    {
+      "name": "Handelsbanken Vellinge",
+      "latitude": 55.470498,
+      "longitude": 13.020799
+    },
+    {
+      "name": "Handelsbanken Vännäs",
+      "latitude": 63.905742,
+      "longitude": 19.753483
+    },
+    {
+      "name": "Handelsbanken Växjö",
+      "latitude": 56.879761,
+      "longitude": 14.801416
+    },
+    {
+      "name": "Handelsbanken Älmhult",
+      "latitude": 56.552505,
+      "longitude": 14.140978
+    },
+    {
+      "name": "Handelsbanken Åsele",
+      "latitude": 64.16164,
+      "longitude": 17.353587
+    },
+    {
+      "name": "Hälsinglands Sparbank",
+      "latitude": 62.269336,
+      "longitude": 17.372183
+    },
+    {
+      "name": "Hälsinglands Sparbank",
+      "latitude": 62.296667,
+      "longitude": 17.050575
+    },
+    {
+      "name": "Hälsinglands Sparbank",
+      "latitude": 61.727572,
+      "longitude": 17.107751
+    },
+    {
+      "name": "Högsby sparbank",
+      "latitude": 57.163369,
+      "longitude": 16.028138
+    },
+    {
+      "name": "Ivetofta Sparbank - Bromölla",
+      "latitude": 56.073659,
+      "longitude": 14.467275
+    },
+    {
+      "name": "Ivetofta Sparbank - Näsum",
+      "latitude": 56.175027,
+      "longitude": 14.501877
+    },
+    {
+      "name": "Kinda Sparbank",
+      "latitude": 58.136794,
+      "longitude": 15.68513
+    },
+    {
+      "name": "Kinda-Ydre Sparbank",
+      "latitude": 57.823911,
+      "longitude": 15.276529
+    },
+    {
+      "name": "Kinda-Ydre Sparbank - Horn",
+      "latitude": 57.900061,
+      "longitude": 15.839987
+    },
+    {
+      "name": "Kyrkhults sparbank",
+      "latitude": 56.355941,
+      "longitude": 14.587331
+    },
+    {
+      "name": "Laholms Sparbank",
+      "latitude": 56.517388,
+      "longitude": 13.317052
+    },
+    {
+      "name": "Laholms Sparbanken",
+      "latitude": 56.513859,
+      "longitude": 13.043804
+    },
+    {
+      "name": "Landshypotek Bank",
+      "latitude": 58.414749,
+      "longitude": 15.621268
+    },
+    {
+      "name": "Landshypotek Bank",
+      "latitude": 59.852021,
+      "longitude": 17.683969
+    },
+    {
+      "name": "Leksands Sparbank",
+      "latitude": 60.886125,
+      "longitude": 15.117738
+    },
+    {
+      "name": "Leksands Sparbank",
+      "latitude": 60.675556,
+      "longitude": 15.0897
+    },
+    {
+      "name": "Leksands Sparbank",
+      "latitude": 60.731573,
+      "longitude": 14.995444
+    },
+    {
+      "name": "LF Jämtland",
+      "latitude": 63.400957,
+      "longitude": 13.0732
+    },
+    {
+      "name": "Lilla Bergslagens Sparbank",
+      "latitude": 59.519683,
+      "longitude": 15.038485
+    },
+    {
+      "name": "Länsförsäkringar",
+      "latitude": 59.338485,
+      "longitude": 18.102416
+    },
+    {
+      "name": "Länsförsäkringar",
+      "latitude": 55.609723,
+      "longitude": 12.99603
+    },
+    {
+      "name": "Länsförsäkringar",
+      "latitude": 57.740218,
+      "longitude": 12.110105
+    },
+    {
+      "name": "Länsförsäkringar",
+      "latitude": 56.028519,
+      "longitude": 14.15695
+    },
+    {
+      "name": "Länsförsäkringar",
+      "latitude": 58.160682,
+      "longitude": 13.555529
+    },
+    {
+      "name": "Länsförsäkringar",
+      "latitude": 59.273215,
+      "longitude": 15.212527
+    },
+    {
+      "name": "Länsförsäkringar",
+      "latitude": 57.184227,
+      "longitude": 14.046578
+    },
+    {
+      "name": "Länsförsäkringar",
+      "latitude": 56.211637,
+      "longitude": 15.275838
+    },
+    {
+      "name": "Länsförsäkringar bank",
+      "latitude": 63.179612,
+      "longitude": 14.636393
+    },
+    {
+      "name": "Länsförsäkringar Bank",
+      "latitude": 65.592571,
+      "longitude": 19.176808
+    },
+    {
+      "name": "Länsförsäkringar Bank",
+      "latitude": 61.006939,
+      "longitude": 14.544621
+    },
+    {
+      "name": "Länsförsäkringar Gotland",
+      "latitude": 57.636901,
+      "longitude": 18.302601
+    },
+    {
+      "name": "Länsförsäkringar Göinge-Kristianstad",
+      "latitude": 56.155862,
+      "longitude": 13.766706
+    },
+    {
+      "name": "Länsförsäkringar Halland",
+      "latitude": 56.671302,
+      "longitude": 12.860783
+    },
+    {
+      "name": "Länsförsäkringar Norrbotten",
+      "latitude": 65.58379,
+      "longitude": 22.155927
+    },
+    {
+      "name": "Länsförsäkringar Skaraborg",
+      "latitude": 58.504771,
+      "longitude": 13.157108
+    },
+    {
+      "name": "Länsförsäkringar Stockholm",
+      "latitude": 59.295778,
+      "longitude": 18.080415
+    },
+    {
+      "name": "Länsförsäkringar Stockholm",
+      "latitude": 59.369076,
+      "longitude": 18.018079
+    },
+    {
+      "name": "Länsförsäkringar Västernorrland AB",
+      "latitude": 62.634131,
+      "longitude": 17.939702
+    },
+    {
+      "name": "Länsförsäkringar Östgöta",
+      "latitude": 58.61784,
+      "longitude": 16.154052
+    },
+    {
+      "name": "Länsförsäkringar Östgöta",
+      "latitude": 58.413645,
+      "longitude": 15.620191
+    },
+    {
+      "name": "Länsförsäkringar Östgöta",
+      "latitude": 58.590703,
+      "longitude": 16.186025
+    },
+    {
+      "name": "Lönneberga-Tuna-Vena Sparbank",
+      "latitude": 57.542615,
+      "longitude": 15.751908
+    },
+    {
+      "name": "Markaryds Sparbank",
+      "latitude": 56.461533,
+      "longitude": 13.595472
+    },
+    {
+      "name": "Mjöbäcks Sparbank",
+      "latitude": 57.348983,
+      "longitude": 12.894055
+    },
+    {
+      "name": "Nordea",
+      "latitude": 60.485143,
+      "longitude": 15.432771
+    },
+    {
+      "name": "Nordea",
+      "latitude": 63.177184,
+      "longitude": 14.635102
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.332945,
+      "longitude": 18.070729
+    },
+    {
+      "name": "Nordea",
+      "latitude": 62.391565,
+      "longitude": 17.309576
+    },
+    {
+      "name": "Nordea",
+      "latitude": 60.031714,
+      "longitude": 13.699272
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.719601,
+      "longitude": 11.944878
+    },
+    {
+      "name": "Nordea",
+      "latitude": 56.904316,
+      "longitude": 12.489717
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.195316,
+      "longitude": 17.628302
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.581988,
+      "longitude": 13.006356
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.581603,
+      "longitude": 12.933399
+    },
+    {
+      "name": "Nordea",
+      "latitude": 63.288681,
+      "longitude": 18.716756
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.371403,
+      "longitude": 16.515041
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.42716,
+      "longitude": 15.083595
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.126137,
+      "longitude": 15.143082
+    },
+    {
+      "name": "Nordea",
+      "latitude": 56.744098,
+      "longitude": 15.907986
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.399383,
+      "longitude": 18.034334
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.65505,
+      "longitude": 12.011423
+    },
+    {
+      "name": "Nordea",
+      "latitude": 62.632515,
+      "longitude": 17.938587
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.605048,
+      "longitude": 13.001067
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.610721,
+      "longitude": 12.999733
+    },
+    {
+      "name": "Nordea",
+      "latitude": 60.674493,
+      "longitude": 17.143907
+    },
+    {
+      "name": "Nordea",
+      "latitude": 56.67473,
+      "longitude": 12.857496
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.709945,
+      "longitude": 11.774326
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.725544,
+      "longitude": 17.790307
+    },
+    {
+      "name": "Nordea",
+      "latitude": 64.625798,
+      "longitude": 16.652269
+    },
+    {
+      "name": "Nordea",
+      "latitude": 67.33173,
+      "longitude": 23.781853
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.1681,
+      "longitude": 18.136347
+    },
+    {
+      "name": "Nordea",
+      "latitude": 60.258734,
+      "longitude": 18.373965
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.709387,
+      "longitude": 11.966984
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.705481,
+      "longitude": 11.962693
+    },
+    {
+      "name": "Nordea",
+      "latitude": 58.409763,
+      "longitude": 15.623748
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.340379,
+      "longitude": 17.938839
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.635133,
+      "longitude": 17.078488
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.4889,
+      "longitude": 12.077259
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.30909,
+      "longitude": 18.16602
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.42897,
+      "longitude": 13.819386
+    },
+    {
+      "name": "Nordea",
+      "latitude": 60.134355,
+      "longitude": 13.007669
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.758214,
+      "longitude": 18.702808
+    },
+    {
+      "name": "Nordea",
+      "latitude": 65.583589,
+      "longitude": 22.154429
+    },
+    {
+      "name": "Nordea",
+      "latitude": 60.622256,
+      "longitude": 16.775537
+    },
+    {
+      "name": "Nordea",
+      "latitude": 65.315425,
+      "longitude": 21.477484
+    },
+    {
+      "name": "Nordea",
+      "latitude": 63.82662,
+      "longitude": 20.26356
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.236876,
+      "longitude": 17.981428
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.422987,
+      "longitude": 17.835151
+    },
+    {
+      "name": "Nordea",
+      "latitude": 61.006558,
+      "longitude": 14.54019
+    },
+    {
+      "name": "Nordea",
+      "latitude": 58.586101,
+      "longitude": 16.189073
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.27101,
+      "longitude": 15.210442
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.364885,
+      "longitude": 18.127085
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.380331,
+      "longitude": 13.503307
+    },
+    {
+      "name": "Nordea",
+      "latitude": 55.70216,
+      "longitude": 13.192488
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.873729,
+      "longitude": 11.977762
+    },
+    {
+      "name": "Nordea",
+      "latitude": 56.171123,
+      "longitude": 14.863487
+    },
+    {
+      "name": "Nordea",
+      "latitude": 61.727775,
+      "longitude": 17.108831
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.352334,
+      "longitude": 13.111212
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.274052,
+      "longitude": 17.906821
+    },
+    {
+      "name": "Nordea",
+      "latitude": 61.301973,
+      "longitude": 17.053799
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.2418,
+      "longitude": 18.09041
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.184525,
+      "longitude": 14.04221
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.534751,
+      "longitude": 18.078243
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.65156,
+      "longitude": 11.911838
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.641176,
+      "longitude": 11.947574
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.369782,
+      "longitude": 18.001617
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.029224,
+      "longitude": 12.226286
+    },
+    {
+      "name": "Nordea",
+      "latitude": 58.069528,
+      "longitude": 11.818072
+    },
+    {
+      "name": "Nordea",
+      "latitude": 58.754292,
+      "longitude": 17.014622
+    },
+    {
+      "name": "Nordea",
+      "latitude": 64.594299,
+      "longitude": 18.677878
+    },
+    {
+      "name": "Nordea",
+      "latitude": 57.758147,
+      "longitude": 16.639803
+    },
+    {
+      "name": "Nordea",
+      "latitude": 56.048356,
+      "longitude": 12.692912
+    },
+    {
+      "name": "Nordea",
+      "latitude": 67.135328,
+      "longitude": 20.656019
+    },
+    {
+      "name": "Nordea",
+      "latitude": 58.937887,
+      "longitude": 11.171527
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.376928,
+      "longitude": 17.025975
+    },
+    {
+      "name": "Nordea",
+      "latitude": 65.845857,
+      "longitude": 24.148863
+    },
+    {
+      "name": "Nordea bank Gnosjö",
+      "latitude": 57.357904,
+      "longitude": 13.733095
+    },
+    {
+      "name": "Nordea Falun",
+      "latitude": 60.608135,
+      "longitude": 15.630235
+    },
+    {
+      "name": "Nordea Kinna",
+      "latitude": 57.507815,
+      "longitude": 12.694956
+    },
+    {
+      "name": "Nordea Lidköping",
+      "latitude": 58.503106,
+      "longitude": 13.157554
+    },
+    {
+      "name": "Nordeakontor Kalmar 3022",
+      "latitude": 56.664686,
+      "longitude": 16.364594
+    },
+    {
+      "name": "Nordeakontor Karlskrona 3024",
+      "latitude": 56.162202,
+      "longitude": 15.587978
+    },
+    {
+      "name": "Nordeakontor Kristianstad 3026",
+      "latitude": 56.027618,
+      "longitude": 14.158652
+    },
+    {
+      "name": "Nordeakontoret Karlshamn 3023",
+      "latitude": 56.171242,
+      "longitude": 14.864358
+    },
+    {
+      "name": "Nordeakontoret Växjö 3045",
+      "latitude": 56.879932,
+      "longitude": 14.774844
+    },
+    {
+      "name": "Orust Sparbank",
+      "latitude": 58.182274,
+      "longitude": 11.467153
+    },
+    {
+      "name": "Orust Sparbank",
+      "latitude": 58.125753,
+      "longitude": 11.71565
+    },
+    {
+      "name": "Orust Sparbank",
+      "latitude": 58.142681,
+      "longitude": 11.819669
+    },
+    {
+      "name": "Orusts Sparbank",
+      "latitude": 58.23619,
+      "longitude": 11.680389
+    },
+    {
+      "name": "Osuuspankki",
+      "latitude": 66.040584,
+      "longitude": 24.018807
+    },
+    {
+      "name": "Osuuspankki",
+      "latitude": 65.846128,
+      "longitude": 24.149505
+    },
+    {
+      "name": "Riksbanken",
+      "latitude": 55.554103,
+      "longitude": 13.060241
+    },
+    {
+      "name": "Roslagens Sparbank",
+      "latitude": 59.746571,
+      "longitude": 18.680374
+    },
+    {
+      "name": "Roslagens Sparbank",
+      "latitude": 60.049045,
+      "longitude": 18.597022
+    },
+    {
+      "name": "Roslagens Sparbank",
+      "latitude": 59.758582,
+      "longitude": 18.702343
+    },
+    {
+      "name": "Roslagens Sparbank",
+      "latitude": 59.743604,
+      "longitude": 18.367362
+    },
+    {
+      "name": "Sala Sparbank",
+      "latitude": 60.18139,
+      "longitude": 17.179631
+    },
+    {
+      "name": "Sala Sparbank",
+      "latitude": 59.938675,
+      "longitude": 16.861906
+    },
+    {
+      "name": "Sala Sparbank",
+      "latitude": 59.920025,
+      "longitude": 16.606839
+    },
+    {
+      "name": "Sampo Pankki",
+      "latitude": 65.84663,
+      "longitude": 24.150421
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.052005,
+      "longitude": 12.70506
+    },
+    {
+      "name": "SEB",
+      "latitude": 60.485336,
+      "longitude": 15.432996
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.403267,
+      "longitude": 17.947193
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.445177,
+      "longitude": 18.069491
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.33282,
+      "longitude": 18.072375
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.833208,
+      "longitude": 13.9397
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.007485,
+      "longitude": 12.737911
+    },
+    {
+      "name": "SEB",
+      "latitude": 57.700259,
+      "longitude": 11.975654
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.244364,
+      "longitude": 12.862891
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.29426,
+      "longitude": 18.080356
+    },
+    {
+      "name": "SEB",
+      "latitude": 55.596571,
+      "longitude": 13.002559
+    },
+    {
+      "name": "SEB",
+      "latitude": 63.291018,
+      "longitude": 18.715484
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.337107,
+      "longitude": 18.090882
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.33334,
+      "longitude": 18.032214
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.336536,
+      "longitude": 18.078582
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.342573,
+      "longitude": 18.051079
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.334085,
+      "longitude": 18.066772
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.370664,
+      "longitude": 16.51299
+    },
+    {
+      "name": "SEB",
+      "latitude": 57.425501,
+      "longitude": 15.087607
+    },
+    {
+      "name": "SEB",
+      "latitude": 57.986495,
+      "longitude": 11.549207
+    },
+    {
+      "name": "SEB",
+      "latitude": 55.607724,
+      "longitude": 13.00295
+    },
+    {
+      "name": "SEB",
+      "latitude": 55.609558,
+      "longitude": 12.979529
+    },
+    {
+      "name": "SEB",
+      "latitude": 55.60794,
+      "longitude": 12.991959
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.66325,
+      "longitude": 16.362446
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.664849,
+      "longitude": 16.364092
+    },
+    {
+      "name": "SEB",
+      "latitude": 58.360282,
+      "longitude": 11.248736
+    },
+    {
+      "name": "SEB",
+      "latitude": 62.390365,
+      "longitude": 17.315671
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.513042,
+      "longitude": 13.042365
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.162041,
+      "longitude": 15.58636
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.4289,
+      "longitude": 17.949396
+    },
+    {
+      "name": "SEB",
+      "latitude": 55.641839,
+      "longitude": 13.204983
+    },
+    {
+      "name": "SEB",
+      "latitude": 57.70818,
+      "longitude": 11.967633
+    },
+    {
+      "name": "SEB",
+      "latitude": 58.410911,
+      "longitude": 15.620922
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.338686,
+      "longitude": 17.93953
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.052505,
+      "longitude": 14.587577
+    },
+    {
+      "name": "SEB",
+      "latitude": 55.67316,
+      "longitude": 13.069836
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.046042,
+      "longitude": 12.693477
+    },
+    {
+      "name": "SEB",
+      "latitude": 64.750056,
+      "longitude": 20.952463
+    },
+    {
+      "name": "SEB",
+      "latitude": 55.702987,
+      "longitude": 13.192138
+    },
+    {
+      "name": "SEB",
+      "latitude": 57.357499,
+      "longitude": 13.735182
+    },
+    {
+      "name": "SEB",
+      "latitude": 57.696709,
+      "longitude": 11.651043
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.236558,
+      "longitude": 17.982895
+    },
+    {
+      "name": "SEB",
+      "latitude": 57.719661,
+      "longitude": 11.848466
+    },
+    {
+      "name": "SEB",
+      "latitude": 58.586862,
+      "longitude": 16.189151
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.365485,
+      "longitude": 18.13349
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.379399,
+      "longitude": 13.499058
+    },
+    {
+      "name": "SEB",
+      "latitude": 58.272647,
+      "longitude": 11.43557
+    },
+    {
+      "name": "SEB",
+      "latitude": 57.781658,
+      "longitude": 14.170691
+    },
+    {
+      "name": "SEB",
+      "latitude": 57.874095,
+      "longitude": 11.974262
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.171465,
+      "longitude": 14.861095
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.87845,
+      "longitude": 14.807332
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.242961,
+      "longitude": 18.089232
+    },
+    {
+      "name": "SEB",
+      "latitude": 57.185419,
+      "longitude": 14.040318
+    },
+    {
+      "name": "SEB",
+      "latitude": 56.211002,
+      "longitude": 15.276772
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.36837,
+      "longitude": 18.00611
+    },
+    {
+      "name": "SEB",
+      "latitude": 60.606717,
+      "longitude": 15.631517
+    },
+    {
+      "name": "SEB",
+      "latitude": 58.062989,
+      "longitude": 11.815647
+    },
+    {
+      "name": "SEB",
+      "latitude": 58.938662,
+      "longitude": 11.171003
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.377823,
+      "longitude": 17.02963
+    },
+    {
+      "name": "SEB i Karlshamn",
+      "latitude": 56.164195,
+      "longitude": 14.866003
+    },
+    {
+      "name": "SEB i Kristianstad",
+      "latitude": 56.02894,
+      "longitude": 14.159243
+    },
+    {
+      "name": "SEB Lidköping",
+      "latitude": 58.503125,
+      "longitude": 13.161972
+    },
+    {
+      "name": "SEB Vellinge",
+      "latitude": 55.469897,
+      "longitude": 13.02002
+    },
+    {
+      "name": "Sidensjö Sparbank",
+      "latitude": 63.384274,
+      "longitude": 17.856408
+    },
+    {
+      "name": "Sidensjö sparbank",
+      "latitude": 63.301054,
+      "longitude": 18.27941
+    },
+    {
+      "name": "Smålandsbanken",
+      "latitude": 57.781612,
+      "longitude": 14.167054
+    },
+    {
+      "name": "Snapphanebygdens Sparbank",
+      "latitude": 56.340024,
+      "longitude": 13.664038
+    },
+    {
+      "name": "Snapphanebygdens Sparbank",
+      "latitude": 56.291625,
+      "longitude": 13.710524
+    },
+    {
+      "name": "Sparbanken",
+      "latitude": 58.3843,
+      "longitude": 13.437834
+    },
+    {
+      "name": "Sparbanken",
+      "latitude": 59.394671,
+      "longitude": 15.838777
+    },
+    {
+      "name": "Sparbanken",
+      "latitude": 57.042303,
+      "longitude": 12.397583
+    },
+    {
+      "name": "Sparbanken Alingsås",
+      "latitude": 58.078061,
+      "longitude": 13.022334
+    },
+    {
+      "name": "Sparbanken Alingsås",
+      "latitude": 58.031752,
+      "longitude": 12.808223
+    },
+    {
+      "name": "Sparbanken Eken - Delary",
+      "latitude": 56.547841,
+      "longitude": 13.954243
+    },
+    {
+      "name": "Sparbanken Eken - Grimslöv",
+      "latitude": 56.736527,
+      "longitude": 14.542999
+    },
+    {
+      "name": "Sparbanken Eken - Långasjö",
+      "latitude": 56.578175,
+      "longitude": 15.446386
+    },
+    {
+      "name": "Sparbanken Eken - Ryd",
+      "latitude": 56.464168,
+      "longitude": 14.693881
+    },
+    {
+      "name": "Sparbanken Eken - Älmeboda",
+      "latitude": 56.555589,
+      "longitude": 15.268342
+    },
+    {
+      "name": "Sparbanken Eken - Åryd",
+      "latitude": 56.207483,
+      "longitude": 15.029769
+    },
+    {
+      "name": "Sparbanken Enköping",
+      "latitude": 59.636874,
+      "longitude": 17.076548
+    },
+    {
+      "name": "Sparbanken Göinge",
+      "latitude": 56.234509,
+      "longitude": 13.520988
+    },
+    {
+      "name": "Sparbanken Göinge",
+      "latitude": 56.103584,
+      "longitude": 13.916006
+    },
+    {
+      "name": "Sparbanken Göinge - Glimåkra",
+      "latitude": 56.305726,
+      "longitude": 14.138099
+    },
+    {
+      "name": "Sparbanken Götene",
+      "latitude": 58.528573,
+      "longitude": 13.492901
+    },
+    {
+      "name": "Sparbanken Håsten",
+      "latitude": 57.112484,
+      "longitude": 12.277596
+    },
+    {
+      "name": "Sparbanken i Enköping",
+      "latitude": 59.479047,
+      "longitude": 17.750226
+    },
+    {
+      "name": "Sparbanken i Karlshamn",
+      "latitude": 56.163742,
+      "longitude": 14.865711
+    },
+    {
+      "name": "Sparbanken i Karlshamn",
+      "latitude": 56.170652,
+      "longitude": 14.861663
+    },
+    {
+      "name": "Sparbanken i Karlshamn - Assarum",
+      "latitude": 56.207109,
+      "longitude": 14.833067
+    },
+    {
+      "name": "Sparbanken i Karlshamn - Mörrum",
+      "latitude": 56.192658,
+      "longitude": 14.745833
+    },
+    {
+      "name": "Sparbanken i Karlshamn - Olofström",
+      "latitude": 56.27804,
+      "longitude": 14.524058
+    },
+    {
+      "name": "Sparbanken Lidköping torget",
+      "latitude": 58.502888,
+      "longitude": 13.158022
+    },
+    {
+      "name": "Sparbanken Nord",
+      "latitude": 67.848662,
+      "longitude": 20.301195
+    },
+    {
+      "name": "Sparbanken Nord",
+      "latitude": 66.323921,
+      "longitude": 22.847042
+    },
+    {
+      "name": "Sparbanken Nord",
+      "latitude": 65.341928,
+      "longitude": 21.396264
+    },
+    {
+      "name": "Sparbanken nord",
+      "latitude": 65.593134,
+      "longitude": 19.174884
+    },
+    {
+      "name": "Sparbanken Nord",
+      "latitude": 65.673448,
+      "longitude": 21.009638
+    },
+    {
+      "name": "Sparbanken Nord",
+      "latitude": 65.316152,
+      "longitude": 21.481392
+    },
+    {
+      "name": "Sparbanken Nord",
+      "latitude": 66.052342,
+      "longitude": 17.89221
+    },
+    {
+      "name": "Sparbanken Nord",
+      "latitude": 66.389272,
+      "longitude": 23.657215
+    },
+    {
+      "name": "Sparbanken Nord",
+      "latitude": 67.210467,
+      "longitude": 23.36933
+    },
+    {
+      "name": "Sparbanken Nord",
+      "latitude": 66.60699,
+      "longitude": 19.829006
+    },
+    {
+      "name": "Sparbanken Nord",
+      "latitude": 67.135309,
+      "longitude": 20.657557
+    },
+    {
+      "name": "Sparbanken Rekarne",
+      "latitude": 59.259592,
+      "longitude": 17.22241
+    },
+    {
+      "name": "Sparbanken Skaraborg",
+      "latitude": 58.262037,
+      "longitude": 12.952758
+    },
+    {
+      "name": "Sparbanken Skaraborg",
+      "latitude": 58.187869,
+      "longitude": 12.720815
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.913477,
+      "longitude": 13.107406
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.631727,
+      "longitude": 13.706536
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.643785,
+      "longitude": 13.208171
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.556229,
+      "longitude": 14.349476
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.704203,
+      "longitude": 13.192466
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.717781,
+      "longitude": 13.213567
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.705431,
+      "longitude": 13.183874
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.935324,
+      "longitude": 13.540729
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 56.158868,
+      "longitude": 13.766011
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.633947,
+      "longitude": 13.491836
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.790556,
+      "longitude": 13.109173
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.926136,
+      "longitude": 14.300974
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.766892,
+      "longitude": 12.998728
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.430594,
+      "longitude": 13.827295
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.837818,
+      "longitude": 14.09052
+    },
+    {
+      "name": "Sparbanken Skåne",
+      "latitude": 55.77536,
+      "longitude": 13.511863
+    },
+    {
+      "name": "Sparbanken Skåne - Broby",
+      "latitude": 56.25532,
+      "longitude": 14.077398
+    },
+    {
+      "name": "Sparbanken Skåne - Kristianstad, Blekingevägen",
+      "latitude": 56.028949,
+      "longitude": 14.177223
+    },
+    {
+      "name": "Sparbanken Skåne - Kristianstad, Cardellsgatan",
+      "latitude": 56.029836,
+      "longitude": 14.158181
+    },
+    {
+      "name": "Sparbanken Skåne - Näsby",
+      "latitude": 56.043704,
+      "longitude": 14.151652
+    },
+    {
+      "name": "Sparbanken Skåne - Osby",
+      "latitude": 56.380111,
+      "longitude": 13.996409
+    },
+    {
+      "name": "Sparbanken Syd",
+      "latitude": 55.673061,
+      "longitude": 13.069982
+    },
+    {
+      "name": "Sparbanken Syd",
+      "latitude": 55.556537,
+      "longitude": 14.35064
+    },
+    {
+      "name": "Sparbanken Syd",
+      "latitude": 55.544311,
+      "longitude": 13.952921
+    },
+    {
+      "name": "Sparbanken Syd",
+      "latitude": 55.457685,
+      "longitude": 14.179103
+    },
+    {
+      "name": "Sparbanken Syd",
+      "latitude": 56.029231,
+      "longitude": 14.156053
+    },
+    {
+      "name": "Sparbanken Syd",
+      "latitude": 55.685449,
+      "longitude": 14.224278
+    },
+    {
+      "name": "Sparbanken Syd",
+      "latitude": 55.429274,
+      "longitude": 13.820448
+    },
+    {
+      "name": "Sparbanken Tanum",
+      "latitude": 58.72369,
+      "longitude": 11.323832
+    },
+    {
+      "name": "Sparbanken Tranemo",
+      "latitude": 57.48433,
+      "longitude": 13.352134
+    },
+    {
+      "name": "Sparbanksstiftelsen Färs & Frosta",
+      "latitude": 55.630921,
+      "longitude": 13.707495
+    },
+    {
+      "name": "Stora Bergslagens Sparbank",
+      "latitude": 59.519784,
+      "longitude": 15.038138
+    },
+    {
+      "name": "Styf Investment AB",
+      "latitude": 58.195596,
+      "longitude": 15.98792
+    },
+    {
+      "name": "Suupohjan Osuuspankki",
+      "latitude": 65.845963,
+      "longitude": 24.146621
+    },
+    {
+      "name": "Svedbank",
+      "latitude": 62.033177,
+      "longitude": 14.359843
+    },
+    {
+      "name": "Svenska Handelsbanken",
+      "latitude": 62.387599,
+      "longitude": 17.314532
+    },
+    {
+      "name": "Svenska Spel",
+      "latitude": 59.293852,
+      "longitude": 18.080753
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.053304,
+      "longitude": 12.705045
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 62.487041,
+      "longitude": 17.324645
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.201676,
+      "longitude": 17.767372
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 60.484653,
+      "longitude": 15.434599
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.728427,
+      "longitude": 12.005332
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 60.625493,
+      "longitude": 17.413972
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 63.179273,
+      "longitude": 14.636769
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 55.562353,
+      "longitude": 12.976307
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.332505,
+      "longitude": 18.06939
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.312864,
+      "longitude": 18.071515
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.833562,
+      "longitude": 13.937136
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.325893,
+      "longitude": 14.523398
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 64.911899,
+      "longitude": 19.482375
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 62.390962,
+      "longitude": 17.310002
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 60.032281,
+      "longitude": 13.700496
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.856759,
+      "longitude": 17.647543
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 55.374049,
+      "longitude": 13.156285
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.706084,
+      "longitude": 11.940594
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.720986,
+      "longitude": 11.945854
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.700838,
+      "longitude": 11.953546
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.701835,
+      "longitude": 11.974715
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 64.161877,
+      "longitude": 17.353382
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 65.534007,
+      "longitude": 17.538286
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.67344,
+      "longitude": 12.009715
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.503964,
+      "longitude": 13.317644
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.652682,
+      "longitude": 14.697548
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.135431,
+      "longitude": 13.131647
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 64.519882,
+      "longitude": 20.65825
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.195974,
+      "longitude": 17.627234
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 62.749603,
+      "longitude": 15.41954
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.783621,
+      "longitude": 14.520704
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.297869,
+      "longitude": 18.079408
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 61.799137,
+      "longitude": 15.840941
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 55.602678,
+      "longitude": 13.001932
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 55.589671,
+      "longitude": 13.005262
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 55.58228,
+      "longitude": 12.932109
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 63.288804,
+      "longitude": 18.715554
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.343204,
+      "longitude": 18.049467
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.369475,
+      "longitude": 16.516698
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.958128,
+      "longitude": 12.123019
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.170187,
+      "longitude": 15.344694
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.549979,
+      "longitude": 13.731698
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.126523,
+      "longitude": 15.143517
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.169935,
+      "longitude": 14.58064
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.283442,
+      "longitude": 13.276492
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 61.37448,
+      "longitude": 15.819247
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.422672,
+      "longitude": 17.836483
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.397186,
+      "longitude": 18.037123
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.200224,
+      "longitude": 12.559499
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 62.633474,
+      "longitude": 17.938488
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.633546,
+      "longitude": 18.290755
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.896457,
+      "longitude": 17.548506
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 60.675481,
+      "longitude": 17.142341
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.663703,
+      "longitude": 16.363979
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.36094,
+      "longitude": 11.249273
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.673616,
+      "longitude": 12.858122
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.726221,
+      "longitude": 17.787603
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 64.625545,
+      "longitude": 16.653799
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 63.906179,
+      "longitude": 19.752837
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.161305,
+      "longitude": 15.582978
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.665545,
+      "longitude": 16.182023
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 60.258647,
+      "longitude": 18.370366
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.619948,
+      "longitude": 17.855295
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.43073,
+      "longitude": 17.950164
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 65.855502,
+      "longitude": 22.289191
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.706039,
+      "longitude": 11.966201
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 62.428737,
+      "longitude": 17.417037
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.411091,
+      "longitude": 15.626973
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 63.708292,
+      "longitude": 20.364728
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.134574,
+      "longitude": 12.947724
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 63.201583,
+      "longitude": 18.502637
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.337558,
+      "longitude": 17.937474
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.996042,
+      "longitude": 15.286195
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.466818,
+      "longitude": 11.673293
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 55.673025,
+      "longitude": 13.069037
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.04801,
+      "longitude": 17.310419
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.045599,
+      "longitude": 12.694424
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.599735,
+      "longitude": 16.473749
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.620758,
+      "longitude": 16.593784
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.325363,
+      "longitude": 15.130257
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.908563,
+      "longitude": 14.073651
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 60.135597,
+      "longitude": 13.005819
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 65.835454,
+      "longitude": 24.138558
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.668964,
+      "longitude": 12.567973
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.7403,
+      "longitude": 12.108889
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 65.583467,
+      "longitude": 22.153087
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.480237,
+      "longitude": 16.323739
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 60.622867,
+      "longitude": 16.774738
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.831776,
+      "longitude": 15.692656
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 64.954162,
+      "longitude": 21.205444
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.357104,
+      "longitude": 13.733432
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.796883,
+      "longitude": 12.050666
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 63.82544,
+      "longitude": 20.261655
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 63.825514,
+      "longitude": 20.265691
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.161414,
+      "longitude": 13.555359
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 62.546621,
+      "longitude": 12.541485
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.236473,
+      "longitude": 17.980602
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.55361,
+      "longitude": 14.140973
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.487781,
+      "longitude": 15.843025
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.571872,
+      "longitude": 16.207924
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 61.004073,
+      "longitude": 14.537213
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.587245,
+      "longitude": 16.191302
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.350242,
+      "longitude": 11.934973
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.271569,
+      "longitude": 15.211162
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 63.167633,
+      "longitude": 17.26889
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.381377,
+      "longitude": 13.504594
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.709971,
+      "longitude": 13.820533
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.361744,
+      "longitude": 17.873112
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.66621,
+      "longitude": 14.97213
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 61.229469,
+      "longitude": 14.037453
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.273217,
+      "longitude": 11.435677
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.782225,
+      "longitude": 14.169889
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.874176,
+      "longitude": 11.967031
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 55.508399,
+      "longitude": 13.235825
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.616479,
+      "longitude": 15.572264
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.878972,
+      "longitude": 14.804417
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.876286,
+      "longitude": 17.672864
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.27412,
+      "longitude": 17.908302
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 63.109524,
+      "longitude": 16.354394
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 61.30213,
+      "longitude": 17.054116
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 65.855575,
+      "longitude": 23.140787
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 55.869944,
+      "longitude": 12.832469
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.185104,
+      "longitude": 14.041109
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 55.58571,
+      "longitude": 13.044749
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.211368,
+      "longitude": 15.276656
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.912248,
+      "longitude": 11.932668
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.49855,
+      "longitude": 14.149119
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.536303,
+      "longitude": 15.035977
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.4012,
+      "longitude": 14.665298
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 57.645995,
+      "longitude": 11.915953
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.359164,
+      "longitude": 18.00003
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.359068,
+      "longitude": 17.974757
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 65.182442,
+      "longitude": 18.743378
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 60.605154,
+      "longitude": 15.63485
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 61.828227,
+      "longitude": 16.095019
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.132061,
+      "longitude": 12.929886
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.1781,
+      "longitude": 17.430535
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 61.798998,
+      "longitude": 16.553031
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.937649,
+      "longitude": 11.174065
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 58.903101,
+      "longitude": 17.949127
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 65.095871,
+      "longitude": 17.115169
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.376079,
+      "longitude": 17.027467
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 55.72226,
+      "longitude": 13.026422
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 56.430792,
+      "longitude": 12.839303
+    },
+    {
+      "name": "Swedbank AB Alvesta",
+      "latitude": 56.900006,
+      "longitude": 14.556478
+    },
+    {
+      "name": "Swedbank AB Aneby",
+      "latitude": 57.838926,
+      "longitude": 14.818369
+    },
+    {
+      "name": "Swedbank AB Kosta",
+      "latitude": 56.84983,
+      "longitude": 15.394502
+    },
+    {
+      "name": "Swedbank AB Nybro",
+      "latitude": 56.743545,
+      "longitude": 15.908769
+    },
+    {
+      "name": "Swedbank AB Tingsryd",
+      "latitude": 56.525137,
+      "longitude": 14.979753
+    },
+    {
+      "name": "Swedbank Anderslöv",
+      "latitude": 55.437702,
+      "longitude": 13.318898
+    },
+    {
+      "name": "Swedbank Gislaved",
+      "latitude": 57.302252,
+      "longitude": 13.540347
+    },
+    {
+      "name": "Swedbank Gustavsberg",
+      "latitude": 59.326988,
+      "longitude": 18.390845
+    },
+    {
+      "name": "Swedbank Höllviken",
+      "latitude": 55.417252,
+      "longitude": 12.950555
+    },
+    {
+      "name": "Swedbank Robertsfors",
+      "latitude": 64.192707,
+      "longitude": 20.847765
+    },
+    {
+      "name": "Swedbank Sjuhärad",
+      "latitude": 57.50736,
+      "longitude": 12.693591
+    },
+    {
+      "name": "Swedbank Sjuhärad AB",
+      "latitude": 57.494751,
+      "longitude": 13.110273
+    },
+    {
+      "name": "Swedbank Vellinge",
+      "latitude": 55.471189,
+      "longitude": 13.020523
+    },
+    {
+      "name": "Säästöpankki Optia",
+      "latitude": 65.843845,
+      "longitude": 24.145342
+    },
+    {
+      "name": "Södra Dalarnas Sparbank",
+      "latitude": 60.346373,
+      "longitude": 15.751923
+    },
+    {
+      "name": "Södra Dalarnas Sparbank",
+      "latitude": 60.453399,
+      "longitude": 16.033905
+    },
+    {
+      "name": "Sölvesborg Mjällby Sparbank",
+      "latitude": 56.046509,
+      "longitude": 14.679297
+    },
+    {
+      "name": "Sölvesborg-Mjällby Sparbank",
+      "latitude": 56.051493,
+      "longitude": 14.583925
+    },
+    {
+      "name": "Sörmlands sparbank",
+      "latitude": 59.059262,
+      "longitude": 16.590323
+    },
+    {
+      "name": "Sörmlands Sparbank",
+      "latitude": 58.753975,
+      "longitude": 17.01239
+    },
+    {
+      "name": "Sörmlands sparbank",
+      "latitude": 58.995591,
+      "longitude": 16.208072
+    },
+    {
+      "name": "Tjustbanken",
+      "latitude": 57.897783,
+      "longitude": 16.400549
+    },
+    {
+      "name": "Tjustbygdens sparbank",
+      "latitude": 57.757944,
+      "longitude": 16.638717
+    },
+    {
+      "name": "Tjörns sparbank",
+      "latitude": 58.061584,
+      "longitude": 11.752266
+    },
+    {
+      "name": "Ulricehamns Sparbank",
+      "latitude": 57.795162,
+      "longitude": 13.415138
+    },
+    {
+      "name": "Valdemarsviks sparbank",
+      "latitude": 58.203478,
+      "longitude": 16.602063
+    },
+    {
+      "name": "Varbergs Sparbank",
+      "latitude": 57.104518,
+      "longitude": 12.250393
+    },
+    {
+      "name": "Vena Sparbank",
+      "latitude": 57.523395,
+      "longitude": 15.968759
+    },
+    {
+      "name": "Vimmerby Sparkank",
+      "latitude": 57.666452,
+      "longitude": 15.854167
+    },
+    {
+      "name": "Virserums Sparbank",
+      "latitude": 57.319539,
+      "longitude": 15.581087
+    },
+    {
+      "name": "Western Union",
+      "latitude": 56.18588,
+      "longitude": 14.850544
+    },
+    {
+      "name": "Western Union",
+      "latitude": 56.204006,
+      "longitude": 15.271489
+    },
+    {
+      "name": "Westra Wermlands Sparbank",
+      "latitude": 59.628802,
+      "longitude": 12.827043
+    },
+    {
+      "name": "Westra Wermlands Sparbank",
+      "latitude": 59.883737,
+      "longitude": 12.303642
+    },
+    {
+      "name": "Westra Wermlands Sparbank",
+      "latitude": 59.715672,
+      "longitude": 12.161986
+    },
+    {
+      "name": "Westra Wermlands Sparbank",
+      "latitude": 59.654084,
+      "longitude": 12.590516
+    },
+    {
+      "name": "Westra Wermlands Sparbank",
+      "latitude": 59.763152,
+      "longitude": 12.363501
+    },
+    {
+      "name": "Westra Wermlands Sparbank",
+      "latitude": 59.508381,
+      "longitude": 11.838685
+    },
+    {
+      "name": "Ålandsbanken",
+      "latitude": 59.335931,
+      "longitude": 18.07229
+    },
+    {
+      "name": "Ålems Sparbank",
+      "latitude": 56.947118,
+      "longitude": 16.385888
+    },
+    {
+      "name": "Ålems Sparbank",
+      "latitude": 56.981493,
+      "longitude": 16.332199
+    },
+    {
+      "name": "Ölands Bank",
+      "latitude": 56.879341,
+      "longitude": 16.656803
+    },
+    {
+      "name": "Östgöta Enskilda Bank",
+      "latitude": 58.594263,
+      "longitude": 16.185487
+    }
+  ],
+  "meta": {
+    "title": "Bankkontor (Bank branches) - Gratis nedladdning",
+    "description": "Bankkontor i Sverige — OpenStreetMap-punktdata (OSM-tagg: amenity=bank). Swedish bank branches as named point locations with WGS84 coordinates. 716 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). (Kompletterar sv-banker som listar clearingnummer-register.) Innehåller 716 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Bankkontor (Bank branches) | ListBase",
+    "seo_description": "Ladda ner Bankkontor (Bank branches) — 716 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 716 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,1120 @@
+{
+  "id": "sv-tidszoner",
+  "name": "Världens tidszoner (IANA / CLDR på svenska)",
+  "title": "Världens tidszoner (IANA / CLDR på svenska)",
+  "description": "IANA-identifierare för tidszoner och namn på representativa städer på svenska från den svenska (sv) språkinställningen i CLDR. 'region' är identifierarens första segment.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 133,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stad",
+      "label": "Stad",
+      "type": "string"
+    },
+    {
+      "key": "standardnamn",
+      "label": "Standardnamn",
+      "type": "string"
+    },
+    {
+      "key": "sommarnamn",
+      "label": "Sommarnamn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Addis_Ababa",
+      "region": "Africa",
+      "stad": "Addis Abeba",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Algiers",
+      "region": "Africa",
+      "stad": "Alger",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Asmera",
+      "region": "Africa",
+      "stad": "Asmara",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Cairo",
+      "region": "Africa",
+      "stad": "Kairo",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Dar_es_Salaam",
+      "region": "Africa",
+      "stad": "Dar es-Salaam",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/El_Aaiun",
+      "region": "Africa",
+      "stad": "El-Aaiún",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Lome",
+      "region": "Africa",
+      "stad": "Lomé",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Ndjamena",
+      "region": "Africa",
+      "stad": "N’Djamena",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Sao_Tome",
+      "region": "Africa",
+      "stad": "São Tomé",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Araguaina",
+      "region": "America",
+      "stad": "Araguaína",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "region": "America",
+      "stad": "Río Gallegos",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Argentina/Tucuman",
+      "region": "America",
+      "stad": "Tucumán",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Asuncion",
+      "region": "America",
+      "stad": "Asunción",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Bahia_Banderas",
+      "region": "America",
+      "stad": "Bahía de Banderas",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Belem",
+      "region": "America",
+      "stad": "Belém",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Bogota",
+      "region": "America",
+      "stad": "Bogotá",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Cancun",
+      "region": "America",
+      "stad": "Cancún",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Cayman",
+      "region": "America",
+      "stad": "Caymanöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Ciudad_Juarez",
+      "region": "America",
+      "stad": "Ciudad Juárez",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Coral_Harbour",
+      "region": "America",
+      "stad": "Atikokan",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Cordoba",
+      "region": "America",
+      "stad": "Córdoba",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Cuiaba",
+      "region": "America",
+      "stad": "Cuiabá",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Curacao",
+      "region": "America",
+      "stad": "Curaçao",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Eirunepe",
+      "region": "America",
+      "stad": "Eirunepé",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Godthab",
+      "region": "America",
+      "stad": "Nuuk",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Havana",
+      "region": "America",
+      "stad": "Havanna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Indiana/Knox",
+      "region": "America",
+      "stad": "Knox, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Indiana/Marengo",
+      "region": "America",
+      "stad": "Marengo, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Indiana/Petersburg",
+      "region": "America",
+      "stad": "Petersburg, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Indiana/Tell_City",
+      "region": "America",
+      "stad": "Tell City, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Indiana/Vevay",
+      "region": "America",
+      "stad": "Vevay, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Indiana/Vincennes",
+      "region": "America",
+      "stad": "Vincennes, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Indiana/Winamac",
+      "region": "America",
+      "stad": "Winamac, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Jujuy",
+      "region": "America",
+      "stad": "San Salvador de Jujuy",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Kentucky/Monticello",
+      "region": "America",
+      "stad": "Monticello, Kentucky",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Lower_Princes",
+      "region": "America",
+      "stad": "Lower Prince’s Quarter",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Maceio",
+      "region": "America",
+      "stad": "Maceió",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Mazatlan",
+      "region": "America",
+      "stad": "Mazatlán",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Merida",
+      "region": "America",
+      "stad": "Mérida",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Mexico_City",
+      "region": "America",
+      "stad": "Ciudad de México",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Miquelon",
+      "region": "America",
+      "stad": "Saint-Pierre",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/Noronha",
+      "region": "America",
+      "stad": "Fernando de Noronha",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/North_Dakota/Beulah",
+      "region": "America",
+      "stad": "Beulah, North Dakota",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/North_Dakota/Center",
+      "region": "America",
+      "stad": "Center, North Dakota",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "region": "America",
+      "stad": "New Salem, North Dakota",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/Santarem",
+      "region": "America",
+      "stad": "Santarém",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/Sao_Paulo",
+      "region": "America",
+      "stad": "São Paulo",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/Scoresbysund",
+      "region": "America",
+      "stad": "Ittoqqortoormiit",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/St_Barthelemy",
+      "region": "America",
+      "stad": "Saint-Barthélemy",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/St_Johns",
+      "region": "America",
+      "stad": "Saint John’s",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/St_Kitts",
+      "region": "America",
+      "stad": "Saint Kitts",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "America/St_Lucia",
+      "region": "America",
+      "stad": "Saint Lucia",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/St_Thomas",
+      "region": "America",
+      "stad": "Saint Thomas",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/St_Vincent",
+      "region": "America",
+      "stad": "Saint Vincent",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/Thule",
+      "region": "America",
+      "stad": "Qaanaaq",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "Antarctica/DumontDUrville",
+      "region": "Antarctica",
+      "stad": "Dumont-d’Urville",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "Antarctica/Syowa",
+      "region": "Antarctica",
+      "stad": "Showa",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "Asia/Aqtau",
+      "region": "Asia",
+      "stad": "Aktau",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "Asia/Aqtobe",
+      "region": "Asia",
+      "stad": "Aqtöbe",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "Asia/Ashgabat",
+      "region": "Asia",
+      "stad": "Asjchabad",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "Asia/Baghdad",
+      "region": "Asia",
+      "stad": "Bagdad",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "Asia/Bishkek",
+      "region": "Asia",
+      "stad": "Bisjkek",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "Asia/Calcutta",
+      "region": "Asia",
+      "stad": "Kolkata",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "Asia/Chita",
+      "region": "Asia",
+      "stad": "Tjita",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "Asia/Damascus",
+      "region": "Asia",
+      "stad": "Damaskus",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "Asia/Dushanbe",
+      "region": "Asia",
+      "stad": "Dusjanbe",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "Asia/Hong_Kong",
+      "region": "Asia",
+      "stad": "Hongkong",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "Asia/Hovd",
+      "region": "Asia",
+      "stad": "Chovd",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "Asia/Kamchatka",
+      "region": "Asia",
+      "stad": "Kamtjatka",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "Asia/Katmandu",
+      "region": "Asia",
+      "stad": "Katmandu",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "Asia/Khandyga",
+      "region": "Asia",
+      "stad": "Chandyga",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "Asia/Krasnoyarsk",
+      "region": "Asia",
+      "stad": "Krasnojarsk",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "Asia/Macau",
+      "region": "Asia",
+      "stad": "Macao",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "Asia/Muscat",
+      "region": "Asia",
+      "stad": "Muskat",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "Asia/Qostanay",
+      "region": "Asia",
+      "stad": "Kostanaj",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "Asia/Rangoon",
+      "region": "Asia",
+      "stad": "Yangon",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "Asia/Saigon",
+      "region": "Asia",
+      "stad": "Ho Chi Minh-staden",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "Asia/Sakhalin",
+      "region": "Asia",
+      "stad": "Sachalin",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "Asia/Tashkent",
+      "region": "Asia",
+      "stad": "Tasjkent",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "Asia/Tehran",
+      "region": "Asia",
+      "stad": "Teheran",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "Asia/Urumqi",
+      "region": "Asia",
+      "stad": "Ürümqi",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "Asia/Yakutsk",
+      "region": "Asia",
+      "stad": "Jakutsk",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 83,
+      "tz_id": "Asia/Yekaterinburg",
+      "region": "Asia",
+      "stad": "Jekaterinburg",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 84,
+      "tz_id": "Asia/Yerevan",
+      "region": "Asia",
+      "stad": "Jerevan",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 85,
+      "tz_id": "Atlantic/Azores",
+      "region": "Atlantic",
+      "stad": "Azorerna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 86,
+      "tz_id": "Atlantic/Canary",
+      "region": "Atlantic",
+      "stad": "Kanarieöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 87,
+      "tz_id": "Atlantic/Cape_Verde",
+      "region": "Atlantic",
+      "stad": "Kap Verde",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 88,
+      "tz_id": "Atlantic/Faeroe",
+      "region": "Atlantic",
+      "stad": "Torshamn",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 89,
+      "tz_id": "Atlantic/South_Georgia",
+      "region": "Atlantic",
+      "stad": "Sydgeorgien",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 90,
+      "tz_id": "Atlantic/St_Helena",
+      "region": "Atlantic",
+      "stad": "Sankt Helena",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 91,
+      "tz_id": "Etc/UTC",
+      "region": "Etc",
+      "stad": "",
+      "standardnamn": "koordinerad universell tid",
+      "sommarnamn": ""
+    },
+    {
+      "id": 92,
+      "tz_id": "Etc/Unknown",
+      "region": "Etc",
+      "stad": "okänd stad",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 93,
+      "tz_id": "Europe/Athens",
+      "region": "Europe",
+      "stad": "Aten",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 94,
+      "tz_id": "Europe/Belgrade",
+      "region": "Europe",
+      "stad": "Belgrad",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 95,
+      "tz_id": "Europe/Brussels",
+      "region": "Europe",
+      "stad": "Bryssel",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 96,
+      "tz_id": "Europe/Bucharest",
+      "region": "Europe",
+      "stad": "Bukarest",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 97,
+      "tz_id": "Europe/Busingen",
+      "region": "Europe",
+      "stad": "Büsingen am Hochrhein",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 98,
+      "tz_id": "Europe/Chisinau",
+      "region": "Europe",
+      "stad": "Chișinău",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 99,
+      "tz_id": "Europe/Copenhagen",
+      "region": "Europe",
+      "stad": "Köpenhamn",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 100,
+      "tz_id": "Europe/Dublin",
+      "region": "Europe",
+      "stad": "",
+      "standardnamn": "",
+      "sommarnamn": "irländsk sommartid"
+    },
+    {
+      "id": 101,
+      "tz_id": "Europe/Helsinki",
+      "region": "Europe",
+      "stad": "Helsingfors",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 102,
+      "tz_id": "Europe/Kiev",
+      "region": "Europe",
+      "stad": "Kiev",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 103,
+      "tz_id": "Europe/Lisbon",
+      "region": "Europe",
+      "stad": "Lissabon",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 104,
+      "tz_id": "Europe/London",
+      "region": "Europe",
+      "stad": "",
+      "standardnamn": "",
+      "sommarnamn": "brittisk sommartid"
+    },
+    {
+      "id": 105,
+      "tz_id": "Europe/Luxembourg",
+      "region": "Europe",
+      "stad": "Luxemburg",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 106,
+      "tz_id": "Europe/Moscow",
+      "region": "Europe",
+      "stad": "Moskva",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 107,
+      "tz_id": "Europe/Prague",
+      "region": "Europe",
+      "stad": "Prag",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 108,
+      "tz_id": "Europe/Rome",
+      "region": "Europe",
+      "stad": "Rom",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 109,
+      "tz_id": "Europe/Tirane",
+      "region": "Europe",
+      "stad": "Tirana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 110,
+      "tz_id": "Europe/Ulyanovsk",
+      "region": "Europe",
+      "stad": "Uljanovsk",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 111,
+      "tz_id": "Europe/Vatican",
+      "region": "Europe",
+      "stad": "Vatikanen",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 112,
+      "tz_id": "Europe/Vienna",
+      "region": "Europe",
+      "stad": "Wien",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 113,
+      "tz_id": "Europe/Warsaw",
+      "region": "Europe",
+      "stad": "Warszawa",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 114,
+      "tz_id": "Europe/Zurich",
+      "region": "Europe",
+      "stad": "Zürich",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 115,
+      "tz_id": "Indian/Christmas",
+      "region": "Indian",
+      "stad": "Julön",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 116,
+      "tz_id": "Indian/Cocos",
+      "region": "Indian",
+      "stad": "Kokosöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 117,
+      "tz_id": "Indian/Comoro",
+      "region": "Indian",
+      "stad": "Komorerna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 118,
+      "tz_id": "Indian/Kerguelen",
+      "region": "Indian",
+      "stad": "Kerguelenöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 119,
+      "tz_id": "Indian/Mahe",
+      "region": "Indian",
+      "stad": "Mahé",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 120,
+      "tz_id": "Indian/Maldives",
+      "region": "Indian",
+      "stad": "Maldiverna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 121,
+      "tz_id": "Indian/Reunion",
+      "region": "Indian",
+      "stad": "Réunion",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 122,
+      "tz_id": "Pacific/Easter",
+      "region": "Pacific",
+      "stad": "Påskön",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 123,
+      "tz_id": "Pacific/Enderbury",
+      "region": "Pacific",
+      "stad": "Kantonatollen",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 124,
+      "tz_id": "Pacific/Galapagos",
+      "region": "Pacific",
+      "stad": "Galápagos",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 125,
+      "tz_id": "Pacific/Gambier",
+      "region": "Pacific",
+      "stad": "Gambieröarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 126,
+      "tz_id": "Pacific/Honolulu",
+      "region": "Pacific",
+      "stad": "Honolulu",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 127,
+      "tz_id": "Pacific/Marquesas",
+      "region": "Pacific",
+      "stad": "Marquesasöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 128,
+      "tz_id": "Pacific/Midway",
+      "region": "Pacific",
+      "stad": "Midwayöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 129,
+      "tz_id": "Pacific/Noumea",
+      "region": "Pacific",
+      "stad": "Nouméa",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 130,
+      "tz_id": "Pacific/Pitcairn",
+      "region": "Pacific",
+      "stad": "Pitcairnöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 131,
+      "tz_id": "Pacific/Ponape",
+      "region": "Pacific",
+      "stad": "Pohnpei",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 132,
+      "tz_id": "Pacific/Truk",
+      "region": "Pacific",
+      "stad": "Chuuk",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 133,
+      "tz_id": "Pacific/Wallis",
+      "region": "Pacific",
+      "stad": "Wallisön",
+      "standardnamn": "",
+      "sommarnamn": ""
+    }
+  ],
+  "meta": {
+    "title": "Världens tidszoner (IANA / CLDR på svenska) - Gratis nedladdning",
+    "description": "IANA-identifierare för tidszoner och namn på representativa städer på svenska från den svenska (sv) språkinställningen i CLDR. 'region' är identifierarens första segment. Innehåller 133 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Världens tidszoner (IANA / CLDR på svenska) | ListBase",
+    "seo_description": "Ladda ner Världens tidszoner (IANA / CLDR på svenska) — 133 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 133 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,5426 @@
+{
+  "id": "sv-emotionsord-joy",
+  "name": "Emotionsord – Glädje",
+  "title": "Emotionsord – Glädje",
+  "description": "Svenska ord associerade med glädje, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1077,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "intensity",
+      "label": "Intensity",
+      "type": "number"
+    },
+    {
+      "key": "emotion",
+      "label": "Emotion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "lyckligast",
+      "intensity": "0.986",
+      "emotion": "joy"
+    },
+    {
+      "word": "lycka",
+      "intensity": "0.984",
+      "emotion": "joy"
+    },
+    {
+      "word": "salighet",
+      "intensity": "0.971",
+      "emotion": "joy"
+    },
+    {
+      "word": "jublande",
+      "intensity": "0.969",
+      "emotion": "joy"
+    },
+    {
+      "word": "extatisk",
+      "intensity": "0.954",
+      "emotion": "joy"
+    },
+    {
+      "word": "bästa dagen någonsin",
+      "intensity": "0.938",
+      "emotion": "joy"
+    },
+    {
+      "word": "loveee",
+      "intensity": "0.932",
+      "emotion": "joy"
+    },
+    {
+      "word": "firande",
+      "intensity": "0.929",
+      "emotion": "joy"
+    },
+    {
+      "word": "häftighet",
+      "intensity": "0.926",
+      "emotion": "joy"
+    },
+    {
+      "word": "lyckligt",
+      "intensity": "0.922",
+      "emotion": "joy"
+    },
+    {
+      "word": "eufori",
+      "intensity": "0.922",
+      "emotion": "joy"
+    },
+    {
+      "word": "fantastisk",
+      "intensity": "0.922",
+      "emotion": "joy"
+    },
+    {
+      "word": "lovee",
+      "intensity": "0.920",
+      "emotion": "joy"
+    },
+    {
+      "word": "tacksamhet",
+      "intensity": "0.914",
+      "emotion": "joy"
+    },
+    {
+      "word": "spektakulär",
+      "intensity": "0.912",
+      "emotion": "joy"
+    },
+    {
+      "word": "happydance",
+      "intensity": "0.912",
+      "emotion": "joy"
+    },
+    {
+      "word": "lycklig",
+      "intensity": "0.909",
+      "emotion": "joy"
+    },
+    {
+      "word": "triumfer",
+      "intensity": "0.907",
+      "emotion": "joy"
+    },
+    {
+      "word": "extas",
+      "intensity": "0.906",
+      "emotion": "joy"
+    },
+    {
+      "word": "heja på",
+      "intensity": "0.897",
+      "emotion": "joy"
+    },
+    {
+      "word": "upprymd",
+      "intensity": "0.894",
+      "emotion": "joy"
+    },
+    {
+      "word": "upprymdhet",
+      "intensity": "0.891",
+      "emotion": "joy"
+    },
+    {
+      "word": "älskar detta",
+      "intensity": "0.891",
+      "emotion": "joy"
+    },
+    {
+      "word": "nöjen",
+      "intensity": "0.891",
+      "emotion": "joy"
+    },
+    {
+      "word": "excitation",
+      "intensity": "0.891",
+      "emotion": "joy"
+    },
+    {
+      "word": "förtjust",
+      "intensity": "0.891",
+      "emotion": "joy"
+    },
+    {
+      "word": "marvelously",
+      "intensity": "0.881",
+      "emotion": "joy"
+    },
+    {
+      "word": "kärleksfull",
+      "intensity": "0.879",
+      "emotion": "joy"
+    },
+    {
+      "word": "utestående",
+      "intensity": "0.879",
+      "emotion": "joy"
+    },
+    {
+      "word": "lycksalig",
+      "intensity": "0.879",
+      "emotion": "joy"
+    },
+    {
+      "word": "angenäm",
+      "intensity": "0.877",
+      "emotion": "joy"
+    },
+    {
+      "word": "entusiastisk",
+      "intensity": "0.875",
+      "emotion": "joy"
+    },
+    {
+      "word": "älskar livet",
+      "intensity": "0.875",
+      "emotion": "joy"
+    },
+    {
+      "word": "så glad",
+      "intensity": "0.868",
+      "emotion": "joy"
+    },
+    {
+      "word": "woohoo",
+      "intensity": "0.864",
+      "emotion": "joy"
+    },
+    {
+      "word": "skrattande",
+      "intensity": "0.864",
+      "emotion": "joy"
+    },
+    {
+      "word": "glädjande",
+      "intensity": "0.859",
+      "emotion": "joy"
+    },
+    {
+      "word": "ära",
+      "intensity": "0.859",
+      "emotion": "joy"
+    },
+    {
+      "word": "berömd",
+      "intensity": "0.859",
+      "emotion": "joy"
+    },
+    {
+      "word": "älskade",
+      "intensity": "0.859",
+      "emotion": "joy"
+    },
+    {
+      "word": "magnifik",
+      "intensity": "0.859",
+      "emotion": "joy"
+    },
+    {
+      "word": "halleluja",
+      "intensity": "0.859",
+      "emotion": "joy"
+    },
+    {
+      "word": "himmelskt",
+      "intensity": "0.853",
+      "emotion": "joy"
+    },
+    {
+      "word": "glada",
+      "intensity": "0.851",
+      "emotion": "joy"
+    },
+    {
+      "word": "gjorde min dag",
+      "intensity": "0.848",
+      "emotion": "joy"
+    },
+    {
+      "word": "välsignelse",
+      "intensity": "0.844",
+      "emotion": "joy"
+    },
+    {
+      "word": "underbart",
+      "intensity": "0.844",
+      "emotion": "joy"
+    },
+    {
+      "word": "sötma",
+      "intensity": "0.833",
+      "emotion": "joy"
+    },
+    {
+      "word": "festlig",
+      "intensity": "0.833",
+      "emotion": "joy"
+    },
+    {
+      "word": "välsignad",
+      "intensity": "0.833",
+      "emotion": "joy"
+    },
+    {
+      "word": "paradis",
+      "intensity": "0.833",
+      "emotion": "joy"
+    },
+    {
+      "word": "fester",
+      "intensity": "0.833",
+      "emotion": "joy"
+    },
+    {
+      "word": "kärlek",
+      "intensity": "0.828",
+      "emotion": "joy"
+    },
+    {
+      "word": "hem kära hem",
+      "intensity": "0.826",
+      "emotion": "joy"
+    },
+    {
+      "word": "högtidlig",
+      "intensity": "0.818",
+      "emotion": "joy"
+    },
+    {
+      "word": "sensationell",
+      "intensity": "0.818",
+      "emotion": "joy"
+    },
+    {
+      "word": "glatt hjärta",
+      "intensity": "0.818",
+      "emotion": "joy"
+    },
+    {
+      "word": "fröjd",
+      "intensity": "0.818",
+      "emotion": "joy"
+    },
+    {
+      "word": "godhet",
+      "intensity": "0.818",
+      "emotion": "joy"
+    },
+    {
+      "word": "upphetsad",
+      "intensity": "0.818",
+      "emotion": "joy"
+    },
+    {
+      "word": "förträfflighet",
+      "intensity": "0.818",
+      "emotion": "joy"
+    },
+    {
+      "word": "gladlynt",
+      "intensity": "0.814",
+      "emotion": "joy"
+    },
+    {
+      "word": "utmärkt",
+      "intensity": "0.812",
+      "emotion": "joy"
+    },
+    {
+      "word": "älskog",
+      "intensity": "0.812",
+      "emotion": "joy"
+    },
+    {
+      "word": "glädjas",
+      "intensity": "0.812",
+      "emotion": "joy"
+    },
+    {
+      "word": "segrande",
+      "intensity": "0.812",
+      "emotion": "joy"
+    },
+    {
+      "word": "excellent",
+      "intensity": "0.812",
+      "emotion": "joy"
+    },
+    {
+      "word": "bonanza",
+      "intensity": "0.812",
+      "emotion": "joy"
+    },
+    {
+      "word": "smiley",
+      "intensity": "0.812",
+      "emotion": "joy"
+    },
+    {
+      "word": "njut av",
+      "intensity": "0.812",
+      "emotion": "joy"
+    },
+    {
+      "word": "härliga tider",
+      "intensity": "0.811",
+      "emotion": "joy"
+    },
+    {
+      "word": "glad dag",
+      "intensity": "0.809",
+      "emotion": "joy"
+    },
+    {
+      "word": "min favorit",
+      "intensity": "0.804",
+      "emotion": "joy"
+    },
+    {
+      "word": "fnissa",
+      "intensity": "0.802",
+      "emotion": "joy"
+    },
+    {
+      "word": "yesss",
+      "intensity": "0.797",
+      "emotion": "joy"
+    },
+    {
+      "word": "Framgång",
+      "intensity": "0.797",
+      "emotion": "joy"
+    },
+    {
+      "word": "lyckligare",
+      "intensity": "0.797",
+      "emotion": "joy"
+    },
+    {
+      "word": "dans",
+      "intensity": "0.797",
+      "emotion": "joy"
+    },
+    {
+      "word": "lovinlife",
+      "intensity": "0.797",
+      "emotion": "joy"
+    },
+    {
+      "word": "prakt",
+      "intensity": "0.788",
+      "emotion": "joy"
+    },
+    {
+      "word": "roa",
+      "intensity": "0.788",
+      "emotion": "joy"
+    },
+    {
+      "word": "roligt",
+      "intensity": "0.788",
+      "emotion": "joy"
+    },
+    {
+      "word": "Lycklig",
+      "intensity": "0.788",
+      "emotion": "joy"
+    },
+    {
+      "word": "strålande",
+      "intensity": "0.781",
+      "emotion": "joy"
+    },
+    {
+      "word": "förtrollad",
+      "intensity": "0.781",
+      "emotion": "joy"
+    },
+    {
+      "word": "förhärliga",
+      "intensity": "0.781",
+      "emotion": "joy"
+    },
+    {
+      "word": "skön",
+      "intensity": "0.781",
+      "emotion": "joy"
+    },
+    {
+      "word": "så lycklig",
+      "intensity": "0.781",
+      "emotion": "joy"
+    },
+    {
+      "word": "fnittrande",
+      "intensity": "0.781",
+      "emotion": "joy"
+    },
+    {
+      "word": "himlarna",
+      "intensity": "0.779",
+      "emotion": "joy"
+    },
+    {
+      "word": "fulländning",
+      "intensity": "0.779",
+      "emotion": "joy"
+    },
+    {
+      "word": "christmassy",
+      "intensity": "0.779",
+      "emotion": "joy"
+    },
+    {
+      "word": "spännande",
+      "intensity": "0.776",
+      "emotion": "joy"
+    },
+    {
+      "word": "mirakulös",
+      "intensity": "0.773",
+      "emotion": "joy"
+    },
+    {
+      "word": "fiesta",
+      "intensity": "0.773",
+      "emotion": "joy"
+    },
+    {
+      "word": "underhålla",
+      "intensity": "0.773",
+      "emotion": "joy"
+    },
+    {
+      "word": "grattis",
+      "intensity": "0.773",
+      "emotion": "joy"
+    },
+    {
+      "word": "Skål",
+      "intensity": "0.773",
+      "emotion": "joy"
+    },
+    {
+      "word": "positivitet",
+      "intensity": "0.773",
+      "emotion": "joy"
+    },
+    {
+      "word": "intagande",
+      "intensity": "0.773",
+      "emotion": "joy"
+    },
+    {
+      "word": "jublade",
+      "intensity": "0.773",
+      "emotion": "joy"
+    },
+    {
+      "word": "rolig dag",
+      "intensity": "0.772",
+      "emotion": "joy"
+    },
+    {
+      "word": "njuter",
+      "intensity": "0.771",
+      "emotion": "joy"
+    },
+    {
+      "word": "gos",
+      "intensity": "0.766",
+      "emotion": "joy"
+    },
+    {
+      "word": "road",
+      "intensity": "0.766",
+      "emotion": "joy"
+    },
+    {
+      "word": "livet är gott",
+      "intensity": "0.766",
+      "emotion": "joy"
+    },
+    {
+      "word": "Det bästa",
+      "intensity": "0.766",
+      "emotion": "joy"
+    },
+    {
+      "word": "så söt",
+      "intensity": "0.766",
+      "emotion": "joy"
+    },
+    {
+      "word": "ler",
+      "intensity": "0.766",
+      "emotion": "joy"
+    },
+    {
+      "word": "glädje",
+      "intensity": "0.765",
+      "emotion": "joy"
+    },
+    {
+      "word": "orgasm",
+      "intensity": "0.765",
+      "emotion": "joy"
+    },
+    {
+      "word": "fest",
+      "intensity": "0.765",
+      "emotion": "joy"
+    },
+    {
+      "word": "positiv",
+      "intensity": "0.761",
+      "emotion": "joy"
+    },
+    {
+      "word": "gladlynthet",
+      "intensity": "0.758",
+      "emotion": "joy"
+    },
+    {
+      "word": "upplysa",
+      "intensity": "0.758",
+      "emotion": "joy"
+    },
+    {
+      "word": "jultid",
+      "intensity": "0.757",
+      "emotion": "joy"
+    },
+    {
+      "word": "yr",
+      "intensity": "0.757",
+      "emotion": "joy"
+    },
+    {
+      "word": "skratt",
+      "intensity": "0.750",
+      "emotion": "joy"
+    },
+    {
+      "word": "leende",
+      "intensity": "0.750",
+      "emotion": "joy"
+    },
+    {
+      "word": "romantisk",
+      "intensity": "0.750",
+      "emotion": "joy"
+    },
+    {
+      "word": "gratify",
+      "intensity": "0.750",
+      "emotion": "joy"
+    },
+    {
+      "word": "storhet",
+      "intensity": "0.750",
+      "emotion": "joy"
+    },
+    {
+      "word": "välsignelser",
+      "intensity": "0.750",
+      "emotion": "joy"
+    },
+    {
+      "word": "upptåg",
+      "intensity": "0.748",
+      "emotion": "joy"
+    },
+    {
+      "word": "mirakel",
+      "intensity": "0.742",
+      "emotion": "joy"
+    },
+    {
+      "word": "jubileum",
+      "intensity": "0.742",
+      "emotion": "joy"
+    },
+    {
+      "word": "entusiasm",
+      "intensity": "0.742",
+      "emotion": "joy"
+    },
+    {
+      "word": "triumf",
+      "intensity": "0.742",
+      "emotion": "joy"
+    },
+    {
+      "word": "magisk",
+      "intensity": "0.742",
+      "emotion": "joy"
+    },
+    {
+      "word": "givande",
+      "intensity": "0.742",
+      "emotion": "joy"
+    },
+    {
+      "word": "må bra",
+      "intensity": "0.736",
+      "emotion": "joy"
+    },
+    {
+      "word": "lyxig",
+      "intensity": "0.734",
+      "emotion": "joy"
+    },
+    {
+      "word": "livlig",
+      "intensity": "0.734",
+      "emotion": "joy"
+    },
+    {
+      "word": "passionerad",
+      "intensity": "0.734",
+      "emotion": "joy"
+    },
+    {
+      "word": "tjusa",
+      "intensity": "0.734",
+      "emotion": "joy"
+    },
+    {
+      "word": "seger",
+      "intensity": "0.734",
+      "emotion": "joy"
+    },
+    {
+      "word": "beundran",
+      "intensity": "0.734",
+      "emotion": "joy"
+    },
+    {
+      "word": "tgif",
+      "intensity": "0.734",
+      "emotion": "joy"
+    },
+    {
+      "word": "förhärligande",
+      "intensity": "0.733",
+      "emotion": "joy"
+    },
+    {
+      "word": "sjunga",
+      "intensity": "0.729",
+      "emotion": "joy"
+    },
+    {
+      "word": "hisnande",
+      "intensity": "0.728",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppfyllelse",
+      "intensity": "0.728",
+      "emotion": "joy"
+    },
+    {
+      "word": "yessss",
+      "intensity": "0.728",
+      "emotion": "joy"
+    },
+    {
+      "word": "glad",
+      "intensity": "0.727",
+      "emotion": "joy"
+    },
+    {
+      "word": "hurra",
+      "intensity": "0.727",
+      "emotion": "joy"
+    },
+    {
+      "word": "tacksam",
+      "intensity": "0.727",
+      "emotion": "joy"
+    },
+    {
+      "word": "santa",
+      "intensity": "0.727",
+      "emotion": "joy"
+    },
+    {
+      "word": "tilldela",
+      "intensity": "0.727",
+      "emotion": "joy"
+    },
+    {
+      "word": "tillfreds",
+      "intensity": "0.727",
+      "emotion": "joy"
+    },
+    {
+      "word": "vinna",
+      "intensity": "0.727",
+      "emotion": "joy"
+    },
+    {
+      "word": "strålglans",
+      "intensity": "0.725",
+      "emotion": "joy"
+    },
+    {
+      "word": "inspiration",
+      "intensity": "0.725",
+      "emotion": "joy"
+    },
+    {
+      "word": "lyfta",
+      "intensity": "0.723",
+      "emotion": "joy"
+    },
+    {
+      "word": "optimistisk",
+      "intensity": "0.723",
+      "emotion": "joy"
+    },
+    {
+      "word": "spänning",
+      "intensity": "0.721",
+      "emotion": "joy"
+    },
+    {
+      "word": "himmel",
+      "intensity": "0.721",
+      "emotion": "joy"
+    },
+    {
+      "word": "tur-",
+      "intensity": "0.721",
+      "emotion": "joy"
+    },
+    {
+      "word": "högtider",
+      "intensity": "0.721",
+      "emotion": "joy"
+    },
+    {
+      "word": "härlig",
+      "intensity": "0.719",
+      "emotion": "joy"
+    },
+    {
+      "word": "nöje",
+      "intensity": "0.719",
+      "emotion": "joy"
+    },
+    {
+      "word": "harmoni",
+      "intensity": "0.719",
+      "emotion": "joy"
+    },
+    {
+      "word": "ljusna",
+      "intensity": "0.719",
+      "emotion": "joy"
+    },
+    {
+      "word": "älskare",
+      "intensity": "0.719",
+      "emotion": "joy"
+    },
+    {
+      "word": "innerlig",
+      "intensity": "0.719",
+      "emotion": "joy"
+    },
+    {
+      "word": "utopisk",
+      "intensity": "0.719",
+      "emotion": "joy"
+    },
+    {
+      "word": "gratulations",
+      "intensity": "0.719",
+      "emotion": "joy"
+    },
+    {
+      "word": "prisa",
+      "intensity": "0.719",
+      "emotion": "joy"
+    },
+    {
+      "word": "blomstrande",
+      "intensity": "0.719",
+      "emotion": "joy"
+    },
+    {
+      "word": "perfekt",
+      "intensity": "0.719",
+      "emotion": "joy"
+    },
+    {
+      "word": "magi",
+      "intensity": "0.712",
+      "emotion": "joy"
+    },
+    {
+      "word": "luckiest",
+      "intensity": "0.712",
+      "emotion": "joy"
+    },
+    {
+      "word": "lyx",
+      "intensity": "0.712",
+      "emotion": "joy"
+    },
+    {
+      "word": "bästa känslan",
+      "intensity": "0.712",
+      "emotion": "joy"
+    },
+    {
+      "word": "skatter",
+      "intensity": "0.712",
+      "emotion": "joy"
+    },
+    {
+      "word": "Jippie",
+      "intensity": "0.712",
+      "emotion": "joy"
+    },
+    {
+      "word": "Semester",
+      "intensity": "0.712",
+      "emotion": "joy"
+    },
+    {
+      "word": "intim",
+      "intensity": "0.710",
+      "emotion": "joy"
+    },
+    {
+      "word": "skrocka",
+      "intensity": "0.706",
+      "emotion": "joy"
+    },
+    {
+      "word": "rave",
+      "intensity": "0.706",
+      "emotion": "joy"
+    },
+    {
+      "word": "stolt",
+      "intensity": "0.704",
+      "emotion": "joy"
+    },
+    {
+      "word": "äkta kärlek",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "fuckyeah",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "otroligt",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "goda nyheter",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "optimism",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "tillfredsställande",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "gooood",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "sweetest",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "vårda",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "bra liv",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "försköning",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppskattar",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "vinnande",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "cuddled",
+      "intensity": "0.703",
+      "emotion": "joy"
+    },
+    {
+      "word": "hyste",
+      "intensity": "0.700",
+      "emotion": "joy"
+    },
+    {
+      "word": "excitera",
+      "intensity": "0.697",
+      "emotion": "joy"
+    },
+    {
+      "word": "mig tid",
+      "intensity": "0.688",
+      "emotion": "joy"
+    },
+    {
+      "word": "favorit-",
+      "intensity": "0.688",
+      "emotion": "joy"
+    },
+    {
+      "word": "hedrad",
+      "intensity": "0.688",
+      "emotion": "joy"
+    },
+    {
+      "word": "innehåll",
+      "intensity": "0.688",
+      "emotion": "joy"
+    },
+    {
+      "word": "gudagåva",
+      "intensity": "0.688",
+      "emotion": "joy"
+    },
+    {
+      "word": "underhållande",
+      "intensity": "0.688",
+      "emotion": "joy"
+    },
+    {
+      "word": "änglalik",
+      "intensity": "0.688",
+      "emotion": "joy"
+    },
+    {
+      "word": "tillbedjan",
+      "intensity": "0.688",
+      "emotion": "joy"
+    },
+    {
+      "word": "dyrbar",
+      "intensity": "0.682",
+      "emotion": "joy"
+    },
+    {
+      "word": "majestätisk",
+      "intensity": "0.682",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppskattad",
+      "intensity": "0.682",
+      "emotion": "joy"
+    },
+    {
+      "word": "läcker",
+      "intensity": "0.682",
+      "emotion": "joy"
+    },
+    {
+      "word": "Log",
+      "intensity": "0.682",
+      "emotion": "joy"
+    },
+    {
+      "word": "bästa vänner",
+      "intensity": "0.682",
+      "emotion": "joy"
+    },
+    {
+      "word": "upphöjelse",
+      "intensity": "0.682",
+      "emotion": "joy"
+    },
+    {
+      "word": "ljusnar",
+      "intensity": "0.682",
+      "emotion": "joy"
+    },
+    {
+      "word": "gifta sig",
+      "intensity": "0.676",
+      "emotion": "joy"
+    },
+    {
+      "word": "positivt",
+      "intensity": "0.676",
+      "emotion": "joy"
+    },
+    {
+      "word": "födelsedag",
+      "intensity": "0.672",
+      "emotion": "joy"
+    },
+    {
+      "word": "käraste",
+      "intensity": "0.672",
+      "emotion": "joy"
+    },
+    {
+      "word": "avslappning",
+      "intensity": "0.672",
+      "emotion": "joy"
+    },
+    {
+      "word": "skicklig",
+      "intensity": "0.672",
+      "emotion": "joy"
+    },
+    {
+      "word": "kram",
+      "intensity": "0.672",
+      "emotion": "joy"
+    },
+    {
+      "word": "flin",
+      "intensity": "0.672",
+      "emotion": "joy"
+    },
+    {
+      "word": "liva upp",
+      "intensity": "0.672",
+      "emotion": "joy"
+    },
+    {
+      "word": "belåtenhet",
+      "intensity": "0.672",
+      "emotion": "joy"
+    },
+    {
+      "word": "munter",
+      "intensity": "0.672",
+      "emotion": "joy"
+    },
+    {
+      "word": "giggles",
+      "intensity": "0.672",
+      "emotion": "joy"
+    },
+    {
+      "word": "segrare",
+      "intensity": "0.667",
+      "emotion": "joy"
+    },
+    {
+      "word": "älska",
+      "intensity": "0.667",
+      "emotion": "joy"
+    },
+    {
+      "word": "stormig",
+      "intensity": "0.667",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppfyllda",
+      "intensity": "0.667",
+      "emotion": "joy"
+    },
+    {
+      "word": "cuddles",
+      "intensity": "0.662",
+      "emotion": "joy"
+    },
+    {
+      "word": "välmående",
+      "intensity": "0.660",
+      "emotion": "joy"
+    },
+    {
+      "word": "romantik",
+      "intensity": "0.656",
+      "emotion": "joy"
+    },
+    {
+      "word": "behaglig",
+      "intensity": "0.656",
+      "emotion": "joy"
+    },
+    {
+      "word": "humör",
+      "intensity": "0.656",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppskattning",
+      "intensity": "0.656",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppmuntrad",
+      "intensity": "0.656",
+      "emotion": "joy"
+    },
+    {
+      "word": "fängsla",
+      "intensity": "0.656",
+      "emotion": "joy"
+    },
+    {
+      "word": "besties",
+      "intensity": "0.656",
+      "emotion": "joy"
+    },
+    {
+      "word": "överflöd",
+      "intensity": "0.652",
+      "emotion": "joy"
+    },
+    {
+      "word": "tillfredsställelse",
+      "intensity": "0.652",
+      "emotion": "joy"
+    },
+    {
+      "word": "skatt",
+      "intensity": "0.652",
+      "emotion": "joy"
+    },
+    {
+      "word": "engagerad",
+      "intensity": "0.652",
+      "emotion": "joy"
+    },
+    {
+      "word": "lov",
+      "intensity": "0.652",
+      "emotion": "joy"
+    },
+    {
+      "word": "öde",
+      "intensity": "0.652",
+      "emotion": "joy"
+    },
+    {
+      "word": "avkopplande",
+      "intensity": "0.652",
+      "emotion": "joy"
+    },
+    {
+      "word": "berömde",
+      "intensity": "0.652",
+      "emotion": "joy"
+    },
+    {
+      "word": "komplement",
+      "intensity": "0.647",
+      "emotion": "joy"
+    },
+    {
+      "word": "tillgivenhet",
+      "intensity": "0.647",
+      "emotion": "joy"
+    },
+    {
+      "word": "lättad",
+      "intensity": "0.647",
+      "emotion": "joy"
+    },
+    {
+      "word": "karneval",
+      "intensity": "0.643",
+      "emotion": "joy"
+    },
+    {
+      "word": "gudomlig",
+      "intensity": "0.641",
+      "emotion": "joy"
+    },
+    {
+      "word": "saintly",
+      "intensity": "0.641",
+      "emotion": "joy"
+    },
+    {
+      "word": "harmoniskt",
+      "intensity": "0.641",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppnå",
+      "intensity": "0.641",
+      "emotion": "joy"
+    },
+    {
+      "word": "tacksägelse",
+      "intensity": "0.641",
+      "emotion": "joy"
+    },
+    {
+      "word": "jackpott",
+      "intensity": "0.641",
+      "emotion": "joy"
+    },
+    {
+      "word": "ovärderlig",
+      "intensity": "0.641",
+      "emotion": "joy"
+    },
+    {
+      "word": "sensualitet",
+      "intensity": "0.641",
+      "emotion": "joy"
+    },
+    {
+      "word": "mästare",
+      "intensity": "0.641",
+      "emotion": "joy"
+    },
+    {
+      "word": "bröllop",
+      "intensity": "0.641",
+      "emotion": "joy"
+    },
+    {
+      "word": "upplyftande",
+      "intensity": "0.641",
+      "emotion": "joy"
+    },
+    {
+      "word": "omfamning",
+      "intensity": "0.636",
+      "emotion": "joy"
+    },
+    {
+      "word": "klimax",
+      "intensity": "0.636",
+      "emotion": "joy"
+    },
+    {
+      "word": "fredlig",
+      "intensity": "0.636",
+      "emotion": "joy"
+    },
+    {
+      "word": "tindra",
+      "intensity": "0.636",
+      "emotion": "joy"
+    },
+    {
+      "word": "dagdröm",
+      "intensity": "0.636",
+      "emotion": "joy"
+    },
+    {
+      "word": "upphöja",
+      "intensity": "0.636",
+      "emotion": "joy"
+    },
+    {
+      "word": "vinnare",
+      "intensity": "0.636",
+      "emotion": "joy"
+    },
+    {
+      "word": "sällhet",
+      "intensity": "0.636",
+      "emotion": "joy"
+    },
+    {
+      "word": "tröstande",
+      "intensity": "0.636",
+      "emotion": "joy"
+    },
+    {
+      "word": "smekmånad",
+      "intensity": "0.636",
+      "emotion": "joy"
+    },
+    {
+      "word": "puss och kram",
+      "intensity": "0.634",
+      "emotion": "joy"
+    },
+    {
+      "word": "underbar",
+      "intensity": "0.625",
+      "emotion": "joy"
+    },
+    {
+      "word": "rolig",
+      "intensity": "0.625",
+      "emotion": "joy"
+    },
+    {
+      "word": "pris",
+      "intensity": "0.625",
+      "emotion": "joy"
+    },
+    {
+      "word": "förkärlek",
+      "intensity": "0.625",
+      "emotion": "joy"
+    },
+    {
+      "word": "hjärtan",
+      "intensity": "0.625",
+      "emotion": "joy"
+    },
+    {
+      "word": "ljusare",
+      "intensity": "0.625",
+      "emotion": "joy"
+    },
+    {
+      "word": "ljuv",
+      "intensity": "0.625",
+      "emotion": "joy"
+    },
+    {
+      "word": "stjärnskådning",
+      "intensity": "0.625",
+      "emotion": "joy"
+    },
+    {
+      "word": "festival",
+      "intensity": "0.625",
+      "emotion": "joy"
+    },
+    {
+      "word": "snuggling",
+      "intensity": "0.625",
+      "emotion": "joy"
+    },
+    {
+      "word": "generositet",
+      "intensity": "0.625",
+      "emotion": "joy"
+    },
+    {
+      "word": "sex",
+      "intensity": "0.622",
+      "emotion": "joy"
+    },
+    {
+      "word": "parad",
+      "intensity": "0.621",
+      "emotion": "joy"
+    },
+    {
+      "word": "applåder",
+      "intensity": "0.621",
+      "emotion": "joy"
+    },
+    {
+      "word": "gemytlig",
+      "intensity": "0.621",
+      "emotion": "joy"
+    },
+    {
+      "word": "skönhet",
+      "intensity": "0.621",
+      "emotion": "joy"
+    },
+    {
+      "word": "snäll",
+      "intensity": "0.621",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppfylla",
+      "intensity": "0.618",
+      "emotion": "joy"
+    },
+    {
+      "word": "nytt liv",
+      "intensity": "0.618",
+      "emotion": "joy"
+    },
+    {
+      "word": "blivande",
+      "intensity": "0.618",
+      "emotion": "joy"
+    },
+    {
+      "word": "dygdig",
+      "intensity": "0.613",
+      "emotion": "joy"
+    },
+    {
+      "word": "kyss",
+      "intensity": "0.610",
+      "emotion": "joy"
+    },
+    {
+      "word": "förtjusande",
+      "intensity": "0.609",
+      "emotion": "joy"
+    },
+    {
+      "word": "jul",
+      "intensity": "0.609",
+      "emotion": "joy"
+    },
+    {
+      "word": "vinster",
+      "intensity": "0.609",
+      "emotion": "joy"
+    },
+    {
+      "word": "regnbågar",
+      "intensity": "0.609",
+      "emotion": "joy"
+    },
+    {
+      "word": "generös",
+      "intensity": "0.609",
+      "emotion": "joy"
+    },
+    {
+      "word": "upplysning",
+      "intensity": "0.609",
+      "emotion": "joy"
+    },
+    {
+      "word": "lekfull",
+      "intensity": "0.609",
+      "emotion": "joy"
+    },
+    {
+      "word": "super",
+      "intensity": "0.609",
+      "emotion": "joy"
+    },
+    {
+      "word": "elegans",
+      "intensity": "0.609",
+      "emotion": "joy"
+    },
+    {
+      "word": "återuppväcka",
+      "intensity": "0.609",
+      "emotion": "joy"
+    },
+    {
+      "word": "utmärkelser",
+      "intensity": "0.609",
+      "emotion": "joy"
+    },
+    {
+      "word": "vänlighet",
+      "intensity": "0.606",
+      "emotion": "joy"
+    },
+    {
+      "word": "framgångsrik",
+      "intensity": "0.606",
+      "emotion": "joy"
+    },
+    {
+      "word": "en kärlek",
+      "intensity": "0.606",
+      "emotion": "joy"
+    },
+    {
+      "word": "fritt",
+      "intensity": "0.606",
+      "emotion": "joy"
+    },
+    {
+      "word": "överraskningar",
+      "intensity": "0.606",
+      "emotion": "joy"
+    },
+    {
+      "word": "inspirerad",
+      "intensity": "0.606",
+      "emotion": "joy"
+    },
+    {
+      "word": "undra",
+      "intensity": "0.606",
+      "emotion": "joy"
+    },
+    {
+      "word": "underhållning",
+      "intensity": "0.603",
+      "emotion": "joy"
+    },
+    {
+      "word": "nyckfull",
+      "intensity": "0.603",
+      "emotion": "joy"
+    },
+    {
+      "word": "passion",
+      "intensity": "0.603",
+      "emotion": "joy"
+    },
+    {
+      "word": "försköna",
+      "intensity": "0.601",
+      "emotion": "joy"
+    },
+    {
+      "word": "soluppgång",
+      "intensity": "0.600",
+      "emotion": "joy"
+    },
+    {
+      "word": "Gud är god",
+      "intensity": "0.597",
+      "emotion": "joy"
+    },
+    {
+      "word": "prestation",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "whoo",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "ängel",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "tack Gud",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "flört",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "bra musik",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "snuggled",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "vörda",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "fanfar",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "lugnt",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "Jesus",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "godsaker",
+      "intensity": "0.594",
+      "emotion": "joy"
+    },
+    {
+      "word": "heroisk-",
+      "intensity": "0.591",
+      "emotion": "joy"
+    },
+    {
+      "word": "förmögenhet",
+      "intensity": "0.591",
+      "emotion": "joy"
+    },
+    {
+      "word": "vänskap",
+      "intensity": "0.591",
+      "emotion": "joy"
+    },
+    {
+      "word": "upphöjd",
+      "intensity": "0.591",
+      "emotion": "joy"
+    },
+    {
+      "word": "sommar",
+      "intensity": "0.591",
+      "emotion": "joy"
+    },
+    {
+      "word": "högsta",
+      "intensity": "0.591",
+      "emotion": "joy"
+    },
+    {
+      "word": "översvämmande",
+      "intensity": "0.588",
+      "emotion": "joy"
+    },
+    {
+      "word": "belåten",
+      "intensity": "0.588",
+      "emotion": "joy"
+    },
+    {
+      "word": "woot",
+      "intensity": "0.588",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppslupen",
+      "intensity": "0.588",
+      "emotion": "joy"
+    },
+    {
+      "word": "hoppas",
+      "intensity": "0.586",
+      "emotion": "joy"
+    },
+    {
+      "word": "accolade",
+      "intensity": "0.586",
+      "emotion": "joy"
+    },
+    {
+      "word": "mysigt",
+      "intensity": "0.583",
+      "emotion": "joy"
+    },
+    {
+      "word": "utsökt",
+      "intensity": "0.579",
+      "emotion": "joy"
+    },
+    {
+      "word": "Älskling",
+      "intensity": "0.578",
+      "emotion": "joy"
+    },
+    {
+      "word": "vänlig",
+      "intensity": "0.578",
+      "emotion": "joy"
+    },
+    {
+      "word": "sinnlig",
+      "intensity": "0.578",
+      "emotion": "joy"
+    },
+    {
+      "word": "yra",
+      "intensity": "0.578",
+      "emotion": "joy"
+    },
+    {
+      "word": "evighet",
+      "intensity": "0.578",
+      "emotion": "joy"
+    },
+    {
+      "word": "ambition",
+      "intensity": "0.578",
+      "emotion": "joy"
+    },
+    {
+      "word": "livet",
+      "intensity": "0.578",
+      "emotion": "joy"
+    },
+    {
+      "word": "gnistra",
+      "intensity": "0.577",
+      "emotion": "joy"
+    },
+    {
+      "word": "yeahhh",
+      "intensity": "0.576",
+      "emotion": "joy"
+    },
+    {
+      "word": "lyckosam tjej",
+      "intensity": "0.576",
+      "emotion": "joy"
+    },
+    {
+      "word": "smickrande",
+      "intensity": "0.576",
+      "emotion": "joy"
+    },
+    {
+      "word": "sensuell",
+      "intensity": "0.576",
+      "emotion": "joy"
+    },
+    {
+      "word": "hjältemod",
+      "intensity": "0.576",
+      "emotion": "joy"
+    },
+    {
+      "word": "efterföljande",
+      "intensity": "0.576",
+      "emotion": "joy"
+    },
+    {
+      "word": "nåd",
+      "intensity": "0.576",
+      "emotion": "joy"
+    },
+    {
+      "word": "fred",
+      "intensity": "0.576",
+      "emotion": "joy"
+    },
+    {
+      "word": "Lev livet",
+      "intensity": "0.574",
+      "emotion": "joy"
+    },
+    {
+      "word": "särskild",
+      "intensity": "0.574",
+      "emotion": "joy"
+    },
+    {
+      "word": "frestande",
+      "intensity": "0.572",
+      "emotion": "joy"
+    },
+    {
+      "word": "pumpade",
+      "intensity": "0.567",
+      "emotion": "joy"
+    },
+    {
+      "word": "värt",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "revels",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "råda",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "böjelse",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "solig",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "överraskning",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "kramar",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "beundransvärd",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "hjälte",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "humoristisk",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "sötsaker",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "blomstra",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "superstar",
+      "intensity": "0.562",
+      "emotion": "joy"
+    },
+    {
+      "word": "välsigna",
+      "intensity": "0.561",
+      "emotion": "joy"
+    },
+    {
+      "word": "ömhet",
+      "intensity": "0.561",
+      "emotion": "joy"
+    },
+    {
+      "word": "mästerverk",
+      "intensity": "0.561",
+      "emotion": "joy"
+    },
+    {
+      "word": "drömmar",
+      "intensity": "0.559",
+      "emotion": "joy"
+    },
+    {
+      "word": "hoppfull",
+      "intensity": "0.559",
+      "emotion": "joy"
+    },
+    {
+      "word": "Hem",
+      "intensity": "0.559",
+      "emotion": "joy"
+    },
+    {
+      "word": "cruising",
+      "intensity": "0.556",
+      "emotion": "joy"
+    },
+    {
+      "word": "trofasthet",
+      "intensity": "0.553",
+      "emotion": "joy"
+    },
+    {
+      "word": "närhet",
+      "intensity": "0.552",
+      "emotion": "joy"
+    },
+    {
+      "word": "bekväm",
+      "intensity": "0.551",
+      "emotion": "joy"
+    },
+    {
+      "word": "solsken",
+      "intensity": "0.551",
+      "emotion": "joy"
+    },
+    {
+      "word": "iver",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "förtroende",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "mistel",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "elit",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "himmelsk",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "hjärta",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "komplettering",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "Bra",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "dotter",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "gåvor",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "förvåning",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "bonus",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "god morgon",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "lyfts",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "belysa",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "gåva",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "semester",
+      "intensity": "0.547",
+      "emotion": "joy"
+    },
+    {
+      "word": "betagen",
+      "intensity": "0.546",
+      "emotion": "joy"
+    },
+    {
+      "word": "rekreation",
+      "intensity": "0.545",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppmuntran",
+      "intensity": "0.545",
+      "emotion": "joy"
+    },
+    {
+      "word": "välla",
+      "intensity": "0.545",
+      "emotion": "joy"
+    },
+    {
+      "word": "sublim",
+      "intensity": "0.545",
+      "emotion": "joy"
+    },
+    {
+      "word": "dansa",
+      "intensity": "0.545",
+      "emotion": "joy"
+    },
+    {
+      "word": "Gud",
+      "intensity": "0.545",
+      "emotion": "joy"
+    },
+    {
+      "word": "fri",
+      "intensity": "0.544",
+      "emotion": "joy"
+    },
+    {
+      "word": "räddare",
+      "intensity": "0.543",
+      "emotion": "joy"
+    },
+    {
+      "word": "fristad",
+      "intensity": "0.541",
+      "emotion": "joy"
+    },
+    {
+      "word": "barnbarn",
+      "intensity": "0.540",
+      "emotion": "joy"
+    },
+    {
+      "word": "wellness",
+      "intensity": "0.537",
+      "emotion": "joy"
+    },
+    {
+      "word": "frossa",
+      "intensity": "0.534",
+      "emotion": "joy"
+    },
+    {
+      "word": "inspirera",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "njuta av",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "pengar",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "regnbåge",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "självsäker",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "brud-",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "musik",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "fab",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "Levande",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "helighet",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "vitalitet",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "sväva",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "förstfödda",
+      "intensity": "0.531",
+      "emotion": "joy"
+    },
+    {
+      "word": "elegant",
+      "intensity": "0.530",
+      "emotion": "joy"
+    },
+    {
+      "word": "herravälde",
+      "intensity": "0.530",
+      "emotion": "joy"
+    },
+    {
+      "word": "belysning",
+      "intensity": "0.530",
+      "emotion": "joy"
+    },
+    {
+      "word": "välkomnade",
+      "intensity": "0.530",
+      "emotion": "joy"
+    },
+    {
+      "word": "värme",
+      "intensity": "0.530",
+      "emotion": "joy"
+    },
+    {
+      "word": "glimma",
+      "intensity": "0.530",
+      "emotion": "joy"
+    },
+    {
+      "word": "trogen",
+      "intensity": "0.529",
+      "emotion": "joy"
+    },
+    {
+      "word": "behandla",
+      "intensity": "0.529",
+      "emotion": "joy"
+    },
+    {
+      "word": "snuggles",
+      "intensity": "0.522",
+      "emotion": "joy"
+    },
+    {
+      "word": "lagrar",
+      "intensity": "0.521",
+      "emotion": "joy"
+    },
+    {
+      "word": "riklig",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "kraftfull",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "dumbom",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "krydda",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "presenterar",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "lyckas",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "klingande",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "hälsade",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "stolthet",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "förstärkning",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "sträva",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "glänsande",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "allsmäktig",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "fint",
+      "intensity": "0.516",
+      "emotion": "joy"
+    },
+    {
+      "word": "lysande",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "beröm",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "zen",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "fritid",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "komplett",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "sötnos",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "nya mig",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "familjetid",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "animerad",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "anda",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "tacka",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "unge",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "avlöningsdag",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "furstlig",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "återförenas",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "terapeutisk",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "bekvämlighet",
+      "intensity": "0.515",
+      "emotion": "joy"
+    },
+    {
+      "word": "äktenskap",
+      "intensity": "0.514",
+      "emotion": "joy"
+    },
+    {
+      "word": "gudfruktig",
+      "intensity": "0.514",
+      "emotion": "joy"
+    },
+    {
+      "word": "relation",
+      "intensity": "0.514",
+      "emotion": "joy"
+    },
+    {
+      "word": "make",
+      "intensity": "0.507",
+      "emotion": "joy"
+    },
+    {
+      "word": "intimt",
+      "intensity": "0.507",
+      "emotion": "joy"
+    },
+    {
+      "word": "nöjd",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "blomma",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "utföra",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "excel",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "inbjudande",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "förtjänstfull",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "diamant-",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "natur",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "värdighet",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "familj",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "soulful",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppmuntra",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "vänner",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "välkomnande",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "friska",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "overkligt",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppdateras",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "strand",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "moderskap",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "respekt",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "pärla",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "erotisk",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "visionär",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppnått",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "kristus",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "minnesvärd",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "bebis",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "spinna",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "sanningshalten",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "sorglös",
+      "intensity": "0.500",
+      "emotion": "joy"
+    },
+    {
+      "word": "aura",
+      "intensity": "0.493",
+      "emotion": "joy"
+    },
+    {
+      "word": "hälsa",
+      "intensity": "0.493",
+      "emotion": "joy"
+    },
+    {
+      "word": "frihet",
+      "intensity": "0.486",
+      "emotion": "joy"
+    },
+    {
+      "word": "godkänd",
+      "intensity": "0.486",
+      "emotion": "joy"
+    },
+    {
+      "word": "oas",
+      "intensity": "0.486",
+      "emotion": "joy"
+    },
+    {
+      "word": "kröning",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "hänryckning",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "engagerande",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "strävan",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "prestige",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "crescendo",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "mild",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "befria",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "trolovad",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "frikostighet",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "privilegierad",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "lojala",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "oskiljaktig",
+      "intensity": "0.485",
+      "emotion": "joy"
+    },
+    {
+      "word": "glanstid",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "trofén",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "tur",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "kreativitet",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "Öde",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "överskridande",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "bukett",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "choklad",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "aloha",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "smaskigt",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "dröm",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "önskan",
+      "intensity": "0.484",
+      "emotion": "joy"
+    },
+    {
+      "word": "pojkvän",
+      "intensity": "0.480",
+      "emotion": "joy"
+    },
+    {
+      "word": "åminnelse",
+      "intensity": "0.479",
+      "emotion": "joy"
+    },
+    {
+      "word": "intelligens",
+      "intensity": "0.477",
+      "emotion": "joy"
+    },
+    {
+      "word": "beredskap",
+      "intensity": "0.473",
+      "emotion": "joy"
+    },
+    {
+      "word": "vän",
+      "intensity": "0.471",
+      "emotion": "joy"
+    },
+    {
+      "word": "entusiast",
+      "intensity": "0.471",
+      "emotion": "joy"
+    },
+    {
+      "word": "brud",
+      "intensity": "0.471",
+      "emotion": "joy"
+    },
+    {
+      "word": "lugnande",
+      "intensity": "0.470",
+      "emotion": "joy"
+    },
+    {
+      "word": "frodig",
+      "intensity": "0.470",
+      "emotion": "joy"
+    },
+    {
+      "word": "arv",
+      "intensity": "0.470",
+      "emotion": "joy"
+    },
+    {
+      "word": "kiddo",
+      "intensity": "0.470",
+      "emotion": "joy"
+    },
+    {
+      "word": "massage",
+      "intensity": "0.470",
+      "emotion": "joy"
+    },
+    {
+      "word": "kittla",
+      "intensity": "0.470",
+      "emotion": "joy"
+    },
+    {
+      "word": "nostalgi",
+      "intensity": "0.470",
+      "emotion": "joy"
+    },
+    {
+      "word": "mål",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "lyster",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "ger",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "prinsessa",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "varmt",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "välvilja",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppfostran",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "brudgum",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "evig",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "be",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "flykt",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "humanitär",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "bindning",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "resten",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "vänskaplig",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "spinnande",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "Söt",
+      "intensity": "0.469",
+      "emotion": "joy"
+    },
+    {
+      "word": "barn",
+      "intensity": "0.466",
+      "emotion": "joy"
+    },
+    {
+      "word": "välgörande",
+      "intensity": "0.465",
+      "emotion": "joy"
+    },
+    {
+      "word": "inbjudan",
+      "intensity": "0.457",
+      "emotion": "joy"
+    },
+    {
+      "word": "reminiscing",
+      "intensity": "0.456",
+      "emotion": "joy"
+    },
+    {
+      "word": "stråle",
+      "intensity": "0.456",
+      "emotion": "joy"
+    },
+    {
+      "word": "tropisk",
+      "intensity": "0.455",
+      "emotion": "joy"
+    },
+    {
+      "word": "estetik",
+      "intensity": "0.455",
+      "emotion": "joy"
+    },
+    {
+      "word": "fredag",
+      "intensity": "0.455",
+      "emotion": "joy"
+    },
+    {
+      "word": "elevation",
+      "intensity": "0.455",
+      "emotion": "joy"
+    },
+    {
+      "word": "ceremoni",
+      "intensity": "0.455",
+      "emotion": "joy"
+    },
+    {
+      "word": "mindfulness",
+      "intensity": "0.455",
+      "emotion": "joy"
+    },
+    {
+      "word": "Hee",
+      "intensity": "0.455",
+      "emotion": "joy"
+    },
+    {
+      "word": "släkt",
+      "intensity": "0.455",
+      "emotion": "joy"
+    },
+    {
+      "word": "stipendium",
+      "intensity": "0.455",
+      "emotion": "joy"
+    },
+    {
+      "word": "befriend",
+      "intensity": "0.455",
+      "emotion": "joy"
+    },
+    {
+      "word": "fira",
+      "intensity": "0.453",
+      "emotion": "joy"
+    },
+    {
+      "word": "locka",
+      "intensity": "0.453",
+      "emotion": "joy"
+    },
+    {
+      "word": "tro",
+      "intensity": "0.453",
+      "emotion": "joy"
+    },
+    {
+      "word": "förlåtelse",
+      "intensity": "0.453",
+      "emotion": "joy"
+    },
+    {
+      "word": "landskap",
+      "intensity": "0.453",
+      "emotion": "joy"
+    },
+    {
+      "word": "rättfärdigande",
+      "intensity": "0.453",
+      "emotion": "joy"
+    },
+    {
+      "word": "Vattenfall",
+      "intensity": "0.453",
+      "emotion": "joy"
+    },
+    {
+      "word": "födelse",
+      "intensity": "0.453",
+      "emotion": "joy"
+    },
+    {
+      "word": "inga problem",
+      "intensity": "0.453",
+      "emotion": "joy"
+    },
+    {
+      "word": "godkänna",
+      "intensity": "0.453",
+      "emotion": "joy"
+    },
+    {
+      "word": "meditation",
+      "intensity": "0.446",
+      "emotion": "joy"
+    },
+    {
+      "word": "avslappnad",
+      "intensity": "0.442",
+      "emotion": "joy"
+    },
+    {
+      "word": "lugn",
+      "intensity": "0.441",
+      "emotion": "joy"
+    },
+    {
+      "word": "helgen",
+      "intensity": "0.441",
+      "emotion": "joy"
+    },
+    {
+      "word": "närvarande",
+      "intensity": "0.441",
+      "emotion": "joy"
+    },
+    {
+      "word": "anbud",
+      "intensity": "0.441",
+      "emotion": "joy"
+    },
+    {
+      "word": "nostalgisk",
+      "intensity": "0.439",
+      "emotion": "joy"
+    },
+    {
+      "word": "bön",
+      "intensity": "0.439",
+      "emotion": "joy"
+    },
+    {
+      "word": "delning",
+      "intensity": "0.439",
+      "emotion": "joy"
+    },
+    {
+      "word": "aktning",
+      "intensity": "0.439",
+      "emotion": "joy"
+    },
+    {
+      "word": "lyrisk",
+      "intensity": "0.439",
+      "emotion": "joy"
+    },
+    {
+      "word": "rättfärdighet",
+      "intensity": "0.439",
+      "emotion": "joy"
+    },
+    {
+      "word": "dela med sig",
+      "intensity": "0.438",
+      "emotion": "joy"
+    },
+    {
+      "word": "Make",
+      "intensity": "0.438",
+      "emotion": "joy"
+    },
+    {
+      "word": "liv",
+      "intensity": "0.438",
+      "emotion": "joy"
+    },
+    {
+      "word": "sonett",
+      "intensity": "0.438",
+      "emotion": "joy"
+    },
+    {
+      "word": "lättnad",
+      "intensity": "0.438",
+      "emotion": "joy"
+    },
+    {
+      "word": "obesegrad",
+      "intensity": "0.438",
+      "emotion": "joy"
+    },
+    {
+      "word": "ny dag",
+      "intensity": "0.438",
+      "emotion": "joy"
+    },
+    {
+      "word": "meditera",
+      "intensity": "0.438",
+      "emotion": "joy"
+    },
+    {
+      "word": "mäktig",
+      "intensity": "0.438",
+      "emotion": "joy"
+    },
+    {
+      "word": "styrka",
+      "intensity": "0.438",
+      "emotion": "joy"
+    },
+    {
+      "word": "värma",
+      "intensity": "0.429",
+      "emotion": "joy"
+    },
+    {
+      "word": "kompis",
+      "intensity": "0.427",
+      "emotion": "joy"
+    },
+    {
+      "word": "enhet",
+      "intensity": "0.426",
+      "emotion": "joy"
+    },
+    {
+      "word": "oöverträffad",
+      "intensity": "0.424",
+      "emotion": "joy"
+    },
+    {
+      "word": "ejakulation",
+      "intensity": "0.424",
+      "emotion": "joy"
+    },
+    {
+      "word": "otvungen",
+      "intensity": "0.424",
+      "emotion": "joy"
+    },
+    {
+      "word": "medalj",
+      "intensity": "0.424",
+      "emotion": "joy"
+    },
+    {
+      "word": "amen",
+      "intensity": "0.424",
+      "emotion": "joy"
+    },
+    {
+      "word": "levande ljus",
+      "intensity": "0.424",
+      "emotion": "joy"
+    },
+    {
+      "word": "vördnad",
+      "intensity": "0.424",
+      "emotion": "joy"
+    },
+    {
+      "word": "hälsosam",
+      "intensity": "0.424",
+      "emotion": "joy"
+    },
+    {
+      "word": "julsånger",
+      "intensity": "0.424",
+      "emotion": "joy"
+    },
+    {
+      "word": "sledding",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "rikedom",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "gradering",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "yster",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "energi",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "början",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "säker",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "musikalisk",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "symfoni",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "lml",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "lätthet",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "hjälpsam",
+      "intensity": "0.422",
+      "emotion": "joy"
+    },
+    {
+      "word": "soliditet",
+      "intensity": "0.421",
+      "emotion": "joy"
+    },
+    {
+      "word": "löfte",
+      "intensity": "0.415",
+      "emotion": "joy"
+    },
+    {
+      "word": "återförena",
+      "intensity": "0.414",
+      "emotion": "joy"
+    },
+    {
+      "word": "frälsning",
+      "intensity": "0.412",
+      "emotion": "joy"
+    },
+    {
+      "word": "mor",
+      "intensity": "0.412",
+      "emotion": "joy"
+    },
+    {
+      "word": "dikter",
+      "intensity": "0.412",
+      "emotion": "joy"
+    },
+    {
+      "word": "resa",
+      "intensity": "0.409",
+      "emotion": "joy"
+    },
+    {
+      "word": "obefläckad",
+      "intensity": "0.409",
+      "emotion": "joy"
+    },
+    {
+      "word": "lätta",
+      "intensity": "0.409",
+      "emotion": "joy"
+    },
+    {
+      "word": "aromaterapi",
+      "intensity": "0.409",
+      "emotion": "joy"
+    },
+    {
+      "word": "lavendel-",
+      "intensity": "0.409",
+      "emotion": "joy"
+    },
+    {
+      "word": "clown",
+      "intensity": "0.409",
+      "emotion": "joy"
+    },
+    {
+      "word": "stjärna",
+      "intensity": "0.406",
+      "emotion": "joy"
+    },
+    {
+      "word": "kontanter",
+      "intensity": "0.406",
+      "emotion": "joy"
+    },
+    {
+      "word": "läka",
+      "intensity": "0.406",
+      "emotion": "joy"
+    },
+    {
+      "word": "fullborda",
+      "intensity": "0.406",
+      "emotion": "joy"
+    },
+    {
+      "word": "följeslagare",
+      "intensity": "0.406",
+      "emotion": "joy"
+    },
+    {
+      "word": "leva",
+      "intensity": "0.406",
+      "emotion": "joy"
+    },
+    {
+      "word": "blommor",
+      "intensity": "0.406",
+      "emotion": "joy"
+    },
+    {
+      "word": "önskar",
+      "intensity": "0.406",
+      "emotion": "joy"
+    },
+    {
+      "word": "välgörenhet",
+      "intensity": "0.406",
+      "emotion": "joy"
+    },
+    {
+      "word": "läglig",
+      "intensity": "0.406",
+      "emotion": "joy"
+    },
+    {
+      "word": "inkomst",
+      "intensity": "0.403",
+      "emotion": "joy"
+    },
+    {
+      "word": "själ",
+      "intensity": "0.401",
+      "emotion": "joy"
+    },
+    {
+      "word": "munchies",
+      "intensity": "0.400",
+      "emotion": "joy"
+    },
+    {
+      "word": "obeskrivlig",
+      "intensity": "0.397",
+      "emotion": "joy"
+    },
+    {
+      "word": "framsteg",
+      "intensity": "0.397",
+      "emotion": "joy"
+    },
+    {
+      "word": "frigörelse",
+      "intensity": "0.397",
+      "emotion": "joy"
+    },
+    {
+      "word": "kristen",
+      "intensity": "0.397",
+      "emotion": "joy"
+    },
+    {
+      "word": "lugna",
+      "intensity": "0.394",
+      "emotion": "joy"
+    },
+    {
+      "word": "hängmatta",
+      "intensity": "0.394",
+      "emotion": "joy"
+    },
+    {
+      "word": "tillsammans",
+      "intensity": "0.394",
+      "emotion": "joy"
+    },
+    {
+      "word": "jämlikhet",
+      "intensity": "0.394",
+      "emotion": "joy"
+    },
+    {
+      "word": "fullhet",
+      "intensity": "0.394",
+      "emotion": "joy"
+    },
+    {
+      "word": "picknick",
+      "intensity": "0.394",
+      "emotion": "joy"
+    },
+    {
+      "word": "barndom",
+      "intensity": "0.394",
+      "emotion": "joy"
+    },
+    {
+      "word": "rytmisk",
+      "intensity": "0.394",
+      "emotion": "joy"
+    },
+    {
+      "word": "bio",
+      "intensity": "0.393",
+      "emotion": "joy"
+    },
+    {
+      "word": "nitisk",
+      "intensity": "0.393",
+      "emotion": "joy"
+    },
+    {
+      "word": "välstånd",
+      "intensity": "0.391",
+      "emotion": "joy"
+    },
+    {
+      "word": "gynnsam",
+      "intensity": "0.391",
+      "emotion": "joy"
+    },
+    {
+      "word": "äventyr",
+      "intensity": "0.391",
+      "emotion": "joy"
+    },
+    {
+      "word": "små saker",
+      "intensity": "0.391",
+      "emotion": "joy"
+    },
+    {
+      "word": "mänskligheten",
+      "intensity": "0.391",
+      "emotion": "joy"
+    },
+    {
+      "word": "starry",
+      "intensity": "0.391",
+      "emotion": "joy"
+    },
+    {
+      "word": "lekplats",
+      "intensity": "0.391",
+      "emotion": "joy"
+    },
+    {
+      "word": "meningsfull",
+      "intensity": "0.391",
+      "emotion": "joy"
+    },
+    {
+      "word": "kör",
+      "intensity": "0.391",
+      "emotion": "joy"
+    },
+    {
+      "word": "värmer",
+      "intensity": "0.391",
+      "emotion": "joy"
+    },
+    {
+      "word": "fånig",
+      "intensity": "0.391",
+      "emotion": "joy"
+    },
+    {
+      "word": "gest",
+      "intensity": "0.387",
+      "emotion": "joy"
+    },
+    {
+      "word": "svära",
+      "intensity": "0.382",
+      "emotion": "joy"
+    },
+    {
+      "word": "kvick",
+      "intensity": "0.382",
+      "emotion": "joy"
+    },
+    {
+      "word": "gemenskap",
+      "intensity": "0.379",
+      "emotion": "joy"
+    },
+    {
+      "word": "vibrafon",
+      "intensity": "0.379",
+      "emotion": "joy"
+    },
+    {
+      "word": "dyrkan",
+      "intensity": "0.379",
+      "emotion": "joy"
+    },
+    {
+      "word": "hoppa",
+      "intensity": "0.379",
+      "emotion": "joy"
+    },
+    {
+      "word": "högvördig",
+      "intensity": "0.377",
+      "emotion": "joy"
+    },
+    {
+      "word": "munterhet",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "förskott",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "stränder",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "ungdom",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "enkelhet",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "full",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "stigande",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "unik",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "inlöst",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "naturskön",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppvaktning",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "erfarenhet",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "återförening",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "sonor",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "oförglömlig",
+      "intensity": "0.375",
+      "emotion": "joy"
+    },
+    {
+      "word": "dop-",
+      "intensity": "0.368",
+      "emotion": "joy"
+    },
+    {
+      "word": "allians",
+      "intensity": "0.368",
+      "emotion": "joy"
+    },
+    {
+      "word": "bevilja",
+      "intensity": "0.366",
+      "emotion": "joy"
+    },
+    {
+      "word": "förlikning",
+      "intensity": "0.364",
+      "emotion": "joy"
+    },
+    {
+      "word": "månsken",
+      "intensity": "0.364",
+      "emotion": "joy"
+    },
+    {
+      "word": "helgelse",
+      "intensity": "0.364",
+      "emotion": "joy"
+    },
+    {
+      "word": "förbättrar",
+      "intensity": "0.364",
+      "emotion": "joy"
+    },
+    {
+      "word": "förbättra",
+      "intensity": "0.364",
+      "emotion": "joy"
+    },
+    {
+      "word": "ren",
+      "intensity": "0.364",
+      "emotion": "joy"
+    },
+    {
+      "word": "äkta",
+      "intensity": "0.364",
+      "emotion": "joy"
+    },
+    {
+      "word": "kattunge",
+      "intensity": "0.364",
+      "emotion": "joy"
+    },
+    {
+      "word": "hallon",
+      "intensity": "0.360",
+      "emotion": "joy"
+    },
+    {
+      "word": "oberoende",
+      "intensity": "0.359",
+      "emotion": "joy"
+    },
+    {
+      "word": "glitter",
+      "intensity": "0.359",
+      "emotion": "joy"
+    },
+    {
+      "word": "trohet",
+      "intensity": "0.359",
+      "emotion": "joy"
+    },
+    {
+      "word": "känsla",
+      "intensity": "0.359",
+      "emotion": "joy"
+    },
+    {
+      "word": "hängiven",
+      "intensity": "0.359",
+      "emotion": "joy"
+    },
+    {
+      "word": "skicklighet",
+      "intensity": "0.359",
+      "emotion": "joy"
+    },
+    {
+      "word": "väckelse",
+      "intensity": "0.359",
+      "emotion": "joy"
+    },
+    {
+      "word": "helga",
+      "intensity": "0.359",
+      "emotion": "joy"
+    },
+    {
+      "word": "kakao",
+      "intensity": "0.353",
+      "emotion": "joy"
+    },
+    {
+      "word": "befrielse",
+      "intensity": "0.348",
+      "emotion": "joy"
+    },
+    {
+      "word": "delfin",
+      "intensity": "0.348",
+      "emotion": "joy"
+    },
+    {
+      "word": "kor-",
+      "intensity": "0.348",
+      "emotion": "joy"
+    },
+    {
+      "word": "stoja",
+      "intensity": "0.348",
+      "emotion": "joy"
+    },
+    {
+      "word": "rytande",
+      "intensity": "0.348",
+      "emotion": "joy"
+    },
+    {
+      "word": "melodi",
+      "intensity": "0.348",
+      "emotion": "joy"
+    },
+    {
+      "word": "förmån",
+      "intensity": "0.348",
+      "emotion": "joy"
+    },
+    {
+      "word": "enande",
+      "intensity": "0.348",
+      "emotion": "joy"
+    },
+    {
+      "word": "överstiga",
+      "intensity": "0.348",
+      "emotion": "joy"
+    },
+    {
+      "word": "syfte",
+      "intensity": "0.348",
+      "emotion": "joy"
+    },
+    {
+      "word": "nystart",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "inget arbete",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "vällustig",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "frukt",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "tack",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "manikyr",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "datum",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "kiddos",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "bilresa",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "småkakor",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "hedonism",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "elektrisk",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "lova",
+      "intensity": "0.344",
+      "emotion": "joy"
+    },
+    {
+      "word": "kändis",
+      "intensity": "0.342",
+      "emotion": "joy"
+    },
+    {
+      "word": "rytm",
+      "intensity": "0.338",
+      "emotion": "joy"
+    },
+    {
+      "word": "tärna",
+      "intensity": "0.338",
+      "emotion": "joy"
+    },
+    {
+      "word": "snödag",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "ung",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "kaffe",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppbyggelse",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "tvinga",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "renovering",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "förtrogenhet",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "trädgård",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "spa",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "gryning",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "kännare",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "partner",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "gazing",
+      "intensity": "0.333",
+      "emotion": "joy"
+    },
+    {
+      "word": "foodie",
+      "intensity": "0.331",
+      "emotion": "joy"
+    },
+    {
+      "word": "synkronisera",
+      "intensity": "0.329",
+      "emotion": "joy"
+    },
+    {
+      "word": "psalm",
+      "intensity": "0.328",
+      "emotion": "joy"
+    },
+    {
+      "word": "vedermöda",
+      "intensity": "0.328",
+      "emotion": "joy"
+    },
+    {
+      "word": "läkning",
+      "intensity": "0.328",
+      "emotion": "joy"
+    },
+    {
+      "word": "helgon",
+      "intensity": "0.328",
+      "emotion": "joy"
+    },
+    {
+      "word": "kvitter",
+      "intensity": "0.328",
+      "emotion": "joy"
+    },
+    {
+      "word": "hobby",
+      "intensity": "0.328",
+      "emotion": "joy"
+    },
+    {
+      "word": "Carol",
+      "intensity": "0.328",
+      "emotion": "joy"
+    },
+    {
+      "word": "pedikyr",
+      "intensity": "0.328",
+      "emotion": "joy"
+    },
+    {
+      "word": "amnesti",
+      "intensity": "0.328",
+      "emotion": "joy"
+    },
+    {
+      "word": "respit",
+      "intensity": "0.324",
+      "emotion": "joy"
+    },
+    {
+      "word": "fyllig",
+      "intensity": "0.318",
+      "emotion": "joy"
+    },
+    {
+      "word": "rekreations",
+      "intensity": "0.318",
+      "emotion": "joy"
+    },
+    {
+      "word": "stärkande",
+      "intensity": "0.318",
+      "emotion": "joy"
+    },
+    {
+      "word": "kusiner",
+      "intensity": "0.318",
+      "emotion": "joy"
+    },
+    {
+      "word": "klassiker",
+      "intensity": "0.318",
+      "emotion": "joy"
+    },
+    {
+      "word": "försoning",
+      "intensity": "0.316",
+      "emotion": "joy"
+    },
+    {
+      "word": "levande",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "handla",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "duva",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "presto",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "hantverk",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "återhämtning",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "trän",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "solnedgång",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "kondition",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "lekstuga",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "stålman",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "visdom",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "förenkla",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "herre",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "sterling-",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "progression",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "återtända",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "ponny",
+      "intensity": "0.312",
+      "emotion": "joy"
+    },
+    {
+      "word": "spädbarn",
+      "intensity": "0.309",
+      "emotion": "joy"
+    },
+    {
+      "word": "förbättring",
+      "intensity": "0.309",
+      "emotion": "joy"
+    },
+    {
+      "word": "absolution",
+      "intensity": "0.306",
+      "emotion": "joy"
+    },
+    {
+      "word": "försiktigt",
+      "intensity": "0.303",
+      "emotion": "joy"
+    },
+    {
+      "word": "Etablerade",
+      "intensity": "0.303",
+      "emotion": "joy"
+    },
+    {
+      "word": "ärlig",
+      "intensity": "0.303",
+      "emotion": "joy"
+    },
+    {
+      "word": "dekorera",
+      "intensity": "0.303",
+      "emotion": "joy"
+    },
+    {
+      "word": "ändlös",
+      "intensity": "0.303",
+      "emotion": "joy"
+    },
+    {
+      "word": "bankett",
+      "intensity": "0.303",
+      "emotion": "joy"
+    },
+    {
+      "word": "tillhandahålla",
+      "intensity": "0.300",
+      "emotion": "joy"
+    },
+    {
+      "word": "pittoresk",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "anmärkningsvärd",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "broderlig",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "mina",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "bedrift",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "skörda",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "mjukt",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "andlig",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "moral",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "slappa",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "bris",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "promenader",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "utgifterna",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "mediterar",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "joker",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "längtan",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "tillväxt",
+      "intensity": "0.297",
+      "emotion": "joy"
+    },
+    {
+      "word": "glöd",
+      "intensity": "0.295",
+      "emotion": "joy"
+    },
+    {
+      "word": "citat",
+      "intensity": "0.294",
+      "emotion": "joy"
+    },
+    {
+      "word": "volontär-",
+      "intensity": "0.294",
+      "emotion": "joy"
+    },
+    {
+      "word": "psalms",
+      "intensity": "0.288",
+      "emotion": "joy"
+    },
+    {
+      "word": "hippie",
+      "intensity": "0.288",
+      "emotion": "joy"
+    },
+    {
+      "word": "få",
+      "intensity": "0.288",
+      "emotion": "joy"
+    },
+    {
+      "word": "taoism",
+      "intensity": "0.288",
+      "emotion": "joy"
+    },
+    {
+      "word": "barnmorska",
+      "intensity": "0.288",
+      "emotion": "joy"
+    },
+    {
+      "word": "Medel",
+      "intensity": "0.288",
+      "emotion": "joy"
+    },
+    {
+      "word": "skapa",
+      "intensity": "0.288",
+      "emotion": "joy"
+    },
+    {
+      "word": "tar emot",
+      "intensity": "0.287",
+      "emotion": "joy"
+    },
+    {
+      "word": "hav",
+      "intensity": "0.286",
+      "emotion": "joy"
+    },
+    {
+      "word": "snöfall",
+      "intensity": "0.286",
+      "emotion": "joy"
+    },
+    {
+      "word": "lsd",
+      "intensity": "0.286",
+      "emotion": "joy"
+    },
+    {
+      "word": "vandring",
+      "intensity": "0.283",
+      "emotion": "joy"
+    },
+    {
+      "word": "koppla av",
+      "intensity": "0.281",
+      "emotion": "joy"
+    },
+    {
+      "word": "kyla",
+      "intensity": "0.281",
+      "emotion": "joy"
+    },
+    {
+      "word": "stillestånd",
+      "intensity": "0.281",
+      "emotion": "joy"
+    },
+    {
+      "word": "oändlighet",
+      "intensity": "0.281",
+      "emotion": "joy"
+    },
+    {
+      "word": "rostat bröd",
+      "intensity": "0.281",
+      "emotion": "joy"
+    },
+    {
+      "word": "destination",
+      "intensity": "0.281",
+      "emotion": "joy"
+    },
+    {
+      "word": "buddhist",
+      "intensity": "0.281",
+      "emotion": "joy"
+    },
+    {
+      "word": "utvilad",
+      "intensity": "0.281",
+      "emotion": "joy"
+    },
+    {
+      "word": "uppriktig",
+      "intensity": "0.281",
+      "emotion": "joy"
+    },
+    {
+      "word": "vintergröna",
+      "intensity": "0.281",
+      "emotion": "joy"
+    },
+    {
+      "word": "surrande",
+      "intensity": "0.281",
+      "emotion": "joy"
+    },
+    {
+      "word": "ärevördig",
+      "intensity": "0.279",
+      "emotion": "joy"
+    },
+    {
+      "word": "balans",
+      "intensity": "0.275",
+      "emotion": "joy"
+    },
+    {
+      "word": "pensionering",
+      "intensity": "0.275",
+      "emotion": "joy"
+    },
+    {
+      "word": "kompensera",
+      "intensity": "0.273",
+      "emotion": "joy"
+    },
+    {
+      "word": "simma",
+      "intensity": "0.273",
+      "emotion": "joy"
+    },
+    {
+      "word": "drycker",
+      "intensity": "0.273",
+      "emotion": "joy"
+    },
+    {
+      "word": "from",
+      "intensity": "0.273",
+      "emotion": "joy"
+    },
+    {
+      "word": "buddha",
+      "intensity": "0.273",
+      "emotion": "joy"
+    },
+    {
+      "word": "försjunken",
+      "intensity": "0.273",
+      "emotion": "joy"
+    },
+    {
+      "word": "öppen spis",
+      "intensity": "0.273",
+      "emotion": "joy"
+    },
+    {
+      "word": "snöar",
+      "intensity": "0.271",
+      "emotion": "joy"
+    },
+    {
+      "word": "sublime",
+      "intensity": "0.270",
+      "emotion": "joy"
+    },
+    {
+      "word": "fruktig",
+      "intensity": "0.268",
+      "emotion": "joy"
+    },
+    {
+      "word": "ödmjukhet",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "förebild",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "departement",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "söndag",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "honnör",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "mod",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "infall",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "Sol",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "skissa",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "vågor",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "buddhism",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "katedral",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "yoga",
+      "intensity": "0.266",
+      "emotion": "joy"
+    },
+    {
+      "word": "konstverk",
+      "intensity": "0.265",
+      "emotion": "joy"
+    },
+    {
+      "word": "tränad",
+      "intensity": "0.264",
+      "emotion": "joy"
+    },
+    {
+      "word": "rena",
+      "intensity": "0.260",
+      "emotion": "joy"
+    },
+    {
+      "word": "hittades",
+      "intensity": "0.258",
+      "emotion": "joy"
+    },
+    {
+      "word": "passande",
+      "intensity": "0.258",
+      "emotion": "joy"
+    },
+    {
+      "word": "fördjupa",
+      "intensity": "0.258",
+      "emotion": "joy"
+    },
+    {
+      "word": "löpning",
+      "intensity": "0.258",
+      "emotion": "joy"
+    },
+    {
+      "word": "klarhet",
+      "intensity": "0.258",
+      "emotion": "joy"
+    },
+    {
+      "word": "mat",
+      "intensity": "0.258",
+      "emotion": "joy"
+    },
+    {
+      "word": "träning",
+      "intensity": "0.258",
+      "emotion": "joy"
+    },
+    {
+      "word": "höst",
+      "intensity": "0.254",
+      "emotion": "joy"
+    },
+    {
+      "word": "ivrig",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "passa",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "Berg",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "ändamålsenlig",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "dagbok",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "utomhus",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "kyld",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "klappa",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "smittosam",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "kvittra",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "morgon-",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "besökare",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "härdig",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "landsbygden",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "odödlig",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "fotboll",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "försvar",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "demonstrativ",
+      "intensity": "0.250",
+      "emotion": "joy"
+    },
+    {
+      "word": "vagga",
+      "intensity": "0.247",
+      "emotion": "joy"
+    },
+    {
+      "word": "Trans",
+      "intensity": "0.246",
+      "emotion": "joy"
+    },
+    {
+      "word": "frukost",
+      "intensity": "0.242",
+      "emotion": "joy"
+    },
+    {
+      "word": "växa",
+      "intensity": "0.242",
+      "emotion": "joy"
+    },
+    {
+      "word": "betala",
+      "intensity": "0.242",
+      "emotion": "joy"
+    },
+    {
+      "word": "konserveringsmedel",
+      "intensity": "0.242",
+      "emotion": "joy"
+    },
+    {
+      "word": "intensiv",
+      "intensity": "0.242",
+      "emotion": "joy"
+    },
+    {
+      "word": "överlägsenhet",
+      "intensity": "0.242",
+      "emotion": "joy"
+    },
+    {
+      "word": "kyrka",
+      "intensity": "0.242",
+      "emotion": "joy"
+    },
+    {
+      "word": "procession",
+      "intensity": "0.242",
+      "emotion": "joy"
+    },
+    {
+      "word": "invigning",
+      "intensity": "0.235",
+      "emotion": "joy"
+    },
+    {
+      "word": "ödmjuk",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "ljus",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "livstid",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "barnkammare",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "rösta",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "rökelse",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "lyra",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "snöig",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "docka",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "skidåkning",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "prästvigning",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "konst",
+      "intensity": "0.234",
+      "emotion": "joy"
+    },
+    {
+      "word": "bakverk",
+      "intensity": "0.229",
+      "emotion": "joy"
+    },
+    {
+      "word": "eldfluga",
+      "intensity": "0.227",
+      "emotion": "joy"
+    },
+    {
+      "word": "kylning",
+      "intensity": "0.227",
+      "emotion": "joy"
+    },
+    {
+      "word": "avhjälpa",
+      "intensity": "0.227",
+      "emotion": "joy"
+    },
+    {
+      "word": "rädda",
+      "intensity": "0.225",
+      "emotion": "joy"
+    },
+    {
+      "word": "camping",
+      "intensity": "0.221",
+      "emotion": "joy"
+    },
+    {
+      "word": "perspektiv",
+      "intensity": "0.221",
+      "emotion": "joy"
+    },
+    {
+      "word": "fruktträdgård",
+      "intensity": "0.221",
+      "emotion": "joy"
+    },
+    {
+      "word": "orkester",
+      "intensity": "0.221",
+      "emotion": "joy"
+    },
+    {
+      "word": "besitter",
+      "intensity": "0.219",
+      "emotion": "joy"
+    },
+    {
+      "word": "slott",
+      "intensity": "0.219",
+      "emotion": "joy"
+    },
+    {
+      "word": "lamm",
+      "intensity": "0.219",
+      "emotion": "joy"
+    },
+    {
+      "word": "trädgårdar",
+      "intensity": "0.219",
+      "emotion": "joy"
+    },
+    {
+      "word": "blåsig",
+      "intensity": "0.219",
+      "emotion": "joy"
+    },
+    {
+      "word": "på tiden",
+      "intensity": "0.212",
+      "emotion": "joy"
+    },
+    {
+      "word": "rask",
+      "intensity": "0.212",
+      "emotion": "joy"
+    },
+    {
+      "word": "återbetala",
+      "intensity": "0.212",
+      "emotion": "joy"
+    },
+    {
+      "word": "band",
+      "intensity": "0.212",
+      "emotion": "joy"
+    },
+    {
+      "word": "pho",
+      "intensity": "0.212",
+      "emotion": "joy"
+    },
+    {
+      "word": "reggae",
+      "intensity": "0.212",
+      "emotion": "joy"
+    },
+    {
+      "word": "regndroppar",
+      "intensity": "0.212",
+      "emotion": "joy"
+    },
+    {
+      "word": "lära",
+      "intensity": "0.212",
+      "emotion": "joy"
+    },
+    {
+      "word": "tupplur",
+      "intensity": "0.206",
+      "emotion": "joy"
+    },
+    {
+      "word": "sång",
+      "intensity": "0.203",
+      "emotion": "joy"
+    },
+    {
+      "word": "stillhet",
+      "intensity": "0.203",
+      "emotion": "joy"
+    },
+    {
+      "word": "hyra",
+      "intensity": "0.203",
+      "emotion": "joy"
+    },
+    {
+      "word": "vårlig",
+      "intensity": "0.203",
+      "emotion": "joy"
+    },
+    {
+      "word": "cove",
+      "intensity": "0.203",
+      "emotion": "joy"
+    },
+    {
+      "word": "okontrollerbar",
+      "intensity": "0.203",
+      "emotion": "joy"
+    },
+    {
+      "word": "legaliserade",
+      "intensity": "0.203",
+      "emotion": "joy"
+    },
+    {
+      "word": "oväntat",
+      "intensity": "0.203",
+      "emotion": "joy"
+    },
+    {
+      "word": "lampor",
+      "intensity": "0.203",
+      "emotion": "joy"
+    },
+    {
+      "word": "spara",
+      "intensity": "0.200",
+      "emotion": "joy"
+    },
+    {
+      "word": "sona",
+      "intensity": "0.197",
+      "emotion": "joy"
+    },
+    {
+      "word": "pastor",
+      "intensity": "0.197",
+      "emotion": "joy"
+    },
+    {
+      "word": "symmetri",
+      "intensity": "0.197",
+      "emotion": "joy"
+    },
+    {
+      "word": "skriften",
+      "intensity": "0.196",
+      "emotion": "joy"
+    },
+    {
+      "word": "bergen",
+      "intensity": "0.194",
+      "emotion": "joy"
+    },
+    {
+      "word": "sprit",
+      "intensity": "0.188",
+      "emotion": "joy"
+    },
+    {
+      "word": "väg",
+      "intensity": "0.188",
+      "emotion": "joy"
+    },
+    {
+      "word": "gående",
+      "intensity": "0.188",
+      "emotion": "joy"
+    },
+    {
+      "word": "craziness",
+      "intensity": "0.188",
+      "emotion": "joy"
+    },
+    {
+      "word": "soppy",
+      "intensity": "0.188",
+      "emotion": "joy"
+    },
+    {
+      "word": "te",
+      "intensity": "0.188",
+      "emotion": "joy"
+    },
+    {
+      "word": "tyst",
+      "intensity": "0.188",
+      "emotion": "joy"
+    },
+    {
+      "word": "förfäder",
+      "intensity": "0.188",
+      "emotion": "joy"
+    },
+    {
+      "word": "beställnings-",
+      "intensity": "0.188",
+      "emotion": "joy"
+    },
+    {
+      "word": "vithet",
+      "intensity": "0.188",
+      "emotion": "joy"
+    },
+    {
+      "word": "sympatisk",
+      "intensity": "0.188",
+      "emotion": "joy"
+    },
+    {
+      "word": "patient",
+      "intensity": "0.186",
+      "emotion": "joy"
+    },
+    {
+      "word": "dockhus",
+      "intensity": "0.182",
+      "emotion": "joy"
+    },
+    {
+      "word": "bad",
+      "intensity": "0.182",
+      "emotion": "joy"
+    },
+    {
+      "word": "Göra",
+      "intensity": "0.182",
+      "emotion": "joy"
+    },
+    {
+      "word": "gå vidare",
+      "intensity": "0.182",
+      "emotion": "joy"
+    },
+    {
+      "word": "anhängare",
+      "intensity": "0.180",
+      "emotion": "joy"
+    },
+    {
+      "word": "ackompanjemang",
+      "intensity": "0.179",
+      "emotion": "joy"
+    },
+    {
+      "word": "utbrott",
+      "intensity": "0.176",
+      "emotion": "joy"
+    },
+    {
+      "word": "frostig",
+      "intensity": "0.174",
+      "emotion": "joy"
+    },
+    {
+      "word": "träna",
+      "intensity": "0.172",
+      "emotion": "joy"
+    },
+    {
+      "word": "stängning",
+      "intensity": "0.172",
+      "emotion": "joy"
+    },
+    {
+      "word": "lunch",
+      "intensity": "0.172",
+      "emotion": "joy"
+    },
+    {
+      "word": "service",
+      "intensity": "0.172",
+      "emotion": "joy"
+    },
+    {
+      "word": "wintry",
+      "intensity": "0.172",
+      "emotion": "joy"
+    },
+    {
+      "word": "lön",
+      "intensity": "0.169",
+      "emotion": "joy"
+    },
+    {
+      "word": "civiliserad",
+      "intensity": "0.169",
+      "emotion": "joy"
+    },
+    {
+      "word": "december",
+      "intensity": "0.167",
+      "emotion": "joy"
+    },
+    {
+      "word": "akrobat",
+      "intensity": "0.162",
+      "emotion": "joy"
+    },
+    {
+      "word": "glida",
+      "intensity": "0.162",
+      "emotion": "joy"
+    },
+    {
+      "word": "till sist",
+      "intensity": "0.157",
+      "emotion": "joy"
+    },
+    {
+      "word": "reproduktiv",
+      "intensity": "0.156",
+      "emotion": "joy"
+    },
+    {
+      "word": "älva",
+      "intensity": "0.156",
+      "emotion": "joy"
+    },
+    {
+      "word": "organisation",
+      "intensity": "0.156",
+      "emotion": "joy"
+    },
+    {
+      "word": "promenad",
+      "intensity": "0.156",
+      "emotion": "joy"
+    },
+    {
+      "word": "pepparmynta",
+      "intensity": "0.156",
+      "emotion": "joy"
+    },
+    {
+      "word": "ha sönder",
+      "intensity": "0.156",
+      "emotion": "joy"
+    },
+    {
+      "word": "chai",
+      "intensity": "0.156",
+      "emotion": "joy"
+    },
+    {
+      "word": "erhållas",
+      "intensity": "0.156",
+      "emotion": "joy"
+    },
+    {
+      "word": "badkar",
+      "intensity": "0.156",
+      "emotion": "joy"
+    },
+    {
+      "word": "första advent",
+      "intensity": "0.152",
+      "emotion": "joy"
+    },
+    {
+      "word": "scifi",
+      "intensity": "0.152",
+      "emotion": "joy"
+    },
+    {
+      "word": "balsam",
+      "intensity": "0.152",
+      "emotion": "joy"
+    },
+    {
+      "word": "mätt",
+      "intensity": "0.152",
+      "emotion": "joy"
+    },
+    {
+      "word": "spaniel",
+      "intensity": "0.145",
+      "emotion": "joy"
+    },
+    {
+      "word": "solbränna",
+      "intensity": "0.141",
+      "emotion": "joy"
+    },
+    {
+      "word": "ditty",
+      "intensity": "0.141",
+      "emotion": "joy"
+    },
+    {
+      "word": "bubbla",
+      "intensity": "0.141",
+      "emotion": "joy"
+    },
+    {
+      "word": "enkel",
+      "intensity": "0.141",
+      "emotion": "joy"
+    },
+    {
+      "word": "oljor",
+      "intensity": "0.141",
+      "emotion": "joy"
+    },
+    {
+      "word": "öl",
+      "intensity": "0.141",
+      "emotion": "joy"
+    },
+    {
+      "word": "grön",
+      "intensity": "0.137",
+      "emotion": "joy"
+    },
+    {
+      "word": "buss",
+      "intensity": "0.136",
+      "emotion": "joy"
+    },
+    {
+      "word": "böcker",
+      "intensity": "0.136",
+      "emotion": "joy"
+    },
+    {
+      "word": "käk",
+      "intensity": "0.135",
+      "emotion": "joy"
+    },
+    {
+      "word": "pitter",
+      "intensity": "0.134",
+      "emotion": "joy"
+    },
+    {
+      "word": "strömmar",
+      "intensity": "0.130",
+      "emotion": "joy"
+    },
+    {
+      "word": "tystnad",
+      "intensity": "0.127",
+      "emotion": "joy"
+    },
+    {
+      "word": "sportbil",
+      "intensity": "0.125",
+      "emotion": "joy"
+    },
+    {
+      "word": "ensamhet",
+      "intensity": "0.125",
+      "emotion": "joy"
+    },
+    {
+      "word": "bokhandel",
+      "intensity": "0.125",
+      "emotion": "joy"
+    },
+    {
+      "word": "vin",
+      "intensity": "0.125",
+      "emotion": "joy"
+    },
+    {
+      "word": "omständigheter",
+      "intensity": "0.125",
+      "emotion": "joy"
+    },
+    {
+      "word": "japan",
+      "intensity": "0.121",
+      "emotion": "joy"
+    },
+    {
+      "word": "blöta",
+      "intensity": "0.121",
+      "emotion": "joy"
+    },
+    {
+      "word": "vildmark",
+      "intensity": "0.121",
+      "emotion": "joy"
+    },
+    {
+      "word": "prästadömet",
+      "intensity": "0.121",
+      "emotion": "joy"
+    },
+    {
+      "word": "kritisk",
+      "intensity": "0.116",
+      "emotion": "joy"
+    },
+    {
+      "word": "neutral",
+      "intensity": "0.114",
+      "emotion": "joy"
+    },
+    {
+      "word": "jakt",
+      "intensity": "0.109",
+      "emotion": "joy"
+    },
+    {
+      "word": "avbinda",
+      "intensity": "0.109",
+      "emotion": "joy"
+    },
+    {
+      "word": "opera",
+      "intensity": "0.109",
+      "emotion": "joy"
+    },
+    {
+      "word": "vikt",
+      "intensity": "0.109",
+      "emotion": "joy"
+    },
+    {
+      "word": "vit",
+      "intensity": "0.109",
+      "emotion": "joy"
+    },
+    {
+      "word": "sand",
+      "intensity": "0.109",
+      "emotion": "joy"
+    },
+    {
+      "word": "vind",
+      "intensity": "0.109",
+      "emotion": "joy"
+    },
+    {
+      "word": "arbetskraft",
+      "intensity": "0.106",
+      "emotion": "joy"
+    },
+    {
+      "word": "klassisk",
+      "intensity": "0.106",
+      "emotion": "joy"
+    },
+    {
+      "word": "lidande",
+      "intensity": "0.103",
+      "emotion": "joy"
+    },
+    {
+      "word": "sjö",
+      "intensity": "0.103",
+      "emotion": "joy"
+    },
+    {
+      "word": "organ",
+      "intensity": "0.094",
+      "emotion": "joy"
+    },
+    {
+      "word": "bostad",
+      "intensity": "0.094",
+      "emotion": "joy"
+    },
+    {
+      "word": "träd",
+      "intensity": "0.090",
+      "emotion": "joy"
+    },
+    {
+      "word": "damm",
+      "intensity": "0.089",
+      "emotion": "joy"
+    },
+    {
+      "word": "märg",
+      "intensity": "0.078",
+      "emotion": "joy"
+    },
+    {
+      "word": "latte",
+      "intensity": "0.078",
+      "emotion": "joy"
+    },
+    {
+      "word": "sipping",
+      "intensity": "0.076",
+      "emotion": "joy"
+    },
+    {
+      "word": "godartad",
+      "intensity": "0.074",
+      "emotion": "joy"
+    },
+    {
+      "word": "majoritet",
+      "intensity": "0.073",
+      "emotion": "joy"
+    },
+    {
+      "word": "blad",
+      "intensity": "0.065",
+      "emotion": "joy"
+    },
+    {
+      "word": "bekymmer",
+      "intensity": "0.062",
+      "emotion": "joy"
+    },
+    {
+      "word": "basketboll",
+      "intensity": "0.062",
+      "emotion": "joy"
+    },
+    {
+      "word": "explosioner",
+      "intensity": "0.061",
+      "emotion": "joy"
+    },
+    {
+      "word": "grädde",
+      "intensity": "0.061",
+      "emotion": "joy"
+    },
+    {
+      "word": "herde",
+      "intensity": "0.058",
+      "emotion": "joy"
+    },
+    {
+      "word": "tisdag",
+      "intensity": "0.047",
+      "emotion": "joy"
+    },
+    {
+      "word": "turbulens",
+      "intensity": "0.045",
+      "emotion": "joy"
+    },
+    {
+      "word": "kalv",
+      "intensity": "0.040",
+      "emotion": "joy"
+    },
+    {
+      "word": "strapats",
+      "intensity": "0.031",
+      "emotion": "joy"
+    },
+    {
+      "word": "sextio",
+      "intensity": "0.016",
+      "emotion": "joy"
+    },
+    {
+      "word": "olycka",
+      "intensity": "0.016",
+      "emotion": "joy"
+    }
+  ],
+  "meta": {
+    "title": "Emotionsord – Glädje - Gratis nedladdning",
+    "description": "Svenska ord associerade med glädje, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska). Innehåller 1077 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Emotionsord – Glädje | ListBase",
+    "seo_description": "Ladda ner Emotionsord – Glädje — 1077 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 1077 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

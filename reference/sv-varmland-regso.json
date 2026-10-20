@@ -1,0 +1,926 @@
+{
+  "id": "sv-varmland-regso",
+  "name": "RegSO-områden i Värmlands län",
+  "title": "RegSO-områden i Värmlands län",
+  "description": "125 regionala statistikområden (RegSO) i Värmlands län (länskod 17). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "1715R001",
+      "regso_namn": "Dalliden",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1715R002",
+      "regso_namn": "Fryksta-Vikstad",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1715R003",
+      "regso_namn": "Kils omland",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1715R004",
+      "regso_namn": "Lersätter",
+      "kommun_kod": "1715",
+      "kommun_namn": "Kil",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1730R001",
+      "regso_namn": "Charlottenberg omland",
+      "kommun_kod": "1730",
+      "kommun_namn": "Eda",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1730R002",
+      "regso_namn": "Charlottenberg tätort",
+      "kommun_kod": "1730",
+      "kommun_namn": "Eda",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1730R003",
+      "regso_namn": "Koppom tätort-Koppom omland",
+      "kommun_kod": "1730",
+      "kommun_namn": "Eda",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1730R004",
+      "regso_namn": "Köla-Skillingmark",
+      "kommun_kod": "1730",
+      "kommun_namn": "Eda",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1730R005",
+      "regso_namn": "Åmotfors tätort",
+      "kommun_kod": "1730",
+      "kommun_namn": "Eda",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1737R001",
+      "regso_namn": "Stöllet-Ambjörby-Likenäs",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1737R002",
+      "regso_namn": "Sysslebäck-Höljes",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1737R003",
+      "regso_namn": "Torsby centrala",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1737R004",
+      "regso_namn": "Torsby norra",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1737R005",
+      "regso_namn": "Torsby omland",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1737R006",
+      "regso_namn": "Torsby södra",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1737R007",
+      "regso_namn": "Vitsand",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1737R008",
+      "regso_namn": "Östmark-Lekvattnet",
+      "kommun_kod": "1737",
+      "kommun_namn": "Torsby",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1760R001",
+      "regso_namn": "Storfors centralort",
+      "kommun_kod": "1760",
+      "kommun_namn": "Storfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1760R002",
+      "regso_namn": "Storfors tätorter-Storfors landsbygd",
+      "kommun_kod": "1760",
+      "kommun_namn": "Storfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1761R001",
+      "regso_namn": "Götetorp-Hammar",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1761R002",
+      "regso_namn": "Hammarö sydöstra",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1761R003",
+      "regso_namn": "Nolgård-Lövnäs",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1761R004",
+      "regso_namn": "Skoghall-Gunnarskär",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1761R005",
+      "regso_namn": "Skoghall-Mörmon",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1761R006",
+      "regso_namn": "Skoghall-Vidöåsen",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1761R007",
+      "regso_namn": "Tynäs-Bärstad-Hallersrud",
+      "kommun_kod": "1761",
+      "kommun_namn": "Hammarö",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1762R001",
+      "regso_namn": "Munkerud-Munkebol",
+      "kommun_kod": "1762",
+      "kommun_namn": "Munkfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1762R002",
+      "regso_namn": "Munkfors centrala områden",
+      "kommun_kod": "1762",
+      "kommun_namn": "Munkfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1762R003",
+      "regso_namn": "Munkfors yttre områden",
+      "kommun_kod": "1762",
+      "kommun_namn": "Munkfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1763R001",
+      "regso_namn": "Deje-Dejefors",
+      "kommun_kod": "1763",
+      "kommun_namn": "Forshaga",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1763R002",
+      "regso_namn": "Forshaga omland",
+      "kommun_kod": "1763",
+      "kommun_namn": "Forshaga",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1763R003",
+      "regso_namn": "Forshaga-Skived",
+      "kommun_kod": "1763",
+      "kommun_namn": "Forshaga",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1764R001",
+      "regso_namn": "Borgvik-Värmskog-Skruvstad",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1764R002",
+      "regso_namn": "Gamla Slottsbron",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1764R003",
+      "regso_namn": "Karlberg",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1764R004",
+      "regso_namn": "Orrby-Grönberg",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1764R005",
+      "regso_namn": "Segmon-Liljedal",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1764R006",
+      "regso_namn": "Slottsbron",
+      "kommun_kod": "1764",
+      "kommun_namn": "Grums",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1765R001",
+      "regso_namn": "Trankil-Blomskog-Silbodal-Sillerud",
+      "kommun_kod": "1765",
+      "kommun_namn": "Årjäng",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1765R002",
+      "regso_namn": "Töcksfors",
+      "kommun_kod": "1765",
+      "kommun_namn": "Årjäng",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1765R003",
+      "regso_namn": "Västra Fågelvik-Töcksmark-Östervallskog-Karlanda",
+      "kommun_kod": "1765",
+      "kommun_namn": "Årjäng",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1765R004",
+      "regso_namn": "Årjäng",
+      "kommun_kod": "1765",
+      "kommun_namn": "Årjäng",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1766R001",
+      "regso_namn": "Borgeby",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1766R002",
+      "regso_namn": "Hea",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1766R003",
+      "regso_namn": "Leran",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1766R004",
+      "regso_namn": "Lysviks kyrkby",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1766R005",
+      "regso_namn": "Sunne södra kommundel",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1766R006",
+      "regso_namn": "Sunne tätort östra",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1766R007",
+      "regso_namn": "Uddheden",
+      "kommun_kod": "1766",
+      "kommun_namn": "Sunne",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R001",
+      "regso_namn": "Alster-Skattkärr-Skattkärrs omland",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R002",
+      "regso_namn": "Edsgatan norra-Vallargärdet-Vallargärdets omland",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R003",
+      "regso_namn": "Edsvalla-Karlstads västra landsbygd",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R004",
+      "regso_namn": "Färjestad-Järpetan-Rud sydvästra",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R005",
+      "regso_namn": "Gruvlyckan",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R006",
+      "regso_namn": "Herrhagen sydöstra-Yttre hamn",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R007",
+      "regso_namn": "Herrhagen nordvästra-Lamberget-Sjöstad",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R008",
+      "regso_namn": "Hultsberg-Gustavsberg",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R009",
+      "regso_namn": "Klara-Sandbäcken-Sanna",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R010",
+      "regso_namn": "Kronoparken norra",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R011",
+      "regso_namn": "Kronoparken centrala",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R012",
+      "regso_namn": "Kronoparken östra",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R013",
+      "regso_namn": "Kroppkärr-Lorensberg-Välsviken",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R014",
+      "regso_namn": "Kvarnberget-Sommarro-Marieberg",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R015",
+      "regso_namn": "Molkom-Blombacka",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R016",
+      "regso_namn": "Norrstrand",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R017",
+      "regso_namn": "Orrholmen",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R018",
+      "regso_namn": "Romstad-Strand",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R019",
+      "regso_namn": "Rud nordöstra",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R020",
+      "regso_namn": "Råtorp",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R021",
+      "regso_namn": "Skåre omland",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R022",
+      "regso_namn": "Skåre centrala-Ilanda-Stodene",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R023",
+      "regso_namn": "Skåreberget-Älvåker",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R024",
+      "regso_namn": "Stockfallet-Edsgatan södra-Steffensminne",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R025",
+      "regso_namn": "Sundsta-Hagaborg",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R026",
+      "regso_namn": "Tingvallastaden-Haga",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R027",
+      "regso_namn": "Viken-Tyggårdsviken-Tullholmen",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R028",
+      "regso_namn": "Vålberg-Norsbron",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R029",
+      "regso_namn": "Våxnäs",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R030",
+      "regso_namn": "Väse-Karlstads östra landsbygd",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1780R031",
+      "regso_namn": "Zakrisdal-Bergvik-Björkås",
+      "kommun_kod": "1780",
+      "kommun_namn": "Karlstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1781R001",
+      "regso_namn": "Björneborg",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1781R002",
+      "regso_namn": "Bro",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1781R003",
+      "regso_namn": "Broängen-Presterud-Strandudden",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1781R004",
+      "regso_namn": "Fältet-Djurgården",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1781R005",
+      "regso_namn": "Kristinehamn norra omland",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1781R006",
+      "regso_namn": "Kristinehamn södra omland",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1781R007",
+      "regso_namn": "Kurlanda",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1781R008",
+      "regso_namn": "Marielund-Jakobsberg-Östermalm",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1781R009",
+      "regso_namn": "Smedby-Liljebäck-Södermalm",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1781R010",
+      "regso_namn": "Strand-Marieberg-Villastaden",
+      "kommun_kod": "1781",
+      "kommun_namn": "Kristinehamn",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1782R001",
+      "regso_namn": "Bergslagstorget-Eriksberg",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1782R002",
+      "regso_namn": "Filipstad norra",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1782R003",
+      "regso_namn": "Filipstad södra",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1782R004",
+      "regso_namn": "Höglunda-Myrängen",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1782R005",
+      "regso_namn": "Kalhyttan-centrum",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1782R006",
+      "regso_namn": "Lesjöfors",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1782R007",
+      "regso_namn": "Storbron",
+      "kommun_kod": "1782",
+      "kommun_namn": "Filipstad",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1783R001",
+      "regso_namn": "Ekshärad tätort",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1783R002",
+      "regso_namn": "Hagfors nordväst",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1783R003",
+      "regso_namn": "Hagfors nordöst",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1783R004",
+      "regso_namn": "Hagfors sydväst",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1783R005",
+      "regso_namn": "Hagfors sydöst",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1783R006",
+      "regso_namn": "Hagfors tätort",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1783R007",
+      "regso_namn": "Råda-Uddeholm",
+      "kommun_kod": "1783",
+      "kommun_namn": "Hagfors",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1784R001",
+      "regso_namn": "Arvika centrum-Högåsen-Degerängen",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1784R002",
+      "regso_namn": "Dottevik-Östra Sund",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1784R003",
+      "regso_namn": "Glava",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1784R004",
+      "regso_namn": "Gunnarskog",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1784R005",
+      "regso_namn": "Haga-Agneteberg-Rosendal",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1784R006",
+      "regso_namn": "Jössefors-Västra Sund",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1784R007",
+      "regso_namn": "Mangskog-Brunskog",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1784R008",
+      "regso_namn": "Solvik-Taserud",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1784R009",
+      "regso_namn": "Speke-Rackstad-Mötterud-Humlekil",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1784R010",
+      "regso_namn": "Stavnäs-Högerud",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1784R011",
+      "regso_namn": "Älgå-Ny",
+      "kommun_kod": "1784",
+      "kommun_namn": "Arvika",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1785R001",
+      "regso_namn": "Annelund-Billerud-Lugnadal",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1785R002",
+      "regso_namn": "Höglunda-Hermes-Norelund",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1785R003",
+      "regso_namn": "Långserud-Gillberga-Nysäter",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1785R004",
+      "regso_namn": "Olof Trätälja-Villan-Flå",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1785R005",
+      "regso_namn": "Rolfserud-Tingvalla-Treabackarna",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1785R006",
+      "regso_namn": "Rudsbyn-Svanskog",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1785R007",
+      "regso_namn": "Sundstorp-Sund-Tuvan",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1785R008",
+      "regso_namn": "Värmlandsnäs",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1785R009",
+      "regso_namn": "Västra Kila-Tveta",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17"
+    },
+    {
+      "regso_kod": "1785R010",
+      "regso_namn": "Östra Kila-Värmlandsbro-Södra Ny",
+      "kommun_kod": "1785",
+      "kommun_namn": "Säffle",
+      "lan_kod": "17"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Värmlands län - Gratis nedladdning",
+    "description": "125 regionala statistikområden (RegSO) i Värmlands län (länskod 17). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 125 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Värmlands län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Värmlands län — 125 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 125 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "id": "sv-tv-kanaler-nyheter",
+  "name": "Nyhetskanaler (News TV channels)",
+  "title": "Nyhetskanaler (News TV channels)",
+  "description": "Svenska TV-kanaler i kategorin \"news\" (News) — 6 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "date"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AftonbladetTV.se",
+      "name": "Aftonbladet TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.aftonbladet.se/"
+    },
+    {
+      "id": 2,
+      "channel_id": "AznewsTV.se",
+      "name": "Aznews TV",
+      "alt_names": "Azerbaijan News TV",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.aznews.tv/"
+    },
+    {
+      "id": 3,
+      "channel_id": "DiTV.se",
+      "name": "Di TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Dagens Industri",
+      "country": "SE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "2005-11-07",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.di.se/ditv/"
+    },
+    {
+      "id": 4,
+      "channel_id": "ExpressenTV.se",
+      "name": "Expressen TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 5,
+      "channel_id": "MiracleChannel.se",
+      "name": "Miracle Channel",
+      "alt_names": "قناة المعجزة",
+      "network": "",
+      "owners": "",
+      "country": "SE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://miracleconnect.org/"
+    },
+    {
+      "id": 6,
+      "channel_id": "TV4News.se",
+      "name": "TV4 News",
+      "alt_names": "",
+      "network": "",
+      "owners": "TV4 Group",
+      "country": "SE",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "2012-01-24",
+      "closed": "2013-08-31",
+      "replaced_by": "",
+      "website": "http://www.tv4news.se/"
+    }
+  ],
+  "meta": {
+    "title": "Nyhetskanaler (News TV channels) - Gratis nedladdning",
+    "description": "Svenska TV-kanaler i kategorin \"news\" (News) — 6 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats. Innehåller 6 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Nyhetskanaler (News TV channels) | ListBase",
+    "seo_description": "Ladda ner Nyhetskanaler (News TV channels) — 6 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 6 poster / 13 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "id": "sv-moskeer",
+  "name": "Moskéer i Sverige",
+  "title": "Moskéer i Sverige",
+  "description": "Mosques in Sweden with coordinates, sourced from Wikidata.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_sv",
+      "label": "Name Sv",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_sv",
+      "label": "Admin Area Sv",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4022295",
+      "name_sv": "Bellevuemoskén",
+      "name_en": "Bellevue Mosque",
+      "admin_area_sv": "Göteborgs kommun",
+      "admin_area_en": "Gothenburg Municipality",
+      "latitude": 57.730917,
+      "longitude": 12.024372,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4022295"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q4956599",
+      "name_sv": "",
+      "name_en": "Brandbergen Mosque",
+      "admin_area_sv": "Stockholm",
+      "admin_area_en": "Stockholm",
+      "latitude": 59.173616,
+      "longitude": 18.167988,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4956599"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q2529197",
+      "name_sv": "Fittja moské",
+      "name_en": "Fittja mosque",
+      "admin_area_sv": "Botkyrka kommun",
+      "admin_area_en": "Botkyrka Municipality",
+      "latitude": 59.2515,
+      "longitude": 17.8679,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2529197"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q26256682",
+      "name_sv": "Gävle moské",
+      "name_en": "Gävle Mosque",
+      "admin_area_sv": "Gävle kommun",
+      "admin_area_en": "Gävle Municipality",
+      "latitude": 60.668778,
+      "longitude": 17.151778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26256682"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q7737392",
+      "name_sv": "Göteborgs moské",
+      "name_en": "Gothenburg Mosque",
+      "admin_area_sv": "Göteborgs kommun",
+      "admin_area_en": "Gothenburg Municipality",
+      "latitude": 57.714817,
+      "longitude": 11.94415,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7737392"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q10534645",
+      "name_sv": "Imam-Ali moskén",
+      "name_en": "Imam Ali Mosque",
+      "admin_area_sv": "Järfälla kommun",
+      "admin_area_en": "Järfälla Municipality",
+      "latitude": 59.413472,
+      "longitude": 17.825167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10534645"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q26256844",
+      "name_sv": "Mahmoodmoskén",
+      "name_en": "Mahmood Mosque",
+      "admin_area_sv": "Malmö kommun",
+      "admin_area_en": "Malmö Municipality",
+      "latitude": 55.566333,
+      "longitude": 13.082306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26256844"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q676673",
+      "name_sv": "Malmö moské",
+      "name_en": "Malmö Mosque",
+      "admin_area_sv": "Malmö kommun",
+      "admin_area_en": "Malmö Municipality",
+      "latitude": 55.574722,
+      "longitude": 13.051944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q676673"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q10593233",
+      "name_sv": "Märsta moské",
+      "name_en": "",
+      "admin_area_sv": "Sigtuna kommun",
+      "admin_area_en": "Sigtuna Municipality",
+      "latitude": 59.627722,
+      "longitude": 17.858333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10593233"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q10594637",
+      "name_sv": "Nasir Moskén",
+      "name_en": "Nasir Mosque",
+      "admin_area_sv": "Göteborgs kommun",
+      "admin_area_en": "Gothenburg Municipality",
+      "latitude": 57.6766,
+      "longitude": 11.9142,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10594637"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q10661528",
+      "name_sv": "Sankta Katarina kyrka",
+      "name_en": "Sankta Katarina kyrka, Malmö",
+      "admin_area_sv": "Malmö kommun",
+      "admin_area_en": "Malmö Municipality",
+      "latitude": 55.600278,
+      "longitude": 13.040278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10661528"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q1193675",
+      "name_sv": "Stockholms moské",
+      "name_en": "Stockholm Mosque",
+      "admin_area_sv": "Stockholms kommun",
+      "admin_area_en": "Stockholm",
+      "latitude": 59.315789,
+      "longitude": 18.074736,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1193675"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q10704897",
+      "name_sv": "Trollhättans Shia Moské",
+      "name_en": "Trollhättan Shia Mosque",
+      "admin_area_sv": "Trollhättans kommun",
+      "admin_area_en": "Trollhättan Municipality",
+      "latitude": 58.258611,
+      "longitude": 12.285,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10704897"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q3892654",
+      "name_sv": "Umeå moské",
+      "name_en": "Umeå Mosque",
+      "admin_area_sv": "Umeå kommun",
+      "admin_area_en": "Umeå Municipality",
+      "latitude": 63.8115,
+      "longitude": 20.3055,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3892654"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q81807121",
+      "name_sv": "Umm Al-Mu’minin Khadijah-moskén",
+      "name_en": "Khadija Mosque",
+      "admin_area_sv": "Malmö kommun",
+      "admin_area_en": "Malmö Municipality",
+      "latitude": 55.594444,
+      "longitude": 13.039722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q81807121"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q2031802",
+      "name_sv": "Uppsala moské",
+      "name_en": "Uppsala Mosque",
+      "admin_area_sv": "Uppsala kommun",
+      "admin_area_en": "Uppsala Municipality",
+      "latitude": 59.874,
+      "longitude": 17.6382,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2031802"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q111702276",
+      "name_sv": "Örebro moské",
+      "name_en": "Örebro Mosque",
+      "admin_area_sv": "Örebro kommun",
+      "admin_area_en": "Örebro Municipality",
+      "latitude": 59.298269,
+      "longitude": 15.197611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111702276"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q135829783",
+      "name_sv": "Örebros bosniska moské",
+      "name_en": "",
+      "admin_area_sv": "Örebro kommun",
+      "admin_area_en": "Örebro Municipality",
+      "latitude": 59.275167,
+      "longitude": 15.183256,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135829783"
+    }
+  ],
+  "meta": {
+    "title": "Moskéer i Sverige - Gratis nedladdning",
+    "description": "Mosques in Sweden with coordinates, sourced from Wikidata. Innehåller 18 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Moskéer i Sverige | ListBase",
+    "seo_description": "Ladda ner Moskéer i Sverige — 18 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 18 poster / 9 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

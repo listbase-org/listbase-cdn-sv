@@ -1,0 +1,6456 @@
+{
+  "id": "sv-emotionsord-trust",
+  "name": "Emotionsord – Tillit",
+  "title": "Emotionsord – Tillit",
+  "description": "Svenska ord associerade med tillit, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1283,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "intensity",
+      "label": "Intensity",
+      "type": "number"
+    },
+    {
+      "key": "emotion",
+      "label": "Emotion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "sanningsenlighet",
+      "intensity": "0.906",
+      "emotion": "trust"
+    },
+    {
+      "word": "ärlig",
+      "intensity": "0.844",
+      "emotion": "trust"
+    },
+    {
+      "word": "ärlighet",
+      "intensity": "0.844",
+      "emotion": "trust"
+    },
+    {
+      "word": "sanning",
+      "intensity": "0.844",
+      "emotion": "trust"
+    },
+    {
+      "word": "sanningsenlig",
+      "intensity": "0.836",
+      "emotion": "trust"
+    },
+    {
+      "word": "förtroendefullt",
+      "intensity": "0.836",
+      "emotion": "trust"
+    },
+    {
+      "word": "broderskap",
+      "intensity": "0.820",
+      "emotion": "trust"
+    },
+    {
+      "word": "integritet",
+      "intensity": "0.805",
+      "emotion": "trust"
+    },
+    {
+      "word": "lojalitet",
+      "intensity": "0.805",
+      "emotion": "trust"
+    },
+    {
+      "word": "hedrande",
+      "intensity": "0.805",
+      "emotion": "trust"
+    },
+    {
+      "word": "trovärdighet",
+      "intensity": "0.805",
+      "emotion": "trust"
+    },
+    {
+      "word": "trogen",
+      "intensity": "0.797",
+      "emotion": "trust"
+    },
+    {
+      "word": "partnerskap",
+      "intensity": "0.789",
+      "emotion": "trust"
+    },
+    {
+      "word": "visdom",
+      "intensity": "0.789",
+      "emotion": "trust"
+    },
+    {
+      "word": "ed",
+      "intensity": "0.781",
+      "emotion": "trust"
+    },
+    {
+      "word": "verifiering",
+      "intensity": "0.781",
+      "emotion": "trust"
+    },
+    {
+      "word": "kooperativ",
+      "intensity": "0.781",
+      "emotion": "trust"
+    },
+    {
+      "word": "respektabel",
+      "intensity": "0.773",
+      "emotion": "trust"
+    },
+    {
+      "word": "trovärdig",
+      "intensity": "0.773",
+      "emotion": "trust"
+    },
+    {
+      "word": "hjälte",
+      "intensity": "0.773",
+      "emotion": "trust"
+    },
+    {
+      "word": "systerskap",
+      "intensity": "0.773",
+      "emotion": "trust"
+    },
+    {
+      "word": "löfte",
+      "intensity": "0.773",
+      "emotion": "trust"
+    },
+    {
+      "word": "verifierade",
+      "intensity": "0.773",
+      "emotion": "trust"
+    },
+    {
+      "word": "kvalificerad",
+      "intensity": "0.766",
+      "emotion": "trust"
+    },
+    {
+      "word": "respekterad",
+      "intensity": "0.766",
+      "emotion": "trust"
+    },
+    {
+      "word": "autentisering",
+      "intensity": "0.766",
+      "emotion": "trust"
+    },
+    {
+      "word": "medlidande",
+      "intensity": "0.759",
+      "emotion": "trust"
+    },
+    {
+      "word": "ansedd",
+      "intensity": "0.758",
+      "emotion": "trust"
+    },
+    {
+      "word": "säkert förvar",
+      "intensity": "0.758",
+      "emotion": "trust"
+    },
+    {
+      "word": "pålitlighet",
+      "intensity": "0.758",
+      "emotion": "trust"
+    },
+    {
+      "word": "moralisk",
+      "intensity": "0.758",
+      "emotion": "trust"
+    },
+    {
+      "word": "kärlek",
+      "intensity": "0.758",
+      "emotion": "trust"
+    },
+    {
+      "word": "stabil",
+      "intensity": "0.750",
+      "emotion": "trust"
+    },
+    {
+      "word": "vän",
+      "intensity": "0.750",
+      "emotion": "trust"
+    },
+    {
+      "word": "äkta",
+      "intensity": "0.750",
+      "emotion": "trust"
+    },
+    {
+      "word": "lojala",
+      "intensity": "0.750",
+      "emotion": "trust"
+    },
+    {
+      "word": "alliera",
+      "intensity": "0.750",
+      "emotion": "trust"
+    },
+    {
+      "word": "skydda",
+      "intensity": "0.750",
+      "emotion": "trust"
+    },
+    {
+      "word": "följeslagare",
+      "intensity": "0.750",
+      "emotion": "trust"
+    },
+    {
+      "word": "rådde",
+      "intensity": "0.750",
+      "emotion": "trust"
+    },
+    {
+      "word": "bevisad",
+      "intensity": "0.742",
+      "emotion": "trust"
+    },
+    {
+      "word": "avseenden",
+      "intensity": "0.742",
+      "emotion": "trust"
+    },
+    {
+      "word": "tro",
+      "intensity": "0.742",
+      "emotion": "trust"
+    },
+    {
+      "word": "hälsosam",
+      "intensity": "0.742",
+      "emotion": "trust"
+    },
+    {
+      "word": "respekt",
+      "intensity": "0.734",
+      "emotion": "trust"
+    },
+    {
+      "word": "innerlig",
+      "intensity": "0.734",
+      "emotion": "trust"
+    },
+    {
+      "word": "enande",
+      "intensity": "0.734",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppmuntran",
+      "intensity": "0.734",
+      "emotion": "trust"
+    },
+    {
+      "word": "beundransvärd",
+      "intensity": "0.734",
+      "emotion": "trust"
+    },
+    {
+      "word": "förvaltare",
+      "intensity": "0.734",
+      "emotion": "trust"
+    },
+    {
+      "word": "anhängare",
+      "intensity": "0.734",
+      "emotion": "trust"
+    },
+    {
+      "word": "Bekräftelse",
+      "intensity": "0.734",
+      "emotion": "trust"
+    },
+    {
+      "word": "allians",
+      "intensity": "0.727",
+      "emotion": "trust"
+    },
+    {
+      "word": "jämlikhet",
+      "intensity": "0.727",
+      "emotion": "trust"
+    },
+    {
+      "word": "vänskap",
+      "intensity": "0.727",
+      "emotion": "trust"
+    },
+    {
+      "word": "avtal",
+      "intensity": "0.727",
+      "emotion": "trust"
+    },
+    {
+      "word": "faktum",
+      "intensity": "0.727",
+      "emotion": "trust"
+    },
+    {
+      "word": "självsäker",
+      "intensity": "0.727",
+      "emotion": "trust"
+    },
+    {
+      "word": "förträfflighet",
+      "intensity": "0.727",
+      "emotion": "trust"
+    },
+    {
+      "word": "credential",
+      "intensity": "0.727",
+      "emotion": "trust"
+    },
+    {
+      "word": "närhet",
+      "intensity": "0.719",
+      "emotion": "trust"
+    },
+    {
+      "word": "autentisera",
+      "intensity": "0.719",
+      "emotion": "trust"
+    },
+    {
+      "word": "intelligens",
+      "intensity": "0.719",
+      "emotion": "trust"
+    },
+    {
+      "word": "dygd",
+      "intensity": "0.719",
+      "emotion": "trust"
+    },
+    {
+      "word": "hedrad",
+      "intensity": "0.719",
+      "emotion": "trust"
+    },
+    {
+      "word": "dygdig",
+      "intensity": "0.719",
+      "emotion": "trust"
+    },
+    {
+      "word": "släkt",
+      "intensity": "0.719",
+      "emotion": "trust"
+    },
+    {
+      "word": "Hängivenhet",
+      "intensity": "0.711",
+      "emotion": "trust"
+    },
+    {
+      "word": "samarbete",
+      "intensity": "0.711",
+      "emotion": "trust"
+    },
+    {
+      "word": "förtjänst",
+      "intensity": "0.711",
+      "emotion": "trust"
+    },
+    {
+      "word": "konsistens",
+      "intensity": "0.711",
+      "emotion": "trust"
+    },
+    {
+      "word": "samverkande",
+      "intensity": "0.711",
+      "emotion": "trust"
+    },
+    {
+      "word": "enkel",
+      "intensity": "0.711",
+      "emotion": "trust"
+    },
+    {
+      "word": "bestämning",
+      "intensity": "0.711",
+      "emotion": "trust"
+    },
+    {
+      "word": "rättvisa",
+      "intensity": "0.711",
+      "emotion": "trust"
+    },
+    {
+      "word": "pålitlig",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "fristad",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppfostran",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "oskyldig",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "beundra",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "försäkran",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "beredd",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "vänlighet",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "mentor",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppfyllda",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "vördnad",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "bevis",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "beundran",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "mor",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "skyddad",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "moderskap",
+      "intensity": "0.703",
+      "emotion": "trust"
+    },
+    {
+      "word": "moral",
+      "intensity": "0.695",
+      "emotion": "trust"
+    },
+    {
+      "word": "oförstörbar",
+      "intensity": "0.695",
+      "emotion": "trust"
+    },
+    {
+      "word": "livvakt",
+      "intensity": "0.695",
+      "emotion": "trust"
+    },
+    {
+      "word": "angenäm",
+      "intensity": "0.695",
+      "emotion": "trust"
+    },
+    {
+      "word": "forskare",
+      "intensity": "0.695",
+      "emotion": "trust"
+    },
+    {
+      "word": "allierad",
+      "intensity": "0.695",
+      "emotion": "trust"
+    },
+    {
+      "word": "medlidsam",
+      "intensity": "0.695",
+      "emotion": "trust"
+    },
+    {
+      "word": "humanitär",
+      "intensity": "0.695",
+      "emotion": "trust"
+    },
+    {
+      "word": "förenad",
+      "intensity": "0.695",
+      "emotion": "trust"
+    },
+    {
+      "word": "pakt",
+      "intensity": "0.695",
+      "emotion": "trust"
+    },
+    {
+      "word": "auktoriserad",
+      "intensity": "0.695",
+      "emotion": "trust"
+    },
+    {
+      "word": "säkra",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "fulländning",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "vägledning",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "behörig",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "äkthet",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "berättigad",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "mänskligheten",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "hållfasthet",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "lova",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "tros",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "förståelse",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "monogami",
+      "intensity": "0.688",
+      "emotion": "trust"
+    },
+    {
+      "word": "anförtro",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "expertis",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "diplomatisk",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "konfidentiell",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "hoppas",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "enas",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "flit",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "officiell",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "odelbar",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "farfar",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "ödmjuk",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "försvar",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "äldste",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "godhet",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "inspirera",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "professionell",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "förtrogenhet",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "ledare",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "bekräftade",
+      "intensity": "0.680",
+      "emotion": "trust"
+    },
+    {
+      "word": "välvilja",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "värdighet",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "harmoniskt",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "orubblig",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "ackrediterad",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "läkning",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "encyklopedi",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "helga",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "sammanhängande",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "förbund",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "felfri",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "intelligent",
+      "intensity": "0.672",
+      "emotion": "trust"
+    },
+    {
+      "word": "skicklig",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "merit",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "oklanderlig",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "jakande",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "andlig",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "förespråkare",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "team",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "heroisk-",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "kommunicera",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "lärjunge",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "expert-",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "specialist",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "ambassadör",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "acceptera",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "intyg",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "stödjande",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "auktoritet",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "ansvarighet",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "guidebok",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppfyllelse",
+      "intensity": "0.664",
+      "emotion": "trust"
+    },
+    {
+      "word": "garanti",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "bekant",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "fakta",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppnå",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "strukturera",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "ståndaktig",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "gynnsam",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "relation",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "vetenskaplig",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "styrka",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "äldre",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "helighet",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "excellent",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "skicklighet",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "beständighet",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "varas",
+      "intensity": "0.656",
+      "emotion": "trust"
+    },
+    {
+      "word": "kompetens",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "skyddande",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "äktenskap",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "lita",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "hjältemod",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "fredlig",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "förvisso",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "bror",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "framgångsrik",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "helgon",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "ädel",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "inspiration",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "akademisk",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "hjälpa",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "gick med på",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "vidmakthålla",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "kamrat",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "intagande",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "tillrådligt",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "solidaritet",
+      "intensity": "0.648",
+      "emotion": "trust"
+    },
+    {
+      "word": "värdig",
+      "intensity": "0.643",
+      "emotion": "trust"
+    },
+    {
+      "word": "förtroende",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "Hållbarhet",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "existera samtidigt",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "slå fast",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "välgörare",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "ledande",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "kärleksfull",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "lärare",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "dömande",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "samvetsgrann",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "laglig",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "ordinerade",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "mästare",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "enhet",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "Rättslig",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "snäll",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "tilltro",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "verklig",
+      "intensity": "0.641",
+      "emotion": "trust"
+    },
+    {
+      "word": "intim",
+      "intensity": "0.634",
+      "emotion": "trust"
+    },
+    {
+      "word": "trohet",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "mod",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "godkänna",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "läkare",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "hoppfull",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "strävan",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "helgelse",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "hyllning",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "soliditet",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "legitimitet",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "stödja",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "välsigna",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "rättslig",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "Viktig",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "saintly",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "samvete",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "terapeutisk",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "hängiven",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "tränad",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "ryggrad",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "godkänd",
+      "intensity": "0.633",
+      "emotion": "trust"
+    },
+    {
+      "word": "engagerad",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "säker",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppmuntra",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "betrakta",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "ängel",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "välsignelse",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "professur",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "majestätisk",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "kommunikation",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "tillstånd",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "underbar",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "prestation",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "brandman",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "civiliserad",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "djupgående",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "exakt",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "positivitet",
+      "intensity": "0.625",
+      "emotion": "trust"
+    },
+    {
+      "word": "godkännande",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "troende",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "bekräfta",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "Bra",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "absolution",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "berömma",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "vårda",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "grundläggande",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "mål",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "optimism",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "testamente",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "kvaliteter",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "hjältinna",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "ständigt",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "triumfer",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "stillestånd",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "Gud",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "oförvitlig",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppmärksam",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "evangelium",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "berggrund",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "planera",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "rationell",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "passionerad",
+      "intensity": "0.617",
+      "emotion": "trust"
+    },
+    {
+      "word": "beskyddare",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "omtänksam",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "Lycklig",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "barnvakt",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "lysande",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "slutgiltig",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "skriften",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "läka",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "steward",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "medvetenhet",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "officer",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "rening",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "excel",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "civilisation",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "böjelse",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "bekvämlighet",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "prakt",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "notarius publicus",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "progression",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "välsignelser",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "rekommendera",
+      "intensity": "0.609",
+      "emotion": "trust"
+    },
+    {
+      "word": "modig",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "erfaren",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "stadig",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "upplysning",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "ljusna",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppfylla",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "bevittna",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "ödmjukhet",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "sympatisk",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "hjälpsam",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "symmetri",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "fred",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "överskridande",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "inspirerad",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "stöttepelare",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "ovillkorlig",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "bevakad",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "identifiera",
+      "intensity": "0.602",
+      "emotion": "trust"
+    },
+    {
+      "word": "råd",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "bevilja",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "gifta sig",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "bero",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "kostnadsfri",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "make",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "departement",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "ganska",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "filantropiska",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "öppet",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "generös",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "stärka",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "tacksamhet",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "befriend",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "dokumentera",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "berömde",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "amiral",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "regent",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "salvia",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "bedömning",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "upplysa",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "höjd",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "lovord",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "sjuksköterska",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "visionär",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "generositet",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "vaksamhet",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "begåvning",
+      "intensity": "0.594",
+      "emotion": "trust"
+    },
+    {
+      "word": "intyga",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "lugn",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "prestige",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "osviklig",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "vittnesbörd",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "checklista",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "munk",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "gudfruktig",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "rotade",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "konstitutionell",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "bevarande",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "bylaw",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "glad",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "kollektivt",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "förtjänstfull",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "hylla",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "diplomati",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "pedagogisk",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "hushållning",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "dela med sig",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "njuter",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "fasthet",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "övertyga",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "beteckning",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "stam",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "seger",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "magnifik",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "anciennitet",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "änglalik",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "ambition",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "far",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "para",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "nykterhet",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "vörda",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "delegera",
+      "intensity": "0.586",
+      "emotion": "trust"
+    },
+    {
+      "word": "obestridlig",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "navigatör",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "vakthund",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "lyda",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "gladlynthet",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "inbjudande",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "bedöma",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "filantrop",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "gemenskap",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "samexisterande",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "opartiskhet",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "upprätt",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "auktoritativ",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "strukturell",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "övertygad",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "leende",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "kommendant",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "lydig",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "skydd",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "väckelse",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "professor",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "älska",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "legaliserade",
+      "intensity": "0.578",
+      "emotion": "trust"
+    },
+    {
+      "word": "rådgivare",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "försäkra",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "omfamning",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "punktlig",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "komplement",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "bekräftelse",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "obefläckad",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "relativ",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "apostel",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "bind",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "rimlig",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "rådfråga",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "blygsam",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "mätt",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "pilot",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "medarbetare",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "ge råd",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "förordning",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "kompass",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "guide",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "vidhäftning",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "bestämma",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "himmelskt",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "rektor",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "överflöd",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "husmor",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "entydig",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "volontärer",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "stamtavla",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "obestridligen",
+      "intensity": "0.570",
+      "emotion": "trust"
+    },
+    {
+      "word": "härdbar",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "insikt",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "församling",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "erkänna",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "behaglig",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "fort",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "innehåll",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "fläckfri",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "lyfta",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "kompensera",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "älskog",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "jury",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "jurist",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "lugnande",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "prästvigning",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "sammanhållning",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppriktighet",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "stark",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "mirakel",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "applådera",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "pris-",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "apostolisk",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "efterföljande",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "vitalitet",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "skattmästare",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "spara",
+      "intensity": "0.562",
+      "emotion": "trust"
+    },
+    {
+      "word": "barnmorska",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "diskretion",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "dyrkan",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "konstant",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "framsynthet",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "rösta",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "odla",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "opartisk",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "belysning",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "ambulans",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "Integritet",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "lyckas",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "tillhandahålla",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "veteran-",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "tålamod",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "profet",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "intuition",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "försoning",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "försvarare",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "växa samman",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "medla",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "företräde",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "kongruens",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "kompis",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "återförening",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "stärkande",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "destinerad",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "fysiker",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "inflytelserik",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "upphöja",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "storhet",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "integration",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "meditera",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "trolovad",
+      "intensity": "0.555",
+      "emotion": "trust"
+    },
+    {
+      "word": "frihet",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "förstärkning",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "arv",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "stolt",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "förse",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "förlikning",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "släkt-",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "hållbar",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "ogenomtränglig",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "åkallan",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "engagerande",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "påstående",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "glädjas",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "heja på",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "ögonvittne",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "förhärskande",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "värdepapper",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "vänlig",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "frälsning",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "oberoende",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "styra",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "förlåta",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "befallande",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "kloster",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "lag",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "register",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "tempererad",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "beredskap",
+      "intensity": "0.547",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppenbar",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "härlig",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "relevant",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "krönika",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "ensemble",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "inleda",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "arkitektur",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "återhämtning",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "oefterhärmlig",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "mottaglig",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "instruktioner",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "definiera",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "motgift",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "insläpp",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "psalms",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "uthållighet",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "majoritet",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "ympning",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "perfekt",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "lydnad",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "minnesvärd",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "kyskhet",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "proctor",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "förfäder",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "ivrig",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "blivande",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "förstärkningar",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "liktydig",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "upphöjd",
+      "intensity": "0.539",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppriktig",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "ansvarig",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "beroende",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "broderlig",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "sjukhus",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "pensionering",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppbyggelse",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "handling",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "skola",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "vagga",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "transkript",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "ackompanjemang",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "utan tvivel",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "rädda",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "täta",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "ändamålsenlig",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "valsedel",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "befrielse",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "himlarna",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "Centrum",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "analytiker",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "förstfödda",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "blomma",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "oskiljaktig",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "brud",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "vintergröna",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "furstlig",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "immunisering",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "tillflykt",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "i sanning",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "allvetande",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "villkor",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "sponsor",
+      "intensity": "0.531",
+      "emotion": "trust"
+    },
+    {
+      "word": "bifall",
+      "intensity": "0.527",
+      "emotion": "trust"
+    },
+    {
+      "word": "välgörande",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "kraftfull",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "anmärkningsvärd",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "korrekthet",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "elevation",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "granne",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "obruten",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "tolerera",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "kram",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "adel",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "förebild",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "firande",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "gradering",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "samvälde",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "lexikon",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "konto",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "vinnande",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "smekmånad",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "förbättring",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "kaplan",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "ratificera",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "kännare",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "tilldela",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "lärde",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "tillbedjan",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "fängsla",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "befria",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "unimpeached",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "laureat",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "benedictory",
+      "intensity": "0.523",
+      "emotion": "trust"
+    },
+    {
+      "word": "känsla",
+      "intensity": "0.518",
+      "emotion": "trust"
+    },
+    {
+      "word": "evighet",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "fritt",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "amen",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "dagdröm",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "organisation",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "ramverk",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "första advent",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "underrätta",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "utskott",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "sinnad",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "obstetriker",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "förtrollad",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "formande",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "domstol",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "förening",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "avhjälpa",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "kreditera",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "adelsman",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "dominerande",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "mäta",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "fullt",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "förtjänar",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "anbud",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "be",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "bekännelse",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "förvaltning",
+      "intensity": "0.516",
+      "emotion": "trust"
+    },
+    {
+      "word": "volontär-",
+      "intensity": "0.509",
+      "emotion": "trust"
+    },
+    {
+      "word": "väktare",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "instruera",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "oskuld",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "konstapel",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "pris",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "präst",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "politik",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "konfessionell",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "njuta av",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "tolerans",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "oöverträffad",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "ärevördig",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "förlåtande",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "intakt",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "mångfald",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "accolade",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "filosof",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "löjtnant",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "herde",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppvaktning",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "suverän",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "medicinsk",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "hemmafru",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "automatisk",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "beskydd",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "Gör det möjligt",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "tillåtlig",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "försköning",
+      "intensity": "0.508",
+      "emotion": "trust"
+    },
+    {
+      "word": "lära",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "vaksam",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "Älskling",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "hjälpare",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "from",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "synkronisera",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "info",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "påve",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "behålla",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "majestät",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "ofelbarhet",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "guru",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "ursäkt",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "relaterad",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "skatt",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "oändlighet",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "romantisk",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "optimist",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "timing",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "odödlig",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "personlig",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "inkörsport",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "instruktion",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "bricka",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "födelse",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "outplånlig",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "stålman",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "rättfärdigande",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "Levande",
+      "intensity": "0.500",
+      "emotion": "trust"
+    },
+    {
+      "word": "hamn",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "sträva",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "utgör",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "jublande",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "begåva",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "förbättra",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "bidragsgivare",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "formalitet",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "honnör",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "oundviklig",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "växa",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "Kompis",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "popularitet",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "talesman",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "synonym",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "kyrka",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "härdig",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "dass",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "attraktion",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "barnbarn",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "elegans",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "berömmande",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "sheriff",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "strålglans",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "musikalisk",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "ordförande",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "moderator",
+      "intensity": "0.492",
+      "emotion": "trust"
+    },
+    {
+      "word": "harmoni",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "rena",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "kröning",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "domare",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "LOVTAL",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "arbiter",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "djup",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "prognos",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "överste",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "hyra",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "hittades",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "rustning",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "favorit-",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "kupong",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "tillgivenhet",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "väg",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "landsman",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "romantik",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "diagnos",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "njut av",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "ranger",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "bekänna",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "inkomst",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "hopsättning",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "ljuv",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "tycka om",
+      "intensity": "0.484",
+      "emotion": "trust"
+    },
+    {
+      "word": "ära",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "be om ursäkt",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "predikan",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "pastor",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "materia",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "lamm",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "älskare",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "förmodade",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "förvänta",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "rent",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "Följ",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "parlament",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "barnkammare",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "biskops-",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "sanningshalten",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "matematisk",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "frank",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "ord",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "konsul",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "landmärke",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "kalkylator",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "sterling-",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "signatur",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "votiv-",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "övervikt",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "offra",
+      "intensity": "0.477",
+      "emotion": "trust"
+    },
+    {
+      "word": "förmynderskap",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "effektiv",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "klok",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "garantera",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "tärna",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "provision",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "passion",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "föredra",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "rekryterar",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "kassör",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "fördjupa",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "okritisk",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "duva",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "associera",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "flaggskepp",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "religion",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "få",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "instruktör",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "dom",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "titel",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "kunglig",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "författare",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "topp",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "tribun",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "marskalk",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "mäktig",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "avsedd",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "kapacitet",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "kyrkoherde",
+      "intensity": "0.469",
+      "emotion": "trust"
+    },
+    {
+      "word": "försiktig",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "tvinga",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "delta",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "magnetisk",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "medalj",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "kurir",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "skriva in",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "nödvändigtvis",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "lektion",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "vårdnad",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "förtöjningar",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "fästning",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "moster",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "Bank",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "teologisk",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "hantera",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "livsstil",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "medgav",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "avgörande",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "prästadömet",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "skötare",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "patriarkalisk",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "kattunge",
+      "intensity": "0.461",
+      "emotion": "trust"
+    },
+    {
+      "word": "katedral",
+      "intensity": "0.455",
+      "emotion": "trust"
+    },
+    {
+      "word": "Örn",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "valp",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "närvarande",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppfatta",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "förutse",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "guvernör",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "synergistisk",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "alldaglig",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "utbyta",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "gesäll",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "kvinnlig ordförande",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "Encomium",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "strateg",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "gryning",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "upphetsad",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "till sist",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "nivå",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "Diagram",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "oas",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "isolering",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "president",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "vice",
+      "intensity": "0.453",
+      "emotion": "trust"
+    },
+    {
+      "word": "herre",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "ortodoxi",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "herr",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "sats",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "formel",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "drift",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "brudgum",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "logi",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "handbok",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "förläna",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "förstora",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "kansler",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "besättning",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "sensuell",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "vanliga",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "hävda",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "choklad",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "statistisk",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "upphöjelse",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "använda",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "orkester",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "direktör",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "kemist",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "resterna",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "liva upp",
+      "intensity": "0.445",
+      "emotion": "trust"
+    },
+    {
+      "word": "medlare",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "överensstämmelse",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "invigning",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "Sol",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "fantasi",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "comptroller",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "siffra",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "skåp",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "betona",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "sona",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "elit",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "guvernant",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "tandem",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "överlåtelse",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "orakel",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "ekonomi",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "välja",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "bybo",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "öde",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "uttömmande",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "butler",
+      "intensity": "0.438",
+      "emotion": "trust"
+    },
+    {
+      "word": "vakt",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "polis",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "grammatik",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "beskriven",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "övertyga",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "övertala",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "kompakt",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "regel",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "diakon",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "lättpåverkad",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "neutralitet",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "betala",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "brud-",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "rikedom",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "bas",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "ärende",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "seghet",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "aktnings",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "långivare",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "inbjudan",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "cirkel",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "grus",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "klarlägga",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "återbetala",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "Medel",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "filt",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "åkande",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "bequest",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "räkna",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "hagel",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "lekfull",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "förenkla",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "differentiell",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "utopisk",
+      "intensity": "0.430",
+      "emotion": "trust"
+    },
+    {
+      "word": "herravälde",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "revisor",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "fast",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "psalm",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "handel",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "socken",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "sjunga",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "affärer",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "teokratisk",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "butiksinnehavare",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "forum",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "lovprisa",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "dagbok",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "avsikt",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "ödmjuk bön",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "lärling",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "Fortsätta",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "antiseptisk",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "perenn",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "primer",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "enable",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "respit",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "sökande",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "resa",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "redlighet",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "axiom",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "underhåll",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "omprövning",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "behandla",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "truss",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "överlägsenhet",
+      "intensity": "0.422",
+      "emotion": "trust"
+    },
+    {
+      "word": "aktning",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "beröm",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "övertygande",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "tjäna",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "tränare",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "idrottare",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "lutning",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "kör",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "konserveringsmedel",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "kontanter",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "officiell tidning",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "besläktad",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "amortering",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "reporter",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "lön",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "erbjudande",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "hoppa",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "transaktion",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "privilegium",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "umgås",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "försjunken",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "kommendör",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "konglomerat",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "synod",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "arbetskraft",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "Port",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "rutin-",
+      "intensity": "0.414",
+      "emotion": "trust"
+    },
+    {
+      "word": "prisa",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "ersättning",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "lyx",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "träd",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "lagstiftare",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "testamentsexekutor",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "fritid",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "systemet",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "passande",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "trofén",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "nation",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "förhärliga",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "lingvist",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "hudläkare",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "bedöms",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "sanktion",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "patrullera",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "kulram",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "radar",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "budget",
+      "intensity": "0.406",
+      "emotion": "trust"
+    },
+    {
+      "word": "deluxe",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "intensiv",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "förklara",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "herrskap",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "pittoresk",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "parietal",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "byteshandel",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "bedriva",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "spel",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "populär",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "jord",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "depositarie",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "journalistik",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "väljarkår",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "klimax",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "glöd",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "längtan",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "neutral",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "bo",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "klan",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "handelsvaror",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "järn",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "lovtal",
+      "intensity": "0.398",
+      "emotion": "trust"
+    },
+    {
+      "word": "vaktmästare",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "konton",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "häst",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "Gay",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "lovsång",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "chandler",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "stjärna",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "luta sig bakåt",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "förbön",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "eskort",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "kub",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "efterföljare",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "arsenal",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "surrogat",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "bagage",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "fullkomligt",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "eulogistic",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "budbärare",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "flin",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "översättning",
+      "intensity": "0.391",
+      "emotion": "trust"
+    },
+    {
+      "word": "mager",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "märka",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "förmögenhet",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "serier",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "knaprig",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "utegångsförbud",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "lutande",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "större",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "besitter",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "tolk",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "frikostighet",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "bartender",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "gottgörelse",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "kulinariska",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "fakultet",
+      "intensity": "0.383",
+      "emotion": "trust"
+    },
+    {
+      "word": "applåder",
+      "intensity": "0.375",
+      "emotion": "trust"
+    },
+    {
+      "word": "allmän",
+      "intensity": "0.375",
+      "emotion": "trust"
+    },
+    {
+      "word": "sex",
+      "intensity": "0.375",
+      "emotion": "trust"
+    },
+    {
+      "word": "assessor",
+      "intensity": "0.375",
+      "emotion": "trust"
+    },
+    {
+      "word": "förbunds",
+      "intensity": "0.375",
+      "emotion": "trust"
+    },
+    {
+      "word": "skillnader",
+      "intensity": "0.375",
+      "emotion": "trust"
+    },
+    {
+      "word": "bukett",
+      "intensity": "0.375",
+      "emotion": "trust"
+    },
+    {
+      "word": "justera",
+      "intensity": "0.375",
+      "emotion": "trust"
+    },
+    {
+      "word": "omslag",
+      "intensity": "0.375",
+      "emotion": "trust"
+    },
+    {
+      "word": "picknick",
+      "intensity": "0.375",
+      "emotion": "trust"
+    },
+    {
+      "word": "säkerhet",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "förhandla",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "säger",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "trosor",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "garnison",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "dogm",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "mikroskop",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "senat",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "krypa in",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "delfin",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "marin-",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "stipendium",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "kosmopolitisk",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "fogde",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "Söt",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "svälla",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "superstar",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "tron",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "homosexuell",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "manuell",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "magnet",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "periodicitet",
+      "intensity": "0.367",
+      "emotion": "trust"
+    },
+    {
+      "word": "grön",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "eulogium",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "falang",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "pengar",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "mortgagee",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "sportbil",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "sårbar",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "lettered",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "omständigheter",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "bumerang",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "privilegierad",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "promo",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "samtal",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "maxim",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "fender",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "blekna",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "skarp",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "fot",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "dansa",
+      "intensity": "0.359",
+      "emotion": "trust"
+    },
+    {
+      "word": "crescendo",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "bankman",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "rave",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "show",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "opinionsundersökning",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "laser",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "font",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "administrativ",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "tätningar",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "föreslå",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "taktik",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "säkring",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "axiomatisk",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "advokat",
+      "intensity": "0.352",
+      "emotion": "trust"
+    },
+    {
+      "word": "förbehåll",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "klappa",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "dame",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "lekplats",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "underhållning",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "studsa",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "ändlös",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "spinna",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "hållare",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "tjänare",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "spets",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "vit",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "väga",
+      "intensity": "0.344",
+      "emotion": "trust"
+    },
+    {
+      "word": "uppskattning",
+      "intensity": "0.336",
+      "emotion": "trust"
+    },
+    {
+      "word": "cement",
+      "intensity": "0.336",
+      "emotion": "trust"
+    },
+    {
+      "word": "lagstiftande församling",
+      "intensity": "0.336",
+      "emotion": "trust"
+    },
+    {
+      "word": "Carol",
+      "intensity": "0.336",
+      "emotion": "trust"
+    },
+    {
+      "word": "anseende",
+      "intensity": "0.336",
+      "emotion": "trust"
+    },
+    {
+      "word": "lins",
+      "intensity": "0.336",
+      "emotion": "trust"
+    },
+    {
+      "word": "axel",
+      "intensity": "0.336",
+      "emotion": "trust"
+    },
+    {
+      "word": "mat",
+      "intensity": "0.336",
+      "emotion": "trust"
+    },
+    {
+      "word": "grevskap",
+      "intensity": "0.336",
+      "emotion": "trust"
+    },
+    {
+      "word": "opera",
+      "intensity": "0.336",
+      "emotion": "trust"
+    },
+    {
+      "word": "svära",
+      "intensity": "0.328",
+      "emotion": "trust"
+    },
+    {
+      "word": "iver",
+      "intensity": "0.328",
+      "emotion": "trust"
+    },
+    {
+      "word": "företag",
+      "intensity": "0.328",
+      "emotion": "trust"
+    },
+    {
+      "word": "kanoner",
+      "intensity": "0.328",
+      "emotion": "trust"
+    },
+    {
+      "word": "mätning",
+      "intensity": "0.328",
+      "emotion": "trust"
+    },
+    {
+      "word": "teori",
+      "intensity": "0.328",
+      "emotion": "trust"
+    },
+    {
+      "word": "ha på sig",
+      "intensity": "0.328",
+      "emotion": "trust"
+    },
+    {
+      "word": "avrättning",
+      "intensity": "0.328",
+      "emotion": "trust"
+    },
+    {
+      "word": "stav",
+      "intensity": "0.320",
+      "emotion": "trust"
+    },
+    {
+      "word": "trottoar",
+      "intensity": "0.320",
+      "emotion": "trust"
+    },
+    {
+      "word": "keps",
+      "intensity": "0.320",
+      "emotion": "trust"
+    },
+    {
+      "word": "ombud",
+      "intensity": "0.320",
+      "emotion": "trust"
+    },
+    {
+      "word": "glanstid",
+      "intensity": "0.320",
+      "emotion": "trust"
+    },
+    {
+      "word": "inofficiell",
+      "intensity": "0.320",
+      "emotion": "trust"
+    },
+    {
+      "word": "balk",
+      "intensity": "0.320",
+      "emotion": "trust"
+    },
+    {
+      "word": "anordnad",
+      "intensity": "0.320",
+      "emotion": "trust"
+    },
+    {
+      "word": "interiör",
+      "intensity": "0.320",
+      "emotion": "trust"
+    },
+    {
+      "word": "fylla",
+      "intensity": "0.320",
+      "emotion": "trust"
+    },
+    {
+      "word": "prästerlig",
+      "intensity": "0.320",
+      "emotion": "trust"
+    },
+    {
+      "word": "kalvkött",
+      "intensity": "0.312",
+      "emotion": "trust"
+    },
+    {
+      "word": "smed",
+      "intensity": "0.312",
+      "emotion": "trust"
+    },
+    {
+      "word": "piller",
+      "intensity": "0.312",
+      "emotion": "trust"
+    },
+    {
+      "word": "profylaktisk",
+      "intensity": "0.312",
+      "emotion": "trust"
+    },
+    {
+      "word": "spaniel",
+      "intensity": "0.312",
+      "emotion": "trust"
+    },
+    {
+      "word": "spa",
+      "intensity": "0.312",
+      "emotion": "trust"
+    },
+    {
+      "word": "guvernörs-",
+      "intensity": "0.312",
+      "emotion": "trust"
+    },
+    {
+      "word": "hemlighet",
+      "intensity": "0.305",
+      "emotion": "trust"
+    },
+    {
+      "word": "solur",
+      "intensity": "0.305",
+      "emotion": "trust"
+    },
+    {
+      "word": "termometer",
+      "intensity": "0.305",
+      "emotion": "trust"
+    },
+    {
+      "word": "skådespelerska",
+      "intensity": "0.305",
+      "emotion": "trust"
+    },
+    {
+      "word": "antagande",
+      "intensity": "0.305",
+      "emotion": "trust"
+    },
+    {
+      "word": "eremit",
+      "intensity": "0.305",
+      "emotion": "trust"
+    },
+    {
+      "word": "varna",
+      "intensity": "0.305",
+      "emotion": "trust"
+    },
+    {
+      "word": "undantag",
+      "intensity": "0.305",
+      "emotion": "trust"
+    },
+    {
+      "word": "handla",
+      "intensity": "0.297",
+      "emotion": "trust"
+    },
+    {
+      "word": "märg",
+      "intensity": "0.297",
+      "emotion": "trust"
+    },
+    {
+      "word": "motstånd",
+      "intensity": "0.297",
+      "emotion": "trust"
+    },
+    {
+      "word": "stift",
+      "intensity": "0.297",
+      "emotion": "trust"
+    },
+    {
+      "word": "smickra",
+      "intensity": "0.297",
+      "emotion": "trust"
+    },
+    {
+      "word": "kittla",
+      "intensity": "0.297",
+      "emotion": "trust"
+    },
+    {
+      "word": "svänga",
+      "intensity": "0.297",
+      "emotion": "trust"
+    },
+    {
+      "word": "congressman",
+      "intensity": "0.297",
+      "emotion": "trust"
+    },
+    {
+      "word": "levee",
+      "intensity": "0.297",
+      "emotion": "trust"
+    },
+    {
+      "word": "mandarin",
+      "intensity": "0.297",
+      "emotion": "trust"
+    },
+    {
+      "word": "kalv",
+      "intensity": "0.289",
+      "emotion": "trust"
+    },
+    {
+      "word": "krydda",
+      "intensity": "0.289",
+      "emotion": "trust"
+    },
+    {
+      "word": "maskin",
+      "intensity": "0.289",
+      "emotion": "trust"
+    },
+    {
+      "word": "chikan",
+      "intensity": "0.289",
+      "emotion": "trust"
+    },
+    {
+      "word": "SOM SKALL BETALAS",
+      "intensity": "0.289",
+      "emotion": "trust"
+    },
+    {
+      "word": "vikt",
+      "intensity": "0.289",
+      "emotion": "trust"
+    },
+    {
+      "word": "insolvent",
+      "intensity": "0.289",
+      "emotion": "trust"
+    },
+    {
+      "word": "flört",
+      "intensity": "0.281",
+      "emotion": "trust"
+    },
+    {
+      "word": "mula",
+      "intensity": "0.281",
+      "emotion": "trust"
+    },
+    {
+      "word": "överlämna",
+      "intensity": "0.281",
+      "emotion": "trust"
+    },
+    {
+      "word": "fiesta",
+      "intensity": "0.281",
+      "emotion": "trust"
+    },
+    {
+      "word": "godtrogen",
+      "intensity": "0.281",
+      "emotion": "trust"
+    },
+    {
+      "word": "kändis",
+      "intensity": "0.273",
+      "emotion": "trust"
+    },
+    {
+      "word": "knubbig",
+      "intensity": "0.273",
+      "emotion": "trust"
+    },
+    {
+      "word": "ejakulation",
+      "intensity": "0.273",
+      "emotion": "trust"
+    },
+    {
+      "word": "kongress",
+      "intensity": "0.273",
+      "emotion": "trust"
+    },
+    {
+      "word": "indrag",
+      "intensity": "0.273",
+      "emotion": "trust"
+    },
+    {
+      "word": "don",
+      "intensity": "0.273",
+      "emotion": "trust"
+    },
+    {
+      "word": "autism",
+      "intensity": "0.273",
+      "emotion": "trust"
+    },
+    {
+      "word": "erövra",
+      "intensity": "0.273",
+      "emotion": "trust"
+    },
+    {
+      "word": "saftig",
+      "intensity": "0.273",
+      "emotion": "trust"
+    },
+    {
+      "word": "antifungal",
+      "intensity": "0.266",
+      "emotion": "trust"
+    },
+    {
+      "word": "mode",
+      "intensity": "0.266",
+      "emotion": "trust"
+    },
+    {
+      "word": "khan",
+      "intensity": "0.266",
+      "emotion": "trust"
+    },
+    {
+      "word": "svaghet",
+      "intensity": "0.266",
+      "emotion": "trust"
+    },
+    {
+      "word": "lastbil",
+      "intensity": "0.266",
+      "emotion": "trust"
+    },
+    {
+      "word": "puff",
+      "intensity": "0.258",
+      "emotion": "trust"
+    },
+    {
+      "word": "besegras",
+      "intensity": "0.258",
+      "emotion": "trust"
+    },
+    {
+      "word": "akrobat",
+      "intensity": "0.258",
+      "emotion": "trust"
+    },
+    {
+      "word": "våga",
+      "intensity": "0.258",
+      "emotion": "trust"
+    },
+    {
+      "word": "nitisk",
+      "intensity": "0.258",
+      "emotion": "trust"
+    },
+    {
+      "word": "rota",
+      "intensity": "0.250",
+      "emotion": "trust"
+    },
+    {
+      "word": "sorg",
+      "intensity": "0.250",
+      "emotion": "trust"
+    },
+    {
+      "word": "sekretess",
+      "intensity": "0.250",
+      "emotion": "trust"
+    },
+    {
+      "word": "tillverkning",
+      "intensity": "0.250",
+      "emotion": "trust"
+    },
+    {
+      "word": "byråkrati",
+      "intensity": "0.250",
+      "emotion": "trust"
+    },
+    {
+      "word": "avslag",
+      "intensity": "0.242",
+      "emotion": "trust"
+    },
+    {
+      "word": "hinder",
+      "intensity": "0.242",
+      "emotion": "trust"
+    },
+    {
+      "word": "handlare",
+      "intensity": "0.242",
+      "emotion": "trust"
+    },
+    {
+      "word": "fläns",
+      "intensity": "0.242",
+      "emotion": "trust"
+    },
+    {
+      "word": "kil",
+      "intensity": "0.234",
+      "emotion": "trust"
+    },
+    {
+      "word": "wot",
+      "intensity": "0.234",
+      "emotion": "trust"
+    },
+    {
+      "word": "bitterhet",
+      "intensity": "0.234",
+      "emotion": "trust"
+    },
+    {
+      "word": "kritik",
+      "intensity": "0.234",
+      "emotion": "trust"
+    },
+    {
+      "word": "börda",
+      "intensity": "0.234",
+      "emotion": "trust"
+    },
+    {
+      "word": "förödande",
+      "intensity": "0.227",
+      "emotion": "trust"
+    },
+    {
+      "word": "skeptisk",
+      "intensity": "0.227",
+      "emotion": "trust"
+    },
+    {
+      "word": "sparsamhet",
+      "intensity": "0.227",
+      "emotion": "trust"
+    },
+    {
+      "word": "avvisa",
+      "intensity": "0.227",
+      "emotion": "trust"
+    },
+    {
+      "word": "förtal",
+      "intensity": "0.219",
+      "emotion": "trust"
+    },
+    {
+      "word": "skrocka",
+      "intensity": "0.219",
+      "emotion": "trust"
+    },
+    {
+      "word": "avundas",
+      "intensity": "0.219",
+      "emotion": "trust"
+    },
+    {
+      "word": "erotisk",
+      "intensity": "0.219",
+      "emotion": "trust"
+    },
+    {
+      "word": "censurera",
+      "intensity": "0.211",
+      "emotion": "trust"
+    },
+    {
+      "word": "smygande",
+      "intensity": "0.211",
+      "emotion": "trust"
+    },
+    {
+      "word": "nekas",
+      "intensity": "0.211",
+      "emotion": "trust"
+    },
+    {
+      "word": "pantsätta",
+      "intensity": "0.211",
+      "emotion": "trust"
+    },
+    {
+      "word": "vallgrav",
+      "intensity": "0.203",
+      "emotion": "trust"
+    },
+    {
+      "word": "lura",
+      "intensity": "0.203",
+      "emotion": "trust"
+    },
+    {
+      "word": "hopplös",
+      "intensity": "0.203",
+      "emotion": "trust"
+    },
+    {
+      "word": "lirka",
+      "intensity": "0.203",
+      "emotion": "trust"
+    },
+    {
+      "word": "bända",
+      "intensity": "0.195",
+      "emotion": "trust"
+    },
+    {
+      "word": "tvivelaktig",
+      "intensity": "0.195",
+      "emotion": "trust"
+    },
+    {
+      "word": "svartsjuka",
+      "intensity": "0.188",
+      "emotion": "trust"
+    },
+    {
+      "word": "förneka",
+      "intensity": "0.180",
+      "emotion": "trust"
+    },
+    {
+      "word": "vilseleda",
+      "intensity": "0.180",
+      "emotion": "trust"
+    },
+    {
+      "word": "tvivel",
+      "intensity": "0.172",
+      "emotion": "trust"
+    },
+    {
+      "word": "splittra",
+      "intensity": "0.172",
+      "emotion": "trust"
+    },
+    {
+      "word": "krossa",
+      "intensity": "0.172",
+      "emotion": "trust"
+    },
+    {
+      "word": "missbrukare",
+      "intensity": "0.172",
+      "emotion": "trust"
+    },
+    {
+      "word": "opålitliga",
+      "intensity": "0.172",
+      "emotion": "trust"
+    },
+    {
+      "word": "oansvarig",
+      "intensity": "0.172",
+      "emotion": "trust"
+    },
+    {
+      "word": "lögn",
+      "intensity": "0.164",
+      "emotion": "trust"
+    },
+    {
+      "word": "flykting",
+      "intensity": "0.141",
+      "emotion": "trust"
+    },
+    {
+      "word": "äktenskapsskillnad",
+      "intensity": "0.133",
+      "emotion": "trust"
+    },
+    {
+      "word": "bete",
+      "intensity": "0.133",
+      "emotion": "trust"
+    },
+    {
+      "word": "skurk",
+      "intensity": "0.117",
+      "emotion": "trust"
+    }
+  ],
+  "meta": {
+    "title": "Emotionsord – Tillit - Gratis nedladdning",
+    "description": "Svenska ord associerade med tillit, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska). Innehåller 1283 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Emotionsord – Tillit | ListBase",
+    "seo_description": "Ladda ner Emotionsord – Tillit — 1283 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 1283 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

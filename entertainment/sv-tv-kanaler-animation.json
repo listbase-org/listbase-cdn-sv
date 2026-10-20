@@ -1,0 +1,241 @@
+{
+  "id": "sv-tv-kanaler-animation",
+  "name": "Animationskanaler (Animation TV channels)",
+  "title": "Animationskanaler (Animation TV channels)",
+  "description": "Svenska TV-kanaler i kategorin \"animation\" (Animation) — 10 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "Avatar.se",
+      "name": "Avatar",
+      "alt_names": "Nickelodeon Avatar, Avatar+",
+      "network": "Pluto TV",
+      "owners": "Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "kids, animation, series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/avatar-se-plus/details"
+    },
+    {
+      "id": 2,
+      "channel_id": "SouthPark.se",
+      "name": "South Park",
+      "alt_names": "Comedy Central South Park",
+      "network": "Pluto TV",
+      "owners": "Comedy Partners, Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "animation, comedy",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/south-park-se/details"
+    },
+    {
+      "id": 3,
+      "channel_id": "SouthParkArmageddon.se",
+      "name": "South Park Armageddon",
+      "alt_names": "Comedy Central South Park Armageddon",
+      "network": "Pluto TV",
+      "owners": "Comedy Partners, Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "animation, comedy",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/south-park-armageddon-se/details"
+    },
+    {
+      "id": 4,
+      "channel_id": "SouthParkButtersCollection.se",
+      "name": "South Park: Butters Collection",
+      "alt_names": "Comedy Central South Park: Butters Collection",
+      "network": "Pluto TV",
+      "owners": "Comedy Partners, Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "animation, comedy",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/south-park-butters-collection-se/details"
+    },
+    {
+      "id": 5,
+      "channel_id": "SouthParkCartmanCollection.se",
+      "name": "South Park: Cartman Collection",
+      "alt_names": "Comedy Central South Park: Cartman Collection",
+      "network": "Pluto TV",
+      "owners": "Comedy Partners, Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "animation, comedy",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/south-park-cartman-collection-se/details"
+    },
+    {
+      "id": 6,
+      "channel_id": "SouthParkIntotheStars.se",
+      "name": "South Park: Into the Stars",
+      "alt_names": "Comedy Central South Park: Into the Stars",
+      "network": "Pluto TV",
+      "owners": "Comedy Partners, Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "animation, comedy",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/south-park-into-the-stars-se/details"
+    },
+    {
+      "id": 7,
+      "channel_id": "SouthParkKennyCollection.se",
+      "name": "South Park: Kenny Collection",
+      "alt_names": "Comedy Central South Park: Kenny Collection",
+      "network": "Pluto TV",
+      "owners": "Comedy Partners, Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "animation, comedy",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/south-park-kenny-collection-se/details"
+    },
+    {
+      "id": 8,
+      "channel_id": "SouthParkKyleCollection.se",
+      "name": "South Park: Kyle Collection",
+      "alt_names": "Comedy Central South Park: Kyle Collection",
+      "network": "Pluto TV",
+      "owners": "Comedy Partners, Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "animation, comedy",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/south-park-kyle-collection-se/details"
+    },
+    {
+      "id": 9,
+      "channel_id": "SouthParkRockinOut.se",
+      "name": "South Park Rockin' Out",
+      "alt_names": "Comedy Central South Park Rockin' Out",
+      "network": "Pluto TV",
+      "owners": "Comedy Partners, Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "animation, comedy",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/south-park-rockin-out-se/details"
+    },
+    {
+      "id": 10,
+      "channel_id": "SouthParkStanCollection.se",
+      "name": "South Park: Stan Collection",
+      "alt_names": "Comedy Central South Park: Stan Collection",
+      "network": "Pluto TV",
+      "owners": "Comedy Partners, Viacom International Inc., Viaplay Group AB (publ), VIMN Nordic AB, Paramount Skydance Corporation",
+      "country": "SE",
+      "categories": "animation, comedy",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://pluto.tv/live-tv/south-park-stan-collection-se/details"
+    }
+  ],
+  "meta": {
+    "title": "Animationskanaler (Animation TV channels) - Gratis nedladdning",
+    "description": "Svenska TV-kanaler i kategorin \"animation\" (Animation) — 10 kanaler ur det öppna registret iptv-org/database. Innehåller kanalnamn, alternativa namn, nätverk, ägare, kategorier, lanserings- och nedläggningsdatum samt webbplats. Innehåller 10 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Animationskanaler (Animation TV channels) | ListBase",
+    "seo_description": "Ladda ner Animationskanaler (Animation TV channels) — 10 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 10 poster / 13 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

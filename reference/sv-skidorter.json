@@ -1,0 +1,269 @@
+{
+  "id": "sv-skidorter",
+  "name": "Skidorter i Sverige",
+  "title": "Skidorter i Sverige",
+  "description": "Ski resorts in Sweden with coordinates, sourced from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_sv",
+      "label": "Name Sv",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_sv",
+      "label": "Admin Area Sv",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10404626",
+      "name_sv": "Alebacken",
+      "name_en": "",
+      "admin_area_sv": "Ale kommun",
+      "admin_area_en": "Ale Municipality",
+      "latitude": 57.929,
+      "longitude": 12.086,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10404626"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q879508",
+      "name_sv": "Björkliden",
+      "name_en": "Björkliden",
+      "admin_area_sv": "Kiruna kommun",
+      "admin_area_en": "Kiruna Municipality",
+      "latitude": 68.405278,
+      "longitude": 18.685556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q879508"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3368232",
+      "name_sv": "Branäs",
+      "name_en": "Branäs",
+      "admin_area_sv": "Torsby kommun",
+      "admin_area_en": "Torsby Municipality",
+      "latitude": 60.652778,
+      "longitude": 12.947222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3368232"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q60969280",
+      "name_sv": "Byråsen",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 60.671111,
+      "longitude": 13.661083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60969280"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q4992469",
+      "name_sv": "Funäsfjällen",
+      "name_en": "Funäsfjällen",
+      "admin_area_sv": "Härjedalens kommun",
+      "admin_area_en": "Härjedalen Municipality",
+      "latitude": 62.549444,
+      "longitude": 12.551667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4992469"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1548191",
+      "name_sv": "Hallstabacken",
+      "name_en": "Hallstabacken",
+      "admin_area_sv": "Sollefteå kommun",
+      "admin_area_en": "Sollefteå Municipality",
+      "latitude": 63.157861,
+      "longitude": 17.246689,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1548191"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q55031346",
+      "name_sv": "Högfjället",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 61.156667,
+      "longitude": 13.116944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55031346"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q10534105",
+      "name_sv": "Idre Fjäll",
+      "name_en": "Idre Fjäll",
+      "admin_area_sv": "Älvdalens kommun",
+      "admin_area_en": "Älvdalen Municipality",
+      "latitude": 61.889167,
+      "longitude": 12.852778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10534105"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q1943086",
+      "name_sv": "Kittelfjäll",
+      "name_en": "Kittelfjäll",
+      "admin_area_sv": "Lappland",
+      "admin_area_en": "Lapland",
+      "latitude": 65.255193,
+      "longitude": 15.527264,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1943086"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q3815892",
+      "name_sv": "Kläppen",
+      "name_en": "Kläppen",
+      "admin_area_sv": "Malung-Sälens kommun",
+      "admin_area_en": "Malung-Sälen Municipality",
+      "latitude": 61.019283,
+      "longitude": 13.334159,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3815892"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q10649543",
+      "name_sv": "Ramundberget",
+      "name_en": "Ramundberget",
+      "admin_area_sv": "Härjedalens kommun",
+      "admin_area_en": "Härjedalen Municipality",
+      "latitude": 62.701111,
+      "longitude": 12.388333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10649543"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q10670117",
+      "name_sv": "Ski Sunne",
+      "name_en": "",
+      "admin_area_sv": "Sunne kommun",
+      "admin_area_en": "Sunne Municipality",
+      "latitude": 59.802778,
+      "longitude": 13.027778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10670117"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q26253351",
+      "name_sv": "Soliabacken",
+      "name_en": "",
+      "admin_area_sv": "Norsjö kommun",
+      "admin_area_en": "Norsjö Municipality",
+      "latitude": 64.863889,
+      "longitude": 19.461111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26253351"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q61925981",
+      "name_sv": "Storklintens vintersportanläggning",
+      "name_en": "Ski resort Storklinten",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 66.021,
+      "longitude": 21.2483,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61925981"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q640215",
+      "name_sv": "Tandådalen",
+      "name_en": "Tandå valley",
+      "admin_area_sv": "Malung-Sälens kommun",
+      "admin_area_en": "Malung-Sälen Municipality",
+      "latitude": 61.1667,
+      "longitude": 13,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q640215"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q10703774",
+      "name_sv": "Trillevallen",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 63.265833,
+      "longitude": 13.161111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10703774"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q10708794",
+      "name_sv": "Ullådalen",
+      "name_en": "Ullådalen",
+      "admin_area_sv": "Åre kommun",
+      "admin_area_en": "Åre Municipality",
+      "latitude": 63.431667,
+      "longitude": 13.01,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10708794"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q10726608",
+      "name_sv": "Åre",
+      "name_en": "Åre Ski Area",
+      "admin_area_sv": "Åre kommun",
+      "admin_area_en": "Åre Municipality",
+      "latitude": 63.415,
+      "longitude": 13.062,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10726608"
+    }
+  ],
+  "meta": {
+    "title": "Skidorter i Sverige - Gratis nedladdning",
+    "description": "Ski resorts in Sweden with coordinates, sourced from Wikidata. Innehåller 18 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Skidorter i Sverige | ListBase",
+    "seo_description": "Ladda ner Skidorter i Sverige — 18 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 18 poster / 9 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

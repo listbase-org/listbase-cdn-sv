@@ -1,0 +1,115 @@
+{
+  "id": "sv-mattenheter-power",
+  "name": "Måttenheter – kategori 'power' (6)",
+  "title": "Måttenheter – kategori 'power' (6)",
+  "description": "Måttenheter i kategorin 'power' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "power-gigawatt",
+      "kategori": "power",
+      "namn": "gigawatt",
+      "forkortning": "GW",
+      "smal_form": "GW",
+      "monster": "{0} gigawatt"
+    },
+    {
+      "id": 2,
+      "unit_code": "power-horsepower",
+      "kategori": "power",
+      "namn": "hästkrafter",
+      "forkortning": "hästkrafter",
+      "smal_form": "hk",
+      "monster": "{0} hästkrafter"
+    },
+    {
+      "id": 3,
+      "unit_code": "power-kilowatt",
+      "kategori": "power",
+      "namn": "kilowatt",
+      "forkortning": "kW",
+      "smal_form": "kW",
+      "monster": "{0} kilowatt"
+    },
+    {
+      "id": 4,
+      "unit_code": "power-megawatt",
+      "kategori": "power",
+      "namn": "megawatt",
+      "forkortning": "MW",
+      "smal_form": "MW",
+      "monster": "{0} megawatt"
+    },
+    {
+      "id": 5,
+      "unit_code": "power-milliwatt",
+      "kategori": "power",
+      "namn": "milliwatt",
+      "forkortning": "mW",
+      "smal_form": "mW",
+      "monster": "{0} milliwatt"
+    },
+    {
+      "id": 6,
+      "unit_code": "power-watt",
+      "kategori": "power",
+      "namn": "watt",
+      "forkortning": "W",
+      "smal_form": "W",
+      "monster": "{0} watt"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'power' (6) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'power' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 6 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'power' (6) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'power' (6) — 6 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 6 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

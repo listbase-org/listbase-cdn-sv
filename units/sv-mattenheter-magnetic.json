@@ -1,0 +1,79 @@
+{
+  "id": "sv-mattenheter-magnetic",
+  "name": "Måttenheter – kategori 'magnetic' (2)",
+  "title": "Måttenheter – kategori 'magnetic' (2)",
+  "description": "Måttenheter i kategorin 'magnetic' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "magnetic-tesla",
+      "kategori": "magnetic",
+      "namn": "tesla",
+      "forkortning": "T",
+      "smal_form": "T",
+      "monster": "{0} tesla"
+    },
+    {
+      "id": 2,
+      "unit_code": "magnetic-weber",
+      "kategori": "magnetic",
+      "namn": "weber",
+      "forkortning": "Wb",
+      "smal_form": "Wb",
+      "monster": "{0} weber"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'magnetic' (2) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'magnetic' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 2 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'magnetic' (2) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'magnetic' (2) — 2 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 2 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

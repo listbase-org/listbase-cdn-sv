@@ -1,0 +1,7561 @@
+{
+  "id": "sv-emotionsord-fear",
+  "name": "Emotionsord – Rädsla",
+  "title": "Emotionsord – Rädsla",
+  "description": "Svenska ord associerade med rädsla, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1504,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "intensity",
+      "label": "Intensity",
+      "type": "number"
+    },
+    {
+      "key": "emotion",
+      "label": "Emotion",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "tortyr",
+      "intensity": "0.984",
+      "emotion": "fear"
+    },
+    {
+      "word": "terrorist",
+      "intensity": "0.972",
+      "emotion": "fear"
+    },
+    {
+      "word": "fruktansvärda",
+      "intensity": "0.969",
+      "emotion": "fear"
+    },
+    {
+      "word": "terrorism",
+      "intensity": "0.969",
+      "emotion": "fear"
+    },
+    {
+      "word": "terrorister",
+      "intensity": "0.969",
+      "emotion": "fear"
+    },
+    {
+      "word": "döda",
+      "intensity": "0.962",
+      "emotion": "fear"
+    },
+    {
+      "word": "mordisk",
+      "intensity": "0.959",
+      "emotion": "fear"
+    },
+    {
+      "word": "förinta",
+      "intensity": "0.953",
+      "emotion": "fear"
+    },
+    {
+      "word": "skräck",
+      "intensity": "0.953",
+      "emotion": "fear"
+    },
+    {
+      "word": "döende",
+      "intensity": "0.948",
+      "emotion": "fear"
+    },
+    {
+      "word": "krig",
+      "intensity": "0.942",
+      "emotion": "fear"
+    },
+    {
+      "word": "bombning",
+      "intensity": "0.938",
+      "emotion": "fear"
+    },
+    {
+      "word": "bomba",
+      "intensity": "0.935",
+      "emotion": "fear"
+    },
+    {
+      "word": "missiler",
+      "intensity": "0.934",
+      "emotion": "fear"
+    },
+    {
+      "word": "Skräck",
+      "intensity": "0.923",
+      "emotion": "fear"
+    },
+    {
+      "word": "råhet",
+      "intensity": "0.922",
+      "emotion": "fear"
+    },
+    {
+      "word": "blodtörstig",
+      "intensity": "0.922",
+      "emotion": "fear"
+    },
+    {
+      "word": "terrorisera",
+      "intensity": "0.922",
+      "emotion": "fear"
+    },
+    {
+      "word": "förfärade",
+      "intensity": "0.922",
+      "emotion": "fear"
+    },
+    {
+      "word": "massaker",
+      "intensity": "0.911",
+      "emotion": "fear"
+    },
+    {
+      "word": "mörda",
+      "intensity": "0.906",
+      "emotion": "fear"
+    },
+    {
+      "word": "skräckinjagande",
+      "intensity": "0.906",
+      "emotion": "fear"
+    },
+    {
+      "word": "dödsoffer",
+      "intensity": "0.906",
+      "emotion": "fear"
+    },
+    {
+      "word": "stympning",
+      "intensity": "0.906",
+      "emotion": "fear"
+    },
+    {
+      "word": "fasor",
+      "intensity": "0.906",
+      "emotion": "fear"
+    },
+    {
+      "word": "dödande",
+      "intensity": "0.906",
+      "emotion": "fear"
+    },
+    {
+      "word": "livrädd",
+      "intensity": "0.906",
+      "emotion": "fear"
+    },
+    {
+      "word": "suicidal",
+      "intensity": "0.898",
+      "emotion": "fear"
+    },
+    {
+      "word": "kidnappa",
+      "intensity": "0.891",
+      "emotion": "fear"
+    },
+    {
+      "word": "överfall",
+      "intensity": "0.891",
+      "emotion": "fear"
+    },
+    {
+      "word": "crucifixion",
+      "intensity": "0.891",
+      "emotion": "fear"
+    },
+    {
+      "word": "dömd",
+      "intensity": "0.888",
+      "emotion": "fear"
+    },
+    {
+      "word": "förgiftad",
+      "intensity": "0.886",
+      "emotion": "fear"
+    },
+    {
+      "word": "självmord",
+      "intensity": "0.879",
+      "emotion": "fear"
+    },
+    {
+      "word": "explosion",
+      "intensity": "0.879",
+      "emotion": "fear"
+    },
+    {
+      "word": "mördare",
+      "intensity": "0.875",
+      "emotion": "fear"
+    },
+    {
+      "word": "katastrof",
+      "intensity": "0.875",
+      "emotion": "fear"
+    },
+    {
+      "word": "förintelse",
+      "intensity": "0.875",
+      "emotion": "fear"
+    },
+    {
+      "word": "slakt",
+      "intensity": "0.875",
+      "emotion": "fear"
+    },
+    {
+      "word": "stympningen",
+      "intensity": "0.875",
+      "emotion": "fear"
+    },
+    {
+      "word": "katastrofal",
+      "intensity": "0.875",
+      "emotion": "fear"
+    },
+    {
+      "word": "dödligt",
+      "intensity": "0.875",
+      "emotion": "fear"
+    },
+    {
+      "word": "hotfull",
+      "intensity": "0.875",
+      "emotion": "fear"
+    },
+    {
+      "word": "kvävning",
+      "intensity": "0.875",
+      "emotion": "fear"
+    },
+    {
+      "word": "barbari",
+      "intensity": "0.875",
+      "emotion": "fear"
+    },
+    {
+      "word": "våldta",
+      "intensity": "0.870",
+      "emotion": "fear"
+    },
+    {
+      "word": "Helvete",
+      "intensity": "0.860",
+      "emotion": "fear"
+    },
+    {
+      "word": "mjältbrand",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "explosiv",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "krigföring",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "lam",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "ofredande",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "barba",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "demonisk",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "blodsutgjutelse",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "förintas",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "attackera",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "fruktan",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "slakteri",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "tragedi",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "giljotin",
+      "intensity": "0.859",
+      "emotion": "fear"
+    },
+    {
+      "word": "kvävande",
+      "intensity": "0.858",
+      "emotion": "fear"
+    },
+    {
+      "word": "traumatisk",
+      "intensity": "0.844",
+      "emotion": "fear"
+    },
+    {
+      "word": "drunkna",
+      "intensity": "0.844",
+      "emotion": "fear"
+    },
+    {
+      "word": "smärtsam",
+      "intensity": "0.844",
+      "emotion": "fear"
+    },
+    {
+      "word": "skrämd",
+      "intensity": "0.844",
+      "emotion": "fear"
+    },
+    {
+      "word": "baneman",
+      "intensity": "0.844",
+      "emotion": "fear"
+    },
+    {
+      "word": "avrättning",
+      "intensity": "0.844",
+      "emotion": "fear"
+    },
+    {
+      "word": "scariest",
+      "intensity": "0.844",
+      "emotion": "fear"
+    },
+    {
+      "word": "bombardemang",
+      "intensity": "0.844",
+      "emotion": "fear"
+    },
+    {
+      "word": "apokalyps",
+      "intensity": "0.844",
+      "emotion": "fear"
+    },
+    {
+      "word": "förstenad",
+      "intensity": "0.844",
+      "emotion": "fear"
+    },
+    {
+      "word": "död",
+      "intensity": "0.843",
+      "emotion": "fear"
+    },
+    {
+      "word": "ghastly",
+      "intensity": "0.836",
+      "emotion": "fear"
+    },
+    {
+      "word": "ondska",
+      "intensity": "0.833",
+      "emotion": "fear"
+    },
+    {
+      "word": "dråp",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "beväpnade män",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "cancer",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "granat",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "lönnmord",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "mardröm",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "explodera",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "kidnappade",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "helvetisk",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "förlama",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "trauma",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "domedag",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "våldsamt",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "jäkel",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "Brutal",
+      "intensity": "0.828",
+      "emotion": "fear"
+    },
+    {
+      "word": "sjuklighet",
+      "intensity": "0.820",
+      "emotion": "fear"
+    },
+    {
+      "word": "förlamande",
+      "intensity": "0.817",
+      "emotion": "fear"
+    },
+    {
+      "word": "vilde",
+      "intensity": "0.814",
+      "emotion": "fear"
+    },
+    {
+      "word": "krossad",
+      "intensity": "0.812",
+      "emotion": "fear"
+    },
+    {
+      "word": "våld",
+      "intensity": "0.812",
+      "emotion": "fear"
+    },
+    {
+      "word": "förskräcklig",
+      "intensity": "0.812",
+      "emotion": "fear"
+    },
+    {
+      "word": "skytte",
+      "intensity": "0.812",
+      "emotion": "fear"
+    },
+    {
+      "word": "jordbävning",
+      "intensity": "0.812",
+      "emotion": "fear"
+    },
+    {
+      "word": "destruktiv",
+      "intensity": "0.812",
+      "emotion": "fear"
+    },
+    {
+      "word": "skalv",
+      "intensity": "0.812",
+      "emotion": "fear"
+    },
+    {
+      "word": "orkan",
+      "intensity": "0.811",
+      "emotion": "fear"
+    },
+    {
+      "word": "utrota",
+      "intensity": "0.810",
+      "emotion": "fear"
+    },
+    {
+      "word": "dödlig",
+      "intensity": "0.806",
+      "emotion": "fear"
+    },
+    {
+      "word": "gift",
+      "intensity": "0.804",
+      "emotion": "fear"
+    },
+    {
+      "word": "klaustrofobi",
+      "intensity": "0.803",
+      "emotion": "fear"
+    },
+    {
+      "word": "ormar",
+      "intensity": "0.802",
+      "emotion": "fear"
+    },
+    {
+      "word": "exorcism",
+      "intensity": "0.800",
+      "emotion": "fear"
+    },
+    {
+      "word": "utplånas",
+      "intensity": "0.800",
+      "emotion": "fear"
+    },
+    {
+      "word": "rån",
+      "intensity": "0.800",
+      "emotion": "fear"
+    },
+    {
+      "word": "skrämmer",
+      "intensity": "0.798",
+      "emotion": "fear"
+    },
+    {
+      "word": "monster",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "utrotning",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "cyanid",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "grymhet",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "ge sig på",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "dödlighet",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "förstörelse",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "förgifta",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "förföljelse",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "bomb",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "obotlig",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "hysteri",
+      "intensity": "0.797",
+      "emotion": "fear"
+    },
+    {
+      "word": "fruktansvärt",
+      "intensity": "0.796",
+      "emotion": "fear"
+    },
+    {
+      "word": "anlagd brand",
+      "intensity": "0.794",
+      "emotion": "fear"
+    },
+    {
+      "word": "ödelägga",
+      "intensity": "0.792",
+      "emotion": "fear"
+    },
+    {
+      "word": "tyrann",
+      "intensity": "0.788",
+      "emotion": "fear"
+    },
+    {
+      "word": "giftig",
+      "intensity": "0.781",
+      "emotion": "fear"
+    },
+    {
+      "word": "enslaved",
+      "intensity": "0.781",
+      "emotion": "fear"
+    },
+    {
+      "word": "framfart",
+      "intensity": "0.781",
+      "emotion": "fear"
+    },
+    {
+      "word": "skrikande",
+      "intensity": "0.781",
+      "emotion": "fear"
+    },
+    {
+      "word": "krigisk",
+      "intensity": "0.781",
+      "emotion": "fear"
+    },
+    {
+      "word": "livlös",
+      "intensity": "0.781",
+      "emotion": "fear"
+    },
+    {
+      "word": "epidemi",
+      "intensity": "0.776",
+      "emotion": "fear"
+    },
+    {
+      "word": "inkräktare",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "utplåna",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "förlisning",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "kris",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "kriminell",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "invadera",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "upplopp",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "farligt",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "överträdelse",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "inferno",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "spetälska",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "jihad",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "detonera",
+      "intensity": "0.766",
+      "emotion": "fear"
+    },
+    {
+      "word": "klaustrofobisk",
+      "intensity": "0.765",
+      "emotion": "fear"
+    },
+    {
+      "word": "hyperventilerar",
+      "intensity": "0.762",
+      "emotion": "fear"
+    },
+    {
+      "word": "mardrömmar",
+      "intensity": "0.759",
+      "emotion": "fear"
+    },
+    {
+      "word": "spöklik",
+      "intensity": "0.754",
+      "emotion": "fear"
+    },
+    {
+      "word": "fara",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "bårhus",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "rädsla",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "anarki",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "utsvävande",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "projektiler",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "strypa",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "orkaner",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "anarkist",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "rycks loss",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "jagare",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "tyranni",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "ptsd",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "tragedier",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "slaveri",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "förrädisk",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "kolera",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "vånda",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "utplånande",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "anakonda",
+      "intensity": "0.750",
+      "emotion": "fear"
+    },
+    {
+      "word": "malignitet",
+      "intensity": "0.742",
+      "emotion": "fear"
+    },
+    {
+      "word": "kannibal",
+      "intensity": "0.740",
+      "emotion": "fear"
+    },
+    {
+      "word": "bombardera",
+      "intensity": "0.740",
+      "emotion": "fear"
+    },
+    {
+      "word": "avskyvärd",
+      "intensity": "0.738",
+      "emotion": "fear"
+    },
+    {
+      "word": "rädd",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "bombplan",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "pistol",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "skjuta",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "missil",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "krascha",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "fä",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "tyrannisk",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "myteri",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "elände",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "skott",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "depraverad",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "levrat blod",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "hota",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "tornado",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "gisslan",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "närstrid",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "hyperventilera",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "malign",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "diktatur",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "maffia",
+      "intensity": "0.734",
+      "emotion": "fear"
+    },
+    {
+      "word": "alligator",
+      "intensity": "0.727",
+      "emotion": "fear"
+    },
+    {
+      "word": "ruin",
+      "intensity": "0.725",
+      "emotion": "fear"
+    },
+    {
+      "word": "skytten",
+      "intensity": "0.722",
+      "emotion": "fear"
+    },
+    {
+      "word": "smittosam",
+      "intensity": "0.720",
+      "emotion": "fear"
+    },
+    {
+      "word": "kaos",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "bekämpa",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "missfall",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "förödmjukelse",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "kamp",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "chock",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "beslag",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "lyncha",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "svält",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "olidlig",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "fobi",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "desperation",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "förödande",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "nödsituation",
+      "intensity": "0.719",
+      "emotion": "fear"
+    },
+    {
+      "word": "blodbad",
+      "intensity": "0.717",
+      "emotion": "fear"
+    },
+    {
+      "word": "bläddrande",
+      "intensity": "0.717",
+      "emotion": "fear"
+    },
+    {
+      "word": "standoff",
+      "intensity": "0.716",
+      "emotion": "fear"
+    },
+    {
+      "word": "angrepp",
+      "intensity": "0.716",
+      "emotion": "fear"
+    },
+    {
+      "word": "så läskigt",
+      "intensity": "0.712",
+      "emotion": "fear"
+    },
+    {
+      "word": "brista",
+      "intensity": "0.706",
+      "emotion": "fear"
+    },
+    {
+      "word": "utom sig",
+      "intensity": "0.705",
+      "emotion": "fear"
+    },
+    {
+      "word": "angripare",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "fruktade",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "hemsk",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "djävulsk",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "aggressiv",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "jack",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "terminal",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "sabotage",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "hat",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "hysterisk",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "psykos",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "carcinom",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "schizofreni",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "plågsam",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "havere",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "infektiös",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "kollaps",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "byte",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "lavin",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "neurotisk",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "flykting",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "arsenik",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "vendetta",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "omvälvning",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "väpnad",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "krympling",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "kobra",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "freaked",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "begravning",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "rubbad",
+      "intensity": "0.703",
+      "emotion": "fear"
+    },
+    {
+      "word": "med våld",
+      "intensity": "0.700",
+      "emotion": "fear"
+    },
+    {
+      "word": "bortförande",
+      "intensity": "0.700",
+      "emotion": "fear"
+    },
+    {
+      "word": "krokodil",
+      "intensity": "0.700",
+      "emotion": "fear"
+    },
+    {
+      "word": "lagbrytare",
+      "intensity": "0.698",
+      "emotion": "fear"
+    },
+    {
+      "word": "förödelse",
+      "intensity": "0.690",
+      "emotion": "fear"
+    },
+    {
+      "word": "blodig",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "larm",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "bävan",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "bråk",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "förtryck",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "gerilla-",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "hopplös",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "leukemi",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "agorafobi",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "ont",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "paranoid",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "smitta",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "cyklon",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "kul",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "fientlig",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "splitter",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "fanatisk",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "sårbildning",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "bakhåll",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "strålning",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "förvisa",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "anarkism",
+      "intensity": "0.688",
+      "emotion": "fear"
+    },
+    {
+      "word": "galge",
+      "intensity": "0.686",
+      "emotion": "fear"
+    },
+    {
+      "word": "Kista",
+      "intensity": "0.684",
+      "emotion": "fear"
+    },
+    {
+      "word": "galenskap",
+      "intensity": "0.675",
+      "emotion": "fear"
+    },
+    {
+      "word": "förgås",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "offer",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "kadaver",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "raseri",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "bister",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "darr",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "gäng",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "förkrossande",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "illdåd",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "tarantel",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "gangster",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "hugg",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "förfärlig",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "brottsling",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "milis",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "fängelsehåla",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "militanta",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "stridande",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "huggtänder",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "så rädd",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "splittra",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "krossa",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "missbruk",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "hotfulla",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "revolver",
+      "intensity": "0.672",
+      "emotion": "fear"
+    },
+    {
+      "word": "ödslighet",
+      "intensity": "0.667",
+      "emotion": "fear"
+    },
+    {
+      "word": "slagna",
+      "intensity": "0.667",
+      "emotion": "fear"
+    },
+    {
+      "word": "mördande",
+      "intensity": "0.664",
+      "emotion": "fear"
+    },
+    {
+      "word": "pandemi",
+      "intensity": "0.664",
+      "emotion": "fear"
+    },
+    {
+      "word": "vulkan",
+      "intensity": "0.663",
+      "emotion": "fear"
+    },
+    {
+      "word": "larmrapporter",
+      "intensity": "0.660",
+      "emotion": "fear"
+    },
+    {
+      "word": "grymt",
+      "intensity": "0.658",
+      "emotion": "fear"
+    },
+    {
+      "word": "förräderi",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "illvillig",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "utsatt för fara",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "neuros",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "diktator",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "beväpning",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "förrädare",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "skändlig",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "förvirrade",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "sinnessjuk",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "smash",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "radioaktiv",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "grym",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "Spindel",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "översittare",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "snöstorm",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "förtryckande",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "skit",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "tyfon",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "stroke",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "bestraffning",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "tumult",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "främlingshat",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "slagfält",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "skärseld",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "despotisk",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "koma",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "utsvävningar",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "oroväckande",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "fruktans",
+      "intensity": "0.656",
+      "emotion": "fear"
+    },
+    {
+      "word": "projektil",
+      "intensity": "0.654",
+      "emotion": "fear"
+    },
+    {
+      "word": "prygla",
+      "intensity": "0.653",
+      "emotion": "fear"
+    },
+    {
+      "word": "smäll",
+      "intensity": "0.652",
+      "emotion": "fear"
+    },
+    {
+      "word": "lösen",
+      "intensity": "0.644",
+      "emotion": "fear"
+    },
+    {
+      "word": "brottslighet",
+      "intensity": "0.642",
+      "emotion": "fear"
+    },
+    {
+      "word": "förstöra",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "tumör",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "farlig",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "förfölja",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "skälvande",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "dreading",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "häftig",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "tokig",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "rasande",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "förtvivlan",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "straffad",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "försämras",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "konflikt",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "bestört",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "frånfälle",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "löpeld",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "rovfåglar",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "skallerorm",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "isolerat",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "målinriktad",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "trollkarl",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "hängande",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "usel",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "abort",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "banshee",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "demens",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "antikrist",
+      "intensity": "0.641",
+      "emotion": "fear"
+    },
+    {
+      "word": "bestialisk",
+      "intensity": "0.639",
+      "emotion": "fear"
+    },
+    {
+      "word": "orm",
+      "intensity": "0.638",
+      "emotion": "fear"
+    },
+    {
+      "word": "fördömelse",
+      "intensity": "0.637",
+      "emotion": "fear"
+    },
+    {
+      "word": "frätande",
+      "intensity": "0.636",
+      "emotion": "fear"
+    },
+    {
+      "word": "rustningar",
+      "intensity": "0.636",
+      "emotion": "fear"
+    },
+    {
+      "word": "nervositet",
+      "intensity": "0.627",
+      "emotion": "fear"
+    },
+    {
+      "word": "demon",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "hämnd",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "galning",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "skada",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "vampyr",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "upphetsande",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "fängslande",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "sårande",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "pest",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "manisk",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "spindlar",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "upprörande",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "artilleri",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "combative",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "kväljande",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "turbulent",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "dundrande",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "infektion",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "smugglare",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "lunginflammation",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "bedövad",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "wracking",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "ödeläggande",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "härdsmälta",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "vanställd",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "sarkom",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "irreparabel",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "ond",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "legosoldat",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "jordskred",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "virulens",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "omänsklig",
+      "intensity": "0.625",
+      "emotion": "fear"
+    },
+    {
+      "word": "sjuk",
+      "intensity": "0.621",
+      "emotion": "fear"
+    },
+    {
+      "word": "barbar",
+      "intensity": "0.620",
+      "emotion": "fear"
+    },
+    {
+      "word": "kämpat",
+      "intensity": "0.615",
+      "emotion": "fear"
+    },
+    {
+      "word": "lod",
+      "intensity": "0.613",
+      "emotion": "fear"
+    },
+    {
+      "word": "utpressning",
+      "intensity": "0.612",
+      "emotion": "fear"
+    },
+    {
+      "word": "bödel",
+      "intensity": "0.610",
+      "emotion": "fear"
+    },
+    {
+      "word": "förmörkad",
+      "intensity": "0.610",
+      "emotion": "fear"
+    },
+    {
+      "word": "förorenade",
+      "intensity": "0.610",
+      "emotion": "fear"
+    },
+    {
+      "word": "blödning",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "skadade",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "brand",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "malaria",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "råna",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "skoningslös",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "desintegrera",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "barnamord",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "schackel",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "hemlös",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "dolk",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "aggression",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "övergivenhet",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "alienation",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "förhör",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "oöverstiglig",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "glömska",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "gissel",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "stryk",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "förtryckare",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "slaktare",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "vrede",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "despotism",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "lidande person",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "injektion",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "beklaglig",
+      "intensity": "0.609",
+      "emotion": "fear"
+    },
+    {
+      "word": "hot",
+      "intensity": "0.604",
+      "emotion": "fear"
+    },
+    {
+      "word": "räd",
+      "intensity": "0.600",
+      "emotion": "fear"
+    },
+    {
+      "word": "skjutvapen",
+      "intensity": "0.600",
+      "emotion": "fear"
+    },
+    {
+      "word": "nerver",
+      "intensity": "0.600",
+      "emotion": "fear"
+    },
+    {
+      "word": "vräkning",
+      "intensity": "0.596",
+      "emotion": "fear"
+    },
+    {
+      "word": "skurk",
+      "intensity": "0.595",
+      "emotion": "fear"
+    },
+    {
+      "word": "fruktansvärd",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "förbannad",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "ångest",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "sjukdom",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "olycksbådande",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "fiende",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "omen",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "skurkaktig",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "kardiomyopati",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "smärta",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "återhållsam",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "dis",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "bultande",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "masochism",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "beskjutningen",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "skrin",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "blixt-",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "fylld",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "ruttna",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "drake",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "vedermöda",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "otrogen",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "sepsis",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "paranoia",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "dödshjälp",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "hypertrofi",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "svek",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "belligerent",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "torrent",
+      "intensity": "0.594",
+      "emotion": "fear"
+    },
+    {
+      "word": "sårad",
+      "intensity": "0.592",
+      "emotion": "fear"
+    },
+    {
+      "word": "eliminering",
+      "intensity": "0.588",
+      "emotion": "fear"
+    },
+    {
+      "word": "lava",
+      "intensity": "0.588",
+      "emotion": "fear"
+    },
+    {
+      "word": "daska",
+      "intensity": "0.587",
+      "emotion": "fear"
+    },
+    {
+      "word": "dyster",
+      "intensity": "0.584",
+      "emotion": "fear"
+    },
+    {
+      "word": "blockad",
+      "intensity": "0.582",
+      "emotion": "fear"
+    },
+    {
+      "word": "stansa",
+      "intensity": "0.580",
+      "emotion": "fear"
+    },
+    {
+      "word": "fängelse",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "demoraliserade",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "förbjuder",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "skuggig",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "fördrivna",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "kolliderar",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "parasit",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "flyktighet",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "berövande",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "rysning",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "förlust",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "stormande",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "angripa",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "grizzly",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "oroa",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "förhatlig",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "begränsad",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "evakuera",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "karantän",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "Jeopardy",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "fel",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "plågad",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "förbanna",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "avgrund",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "kirurgi",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "vanhelgande",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "åläggande",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "krypa",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "angina",
+      "intensity": "0.578",
+      "emotion": "fear"
+    },
+    {
+      "word": "folkhop",
+      "intensity": "0.577",
+      "emotion": "fear"
+    },
+    {
+      "word": "komatös",
+      "intensity": "0.575",
+      "emotion": "fear"
+    },
+    {
+      "word": "ohelig",
+      "intensity": "0.575",
+      "emotion": "fear"
+    },
+    {
+      "word": "toxin",
+      "intensity": "0.575",
+      "emotion": "fear"
+    },
+    {
+      "word": "plundring",
+      "intensity": "0.574",
+      "emotion": "fear"
+    },
+    {
+      "word": "incest",
+      "intensity": "0.571",
+      "emotion": "fear"
+    },
+    {
+      "word": "sår",
+      "intensity": "0.571",
+      "emotion": "fear"
+    },
+    {
+      "word": "tvingade",
+      "intensity": "0.569",
+      "emotion": "fear"
+    },
+    {
+      "word": "feghet",
+      "intensity": "0.567",
+      "emotion": "fear"
+    },
+    {
+      "word": "krypta",
+      "intensity": "0.566",
+      "emotion": "fear"
+    },
+    {
+      "word": "häxa",
+      "intensity": "0.565",
+      "emotion": "fear"
+    },
+    {
+      "word": "smuggla",
+      "intensity": "0.565",
+      "emotion": "fear"
+    },
+    {
+      "word": "skrämmande",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "panik",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "plåga",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "olycka",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "gripa",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "martyrium",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "martyr",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "turbulens",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "risk",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "polio",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "ulcus",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "bekymmer",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "maktlös",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "dominera över",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "korrumperande",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "ömmande",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "försämring",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "duell",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "förvisat",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "synkope",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "grav",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "försvann",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "rena",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "jägare",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "vålla",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "masker",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "mara",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "uppoffringar",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "freak",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "anklagelse",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "krut",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "nedbrytande",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "fälla",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "rättegång",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "riskabel",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "travesti",
+      "intensity": "0.562",
+      "emotion": "fear"
+    },
+    {
+      "word": "förövare",
+      "intensity": "0.560",
+      "emotion": "fear"
+    },
+    {
+      "word": "skrämsel",
+      "intensity": "0.559",
+      "emotion": "fear"
+    },
+    {
+      "word": "ockult",
+      "intensity": "0.559",
+      "emotion": "fear"
+    },
+    {
+      "word": "inaktivera",
+      "intensity": "0.558",
+      "emotion": "fear"
+    },
+    {
+      "word": "lidande",
+      "intensity": "0.557",
+      "emotion": "fear"
+    },
+    {
+      "word": "förfall",
+      "intensity": "0.557",
+      "emotion": "fear"
+    },
+    {
+      "word": "obduktion",
+      "intensity": "0.557",
+      "emotion": "fear"
+    },
+    {
+      "word": "sårbarhet",
+      "intensity": "0.548",
+      "emotion": "fear"
+    },
+    {
+      "word": "sjuklig",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "äventyra",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "huggorm",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "utbrott",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "tvång",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "uteslutning",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "vansinne",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "deformitet",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "försvarslös",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "appendicit",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "siren",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "brigad",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "skandal",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "nålar",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "skorpion",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "kanon",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "störta",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "kommunism",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "fiendskap",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "översvämning",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "akta sig",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "träldom",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "asyl",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "doppa",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "uppenbarelse",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "tjuv",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "morrande",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "avvikelse",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "samuraj",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "gonorrhea",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "neuralgi",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "senil",
+      "intensity": "0.547",
+      "emotion": "fear"
+    },
+    {
+      "word": "vedergällning",
+      "intensity": "0.545",
+      "emotion": "fear"
+    },
+    {
+      "word": "kyrkogård",
+      "intensity": "0.541",
+      "emotion": "fear"
+    },
+    {
+      "word": "dålighet",
+      "intensity": "0.539",
+      "emotion": "fear"
+    },
+    {
+      "word": "Spöke",
+      "intensity": "0.538",
+      "emotion": "fear"
+    },
+    {
+      "word": "fled",
+      "intensity": "0.534",
+      "emotion": "fear"
+    },
+    {
+      "word": "övergiven",
+      "intensity": "0.534",
+      "emotion": "fear"
+    },
+    {
+      "word": "avslag",
+      "intensity": "0.533",
+      "emotion": "fear"
+    },
+    {
+      "word": "feg",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "bakterie",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "straffa",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "uppror",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "stöld",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "hopplöshet",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "begravd",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "eek",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "underkuvande",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "wrangling",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "stjälk",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "hjälplös",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "betonade",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "folktom",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "manifestation",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "överge",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "slav",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "flippa ur",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "blodiglar",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "manipulation",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "impotens",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "bruten",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "ateroskleros",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "laglöshet",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "hakkors",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "captor",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "genomslag",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "endokardit",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "köttätande",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "disembodied",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "vidskeplig",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "stormig",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "skakning",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "instabil",
+      "intensity": "0.531",
+      "emotion": "fear"
+    },
+    {
+      "word": "blod",
+      "intensity": "0.525",
+      "emotion": "fear"
+    },
+    {
+      "word": "gömmer",
+      "intensity": "0.524",
+      "emotion": "fear"
+    },
+    {
+      "word": "Björn",
+      "intensity": "0.524",
+      "emotion": "fear"
+    },
+    {
+      "word": "galen",
+      "intensity": "0.519",
+      "emotion": "fear"
+    },
+    {
+      "word": "kult",
+      "intensity": "0.518",
+      "emotion": "fear"
+    },
+    {
+      "word": "angelägen",
+      "intensity": "0.518",
+      "emotion": "fear"
+    },
+    {
+      "word": "fången",
+      "intensity": "0.517",
+      "emotion": "fear"
+    },
+    {
+      "word": "Deportation",
+      "intensity": "0.517",
+      "emotion": "fear"
+    },
+    {
+      "word": "förlamning",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "skrika",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "trolldom",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "rånare",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "förebud",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "jagade",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "intolerans",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "morra",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "sting",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "plundra",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "otänkbar",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "slå",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "misstänka",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "förstärka",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "emboli",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "hjälplöshet",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "hårdhet",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "förtrycka",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "exil",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "återfall",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "biopsi",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "utmärglad",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "hetsa",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "besvärlig",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "busted",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "mörker",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "svår situation",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "förvärrande",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "konspiratör",
+      "intensity": "0.516",
+      "emotion": "fear"
+    },
+    {
+      "word": "depression",
+      "intensity": "0.508",
+      "emotion": "fear"
+    },
+    {
+      "word": "förlossning",
+      "intensity": "0.507",
+      "emotion": "fear"
+    },
+    {
+      "word": "undergång",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "förstörd",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "djurisk",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "motbjudande",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "undertryckande",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "frenetisk",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "misstro",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "alkoholism",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "tornar",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "klick",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "instabilitet",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "förbjuden",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "dämpa",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "infarkt",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "snowmageddon",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "jakt",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "geting",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "klippa",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "kinkig",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "yra",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "uppsåtlig",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "intolerant",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "omstörta",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "skalpell",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "vertigo",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "madden",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "begränsning",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "trots",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "be för mig",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "överlämna",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "syndig",
+      "intensity": "0.500",
+      "emotion": "fear"
+    },
+    {
+      "word": "ve",
+      "intensity": "0.491",
+      "emotion": "fear"
+    },
+    {
+      "word": "intrång",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "darrning",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "skärande",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "mened",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "värre",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "spruta",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "ärekränkning",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "krigare",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "restriktion",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "oförsvarlig",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "hjärtklappning",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "hämma",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "surra",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "lejon",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "ravin",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "knäckt",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "osäkerhet",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "råtta",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "Å nej",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "djävul",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "hallucination",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "tjuvjakt",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "vanära",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "anklagar",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "ambulans",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "äktenskapsskillnad",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "glupande",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "slödder",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "slam",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "sjukhus",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "endemisk",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "fördomsfull",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "svärta",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "rustning",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "oroande",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "åtal",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "hata",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "underlig",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "likvagn",
+      "intensity": "0.484",
+      "emotion": "fear"
+    },
+    {
+      "word": "inspektion",
+      "intensity": "0.483",
+      "emotion": "fear"
+    },
+    {
+      "word": "syndare",
+      "intensity": "0.483",
+      "emotion": "fear"
+    },
+    {
+      "word": "obenägna",
+      "intensity": "0.483",
+      "emotion": "fear"
+    },
+    {
+      "word": "saknas",
+      "intensity": "0.474",
+      "emotion": "fear"
+    },
+    {
+      "word": "förtvivlad",
+      "intensity": "0.474",
+      "emotion": "fear"
+    },
+    {
+      "word": "mörkna",
+      "intensity": "0.471",
+      "emotion": "fear"
+    },
+    {
+      "word": "stram",
+      "intensity": "0.470",
+      "emotion": "fear"
+    },
+    {
+      "word": "skrämma",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "våldsam",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "åtala",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "fånge",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "fientlighet",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "tröska",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "nervös",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "band",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "feber",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "olaglighet",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "den anklagade",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "klandra",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "skrapie",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "käftar",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "deprimerad",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "armerad",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "verkningarna",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "stup",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "regimen",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "bryta ner",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "koger",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "förmaning",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "utestänga",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "återkalla",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "vidskepelse",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "överväldigad",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "omstörtning",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "avgudadyrkan",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "asteroid",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "tandvärk",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "sönderfall",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "sjunkande",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "påträngande",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "själlös",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "otrohet",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "ohälsosam",
+      "intensity": "0.469",
+      "emotion": "fear"
+    },
+    {
+      "word": "spjut",
+      "intensity": "0.468",
+      "emotion": "fear"
+    },
+    {
+      "word": "otäck",
+      "intensity": "0.466",
+      "emotion": "fear"
+    },
+    {
+      "word": "puma",
+      "intensity": "0.465",
+      "emotion": "fear"
+    },
+    {
+      "word": "trettonde",
+      "intensity": "0.465",
+      "emotion": "fear"
+    },
+    {
+      "word": "smuggel",
+      "intensity": "0.464",
+      "emotion": "fear"
+    },
+    {
+      "word": "störning",
+      "intensity": "0.459",
+      "emotion": "fear"
+    },
+    {
+      "word": "stigma",
+      "intensity": "0.455",
+      "emotion": "fear"
+    },
+    {
+      "word": "utblottad",
+      "intensity": "0.455",
+      "emotion": "fear"
+    },
+    {
+      "word": "kraftigt",
+      "intensity": "0.454",
+      "emotion": "fear"
+    },
+    {
+      "word": "olaglig",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "straff",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "nedsättande",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "spasm",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "dinosaurie",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "Låsa in",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "hålla tillbaka",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "gevär",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "vanhedrande",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "varna",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "dilemma",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "stränghet",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "främling",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "famla",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "skälla",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "föräldralös",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "avgå",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "hydrocefalus",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "gäll",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "outsäglig",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "jämra sig",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "sund",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "indoktrinering",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "uppfattning",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "smet",
+      "intensity": "0.453",
+      "emotion": "fear"
+    },
+    {
+      "word": "arraignment",
+      "intensity": "0.450",
+      "emotion": "fear"
+    },
+    {
+      "word": "brådskande",
+      "intensity": "0.450",
+      "emotion": "fear"
+    },
+    {
+      "word": "luffare",
+      "intensity": "0.440",
+      "emotion": "fear"
+    },
+    {
+      "word": "påfrestning",
+      "intensity": "0.439",
+      "emotion": "fear"
+    },
+    {
+      "word": "behemoth",
+      "intensity": "0.439",
+      "emotion": "fear"
+    },
+    {
+      "word": "hotande",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "skrik",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "rygga tillbaka",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "dominera",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "targeting",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "pank",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "debacle",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "förverkande",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "dislocated",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "svaghet",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "ogenomsläpplig",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "predika",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "förskjuten",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "dold",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "illegitim",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "oförberedd",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "muskotblomma",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "utvisa",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "hindra",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "avskalade",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "oförenlig",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "okuvlig",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "reumatism",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "tillfällig",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "sticka",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "intrasslad",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "atrofi",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "asp",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "pervers",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "kabal",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "kippar",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "villkorlig dom",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "åklagare",
+      "intensity": "0.438",
+      "emotion": "fear"
+    },
+    {
+      "word": "kränkande",
+      "intensity": "0.435",
+      "emotion": "fear"
+    },
+    {
+      "word": "mystisk",
+      "intensity": "0.435",
+      "emotion": "fear"
+    },
+    {
+      "word": "halting",
+      "intensity": "0.435",
+      "emotion": "fear"
+    },
+    {
+      "word": "rebeller",
+      "intensity": "0.435",
+      "emotion": "fear"
+    },
+    {
+      "word": "repulsion",
+      "intensity": "0.431",
+      "emotion": "fear"
+    },
+    {
+      "word": "lysa skarpt",
+      "intensity": "0.430",
+      "emotion": "fear"
+    },
+    {
+      "word": "straff-",
+      "intensity": "0.425",
+      "emotion": "fear"
+    },
+    {
+      "word": "smutsig",
+      "intensity": "0.425",
+      "emotion": "fear"
+    },
+    {
+      "word": "insats",
+      "intensity": "0.423",
+      "emotion": "fear"
+    },
+    {
+      "word": "storm",
+      "intensity": "0.423",
+      "emotion": "fear"
+    },
+    {
+      "word": "skadlig",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "troll",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "stjäla",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "ultimatum",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "förtegen",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "bajonett",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "suspension",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "beklaga",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "betungande",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "dunkande",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "prärievarg",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "dissident",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "vattkoppor",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "vildmark",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "villfarelse",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "trångsynt",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "ostadig",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "påkänningar",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "anfall",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "hedning",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "stryka omkring",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "ökänd",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "försvinna",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "sänka",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "onaturlig",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "usurped",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "förbannelse",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "svimning",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "utomjording",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "utomrättsliga",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "hydra",
+      "intensity": "0.422",
+      "emotion": "fear"
+    },
+    {
+      "word": "motgång",
+      "intensity": "0.418",
+      "emotion": "fear"
+    },
+    {
+      "word": "inkompetens",
+      "intensity": "0.417",
+      "emotion": "fear"
+    },
+    {
+      "word": "utomstående",
+      "intensity": "0.413",
+      "emotion": "fear"
+    },
+    {
+      "word": "fulhet",
+      "intensity": "0.410",
+      "emotion": "fear"
+    },
+    {
+      "word": "gam",
+      "intensity": "0.410",
+      "emotion": "fear"
+    },
+    {
+      "word": "omoralisk",
+      "intensity": "0.410",
+      "emotion": "fear"
+    },
+    {
+      "word": "avsky",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "fly",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "uppsägning",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "tjut",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "ärr",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "stressig",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "betonar",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "deportera",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "illamående",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "resektion",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "mörkläggning",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "otillåtna",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "insolvent",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "allmakt",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "besittning",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "tårfylld",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "oordning",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "skråla",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "dominerande",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "Inaktiverad",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "drönare",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "övermod",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "bedrövad",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "klo",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "bår",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "bot",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "svagt",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "spillror",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "gnälla",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "getto",
+      "intensity": "0.406",
+      "emotion": "fear"
+    },
+    {
+      "word": "socialism",
+      "intensity": "0.405",
+      "emotion": "fear"
+    },
+    {
+      "word": "konspiration",
+      "intensity": "0.400",
+      "emotion": "fear"
+    },
+    {
+      "word": "seghet",
+      "intensity": "0.400",
+      "emotion": "fear"
+    },
+    {
+      "word": "avhopp",
+      "intensity": "0.398",
+      "emotion": "fear"
+    },
+    {
+      "word": "frånvaro",
+      "intensity": "0.396",
+      "emotion": "fear"
+    },
+    {
+      "word": "stöna",
+      "intensity": "0.394",
+      "emotion": "fear"
+    },
+    {
+      "word": "korståg",
+      "intensity": "0.392",
+      "emotion": "fear"
+    },
+    {
+      "word": "radon",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "förlora",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "tvivelaktig",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "arbetslös",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "avvisa",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "excitation",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "Xanax",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "kvävas",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "scarecrow",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "döljande",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "erövra",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "diskriminering",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "diagnos",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "snara",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "separation",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "Öppen",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "brådskande karaktär",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "musköt",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "oro",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "härkomst",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "undviker",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "cysta",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "klunk",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "procedur",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "underkastelse",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "härdad",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "vederläggning",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "frånstötande",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "klyva",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "misstanke",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "fattigdom",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "insolvens",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "mental",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "teokratisk",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "spaz",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "svavel",
+      "intensity": "0.391",
+      "emotion": "fear"
+    },
+    {
+      "word": "bulta",
+      "intensity": "0.388",
+      "emotion": "fear"
+    },
+    {
+      "word": "utstött",
+      "intensity": "0.388",
+      "emotion": "fear"
+    },
+    {
+      "word": "orc",
+      "intensity": "0.388",
+      "emotion": "fear"
+    },
+    {
+      "word": "ogilla",
+      "intensity": "0.380",
+      "emotion": "fear"
+    },
+    {
+      "word": "dontpanic",
+      "intensity": "0.378",
+      "emotion": "fear"
+    },
+    {
+      "word": "grunden",
+      "intensity": "0.377",
+      "emotion": "fear"
+    },
+    {
+      "word": "uttag",
+      "intensity": "0.377",
+      "emotion": "fear"
+    },
+    {
+      "word": "smygande",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "äcklig",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "tryck",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "sörja",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "fregatt",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "fotogen",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "khan",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "översikt",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "ocd",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "förlägenhet",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "bankrutt",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "upplösning",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "tandvård",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "påbud",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "bunkra",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "antsy",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "klyfta",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "rymde",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "bubbelpool",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "förhöra",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "psykologisk",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "gäldenären",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "missuppfattning",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "militär-",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "misstänkt",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "gräshoppa",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "dålig",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "kyla",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "håna",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "obi",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "influensa",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "barrikad",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "chimär",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "sultan",
+      "intensity": "0.375",
+      "emotion": "fear"
+    },
+    {
+      "word": "repellerande",
+      "intensity": "0.373",
+      "emotion": "fear"
+    },
+    {
+      "word": "okänd",
+      "intensity": "0.369",
+      "emotion": "fear"
+    },
+    {
+      "word": "svartsjuka",
+      "intensity": "0.365",
+      "emotion": "fear"
+    },
+    {
+      "word": "svår",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "bestörtning",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "mugg",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "rebell",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "erövring",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "sorgsen",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "bekymrad",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "mandamus",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "på kanten",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "återkommande",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "gulsot",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "sekteristisk",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "öken-",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "byracka",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "snålhet",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "pil",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "spika",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "skygg",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "slöseri",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "bottenlös",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "varnade",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "protestant",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "förakt",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "examen",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "avskrivning",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "anomali",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "avvisar",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "pessimism",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "rotation",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "formidabel",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "burke",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "varnande",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "huvudvärk",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "konkurs",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "regering",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "mässling",
+      "intensity": "0.359",
+      "emotion": "fear"
+    },
+    {
+      "word": "begränsa",
+      "intensity": "0.358",
+      "emotion": "fear"
+    },
+    {
+      "word": "smäktande",
+      "intensity": "0.358",
+      "emotion": "fear"
+    },
+    {
+      "word": "anklaga",
+      "intensity": "0.354",
+      "emotion": "fear"
+    },
+    {
+      "word": "ogynnsam",
+      "intensity": "0.352",
+      "emotion": "fear"
+    },
+    {
+      "word": "förtal",
+      "intensity": "0.348",
+      "emotion": "fear"
+    },
+    {
+      "word": "nedskärning",
+      "intensity": "0.345",
+      "emotion": "fear"
+    },
+    {
+      "word": "nära förestående",
+      "intensity": "0.345",
+      "emotion": "fear"
+    },
+    {
+      "word": "skadedjur",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "hänsynslös",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "undvikande",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "brist",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "oberättigad",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "Stöten",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "omtvistad",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "motsatt",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "skam",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "resistent",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "disciplin",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "trotsa",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "förringa",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "fanatism",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "baisse",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "opium",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "sorg",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "mri",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "skakig",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "väsa",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "ensamhet",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "vika av",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "tabu",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "hinder",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "kuttrar",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "aaaaaaah",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "dom",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "servil",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "tvekan",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "undgå",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "lågkonjunktur",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "ål",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "fräs",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "psych",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "fallskärm",
+      "intensity": "0.344",
+      "emotion": "fear"
+    },
+    {
+      "word": "respektlös",
+      "intensity": "0.343",
+      "emotion": "fear"
+    },
+    {
+      "word": "falang",
+      "intensity": "0.342",
+      "emotion": "fear"
+    },
+    {
+      "word": "varelse",
+      "intensity": "0.340",
+      "emotion": "fear"
+    },
+    {
+      "word": "spöke",
+      "intensity": "0.331",
+      "emotion": "fear"
+    },
+    {
+      "word": "inteckning",
+      "intensity": "0.331",
+      "emotion": "fear"
+    },
+    {
+      "word": "gåtfull",
+      "intensity": "0.329",
+      "emotion": "fear"
+    },
+    {
+      "word": "herravälde",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "skaft",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "oönskad",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "stänga av",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "dike",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "underlydande",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "speltid",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "avlägsna",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "smut",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "missöde",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "vävstol",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "överlägsenhet",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "olycklig",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "krossa",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "nässelfeber",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "mes",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "gladiator",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "känsla",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "belastning",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "på drift",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "svarande",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "utpost",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "meningslös",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "felaktigt",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "bugaboo",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "weirdo",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "eterisk",
+      "intensity": "0.328",
+      "emotion": "fear"
+    },
+    {
+      "word": "orolig",
+      "intensity": "0.327",
+      "emotion": "fear"
+    },
+    {
+      "word": "knapp",
+      "intensity": "0.327",
+      "emotion": "fear"
+    },
+    {
+      "word": "asocial",
+      "intensity": "0.324",
+      "emotion": "fear"
+    },
+    {
+      "word": "vilse",
+      "intensity": "0.320",
+      "emotion": "fear"
+    },
+    {
+      "word": "vaksam",
+      "intensity": "0.319",
+      "emotion": "fear"
+    },
+    {
+      "word": "socialistisk",
+      "intensity": "0.318",
+      "emotion": "fear"
+    },
+    {
+      "word": "grimma",
+      "intensity": "0.318",
+      "emotion": "fear"
+    },
+    {
+      "word": "pessimist",
+      "intensity": "0.317",
+      "emotion": "fear"
+    },
+    {
+      "word": "pacing",
+      "intensity": "0.316",
+      "emotion": "fear"
+    },
+    {
+      "word": "besatt",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "fördärv",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "avbrott",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "tandläkare",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "motståndare",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "konspirera",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "knep",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "avskildhet",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "virvelvind",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "oväntat",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "plugga",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "maskopi",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "munkorg",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "utlänning",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "avgift",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "laxativ",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "klinisk",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "terapeut",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "deadline",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "processa",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "nedre",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "taggig",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "valium",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "kraftfull",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "illa till mods",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "krigsmateriel",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "wimpy",
+      "intensity": "0.312",
+      "emotion": "fear"
+    },
+    {
+      "word": "overthinking",
+      "intensity": "0.309",
+      "emotion": "fear"
+    },
+    {
+      "word": "allvar",
+      "intensity": "0.305",
+      "emotion": "fear"
+    },
+    {
+      "word": "irrationell",
+      "intensity": "0.305",
+      "emotion": "fear"
+    },
+    {
+      "word": "radera",
+      "intensity": "0.303",
+      "emotion": "fear"
+    },
+    {
+      "word": "kitslig",
+      "intensity": "0.303",
+      "emotion": "fear"
+    },
+    {
+      "word": "rakapparat",
+      "intensity": "0.303",
+      "emotion": "fear"
+    },
+    {
+      "word": "varning",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "motvillig",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "magiker",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "hukande",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "ändlös",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "döma",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "bal",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "inflation",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "jätte",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "revisor",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "medicinsk",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "träsk",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "tik",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "vilseleda",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "tung",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "undvika",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "skrivs",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "flundra",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "deflation",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "oöverträffad",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "streckad",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "Dölj",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "skygghet",
+      "intensity": "0.297",
+      "emotion": "fear"
+    },
+    {
+      "word": "syndaflod",
+      "intensity": "0.287",
+      "emotion": "fear"
+    },
+    {
+      "word": "desinformation",
+      "intensity": "0.286",
+      "emotion": "fear"
+    },
+    {
+      "word": "domstol",
+      "intensity": "0.284",
+      "emotion": "fear"
+    },
+    {
+      "word": "motvilja",
+      "intensity": "0.283",
+      "emotion": "fear"
+    },
+    {
+      "word": "försiktig",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "förvirring",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "ovänlig",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "resterna",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "avskräcka",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "mötande",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "flygande",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "felaktig",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "svullnad",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "dvärgväxta",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "övervakning",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "apache",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "rusa",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "gläfsa",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "patron",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "fästning",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "bigott",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "inte redo",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "utmaning",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "att skicka in",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "ostyrig",
+      "intensity": "0.281",
+      "emotion": "fear"
+    },
+    {
+      "word": "intensiv",
+      "intensity": "0.279",
+      "emotion": "fear"
+    },
+    {
+      "word": "noncompliance",
+      "intensity": "0.276",
+      "emotion": "fear"
+    },
+    {
+      "word": "varningar",
+      "intensity": "0.276",
+      "emotion": "fear"
+    },
+    {
+      "word": "plan",
+      "intensity": "0.274",
+      "emotion": "fear"
+    },
+    {
+      "word": "missnöjd",
+      "intensity": "0.273",
+      "emotion": "fear"
+    },
+    {
+      "word": "ohämmad",
+      "intensity": "0.271",
+      "emotion": "fear"
+    },
+    {
+      "word": "regemente",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "folkmassor",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "mening",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "ögonbindel",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "huka",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "bälte",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "huvor",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "kuslig",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "koppning",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "dölja",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "skorv",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "skymf",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "bekännelse",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "fläck",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "posse",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "auditions",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "glömt",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "fördjupa",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "drift",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "elevation",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "shanghai",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "huva",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "problem",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "glid",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "sömnlöshet",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "akrobat",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "kastbyar",
+      "intensity": "0.266",
+      "emotion": "fear"
+    },
+    {
+      "word": "sporre",
+      "intensity": "0.262",
+      "emotion": "fear"
+    },
+    {
+      "word": "försvar",
+      "intensity": "0.258",
+      "emotion": "fear"
+    },
+    {
+      "word": "mortgagor",
+      "intensity": "0.258",
+      "emotion": "fear"
+    },
+    {
+      "word": "tvinga",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "förvirrad",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "vakt",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "tvivel",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "smyg",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "springa",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "skojare",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "stå still",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "grå starr",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "ångra",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "obekant",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "hagga",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "försvara",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "syndabock",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "sumpig",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "reagera",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "Breaking",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "ojust spel",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "ogift kvinna",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "likgiltighet",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "sjunkit",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "postering",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "förvarnade",
+      "intensity": "0.250",
+      "emotion": "fear"
+    },
+    {
+      "word": "grundad",
+      "intensity": "0.242",
+      "emotion": "fear"
+    },
+    {
+      "word": "högsta",
+      "intensity": "0.236",
+      "emotion": "fear"
+    },
+    {
+      "word": "olikhet",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "återuppväcka",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "krympa",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "scaffold",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "missnöje",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "randen",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "psykiater",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "overdrive",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "medla",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "drev",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "slutfört",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "skyddsrum",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "sömnlös",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "beroende",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "kyckling",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "instinktiv",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "surr",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "svårighet",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "bi",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "sömnlös person",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "bock",
+      "intensity": "0.234",
+      "emotion": "fear"
+    },
+    {
+      "word": "rusar",
+      "intensity": "0.233",
+      "emotion": "fear"
+    },
+    {
+      "word": "försovit",
+      "intensity": "0.226",
+      "emotion": "fear"
+    },
+    {
+      "word": "standard",
+      "intensity": "0.226",
+      "emotion": "fear"
+    },
+    {
+      "word": "konfessionell",
+      "intensity": "0.225",
+      "emotion": "fear"
+    },
+    {
+      "word": "otålig",
+      "intensity": "0.224",
+      "emotion": "fear"
+    },
+    {
+      "word": "spänning",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "vackla",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "svettas",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "invandrare",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "heft",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "snål",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "sockerrör",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "Tänk om",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "taktik",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "svänga",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "olika",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "sista minuten",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "djungel",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "bete",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "avslöjanden",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "blues",
+      "intensity": "0.219",
+      "emotion": "fear"
+    },
+    {
+      "word": "uttröttade",
+      "intensity": "0.218",
+      "emotion": "fear"
+    },
+    {
+      "word": "prognos",
+      "intensity": "0.217",
+      "emotion": "fear"
+    },
+    {
+      "word": "vakenhet",
+      "intensity": "0.216",
+      "emotion": "fear"
+    },
+    {
+      "word": "hyped",
+      "intensity": "0.214",
+      "emotion": "fear"
+    },
+    {
+      "word": "önska mig lycka till",
+      "intensity": "0.212",
+      "emotion": "fear"
+    },
+    {
+      "word": "uttagningen",
+      "intensity": "0.210",
+      "emotion": "fear"
+    },
+    {
+      "word": "clowner",
+      "intensity": "0.207",
+      "emotion": "fear"
+    },
+    {
+      "word": "fluktuation",
+      "intensity": "0.204",
+      "emotion": "fear"
+    },
+    {
+      "word": "rastlös",
+      "intensity": "0.204",
+      "emotion": "fear"
+    },
+    {
+      "word": "undersökning",
+      "intensity": "0.204",
+      "emotion": "fear"
+    },
+    {
+      "word": "intimitet",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "YEY",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "vaktel",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "skynda",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "uppför",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "mäktig",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "födelse",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "korsa",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "hjälp",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "betagen",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "urtag",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "accepter",
+      "intensity": "0.203",
+      "emotion": "fear"
+    },
+    {
+      "word": "orädd",
+      "intensity": "0.200",
+      "emotion": "fear"
+    },
+    {
+      "word": "gods",
+      "intensity": "0.198",
+      "emotion": "fear"
+    },
+    {
+      "word": "Byta",
+      "intensity": "0.198",
+      "emotion": "fear"
+    },
+    {
+      "word": "motstå",
+      "intensity": "0.197",
+      "emotion": "fear"
+    },
+    {
+      "word": "så fort som möjligt",
+      "intensity": "0.191",
+      "emotion": "fear"
+    },
+    {
+      "word": "advokat",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "insekt",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "SOM SKALL BETALAS",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "gnome",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "försiktigt",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "tarmkanalen",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "deadlines",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "öka",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "knop",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "ömtålig",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "regel",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "förskott",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "intrig",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "övervinna",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "stillhet",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "Kolla på",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "oorganiserad",
+      "intensity": "0.188",
+      "emotion": "fear"
+    },
+    {
+      "word": "älva",
+      "intensity": "0.185",
+      "emotion": "fear"
+    },
+    {
+      "word": "ensam",
+      "intensity": "0.183",
+      "emotion": "fear"
+    },
+    {
+      "word": "hal",
+      "intensity": "0.181",
+      "emotion": "fear"
+    },
+    {
+      "word": "intervju",
+      "intensity": "0.180",
+      "emotion": "fear"
+    },
+    {
+      "word": "varje man",
+      "intensity": "0.178",
+      "emotion": "fear"
+    },
+    {
+      "word": "spekulation",
+      "intensity": "0.176",
+      "emotion": "fear"
+    },
+    {
+      "word": "behöver veta",
+      "intensity": "0.173",
+      "emotion": "fear"
+    },
+    {
+      "word": "osäker",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "bedömning",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "konkurrens",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "huvudman",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "stav",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "kontrollstation",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "föreskrivande",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "dyrkan",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "skal",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "readytogo",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "björk",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "överraskning",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "agnar",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "lugn",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "intervjuare",
+      "intensity": "0.172",
+      "emotion": "fear"
+    },
+    {
+      "word": "mindre",
+      "intensity": "0.167",
+      "emotion": "fear"
+    },
+    {
+      "word": "coy",
+      "intensity": "0.162",
+      "emotion": "fear"
+    },
+    {
+      "word": "iris",
+      "intensity": "0.160",
+      "emotion": "fear"
+    },
+    {
+      "word": "audition",
+      "intensity": "0.156",
+      "emotion": "fear"
+    },
+    {
+      "word": "slug",
+      "intensity": "0.156",
+      "emotion": "fear"
+    },
+    {
+      "word": "legaliserade",
+      "intensity": "0.156",
+      "emotion": "fear"
+    },
+    {
+      "word": "intimt",
+      "intensity": "0.156",
+      "emotion": "fear"
+    },
+    {
+      "word": "nedräkning",
+      "intensity": "0.156",
+      "emotion": "fear"
+    },
+    {
+      "word": "hörsel",
+      "intensity": "0.156",
+      "emotion": "fear"
+    },
+    {
+      "word": "baser",
+      "intensity": "0.156",
+      "emotion": "fear"
+    },
+    {
+      "word": "medicin",
+      "intensity": "0.156",
+      "emotion": "fear"
+    },
+    {
+      "word": "eldupphör",
+      "intensity": "0.156",
+      "emotion": "fear"
+    },
+    {
+      "word": "pensionering",
+      "intensity": "0.156",
+      "emotion": "fear"
+    },
+    {
+      "word": "modig",
+      "intensity": "0.154",
+      "emotion": "fear"
+    },
+    {
+      "word": "overthinker",
+      "intensity": "0.153",
+      "emotion": "fear"
+    },
+    {
+      "word": "backtrack",
+      "intensity": "0.151",
+      "emotion": "fear"
+    },
+    {
+      "word": "grydde",
+      "intensity": "0.150",
+      "emotion": "fear"
+    },
+    {
+      "word": "censurera",
+      "intensity": "0.149",
+      "emotion": "fear"
+    },
+    {
+      "word": "fogde",
+      "intensity": "0.147",
+      "emotion": "fear"
+    },
+    {
+      "word": "kursplan",
+      "intensity": "0.147",
+      "emotion": "fear"
+    },
+    {
+      "word": "gent",
+      "intensity": "0.141",
+      "emotion": "fear"
+    },
+    {
+      "word": "karikatyr",
+      "intensity": "0.141",
+      "emotion": "fear"
+    },
+    {
+      "word": "rationalitet",
+      "intensity": "0.141",
+      "emotion": "fear"
+    },
+    {
+      "word": "cove",
+      "intensity": "0.141",
+      "emotion": "fear"
+    },
+    {
+      "word": "nykomling",
+      "intensity": "0.141",
+      "emotion": "fear"
+    },
+    {
+      "word": "eventualitet",
+      "intensity": "0.141",
+      "emotion": "fear"
+    },
+    {
+      "word": "fantasi",
+      "intensity": "0.141",
+      "emotion": "fear"
+    },
+    {
+      "word": "giltighet",
+      "intensity": "0.141",
+      "emotion": "fear"
+    },
+    {
+      "word": "väntar",
+      "intensity": "0.141",
+      "emotion": "fear"
+    },
+    {
+      "word": "dröjsmål",
+      "intensity": "0.141",
+      "emotion": "fear"
+    },
+    {
+      "word": "blyg",
+      "intensity": "0.140",
+      "emotion": "fear"
+    },
+    {
+      "word": "alreadyyyyy",
+      "intensity": "0.140",
+      "emotion": "fear"
+    },
+    {
+      "word": "symptom",
+      "intensity": "0.133",
+      "emotion": "fear"
+    },
+    {
+      "word": "excitera",
+      "intensity": "0.132",
+      "emotion": "fear"
+    },
+    {
+      "word": "tvättbjörn",
+      "intensity": "0.127",
+      "emotion": "fear"
+    },
+    {
+      "word": "förhindra",
+      "intensity": "0.125",
+      "emotion": "fear"
+    },
+    {
+      "word": "clown",
+      "intensity": "0.125",
+      "emotion": "fear"
+    },
+    {
+      "word": "ahhh",
+      "intensity": "0.125",
+      "emotion": "fear"
+    },
+    {
+      "word": "Hök",
+      "intensity": "0.125",
+      "emotion": "fear"
+    },
+    {
+      "word": "kampanjer",
+      "intensity": "0.125",
+      "emotion": "fear"
+    },
+    {
+      "word": "soready",
+      "intensity": "0.125",
+      "emotion": "fear"
+    },
+    {
+      "word": "Prova",
+      "intensity": "0.125",
+      "emotion": "fear"
+    },
+    {
+      "word": "gifta sig",
+      "intensity": "0.125",
+      "emotion": "fear"
+    },
+    {
+      "word": "sprite",
+      "intensity": "0.125",
+      "emotion": "fear"
+    },
+    {
+      "word": "simma",
+      "intensity": "0.125",
+      "emotion": "fear"
+    },
+    {
+      "word": "spel dag",
+      "intensity": "0.125",
+      "emotion": "fear"
+    },
+    {
+      "word": "svikta",
+      "intensity": "0.123",
+      "emotion": "fear"
+    },
+    {
+      "word": "apotek",
+      "intensity": "0.123",
+      "emotion": "fear"
+    },
+    {
+      "word": "polis",
+      "intensity": "0.121",
+      "emotion": "fear"
+    },
+    {
+      "word": "spets",
+      "intensity": "0.111",
+      "emotion": "fear"
+    },
+    {
+      "word": "drömde",
+      "intensity": "0.111",
+      "emotion": "fear"
+    },
+    {
+      "word": "helighet",
+      "intensity": "0.109",
+      "emotion": "fear"
+    },
+    {
+      "word": "be",
+      "intensity": "0.109",
+      "emotion": "fear"
+    },
+    {
+      "word": "vikt",
+      "intensity": "0.109",
+      "emotion": "fear"
+    },
+    {
+      "word": "om",
+      "intensity": "0.109",
+      "emotion": "fear"
+    },
+    {
+      "word": "Knut",
+      "intensity": "0.109",
+      "emotion": "fear"
+    },
+    {
+      "word": "förtroende",
+      "intensity": "0.109",
+      "emotion": "fear"
+    },
+    {
+      "word": "ökändhet",
+      "intensity": "0.109",
+      "emotion": "fear"
+    },
+    {
+      "word": "läxa",
+      "intensity": "0.109",
+      "emotion": "fear"
+    },
+    {
+      "word": "destination",
+      "intensity": "0.109",
+      "emotion": "fear"
+    },
+    {
+      "word": "stor dag",
+      "intensity": "0.109",
+      "emotion": "fear"
+    },
+    {
+      "word": "smal",
+      "intensity": "0.100",
+      "emotion": "fear"
+    },
+    {
+      "word": "obeslutsam",
+      "intensity": "0.098",
+      "emotion": "fear"
+    },
+    {
+      "word": "sympatisk",
+      "intensity": "0.097",
+      "emotion": "fear"
+    },
+    {
+      "word": "betyg",
+      "intensity": "0.094",
+      "emotion": "fear"
+    },
+    {
+      "word": "Gud",
+      "intensity": "0.094",
+      "emotion": "fear"
+    },
+    {
+      "word": "lojala",
+      "intensity": "0.094",
+      "emotion": "fear"
+    },
+    {
+      "word": "balans",
+      "intensity": "0.094",
+      "emotion": "fear"
+    },
+    {
+      "word": "behandla",
+      "intensity": "0.094",
+      "emotion": "fear"
+    },
+    {
+      "word": "självsäker",
+      "intensity": "0.094",
+      "emotion": "fear"
+    },
+    {
+      "word": "rådgivare",
+      "intensity": "0.094",
+      "emotion": "fear"
+    },
+    {
+      "word": "hjälm",
+      "intensity": "0.094",
+      "emotion": "fear"
+    },
+    {
+      "word": "fall",
+      "intensity": "0.094",
+      "emotion": "fear"
+    },
+    {
+      "word": "lokalisera",
+      "intensity": "0.094",
+      "emotion": "fear"
+    },
+    {
+      "word": "nordost",
+      "intensity": "0.088",
+      "emotion": "fear"
+    },
+    {
+      "word": "medlidande",
+      "intensity": "0.078",
+      "emotion": "fear"
+    },
+    {
+      "word": "uppfostran",
+      "intensity": "0.078",
+      "emotion": "fear"
+    },
+    {
+      "word": "gradering",
+      "intensity": "0.078",
+      "emotion": "fear"
+    },
+    {
+      "word": "graderade",
+      "intensity": "0.075",
+      "emotion": "fear"
+    },
+    {
+      "word": "mamma",
+      "intensity": "0.070",
+      "emotion": "fear"
+    },
+    {
+      "word": "spädbarn",
+      "intensity": "0.067",
+      "emotion": "fear"
+    },
+    {
+      "word": "civila",
+      "intensity": "0.062",
+      "emotion": "fear"
+    },
+    {
+      "word": "själsfrände",
+      "intensity": "0.062",
+      "emotion": "fear"
+    },
+    {
+      "word": "civil",
+      "intensity": "0.062",
+      "emotion": "fear"
+    },
+    {
+      "word": "grumlighet",
+      "intensity": "0.062",
+      "emotion": "fear"
+    },
+    {
+      "word": "parad",
+      "intensity": "0.062",
+      "emotion": "fear"
+    },
+    {
+      "word": "kontanter",
+      "intensity": "0.062",
+      "emotion": "fear"
+    },
+    {
+      "word": "resa",
+      "intensity": "0.062",
+      "emotion": "fear"
+    },
+    {
+      "word": "riktlinjer",
+      "intensity": "0.062",
+      "emotion": "fear"
+    },
+    {
+      "word": "ungdom",
+      "intensity": "0.062",
+      "emotion": "fear"
+    },
+    {
+      "word": "opera",
+      "intensity": "0.057",
+      "emotion": "fear"
+    },
+    {
+      "word": "synonym",
+      "intensity": "0.056",
+      "emotion": "fear"
+    },
+    {
+      "word": "bön-",
+      "intensity": "0.047",
+      "emotion": "fear"
+    },
+    {
+      "word": "ärlig",
+      "intensity": "0.047",
+      "emotion": "fear"
+    },
+    {
+      "word": "intelligens",
+      "intensity": "0.038",
+      "emotion": "fear"
+    },
+    {
+      "word": "romantik",
+      "intensity": "0.031",
+      "emotion": "fear"
+    },
+    {
+      "word": "rader",
+      "intensity": "0.031",
+      "emotion": "fear"
+    },
+    {
+      "word": "volontär-",
+      "intensity": "0.031",
+      "emotion": "fear"
+    },
+    {
+      "word": "lyda",
+      "intensity": "0.016",
+      "emotion": "fear"
+    }
+  ],
+  "meta": {
+    "title": "Emotionsord – Rädsla - Gratis nedladdning",
+    "description": "Svenska ord associerade med rädsla, med intensitetsvärde 0–1 (NRC Emotion Intensity Lexicon, översatt till svenska). Innehåller 1504 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Emotionsord – Rädsla | ListBase",
+    "seo_description": "Ladda ner Emotionsord – Rädsla — 1504 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 1504 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

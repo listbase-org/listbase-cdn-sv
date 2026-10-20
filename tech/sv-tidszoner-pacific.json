@@ -1,0 +1,152 @@
+{
+  "id": "sv-tidszoner-pacific",
+  "name": "Tidszoner – Pacific (12)",
+  "title": "Tidszoner – Pacific (12)",
+  "description": "Tidszoner vars IANA-identifierare börjar med 'Pacific/', med namn på svenska.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stad",
+      "label": "Stad",
+      "type": "string"
+    },
+    {
+      "key": "standardnamn",
+      "label": "Standardnamn",
+      "type": "string"
+    },
+    {
+      "key": "sommarnamn",
+      "label": "Sommarnamn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Pacific/Easter",
+      "region": "Pacific",
+      "stad": "Påskön",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Pacific/Enderbury",
+      "region": "Pacific",
+      "stad": "Kantonatollen",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Pacific/Galapagos",
+      "region": "Pacific",
+      "stad": "Galápagos",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Pacific/Gambier",
+      "region": "Pacific",
+      "stad": "Gambieröarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Pacific/Honolulu",
+      "region": "Pacific",
+      "stad": "Honolulu",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Pacific/Marquesas",
+      "region": "Pacific",
+      "stad": "Marquesasöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Pacific/Midway",
+      "region": "Pacific",
+      "stad": "Midwayöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Pacific/Noumea",
+      "region": "Pacific",
+      "stad": "Nouméa",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Pacific/Pitcairn",
+      "region": "Pacific",
+      "stad": "Pitcairnöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Pacific/Ponape",
+      "region": "Pacific",
+      "stad": "Pohnpei",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Pacific/Truk",
+      "region": "Pacific",
+      "stad": "Chuuk",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Pacific/Wallis",
+      "region": "Pacific",
+      "stad": "Wallisön",
+      "standardnamn": "",
+      "sommarnamn": ""
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner – Pacific (12) - Gratis nedladdning",
+    "description": "Tidszoner vars IANA-identifierare börjar med 'Pacific/', med namn på svenska. Innehåller 12 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner – Pacific (12) | ListBase",
+    "seo_description": "Ladda ner Tidszoner – Pacific (12) — 12 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 12 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

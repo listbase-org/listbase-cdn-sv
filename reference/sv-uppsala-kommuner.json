@@ -1,0 +1,133 @@
+{
+  "id": "sv-uppsala-kommuner",
+  "name": "Kommuner i Uppsala län",
+  "title": "Kommuner i Uppsala län",
+  "description": "8 kommuner i Uppsala län (länskod 03, ISO SE-C , residensstad Uppsala). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "0305",
+      "name": "Håbo kommun",
+      "name_short": "Håbo",
+      "slug": "habo",
+      "locality": "BÅLSTA",
+      "url": "http://www.habo.se",
+      "num_postnummer": 351
+    },
+    {
+      "kommunkod": "0319",
+      "name": "Älvkarleby kommun",
+      "name_short": "Älvkarleby",
+      "slug": "alvkarleby",
+      "locality": "SKUTSKÄR",
+      "url": "http://www.alvkarleby.se",
+      "num_postnummer": 52
+    },
+    {
+      "kommunkod": "0330",
+      "name": "Knivsta kommun",
+      "name_short": "Knivsta",
+      "slug": "knivsta",
+      "locality": "KNIVSTA",
+      "url": "http://www.knivsta.se",
+      "num_postnummer": 372
+    },
+    {
+      "kommunkod": "0331",
+      "name": "Heby kommun",
+      "name_short": "Heby",
+      "slug": "heby",
+      "locality": "HEBY",
+      "url": "http://www.heby.se",
+      "num_postnummer": 107
+    },
+    {
+      "kommunkod": "0360",
+      "name": "Tierps kommun",
+      "name_short": "Tierp",
+      "slug": "tierp",
+      "locality": "TIERP",
+      "url": "http://www.tierp.se",
+      "num_postnummer": 118
+    },
+    {
+      "kommunkod": "0380",
+      "name": "Uppsala kommun",
+      "name_short": "Uppsala",
+      "slug": "uppsala",
+      "locality": "UPPSALA",
+      "url": "http://www.uppsala.se",
+      "num_postnummer": 422
+    },
+    {
+      "kommunkod": "0381",
+      "name": "Enköpings kommun",
+      "name_short": "Enköping",
+      "slug": "enkoping",
+      "locality": "ENKÖPING",
+      "url": "http://www.enkoping.se",
+      "num_postnummer": 662
+    },
+    {
+      "kommunkod": "0382",
+      "name": "Östhammars kommun",
+      "name_short": "Östhammar",
+      "slug": "osthammar",
+      "locality": "ÖSTHAMMAR",
+      "url": "http://www.osthammar.se",
+      "num_postnummer": 83
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Uppsala län - Gratis nedladdning",
+    "description": "8 kommuner i Uppsala län (länskod 03, ISO SE-C , residensstad Uppsala). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 8 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Uppsala län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Uppsala län — 8 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 8 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

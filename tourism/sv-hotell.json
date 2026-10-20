@@ -1,0 +1,8331 @@
+{
+  "id": "sv-hotell",
+  "name": "Hotell (Hotels)",
+  "title": "Hotell (Hotels)",
+  "description": "Hotell i Sverige — OpenStreetMap-punktdata (OSM-tagg: tourism=hotel). Swedish hotels as named point locations with WGS84 coordinates. 1658 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1658,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "&hotel",
+      "latitude": 59.336291,
+      "longitude": 18.063954
+    },
+    {
+      "name": "27ans Nattlogi",
+      "latitude": 58.448641,
+      "longitude": 14.892244
+    },
+    {
+      "name": "2Home Hotel Gävle",
+      "latitude": 60.678148,
+      "longitude": 17.145689
+    },
+    {
+      "name": "2Home Hotel Solna",
+      "latitude": 59.363491,
+      "longitude": 17.979178
+    },
+    {
+      "name": "2home Stockholm South",
+      "latitude": 59.290775,
+      "longitude": 18.023604
+    },
+    {
+      "name": "32 rum & kök",
+      "latitude": 59.614125,
+      "longitude": 17.713126
+    },
+    {
+      "name": "Abisko Mountain Lodge",
+      "latitude": 68.346761,
+      "longitude": 18.832433
+    },
+    {
+      "name": "AC Hotel Stockholm Ulriksdal",
+      "latitude": 59.381016,
+      "longitude": 18.001133
+    },
+    {
+      "name": "Ad Astra by Elite",
+      "latitude": 59.202052,
+      "longitude": 17.623716
+    },
+    {
+      "name": "Adels hotell",
+      "latitude": 57.261398,
+      "longitude": 16.460951
+    },
+    {
+      "name": "AGO Mitt i Åre",
+      "latitude": 63.401293,
+      "longitude": 13.076948
+    },
+    {
+      "name": "Aiden",
+      "latitude": 59.359701,
+      "longitude": 17.982694
+    },
+    {
+      "name": "Aiden by Best Western Stockholm Arlanda Airport",
+      "latitude": 59.611728,
+      "longitude": 17.888441
+    },
+    {
+      "name": "Aiden by Best Western Stockholm City",
+      "latitude": 59.336074,
+      "longitude": 18.028662
+    },
+    {
+      "name": "Aiden Hotel",
+      "latitude": 59.401563,
+      "longitude": 17.95129
+    },
+    {
+      "name": "Akademihotellet",
+      "latitude": 59.856383,
+      "longitude": 17.630651
+    },
+    {
+      "name": "Akalla Apartments Hotell",
+      "latitude": 59.41759,
+      "longitude": 17.918734
+    },
+    {
+      "name": "Alberga herrgård",
+      "latitude": 56.036679,
+      "longitude": 12.779234
+    },
+    {
+      "name": "Albert Hotel",
+      "latitude": 58.285385,
+      "longitude": 12.279291
+    },
+    {
+      "name": "Albrins Hotell",
+      "latitude": 59.619142,
+      "longitude": 16.554183
+    },
+    {
+      "name": "Alebo Pensionat",
+      "latitude": 56.945358,
+      "longitude": 13.52288
+    },
+    {
+      "name": "Alfta Gästis",
+      "latitude": 61.347382,
+      "longitude": 16.068461
+    },
+    {
+      "name": "Allegården Kastlösa",
+      "latitude": 56.459247,
+      "longitude": 16.428516
+    },
+    {
+      "name": "Almåsa Havshotell",
+      "latitude": 59.051328,
+      "longitude": 18.086801
+    },
+    {
+      "name": "Alphus",
+      "latitude": 61.721925,
+      "longitude": 16.160512
+    },
+    {
+      "name": "Alsterbro minihotell",
+      "latitude": 56.942206,
+      "longitude": 15.913494
+    },
+    {
+      "name": "Amalias Hus",
+      "latitude": 58.018741,
+      "longitude": 14.463008
+    },
+    {
+      "name": "Amaranten",
+      "latitude": 59.331335,
+      "longitude": 18.045191
+    },
+    {
+      "name": "Ammarnäsgården",
+      "latitude": 65.957286,
+      "longitude": 16.205777
+    },
+    {
+      "name": "Ammeråns Fiskecamp AB Camping Hammarstrand Ammer",
+      "latitude": 63.161636,
+      "longitude": 16.215227
+    },
+    {
+      "name": "and hotel",
+      "latitude": 58.40901,
+      "longitude": 15.613011
+    },
+    {
+      "name": "Anderslövs gästgivargård",
+      "latitude": 55.438345,
+      "longitude": 13.318758
+    },
+    {
+      "name": "Anglais",
+      "latitude": 59.33706,
+      "longitude": 18.072838
+    },
+    {
+      "name": "Annas Hotell",
+      "latitude": 56.050751,
+      "longitude": 14.155628
+    },
+    {
+      "name": "Annes Hus",
+      "latitude": 57.687377,
+      "longitude": 11.989155
+    },
+    {
+      "name": "Annexet City Hotel",
+      "latitude": 59.30904,
+      "longitude": 14.107947
+    },
+    {
+      "name": "Anno 1647",
+      "latitude": 59.319243,
+      "longitude": 18.071514
+    },
+    {
+      "name": "ApartDirect",
+      "latitude": 58.417541,
+      "longitude": 15.65096
+    },
+    {
+      "name": "ApartDirect",
+      "latitude": 59.36313,
+      "longitude": 17.967916
+    },
+    {
+      "name": "ApartDirect Linköping Vasastaden",
+      "latitude": 58.418577,
+      "longitude": 15.612704
+    },
+    {
+      "name": "Apartments by Ligula",
+      "latitude": 59.30298,
+      "longitude": 18.088296
+    },
+    {
+      "name": "Apelsäter",
+      "latitude": 58.814461,
+      "longitude": 11.284319
+    },
+    {
+      "name": "Apertins Hotell",
+      "latitude": 59.517583,
+      "longitude": 13.369505
+    },
+    {
+      "name": "Apple Hotel",
+      "latitude": 57.724943,
+      "longitude": 12.033287
+    },
+    {
+      "name": "Arboga Stadshotell",
+      "latitude": 59.394186,
+      "longitude": 15.837302
+    },
+    {
+      "name": "Arcadia",
+      "latitude": 59.348611,
+      "longitude": 18.064141
+    },
+    {
+      "name": "Arctic Bath",
+      "latitude": 66.088691,
+      "longitude": 20.937017
+    },
+    {
+      "name": "Arctic Eden",
+      "latitude": 67.860367,
+      "longitude": 20.223899
+    },
+    {
+      "name": "Arctic Lodge",
+      "latitude": 68.425297,
+      "longitude": 18.161048
+    },
+    {
+      "name": "Arctic Star Hotel Karesuando",
+      "latitude": 68.4372,
+      "longitude": 22.501545
+    },
+    {
+      "name": "Arena Hotell",
+      "latitude": 58.372224,
+      "longitude": 12.323268
+    },
+    {
+      "name": "Arenahotellet",
+      "latitude": 59.884079,
+      "longitude": 17.659532
+    },
+    {
+      "name": "Arken Hotel & Art Garden Spa",
+      "latitude": 57.696275,
+      "longitude": 11.827616
+    },
+    {
+      "name": "Arkösunds Hotell",
+      "latitude": 58.489115,
+      "longitude": 16.939793
+    },
+    {
+      "name": "Arlanda Hotellby",
+      "latitude": 59.620896,
+      "longitude": 17.873587
+    },
+    {
+      "name": "Arlöv Park Hotel",
+      "latitude": 55.646644,
+      "longitude": 13.080863
+    },
+    {
+      "name": "Art Hotel",
+      "latitude": 56.849234,
+      "longitude": 15.394482
+    },
+    {
+      "name": "Aspa herrgård",
+      "latitude": 58.775849,
+      "longitude": 14.804422
+    },
+    {
+      "name": "Aspenäs herrgård",
+      "latitude": 57.776016,
+      "longitude": 12.233247
+    },
+    {
+      "name": "Asplund Hotel Apartments",
+      "latitude": 59.35331,
+      "longitude": 18.008823
+    },
+    {
+      "name": "at 108 hotel",
+      "latitude": 59.343361,
+      "longitude": 18.056539
+    },
+    {
+      "name": "At Six",
+      "latitude": 59.331365,
+      "longitude": 18.06697
+    },
+    {
+      "name": "Attendo Park Hotell",
+      "latitude": 59.223296,
+      "longitude": 17.936745
+    },
+    {
+      "name": "Avalon Hotel",
+      "latitude": 57.703985,
+      "longitude": 11.968221
+    },
+    {
+      "name": "Avanti Hotel",
+      "latitude": 59.302857,
+      "longitude": 18.001647
+    },
+    {
+      "name": "Avesta Stadshotell",
+      "latitude": 60.1453,
+      "longitude": 16.170413
+    },
+    {
+      "name": "B&B Hotel",
+      "latitude": 59.287967,
+      "longitude": 18.911026
+    },
+    {
+      "name": "B&B Hotel",
+      "latitude": 58.980482,
+      "longitude": 14.634072
+    },
+    {
+      "name": "Backafallsbyn",
+      "latitude": 55.916565,
+      "longitude": 12.695873
+    },
+    {
+      "name": "Backgården",
+      "latitude": 60.141885,
+      "longitude": 15.179163
+    },
+    {
+      "name": "Backstage Hotel",
+      "latitude": 59.324894,
+      "longitude": 18.096951
+    },
+    {
+      "name": "Badhotellet",
+      "latitude": 58.032465,
+      "longitude": 14.975195
+    },
+    {
+      "name": "Badhotellet Barsebäckstrand",
+      "latitude": 55.77015,
+      "longitude": 12.927409
+    },
+    {
+      "name": "Baldersnäs Herrgård",
+      "latitude": 58.963356,
+      "longitude": 12.277295
+    },
+    {
+      "name": "Bank",
+      "latitude": 59.331394,
+      "longitude": 18.074635
+    },
+    {
+      "name": "Barkens Hotell och konferens",
+      "latitude": 60.157986,
+      "longitude": 15.511186
+    },
+    {
+      "name": "BauerGården",
+      "latitude": 57.936143,
+      "longitude": 14.491624
+    },
+    {
+      "name": "Bema",
+      "latitude": 59.337589,
+      "longitude": 18.053366
+    },
+    {
+      "name": "Bergendal Kurs & Konferens",
+      "latitude": 59.430242,
+      "longitude": 17.98277
+    },
+    {
+      "name": "Bergshotellet",
+      "latitude": 61.711793,
+      "longitude": 16.155103
+    },
+    {
+      "name": "Bergsjö Hotel",
+      "latitude": 61.984606,
+      "longitude": 17.060293
+    },
+    {
+      "name": "Berling Apartments",
+      "latitude": 59.379035,
+      "longitude": 13.507583
+    },
+    {
+      "name": "Berns",
+      "latitude": 59.332277,
+      "longitude": 18.073357
+    },
+    {
+      "name": "Best Western",
+      "latitude": 56.190257,
+      "longitude": 14.846838
+    },
+    {
+      "name": "Best Western",
+      "latitude": 57.184109,
+      "longitude": 14.043215
+    },
+    {
+      "name": "Best Western Corallen",
+      "latitude": 57.261637,
+      "longitude": 16.480883
+    },
+    {
+      "name": "Best Western Edward Hotel",
+      "latitude": 58.502289,
+      "longitude": 13.16407
+    },
+    {
+      "name": "Best Western Gustaf Wasa Hotell",
+      "latitude": 60.481995,
+      "longitude": 15.428934
+    },
+    {
+      "name": "Best Western Hedåsen",
+      "latitude": 60.591251,
+      "longitude": 16.767634
+    },
+    {
+      "name": "Best Western Hotel 23",
+      "latitude": 55.766669,
+      "longitude": 12.991097
+    },
+    {
+      "name": "Best Western Hotel Baltic",
+      "latitude": 62.390986,
+      "longitude": 17.313278
+    },
+    {
+      "name": "Best Western Hotel Bothnia",
+      "latitude": 63.802436,
+      "longitude": 20.280263
+    },
+    {
+      "name": "Best Western Hotel Esplanade",
+      "latitude": 59.612727,
+      "longitude": 16.54824
+    },
+    {
+      "name": "Best Western Hotel Hudik",
+      "latitude": 61.729059,
+      "longitude": 17.101978
+    },
+    {
+      "name": "Best Western Hotel Jägersro",
+      "latitude": 55.569183,
+      "longitude": 13.061783
+    },
+    {
+      "name": "Best Western Hotel Royal",
+      "latitude": 55.60655,
+      "longitude": 12.995362
+    },
+    {
+      "name": "Best Western Hotel Scheele",
+      "latitude": 59.511226,
+      "longitude": 15.98446
+    },
+    {
+      "name": "Best Western Hotel Solna",
+      "latitude": 59.354102,
+      "longitude": 17.998241
+    },
+    {
+      "name": "Best Western Hotel Statt i Katrineholm",
+      "latitude": 58.997153,
+      "longitude": 16.209273
+    },
+    {
+      "name": "Best Western Hotel Svava",
+      "latitude": 59.85809,
+      "longitude": 17.644109
+    },
+    {
+      "name": "Best Western Hotel Tranås Statt",
+      "latitude": 58.034408,
+      "longitude": 14.97599
+    },
+    {
+      "name": "Best Western Hotell Borås",
+      "latitude": 57.722545,
+      "longitude": 12.94209
+    },
+    {
+      "name": "Best Western Hotell Kalmarsund",
+      "latitude": 56.664267,
+      "longitude": 16.360758
+    },
+    {
+      "name": "Best Western Hotell Lerdalshöjden",
+      "latitude": 60.878199,
+      "longitude": 15.125973
+    },
+    {
+      "name": "Best Western Hotell SöderH",
+      "latitude": 61.3024,
+      "longitude": 17.032559
+    },
+    {
+      "name": "Best Western Hotell Vrigstad Värdshus",
+      "latitude": 57.355718,
+      "longitude": 14.467602
+    },
+    {
+      "name": "Best Western Mora Hotell & Spa",
+      "latitude": 61.005587,
+      "longitude": 14.541707
+    },
+    {
+      "name": "Best Western Motala Stadshotell",
+      "latitude": 58.536822,
+      "longitude": 15.038375
+    },
+    {
+      "name": "Best Western Plus Bromma",
+      "latitude": 59.357921,
+      "longitude": 17.947894
+    },
+    {
+      "name": "Best Western Plus Grand Hotel",
+      "latitude": 56.669703,
+      "longitude": 12.863413
+    },
+    {
+      "name": "Best Western Plus Hotel Plaza",
+      "latitude": 59.610865,
+      "longitude": 16.549769
+    },
+    {
+      "name": "Best Western Plus Kungens Kurva",
+      "latitude": 59.274837,
+      "longitude": 17.920514
+    },
+    {
+      "name": "Best Western Plus Park City",
+      "latitude": 55.609801,
+      "longitude": 12.980109
+    },
+    {
+      "name": "Best Western Plus Park City Lund",
+      "latitude": 55.688275,
+      "longitude": 13.197593
+    },
+    {
+      "name": "Best Western Plus Park City Solna",
+      "latitude": 59.359892,
+      "longitude": 18.000259
+    },
+    {
+      "name": "Best Western Plus Skogshöjd",
+      "latitude": 59.194412,
+      "longitude": 17.618708
+    },
+    {
+      "name": "Best Western Princess Hotel",
+      "latitude": 58.586762,
+      "longitude": 16.187078
+    },
+    {
+      "name": "Best Western Royal Star Hotel",
+      "latitude": 59.27656,
+      "longitude": 18.011129
+    },
+    {
+      "name": "Best Western Sjöfartshotellet",
+      "latitude": 57.268264,
+      "longitude": 16.451123
+    },
+    {
+      "name": "Best Western Solhem",
+      "latitude": 57.634791,
+      "longitude": 18.28643
+    },
+    {
+      "name": "Best Western Solna Business Park",
+      "latitude": 59.359716,
+      "longitude": 17.97721
+    },
+    {
+      "name": "Best Western Strand Hotel",
+      "latitude": 57.641646,
+      "longitude": 18.29264
+    },
+    {
+      "name": "Best Western Sturup Airport Hotel",
+      "latitude": 55.542448,
+      "longitude": 13.360705
+    },
+    {
+      "name": "Best Western Tidbloms Hotel",
+      "latitude": 57.717751,
+      "longitude": 12.000761
+    },
+    {
+      "name": "Best Western Uppsala",
+      "latitude": 59.856907,
+      "longitude": 17.635691
+    },
+    {
+      "name": "Big river camp",
+      "latitude": 63.902378,
+      "longitude": 14.927313
+    },
+    {
+      "name": "Big River Camp Hotel & Spa",
+      "latitude": 63.902499,
+      "longitude": 14.927668
+    },
+    {
+      "name": "Birger Jarl",
+      "latitude": 59.342335,
+      "longitude": 18.062441
+    },
+    {
+      "name": "Biz Apartment Bromma",
+      "latitude": 59.353736,
+      "longitude": 17.956462
+    },
+    {
+      "name": "Biz Apartment Hammarby Sjostad",
+      "latitude": 59.301851,
+      "longitude": 18.098612
+    },
+    {
+      "name": "BizApartment Gärdet",
+      "latitude": 59.341474,
+      "longitude": 18.112427
+    },
+    {
+      "name": "Bjertorp Slott",
+      "latitude": 58.264616,
+      "longitude": 13.113039
+    },
+    {
+      "name": "Bjurfors Hotell & Konferens",
+      "latitude": 60.131569,
+      "longitude": 16.125601
+    },
+    {
+      "name": "Björholmen Hotell och Restaurang",
+      "latitude": 58.052058,
+      "longitude": 11.521999
+    },
+    {
+      "name": "Björkbackens karaktärshotell",
+      "latitude": 57.66213,
+      "longitude": 15.876998
+    },
+    {
+      "name": "Björkhaga hotell",
+      "latitude": 57.921456,
+      "longitude": 13.879939
+    },
+    {
+      "name": "Björknäsgården",
+      "latitude": 62.805463,
+      "longitude": 15.352797
+    },
+    {
+      "name": "Björkuddens Hotell & Restaurang",
+      "latitude": 62.808968,
+      "longitude": 17.940873
+    },
+    {
+      "name": "Björnidet",
+      "latitude": 60.133761,
+      "longitude": 13.006964
+    },
+    {
+      "name": "Blankaholms Gästgiveri",
+      "latitude": 57.589928,
+      "longitude": 16.52445
+    },
+    {
+      "name": "Blique by Nobis",
+      "latitude": 59.345981,
+      "longitude": 18.036125
+    },
+    {
+      "name": "Blommenhof Hotell",
+      "latitude": 58.759205,
+      "longitude": 16.984986
+    },
+    {
+      "name": "Bläsinge Gård / Vandrarhem Jonstorp",
+      "latitude": 56.237646,
+      "longitude": 12.655444
+    },
+    {
+      "name": "Blå Blom",
+      "latitude": 59.324339,
+      "longitude": 18.383789
+    },
+    {
+      "name": "Bodensia",
+      "latitude": 65.824703,
+      "longitude": 21.687362
+    },
+    {
+      "name": "Bofors Hotell",
+      "latitude": 59.328666,
+      "longitude": 14.542464
+    },
+    {
+      "name": "Bohus-Malmöns Pensionat",
+      "latitude": 58.343381,
+      "longitude": 11.332186
+    },
+    {
+      "name": "Bohusgården Hotell & Konferens",
+      "latitude": 58.338178,
+      "longitude": 11.909907
+    },
+    {
+      "name": "Boliden Brukshotell",
+      "latitude": 64.864699,
+      "longitude": 20.392922
+    },
+    {
+      "name": "Borensbergs Gästgivaregård",
+      "latitude": 58.561496,
+      "longitude": 15.282666
+    },
+    {
+      "name": "Borgeby Gårdshotell",
+      "latitude": 55.750408,
+      "longitude": 13.039325
+    },
+    {
+      "name": "Borgs Villahotell",
+      "latitude": 58.58183,
+      "longitude": 16.160353
+    },
+    {
+      "name": "Brasserie X",
+      "latitude": 57.668205,
+      "longitude": 12.010508
+    },
+    {
+      "name": "Breanäs Hotell",
+      "latitude": 56.280294,
+      "longitude": 14.304783
+    },
+    {
+      "name": "Bredaryds Wärdshus & Bryggeri",
+      "latitude": 57.174801,
+      "longitude": 13.7332
+    },
+    {
+      "name": "Bredbyns Gästgiveri",
+      "latitude": 63.449278,
+      "longitude": 18.107137
+    },
+    {
+      "name": "Brewery Hotel",
+      "latitude": 56.159051,
+      "longitude": 15.591107
+    },
+    {
+      "name": "BriQ Hotell, Hova",
+      "latitude": 58.856881,
+      "longitude": 14.2182
+    },
+    {
+      "name": "Bristol",
+      "latitude": 59.654951,
+      "longitude": 12.593299
+    },
+    {
+      "name": "Broby Gästgivaregård",
+      "latitude": 59.839566,
+      "longitude": 13.142142
+    },
+    {
+      "name": "Brommavik Hotell",
+      "latitude": 59.359457,
+      "longitude": 17.960126
+    },
+    {
+      "name": "Bruksgården",
+      "latitude": 60.618464,
+      "longitude": 16.787556
+    },
+    {
+      "name": "Brukshotellet",
+      "latitude": 58.194089,
+      "longitude": 15.047785
+    },
+    {
+      "name": "Brukshotellet",
+      "latitude": 64.192912,
+      "longitude": 20.84996
+    },
+    {
+      "name": "Brukshotellet Degerhamn",
+      "latitude": 56.355657,
+      "longitude": 16.41063
+    },
+    {
+      "name": "Bruksvallarnas fjällhotell",
+      "latitude": 62.640807,
+      "longitude": 12.423416
+    },
+    {
+      "name": "Brunnby Hotell",
+      "latitude": 59.294964,
+      "longitude": 18.032698
+    },
+    {
+      "name": "Brunsbo Gästgifveri & Hotell",
+      "latitude": 58.393629,
+      "longitude": 13.495298
+    },
+    {
+      "name": "Bruntegården",
+      "latitude": 60.879585,
+      "longitude": 15.131808
+    },
+    {
+      "name": "Brännebrona Gästis",
+      "latitude": 58.576954,
+      "longitude": 13.60557
+    },
+    {
+      "name": "Brännö Värdshus & Bageri",
+      "latitude": 57.640836,
+      "longitude": 11.77768
+    },
+    {
+      "name": "Brösarp Gästisgifveri & Spa",
+      "latitude": 55.725385,
+      "longitude": 14.103744
+    },
+    {
+      "name": "By the sea",
+      "latitude": 55.394562,
+      "longitude": 13.602341
+    },
+    {
+      "name": "Byxelkroks Marina",
+      "latitude": 57.325948,
+      "longitude": 17.008112
+    },
+    {
+      "name": "Bäcka Herrgård",
+      "latitude": 61.131655,
+      "longitude": 14.539605
+    },
+    {
+      "name": "Bäckaskog slott",
+      "latitude": 56.084968,
+      "longitude": 14.348338
+    },
+    {
+      "name": "Bångbro herrgård",
+      "latitude": 59.857962,
+      "longitude": 15.039777
+    },
+    {
+      "name": "Båtellet",
+      "latitude": 57.888682,
+      "longitude": 11.578566
+    },
+    {
+      "name": "Calmar Stadshotell",
+      "latitude": 56.664248,
+      "longitude": 16.366743
+    },
+    {
+      "name": "Camp Ripan",
+      "latitude": 67.860725,
+      "longitude": 20.240517
+    },
+    {
+      "name": "Cape East",
+      "latitude": 65.820547,
+      "longitude": 24.144729
+    },
+    {
+      "name": "Capital Hotel",
+      "latitude": 59.295624,
+      "longitude": 18.033256
+    },
+    {
+      "name": "Carlia",
+      "latitude": 58.351621,
+      "longitude": 11.934846
+    },
+    {
+      "name": "Carlstad City Hostel",
+      "latitude": 59.37948,
+      "longitude": 13.499553
+    },
+    {
+      "name": "Castle House Inn",
+      "latitude": 59.325084,
+      "longitude": 18.074479
+    },
+    {
+      "name": "Central Hotel",
+      "latitude": 59.332977,
+      "longitude": 18.057556
+    },
+    {
+      "name": "Centralhotellet",
+      "latitude": 57.756554,
+      "longitude": 16.641225
+    },
+    {
+      "name": "Chefens hotell",
+      "latitude": 59.200552,
+      "longitude": 17.632342
+    },
+    {
+      "name": "Chinova Mötesgård",
+      "latitude": 61.667839,
+      "longitude": 16.105716
+    },
+    {
+      "name": "City Central",
+      "latitude": 59.276953,
+      "longitude": 15.218918
+    },
+    {
+      "name": "City Hotel",
+      "latitude": 57.783726,
+      "longitude": 14.159069
+    },
+    {
+      "name": "City Hotell",
+      "latitude": 63.168428,
+      "longitude": 17.267383
+    },
+    {
+      "name": "City Hotellet",
+      "latitude": 64.597488,
+      "longitude": 18.673518
+    },
+    {
+      "name": "City Lägenhetshotell",
+      "latitude": 57.689543,
+      "longitude": 11.993816
+    },
+    {
+      "name": "Citybox Stockholm",
+      "latitude": 59.319449,
+      "longitude": 18.074064
+    },
+    {
+      "name": "Citystay Kungsgatan 32",
+      "latitude": 65.825344,
+      "longitude": 21.689439
+    },
+    {
+      "name": "Clarion Collection Arvidsjaur",
+      "latitude": 65.595787,
+      "longitude": 19.178249
+    },
+    {
+      "name": "Clarion Collection Hotel Planetstaden",
+      "latitude": 55.698601,
+      "longitude": 13.214391
+    },
+    {
+      "name": "Clarion Hotel",
+      "latitude": 57.63861,
+      "longitude": 18.290902
+    },
+    {
+      "name": "Clarion Hotel",
+      "latitude": 62.393115,
+      "longitude": 17.304209
+    },
+    {
+      "name": "Clarion Hotel",
+      "latitude": 59.270461,
+      "longitude": 15.213756
+    },
+    {
+      "name": "Clarion Hotel Arlanda Airport",
+      "latitude": 59.648871,
+      "longitude": 17.931348
+    },
+    {
+      "name": "Clarion Hotel Draken",
+      "latitude": 57.701193,
+      "longitude": 11.952526
+    },
+    {
+      "name": "Clarion Hotel Gillet",
+      "latitude": 59.86058,
+      "longitude": 17.637563
+    },
+    {
+      "name": "Clarion Hotel Grand",
+      "latitude": 63.17993,
+      "longitude": 14.636358
+    },
+    {
+      "name": "Clarion Hotel Malmö Live",
+      "latitude": 55.607296,
+      "longitude": 12.994394
+    },
+    {
+      "name": "Clarion Hotel Post",
+      "latitude": 57.708066,
+      "longitude": 11.975384
+    },
+    {
+      "name": "Clarion Hotel SeaU",
+      "latitude": 56.04601,
+      "longitude": 12.689766
+    },
+    {
+      "name": "Clarion Hotel Sense",
+      "latitude": 65.585047,
+      "longitude": 22.15232
+    },
+    {
+      "name": "Clarion Hotel Sign",
+      "latitude": 59.334695,
+      "longitude": 18.053327
+    },
+    {
+      "name": "Clarion Hotel Stockholm",
+      "latitude": 59.307323,
+      "longitude": 18.074914
+    },
+    {
+      "name": "Clarion Hotel Winn",
+      "latitude": 60.675538,
+      "longitude": 17.140284
+    },
+    {
+      "name": "Clas på hörnet",
+      "latitude": 59.346504,
+      "longitude": 18.061142
+    },
+    {
+      "name": "Cocoon Eating & Meeting",
+      "latitude": 55.83656,
+      "longitude": 14.063116
+    },
+    {
+      "name": "Comfort Hotel",
+      "latitude": 62.389561,
+      "longitude": 17.31353
+    },
+    {
+      "name": "Comfort Hotel",
+      "latitude": 59.606764,
+      "longitude": 16.552794
+    },
+    {
+      "name": "Comfort Hotel",
+      "latitude": 57.778974,
+      "longitude": 14.156356
+    },
+    {
+      "name": "Comfort Hotel Arctic",
+      "latitude": 65.583002,
+      "longitude": 22.163662
+    },
+    {
+      "name": "Comfort Hotel Arlanda Airport",
+      "latitude": 59.648233,
+      "longitude": 17.933497
+    },
+    {
+      "name": "Comfort Hotel City",
+      "latitude": 57.706284,
+      "longitude": 11.97179
+    },
+    {
+      "name": "Comfort Hotel Eskilstuna",
+      "latitude": 59.371922,
+      "longitude": 16.516323
+    },
+    {
+      "name": "Comfort Hotel Göteborg",
+      "latitude": 57.705879,
+      "longitude": 11.958807
+    },
+    {
+      "name": "Comfort Hotel Jazz",
+      "latitude": 57.722697,
+      "longitude": 12.941187
+    },
+    {
+      "name": "Comfort Hotel Kista",
+      "latitude": 59.402536,
+      "longitude": 17.9495
+    },
+    {
+      "name": "Comfort Hotel Linköping City",
+      "latitude": 58.411402,
+      "longitude": 15.621984
+    },
+    {
+      "name": "Comfort Hotel Malmö",
+      "latitude": 55.61101,
+      "longitude": 13.001092
+    },
+    {
+      "name": "Comfort Hotel Nouveau",
+      "latitude": 56.041072,
+      "longitude": 12.69971
+    },
+    {
+      "name": "Comfort Hotel Panorama",
+      "latitude": 57.689565,
+      "longitude": 11.987639
+    },
+    {
+      "name": "Comfort Hotel Solna",
+      "latitude": 59.373297,
+      "longitude": 17.997758
+    },
+    {
+      "name": "Comfort Hotel Umeå City",
+      "latitude": 63.825824,
+      "longitude": 20.258971
+    },
+    {
+      "name": "Comfort Hotel Winn",
+      "latitude": 63.826445,
+      "longitude": 20.264631
+    },
+    {
+      "name": "Comfort Hotel Xpress Stockholm Central",
+      "latitude": 59.333102,
+      "longitude": 18.054589
+    },
+    {
+      "name": "Comfort Hotell Norrköping",
+      "latitude": 58.595267,
+      "longitude": 16.192606
+    },
+    {
+      "name": "Connect Hotel Kista",
+      "latitude": 59.401464,
+      "longitude": 17.951395
+    },
+    {
+      "name": "Connect Hotel Skavsta",
+      "latitude": 58.783666,
+      "longitude": 16.924733
+    },
+    {
+      "name": "Continental Hotel",
+      "latitude": 55.604327,
+      "longitude": 12.995573
+    },
+    {
+      "name": "Copperhill Mountain lodge",
+      "latitude": 63.382974,
+      "longitude": 13.177531
+    },
+    {
+      "name": "Crew Hotels Arlanda",
+      "latitude": 59.59444,
+      "longitude": 17.890891
+    },
+    {
+      "name": "Crystal Plaza",
+      "latitude": 59.338213,
+      "longitude": 18.068579
+    },
+    {
+      "name": "Crêperie & logi",
+      "latitude": 59.345038,
+      "longitude": 18.056527
+    },
+    {
+      "name": "Dahlströmska gården",
+      "latitude": 58.450546,
+      "longitude": 14.894842
+    },
+    {
+      "name": "Dala-Floda Värdshus",
+      "latitude": 60.513213,
+      "longitude": 14.808091
+    },
+    {
+      "name": "Dala-Husby Hotel och Restaurang",
+      "latitude": 60.3947,
+      "longitude": 15.9953
+    },
+    {
+      "name": "Dala-Järna Hotell",
+      "latitude": 60.547469,
+      "longitude": 14.36479
+    },
+    {
+      "name": "Dalarö hotell Bellevue",
+      "latitude": 59.133244,
+      "longitude": 18.411256
+    },
+    {
+      "name": "DalaWärdshus Hantverksbyn",
+      "latitude": 60.861528,
+      "longitude": 15.105114
+    },
+    {
+      "name": "Dalecarlia Hotel & Spa",
+      "latitude": 60.818766,
+      "longitude": 14.989111
+    },
+    {
+      "name": "Davvi Arctic Lodge",
+      "latitude": 68.451403,
+      "longitude": 22.484746
+    },
+    {
+      "name": "Den Röda Båten",
+      "latitude": 59.321387,
+      "longitude": 18.061367
+    },
+    {
+      "name": "Dentas Hotell",
+      "latitude": 64.115714,
+      "longitude": 16.204119
+    },
+    {
+      "name": "Design Apartments",
+      "latitude": 57.705927,
+      "longitude": 11.971865
+    },
+    {
+      "name": "Disponentvillan",
+      "latitude": 60.079457,
+      "longitude": 14.98667
+    },
+    {
+      "name": "Djupvik Hotell & Restaurang",
+      "latitude": 57.30732,
+      "longitude": 18.152055
+    },
+    {
+      "name": "Dockyard Hotel",
+      "latitude": 57.685773,
+      "longitude": 11.893823
+    },
+    {
+      "name": "Donners Hotel",
+      "latitude": 57.638713,
+      "longitude": 18.291453
+    },
+    {
+      "name": "Dorotea Logi B&B",
+      "latitude": 64.261425,
+      "longitude": 16.422544
+    },
+    {
+      "name": "Dorsia",
+      "latitude": 57.704603,
+      "longitude": 11.971675
+    },
+    {
+      "name": "Downtown Camper by Scandic",
+      "latitude": 59.331258,
+      "longitude": 18.06556
+    },
+    {
+      "name": "Dragon Gate",
+      "latitude": 60.463034,
+      "longitude": 17.415676
+    },
+    {
+      "name": "Drakamöllans gårdshotell",
+      "latitude": 55.759982,
+      "longitude": 14.12839
+    },
+    {
+      "name": "Drei Jahreszeiten",
+      "latitude": 56.841567,
+      "longitude": 16.790111
+    },
+    {
+      "name": "Duvan Hotel",
+      "latitude": 59.855417,
+      "longitude": 17.647061
+    },
+    {
+      "name": "Eden Park",
+      "latitude": 59.338437,
+      "longitude": 18.074959
+    },
+    {
+      "name": "Edsbyns Hotell",
+      "latitude": 61.373218,
+      "longitude": 15.81971
+    },
+    {
+      "name": "Edsviken Hotell",
+      "latitude": 59.440232,
+      "longitude": 17.94988
+    },
+    {
+      "name": "Eight Rooms",
+      "latitude": 59.315816,
+      "longitude": 18.083888
+    },
+    {
+      "name": "Ekerum Resort",
+      "latitude": 56.784923,
+      "longitude": 16.578001
+    },
+    {
+      "name": "Eksjö Stadshotell",
+      "latitude": 57.666853,
+      "longitude": 14.969862
+    },
+    {
+      "name": "Elisefarm",
+      "latitude": 55.828329,
+      "longitude": 13.551277
+    },
+    {
+      "name": "Elite city hotel",
+      "latitude": 59.268696,
+      "longitude": 15.212341
+    },
+    {
+      "name": "Elite Grand Hotell",
+      "latitude": 58.592951,
+      "longitude": 16.18641
+    },
+    {
+      "name": "Elite Hotel Academia",
+      "latitude": 59.856801,
+      "longitude": 17.648404
+    },
+    {
+      "name": "Elite Hotel Adlon",
+      "latitude": 59.333362,
+      "longitude": 18.057191
+    },
+    {
+      "name": "Elite Hotel Brage",
+      "latitude": 60.485896,
+      "longitude": 15.431674
+    },
+    {
+      "name": "Elite Hotel Carolina Tower",
+      "latitude": 59.348233,
+      "longitude": 18.031983
+    },
+    {
+      "name": "Elite Hotel Esplanade",
+      "latitude": 55.605476,
+      "longitude": 12.997642
+    },
+    {
+      "name": "Elite Hotel Frost",
+      "latitude": 67.849706,
+      "longitude": 20.305714
+    },
+    {
+      "name": "Elite Hotel Ideon",
+      "latitude": 55.717494,
+      "longitude": 13.213993
+    },
+    {
+      "name": "Elite Hotel Marina Plaza",
+      "latitude": 56.044347,
+      "longitude": 12.692708
+    },
+    {
+      "name": "Elite Hotel Mimer",
+      "latitude": 63.82537,
+      "longitude": 20.269518
+    },
+    {
+      "name": "Elite Hotel Mollberg",
+      "latitude": 56.04692,
+      "longitude": 12.695747
+    },
+    {
+      "name": "Elite Hotel Plaza",
+      "latitude": 55.603201,
+      "longitude": 12.999329
+    },
+    {
+      "name": "Elite Hotel Savoy Malmö",
+      "latitude": 55.607653,
+      "longitude": 13.000219
+    },
+    {
+      "name": "Elite Palace Hotel",
+      "latitude": 59.346733,
+      "longitude": 18.039781
+    },
+    {
+      "name": "Elite Park Avenue",
+      "latitude": 57.698408,
+      "longitude": 11.978311
+    },
+    {
+      "name": "Elite Park Hotel",
+      "latitude": 56.880585,
+      "longitude": 14.802285
+    },
+    {
+      "name": "Elite Plaza",
+      "latitude": 57.70513,
+      "longitude": 11.962828
+    },
+    {
+      "name": "Elite Plaza Hotel",
+      "latitude": 63.287376,
+      "longitude": 18.713525
+    },
+    {
+      "name": "Elite Stadshotellet",
+      "latitude": 59.611388,
+      "longitude": 16.542334
+    },
+    {
+      "name": "Elite Stadshotellet",
+      "latitude": 65.583697,
+      "longitude": 22.145865
+    },
+    {
+      "name": "Elite Stadshotellet",
+      "latitude": 56.87801,
+      "longitude": 14.808869
+    },
+    {
+      "name": "Elite Stadshotellet Eskilstuna",
+      "latitude": 59.372238,
+      "longitude": 16.515799
+    },
+    {
+      "name": "Elite Stockholm Plaza",
+      "latitude": 59.337472,
+      "longitude": 18.069793
+    },
+    {
+      "name": "Elite Stora Hotellet",
+      "latitude": 58.410968,
+      "longitude": 15.622038
+    },
+    {
+      "name": "Elite Stora Hotellet",
+      "latitude": 59.273356,
+      "longitude": 15.213507
+    },
+    {
+      "name": "Elite Stora Hotellet",
+      "latitude": 57.783346,
+      "longitude": 14.169575
+    },
+    {
+      "name": "Elite Wood Hotel",
+      "latitude": 64.751971,
+      "longitude": 20.954344
+    },
+    {
+      "name": "EliteHotel Residens",
+      "latitude": 55.607457,
+      "longitude": 13.00134
+    },
+    {
+      "name": "Ellery Beach House",
+      "latitude": 59.364097,
+      "longitude": 18.254609
+    },
+    {
+      "name": "Enaforsholm Fjällgård",
+      "latitude": 63.284577,
+      "longitude": 12.331761
+    },
+    {
+      "name": "Engeltofta Sea Lodge Hotel",
+      "latitude": 60.704977,
+      "longitude": 17.238508
+    },
+    {
+      "name": "Entré norr",
+      "latitude": 63.854471,
+      "longitude": 20.383744
+    },
+    {
+      "name": "Eriksberg Vilt och Natur",
+      "latitude": 56.180533,
+      "longitude": 15.002595
+    },
+    {
+      "name": "Eriksgårdens Fjällhotell",
+      "latitude": 62.550739,
+      "longitude": 12.528492
+    },
+    {
+      "name": "Eriksry",
+      "latitude": 55.692783,
+      "longitude": 13.186408
+    },
+    {
+      "name": "Esrange Hotel Aurora",
+      "latitude": 67.890729,
+      "longitude": 21.081602
+    },
+    {
+      "name": "Ett Hem",
+      "latitude": 59.345446,
+      "longitude": 18.067765
+    },
+    {
+      "name": "Ett litet hotell",
+      "latitude": 59.336617,
+      "longitude": 18.250108
+    },
+    {
+      "name": "Ett smart hotell",
+      "latitude": 59.42297,
+      "longitude": 17.954681
+    },
+    {
+      "name": "Eurostop",
+      "latitude": 59.296433,
+      "longitude": 15.204329
+    },
+    {
+      "name": "Ewa & Maude Hotel",
+      "latitude": 57.683336,
+      "longitude": 11.954864
+    },
+    {
+      "name": "Fagersta Brukshotell Best Western",
+      "latitude": 60.00099,
+      "longitude": 15.795612
+    },
+    {
+      "name": "Fagerudd Hotell & Konferans",
+      "latitude": 59.586131,
+      "longitude": 17.068915
+    },
+    {
+      "name": "Falkenberg Strandbad",
+      "latitude": 56.888869,
+      "longitude": 12.495145
+    },
+    {
+      "name": "Filipsborgs Herrgård",
+      "latitude": 65.841231,
+      "longitude": 23.15701
+    },
+    {
+      "name": "Finnskoga Wärdshus",
+      "latitude": 60.904568,
+      "longitude": 12.584435
+    },
+    {
+      "name": "First Class Hotel Billingehus",
+      "latitude": 58.403203,
+      "longitude": 13.821441
+    },
+    {
+      "name": "First Hotel Arlanda-Airport",
+      "latitude": 59.610454,
+      "longitude": 17.895215
+    },
+    {
+      "name": "First Hotel Brommaplan",
+      "latitude": 59.340042,
+      "longitude": 17.940905
+    },
+    {
+      "name": "First Hotel Carlshamn",
+      "latitude": 56.168155,
+      "longitude": 14.862316
+    },
+    {
+      "name": "First Hotel Central",
+      "latitude": 58.592414,
+      "longitude": 16.188638
+    },
+    {
+      "name": "First Hotel Eurostop",
+      "latitude": 57.761253,
+      "longitude": 14.190067
+    },
+    {
+      "name": "First Hotel Garden",
+      "latitude": 55.604552,
+      "longitude": 13.003787
+    },
+    {
+      "name": "First Hotel Grand",
+      "latitude": 57.719414,
+      "longitude": 12.937069
+    },
+    {
+      "name": "First Hotel Grand",
+      "latitude": 60.60636,
+      "longitude": 15.633925
+    },
+    {
+      "name": "First Hotel Ideon Gästeri",
+      "latitude": 55.714761,
+      "longitude": 13.213908
+    },
+    {
+      "name": "First Hotel Jörgen Kock",
+      "latitude": 55.611384,
+      "longitude": 12.999502
+    },
+    {
+      "name": "First Hotel Klockargården",
+      "latitude": 60.825799,
+      "longitude": 14.993916
+    },
+    {
+      "name": "First Hotel Kokoloko",
+      "latitude": 57.626083,
+      "longitude": 18.281051
+    },
+    {
+      "name": "First Hotel Kviberg",
+      "latitude": 57.738228,
+      "longitude": 12.033415
+    },
+    {
+      "name": "First Hotel Olofström",
+      "latitude": 56.277117,
+      "longitude": 14.526251
+    },
+    {
+      "name": "First Hotel Park Astoria",
+      "latitude": 59.637278,
+      "longitude": 17.080345
+    },
+    {
+      "name": "First Hotel River C",
+      "latitude": 59.383602,
+      "longitude": 13.508723
+    },
+    {
+      "name": "First Hotel Stadt",
+      "latitude": 62.633981,
+      "longitude": 17.938732
+    },
+    {
+      "name": "First Hotel Statt",
+      "latitude": 63.288034,
+      "longitude": 18.714813
+    },
+    {
+      "name": "First Hotel Statt",
+      "latitude": 61.301386,
+      "longitude": 17.048825
+    },
+    {
+      "name": "First Hotel Tällberg",
+      "latitude": 60.825142,
+      "longitude": 15.00098
+    },
+    {
+      "name": "First Hotel Witt",
+      "latitude": 56.66369,
+      "longitude": 16.367212
+    },
+    {
+      "name": "First Hotel Örebro",
+      "latitude": 59.277175,
+      "longitude": 15.21629
+    },
+    {
+      "name": "Fjällbacka Pensionat och Vandrarhem",
+      "latitude": 58.599542,
+      "longitude": 11.285191
+    },
+    {
+      "name": "Fjällbäcken Lodge",
+      "latitude": 62.637059,
+      "longitude": 12.394663
+    },
+    {
+      "name": "Fjällgården",
+      "latitude": 63.404583,
+      "longitude": 13.09043
+    },
+    {
+      "name": "Fjällgården",
+      "latitude": 62.701411,
+      "longitude": 12.389059
+    },
+    {
+      "name": "Fjällnäs Högfjällshotell",
+      "latitude": 62.598329,
+      "longitude": 12.176584
+    },
+    {
+      "name": "Fjällportens pensionat",
+      "latitude": 63.394276,
+      "longitude": 12.933168
+    },
+    {
+      "name": "Floby Gästgiveri",
+      "latitude": 58.139609,
+      "longitude": 13.333872
+    },
+    {
+      "name": "Flygplatshotellet",
+      "latitude": 57.691308,
+      "longitude": 12.310307
+    },
+    {
+      "name": "Folk och Fä",
+      "latitude": 60.07586,
+      "longitude": 18.77328
+    },
+    {
+      "name": "Forenom",
+      "latitude": 59.349684,
+      "longitude": 17.986691
+    },
+    {
+      "name": "Forenom",
+      "latitude": 59.334257,
+      "longitude": 17.978496
+    },
+    {
+      "name": "Forenom",
+      "latitude": 55.701544,
+      "longitude": 13.198378
+    },
+    {
+      "name": "Forenom Aparthotel",
+      "latitude": 55.612124,
+      "longitude": 12.989073
+    },
+    {
+      "name": "Forenom Aparthotel Stockholm Bromma",
+      "latitude": 59.345394,
+      "longitude": 17.970272
+    },
+    {
+      "name": "Forenom Apartments Luleå Västra Stranden",
+      "latitude": 65.580789,
+      "longitude": 22.137244
+    },
+    {
+      "name": "Forsbacka Wärdshus",
+      "latitude": 60.612285,
+      "longitude": 16.913233
+    },
+    {
+      "name": "Frantz",
+      "latitude": 59.319408,
+      "longitude": 18.071471
+    },
+    {
+      "name": "Freden Hotell & Wärdshus",
+      "latitude": 56.52011,
+      "longitude": 13.316077
+    },
+    {
+      "name": "Fredenborgs Herrgärd",
+      "latitude": 57.576149,
+      "longitude": 15.80612
+    },
+    {
+      "name": "Fredrikas hotell, jakt och fiskecamp",
+      "latitude": 64.075099,
+      "longitude": 18.406126
+    },
+    {
+      "name": "Fresks Pensionat",
+      "latitude": 63.402002,
+      "longitude": 13.086395
+    },
+    {
+      "name": "Freys Hotel",
+      "latitude": 59.332827,
+      "longitude": 18.058412
+    },
+    {
+      "name": "Fridas Hotell",
+      "latitude": 56.198744,
+      "longitude": 12.549299
+    },
+    {
+      "name": "Fridhems pensionat",
+      "latitude": 57.600309,
+      "longitude": 18.216788
+    },
+    {
+      "name": "Fridhemsgatan Hotel",
+      "latitude": 61.002605,
+      "longitude": 14.534747
+    },
+    {
+      "name": "Friiberghs Herrgård",
+      "latitude": 59.699523,
+      "longitude": 17.502036
+    },
+    {
+      "name": "Frimurarehotellet",
+      "latitude": 56.662436,
+      "longitude": 16.360679
+    },
+    {
+      "name": "Frimurarehotellet",
+      "latitude": 58.414167,
+      "longitude": 15.623053
+    },
+    {
+      "name": "Fritiden Hotell & Kongress",
+      "latitude": 55.428432,
+      "longitude": 13.829227
+    },
+    {
+      "name": "Fritzatorpet hotell",
+      "latitude": 56.286268,
+      "longitude": 14.488812
+    },
+    {
+      "name": "Fryksås Hotell & Gestgiveri",
+      "latitude": 61.193206,
+      "longitude": 14.531113
+    },
+    {
+      "name": "Furudals Herrgård",
+      "latitude": 61.195442,
+      "longitude": 15.173965
+    },
+    {
+      "name": "Furunäset Hotell & konferens",
+      "latitude": 65.291975,
+      "longitude": 21.488385
+    },
+    {
+      "name": "Furuvik havshotell",
+      "latitude": 60.652637,
+      "longitude": 17.34417
+    },
+    {
+      "name": "Färna Herrgård & Spa",
+      "latitude": 59.779199,
+      "longitude": 15.864112
+    },
+    {
+      "name": "Fågelbro hus",
+      "latitude": 59.276244,
+      "longitude": 18.557128
+    },
+    {
+      "name": "Fågelbrohus",
+      "latitude": 59.275639,
+      "longitude": 18.553661
+    },
+    {
+      "name": "Fårösunds Fästning",
+      "latitude": 57.846386,
+      "longitude": 19.07862
+    },
+    {
+      "name": "Gamla Teatern",
+      "latitude": 63.175148,
+      "longitude": 14.640483
+    },
+    {
+      "name": "Gamleby B&B",
+      "latitude": 57.882971,
+      "longitude": 16.403335
+    },
+    {
+      "name": "Gamleby hotell",
+      "latitude": 57.900027,
+      "longitude": 16.407268
+    },
+    {
+      "name": "Gannarve Hotel Och Restaurang",
+      "latitude": 57.348458,
+      "longitude": 18.191315
+    },
+    {
+      "name": "Getå turisthotell",
+      "latitude": 58.666957,
+      "longitude": 16.293991
+    },
+    {
+      "name": "Gibsons Hotell",
+      "latitude": 57.748881,
+      "longitude": 12.176138
+    },
+    {
+      "name": "Gimo herrgård",
+      "latitude": 60.179134,
+      "longitude": 18.173381
+    },
+    {
+      "name": "Glivarpagården",
+      "latitude": 55.494117,
+      "longitude": 14.224365
+    },
+    {
+      "name": "Golf Uppsala",
+      "latitude": 59.812454,
+      "longitude": 17.498342
+    },
+    {
+      "name": "Good Morning",
+      "latitude": 59.413317,
+      "longitude": 17.931317
+    },
+    {
+      "name": "Good Morning Hotel",
+      "latitude": 56.65627,
+      "longitude": 12.908367
+    },
+    {
+      "name": "Good Morning Hotel Nyköping",
+      "latitude": 58.749094,
+      "longitude": 16.978762
+    },
+    {
+      "name": "Good morning hotels",
+      "latitude": 56.036296,
+      "longitude": 12.712571
+    },
+    {
+      "name": "Good Morning Hotels Arlanda",
+      "latitude": 59.646812,
+      "longitude": 17.968728
+    },
+    {
+      "name": "Good Morning Jönköping",
+      "latitude": 57.763475,
+      "longitude": 14.151836
+    },
+    {
+      "name": "Good Morning Lund",
+      "latitude": 55.717015,
+      "longitude": 13.152655
+    },
+    {
+      "name": "Good Morning Västerås",
+      "latitude": 59.637037,
+      "longitude": 16.534051
+    },
+    {
+      "name": "Good Morning Örebro",
+      "latitude": 59.260233,
+      "longitude": 15.19621
+    },
+    {
+      "name": "Good Morning+ Göteborg City",
+      "latitude": 57.716181,
+      "longitude": 11.972887
+    },
+    {
+      "name": "Good Morning+ Hägersten",
+      "latitude": 59.289676,
+      "longitude": 17.953942
+    },
+    {
+      "name": "Goodmorning+ Hotel Malmö",
+      "latitude": 55.580972,
+      "longitude": 12.993494
+    },
+    {
+      "name": "Gothia Towers",
+      "latitude": 57.697479,
+      "longitude": 11.989051
+    },
+    {
+      "name": "Granbackens Familjecenter",
+      "latitude": 57.356564,
+      "longitude": 14.473793
+    },
+    {
+      "name": "Grand Arctic Hotel",
+      "latitude": 66.329581,
+      "longitude": 22.838515
+    },
+    {
+      "name": "Grand Circus Hotel",
+      "latitude": 55.603653,
+      "longitude": 13.044245
+    },
+    {
+      "name": "Grand Hotel",
+      "latitude": 56.903526,
+      "longitude": 12.493273
+    },
+    {
+      "name": "Grand Hotel",
+      "latitude": 60.675008,
+      "longitude": 17.149318
+    },
+    {
+      "name": "Grand Hotel",
+      "latitude": 55.703836,
+      "longitude": 13.18914
+    },
+    {
+      "name": "Grand Hotel",
+      "latitude": 58.27398,
+      "longitude": 11.436203
+    },
+    {
+      "name": "Grand Hotel",
+      "latitude": 57.781669,
+      "longitude": 14.176898
+    },
+    {
+      "name": "Grand Hotel Alingsås",
+      "latitude": 57.927947,
+      "longitude": 12.53217
+    },
+    {
+      "name": "Grand Hotel Elektra",
+      "latitude": 60.150981,
+      "longitude": 15.186628
+    },
+    {
+      "name": "Grand Hotel Hörnan",
+      "latitude": 59.856421,
+      "longitude": 17.640582
+    },
+    {
+      "name": "Grand Hotel Lapland",
+      "latitude": 67.133878,
+      "longitude": 20.653052
+    },
+    {
+      "name": "Grand Hotel Marstrand",
+      "latitude": 57.887287,
+      "longitude": 11.583098
+    },
+    {
+      "name": "Grand Hotel Mustaparta",
+      "latitude": 65.844449,
+      "longitude": 24.148671
+    },
+    {
+      "name": "Grand Hotel Saltsjöbaden",
+      "latitude": 59.277619,
+      "longitude": 18.311919
+    },
+    {
+      "name": "Grand hotell",
+      "latitude": 63.852284,
+      "longitude": 15.555833
+    },
+    {
+      "name": "Grand Hôtel",
+      "latitude": 59.329611,
+      "longitude": 18.07549
+    },
+    {
+      "name": "Grand Hôtel Mölle",
+      "latitude": 56.285645,
+      "longitude": 12.492926
+    },
+    {
+      "name": "Granen Residence",
+      "latitude": 63.401444,
+      "longitude": 13.082544
+    },
+    {
+      "name": "Grangärde Hotell & Konferenscenter",
+      "latitude": 60.260004,
+      "longitude": 14.977368
+    },
+    {
+      "name": "Green Hotel",
+      "latitude": 60.820599,
+      "longitude": 14.996421
+    },
+    {
+      "name": "Green Hotel",
+      "latitude": 60.82138,
+      "longitude": 14.996595
+    },
+    {
+      "name": "Grenna Hotell",
+      "latitude": 58.023096,
+      "longitude": 14.464814
+    },
+    {
+      "name": "Grinda Wärdshus",
+      "latitude": 59.413643,
+      "longitude": 18.558829
+    },
+    {
+      "name": "Gripsholms Värdshus",
+      "latitude": 59.258231,
+      "longitude": 17.222903
+    },
+    {
+      "name": "Grow Hotel",
+      "latitude": 59.357249,
+      "longitude": 17.976067
+    },
+    {
+      "name": "Grundéns Hotell",
+      "latitude": 58.212142,
+      "longitude": 11.434228
+    },
+    {
+      "name": "Grännagården",
+      "latitude": 58.024356,
+      "longitude": 14.467207
+    },
+    {
+      "name": "Gråbogården AB",
+      "latitude": 57.868743,
+      "longitude": 12.29166
+    },
+    {
+      "name": "Guesthouse Eleven",
+      "latitude": 59.66973,
+      "longitude": 12.47825
+    },
+    {
+      "name": "Guldgränd",
+      "latitude": 59.320278,
+      "longitude": 18.069446
+    },
+    {
+      "name": "Guntorps Herrgård",
+      "latitude": 56.87229,
+      "longitude": 16.672103
+    },
+    {
+      "name": "Gustaf af Klint",
+      "latitude": 59.321347,
+      "longitude": 18.05129
+    },
+    {
+      "name": "Gustaf Fröding Hotell",
+      "latitude": 59.40056,
+      "longitude": 13.534949
+    },
+    {
+      "name": "Gylle hotell",
+      "latitude": 60.473557,
+      "longitude": 15.459308
+    },
+    {
+      "name": "Gyllene Geten",
+      "latitude": 59.325171,
+      "longitude": 18.07015
+    },
+    {
+      "name": "Gyllene Uttern",
+      "latitude": 57.996191,
+      "longitude": 14.440073
+    },
+    {
+      "name": "Gysinge Bruk",
+      "latitude": 60.289329,
+      "longitude": 16.884934
+    },
+    {
+      "name": "Gysinge Herrgård",
+      "latitude": 60.288,
+      "longitude": 16.881521
+    },
+    {
+      "name": "Gysinge Wärdshus & Hotell",
+      "latitude": 60.289626,
+      "longitude": 16.881021
+    },
+    {
+      "name": "Gällöfsta Konferens",
+      "latitude": 59.555258,
+      "longitude": 17.793505
+    },
+    {
+      "name": "Gässlingen",
+      "latitude": 55.419094,
+      "longitude": 12.849015
+    },
+    {
+      "name": "Gästflygeln",
+      "latitude": 58.709603,
+      "longitude": 15.770129
+    },
+    {
+      "name": "Görvälns slott",
+      "latitude": 59.4349,
+      "longitude": 17.787344
+    },
+    {
+      "name": "Göta",
+      "latitude": 59.27574,
+      "longitude": 15.212974
+    },
+    {
+      "name": "Göta Hotell",
+      "latitude": 58.560157,
+      "longitude": 15.283831
+    },
+    {
+      "name": "Götaströms värdshus",
+      "latitude": 57.450068,
+      "longitude": 14.099711
+    },
+    {
+      "name": "Haga Slott",
+      "latitude": 59.604219,
+      "longitude": 17.0498
+    },
+    {
+      "name": "Hagastrand, Autograph Collection",
+      "latitude": 59.369202,
+      "longitude": 18.031306
+    },
+    {
+      "name": "Halmstad Gårdshotell",
+      "latitude": 56.666779,
+      "longitude": 12.790864
+    },
+    {
+      "name": "Halmstad Hotel Apartments",
+      "latitude": 56.675264,
+      "longitude": 12.903815
+    },
+    {
+      "name": "Hamnhotellet Kronan",
+      "latitude": 55.866553,
+      "longitude": 12.825624
+    },
+    {
+      "name": "Handelshuset",
+      "latitude": 58.113129,
+      "longitude": 11.366949
+    },
+    {
+      "name": "Hans-Werner Bauss B&B",
+      "latitude": 56.204159,
+      "longitude": 15.131898
+    },
+    {
+      "name": "Haparanda Stadshotel",
+      "latitude": 65.83561,
+      "longitude": 24.135226
+    },
+    {
+      "name": "Happy Tammsvik",
+      "latitude": 59.500498,
+      "longitude": 17.599627
+    },
+    {
+      "name": "Harriniva",
+      "latitude": 67.933495,
+      "longitude": 23.657694
+    },
+    {
+      "name": "Hasselbacken",
+      "latitude": 59.325206,
+      "longitude": 18.098939
+    },
+    {
+      "name": "Haymarket",
+      "latitude": 59.334673,
+      "longitude": 18.061501
+    },
+    {
+      "name": "Hedenstugan B&B Hotell",
+      "latitude": 60.94031,
+      "longitude": 17.048111
+    },
+    {
+      "name": "HEIM Hotell",
+      "latitude": 61.002786,
+      "longitude": 14.536812
+    },
+    {
+      "name": "Hellstens glashus",
+      "latitude": 59.316641,
+      "longitude": 18.062387
+    },
+    {
+      "name": "Hellstens malmgård",
+      "latitude": 59.317727,
+      "longitude": 18.046668
+    },
+    {
+      "name": "Hem till gården",
+      "latitude": 59.636282,
+      "longitude": 16.537924
+    },
+    {
+      "name": "Hemavans Högfjällshotell",
+      "latitude": 65.816847,
+      "longitude": 15.098963
+    },
+    {
+      "name": "Herrgården Grythyttan",
+      "latitude": 59.70478,
+      "longitude": 14.549502
+    },
+    {
+      "name": "Herrljunga Hotell och Konferens",
+      "latitude": 58.078408,
+      "longitude": 13.022739
+    },
+    {
+      "name": "Hertig Karl",
+      "latitude": 59.711846,
+      "longitude": 14.169877
+    },
+    {
+      "name": "Hesselby Slott Hotell",
+      "latitude": 59.36566,
+      "longitude": 17.854836
+    },
+    {
+      "name": "Hestraviken hotel",
+      "latitude": 57.418586,
+      "longitude": 13.626885
+    },
+    {
+      "name": "Highway Hotell och Restaurang",
+      "latitude": 62.643372,
+      "longitude": 17.90849
+    },
+    {
+      "name": "Hilton Stockholm Slussen",
+      "latitude": 59.320476,
+      "longitude": 18.069245
+    },
+    {
+      "name": "Hobo",
+      "latitude": 59.331032,
+      "longitude": 18.067005
+    },
+    {
+      "name": "Holiday Club",
+      "latitude": 63.398558,
+      "longitude": 13.074617
+    },
+    {
+      "name": "Home Hotel Bergmästaren",
+      "latitude": 60.605837,
+      "longitude": 15.635438
+    },
+    {
+      "name": "Home Hotel Bilan",
+      "latitude": 59.379505,
+      "longitude": 13.50877
+    },
+    {
+      "name": "Home Hotel Bolinder Munktell",
+      "latitude": 59.376421,
+      "longitude": 16.511394
+    },
+    {
+      "name": "Home Hotel Borgen",
+      "latitude": 59.274331,
+      "longitude": 15.211994
+    },
+    {
+      "name": "Home Hotel Bristol",
+      "latitude": 59.65502,
+      "longitude": 12.59329
+    },
+    {
+      "name": "Home Hotel Cardinal",
+      "latitude": 56.878543,
+      "longitude": 14.805246
+    },
+    {
+      "name": "Home Hotel Cardinal",
+      "latitude": 56.878023,
+      "longitude": 14.804646
+    },
+    {
+      "name": "Home Hotel Carlscrona",
+      "latitude": 56.166955,
+      "longitude": 15.590465
+    },
+    {
+      "name": "Home Hotel Christian IV",
+      "latitude": 56.030567,
+      "longitude": 14.153219
+    },
+    {
+      "name": "Home Hotel Drott",
+      "latitude": 59.378631,
+      "longitude": 13.49902
+    },
+    {
+      "name": "Home Hotel Etage",
+      "latitude": 59.609784,
+      "longitude": 16.5458
+    },
+    {
+      "name": "Home Hotel Fregatten",
+      "latitude": 57.107838,
+      "longitude": 12.246429
+    },
+    {
+      "name": "Home Hotel Grand",
+      "latitude": 62.389588,
+      "longitude": 17.311241
+    },
+    {
+      "name": "Home Hotel Grand Helsingborg",
+      "latitude": 56.046479,
+      "longitude": 12.694592
+    },
+    {
+      "name": "Home Hotel Kompaniet",
+      "latitude": 58.748494,
+      "longitude": 17.015356
+    },
+    {
+      "name": "Home Hotel Kung Oscar",
+      "latitude": 58.285862,
+      "longitude": 12.293901
+    },
+    {
+      "name": "Home Hotel Magasinet",
+      "latitude": 55.37294,
+      "longitude": 13.154176
+    },
+    {
+      "name": "Home Hotel Majoren",
+      "latitude": 58.390705,
+      "longitude": 13.850594
+    },
+    {
+      "name": "Home Hotel Mektagonen",
+      "latitude": 57.681267,
+      "longitude": 12.000884
+    },
+    {
+      "name": "Home Hotel Norre Park",
+      "latitude": 56.67834,
+      "longitude": 12.858467
+    },
+    {
+      "name": "Home Hotel Odin",
+      "latitude": 57.709046,
+      "longitude": 11.979146
+    },
+    {
+      "name": "Home Hotel Plaza",
+      "latitude": 59.378476,
+      "longitude": 13.501829
+    },
+    {
+      "name": "Home Hotel Post",
+      "latitude": 57.264694,
+      "longitude": 16.449335
+    },
+    {
+      "name": "Home Hotel Slottsparken",
+      "latitude": 58.409053,
+      "longitude": 15.615561
+    },
+    {
+      "name": "Home Hotel Smedjan",
+      "latitude": 60.62111,
+      "longitude": 16.77746
+    },
+    {
+      "name": "Home Hotel Tapetfabriken",
+      "latitude": 59.304235,
+      "longitude": 18.120439
+    },
+    {
+      "name": "Home Hotel Tapto",
+      "latitude": 59.343601,
+      "longitude": 18.086439
+    },
+    {
+      "name": "Home Hotel Tapto",
+      "latitude": 56.661195,
+      "longitude": 16.366326
+    },
+    {
+      "name": "Home Hotel Temperance",
+      "latitude": 55.603939,
+      "longitude": 12.998454
+    },
+    {
+      "name": "Home Hotel Uman",
+      "latitude": 63.824306,
+      "longitude": 20.265725
+    },
+    {
+      "name": "Home Hotel Uppsala",
+      "latitude": 59.860134,
+      "longitude": 17.646731
+    },
+    {
+      "name": "Home Hotel Victoria",
+      "latitude": 57.782605,
+      "longitude": 14.160597
+    },
+    {
+      "name": "Home Hotel Wellington",
+      "latitude": 59.335171,
+      "longitude": 18.082403
+    },
+    {
+      "name": "Hooks Herrgård",
+      "latitude": 57.53936,
+      "longitude": 14.270968
+    },
+    {
+      "name": "Hornavan",
+      "latitude": 66.055639,
+      "longitude": 17.888414
+    },
+    {
+      "name": "Hornsgatan",
+      "latitude": 59.318583,
+      "longitude": 18.059217
+    },
+    {
+      "name": "Hotel 1622",
+      "latitude": 55.968152,
+      "longitude": 12.759899
+    },
+    {
+      "name": "Hotel Ahlström",
+      "latitude": 55.702843,
+      "longitude": 13.194149
+    },
+    {
+      "name": "Hotel Amadeus i Engelholm",
+      "latitude": 56.248612,
+      "longitude": 12.873352
+    },
+    {
+      "name": "Hotel Anno 1937",
+      "latitude": 56.032316,
+      "longitude": 14.153855
+    },
+    {
+      "name": "Hotel Ariston",
+      "latitude": 59.367503,
+      "longitude": 18.150475
+    },
+    {
+      "name": "Hotel Arkaden",
+      "latitude": 59.654697,
+      "longitude": 12.596329
+    },
+    {
+      "name": "Hotel Aveny",
+      "latitude": 63.828363,
+      "longitude": 20.265926
+    },
+    {
+      "name": "Hotel Bellevue",
+      "latitude": 58.30407,
+      "longitude": 14.292402
+    },
+    {
+      "name": "Hotel Bellora",
+      "latitude": 57.701521,
+      "longitude": 11.973828
+    },
+    {
+      "name": "Hotel Bentleys",
+      "latitude": 59.337593,
+      "longitude": 18.057566
+    },
+    {
+      "name": "Hotel Best Western John Bauer",
+      "latitude": 57.781525,
+      "longitude": 14.171412
+    },
+    {
+      "name": "Hotel Big Bengt",
+      "latitude": 57.262378,
+      "longitude": 13.828453
+    },
+    {
+      "name": "Hotel Bishop Arms Mora",
+      "latitude": 61.005132,
+      "longitude": 14.540305
+    },
+    {
+      "name": "Hotel Bishops Arms",
+      "latitude": 55.706309,
+      "longitude": 13.19137
+    },
+    {
+      "name": "Hotel Bishops Inn",
+      "latitude": 56.032445,
+      "longitude": 14.152052
+    },
+    {
+      "name": "Hotel Blanka",
+      "latitude": 57.107685,
+      "longitude": 12.249121
+    },
+    {
+      "name": "Hotel Borlänge",
+      "latitude": 60.486075,
+      "longitude": 15.436894
+    },
+    {
+      "name": "Hotel Boulogne",
+      "latitude": 60.674319,
+      "longitude": 17.133623
+    },
+    {
+      "name": "Hotel C Stockholm",
+      "latitude": 59.332132,
+      "longitude": 18.056839
+    },
+    {
+      "name": "Hotel Caprifol",
+      "latitude": 58.432846,
+      "longitude": 11.298462
+    },
+    {
+      "name": "Hotel Carl XII",
+      "latitude": 58.912712,
+      "longitude": 11.927778
+    },
+    {
+      "name": "Hotel Carlshamn",
+      "latitude": 56.168446,
+      "longitude": 14.863202
+    },
+    {
+      "name": "Hotel Center",
+      "latitude": 57.70348,
+      "longitude": 11.956122
+    },
+    {
+      "name": "Hotel Centric",
+      "latitude": 58.591125,
+      "longitude": 16.185195
+    },
+    {
+      "name": "Hotel City",
+      "latitude": 62.632023,
+      "longitude": 17.940015
+    },
+    {
+      "name": "Hotel Concordia",
+      "latitude": 55.70195,
+      "longitude": 13.189689
+    },
+    {
+      "name": "Hotel Continental",
+      "latitude": 56.670676,
+      "longitude": 12.861881
+    },
+    {
+      "name": "Hotel Continental",
+      "latitude": 55.427939,
+      "longitude": 13.822046
+    },
+    {
+      "name": "Hotel Danderyd",
+      "latitude": 59.402385,
+      "longitude": 18.034493
+    },
+    {
+      "name": "Hotel Dialog",
+      "latitude": 59.265819,
+      "longitude": 17.91538
+    },
+    {
+      "name": "Hotel Diplomat",
+      "latitude": 59.331965,
+      "longitude": 18.08053
+    },
+    {
+      "name": "Hotel Drott",
+      "latitude": 58.591633,
+      "longitude": 16.179495
+    },
+    {
+      "name": "Hotel E10",
+      "latitude": 67.846342,
+      "longitude": 20.257071
+    },
+    {
+      "name": "Hotel Edström",
+      "latitude": 65.590596,
+      "longitude": 19.17184
+    },
+    {
+      "name": "Hotel Eggers",
+      "latitude": 57.70811,
+      "longitude": 11.972291
+    },
+    {
+      "name": "Hotel Emma",
+      "latitude": 63.178162,
+      "longitude": 14.637071
+    },
+    {
+      "name": "Hotel Esplanad",
+      "latitude": 56.881382,
+      "longitude": 14.806086
+    },
+    {
+      "name": "Hotel Esplanade",
+      "latitude": 59.332219,
+      "longitude": 18.080153
+    },
+    {
+      "name": "Hotel Expo",
+      "latitude": 59.278746,
+      "longitude": 18.007954
+    },
+    {
+      "name": "Hotel Falun",
+      "latitude": 60.607027,
+      "longitude": 15.634035
+    },
+    {
+      "name": "Hotel Flora",
+      "latitude": 57.702793,
+      "longitude": 11.965605
+    },
+    {
+      "name": "Hotel Foresta",
+      "latitude": 59.360093,
+      "longitude": 18.120566
+    },
+    {
+      "name": "Hotel Fridhem",
+      "latitude": 59.33403,
+      "longitude": 18.03261
+    },
+    {
+      "name": "Hotel Garvaren",
+      "latitude": 56.831987,
+      "longitude": 13.933177
+    },
+    {
+      "name": "Hotel Giò",
+      "latitude": 59.363044,
+      "longitude": 18.023189
+    },
+    {
+      "name": "Hotel Golden Hof",
+      "latitude": 60.538714,
+      "longitude": 16.297427
+    },
+    {
+      "name": "Hotel Göingehof Hässleholm",
+      "latitude": 56.156213,
+      "longitude": 13.764914
+    },
+    {
+      "name": "Hotel Hellsten",
+      "latitude": 59.341459,
+      "longitude": 18.059701
+    },
+    {
+      "name": "Hotel Hulingen",
+      "latitude": 57.488178,
+      "longitude": 15.843065
+    },
+    {
+      "name": "Hotel Hundfjallet-Salbacksheden",
+      "latitude": 60.924432,
+      "longitude": 16.714238
+    },
+    {
+      "name": "Hotel Ibis - Good Morning Karlstad City",
+      "latitude": 59.382365,
+      "longitude": 13.502116
+    },
+    {
+      "name": "Hotel J",
+      "latitude": 59.318557,
+      "longitude": 18.165047
+    },
+    {
+      "name": "Hotel J",
+      "latitude": 59.318126,
+      "longitude": 18.165351
+    },
+    {
+      "name": "Hotel Jokkmokk",
+      "latitude": 66.602282,
+      "longitude": 19.830486
+    },
+    {
+      "name": "Hotel Knaust",
+      "latitude": 62.390516,
+      "longitude": 17.311039
+    },
+    {
+      "name": "Hotel Kosta Lodge",
+      "latitude": 56.833512,
+      "longitude": 15.400942
+    },
+    {
+      "name": "Hotel Kramer",
+      "latitude": 55.606824,
+      "longitude": 12.999422
+    },
+    {
+      "name": "Hotel Kringelstaden",
+      "latitude": 59.194049,
+      "longitude": 17.626108
+    },
+    {
+      "name": "Hotel Kullaberg",
+      "latitude": 56.282716,
+      "longitude": 12.494619
+    },
+    {
+      "name": "Hotel Levar",
+      "latitude": 63.570784,
+      "longitude": 19.524795
+    },
+    {
+      "name": "Hotel Lilton",
+      "latitude": 56.243392,
+      "longitude": 12.857816
+    },
+    {
+      "name": "Hotel Liseberg Heden",
+      "latitude": 57.701633,
+      "longitude": 11.981407
+    },
+    {
+      "name": "Hotel Lorensberg",
+      "latitude": 57.698811,
+      "longitude": 11.983429
+    },
+    {
+      "name": "Hotel Lundia",
+      "latitude": 55.705433,
+      "longitude": 13.188976
+    },
+    {
+      "name": "Hotel Lysekil",
+      "latitude": 58.272982,
+      "longitude": 11.436688
+    },
+    {
+      "name": "Hotel Malmköping",
+      "latitude": 59.137985,
+      "longitude": 16.722419
+    },
+    {
+      "name": "Hotel Metro Stockholm AB",
+      "latitude": 59.299458,
+      "longitude": 18.017308
+    },
+    {
+      "name": "Hotel Mortensen",
+      "latitude": 55.604723,
+      "longitude": 13.001768
+    },
+    {
+      "name": "Hotel Mölndals Bro",
+      "latitude": 57.656746,
+      "longitude": 12.019979
+    },
+    {
+      "name": "Hotel Noble House",
+      "latitude": 55.60362,
+      "longitude": 12.999744
+    },
+    {
+      "name": "Hotel Nordic Lund",
+      "latitude": 55.701495,
+      "longitude": 13.198139
+    },
+    {
+      "name": "Hotel Nordica",
+      "latitude": 63.849457,
+      "longitude": 15.558799
+    },
+    {
+      "name": "Hotel Opera",
+      "latitude": 57.707793,
+      "longitude": 11.971157
+    },
+    {
+      "name": "Hotel Park Allé",
+      "latitude": 56.028889,
+      "longitude": 14.154572
+    },
+    {
+      "name": "Hotel PerOlofGården",
+      "latitude": 58.958804,
+      "longitude": 15.063846
+    },
+    {
+      "name": "Hotel Pigalle",
+      "latitude": 57.706954,
+      "longitude": 11.970752
+    },
+    {
+      "name": "Hotel Point",
+      "latitude": 59.310767,
+      "longitude": 18.078581
+    },
+    {
+      "name": "Hotel Poseidon",
+      "latitude": 57.700094,
+      "longitude": 11.96997
+    },
+    {
+      "name": "Hotel President",
+      "latitude": 58.593974,
+      "longitude": 16.181424
+    },
+    {
+      "name": "Hotel Riddargatan - ProfilHotels",
+      "latitude": 59.334383,
+      "longitude": 18.076619
+    },
+    {
+      "name": "Hotel Riverside",
+      "latitude": 58.348789,
+      "longitude": 11.92549
+    },
+    {
+      "name": "Hotel Riverton",
+      "latitude": 57.703774,
+      "longitude": 11.956541
+    },
+    {
+      "name": "Hotel Riviera Strand",
+      "latitude": 56.43248,
+      "longitude": 12.871915
+    },
+    {
+      "name": "Hotel Royal",
+      "latitude": 57.706361,
+      "longitude": 11.972232
+    },
+    {
+      "name": "Hotel Ruth",
+      "latitude": 59.345346,
+      "longitude": 18.056848
+    },
+    {
+      "name": "Hotel Rådhuset",
+      "latitude": 58.504647,
+      "longitude": 13.157514
+    },
+    {
+      "name": "Hotel Scandic Triangeln",
+      "latitude": 55.596408,
+      "longitude": 13.001461
+    },
+    {
+      "name": "Hotel Sjövillan",
+      "latitude": 59.479859,
+      "longitude": 17.92422
+    },
+    {
+      "name": "Hotel Skansen",
+      "latitude": 56.434934,
+      "longitude": 12.838649
+    },
+    {
+      "name": "Hotel Skövde",
+      "latitude": 58.389063,
+      "longitude": 13.850546
+    },
+    {
+      "name": "Hotel Slottsbacken",
+      "latitude": 57.636358,
+      "longitude": 18.289432
+    },
+    {
+      "name": "Hotel Slottsholmen",
+      "latitude": 57.761507,
+      "longitude": 16.643403
+    },
+    {
+      "name": "Hotel Småland",
+      "latitude": 57.35079,
+      "longitude": 14.09757
+    },
+    {
+      "name": "Hotel Stadsparken",
+      "latitude": 56.043434,
+      "longitude": 12.697459
+    },
+    {
+      "name": "Hotel Stelor",
+      "latitude": 57.447701,
+      "longitude": 18.141958
+    },
+    {
+      "name": "Hotel Steria",
+      "latitude": 56.908644,
+      "longitude": 12.485257
+    },
+    {
+      "name": "Hotel Stinsen",
+      "latitude": 59.065961,
+      "longitude": 15.111821
+    },
+    {
+      "name": "Hotel Storfors",
+      "latitude": 59.538346,
+      "longitude": 14.278423
+    },
+    {
+      "name": "Hotel Svea",
+      "latitude": 55.558751,
+      "longitude": 14.352633
+    },
+    {
+      "name": "Hotel Sven Vintappare",
+      "latitude": 59.324806,
+      "longitude": 18.068784
+    },
+    {
+      "name": "Hotel Söder",
+      "latitude": 59.315223,
+      "longitude": 18.077184
+    },
+    {
+      "name": "Hotel Terraza",
+      "latitude": 56.833418,
+      "longitude": 13.939893
+    },
+    {
+      "name": "Hotel Tornet",
+      "latitude": 56.04989,
+      "longitude": 12.70013
+    },
+    {
+      "name": "Hotel Torslanda Studios",
+      "latitude": 57.708995,
+      "longitude": 11.780144
+    },
+    {
+      "name": "Hotel Trollhättan",
+      "latitude": 58.283776,
+      "longitude": 12.286934
+    },
+    {
+      "name": "Hotel Tylebäck",
+      "latitude": 56.657502,
+      "longitude": 12.740958
+    },
+    {
+      "name": "Hotel Ullinge",
+      "latitude": 57.622069,
+      "longitude": 14.865884
+    },
+    {
+      "name": "Hotel Uppsala",
+      "latitude": 59.861728,
+      "longitude": 17.6377
+    },
+    {
+      "name": "Hotel Vanilla",
+      "latitude": 57.705112,
+      "longitude": 11.966922
+    },
+    {
+      "name": "Hotel Vasa",
+      "latitude": 57.69893,
+      "longitude": 11.965348
+    },
+    {
+      "name": "Hotel Victoria",
+      "latitude": 64.750504,
+      "longitude": 20.953242
+    },
+    {
+      "name": "Hotel Vidöstern",
+      "latitude": 57.164092,
+      "longitude": 14.07352
+    },
+    {
+      "name": "Hotel Vilja",
+      "latitude": 63.832583,
+      "longitude": 20.2812
+    },
+    {
+      "name": "Hotel Villa Alma",
+      "latitude": 57.641268,
+      "longitude": 18.29017
+    },
+    {
+      "name": "Hotel Villa Dagmar",
+      "latitude": 59.335541,
+      "longitude": 18.077925
+    },
+    {
+      "name": "Hotel Villa Dahlia",
+      "latitude": 59.338789,
+      "longitude": 18.054725
+    },
+    {
+      "name": "Hotel Villa Sparta",
+      "latitude": 65.675294,
+      "longitude": 21.003853
+    },
+    {
+      "name": "Hotel Von Kraemer",
+      "latitude": 59.848279,
+      "longitude": 17.635345
+    },
+    {
+      "name": "Hotel Wi",
+      "latitude": 58.706106,
+      "longitude": 13.827001
+    },
+    {
+      "name": "Hotel Wictoria",
+      "latitude": 58.706101,
+      "longitude": 13.826923
+    },
+    {
+      "name": "Hotel with Urban Deli",
+      "latitude": 59.336948,
+      "longitude": 18.062656
+    },
+    {
+      "name": "Hotel Zäta",
+      "latitude": 63.177395,
+      "longitude": 14.636682
+    },
+    {
+      "name": "Hotel Åberg",
+      "latitude": 58.037579,
+      "longitude": 14.978454
+    },
+    {
+      "name": "Hotel Åregården",
+      "latitude": 63.399421,
+      "longitude": 13.078985
+    },
+    {
+      "name": "Hotel Öresund",
+      "latitude": 55.868438,
+      "longitude": 12.825356
+    },
+    {
+      "name": "Hotel Örgryte",
+      "latitude": 57.709322,
+      "longitude": 12.007072
+    },
+    {
+      "name": "Hotell & Konferens Bokenäset",
+      "latitude": 58.26092,
+      "longitude": 11.599081
+    },
+    {
+      "name": "Hotell & Omklädning",
+      "latitude": 57.064316,
+      "longitude": 12.349924
+    },
+    {
+      "name": "Hotell & Restaurang",
+      "latitude": 57.063696,
+      "longitude": 12.350036
+    },
+    {
+      "name": "Hotell & Vandrarhem Kungsängstorg",
+      "latitude": 59.854907,
+      "longitude": 17.647661
+    },
+    {
+      "name": "Hotell 46:an",
+      "latitude": 58.383865,
+      "longitude": 12.327587
+    },
+    {
+      "name": "Hotell Aina",
+      "latitude": 62.315224,
+      "longitude": 17.369381
+    },
+    {
+      "name": "Hotell Akerlund",
+      "latitude": 66.606688,
+      "longitude": 19.832951
+    },
+    {
+      "name": "Hotell Alderholmen",
+      "latitude": 60.676365,
+      "longitude": 17.155316
+    },
+    {
+      "name": "Hotell Alfred Nobel",
+      "latitude": 59.32745,
+      "longitude": 14.524057
+    },
+    {
+      "name": "Hotell Allén",
+      "latitude": 57.703685,
+      "longitude": 11.976514
+    },
+    {
+      "name": "Hotell Amber",
+      "latitude": 65.58384,
+      "longitude": 22.161976
+    },
+    {
+      "name": "Hotell Amigo",
+      "latitude": 56.629412,
+      "longitude": 15.540327
+    },
+    {
+      "name": "Hotell Angöringen",
+      "latitude": 56.206545,
+      "longitude": 15.644309
+    },
+    {
+      "name": "Hotell Annexet",
+      "latitude": 64.863966,
+      "longitude": 20.393076
+    },
+    {
+      "name": "Hotell Anstalten",
+      "latitude": 59.651074,
+      "longitude": 17.72005
+    },
+    {
+      "name": "Hotell Appelberg",
+      "latitude": 63.168,
+      "longitude": 17.267827
+    },
+    {
+      "name": "Hotell Arena",
+      "latitude": 57.70918,
+      "longitude": 11.985906
+    },
+    {
+      "name": "Hotell Arkad",
+      "latitude": 59.612097,
+      "longitude": 16.549297
+    },
+    {
+      "name": "Hotell Aston",
+      "latitude": 56.162345,
+      "longitude": 15.58465
+    },
+    {
+      "name": "Hotell Aurum",
+      "latitude": 64.735359,
+      "longitude": 20.969443
+    },
+    {
+      "name": "Hotell Aveny",
+      "latitude": 60.669849,
+      "longitude": 17.149384
+    },
+    {
+      "name": "Hotell Barken Viking",
+      "latitude": 57.712794,
+      "longitude": 11.965472
+    },
+    {
+      "name": "Hotell Bele",
+      "latitude": 58.284965,
+      "longitude": 12.289794
+    },
+    {
+      "name": "Hotell Bergsmannen",
+      "latitude": 60.545586,
+      "longitude": 16.287224
+    },
+    {
+      "name": "Hotell Björken",
+      "latitude": 63.819805,
+      "longitude": 20.298598
+    },
+    {
+      "name": "Hotell Björnfällan",
+      "latitude": 67.11315,
+      "longitude": 20.628939
+    },
+    {
+      "name": "Hotell Bogesund",
+      "latitude": 57.794856,
+      "longitude": 13.412282
+    },
+    {
+      "name": "Hotell Bolombolo",
+      "latitude": 66.849367,
+      "longitude": 23.059283
+    },
+    {
+      "name": "Hotell Borgafjäll & Spa",
+      "latitude": 64.836831,
+      "longitude": 15.082362
+    },
+    {
+      "name": "Hotell Borgholm",
+      "latitude": 56.878901,
+      "longitude": 16.657646
+    },
+    {
+      "name": "Hotell Botanika",
+      "latitude": 59.862661,
+      "longitude": 17.633339
+    },
+    {
+      "name": "Hotell Breda Blick",
+      "latitude": 57.644514,
+      "longitude": 18.296528
+    },
+    {
+      "name": "Hotell Briggen",
+      "latitude": 55.927515,
+      "longitude": 14.304963
+    },
+    {
+      "name": "Hotell Bro",
+      "latitude": 59.308206,
+      "longitude": 14.110162
+    },
+    {
+      "name": "Hotell Bruksvallsliden",
+      "latitude": 62.639666,
+      "longitude": 12.417924
+    },
+    {
+      "name": "Hotell Carl Friman",
+      "latitude": 58.538736,
+      "longitude": 15.045425
+    },
+    {
+      "name": "Hotell Charlottenberg",
+      "latitude": 59.882181,
+      "longitude": 12.287487
+    },
+    {
+      "name": "Hotell Conrad",
+      "latitude": 56.164491,
+      "longitude": 15.583275
+    },
+    {
+      "name": "Hotell Conrad företagslägenheter",
+      "latitude": 56.160778,
+      "longitude": 15.581958
+    },
+    {
+      "name": "Hotell Dacke",
+      "latitude": 57.315018,
+      "longitude": 15.582979
+    },
+    {
+      "name": "Hotell Dalia",
+      "latitude": 59.029558,
+      "longitude": 12.232071
+    },
+    {
+      "name": "Hotell Dalsland",
+      "latitude": 58.912057,
+      "longitude": 11.92365
+    },
+    {
+      "name": "Hotell Davids Kulle",
+      "latitude": 56.212034,
+      "longitude": 15.269533
+    },
+    {
+      "name": "Hotell Dragonen",
+      "latitude": 63.82926,
+      "longitude": 20.260136
+    },
+    {
+      "name": "Hotell Drottninggatan 11",
+      "latitude": 65.823595,
+      "longitude": 21.686602
+    },
+    {
+      "name": "Hotell Dundret",
+      "latitude": 67.134717,
+      "longitude": 20.655281
+    },
+    {
+      "name": "Hotell Duvedsgården",
+      "latitude": 63.390628,
+      "longitude": 12.917185
+    },
+    {
+      "name": "Hotell Edgar",
+      "latitude": 56.050707,
+      "longitude": 14.579803
+    },
+    {
+      "name": "Hotell Eken",
+      "latitude": 57.601529,
+      "longitude": 12.053034
+    },
+    {
+      "name": "Hotell Engelbrekt",
+      "latitude": 60.064464,
+      "longitude": 15.924467
+    },
+    {
+      "name": "Hotell Erikslund",
+      "latitude": 56.194029,
+      "longitude": 12.855767
+    },
+    {
+      "name": "Hotell ett",
+      "latitude": 63.176693,
+      "longitude": 14.672455
+    },
+    {
+      "name": "Hotell Falköping",
+      "latitude": 58.16731,
+      "longitude": 13.559587
+    },
+    {
+      "name": "Hotell Fars Hatt",
+      "latitude": 57.864854,
+      "longitude": 11.996218
+    },
+    {
+      "name": "Hotell Fjället",
+      "latitude": 68.406689,
+      "longitude": 18.675415
+    },
+    {
+      "name": "Hotell Focus",
+      "latitude": 63.28928,
+      "longitude": 18.713086
+    },
+    {
+      "name": "Hotell Forsen",
+      "latitude": 64.211189,
+      "longitude": 19.706922
+    },
+    {
+      "name": "Hotell Frykenstrand",
+      "latitude": 59.886503,
+      "longitude": 13.141002
+    },
+    {
+      "name": "Hotell Funäsdalen",
+      "latitude": 62.545014,
+      "longitude": 12.544092
+    },
+    {
+      "name": "Hotell Furusund",
+      "latitude": 59.659002,
+      "longitude": 18.916221
+    },
+    {
+      "name": "Hotell Fyrislund",
+      "latitude": 59.851504,
+      "longitude": 17.693728
+    },
+    {
+      "name": "Hotell Fängelset",
+      "latitude": 57.755103,
+      "longitude": 16.642681
+    },
+    {
+      "name": "Hotell Gamla Fängelset i Umeå",
+      "latitude": 63.822398,
+      "longitude": 20.27556
+    },
+    {
+      "name": "Hotell Gamla Staden",
+      "latitude": 65.854869,
+      "longitude": 23.134596
+    },
+    {
+      "name": "Hotell Gamla Stan",
+      "latitude": 59.324662,
+      "longitude": 18.075349
+    },
+    {
+      "name": "Hotell Gaspar",
+      "latitude": 66.848406,
+      "longitude": 23.05901
+    },
+    {
+      "name": "Hotell Gillet",
+      "latitude": 59.509995,
+      "longitude": 15.998878
+    },
+    {
+      "name": "Hotell Gillet",
+      "latitude": 58.998905,
+      "longitude": 16.209113
+    },
+    {
+      "name": "Hotell Glada Hudik",
+      "latitude": 61.742586,
+      "longitude": 17.078212
+    },
+    {
+      "name": "Hotell Granen",
+      "latitude": 63.401565,
+      "longitude": 13.082827
+    },
+    {
+      "name": "Hotell Granen Kittelfjäll",
+      "latitude": 65.251867,
+      "longitude": 15.563616
+    },
+    {
+      "name": "Hotell Grönfeltsgården",
+      "latitude": 59.321939,
+      "longitude": 14.53176
+    },
+    {
+      "name": "Hotell Gustaf",
+      "latitude": 58.528863,
+      "longitude": 13.492417
+    },
+    {
+      "name": "Hotell Gärdebygården",
+      "latitude": 60.86731,
+      "longitude": 15.101608
+    },
+    {
+      "name": "Hotell Gästis",
+      "latitude": 57.107059,
+      "longitude": 12.249255
+    },
+    {
+      "name": "Hotell Gästis",
+      "latitude": 55.641242,
+      "longitude": 13.215485
+    },
+    {
+      "name": "Hotell Gästis & Restaurang",
+      "latitude": 56.996265,
+      "longitude": 15.287332
+    },
+    {
+      "name": "Hotell Göta Avenyn",
+      "latitude": 57.700552,
+      "longitude": 11.976318
+    },
+    {
+      "name": "Hotell H5",
+      "latitude": 56.04597,
+      "longitude": 12.695113
+    },
+    {
+      "name": "Hotell Halland",
+      "latitude": 57.489088,
+      "longitude": 12.077605
+    },
+    {
+      "name": "Hotell Hallstaberget",
+      "latitude": 63.159491,
+      "longitude": 17.238766
+    },
+    {
+      "name": "Hotell Hammarstrand",
+      "latitude": 63.113995,
+      "longitude": 16.322628
+    },
+    {
+      "name": "Hotell Hamngatan 27",
+      "latitude": 56.899896,
+      "longitude": 12.495918
+    },
+    {
+      "name": "Hotell Hanöbris",
+      "latitude": 55.682354,
+      "longitude": 14.228094
+    },
+    {
+      "name": "Hotell Havanna",
+      "latitude": 57.100688,
+      "longitude": 12.246538
+    },
+    {
+      "name": "Hotell Havsbaden",
+      "latitude": 60.099529,
+      "longitude": 18.814505
+    },
+    {
+      "name": "Hotell Hehrne",
+      "latitude": 58.339801,
+      "longitude": 12.36029
+    },
+    {
+      "name": "Hotell Hemgården",
+      "latitude": 59.027764,
+      "longitude": 12.229761
+    },
+    {
+      "name": "Hotell Henån",
+      "latitude": 58.236053,
+      "longitude": 11.6795
+    },
+    {
+      "name": "Hotell Hilda",
+      "latitude": 56.665759,
+      "longitude": 16.355251
+    },
+    {
+      "name": "Hotell Hjalmar",
+      "latitude": 59.277412,
+      "longitude": 15.215898
+    },
+    {
+      "name": "Hotell Humbla",
+      "latitude": 56.049236,
+      "longitude": 14.579439
+    },
+    {
+      "name": "Hotell Härjedalen",
+      "latitude": 62.034604,
+      "longitude": 14.369451
+    },
+    {
+      "name": "Hotell Höga Kusten",
+      "latitude": 62.803128,
+      "longitude": 17.951512
+    },
+    {
+      "name": "Hotell Högland",
+      "latitude": 57.652437,
+      "longitude": 14.696058
+    },
+    {
+      "name": "Hotell Hörnan",
+      "latitude": 58.586133,
+      "longitude": 16.18809
+    },
+    {
+      "name": "Hotell J",
+      "latitude": 59.318474,
+      "longitude": 18.164995
+    },
+    {
+      "name": "Hotell Jemtlandia",
+      "latitude": 63.172179,
+      "longitude": 14.635994
+    },
+    {
+      "name": "Hotell Jämteborg",
+      "latitude": 63.174185,
+      "longitude": 14.635641
+    },
+    {
+      "name": "Hotell Kallgården",
+      "latitude": 63.474422,
+      "longitude": 13.233779
+    },
+    {
+      "name": "Hotell Kittelfjäll",
+      "latitude": 65.250499,
+      "longitude": 15.487655
+    },
+    {
+      "name": "Hotell Klimpfjäll",
+      "latitude": 65.063423,
+      "longitude": 14.8097
+    },
+    {
+      "name": "Hotell Kneippen",
+      "latitude": 58.586106,
+      "longitude": 16.16125
+    },
+    {
+      "name": "Hotell Kramm",
+      "latitude": 62.932397,
+      "longitude": 17.775208
+    },
+    {
+      "name": "Hotell Krey",
+      "latitude": 59.331187,
+      "longitude": 14.545445
+    },
+    {
+      "name": "Hotell Kristina",
+      "latitude": 59.618515,
+      "longitude": 17.727231
+    },
+    {
+      "name": "Hotell Kronmunken",
+      "latitude": 57.023989,
+      "longitude": 16.431028
+    },
+    {
+      "name": "Hotell Kroppefjäll",
+      "latitude": 58.706147,
+      "longitude": 12.339188
+    },
+    {
+      "name": "Hotell Kukkolaforsen",
+      "latitude": 65.960945,
+      "longitude": 24.041481
+    },
+    {
+      "name": "Hotell Kung Gösta",
+      "latitude": 61.010666,
+      "longitude": 14.56153
+    },
+    {
+      "name": "Hotell Kungsbacken",
+      "latitude": 58.992334,
+      "longitude": 16.20053
+    },
+    {
+      "name": "Hotell Kungshamn",
+      "latitude": 58.361056,
+      "longitude": 11.250001
+    },
+    {
+      "name": "Hotell Kungsljus",
+      "latitude": 57.757829,
+      "longitude": 16.639391
+    },
+    {
+      "name": "Hotell Kusten",
+      "latitude": 57.69363,
+      "longitude": 11.917711
+    },
+    {
+      "name": "Hotell Källan",
+      "latitude": 65.027317,
+      "longitude": 19.024875
+    },
+    {
+      "name": "Hotell Käringön",
+      "latitude": 58.113366,
+      "longitude": 11.367022
+    },
+    {
+      "name": "Hotell Lappland",
+      "latitude": 64.591948,
+      "longitude": 18.688093
+    },
+    {
+      "name": "Hotell Lassalyckan",
+      "latitude": 57.782949,
+      "longitude": 13.438664
+    },
+    {
+      "name": "Hotell Laurentius",
+      "latitude": 59.375474,
+      "longitude": 17.03716
+    },
+    {
+      "name": "Hotell Leksand",
+      "latitude": 60.732594,
+      "longitude": 14.996957
+    },
+    {
+      "name": "Hotell Linblomman",
+      "latitude": 61.301639,
+      "longitude": 17.041616
+    },
+    {
+      "name": "Hotell Lindängen",
+      "latitude": 60.617568,
+      "longitude": 16.763583
+    },
+    {
+      "name": "Hotell Linnéa",
+      "latitude": 56.834465,
+      "longitude": 13.936469
+    },
+    {
+      "name": "Hotell Linnéa",
+      "latitude": 56.043966,
+      "longitude": 12.696231
+    },
+    {
+      "name": "Hotell Luspen",
+      "latitude": 65.095916,
+      "longitude": 17.111547
+    },
+    {
+      "name": "Hotell Magasin 1",
+      "latitude": 56.527885,
+      "longitude": 16.375167
+    },
+    {
+      "name": "Hotell Maria Eriksson",
+      "latitude": 57.698483,
+      "longitude": 11.974506
+    },
+    {
+      "name": "Hotell Marieberg",
+      "latitude": 59.323026,
+      "longitude": 14.092079
+    },
+    {
+      "name": "Hotell Mittlandia",
+      "latitude": 62.525525,
+      "longitude": 15.660073
+    },
+    {
+      "name": "Hotell Moliljan",
+      "latitude": 57.391622,
+      "longitude": 15.777583
+    },
+    {
+      "name": "Hotell Monica",
+      "latitude": 60.041776,
+      "longitude": 13.693522
+    },
+    {
+      "name": "Hotell Montagne",
+      "latitude": 58.865321,
+      "longitude": 15.000504
+    },
+    {
+      "name": "Hotell Mora Parken",
+      "latitude": 61.01017,
+      "longitude": 14.525852
+    },
+    {
+      "name": "Hotell Målilla",
+      "latitude": 57.39072,
+      "longitude": 15.824055
+    },
+    {
+      "name": "Hotell Månen",
+      "latitude": 59.263538,
+      "longitude": 17.90621
+    },
+    {
+      "name": "Hotell Mårtensson",
+      "latitude": 56.677091,
+      "longitude": 12.859814
+    },
+    {
+      "name": "Hotell Natti Natti",
+      "latitude": 56.67119,
+      "longitude": 12.864086
+    },
+    {
+      "name": "Hotell Nattmössan",
+      "latitude": 57.477723,
+      "longitude": 12.084831
+    },
+    {
+      "name": "Hotell Nautic",
+      "latitude": 57.88811,
+      "longitude": 11.580668
+    },
+    {
+      "name": "Hotell Nordevik",
+      "latitude": 57.984719,
+      "longitude": 11.549711
+    },
+    {
+      "name": "Hotell Nordic",
+      "latitude": 58.596822,
+      "longitude": 16.17229
+    },
+    {
+      "name": "Hotell Norra Vättern",
+      "latitude": 58.879489,
+      "longitude": 14.898317
+    },
+    {
+      "name": "Hotell Norrvalla",
+      "latitude": 55.608142,
+      "longitude": 13.004999
+    },
+    {
+      "name": "Hotell Onyxen",
+      "latitude": 57.699307,
+      "longitude": 11.985461
+    },
+    {
+      "name": "Hotell Oskar",
+      "latitude": 55.70454,
+      "longitude": 13.189109
+    },
+    {
+      "name": "Hotell Pausa",
+      "latitude": 56.136469,
+      "longitude": 13.129492
+    },
+    {
+      "name": "Hotell Pilen",
+      "latitude": 63.821959,
+      "longitude": 20.27664
+    },
+    {
+      "name": "Hotell Plevnagården",
+      "latitude": 59.137629,
+      "longitude": 16.731478
+    },
+    {
+      "name": "Hotell Port Sud",
+      "latitude": 57.988707,
+      "longitude": 11.540142
+    },
+    {
+      "name": "Hotell Prins Carl",
+      "latitude": 55.42834,
+      "longitude": 13.821348
+    },
+    {
+      "name": "Hotell Prästgården",
+      "latitude": 66.394682,
+      "longitude": 23.644795
+    },
+    {
+      "name": "Hotell på hörnet",
+      "latitude": 56.165334,
+      "longitude": 15.588673
+    },
+    {
+      "name": "Hotell Ranten",
+      "latitude": 58.174905,
+      "longitude": 13.551794
+    },
+    {
+      "name": "Hotell Repet",
+      "latitude": 57.638911,
+      "longitude": 18.297179
+    },
+    {
+      "name": "Hotell Riksgränsen",
+      "latitude": 68.426456,
+      "longitude": 18.124983
+    },
+    {
+      "name": "Hotell Ronja",
+      "latitude": 57.664039,
+      "longitude": 15.850332
+    },
+    {
+      "name": "Hotell Royal",
+      "latitude": 62.635522,
+      "longitude": 17.931499
+    },
+    {
+      "name": "Hotell Rättvik",
+      "latitude": 60.886102,
+      "longitude": 15.115062
+    },
+    {
+      "name": "Hotell Rådmannen",
+      "latitude": 56.899718,
+      "longitude": 14.555031
+    },
+    {
+      "name": "Hotell Rödesund",
+      "latitude": 58.53731,
+      "longitude": 14.504386
+    },
+    {
+      "name": "Hotell S:t Clemens",
+      "latitude": 57.643022,
+      "longitude": 18.295761
+    },
+    {
+      "name": "Hotell Samegård",
+      "latitude": 67.86079,
+      "longitude": 20.219882
+    },
+    {
+      "name": "Hotell Sankt Olof",
+      "latitude": 58.169001,
+      "longitude": 13.551827
+    },
+    {
+      "name": "Hotell Savoy",
+      "latitude": 65.584954,
+      "longitude": 22.157949
+    },
+    {
+      "name": "Hotell Savoy",
+      "latitude": 59.378625,
+      "longitude": 13.501466
+    },
+    {
+      "name": "Hotell Siesta",
+      "latitude": 56.160552,
+      "longitude": 15.584561
+    },
+    {
+      "name": "Hotell Silverhatten",
+      "latitude": 66.038059,
+      "longitude": 17.858549
+    },
+    {
+      "name": "Hotell Skansen",
+      "latitude": 56.648899,
+      "longitude": 16.467258
+    },
+    {
+      "name": "Hotell Slottsgården",
+      "latitude": 58.444791,
+      "longitude": 14.882333
+    },
+    {
+      "name": "Hotell Solhem Park",
+      "latitude": 57.719221,
+      "longitude": 12.964996
+    },
+    {
+      "name": "Hotell Solsta",
+      "latitude": 59.379114,
+      "longitude": 13.502466
+    },
+    {
+      "name": "Hotell Spekeröd",
+      "latitude": 58.023666,
+      "longitude": 11.846946
+    },
+    {
+      "name": "Hotell Statt Hässleholm",
+      "latitude": 56.157725,
+      "longitude": 13.765736
+    },
+    {
+      "name": "Hotell Stella",
+      "latitude": 59.855958,
+      "longitude": 17.619777
+    },
+    {
+      "name": "Hotell Stensborg",
+      "latitude": 64.7542,
+      "longitude": 20.959096
+    },
+    {
+      "name": "Hotell Stensson",
+      "latitude": 55.838569,
+      "longitude": 13.303676
+    },
+    {
+      "name": "Hotell Stenugnen",
+      "latitude": 57.638225,
+      "longitude": 18.289574
+    },
+    {
+      "name": "Hotell Storforsen",
+      "latitude": 65.856636,
+      "longitude": 20.42366
+    },
+    {
+      "name": "Hotell Stortorget",
+      "latitude": 63.17982,
+      "longitude": 14.636686
+    },
+    {
+      "name": "Hotell Strana",
+      "latitude": 58.117972,
+      "longitude": 11.457225
+    },
+    {
+      "name": "Hotell Strandvillan",
+      "latitude": 61.122905,
+      "longitude": 14.619051
+    },
+    {
+      "name": "Hotell Sydjemten",
+      "latitude": 62.767619,
+      "longitude": 14.438726
+    },
+    {
+      "name": "Hotell Södra Berget",
+      "latitude": 62.369156,
+      "longitude": 17.320782
+    },
+    {
+      "name": "Hotell Teg",
+      "latitude": 63.817775,
+      "longitude": 20.247151
+    },
+    {
+      "name": "Hotell Tinget",
+      "latitude": 59.91802,
+      "longitude": 16.604483
+    },
+    {
+      "name": "Hotell Toppen",
+      "latitude": 65.094755,
+      "longitude": 17.11569
+    },
+    {
+      "name": "Hotell Tornedalia",
+      "latitude": 66.382564,
+      "longitude": 23.648829
+    },
+    {
+      "name": "Hotell Tornväktaren",
+      "latitude": 55.430458,
+      "longitude": 13.82539
+    },
+    {
+      "name": "Hotell Uddewalla",
+      "latitude": 58.352966,
+      "longitude": 11.926956
+    },
+    {
+      "name": "Hotell Ulvön",
+      "latitude": 63.02228,
+      "longitude": 18.657736
+    },
+    {
+      "name": "Hotell Valhall",
+      "latitude": 65.855633,
+      "longitude": 23.143546
+    },
+    {
+      "name": "Hotell Veckefjärden",
+      "latitude": 63.288291,
+      "longitude": 18.678419
+    },
+    {
+      "name": "Hotell Vega",
+      "latitude": 58.894784,
+      "longitude": 17.551098
+    },
+    {
+      "name": "Hotell Vesterhavet",
+      "latitude": 56.898557,
+      "longitude": 12.523967
+    },
+    {
+      "name": "Hotell Viken",
+      "latitude": 58.20636,
+      "longitude": 16.596334
+    },
+    {
+      "name": "Hotell Viking",
+      "latitude": 58.352507,
+      "longitude": 11.924477
+    },
+    {
+      "name": "Hotell Vildmarken",
+      "latitude": 59.326483,
+      "longitude": 12.637612
+    },
+    {
+      "name": "Hotell Villa Borgen",
+      "latitude": 57.636189,
+      "longitude": 18.293156
+    },
+    {
+      "name": "Hotell Villan",
+      "latitude": 57.701227,
+      "longitude": 11.915119
+    },
+    {
+      "name": "Hotell Vindelngallerian",
+      "latitude": 64.201214,
+      "longitude": 19.727544
+    },
+    {
+      "name": "Hotell Vädergränd",
+      "latitude": 55.430876,
+      "longitude": 13.82582
+    },
+    {
+      "name": "Hotell Vännäs",
+      "latitude": 63.908786,
+      "longitude": 19.753442
+    },
+    {
+      "name": "Hotell Värend",
+      "latitude": 56.882668,
+      "longitude": 14.808818
+    },
+    {
+      "name": "Hotell Walhalla",
+      "latitude": 56.189912,
+      "longitude": 14.744614
+    },
+    {
+      "name": "Hotell Wellingehus",
+      "latitude": 55.470332,
+      "longitude": 13.021019
+    },
+    {
+      "name": "Hotell Wettern",
+      "latitude": 58.531087,
+      "longitude": 14.515809
+    },
+    {
+      "name": "Hotell Wilhelmina",
+      "latitude": 64.627803,
+      "longitude": 16.647122
+    },
+    {
+      "name": "Hotell Årjäng",
+      "latitude": 59.394053,
+      "longitude": 12.13408
+    },
+    {
+      "name": "Hotell Åsgården",
+      "latitude": 63.58022,
+      "longitude": 15.351216
+    },
+    {
+      "name": "Hotell Örnen",
+      "latitude": 60.13462,
+      "longitude": 13.005469
+    },
+    {
+      "name": "Hotell Östermalm",
+      "latitude": 58.539235,
+      "longitude": 15.048071
+    },
+    {
+      "name": "Hotell Östersund",
+      "latitude": 63.175099,
+      "longitude": 14.638699
+    },
+    {
+      "name": "Hotellet",
+      "latitude": 57.137032,
+      "longitude": 12.715077
+    },
+    {
+      "name": "Hotellet & co",
+      "latitude": 56.20098,
+      "longitude": 12.552551
+    },
+    {
+      "name": "Hotelli Mustaparta",
+      "latitude": 65.844556,
+      "longitude": 24.146526
+    },
+    {
+      "name": "Hotelli Olof",
+      "latitude": 65.846719,
+      "longitude": 24.150524
+    },
+    {
+      "name": "Hotelli Pellonhovi",
+      "latitude": 66.773754,
+      "longitude": 23.966285
+    },
+    {
+      "name": "House of Blues Hotel",
+      "latitude": 60.485574,
+      "longitude": 15.433194
+    },
+    {
+      "name": "Hovde hotell",
+      "latitude": 62.481698,
+      "longitude": 13.974787
+    },
+    {
+      "name": "Hovs Hallar",
+      "latitude": 56.467863,
+      "longitude": 12.708105
+    },
+    {
+      "name": "Hulfoffgården",
+      "latitude": 66.132696,
+      "longitude": 23.905286
+    },
+    {
+      "name": "Hus 57",
+      "latitude": 56.246546,
+      "longitude": 12.866413
+    },
+    {
+      "name": "Huskvarna Hotel",
+      "latitude": 57.795152,
+      "longitude": 14.270733
+    },
+    {
+      "name": "Huskvarna Stadshotell",
+      "latitude": 57.79137,
+      "longitude": 14.275073
+    },
+    {
+      "name": "Hussborg",
+      "latitude": 62.497309,
+      "longitude": 16.017594
+    },
+    {
+      "name": "Hviidehus Hotell",
+      "latitude": 56.201121,
+      "longitude": 15.283138
+    },
+    {
+      "name": "Hyatt Place Gothenburg Central",
+      "latitude": 57.709068,
+      "longitude": 11.972413
+    },
+    {
+      "name": "Hällefors Herrgård",
+      "latitude": 59.785212,
+      "longitude": 14.509329
+    },
+    {
+      "name": "Hällestrand Semesterby och Vandrarhem",
+      "latitude": 58.990098,
+      "longitude": 11.165036
+    },
+    {
+      "name": "Hälleviks havsbad",
+      "latitude": 56.014937,
+      "longitude": 14.706645
+    },
+    {
+      "name": "Hälleviks Havsbad",
+      "latitude": 56.014637,
+      "longitude": 14.708073
+    },
+    {
+      "name": "Hällsnäs Hotell & Konferens",
+      "latitude": 57.675619,
+      "longitude": 12.179189
+    },
+    {
+      "name": "Hässlö Hotell",
+      "latitude": 59.589895,
+      "longitude": 16.619909
+    },
+    {
+      "name": "Häverödals hotell",
+      "latitude": 60.026009,
+      "longitude": 18.605512
+    },
+    {
+      "name": "Håby Motell",
+      "latitude": 58.487802,
+      "longitude": 11.630967
+    },
+    {
+      "name": "Hållandsgården",
+      "latitude": 63.321544,
+      "longitude": 13.360936
+    },
+    {
+      "name": "Håveruds Herrgård",
+      "latitude": 58.821379,
+      "longitude": 12.415151
+    },
+    {
+      "name": "Håveruds Hotell",
+      "latitude": 58.820861,
+      "longitude": 12.419793
+    },
+    {
+      "name": "Hôtel Reisen",
+      "latitude": 59.32545,
+      "longitude": 18.074873
+    },
+    {
+      "name": "Högbo Brukshotell",
+      "latitude": 60.672503,
+      "longitude": 16.812371
+    },
+    {
+      "name": "Högbo Hotell Skommarsgården",
+      "latitude": 60.667881,
+      "longitude": 16.801749
+    },
+    {
+      "name": "Högfjällshotellet",
+      "latitude": 61.156782,
+      "longitude": 13.117006
+    },
+    {
+      "name": "Hörby Ringsjöstrand",
+      "latitude": 55.851036,
+      "longitude": 13.587837
+    },
+    {
+      "name": "Hötorget Hotel",
+      "latitude": 59.336483,
+      "longitude": 18.060864
+    },
+    {
+      "name": "Ibis hotel Göteborg-Mölndal",
+      "latitude": 57.647827,
+      "longitude": 11.994954
+    },
+    {
+      "name": "Ibis Styles Stockholm Odenplan",
+      "latitude": 59.342383,
+      "longitude": 18.046744
+    },
+    {
+      "name": "Ice Hotel",
+      "latitude": 67.850364,
+      "longitude": 20.594461
+    },
+    {
+      "name": "Icehotel",
+      "latitude": 67.850797,
+      "longitude": 20.595592
+    },
+    {
+      "name": "Idas Strandgård",
+      "latitude": 58.530286,
+      "longitude": 14.507323
+    },
+    {
+      "name": "Idregården",
+      "latitude": 61.85617,
+      "longitude": 12.73342
+    },
+    {
+      "name": "IFÖ Hus",
+      "latitude": 56.075521,
+      "longitude": 14.468013
+    },
+    {
+      "name": "IKEA Hotell",
+      "latitude": 56.552186,
+      "longitude": 14.132338
+    },
+    {
+      "name": "Insjöns Hotell",
+      "latitude": 60.675964,
+      "longitude": 15.100693
+    },
+    {
+      "name": "JA Hotell",
+      "latitude": 56.161454,
+      "longitude": 15.583629
+    },
+    {
+      "name": "Jacy'z",
+      "latitude": 57.705734,
+      "longitude": 11.993422
+    },
+    {
+      "name": "JBP hotell",
+      "latitude": 61.712439,
+      "longitude": 16.15961
+    },
+    {
+      "name": "Jennys Hotell och restaurang",
+      "latitude": 59.657031,
+      "longitude": 12.585425
+    },
+    {
+      "name": "Jularps Gård",
+      "latitude": 55.956705,
+      "longitude": 13.544889
+    },
+    {
+      "name": "Jädra Gårdshotel",
+      "latitude": 59.671337,
+      "longitude": 17.057048
+    },
+    {
+      "name": "Jämtkrogen",
+      "latitude": 62.754329,
+      "longitude": 15.417308
+    },
+    {
+      "name": "Jänsmässholmens Fjällhotell",
+      "latitude": 63.780625,
+      "longitude": 13.820666
+    },
+    {
+      "name": "Järnvägs Hotellet",
+      "latitude": 60.675663,
+      "longitude": 17.150036
+    },
+    {
+      "name": "Järnvägshotellet",
+      "latitude": 58.383617,
+      "longitude": 13.439685
+    },
+    {
+      "name": "Järnvägshotellet B&B",
+      "latitude": 55.685085,
+      "longitude": 14.154341
+    },
+    {
+      "name": "Järvsöbaden",
+      "latitude": 61.707188,
+      "longitude": 16.163927
+    },
+    {
+      "name": "Jönköpings Hotell & Konferens",
+      "latitude": 57.76335,
+      "longitude": 14.210639
+    },
+    {
+      "name": "Jöns Andersgården Bed and Breakfast",
+      "latitude": 60.875572,
+      "longitude": 15.117658
+    },
+    {
+      "name": "Kalk Hotel",
+      "latitude": 57.640143,
+      "longitude": 18.292434
+    },
+    {
+      "name": "Kallenbergs Villa",
+      "latitude": 57.610931,
+      "longitude": 18.246992
+    },
+    {
+      "name": "Kanalhotellet",
+      "latitude": 58.541413,
+      "longitude": 14.506929
+    },
+    {
+      "name": "Kaptenshuset",
+      "latitude": 55.679478,
+      "longitude": 14.231235
+    },
+    {
+      "name": "Karlaplan",
+      "latitude": 59.340388,
+      "longitude": 18.088408
+    },
+    {
+      "name": "Karlskoga Hotell",
+      "latitude": 59.325966,
+      "longitude": 14.53512
+    },
+    {
+      "name": "Karlskrona Stadshotell",
+      "latitude": 56.161998,
+      "longitude": 15.588171
+    },
+    {
+      "name": "Karolinen",
+      "latitude": 63.37892,
+      "longitude": 13.149204
+    },
+    {
+      "name": "Kastanjelunds Wärdshus",
+      "latitude": 55.882477,
+      "longitude": 14.22982
+    },
+    {
+      "name": "Kilafors Herrgård",
+      "latitude": 61.223125,
+      "longitude": 16.57933
+    },
+    {
+      "name": "Kils Hotel & Restaurant",
+      "latitude": 59.504781,
+      "longitude": 13.321727
+    },
+    {
+      "name": "Kisa Wärdshus & Hotell",
+      "latitude": 57.986968,
+      "longitude": 15.636584
+    },
+    {
+      "name": "Kiviks hotell",
+      "latitude": 55.688234,
+      "longitude": 14.218945
+    },
+    {
+      "name": "Kivikstrand",
+      "latitude": 55.688238,
+      "longitude": 14.223405
+    },
+    {
+      "name": "Klackbergsgården",
+      "latitude": 60.074021,
+      "longitude": 15.891906
+    },
+    {
+      "name": "Klitterhus",
+      "latitude": 56.264155,
+      "longitude": 12.836017
+    },
+    {
+      "name": "Klockargården Hotell",
+      "latitude": 60.82512,
+      "longitude": 14.992964
+    },
+    {
+      "name": "Klövsjöfjäll",
+      "latitude": 62.502787,
+      "longitude": 14.180132
+    },
+    {
+      "name": "Knistad Hotell och Konferens",
+      "latitude": 58.421239,
+      "longitude": 13.945717
+    },
+    {
+      "name": "Kockska Gården",
+      "latitude": 55.555726,
+      "longitude": 14.347091
+    },
+    {
+      "name": "Kohlswa Herrgård",
+      "latitude": 59.601675,
+      "longitude": 15.831496
+    },
+    {
+      "name": "Kom Hotel",
+      "latitude": 59.339488,
+      "longitude": 18.062594
+    },
+    {
+      "name": "Kompassen",
+      "latitude": 59.631674,
+      "longitude": 17.083719
+    },
+    {
+      "name": "Kong Christian Hotell & Pub",
+      "latitude": 56.02887,
+      "longitude": 14.158407
+    },
+    {
+      "name": "Korstäppans Herrgård",
+      "latitude": 60.739356,
+      "longitude": 14.982785
+    },
+    {
+      "name": "Krabban",
+      "latitude": 58.93912,
+      "longitude": 11.173942
+    },
+    {
+      "name": "Kramsta Gästgård & Konferens",
+      "latitude": 61.701351,
+      "longitude": 16.166119
+    },
+    {
+      "name": "Kristinebergs Bed & Breakfast",
+      "latitude": 61.010103,
+      "longitude": 14.557526
+    },
+    {
+      "name": "Krokstad Herrgård",
+      "latitude": 59.107994,
+      "longitude": 12.905438
+    },
+    {
+      "name": "Kronmunken",
+      "latitude": 57.024239,
+      "longitude": 16.431228
+    },
+    {
+      "name": "Krusenberg herrgård",
+      "latitude": 59.735214,
+      "longitude": 17.645042
+    },
+    {
+      "name": "Kullagårdens Wärdshus",
+      "latitude": 56.299007,
+      "longitude": 12.469129
+    },
+    {
+      "name": "Kulturhuset Hotell",
+      "latitude": 59.068344,
+      "longitude": 17.615746
+    },
+    {
+      "name": "Kumla Stationshotell",
+      "latitude": 59.127387,
+      "longitude": 15.139622
+    },
+    {
+      "name": "Kung Carl",
+      "latitude": 59.336443,
+      "longitude": 18.071387
+    },
+    {
+      "name": "Kungsbron",
+      "latitude": 59.332079,
+      "longitude": 18.052972
+    },
+    {
+      "name": "Kungshaga",
+      "latitude": 61.093409,
+      "longitude": 14.624931
+    },
+    {
+      "name": "Kungshaga hotel",
+      "latitude": 61.09352,
+      "longitude": 14.625305
+    },
+    {
+      "name": "Kungskvarnen",
+      "latitude": 59.354568,
+      "longitude": 12.957943
+    },
+    {
+      "name": "Kungslodgen",
+      "latitude": 60.759593,
+      "longitude": 16.495158
+    },
+    {
+      "name": "Kungsträdgården",
+      "latitude": 59.331216,
+      "longitude": 18.069788
+    },
+    {
+      "name": "Kungsörs torp",
+      "latitude": 59.430985,
+      "longitude": 16.090764
+    },
+    {
+      "name": "Kust Hotell",
+      "latitude": 65.317281,
+      "longitude": 21.476563
+    },
+    {
+      "name": "Kyrkekvarn Sörgården Turism AB",
+      "latitude": 57.995139,
+      "longitude": 13.845754
+    },
+    {
+      "name": "Käringön Logi & Bastu",
+      "latitude": 58.111693,
+      "longitude": 11.370046
+    },
+    {
+      "name": "Käringöns Logi & Bastu",
+      "latitude": 58.11199,
+      "longitude": 11.370231
+    },
+    {
+      "name": "Kåseberga Gårdshotell & Spa",
+      "latitude": 55.38675,
+      "longitude": 14.064583
+    },
+    {
+      "name": "Köjagården",
+      "latitude": 63.315058,
+      "longitude": 13.087329
+    },
+    {
+      "name": "Körningsgården",
+      "latitude": 62.933165,
+      "longitude": 18.263176
+    },
+    {
+      "name": "Körunda Golf & Konferenshotel",
+      "latitude": 59.00977,
+      "longitude": 17.883375
+    },
+    {
+      "name": "La Mare Resort",
+      "latitude": 57.721307,
+      "longitude": 11.97608
+    },
+    {
+      "name": "Lady Hamilton Hotel",
+      "latitude": 59.325715,
+      "longitude": 18.069307
+    },
+    {
+      "name": "Lagadalen",
+      "latitude": 56.913896,
+      "longitude": 13.987255
+    },
+    {
+      "name": "Lages Motel & Restaurang",
+      "latitude": 57.72729,
+      "longitude": 13.005992
+    },
+    {
+      "name": "Laholmen Hotell",
+      "latitude": 58.938037,
+      "longitude": 11.168193
+    },
+    {
+      "name": "Landvetter Airport Hotel",
+      "latitude": 57.668743,
+      "longitude": 12.301567
+    },
+    {
+      "name": "Lapland Lodge",
+      "latitude": 65.594701,
+      "longitude": 19.166398
+    },
+    {
+      "name": "Lapland River Hotel",
+      "latitude": 67.21192,
+      "longitude": 23.36499
+    },
+    {
+      "name": "Laponia",
+      "latitude": 65.59023,
+      "longitude": 19.186062
+    },
+    {
+      "name": "LappeanLohi",
+      "latitude": 67.155551,
+      "longitude": 23.577503
+    },
+    {
+      "name": "Lappeasuando",
+      "latitude": 67.490788,
+      "longitude": 21.11927
+    },
+    {
+      "name": "Lapphem",
+      "latitude": 58.276836,
+      "longitude": 16.181959
+    },
+    {
+      "name": "Le Mat B&B",
+      "latitude": 57.700083,
+      "longitude": 11.976995
+    },
+    {
+      "name": "Lertorpets Kursgård",
+      "latitude": 59.775199,
+      "longitude": 14.141374
+    },
+    {
+      "name": "Lia Hof",
+      "latitude": 57.196434,
+      "longitude": 12.802649
+    },
+    {
+      "name": "Lidingö Arena Hotell",
+      "latitude": 59.364919,
+      "longitude": 18.127118
+    },
+    {
+      "name": "Lidingö Hotell & Utbildningscentrum",
+      "latitude": 59.356045,
+      "longitude": 18.169716
+    },
+    {
+      "name": "Lidö Värdshus",
+      "latitude": 59.77132,
+      "longitude": 19.079966
+    },
+    {
+      "name": "Liljeholmens Stadshotell",
+      "latitude": 59.309235,
+      "longitude": 18.016071
+    },
+    {
+      "name": "Lilla Hotellet",
+      "latitude": 62.389491,
+      "longitude": 17.31038
+    },
+    {
+      "name": "Lilla Hotellet",
+      "latitude": 62.034969,
+      "longitude": 14.36434
+    },
+    {
+      "name": "Lilla Hotellet",
+      "latitude": 64.62447,
+      "longitude": 16.65639
+    },
+    {
+      "name": "Lilla Hotellet",
+      "latitude": 59.517591,
+      "longitude": 15.039653
+    },
+    {
+      "name": "Lilla Hotellet",
+      "latitude": 55.700072,
+      "longitude": 13.195927
+    },
+    {
+      "name": "Lilla Hotellet",
+      "latitude": 57.749566,
+      "longitude": 16.653004
+    },
+    {
+      "name": "Lilla Hotellet i Alingsås",
+      "latitude": 57.928657,
+      "longitude": 12.531633
+    },
+    {
+      "name": "Lilla Rådmannen",
+      "latitude": 59.339188,
+      "longitude": 18.054631
+    },
+    {
+      "name": "Lilla Älvbrogården i stan",
+      "latitude": 60.144711,
+      "longitude": 16.174936
+    },
+    {
+      "name": "Lindesbergs Stadshotell",
+      "latitude": 59.591296,
+      "longitude": 15.227705
+    },
+    {
+      "name": "Lindgården",
+      "latitude": 57.640895,
+      "longitude": 18.29389
+    },
+    {
+      "name": "Linköpings Cityhotell och Vandrarhem",
+      "latitude": 58.408461,
+      "longitude": 15.623485
+    },
+    {
+      "name": "Livgrenadjärmässen",
+      "latitude": 58.396975,
+      "longitude": 15.613732
+    },
+    {
+      "name": "Livin Station Hotel",
+      "latitude": 59.279057,
+      "longitude": 15.212177
+    },
+    {
+      "name": "Livington Hotel",
+      "latitude": 59.370452,
+      "longitude": 17.859804
+    },
+    {
+      "name": "Lofsdalens Fjällhotell",
+      "latitude": 62.112471,
+      "longitude": 13.291826
+    },
+    {
+      "name": "Logi Väst",
+      "latitude": 63.828706,
+      "longitude": 20.239044
+    },
+    {
+      "name": "LogInn19",
+      "latitude": 59.321372,
+      "longitude": 18.056739
+    },
+    {
+      "name": "Loka brunn - Reception",
+      "latitude": 59.604706,
+      "longitude": 14.479035
+    },
+    {
+      "name": "Lokus Hotell",
+      "latitude": 58.276081,
+      "longitude": 11.441279
+    },
+    {
+      "name": "Lord Nelson",
+      "latitude": 59.3253,
+      "longitude": 18.06897
+    },
+    {
+      "name": "Lumber & Karle",
+      "latitude": 58.300308,
+      "longitude": 13.182153
+    },
+    {
+      "name": "Lundsbrunn Resort & Spa",
+      "latitude": 58.476011,
+      "longitude": 13.450107
+    },
+    {
+      "name": "Lustigsgården Boutique Hotel",
+      "latitude": 60.872619,
+      "longitude": 15.117219
+    },
+    {
+      "name": "Lydmar",
+      "latitude": 59.328989,
+      "longitude": 18.077097
+    },
+    {
+      "name": "Lägenhetshotell",
+      "latitude": 67.860642,
+      "longitude": 20.224834
+    },
+    {
+      "name": "Långbergets Sporthotell",
+      "latitude": 60.81809,
+      "longitude": 12.880246
+    },
+    {
+      "name": "Långholmen",
+      "latitude": 59.321299,
+      "longitude": 18.025396
+    },
+    {
+      "name": "Långshyttans Brukshotell",
+      "latitude": 60.453736,
+      "longitude": 16.039514
+    },
+    {
+      "name": "Löderups strandbad - hotell och restaurang",
+      "latitude": 55.386421,
+      "longitude": 14.11152
+    },
+    {
+      "name": "Lögnäs gård",
+      "latitude": 56.474357,
+      "longitude": 12.991711
+    },
+    {
+      "name": "Lökeberg Konferenshotell",
+      "latitude": 57.895453,
+      "longitude": 11.780446
+    },
+    {
+      "name": "Lövånger Kyrkstad",
+      "latitude": 64.369992,
+      "longitude": 21.319085
+    },
+    {
+      "name": "Lövåsgården",
+      "latitude": 62.049819,
+      "longitude": 12.392622
+    },
+    {
+      "name": "Magasinet Järnavik",
+      "latitude": 56.196904,
+      "longitude": 15.084035
+    },
+    {
+      "name": "Malmia Hotel",
+      "latitude": 64.751031,
+      "longitude": 20.954431
+    },
+    {
+      "name": "Malmö Arena Hotel",
+      "latitude": 55.56565,
+      "longitude": 12.975855
+    },
+    {
+      "name": "Malå Hotell",
+      "latitude": 65.181515,
+      "longitude": 18.746606
+    },
+    {
+      "name": "Margretetorp Gästgifvaregården",
+      "latitude": 56.335865,
+      "longitude": 12.889137
+    },
+    {
+      "name": "Marholmen",
+      "latitude": 59.68641,
+      "longitude": 18.780914
+    },
+    {
+      "name": "Maria Inn",
+      "latitude": 56.021331,
+      "longitude": 12.718391
+    },
+    {
+      "name": "Marieberg",
+      "latitude": 59.646726,
+      "longitude": 17.105756
+    },
+    {
+      "name": "Marielund B&B",
+      "latitude": 58.376972,
+      "longitude": 13.456763
+    },
+    {
+      "name": "Marina Tower",
+      "latitude": 59.314719,
+      "longitude": 18.10935
+    },
+    {
+      "name": "Maritim",
+      "latitude": 55.556915,
+      "longitude": 14.353423
+    },
+    {
+      "name": "Marmorbrukets herrgård",
+      "latitude": 58.661144,
+      "longitude": 16.425314
+    },
+    {
+      "name": "Marriott Courtyard",
+      "latitude": 59.331366,
+      "longitude": 18.021415
+    },
+    {
+      "name": "Marstrands Havshotell",
+      "latitude": 57.886233,
+      "longitude": 11.590583
+    },
+    {
+      "name": "Maryhill estate",
+      "latitude": 55.94049,
+      "longitude": 12.780054
+    },
+    {
+      "name": "Mathias Kök & Rum",
+      "latitude": 58.032247,
+      "longitude": 12.808033
+    },
+    {
+      "name": "Maudes hotel",
+      "latitude": 59.277834,
+      "longitude": 18.070221
+    },
+    {
+      "name": "Mauritzbergs slott",
+      "latitude": 58.605846,
+      "longitude": 16.67832
+    },
+    {
+      "name": "MAVI Restaurang och Hotell",
+      "latitude": 56.143397,
+      "longitude": 12.577778
+    },
+    {
+      "name": "Med Självhushåll",
+      "latitude": 61.15682,
+      "longitude": 13.26706
+    },
+    {
+      "name": "Meddelanden",
+      "latitude": 61.85701,
+      "longitude": 12.731
+    },
+    {
+      "name": "Mellanfjärden",
+      "latitude": 61.957523,
+      "longitude": 17.342506
+    },
+    {
+      "name": "Mellansels Hotell & Konferens",
+      "latitude": 63.424576,
+      "longitude": 18.305706
+    },
+    {
+      "name": "Memory Hotel",
+      "latitude": 59.406848,
+      "longitude": 17.947983
+    },
+    {
+      "name": "Millestgården",
+      "latitude": 63.392497,
+      "longitude": 12.874346
+    },
+    {
+      "name": "Miss Clara",
+      "latitude": 59.337599,
+      "longitude": 18.062092
+    },
+    {
+      "name": "MJs",
+      "latitude": 55.605869,
+      "longitude": 12.997839
+    },
+    {
+      "name": "Mjölby Stadshotell",
+      "latitude": 58.322704,
+      "longitude": 15.133369
+    },
+    {
+      "name": "Mojo",
+      "latitude": 59.271194,
+      "longitude": 15.215321
+    },
+    {
+      "name": "Mollösunds Hotell & Wärdshus",
+      "latitude": 58.073548,
+      "longitude": 11.47199
+    },
+    {
+      "name": "Moment Hotels",
+      "latitude": 55.607798,
+      "longitude": 13.001606
+    },
+    {
+      "name": "Mormors pensionat Strandhagen",
+      "latitude": 56.751729,
+      "longitude": 16.528011
+    },
+    {
+      "name": "Mornington",
+      "latitude": 59.337907,
+      "longitude": 18.079638
+    },
+    {
+      "name": "Mornington Bromma",
+      "latitude": 59.34653,
+      "longitude": 17.965563
+    },
+    {
+      "name": "Morris",
+      "latitude": 59.27691,
+      "longitude": 15.214659
+    },
+    {
+      "name": "Moskogen",
+      "latitude": 60.719815,
+      "longitude": 15.006957
+    },
+    {
+      "name": "Mossbylund",
+      "latitude": 55.415028,
+      "longitude": 13.623844
+    },
+    {
+      "name": "Motel L",
+      "latitude": 55.717372,
+      "longitude": 13.229604
+    },
+    {
+      "name": "Motel L - Hammarby Sjöstad",
+      "latitude": 59.302815,
+      "longitude": 18.087702
+    },
+    {
+      "name": "Motel L Älvsjö",
+      "latitude": 59.280496,
+      "longitude": 18.014039
+    },
+    {
+      "name": "Mullsjö Hotell & Konferens",
+      "latitude": 57.904013,
+      "longitude": 13.872669
+    },
+    {
+      "name": "Munkedals Herrgård",
+      "latitude": 58.484322,
+      "longitude": 11.698268
+    },
+    {
+      "name": "Mysoxen",
+      "latitude": 62.032465,
+      "longitude": 14.357097
+    },
+    {
+      "name": "Mälardrottningen",
+      "latitude": 59.323909,
+      "longitude": 18.062876
+    },
+    {
+      "name": "Mäster Johan",
+      "latitude": 55.60589,
+      "longitude": 12.997567
+    },
+    {
+      "name": "Mårtens i Hästbo B&B Bed andbreakfast",
+      "latitude": 60.449485,
+      "longitude": 16.466948
+    },
+    {
+      "name": "Möckelsnäs Herrgård",
+      "latitude": 56.613543,
+      "longitude": 14.156902
+    },
+    {
+      "name": "Mönethorp",
+      "latitude": 58.10178,
+      "longitude": 13.481495
+    },
+    {
+      "name": "Mössebergs kurort",
+      "latitude": 58.183542,
+      "longitude": 13.54509
+    },
+    {
+      "name": "Naran Hotell",
+      "latitude": 65.583765,
+      "longitude": 22.160726
+    },
+    {
+      "name": "Naturum - Victoriahuset",
+      "latitude": 58.672275,
+      "longitude": 13.216753
+    },
+    {
+      "name": "Niehku Mountain Villa",
+      "latitude": 68.430738,
+      "longitude": 18.108618
+    },
+    {
+      "name": "Night Stop",
+      "latitude": 55.371021,
+      "longitude": 13.168185
+    },
+    {
+      "name": "Nils Hotel",
+      "latitude": 65.855261,
+      "longitude": 23.140939
+    },
+    {
+      "name": "Niro Apart Hotel",
+      "latitude": 59.3335,
+      "longitude": 18.025158
+    },
+    {
+      "name": "Nivå",
+      "latitude": 65.828525,
+      "longitude": 21.705736
+    },
+    {
+      "name": "Njuta Spa & Klinik",
+      "latitude": 59.317129,
+      "longitude": 18.155177
+    },
+    {
+      "name": "Noah longstay",
+      "latitude": 59.617515,
+      "longitude": 16.55032
+    },
+    {
+      "name": "Nobis",
+      "latitude": 59.333457,
+      "longitude": 18.073886
+    },
+    {
+      "name": "Nofo Hotel",
+      "latitude": 59.315591,
+      "longitude": 18.078867
+    },
+    {
+      "name": "Nora Stadshotell",
+      "latitude": 59.518935,
+      "longitude": 15.039299
+    },
+    {
+      "name": "Nordby Hotell",
+      "latitude": 59.063026,
+      "longitude": 11.214866
+    },
+    {
+      "name": "Nordens Ark Hotell",
+      "latitude": 58.443113,
+      "longitude": 11.436222
+    },
+    {
+      "name": "Nordic Light Hotel",
+      "latitude": 59.332581,
+      "longitude": 18.057144
+    },
+    {
+      "name": "Nordicbo",
+      "latitude": 60.605221,
+      "longitude": 16.772635
+    },
+    {
+      "name": "Norrqvarn Hotell & Konferens",
+      "latitude": 58.78652,
+      "longitude": 14.082293
+    },
+    {
+      "name": "Norrsken Lodge",
+      "latitude": 66.395684,
+      "longitude": 23.643745
+    },
+    {
+      "name": "Norrskens gårdshotell",
+      "latitude": 65.871618,
+      "longitude": 24.11077
+    },
+    {
+      "name": "Nova Park",
+      "latitude": 59.739848,
+      "longitude": 17.815371
+    },
+    {
+      "name": "NOVI Ressort Visby",
+      "latitude": 57.652973,
+      "longitude": 18.306615
+    },
+    {
+      "name": "Nyhyttan Eatates AB",
+      "latitude": 59.673281,
+      "longitude": 14.809911
+    },
+    {
+      "name": "Nymans café & keramik",
+      "latitude": 58.535502,
+      "longitude": 14.507053
+    },
+    {
+      "name": "Nynäs Havsbadet",
+      "latitude": 58.891335,
+      "longitude": 17.9466
+    },
+    {
+      "name": "Nyrups Naturhotell",
+      "latitude": 55.974036,
+      "longitude": 13.478836
+    },
+    {
+      "name": "Näsets Marcusgård Furudal",
+      "latitude": 61.185096,
+      "longitude": 15.120797
+    },
+    {
+      "name": "Nääs Fabriker Hotell",
+      "latitude": 57.819895,
+      "longitude": 12.416642
+    },
+    {
+      "name": "Nösunds Havshotell",
+      "latitude": 58.105494,
+      "longitude": 11.508098
+    },
+    {
+      "name": "Nösundsgården Hotell & Vandrarhem",
+      "latitude": 58.10571,
+      "longitude": 11.510523
+    },
+    {
+      "name": "Ohboy Hotell",
+      "latitude": 55.614165,
+      "longitude": 12.983231
+    },
+    {
+      "name": "Olarsgården",
+      "latitude": 61.168083,
+      "longitude": 13.173514
+    },
+    {
+      "name": "Olof Hotell & Restaurang",
+      "latitude": 57.170453,
+      "longitude": 15.344909
+    },
+    {
+      "name": "Ombergs Turisthotell",
+      "latitude": 58.296658,
+      "longitude": 14.652123
+    },
+    {
+      "name": "Ominne Hide A Way Exclusive",
+      "latitude": 59.782167,
+      "longitude": 13.127982
+    },
+    {
+      "name": "Ornö skärgårdshotell",
+      "latitude": 59.036944,
+      "longitude": 18.37529
+    },
+    {
+      "name": "Orrefors Hotellet",
+      "latitude": 56.83478,
+      "longitude": 15.742311
+    },
+    {
+      "name": "Orsa Stadshotell",
+      "latitude": 61.118353,
+      "longitude": 14.620842
+    },
+    {
+      "name": "Ottsjö Fjällhotell",
+      "latitude": 63.215494,
+      "longitude": 13.054725
+    },
+    {
+      "name": "Oxgården",
+      "latitude": 57.676945,
+      "longitude": 15.852719
+    },
+    {
+      "name": "Pallas hotell",
+      "latitude": 56.900567,
+      "longitude": 12.487518
+    },
+    {
+      "name": "Palm Tree Hotel",
+      "latitude": 55.373976,
+      "longitude": 13.155869
+    },
+    {
+      "name": "Park Hotel",
+      "latitude": 58.41612,
+      "longitude": 15.623964
+    },
+    {
+      "name": "Park Hotel Tornio",
+      "latitude": 65.847756,
+      "longitude": 24.151245
+    },
+    {
+      "name": "Park Hotell",
+      "latitude": 59.315073,
+      "longitude": 14.107529
+    },
+    {
+      "name": "Park hotell",
+      "latitude": 58.499872,
+      "longitude": 13.152192
+    },
+    {
+      "name": "Park Hotell",
+      "latitude": 63.291847,
+      "longitude": 18.709395
+    },
+    {
+      "name": "Park Hotell",
+      "latitude": 65.583146,
+      "longitude": 22.158247
+    },
+    {
+      "name": "Park Hotell",
+      "latitude": 64.596832,
+      "longitude": 18.67813
+    },
+    {
+      "name": "Park Inn",
+      "latitude": 59.618935,
+      "longitude": 17.87452
+    },
+    {
+      "name": "Park Inn Hammarby Sjöstad",
+      "latitude": 59.301525,
+      "longitude": 18.10535
+    },
+    {
+      "name": "Parkvillan",
+      "latitude": 63.399825,
+      "longitude": 13.077611
+    },
+    {
+      "name": "Part-Time Hotel Täby",
+      "latitude": 59.471865,
+      "longitude": 18.118528
+    },
+    {
+      "name": "Pater Noster",
+      "latitude": 57.89568,
+      "longitude": 11.466379
+    },
+    {
+      "name": "Patienthotellet",
+      "latitude": 59.374861,
+      "longitude": 13.480965
+    },
+    {
+      "name": "Pensionat Alvaret",
+      "latitude": 57.16679,
+      "longitude": 16.993585
+    },
+    {
+      "name": "Pensionat Granparken",
+      "latitude": 59.75467,
+      "longitude": 18.716446
+    },
+    {
+      "name": "Pensionat Grisslehamns",
+      "latitude": 60.101002,
+      "longitude": 18.807661
+    },
+    {
+      "name": "Pensionat havet",
+      "latitude": 57.05596,
+      "longitude": 12.272852
+    },
+    {
+      "name": "Pensionat Krukan",
+      "latitude": 56.282574,
+      "longitude": 12.500104
+    },
+    {
+      "name": "Pensionat Kryp Inn",
+      "latitude": 60.059787,
+      "longitude": 15.932279
+    },
+    {
+      "name": "Pensionat Norrviken",
+      "latitude": 59.458201,
+      "longitude": 17.922779
+    },
+    {
+      "name": "Pensionat Stenliden",
+      "latitude": 58.198877,
+      "longitude": 12.223124
+    },
+    {
+      "name": "Pensionat Strandgården",
+      "latitude": 56.28557,
+      "longitude": 12.491732
+    },
+    {
+      "name": "Pensionat Strandkullen",
+      "latitude": 57.395601,
+      "longitude": 12.012434
+    },
+    {
+      "name": "Pensionat Styrsö Skäret",
+      "latitude": 57.607116,
+      "longitude": 11.789363
+    },
+    {
+      "name": "Pensionat Söderåsen",
+      "latitude": 56.043113,
+      "longitude": 13.257393
+    },
+    {
+      "name": "Penzion Aneberg",
+      "latitude": 57.815025,
+      "longitude": 13.790726
+    },
+    {
+      "name": "Pernilla Wiberg Hotel",
+      "latitude": 61.886958,
+      "longitude": 12.836896
+    },
+    {
+      "name": "Pier16",
+      "latitude": 59.357049,
+      "longitude": 18.233984
+    },
+    {
+      "name": "Pilgrimshotellet",
+      "latitude": 64.506607,
+      "longitude": 14.143986
+    },
+    {
+      "name": "Pine Bay Lodge",
+      "latitude": 65.746178,
+      "longitude": 22.232093
+    },
+    {
+      "name": "Pirathotellet",
+      "latitude": 58.905034,
+      "longitude": 11.200885
+    },
+    {
+      "name": "Piteå Stadshotell",
+      "latitude": 65.318721,
+      "longitude": 21.48194
+    },
+    {
+      "name": "Place Lund",
+      "latitude": 55.719635,
+      "longitude": 13.194835
+    },
+    {
+      "name": "Plaza",
+      "latitude": 63.825345,
+      "longitude": 20.258519
+    },
+    {
+      "name": "Plaza Hotel",
+      "latitude": 59.371168,
+      "longitude": 16.508629
+    },
+    {
+      "name": "Port Hotell",
+      "latitude": 56.176052,
+      "longitude": 14.858121
+    },
+    {
+      "name": "ProfilHotels Halmstad Plaza",
+      "latitude": 56.67007,
+      "longitude": 12.867026
+    },
+    {
+      "name": "ProfilHotels Nacka",
+      "latitude": 59.306974,
+      "longitude": 18.118257
+    },
+    {
+      "name": "ProfilHotels Savoy",
+      "latitude": 57.781388,
+      "longitude": 14.160099
+    },
+    {
+      "name": "Prästgården Restaurang & pensionat",
+      "latitude": 58.709005,
+      "longitude": 14.122668
+    },
+    {
+      "name": "Prästgårdens Pensionat",
+      "latitude": 58.07371,
+      "longitude": 11.477236
+    },
+    {
+      "name": "Pärlan",
+      "latitude": 59.334493,
+      "longitude": 18.083158
+    },
+    {
+      "name": "Quality Hotel",
+      "latitude": 65.583815,
+      "longitude": 22.147076
+    },
+    {
+      "name": "Quality Hotel 11",
+      "latitude": 57.701107,
+      "longitude": 11.913856
+    },
+    {
+      "name": "Quality Hotel Arlanda XPO",
+      "latitude": 59.607696,
+      "longitude": 17.898353
+    },
+    {
+      "name": "Quality Hotel Ekoxen",
+      "latitude": 58.405623,
+      "longitude": 15.623735
+    },
+    {
+      "name": "Quality Hotel Frösö Park",
+      "latitude": 63.192265,
+      "longitude": 14.487218
+    },
+    {
+      "name": "Quality Hotel Galaxen",
+      "latitude": 60.487998,
+      "longitude": 15.430515
+    },
+    {
+      "name": "Quality Hotel Globe",
+      "latitude": 59.292751,
+      "longitude": 18.084071
+    },
+    {
+      "name": "Quality Hotel Grand",
+      "latitude": 56.032546,
+      "longitude": 14.153865
+    },
+    {
+      "name": "Quality Hotel Match",
+      "latitude": 57.784096,
+      "longitude": 14.16072
+    },
+    {
+      "name": "Quality Hotel Park",
+      "latitude": 59.193258,
+      "longitude": 17.62729
+    },
+    {
+      "name": "Quality Hotel Strawberry Arena",
+      "latitude": 59.372097,
+      "longitude": 18.002885
+    },
+    {
+      "name": "Quality Hotel Sundsvall",
+      "latitude": 62.386314,
+      "longitude": 17.307026
+    },
+    {
+      "name": "Quality Hotel The Box",
+      "latitude": 58.418671,
+      "longitude": 15.65857
+    },
+    {
+      "name": "Quality Hotel The Mill",
+      "latitude": 55.599542,
+      "longitude": 13.007341
+    },
+    {
+      "name": "Quality Hotel The Weaver",
+      "latitude": 57.667881,
+      "longitude": 12.010607
+    },
+    {
+      "name": "Quality Hotel View",
+      "latitude": 55.56193,
+      "longitude": 12.976233
+    },
+    {
+      "name": "Quality Hotel Vänersborg",
+      "latitude": 58.363754,
+      "longitude": 12.317766
+    },
+    {
+      "name": "Quality Hotel Waterfront",
+      "latitude": 57.690479,
+      "longitude": 11.907667
+    },
+    {
+      "name": "Quality Hotel Winn",
+      "latitude": 57.730426,
+      "longitude": 11.980718
+    },
+    {
+      "name": "Quality Hotel Winn",
+      "latitude": 59.165554,
+      "longitude": 18.135126
+    },
+    {
+      "name": "Quality Office",
+      "latitude": 59.271812,
+      "longitude": 18.007151
+    },
+    {
+      "name": "Queen's Hotel",
+      "latitude": 59.33584,
+      "longitude": 18.05932
+    },
+    {
+      "name": "Radisson Blu",
+      "latitude": 55.607656,
+      "longitude": 13.00771
+    },
+    {
+      "name": "Radisson Blu Arlandia Hotell",
+      "latitude": 59.639667,
+      "longitude": 17.941778
+    },
+    {
+      "name": "Radisson Blu Hotel, Uppsala",
+      "latitude": 59.859211,
+      "longitude": 17.647683
+    },
+    {
+      "name": "Radisson Blu Metropol Hotel",
+      "latitude": 56.040745,
+      "longitude": 12.700064
+    },
+    {
+      "name": "Radisson Blu Riverside Hotel",
+      "latitude": 57.708105,
+      "longitude": 11.940702
+    },
+    {
+      "name": "Radisson Blu Royal Viking",
+      "latitude": 59.331378,
+      "longitude": 18.058045
+    },
+    {
+      "name": "Radisson Blu Scandinavia",
+      "latitude": 57.707038,
+      "longitude": 11.972814
+    },
+    {
+      "name": "Radisson Blu SkyCity",
+      "latitude": 59.649433,
+      "longitude": 17.929855
+    },
+    {
+      "name": "Ramkvilla Hotell & Konferens",
+      "latitude": 57.202932,
+      "longitude": 14.95738
+    },
+    {
+      "name": "Ramnäs hotell och konferens",
+      "latitude": 59.790658,
+      "longitude": 16.178645
+    },
+    {
+      "name": "Ramsjögård Hotell",
+      "latitude": 56.394725,
+      "longitude": 12.668477
+    },
+    {
+      "name": "Rasta",
+      "latitude": 57.160755,
+      "longitude": 14.076817
+    },
+    {
+      "name": "Rasta Lilla Edet",
+      "latitude": 58.147879,
+      "longitude": 12.133815
+    },
+    {
+      "name": "Rastpunkt Laxå",
+      "latitude": 58.982933,
+      "longitude": 14.625428
+    },
+    {
+      "name": "Rattugglan",
+      "latitude": 58.692866,
+      "longitude": 13.85928
+    },
+    {
+      "name": "Reftele Wärdshus",
+      "latitude": 57.175319,
+      "longitude": 13.593829
+    },
+    {
+      "name": "Reimersholme Hotel",
+      "latitude": 59.318296,
+      "longitude": 18.025178
+    },
+    {
+      "name": "Renen",
+      "latitude": 63.392609,
+      "longitude": 12.917021
+    },
+    {
+      "name": "Restaurang Hotel Rosenberg",
+      "latitude": 56.135078,
+      "longitude": 12.947723
+    },
+    {
+      "name": "Rex",
+      "latitude": 59.341348,
+      "longitude": 18.059481
+    },
+    {
+      "name": "Rimforsa Strand",
+      "latitude": 58.124032,
+      "longitude": 15.689081
+    },
+    {
+      "name": "Ringsjö Krog & Wärdshus",
+      "latitude": 55.867578,
+      "longitude": 13.498394
+    },
+    {
+      "name": "Risanäs udde",
+      "latitude": 56.176108,
+      "longitude": 15.258376
+    },
+    {
+      "name": "Risanäs Udde Gårdshotell",
+      "latitude": 56.175981,
+      "longitude": 15.258627
+    },
+    {
+      "name": "Rival",
+      "latitude": 59.318234,
+      "longitude": 18.063769
+    },
+    {
+      "name": "Romme Alpin Ski Lodge",
+      "latitude": 60.392064,
+      "longitude": 15.382625
+    },
+    {
+      "name": "Ronneby Brunn Hotell",
+      "latitude": 56.194306,
+      "longitude": 15.289665
+    },
+    {
+      "name": "Ronneby Cityhotell",
+      "latitude": 56.207307,
+      "longitude": 15.283297
+    },
+    {
+      "name": "Ronneby Cityhotell",
+      "latitude": 56.206227,
+      "longitude": 15.286464
+    },
+    {
+      "name": "Ronnums Herrgård",
+      "latitude": 58.354217,
+      "longitude": 12.385738
+    },
+    {
+      "name": "Rosersbergs slottshotell",
+      "latitude": 59.574229,
+      "longitude": 17.844141
+    },
+    {
+      "name": "Royal Corner",
+      "latitude": 56.879721,
+      "longitude": 14.798969
+    },
+    {
+      "name": "Royal Hotel",
+      "latitude": 59.130425,
+      "longitude": 12.92232
+    },
+    {
+      "name": "Royhuset",
+      "latitude": 57.864033,
+      "longitude": 19.050732
+    },
+    {
+      "name": "Roynes Sjömagasin",
+      "latitude": 59.193271,
+      "longitude": 12.106334
+    },
+    {
+      "name": "Ruin retreat",
+      "latitude": 59.357685,
+      "longitude": 18.276544
+    },
+    {
+      "name": "Runö Möten & Events",
+      "latitude": 59.465596,
+      "longitude": 18.288112
+    },
+    {
+      "name": "Runö möten och events",
+      "latitude": 59.465756,
+      "longitude": 18.287019
+    },
+    {
+      "name": "Rusthållargården",
+      "latitude": 56.274505,
+      "longitude": 12.571085
+    },
+    {
+      "name": "Rygerfjord",
+      "latitude": 59.321416,
+      "longitude": 18.059246
+    },
+    {
+      "name": "Rättviks Stiftsgård",
+      "latitude": 60.892787,
+      "longitude": 15.096174
+    },
+    {
+      "name": "Råda hotel",
+      "latitude": 60.008196,
+      "longitude": 13.593915
+    },
+    {
+      "name": "Rånäs Slott",
+      "latitude": 59.791026,
+      "longitude": 18.295569
+    },
+    {
+      "name": "Rönninge gårds kungsgård",
+      "latitude": 59.198706,
+      "longitude": 17.727988
+    },
+    {
+      "name": "Rörums Gårdshotell",
+      "latitude": 55.631546,
+      "longitude": 14.247647
+    },
+    {
+      "name": "Röstånga Gästgiveri",
+      "latitude": 56.002489,
+      "longitude": 13.289936
+    },
+    {
+      "name": "Sahlströmsgården",
+      "latitude": 60.16457,
+      "longitude": 13.02585
+    },
+    {
+      "name": "Sala Stadshotell",
+      "latitude": 59.918866,
+      "longitude": 16.604601
+    },
+    {
+      "name": "Saloon Corner",
+      "latitude": 63.695737,
+      "longitude": 16.882356
+    },
+    {
+      "name": "Salt & Sill",
+      "latitude": 57.950005,
+      "longitude": 11.549559
+    },
+    {
+      "name": "Samegården",
+      "latitude": 61.857954,
+      "longitude": 12.714792
+    },
+    {
+      "name": "Sand hotel",
+      "latitude": 57.850881,
+      "longitude": 14.039236
+    },
+    {
+      "name": "Sandhamns hotell",
+      "latitude": 59.287947,
+      "longitude": 18.918549
+    },
+    {
+      "name": "Sandvik Gård",
+      "latitude": 58.813847,
+      "longitude": 16.064516
+    },
+    {
+      "name": "Sandvikens Företagsboende",
+      "latitude": 60.622935,
+      "longitude": 16.788474
+    },
+    {
+      "name": "Sankt Jörgen Park Resort",
+      "latitude": 57.743896,
+      "longitude": 11.944501
+    },
+    {
+      "name": "Sankt Olof",
+      "latitude": 60.685794,
+      "longitude": 13.720396
+    },
+    {
+      "name": "Saxnäsgården",
+      "latitude": 64.971203,
+      "longitude": 15.358846
+    },
+    {
+      "name": "Scandic Alvik",
+      "latitude": 59.331517,
+      "longitude": 17.982035
+    },
+    {
+      "name": "Scandic Arvika",
+      "latitude": 59.65566,
+      "longitude": 12.592489
+    },
+    {
+      "name": "Scandic Backadal",
+      "latitude": 57.749371,
+      "longitude": 11.988907
+    },
+    {
+      "name": "Scandic Billingen",
+      "latitude": 58.389736,
+      "longitude": 13.84977
+    },
+    {
+      "name": "Scandic Borlänge",
+      "latitude": 60.484361,
+      "longitude": 15.435233
+    },
+    {
+      "name": "Scandic CH",
+      "latitude": 60.676998,
+      "longitude": 17.148353
+    },
+    {
+      "name": "Scandic City",
+      "latitude": 58.594916,
+      "longitude": 16.185932
+    },
+    {
+      "name": "Scandic City",
+      "latitude": 59.379303,
+      "longitude": 13.505626
+    },
+    {
+      "name": "Scandic Continental",
+      "latitude": 59.331025,
+      "longitude": 18.059417
+    },
+    {
+      "name": "Scandic Crown",
+      "latitude": 57.708163,
+      "longitude": 11.977995
+    },
+    {
+      "name": "Scandic Elmia",
+      "latitude": 57.786878,
+      "longitude": 14.229377
+    },
+    {
+      "name": "Scandic Europa",
+      "latitude": 57.708151,
+      "longitude": 11.970579
+    },
+    {
+      "name": "Scandic Gamla Stan",
+      "latitude": 59.323065,
+      "longitude": 18.070006
+    },
+    {
+      "name": "Scandic Go Upplandsgatan",
+      "latitude": 59.336402,
+      "longitude": 18.055042
+    },
+    {
+      "name": "Scandic Go, Sankt Eriksgatan 20",
+      "latitude": 59.33135,
+      "longitude": 18.031094
+    },
+    {
+      "name": "Scandic Grand Central",
+      "latitude": 59.333745,
+      "longitude": 18.055592
+    },
+    {
+      "name": "Scandic Grand Hotel",
+      "latitude": 59.269072,
+      "longitude": 15.206346
+    },
+    {
+      "name": "Scandic Gävle Väst",
+      "latitude": 60.672838,
+      "longitude": 17.088875
+    },
+    {
+      "name": "Scandic Göteborg Central",
+      "latitude": 57.713366,
+      "longitude": 11.971684
+    },
+    {
+      "name": "Scandic Hallandia",
+      "latitude": 56.672791,
+      "longitude": 12.857945
+    },
+    {
+      "name": "Scandic Helsingborg Nord",
+      "latitude": 56.077837,
+      "longitude": 12.729434
+    },
+    {
+      "name": "Scandic Hotel",
+      "latitude": 59.515709,
+      "longitude": 17.92262
+    },
+    {
+      "name": "Scandic Hotel",
+      "latitude": 59.875753,
+      "longitude": 17.63995
+    },
+    {
+      "name": "Scandic Hotel",
+      "latitude": 63.302423,
+      "longitude": 18.731774
+    },
+    {
+      "name": "Scandic hotel",
+      "latitude": 67.137484,
+      "longitude": 20.665803
+    },
+    {
+      "name": "Scandic Hotel Karlskrona",
+      "latitude": 56.162483,
+      "longitude": 15.578027
+    },
+    {
+      "name": "Scandic Hotel Nyköping City",
+      "latitude": 58.752532,
+      "longitude": 17.004473
+    },
+    {
+      "name": "Scandic Hotel Plaza Borås",
+      "latitude": 57.724065,
+      "longitude": 12.9403
+    },
+    {
+      "name": "Scandic Hotel Täby",
+      "latitude": 59.434546,
+      "longitude": 18.064697
+    },
+    {
+      "name": "Scandic Hotell",
+      "latitude": 61.350731,
+      "longitude": 16.401812
+    },
+    {
+      "name": "Scandic Infra City",
+      "latitude": 59.499622,
+      "longitude": 17.928802
+    },
+    {
+      "name": "Scandic Järva Krog",
+      "latitude": 59.379663,
+      "longitude": 18.009874
+    },
+    {
+      "name": "Scandic Kalmar Väst",
+      "latitude": 56.673058,
+      "longitude": 16.320038
+    },
+    {
+      "name": "Scandic Kiruna",
+      "latitude": 67.848554,
+      "longitude": 20.304568
+    },
+    {
+      "name": "Scandic Kista",
+      "latitude": 59.401934,
+      "longitude": 17.948322
+    },
+    {
+      "name": "Scandic Klara",
+      "latitude": 59.333876,
+      "longitude": 18.062395
+    },
+    {
+      "name": "Scandic Klarälven",
+      "latitude": 59.391173,
+      "longitude": 13.497279
+    },
+    {
+      "name": "Scandic Kungens kurva",
+      "latitude": 59.272745,
+      "longitude": 17.917411
+    },
+    {
+      "name": "Scandic Landvetter",
+      "latitude": 57.669285,
+      "longitude": 12.29676
+    },
+    {
+      "name": "Scandic Linköping City",
+      "latitude": 58.412429,
+      "longitude": 15.632689
+    },
+    {
+      "name": "Scandic Linköping Väst",
+      "latitude": 58.406081,
+      "longitude": 15.561121
+    },
+    {
+      "name": "Scandic Lugnet Falun",
+      "latitude": 60.613012,
+      "longitude": 15.653061
+    },
+    {
+      "name": "Scandic Luleå",
+      "latitude": 65.603694,
+      "longitude": 22.132495
+    },
+    {
+      "name": "Scandic Malmen",
+      "latitude": 59.314565,
+      "longitude": 18.073665
+    },
+    {
+      "name": "Scandic Malmö City",
+      "latitude": 55.600992,
+      "longitude": 13.004042
+    },
+    {
+      "name": "Scandic Mölndal",
+      "latitude": 57.653718,
+      "longitude": 12.014867
+    },
+    {
+      "name": "Scandic No. 25",
+      "latitude": 57.709684,
+      "longitude": 11.98121
+    },
+    {
+      "name": "Scandic no.53",
+      "latitude": 59.334311,
+      "longitude": 18.059133
+    },
+    {
+      "name": "Scandic Norra Bantorget",
+      "latitude": 59.336771,
+      "longitude": 18.056463
+    },
+    {
+      "name": "Scandic Norrköping Nord",
+      "latitude": 58.618637,
+      "longitude": 16.161097
+    },
+    {
+      "name": "Scandic Oceanhamnen",
+      "latitude": 56.042263,
+      "longitude": 12.690062
+    },
+    {
+      "name": "Scandic Opalen",
+      "latitude": 57.701412,
+      "longitude": 11.984853
+    },
+    {
+      "name": "Scandic Park",
+      "latitude": 59.340929,
+      "longitude": 18.075511
+    },
+    {
+      "name": "Scandic Portalen",
+      "latitude": 57.783225,
+      "longitude": 14.163347
+    },
+    {
+      "name": "Scandic Rubinen",
+      "latitude": 57.699798,
+      "longitude": 11.976297
+    },
+    {
+      "name": "Scandic Sankt Jörgen",
+      "latitude": 55.603517,
+      "longitude": 13.001791
+    },
+    {
+      "name": "Scandic Segevång",
+      "latitude": 55.6186,
+      "longitude": 13.063312
+    },
+    {
+      "name": "Scandic Skellefteå",
+      "latitude": 64.751577,
+      "longitude": 20.963805
+    },
+    {
+      "name": "Scandic Skärholmen",
+      "latitude": 59.273168,
+      "longitude": 17.90886
+    },
+    {
+      "name": "Scandic Star Lund",
+      "latitude": 55.695511,
+      "longitude": 13.224781
+    },
+    {
+      "name": "Scandic Star Sollentuna",
+      "latitude": 59.426872,
+      "longitude": 17.951344
+    },
+    {
+      "name": "Scandic Stortorget",
+      "latitude": 55.605734,
+      "longitude": 12.998989
+    },
+    {
+      "name": "Scandic Sundsvall City",
+      "latitude": 62.389529,
+      "longitude": 17.304704
+    },
+    {
+      "name": "Scandic Sundsvall Nord",
+      "latitude": 62.414161,
+      "longitude": 17.346159
+    },
+    {
+      "name": "Scandic Swania",
+      "latitude": 58.284512,
+      "longitude": 12.285173
+    },
+    {
+      "name": "Scandic Syd",
+      "latitude": 63.159196,
+      "longitude": 14.672373
+    },
+    {
+      "name": "Scandic Södertälje",
+      "latitude": 59.174436,
+      "longitude": 17.644314
+    },
+    {
+      "name": "Scandic Södra Kajen",
+      "latitude": 59.348877,
+      "longitude": 18.113522
+    },
+    {
+      "name": "Scandic Talk Hotel",
+      "latitude": 59.276862,
+      "longitude": 18.015832
+    },
+    {
+      "name": "Scandic Umeå Syd",
+      "latitude": 63.816682,
+      "longitude": 20.251524
+    },
+    {
+      "name": "Scandic Uplandia",
+      "latitude": 59.860413,
+      "longitude": 17.638676
+    },
+    {
+      "name": "Scandic Victoria Tower",
+      "latitude": 59.407038,
+      "longitude": 17.957512
+    },
+    {
+      "name": "Scandic Visby",
+      "latitude": 57.631813,
+      "longitude": 18.280417
+    },
+    {
+      "name": "Scandic Visby",
+      "latitude": 57.633386,
+      "longitude": 18.282291
+    },
+    {
+      "name": "Scandic Värnamo",
+      "latitude": 57.184813,
+      "longitude": 14.040683
+    },
+    {
+      "name": "Scandic Västerås",
+      "latitude": 59.614589,
+      "longitude": 16.568284
+    },
+    {
+      "name": "Scandic Växjö",
+      "latitude": 56.883782,
+      "longitude": 14.760683
+    },
+    {
+      "name": "Scandic Winn",
+      "latitude": 59.382971,
+      "longitude": 13.50497
+    },
+    {
+      "name": "Scandic Örebro Central",
+      "latitude": 59.28024,
+      "longitude": 15.21429
+    },
+    {
+      "name": "Scandic Örebro Väst",
+      "latitude": 59.274606,
+      "longitude": 15.177254
+    },
+    {
+      "name": "Schenströmska Herrgården Hotell & Konferens AB",
+      "latitude": 59.78055,
+      "longitude": 16.182372
+    },
+    {
+      "name": "Sea Lodge",
+      "latitude": 58.35478,
+      "longitude": 11.230374
+    },
+    {
+      "name": "Sejour Skokloster Wärdshus",
+      "latitude": 59.706857,
+      "longitude": 17.6207
+    },
+    {
+      "name": "Sekelgården",
+      "latitude": 55.428553,
+      "longitude": 13.817396
+    },
+    {
+      "name": "Selma SPA",
+      "latitude": 59.828162,
+      "longitude": 13.12886
+    },
+    {
+      "name": "SGS Veckobostäder",
+      "latitude": 57.687379,
+      "longitude": 11.992031
+    },
+    {
+      "name": "Sheraton Hotel",
+      "latitude": 59.32889,
+      "longitude": 18.06183
+    },
+    {
+      "name": "Sidsjö Hotell & Konferens",
+      "latitude": 62.37805,
+      "longitude": 17.287525
+    },
+    {
+      "name": "Sigtuna Stadshotell",
+      "latitude": 59.614686,
+      "longitude": 17.719703
+    },
+    {
+      "name": "Sigtunastiftelsen",
+      "latitude": 59.615757,
+      "longitude": 17.709662
+    },
+    {
+      "name": "Sikfors Konferens & Fritidsby",
+      "latitude": 65.52825,
+      "longitude": 21.2027
+    },
+    {
+      "name": "Siljansnäs hotell",
+      "latitude": 60.785747,
+      "longitude": 14.862626
+    },
+    {
+      "name": "Siljeströms stugby",
+      "latitude": 62.547402,
+      "longitude": 12.32339
+    },
+    {
+      "name": "Sillegården",
+      "latitude": 59.724981,
+      "longitude": 13.149081
+    },
+    {
+      "name": "Silleruds station",
+      "latitude": 59.319193,
+      "longitude": 12.311453
+    },
+    {
+      "name": "Silver Lodge",
+      "latitude": 66.117693,
+      "longitude": 17.928842
+    },
+    {
+      "name": "Silverhatten",
+      "latitude": 66.038008,
+      "longitude": 17.858458
+    },
+    {
+      "name": "Simloc Hotell",
+      "latitude": 66.052004,
+      "longitude": 17.89068
+    },
+    {
+      "name": "Simones Hotel",
+      "latitude": 58.445264,
+      "longitude": 14.894832
+    },
+    {
+      "name": "Sjöborg Säng & Bassäng",
+      "latitude": 56.243515,
+      "longitude": 13.029725
+    },
+    {
+      "name": "Sjöfartshotellet",
+      "latitude": 59.318688,
+      "longitude": 18.076057
+    },
+    {
+      "name": "Sjöstugans Hotel",
+      "latitude": 56.568979,
+      "longitude": 14.132171
+    },
+    {
+      "name": "Sjöviksgården",
+      "latitude": 57.907033,
+      "longitude": 12.378463
+    },
+    {
+      "name": "skansen",
+      "latitude": 56.649444,
+      "longitude": 16.466775
+    },
+    {
+      "name": "Skanörs Gästgifvaregård",
+      "latitude": 55.418227,
+      "longitude": 12.847472
+    },
+    {
+      "name": "Skara Konsthotell",
+      "latitude": 58.389694,
+      "longitude": 13.461845
+    },
+    {
+      "name": "Skara Stadshotell",
+      "latitude": 58.38445,
+      "longitude": 13.439603
+    },
+    {
+      "name": "Skellefteå Stadshotell",
+      "latitude": 64.750181,
+      "longitude": 20.950854
+    },
+    {
+      "name": "Skepparholmen",
+      "latitude": 59.346284,
+      "longitude": 18.252925
+    },
+    {
+      "name": "Skeppsbron",
+      "latitude": 59.324235,
+      "longitude": 18.075057
+    },
+    {
+      "name": "Skeppsholmen",
+      "latitude": 59.324749,
+      "longitude": 18.087595
+    },
+    {
+      "name": "Skeviks gård",
+      "latitude": 59.349291,
+      "longitude": 18.379482
+    },
+    {
+      "name": "Ski Lodge",
+      "latitude": 60.759448,
+      "longitude": 16.49666
+    },
+    {
+      "name": "Ski Lodge Tänndalen",
+      "latitude": 62.57324,
+      "longitude": 12.224627
+    },
+    {
+      "name": "SkiStar Lodge Hundfjället",
+      "latitude": 61.177552,
+      "longitude": 12.964401
+    },
+    {
+      "name": "SkiStar Lodge Lindvallen",
+      "latitude": 61.157056,
+      "longitude": 13.203525
+    },
+    {
+      "name": "Skivarps Gästgivaregård",
+      "latitude": 55.423177,
+      "longitude": 13.567214
+    },
+    {
+      "name": "Skogshalla",
+      "latitude": 61.6942,
+      "longitude": 13.07654
+    },
+    {
+      "name": "Skogshem & Wijk Conference Center",
+      "latitude": 59.365715,
+      "longitude": 18.226196
+    },
+    {
+      "name": "Skogshotellet",
+      "latitude": 67.185703,
+      "longitude": 20.762063
+    },
+    {
+      "name": "Skoogs City BnB",
+      "latitude": 65.317074,
+      "longitude": 21.478884
+    },
+    {
+      "name": "Skultuna brukshotell",
+      "latitude": 59.717915,
+      "longitude": 16.420883
+    },
+    {
+      "name": "Sky Executive Apartments",
+      "latitude": 58.40935,
+      "longitude": 15.622691
+    },
+    {
+      "name": "Sky Hotel Apartments",
+      "latitude": 58.413177,
+      "longitude": 15.624894
+    },
+    {
+      "name": "Sky Hotel Apartments",
+      "latitude": 59.334146,
+      "longitude": 18.016415
+    },
+    {
+      "name": "Sky Hotel Apartments Linköping",
+      "latitude": 58.421933,
+      "longitude": 15.616155
+    },
+    {
+      "name": "Skyrupsgården",
+      "latitude": 56.12992,
+      "longitude": 13.669435
+    },
+    {
+      "name": "Skytteholm",
+      "latitude": 59.31966,
+      "longitude": 17.668717
+    },
+    {
+      "name": "Skärgårdshotellet",
+      "latitude": 58.904003,
+      "longitude": 17.953696
+    },
+    {
+      "name": "Skålleruds Gård",
+      "latitude": 58.782572,
+      "longitude": 12.428138
+    },
+    {
+      "name": "Skålsjögården Timber Lodge",
+      "latitude": 61.156318,
+      "longitude": 15.882144
+    },
+    {
+      "name": "Skåvsjöholm konferens & möten",
+      "latitude": 59.433942,
+      "longitude": 18.261176
+    },
+    {
+      "name": "Sköllen Gårdshotell",
+      "latitude": 55.527072,
+      "longitude": 14.330764
+    },
+    {
+      "name": "Slagsta Gate Hotell",
+      "latitude": 59.253497,
+      "longitude": 17.856883
+    },
+    {
+      "name": "Slagsta Motell",
+      "latitude": 59.25179,
+      "longitude": 17.849782
+    },
+    {
+      "name": "Slitebaden hotell och restaurang",
+      "latitude": 57.704769,
+      "longitude": 18.807342
+    },
+    {
+      "name": "Slottshotellet",
+      "latitude": 56.661429,
+      "longitude": 16.354446
+    },
+    {
+      "name": "Slussen rum",
+      "latitude": 58.482041,
+      "longitude": 16.324821
+    },
+    {
+      "name": "Smakrike Logi",
+      "latitude": 57.33018,
+      "longitude": 18.708996
+    },
+    {
+      "name": "Smedjan",
+      "latitude": 67.20867,
+      "longitude": 23.371951
+    },
+    {
+      "name": "Smygehus",
+      "latitude": 55.348051,
+      "longitude": 13.383542
+    },
+    {
+      "name": "Smålandsbyn",
+      "latitude": 57.657775,
+      "longitude": 15.843134
+    },
+    {
+      "name": "Smålandsgården",
+      "latitude": 58.006455,
+      "longitude": 14.574687
+    },
+    {
+      "name": "Smögens Hafvsbad",
+      "latitude": 58.357314,
+      "longitude": 11.221152
+    },
+    {
+      "name": "Sockerslottet hotell",
+      "latitude": 59.312226,
+      "longitude": 14.10937
+    },
+    {
+      "name": "Sofia Lägenhetshotel",
+      "latitude": 56.547001,
+      "longitude": 14.138818
+    },
+    {
+      "name": "Sofo Hotel",
+      "latitude": 59.308721,
+      "longitude": 18.079166
+    },
+    {
+      "name": "Solakoop B&B",
+      "latitude": 59.38951,
+      "longitude": 13.494724
+    },
+    {
+      "name": "Solliden",
+      "latitude": 58.071266,
+      "longitude": 11.817384
+    },
+    {
+      "name": "Solna Park & Hotel",
+      "latitude": 59.38045,
+      "longitude": 18.007324
+    },
+    {
+      "name": "Solsta Tower",
+      "latitude": 56.204282,
+      "longitude": 14.831214
+    },
+    {
+      "name": "Sorsele River Hotel",
+      "latitude": 65.53236,
+      "longitude": 17.536345
+    },
+    {
+      "name": "Spar Hotel Gårda",
+      "latitude": 57.710124,
+      "longitude": 11.996012
+    },
+    {
+      "name": "Spar Hotel Majorna",
+      "latitude": 57.695264,
+      "longitude": 11.92176
+    },
+    {
+      "name": "Spelabäcken",
+      "latitude": 55.41337,
+      "longitude": 12.844252
+    },
+    {
+      "name": "Spiran",
+      "latitude": 64.167607,
+      "longitude": 20.922464
+    },
+    {
+      "name": "Sport hotellet Idre",
+      "latitude": 61.86213,
+      "longitude": 12.718084
+    },
+    {
+      "name": "Sporthotellet",
+      "latitude": 58.924065,
+      "longitude": 17.924942
+    },
+    {
+      "name": "Stadshotell",
+      "latitude": 56.51409,
+      "longitude": 13.042978
+    },
+    {
+      "name": "Stadshotellet",
+      "latitude": 60.347268,
+      "longitude": 15.747764
+    },
+    {
+      "name": "Stadshotellet",
+      "latitude": 60.279291,
+      "longitude": 15.987291
+    },
+    {
+      "name": "Stadshotellet",
+      "latitude": 56.050693,
+      "longitude": 14.581191
+    },
+    {
+      "name": "Stadshotellet",
+      "latitude": 59.310016,
+      "longitude": 14.108955
+    },
+    {
+      "name": "Stadshotellet",
+      "latitude": 60.150133,
+      "longitude": 15.186275
+    },
+    {
+      "name": "Stadshotellet",
+      "latitude": 59.381311,
+      "longitude": 13.500526
+    },
+    {
+      "name": "Stadshotellet",
+      "latitude": 58.709362,
+      "longitude": 13.824287
+    },
+    {
+      "name": "Stadshotellet",
+      "latitude": 57.75898,
+      "longitude": 16.64133
+    },
+    {
+      "name": "Stadshotellet Kristianstad",
+      "latitude": 56.031055,
+      "longitude": 14.155062
+    },
+    {
+      "name": "Stadshotellet Ljusdal",
+      "latitude": 61.827583,
+      "longitude": 16.096999
+    },
+    {
+      "name": "Stadt",
+      "latitude": 58.503319,
+      "longitude": 13.161144
+    },
+    {
+      "name": "Stallmästaregården",
+      "latitude": 59.351836,
+      "longitude": 18.043378
+    },
+    {
+      "name": "Starby Hotell",
+      "latitude": 58.441462,
+      "longitude": 14.879026
+    },
+    {
+      "name": "Statt hotel",
+      "latitude": 61.727491,
+      "longitude": 17.111126
+    },
+    {
+      "name": "Stay by George.se",
+      "latitude": 59.861095,
+      "longitude": 17.613938
+    },
+    {
+      "name": "Stay Hotel",
+      "latitude": 56.16218,
+      "longitude": 15.589802
+    },
+    {
+      "name": "Stay Xtra Hotel",
+      "latitude": 59.412244,
+      "longitude": 17.919197
+    },
+    {
+      "name": "StayAt Kista",
+      "latitude": 59.403724,
+      "longitude": 17.942862
+    },
+    {
+      "name": "Steam Hotel",
+      "latitude": 59.607081,
+      "longitude": 16.567847
+    },
+    {
+      "name": "Stegeborgs Trädgårdshotell",
+      "latitude": 58.429359,
+      "longitude": 16.596774
+    },
+    {
+      "name": "Stenhotellet",
+      "latitude": 58.968535,
+      "longitude": 18.328749
+    },
+    {
+      "name": "Stenungsbaden",
+      "latitude": 58.06431,
+      "longitude": 11.807764
+    },
+    {
+      "name": "Stephans Käring Hotell",
+      "latitude": 58.112585,
+      "longitude": 11.367301
+    },
+    {
+      "name": "STF Abisko Turiststation",
+      "latitude": 68.358572,
+      "longitude": 18.783675
+    },
+    {
+      "name": "STF hotell Kungsgården Långvind",
+      "latitude": 61.456908,
+      "longitude": 17.112517
+    },
+    {
+      "name": "STF Stora Frögården",
+      "latitude": 56.574999,
+      "longitude": 16.407035
+    },
+    {
+      "name": "STF Visby Lägenhetshotell",
+      "latitude": 57.631791,
+      "longitude": 18.304975
+    },
+    {
+      "name": "Stiftsgården Södra Hoka",
+      "latitude": 56.2581,
+      "longitude": 14.844658
+    },
+    {
+      "name": "Stiftsgården Åkersberg",
+      "latitude": 55.93895,
+      "longitude": 13.538184
+    },
+    {
+      "name": "Stjärnholms slott",
+      "latitude": 58.69409,
+      "longitude": 17.032243
+    },
+    {
+      "name": "Stockholm Classic Hotell",
+      "latitude": 59.318464,
+      "longitude": 18.048046
+    },
+    {
+      "name": "Stockholm Inn",
+      "latitude": 59.335487,
+      "longitude": 18.059662
+    },
+    {
+      "name": "Stopet",
+      "latitude": 60.076477,
+      "longitude": 15.007723
+    },
+    {
+      "name": "Stopover Falkenberg",
+      "latitude": 56.931105,
+      "longitude": 12.51952
+    },
+    {
+      "name": "Stora Brännbo konferens center",
+      "latitude": 59.619465,
+      "longitude": 17.71159
+    },
+    {
+      "name": "Stora Hotellet",
+      "latitude": 56.744983,
+      "longitude": 15.910509
+    },
+    {
+      "name": "Stora Hotellet",
+      "latitude": 58.598394,
+      "longitude": 11.282853
+    },
+    {
+      "name": "Stora Hotellet",
+      "latitude": 63.82505,
+      "longitude": 20.261339
+    },
+    {
+      "name": "Stora Hotellet Markaryd",
+      "latitude": 56.459634,
+      "longitude": 13.595154
+    },
+    {
+      "name": "Stora Hotellet Osby",
+      "latitude": 56.380232,
+      "longitude": 13.993483
+    },
+    {
+      "name": "Storgården i Rimforsa AB",
+      "latitude": 58.111272,
+      "longitude": 15.686561
+    },
+    {
+      "name": "Storliens Bed & Breakfast",
+      "latitude": 63.317273,
+      "longitude": 12.097757
+    },
+    {
+      "name": "Storliens Högfjällshotell",
+      "latitude": 63.316014,
+      "longitude": 12.106906
+    },
+    {
+      "name": "Storsätra Fjällhotell",
+      "latitude": 62.070136,
+      "longitude": 12.310798
+    },
+    {
+      "name": "Story Hotel Riddargatan",
+      "latitude": 59.334662,
+      "longitude": 18.075181
+    },
+    {
+      "name": "Story Hotel Signalfabriken, Part of JdV by Hyatt",
+      "latitude": 59.361594,
+      "longitude": 17.967313
+    },
+    {
+      "name": "Story Hotel Studio Malmo, Part of JDV by Hyatt",
+      "latitude": 55.611954,
+      "longitude": 12.995153
+    },
+    {
+      "name": "Strand",
+      "latitude": 59.330904,
+      "longitude": 18.076982
+    },
+    {
+      "name": "Strand Borgholm",
+      "latitude": 56.878491,
+      "longitude": 16.648145
+    },
+    {
+      "name": "Strand City Hotel",
+      "latitude": 63.287338,
+      "longitude": 18.719635
+    },
+    {
+      "name": "Strand hotell",
+      "latitude": 58.379439,
+      "longitude": 12.319509
+    },
+    {
+      "name": "Strand hotell",
+      "latitude": 58.592978,
+      "longitude": 16.185737
+    },
+    {
+      "name": "Strand Hotell",
+      "latitude": 59.392682,
+      "longitude": 16.796681
+    },
+    {
+      "name": "Strand Hotell Sibbarp",
+      "latitude": 55.582283,
+      "longitude": 12.921675
+    },
+    {
+      "name": "Strandflickornas Gula Villan",
+      "latitude": 58.269183,
+      "longitude": 11.431214
+    },
+    {
+      "name": "Strandflickornas havshotell",
+      "latitude": 58.268542,
+      "longitude": 11.429563
+    },
+    {
+      "name": "Strandflickornas Vandrarhem&Kusthotell",
+      "latitude": 58.269388,
+      "longitude": 11.433016
+    },
+    {
+      "name": "Strandgården",
+      "latitude": 57.117147,
+      "longitude": 12.211262
+    },
+    {
+      "name": "Strandgården",
+      "latitude": 62.594781,
+      "longitude": 12.182383
+    },
+    {
+      "name": "Strandhotellet",
+      "latitude": 60.340951,
+      "longitude": 18.439351
+    },
+    {
+      "name": "Strandvillan Ljunghusen",
+      "latitude": 55.397988,
+      "longitude": 12.943602
+    },
+    {
+      "name": "Strömstad Spa",
+      "latitude": 58.944333,
+      "longitude": 11.159226
+    },
+    {
+      "name": "Stöten Skihotel",
+      "latitude": 61.266068,
+      "longitude": 12.888094
+    },
+    {
+      "name": "Sundbyholms slott",
+      "latitude": 59.44761,
+      "longitude": 16.623279
+    },
+    {
+      "name": "Sundsgården folkhögskola",
+      "latitude": 55.987162,
+      "longitude": 12.758872
+    },
+    {
+      "name": "Sundsmåla Gård AB",
+      "latitude": 58.23971,
+      "longitude": 15.644864
+    },
+    {
+      "name": "Sundsvall City Hotel",
+      "latitude": 62.391395,
+      "longitude": 17.310658
+    },
+    {
+      "name": "Sunhults gästgiveri",
+      "latitude": 57.92851,
+      "longitude": 14.91231
+    },
+    {
+      "name": "Sunlight Spa and Hotel",
+      "latitude": 58.753092,
+      "longitude": 16.99471
+    },
+    {
+      "name": "Sunnersta Herrgård",
+      "latitude": 59.801388,
+      "longitude": 17.660773
+    },
+    {
+      "name": "Sure Hotel by Best Western",
+      "latitude": 59.280829,
+      "longitude": 18.013512
+    },
+    {
+      "name": "Sure Hotel Älgen",
+      "latitude": 63.172684,
+      "longitude": 14.63631
+    },
+    {
+      "name": "Surfviken",
+      "latitude": 58.052361,
+      "longitude": 11.815197
+    },
+    {
+      "name": "Surte",
+      "latitude": 57.820176,
+      "longitude": 12.01587
+    },
+    {
+      "name": "Svabesholms Kungsgård",
+      "latitude": 55.659328,
+      "longitude": 14.23289
+    },
+    {
+      "name": "Svabesholms Kungsgård Pensionat",
+      "latitude": 55.660856,
+      "longitude": 14.23213
+    },
+    {
+      "name": "Svanbacken Strandhotell",
+      "latitude": 61.838304,
+      "longitude": 16.564486
+    },
+    {
+      "name": "Svaneholm Hotel",
+      "latitude": 59.184838,
+      "longitude": 12.551332
+    },
+    {
+      "name": "Svanen",
+      "latitude": 56.672621,
+      "longitude": 16.367795
+    },
+    {
+      "name": "Svanskogs värdshus",
+      "latitude": 59.17472,
+      "longitude": 12.548089
+    },
+    {
+      "name": "Svea Hotel",
+      "latitude": 59.924766,
+      "longitude": 16.604511
+    },
+    {
+      "name": "Svedtiljas Livsstilshotell",
+      "latitude": 58.743335,
+      "longitude": 17.867085
+    },
+    {
+      "name": "Svefi Hotell",
+      "latitude": 65.835165,
+      "longitude": 24.135381
+    },
+    {
+      "name": "Särsta Wärdshus",
+      "latitude": 59.723481,
+      "longitude": 17.791397
+    },
+    {
+      "name": "Säröhus",
+      "latitude": 57.509938,
+      "longitude": 11.932907
+    },
+    {
+      "name": "Sätra Brunn",
+      "latitude": 59.861672,
+      "longitude": 16.457006
+    },
+    {
+      "name": "Sånga-Säby Kurs & Konferens",
+      "latitude": 59.36719,
+      "longitude": 17.648839
+    },
+    {
+      "name": "Sångbergs Färs & Bärs",
+      "latitude": 57.485465,
+      "longitude": 13.349149
+    },
+    {
+      "name": "Såstaholm",
+      "latitude": 59.482702,
+      "longitude": 18.038409
+    },
+    {
+      "name": "Söderfors Herrgård",
+      "latitude": 60.383283,
+      "longitude": 17.237519
+    },
+    {
+      "name": "Söderköpings Brunn",
+      "latitude": 58.479442,
+      "longitude": 16.330477
+    },
+    {
+      "name": "Södertuna Slott",
+      "latitude": 59.068475,
+      "longitude": 17.305141
+    },
+    {
+      "name": "Södra hotellet",
+      "latitude": 58.585165,
+      "longitude": 16.199064
+    },
+    {
+      "name": "Sörbyn Lodge",
+      "latitude": 66.054265,
+      "longitude": 21.786263
+    },
+    {
+      "name": "Söråkers herrgård",
+      "latitude": 62.509449,
+      "longitude": 17.503234
+    },
+    {
+      "name": "Ta Inn Hotel",
+      "latitude": 59.614578,
+      "longitude": 16.563706
+    },
+    {
+      "name": "Tallhöjden",
+      "latitude": 56.719732,
+      "longitude": 13.120544
+    },
+    {
+      "name": "Tallmogården",
+      "latitude": 60.214775,
+      "longitude": 14.96874
+    },
+    {
+      "name": "Tanums Gestgifveri",
+      "latitude": 58.722195,
+      "longitude": 11.324079
+    },
+    {
+      "name": "Tanumstrand",
+      "latitude": 58.672982,
+      "longitude": 11.26394
+    },
+    {
+      "name": "Tastecelebration Residence",
+      "latitude": 55.712724,
+      "longitude": 13.982572
+    },
+    {
+      "name": "Teaterhotellet",
+      "latitude": 55.59753,
+      "longitude": 12.996788
+    },
+    {
+      "name": "Temperance",
+      "latitude": 61.72526,
+      "longitude": 17.105716
+    },
+    {
+      "name": "The Dock",
+      "latitude": 59.195198,
+      "longitude": 17.629445
+    },
+    {
+      "name": "The Downbeat Hotel Tingsryd",
+      "latitude": 56.522044,
+      "longitude": 14.981278
+    },
+    {
+      "name": "The Lab Hotel",
+      "latitude": 59.352599,
+      "longitude": 18.009398
+    },
+    {
+      "name": "The Lamp Hotel",
+      "latitude": 58.590898,
+      "longitude": 16.187708
+    },
+    {
+      "name": "The Land Inn Hotel",
+      "latitude": 59.586164,
+      "longitude": 17.879952
+    },
+    {
+      "name": "The Lodge",
+      "latitude": 55.635661,
+      "longitude": 13.433952
+    },
+    {
+      "name": "The Mayfair Hotel tunneln",
+      "latitude": 55.607247,
+      "longitude": 13.001526
+    },
+    {
+      "name": "The More Hotel",
+      "latitude": 55.594322,
+      "longitude": 13.006539
+    },
+    {
+      "name": "The More Hotel",
+      "latitude": 55.614418,
+      "longitude": 12.984278
+    },
+    {
+      "name": "The More Hotel",
+      "latitude": 55.696031,
+      "longitude": 13.198333
+    },
+    {
+      "name": "The Old Mill",
+      "latitude": 60.54145,
+      "longitude": 16.574476
+    },
+    {
+      "name": "The Pier",
+      "latitude": 57.710611,
+      "longitude": 11.948539
+    },
+    {
+      "name": "The Public Hotel",
+      "latitude": 59.480424,
+      "longitude": 18.29936
+    },
+    {
+      "name": "The Sparrow Hotel",
+      "latitude": 59.336936,
+      "longitude": 18.07155
+    },
+    {
+      "name": "The Studio Hotel",
+      "latitude": 59.399949,
+      "longitude": 17.953057
+    },
+    {
+      "name": "The Vault Hotel",
+      "latitude": 56.047139,
+      "longitude": 12.696098
+    },
+    {
+      "name": "The Winery Hotel",
+      "latitude": 59.377488,
+      "longitude": 18.01236
+    },
+    {
+      "name": "Thon Hotel Vasa",
+      "latitude": 59.33065,
+      "longitude": 18.059628
+    },
+    {
+      "name": "Thorskogs slott",
+      "latitude": 58.033583,
+      "longitude": 12.136532
+    },
+    {
+      "name": "Tidaholms stadshotell",
+      "latitude": 58.180174,
+      "longitude": 13.960944
+    },
+    {
+      "name": "Tillfälligt boende för asylsökande",
+      "latitude": 58.714994,
+      "longitude": 11.3371
+    },
+    {
+      "name": "Tillfälligt boende för asylsökande",
+      "latitude": 56.355122,
+      "longitude": 14.53453
+    },
+    {
+      "name": "Time Hotel",
+      "latitude": 59.347649,
+      "longitude": 18.049164
+    },
+    {
+      "name": "Tingvall B&B eco-lodge",
+      "latitude": 58.741183,
+      "longitude": 11.553685
+    },
+    {
+      "name": "Tjörns havspensionat",
+      "latitude": 57.935259,
+      "longitude": 11.583421
+    },
+    {
+      "name": "Tofta Strandpensionat",
+      "latitude": 57.490744,
+      "longitude": 18.129989
+    },
+    {
+      "name": "Toftaholm Herrgård",
+      "latitude": 57.028175,
+      "longitude": 14.013331
+    },
+    {
+      "name": "Tokeryds herrgård",
+      "latitude": 57.818173,
+      "longitude": 14.108626
+    },
+    {
+      "name": "Top Resort Järvsö",
+      "latitude": 61.717934,
+      "longitude": 16.158027
+    },
+    {
+      "name": "Toppstugorna",
+      "latitude": 61.719317,
+      "longitude": 16.158669
+    },
+    {
+      "name": "Torekov Hotell",
+      "latitude": 56.410993,
+      "longitude": 12.632756
+    },
+    {
+      "name": "Torpa Pensionat",
+      "latitude": 59.160749,
+      "longitude": 17.655984
+    },
+    {
+      "name": "Torsby sporthotell",
+      "latitude": 60.148064,
+      "longitude": 12.994071
+    },
+    {
+      "name": "Torslanda Hotel Apartment",
+      "latitude": 57.713972,
+      "longitude": 11.782462
+    },
+    {
+      "name": "Tre Rosor Pensionat & Konferens",
+      "latitude": 59.574571,
+      "longitude": 17.852257
+    },
+    {
+      "name": "Tre stockar",
+      "latitude": 60.681655,
+      "longitude": 17.253695
+    },
+    {
+      "name": "Treehotel",
+      "latitude": 66.072858,
+      "longitude": 20.98187
+    },
+    {
+      "name": "Treetop Spa, Hangout & Hotel",
+      "latitude": 57.745555,
+      "longitude": 11.952425
+    },
+    {
+      "name": "Trehörna Wärdshus",
+      "latitude": 58.154935,
+      "longitude": 14.84322
+    },
+    {
+      "name": "Trillevallens Högfjällshotell",
+      "latitude": 63.260186,
+      "longitude": 13.186236
+    },
+    {
+      "name": "Trollnäs Hotell & Vandrarhem",
+      "latitude": 60.76046,
+      "longitude": 15.916634
+    },
+    {
+      "name": "Trosa Stadshotell",
+      "latitude": 58.895908,
+      "longitude": 17.546593
+    },
+    {
+      "name": "Trädhushotell Islanna",
+      "latitude": 58.251416,
+      "longitude": 13.507455
+    },
+    {
+      "name": "Tuna Park",
+      "latitude": 59.387426,
+      "longitude": 16.464755
+    },
+    {
+      "name": "Turinge Hotel",
+      "latitude": 59.193891,
+      "longitude": 17.446082
+    },
+    {
+      "name": "Turistgården",
+      "latitude": 55.908421,
+      "longitude": 12.693659
+    },
+    {
+      "name": "Turistgården",
+      "latitude": 55.555861,
+      "longitude": 14.348095
+    },
+    {
+      "name": "Två hus på Österlen",
+      "latitude": 55.428298,
+      "longitude": 14.149631
+    },
+    {
+      "name": "Två Skyttlar",
+      "latitude": 57.451895,
+      "longitude": 12.697968
+    },
+    {
+      "name": "Tylosand",
+      "latitude": 56.648541,
+      "longitude": 12.73226
+    },
+    {
+      "name": "Tyringe Kurhotell",
+      "latitude": 56.155519,
+      "longitude": 13.595212
+    },
+    {
+      "name": "Tällbergsgården",
+      "latitude": 60.823585,
+      "longitude": 14.994469
+    },
+    {
+      "name": "Tänndalen Högfjällshotell - Röstavallen",
+      "latitude": 62.562034,
+      "longitude": 12.262973
+    },
+    {
+      "name": "Tärnaby Fjällby",
+      "latitude": 65.711774,
+      "longitude": 15.250454
+    },
+    {
+      "name": "Tärnaby Fjällhotell",
+      "latitude": 65.714277,
+      "longitude": 15.294414
+    },
+    {
+      "name": "Tössestugan",
+      "latitude": 58.966461,
+      "longitude": 12.61436
+    },
+    {
+      "name": "U&Me",
+      "latitude": 63.824986,
+      "longitude": 20.26017
+    },
+    {
+      "name": "Ulfsunda Slott",
+      "latitude": 59.340856,
+      "longitude": 17.96397
+    },
+    {
+      "name": "Ulkeröds gård",
+      "latitude": 58.6617,
+      "longitude": 11.848802
+    },
+    {
+      "name": "Ullared Paradise",
+      "latitude": 57.132366,
+      "longitude": 12.790636
+    },
+    {
+      "name": "Ulvhälls Herrgård",
+      "latitude": 59.362685,
+      "longitude": 17.042543
+    },
+    {
+      "name": "Ulvsby herrgård",
+      "latitude": 59.866028,
+      "longitude": 13.137063
+    },
+    {
+      "name": "Unique Hotel",
+      "latitude": 59.337025,
+      "longitude": 18.053667
+    },
+    {
+      "name": "Upperud 9:9",
+      "latitude": 58.810142,
+      "longitude": 12.433868
+    },
+    {
+      "name": "Urshult Hotell Bed & Breakfast",
+      "latitude": 56.532614,
+      "longitude": 14.811988
+    },
+    {
+      "name": "Utsikten Meetings",
+      "latitude": 58.914372,
+      "longitude": 17.953101
+    },
+    {
+      "name": "Utter Inn",
+      "latitude": 59.595602,
+      "longitude": 16.563776
+    },
+    {
+      "name": "Utö Värdshus",
+      "latitude": 58.967312,
+      "longitude": 18.329652
+    },
+    {
+      "name": "V Hotel",
+      "latitude": 56.048822,
+      "longitude": 12.693358
+    },
+    {
+      "name": "Vadstena Klosterhotell",
+      "latitude": 58.451142,
+      "longitude": 14.890767
+    },
+    {
+      "name": "Valbergsängen",
+      "latitude": 60.14349,
+      "longitude": 12.98812
+    },
+    {
+      "name": "Vallentuna Sporthotell",
+      "latitude": 59.534627,
+      "longitude": 18.093357
+    },
+    {
+      "name": "VANDER Inre Hamnen",
+      "latitude": 58.595392,
+      "longitude": 16.201697
+    },
+    {
+      "name": "Vann Spa Hotell",
+      "latitude": 58.443967,
+      "longitude": 11.575459
+    },
+    {
+      "name": "Varbergs Kusthotell",
+      "latitude": 57.088613,
+      "longitude": 12.243417
+    },
+    {
+      "name": "Varbergs Stadshotell & Asia Spa",
+      "latitude": 57.105293,
+      "longitude": 12.249646
+    },
+    {
+      "name": "Vaxblekaregården",
+      "latitude": 57.668059,
+      "longitude": 14.97103
+    },
+    {
+      "name": "Vemdalsskalets Högfjällshotel",
+      "latitude": 62.482269,
+      "longitude": 13.973121
+    },
+    {
+      "name": "Vena Värdshus",
+      "latitude": 57.522415,
+      "longitude": 15.966487
+    },
+    {
+      "name": "Verkö Slott",
+      "latitude": 63.164811,
+      "longitude": 14.314025
+    },
+    {
+      "name": "VICI Hotels",
+      "latitude": 58.414302,
+      "longitude": 15.628652
+    },
+    {
+      "name": "Victoria Gränshotell",
+      "latitude": 59.506198,
+      "longitude": 11.847776
+    },
+    {
+      "name": "Victory",
+      "latitude": 59.32436,
+      "longitude": 18.067936
+    },
+    {
+      "name": "Vidbynäs Gård & konferens",
+      "latitude": 59.201198,
+      "longitude": 17.439402
+    },
+    {
+      "name": "Vildmarkshotellet",
+      "latitude": 58.658629,
+      "longitude": 16.451555
+    },
+    {
+      "name": "Villa Anna",
+      "latitude": 59.856843,
+      "longitude": 17.631527
+    },
+    {
+      "name": "Villa Aske",
+      "latitude": 59.607811,
+      "longitude": 17.644136
+    },
+    {
+      "name": "Villa Fridhem",
+      "latitude": 58.669849,
+      "longitude": 16.257622
+    },
+    {
+      "name": "Villa Gransholm",
+      "latitude": 56.845739,
+      "longitude": 14.604198
+    },
+    {
+      "name": "Villa Ingrid",
+      "latitude": 56.881619,
+      "longitude": 16.654651
+    },
+    {
+      "name": "Villa Källhagen",
+      "latitude": 59.332984,
+      "longitude": 18.11134
+    },
+    {
+      "name": "Villa Luna breakfast hotel",
+      "latitude": 56.490124,
+      "longitude": 14.107911
+    },
+    {
+      "name": "Villa Långbers",
+      "latitude": 60.819671,
+      "longitude": 15.006422
+    },
+    {
+      "name": "Villa Lönndal",
+      "latitude": 58.212487,
+      "longitude": 11.420518
+    },
+    {
+      "name": "Villa Maria Garden Cottages",
+      "latitude": 56.058725,
+      "longitude": 12.840479
+    },
+    {
+      "name": "Villa Marstrand",
+      "latitude": 57.885132,
+      "longitude": 11.584568
+    },
+    {
+      "name": "Villa Nostalgia",
+      "latitude": 56.745636,
+      "longitude": 15.913678
+    },
+    {
+      "name": "Villa Rönne",
+      "latitude": 56.24276,
+      "longitude": 12.858031
+    },
+    {
+      "name": "Villa Sandby B&B",
+      "latitude": 55.431771,
+      "longitude": 14.171445
+    },
+    {
+      "name": "Villa Stenhuset Conference",
+      "latitude": 57.126547,
+      "longitude": 12.508397
+    },
+    {
+      "name": "Villa Strandvägen",
+      "latitude": 55.427266,
+      "longitude": 13.84969
+    },
+    {
+      "name": "Villa Strömsfors",
+      "latitude": 57.466173,
+      "longitude": 13.222786
+    },
+    {
+      "name": "Villa Thalassa",
+      "latitude": 56.070484,
+      "longitude": 12.675608
+    },
+    {
+      "name": "Villa Verdi",
+      "latitude": 56.878565,
+      "longitude": 16.651567
+    },
+    {
+      "name": "Villa Vesta Hotell",
+      "latitude": 56.203376,
+      "longitude": 15.282084
+    },
+    {
+      "name": "Vimmerby Stadshotell Carl IX",
+      "latitude": 57.666311,
+      "longitude": 15.854981
+    },
+    {
+      "name": "Vingåkers hotell",
+      "latitude": 59.042732,
+      "longitude": 15.874122
+    },
+    {
+      "name": "Vintergatans",
+      "latitude": 60.679401,
+      "longitude": 15.102946
+    },
+    {
+      "name": "Vita Älgen",
+      "latitude": 59.769006,
+      "longitude": 12.365812
+    },
+    {
+      "name": "Vitemölla badhotell",
+      "latitude": 55.696913,
+      "longitude": 14.210963
+    },
+    {
+      "name": "Vox hotel",
+      "latitude": 57.782795,
+      "longitude": 14.174114
+    },
+    {
+      "name": "Vuonatjviken",
+      "latitude": 66.491093,
+      "longitude": 17.242903
+    },
+    {
+      "name": "Vyn",
+      "latitude": 55.49613,
+      "longitude": 14.313319
+    },
+    {
+      "name": "Vägsjöfors Herrgård",
+      "latitude": 60.287238,
+      "longitude": 13.044746
+    },
+    {
+      "name": "Vänerport",
+      "latitude": 58.712214,
+      "longitude": 13.820036
+    },
+    {
+      "name": "Värdshuset Garvaregården",
+      "latitude": 58.879445,
+      "longitude": 14.900824
+    },
+    {
+      "name": "Värdshuset Hwitan",
+      "latitude": 56.904487,
+      "longitude": 12.493767
+    },
+    {
+      "name": "Värdshuset Lugnet",
+      "latitude": 60.625609,
+      "longitude": 13.760065
+    },
+    {
+      "name": "Värdshuset Smeden",
+      "latitude": 56.973822,
+      "longitude": 15.659976
+    },
+    {
+      "name": "Värmland Hotel",
+      "latitude": 60.024488,
+      "longitude": 13.617405
+    },
+    {
+      "name": "Väsby Gård",
+      "latitude": 59.505214,
+      "longitude": 18.570261
+    },
+    {
+      "name": "Västanå Slott",
+      "latitude": 57.990139,
+      "longitude": 14.421252
+    },
+    {
+      "name": "Västerbacken Hotell & Konferens",
+      "latitude": 63.706268,
+      "longitude": 20.351848
+    },
+    {
+      "name": "Västerhav Hotell & Konferens",
+      "latitude": 57.692588,
+      "longitude": 11.681442
+    },
+    {
+      "name": "Vätternterassen",
+      "latitude": 58.802225,
+      "longitude": 14.93213
+    },
+    {
+      "name": "Wallby Säteri",
+      "latitude": 57.361131,
+      "longitude": 15.374805
+    },
+    {
+      "name": "Walles fjällhotell",
+      "latitude": 62.649756,
+      "longitude": 12.393327
+    },
+    {
+      "name": "Wanbo herrgård",
+      "latitude": 60.117438,
+      "longitude": 15.484346
+    },
+    {
+      "name": "Wasa Park",
+      "latitude": 59.338905,
+      "longitude": 18.039088
+    },
+    {
+      "name": "Waterfront Cabins",
+      "latitude": 57.715306,
+      "longitude": 11.954401
+    },
+    {
+      "name": "Waterfront Hotel",
+      "latitude": 59.329929,
+      "longitude": 18.055941
+    },
+    {
+      "name": "Waxholms Hotell",
+      "latitude": 59.402223,
+      "longitude": 18.354714
+    },
+    {
+      "name": "Welcome Hotel",
+      "latitude": 59.405134,
+      "longitude": 17.870154
+    },
+    {
+      "name": "Wikners i Persåsen",
+      "latitude": 62.90509,
+      "longitude": 14.310384
+    },
+    {
+      "name": "Wiredaholm",
+      "latitude": 57.911089,
+      "longitude": 14.645832
+    },
+    {
+      "name": "Wisby hotell",
+      "latitude": 57.638535,
+      "longitude": 18.290952
+    },
+    {
+      "name": "Wisingsö hotell & konferens",
+      "latitude": 58.052366,
+      "longitude": 14.346455
+    },
+    {
+      "name": "Wärdshuset Bergsparken",
+      "latitude": 65.678357,
+      "longitude": 21.038819
+    },
+    {
+      "name": "Wärdshuset Gyllene Bocken",
+      "latitude": 62.535657,
+      "longitude": 12.610411
+    },
+    {
+      "name": "Wärdshuset Pilgrimen",
+      "latitude": 60.177577,
+      "longitude": 13.495603
+    },
+    {
+      "name": "Wärdshuset på Dal",
+      "latitude": 58.700432,
+      "longitude": 12.449621
+    },
+    {
+      "name": "X Hotell",
+      "latitude": 60.149019,
+      "longitude": 15.186451
+    },
+    {
+      "name": "Yasuragi Hasseludden",
+      "latitude": 59.345691,
+      "longitude": 18.240479
+    },
+    {
+      "name": "Ystad Saltsjöbad",
+      "latitude": 55.425323,
+      "longitude": 13.849702
+    },
+    {
+      "name": "Ystad Spa & Konferenshotell",
+      "latitude": 55.432012,
+      "longitude": 13.839918
+    },
+    {
+      "name": "Ytterjärna Hotel",
+      "latitude": 59.067605,
+      "longitude": 17.615476
+    },
+    {
+      "name": "Yxnerum hotel & conference",
+      "latitude": 58.280554,
+      "longitude": 16.213665
+    },
+    {
+      "name": "Zinkensdamm",
+      "latitude": 59.314841,
+      "longitude": 18.044324
+    },
+    {
+      "name": "Zleep Hotel",
+      "latitude": 59.506513,
+      "longitude": 17.922819
+    },
+    {
+      "name": "Älggårdsberget Konferens",
+      "latitude": 63.008874,
+      "longitude": 16.67152
+    },
+    {
+      "name": "Älvdalens Hotell",
+      "latitude": 61.228754,
+      "longitude": 14.03765
+    },
+    {
+      "name": "Älvkarlebö Herrgård",
+      "latitude": 60.534963,
+      "longitude": 17.406853
+    },
+    {
+      "name": "Älvsjö Stadshotell",
+      "latitude": 59.292235,
+      "longitude": 18.030635
+    },
+    {
+      "name": "Ängavallen",
+      "latitude": 55.43976,
+      "longitude": 13.032139
+    },
+    {
+      "name": "Ängavallen",
+      "latitude": 55.439292,
+      "longitude": 13.034051
+    },
+    {
+      "name": "Ästad Vingård",
+      "latitude": 57.06515,
+      "longitude": 12.558593
+    },
+    {
+      "name": "Åby Hotel",
+      "latitude": 57.649194,
+      "longitude": 12.003471
+    },
+    {
+      "name": "Åhus Gästgivargård",
+      "latitude": 55.921697,
+      "longitude": 14.295039
+    },
+    {
+      "name": "Åkerblads Hotell",
+      "latitude": 60.826489,
+      "longitude": 14.9922
+    },
+    {
+      "name": "Åkerby Herrgård",
+      "latitude": 59.582699,
+      "longitude": 14.972542
+    },
+    {
+      "name": "Åkeshovs slott",
+      "latitude": 59.340728,
+      "longitude": 17.924735
+    },
+    {
+      "name": "Åkulla Outdoor Resort",
+      "latitude": 57.12509,
+      "longitude": 12.563489
+    },
+    {
+      "name": "Åmåls statshotell",
+      "latitude": 59.051548,
+      "longitude": 12.706043
+    },
+    {
+      "name": "Åre Fjällsätra",
+      "latitude": 63.317322,
+      "longitude": 13.237024
+    },
+    {
+      "name": "Åre Torg Hotell",
+      "latitude": 63.401149,
+      "longitude": 13.07748
+    },
+    {
+      "name": "Årstaberg",
+      "latitude": 59.299908,
+      "longitude": 18.03169
+    },
+    {
+      "name": "Åsby Hotell & Konferens",
+      "latitude": 59.613946,
+      "longitude": 16.211543
+    },
+    {
+      "name": "Åsgårdens Wärdshus",
+      "latitude": 58.804069,
+      "longitude": 14.060117
+    },
+    {
+      "name": "Åtellet",
+      "latitude": 59.757925,
+      "longitude": 18.707389
+    },
+    {
+      "name": "Öjaby Herrgård",
+      "latitude": 56.91372,
+      "longitude": 14.736202
+    },
+    {
+      "name": "ÖMC Kurshotel",
+      "latitude": 57.709245,
+      "longitude": 11.664992
+    },
+    {
+      "name": "Örestrand",
+      "latitude": 56.225269,
+      "longitude": 12.541896
+    },
+    {
+      "name": "Öresund",
+      "latitude": 55.870103,
+      "longitude": 12.82638
+    },
+    {
+      "name": "Örlogshotellet",
+      "latitude": 59.330305,
+      "longitude": 18.077361
+    },
+    {
+      "name": "Örserumsbrunn gestgifveri & konferens",
+      "latitude": 58.006382,
+      "longitude": 14.575206
+    },
+    {
+      "name": "Östanskär Hotel och Konferens",
+      "latitude": 62.549777,
+      "longitude": 17.164892
+    },
+    {
+      "name": "Östbergsgården",
+      "latitude": 63.176455,
+      "longitude": 14.605199
+    },
+    {
+      "name": "Östra Grevie konferenser & möten",
+      "latitude": 55.465877,
+      "longitude": 13.140404
+    },
+    {
+      "name": "Överklintens Kvarn",
+      "latitude": 64.250624,
+      "longitude": 20.660883
+    }
+  ],
+  "meta": {
+    "title": "Hotell (Hotels) - Gratis nedladdning",
+    "description": "Hotell i Sverige — OpenStreetMap-punktdata (OSM-tagg: tourism=hotel). Swedish hotels as named point locations with WGS84 coordinates. 1658 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 1658 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Hotell (Hotels) | ListBase",
+    "seo_description": "Ladda ner Hotell (Hotels) — 1658 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 1658 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

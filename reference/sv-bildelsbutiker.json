@@ -1,0 +1,761 @@
+{
+  "id": "sv-bildelsbutiker",
+  "name": "Bildelsbutiker (Car parts shops)",
+  "title": "Bildelsbutiker (Car parts shops)",
+  "description": "Bildelsbutiker i Sverige — OpenStreetMap-punktdata (OSM-tagg: shop=car_parts). Swedish car parts shops as named point locations with WGS84 coordinates. 144 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "24V nu AB",
+      "latitude": 62.422852,
+      "longitude": 17.346667
+    },
+    {
+      "name": "AB Begagnade bildelar",
+      "latitude": 58.402924,
+      "longitude": 15.662218
+    },
+    {
+      "name": "ABS Wheels",
+      "latitude": 59.615585,
+      "longitude": 17.879378
+    },
+    {
+      "name": "AD",
+      "latitude": 55.870393,
+      "longitude": 12.849581
+    },
+    {
+      "name": "AD Bildelar",
+      "latitude": 57.122035,
+      "longitude": 12.261306
+    },
+    {
+      "name": "AD Bildelar",
+      "latitude": 56.525765,
+      "longitude": 14.976887
+    },
+    {
+      "name": "AD Bildelar",
+      "latitude": 56.693001,
+      "longitude": 16.325056
+    },
+    {
+      "name": "AD Bildelar",
+      "latitude": 60.510014,
+      "longitude": 14.212293
+    },
+    {
+      "name": "AD Bildelar Ludvika",
+      "latitude": 60.154168,
+      "longitude": 15.193493
+    },
+    {
+      "name": "AD Butik Laholm",
+      "latitude": 56.501092,
+      "longitude": 13.007338
+    },
+    {
+      "name": "AD Butik Malmö",
+      "latitude": 55.596401,
+      "longitude": 13.095119
+    },
+    {
+      "name": "AD Butik Rättvik",
+      "latitude": 60.891325,
+      "longitude": 15.114793
+    },
+    {
+      "name": "Ad Center",
+      "latitude": 58.073261,
+      "longitude": 11.82105
+    },
+    {
+      "name": "Anabint",
+      "latitude": 59.181761,
+      "longitude": 14.869029
+    },
+    {
+      "name": "Arnes Bildelar",
+      "latitude": 58.442819,
+      "longitude": 11.301179
+    },
+    {
+      "name": "Auto Kada",
+      "latitude": 57.747661,
+      "longitude": 11.993362
+    },
+    {
+      "name": "Autodelar IKH",
+      "latitude": 60.577606,
+      "longitude": 15.610961
+    },
+    {
+      "name": "Autodelar Sweden",
+      "latitude": 60.475736,
+      "longitude": 15.435218
+    },
+    {
+      "name": "Autodemontering TT AB",
+      "latitude": 55.635831,
+      "longitude": 13.689409
+    },
+    {
+      "name": "Autoekonomi i Karlstad AB | BDS bilverkstad",
+      "latitude": 59.389596,
+      "longitude": 13.476681
+    },
+    {
+      "name": "Autoexperten",
+      "latitude": 58.499297,
+      "longitude": 13.184819
+    },
+    {
+      "name": "Autoexperten",
+      "latitude": 58.355317,
+      "longitude": 11.984686
+    },
+    {
+      "name": "Autoexperten",
+      "latitude": 67.150307,
+      "longitude": 20.651111
+    },
+    {
+      "name": "Autoexperten",
+      "latitude": 57.706531,
+      "longitude": 11.884911
+    },
+    {
+      "name": "Autoexperten",
+      "latitude": 59.739235,
+      "longitude": 18.695228
+    },
+    {
+      "name": "Autoexperten",
+      "latitude": 59.439768,
+      "longitude": 18.045634
+    },
+    {
+      "name": "Autoexperten",
+      "latitude": 58.530402,
+      "longitude": 15.045277
+    },
+    {
+      "name": "Autoparts",
+      "latitude": 63.850791,
+      "longitude": 20.305712
+    },
+    {
+      "name": "Autorisma",
+      "latitude": 59.307173,
+      "longitude": 18.077156
+    },
+    {
+      "name": "Avgassystem.eu",
+      "latitude": 58.42729,
+      "longitude": 15.683047
+    },
+    {
+      "name": "Backens Bilcenter Uppsala",
+      "latitude": 59.867313,
+      "longitude": 17.630306
+    },
+    {
+      "name": "Batterilagret",
+      "latitude": 58.404281,
+      "longitude": 15.64476
+    },
+    {
+      "name": "Batterilagret",
+      "latitude": 63.848601,
+      "longitude": 20.300206
+    },
+    {
+      "name": "BDS",
+      "latitude": 59.596473,
+      "longitude": 15.225031
+    },
+    {
+      "name": "Bildelsbutiken Karlskoga",
+      "latitude": 59.319406,
+      "longitude": 14.462548
+    },
+    {
+      "name": "Bildetaljer",
+      "latitude": 62.388516,
+      "longitude": 17.286746
+    },
+    {
+      "name": "Biljouren",
+      "latitude": 59.479719,
+      "longitude": 18.289558
+    },
+    {
+      "name": "Bilkyl-Specialisten",
+      "latitude": 57.748343,
+      "longitude": 11.993815
+    },
+    {
+      "name": "Biltillbehör",
+      "latitude": 63.162712,
+      "longitude": 14.663056
+    },
+    {
+      "name": "Biltillbehör-Centrum",
+      "latitude": 57.720421,
+      "longitude": 12.006048
+    },
+    {
+      "name": "Bilxtra",
+      "latitude": 59.280547,
+      "longitude": 17.918816
+    },
+    {
+      "name": "Bjarnes",
+      "latitude": 60.036304,
+      "longitude": 13.706501
+    },
+    {
+      "name": "Bra Bildelar Norden",
+      "latitude": 60.512504,
+      "longitude": 16.732329
+    },
+    {
+      "name": "CD Bilradio i Göteborg AB",
+      "latitude": 57.729678,
+      "longitude": 11.984314
+    },
+    {
+      "name": "Cirkle K Borås Hedvigsborg",
+      "latitude": 57.705226,
+      "longitude": 12.948839
+    },
+    {
+      "name": "Delman",
+      "latitude": 58.33088,
+      "longitude": 15.145555
+    },
+    {
+      "name": "Desa Lack AB",
+      "latitude": 60.672021,
+      "longitude": 17.198371
+    },
+    {
+      "name": "Däckbutiken",
+      "latitude": 62.397239,
+      "longitude": 17.348922
+    },
+    {
+      "name": "Eklunds bildelslager",
+      "latitude": 58.387894,
+      "longitude": 13.796404
+    },
+    {
+      "name": "El & Diesel",
+      "latitude": 64.760426,
+      "longitude": 20.970951
+    },
+    {
+      "name": "ENEM Sweden AB",
+      "latitude": 59.334955,
+      "longitude": 18.249396
+    },
+    {
+      "name": "Energo",
+      "latitude": 59.348849,
+      "longitude": 17.960538
+    },
+    {
+      "name": "Euromaster",
+      "latitude": 57.930676,
+      "longitude": 12.559218
+    },
+    {
+      "name": "Euromaster",
+      "latitude": 56.146326,
+      "longitude": 13.775249
+    },
+    {
+      "name": "Fagersta Bildelar",
+      "latitude": 59.983792,
+      "longitude": 15.805923
+    },
+    {
+      "name": "Frej Bildelar",
+      "latitude": 59.346104,
+      "longitude": 18.052673
+    },
+    {
+      "name": "Global Batterier",
+      "latitude": 59.202172,
+      "longitude": 18.129098
+    },
+    {
+      "name": "Gästrike Teknik & Bilvård",
+      "latitude": 60.626019,
+      "longitude": 16.755192
+    },
+    {
+      "name": "Handelshuset i Kungsgården",
+      "latitude": 60.607141,
+      "longitude": 16.596618
+    },
+    {
+      "name": "Hårds bildemontering AB",
+      "latitude": 58.435913,
+      "longitude": 15.70134
+    },
+    {
+      "name": "Högåsens Bildemontering",
+      "latitude": 59.300993,
+      "longitude": 14.428295
+    },
+    {
+      "name": "inWRAP i Väst AB",
+      "latitude": 58.018647,
+      "longitude": 11.840719
+    },
+    {
+      "name": "inWRAP Uddevalla",
+      "latitude": 58.349355,
+      "longitude": 11.864492
+    },
+    {
+      "name": "Kalmar Bilstereo",
+      "latitude": 56.694535,
+      "longitude": 16.320202
+    },
+    {
+      "name": "Klintberg&Way",
+      "latitude": 59.285646,
+      "longitude": 17.933096
+    },
+    {
+      "name": "Laitis",
+      "latitude": 63.847742,
+      "longitude": 20.313093
+    },
+    {
+      "name": "Larsens Bildelar",
+      "latitude": 56.362237,
+      "longitude": 15.691235
+    },
+    {
+      "name": "LBM däck",
+      "latitude": 59.854326,
+      "longitude": 17.663554
+    },
+    {
+      "name": "Ljusdals bildelar AB",
+      "latitude": 61.822858,
+      "longitude": 16.110757
+    },
+    {
+      "name": "Lycksele bildemontering",
+      "latitude": 64.586755,
+      "longitude": 18.697851
+    },
+    {
+      "name": "MB Reservdelar",
+      "latitude": 59.346495,
+      "longitude": 18.045176
+    },
+    {
+      "name": "MC-Boden",
+      "latitude": 59.331932,
+      "longitude": 18.018463
+    },
+    {
+      "name": "MECA",
+      "latitude": 56.518391,
+      "longitude": 14.98638
+    },
+    {
+      "name": "MECA Expresslager",
+      "latitude": 67.147036,
+      "longitude": 20.657793
+    },
+    {
+      "name": "Meca Sweden AB",
+      "latitude": 59.391552,
+      "longitude": 13.478911
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 59.04487,
+      "longitude": 12.679574
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 62.392191,
+      "longitude": 17.264524
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 58.499603,
+      "longitude": 13.183572
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 59.880033,
+      "longitude": 12.297534
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 62.919623,
+      "longitude": 17.784515
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 57.716616,
+      "longitude": 12.958977
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 59.342015,
+      "longitude": 18.11309
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 57.74065,
+      "longitude": 12.127858
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 58.684084,
+      "longitude": 13.816485
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 57.881319,
+      "longitude": 11.985381
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 60.285511,
+      "longitude": 15.992521
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 63.172644,
+      "longitude": 14.692752
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 63.850616,
+      "longitude": 20.309359
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 57.413417,
+      "longitude": 15.087676
+    },
+    {
+      "name": "Mekonomen",
+      "latitude": 64.591475,
+      "longitude": 18.69237
+    },
+    {
+      "name": "Mekonomen Butik",
+      "latitude": 58.211204,
+      "longitude": 16.584895
+    },
+    {
+      "name": "Mekonomen Butik Bettorp / Örebro",
+      "latitude": 59.296768,
+      "longitude": 15.231851
+    },
+    {
+      "name": "Mopar Umeå",
+      "latitude": 63.827196,
+      "longitude": 20.263081
+    },
+    {
+      "name": "Motala Nya Bildemontering",
+      "latitude": 58.566403,
+      "longitude": 15.031099
+    },
+    {
+      "name": "Motonet",
+      "latitude": 63.852429,
+      "longitude": 20.291639
+    },
+    {
+      "name": "Motonet",
+      "latitude": 59.610245,
+      "longitude": 16.621309
+    },
+    {
+      "name": "Motonet",
+      "latitude": 57.760796,
+      "longitude": 14.176431
+    },
+    {
+      "name": "Motonet",
+      "latitude": 59.2196,
+      "longitude": 15.139657
+    },
+    {
+      "name": "Motonet",
+      "latitude": 58.431603,
+      "longitude": 15.60908
+    },
+    {
+      "name": "Motor Allt",
+      "latitude": 56.216837,
+      "longitude": 15.271048
+    },
+    {
+      "name": "Munkfors Bil AB",
+      "latitude": 59.853179,
+      "longitude": 13.558958
+    },
+    {
+      "name": "Norrlands Bilvård",
+      "latitude": 62.497701,
+      "longitude": 16.173762
+    },
+    {
+      "name": "Oil & Grease Lagershop",
+      "latitude": 57.711109,
+      "longitude": 12.79952
+    },
+    {
+      "name": "Ojanperä",
+      "latitude": 65.590721,
+      "longitude": 22.154101
+    },
+    {
+      "name": "Payback AB",
+      "latitude": 63.919573,
+      "longitude": 19.843965
+    },
+    {
+      "name": "PBZ.se car tuning",
+      "latitude": 59.854366,
+      "longitude": 17.663321
+    },
+    {
+      "name": "Persåkers Speedshop",
+      "latitude": 59.258319,
+      "longitude": 17.11213
+    },
+    {
+      "name": "PG Larsson Bildelar AB",
+      "latitude": 58.417763,
+      "longitude": 14.136697
+    },
+    {
+      "name": "Rindab",
+      "latitude": 59.339892,
+      "longitude": 18.246105
+    },
+    {
+      "name": "Ryds Bilglas",
+      "latitude": 56.157148,
+      "longitude": 13.748324
+    },
+    {
+      "name": "Ryds Bilglas",
+      "latitude": 61.333124,
+      "longitude": 16.40308
+    },
+    {
+      "name": "SC Styling",
+      "latitude": 59.881573,
+      "longitude": 17.587084
+    },
+    {
+      "name": "Sesab, Säby Entreprenad och släp AB",
+      "latitude": 59.246323,
+      "longitude": 14.975088
+    },
+    {
+      "name": "Skelleftebränslen",
+      "latitude": 64.741156,
+      "longitude": 21.038152
+    },
+    {
+      "name": "Släpis",
+      "latitude": 59.433323,
+      "longitude": 17.930388
+    },
+    {
+      "name": "Speedparts",
+      "latitude": 58.353475,
+      "longitude": 11.971993
+    },
+    {
+      "name": "Storumans Bil & El",
+      "latitude": 65.090243,
+      "longitude": 17.103174
+    },
+    {
+      "name": "Sundbybergs Bildelar",
+      "latitude": 59.368574,
+      "longitude": 17.949312
+    },
+    {
+      "name": "Sunny Station",
+      "latitude": 59.69994,
+      "longitude": 15.100947
+    },
+    {
+      "name": "Svensk Turboservice AB",
+      "latitude": 57.747111,
+      "longitude": 11.99366
+    },
+    {
+      "name": "T58.se",
+      "latitude": 59.363872,
+      "longitude": 18.005557
+    },
+    {
+      "name": "Tarvike-auto J.Pudas",
+      "latitude": 67.331718,
+      "longitude": 23.781443
+    },
+    {
+      "name": "Team 1",
+      "latitude": 59.291921,
+      "longitude": 18.009037
+    },
+    {
+      "name": "Tereteknik",
+      "latitude": 59.428446,
+      "longitude": 17.943675
+    },
+    {
+      "name": "TH Pettersson",
+      "latitude": 57.647723,
+      "longitude": 11.955909
+    },
+    {
+      "name": "thansen",
+      "latitude": 56.918095,
+      "longitude": 12.501572
+    },
+    {
+      "name": "Thansen",
+      "latitude": 56.092185,
+      "longitude": 12.766838
+    },
+    {
+      "name": "thansen",
+      "latitude": 59.848937,
+      "longitude": 17.564688
+    },
+    {
+      "name": "thansen",
+      "latitude": 60.625108,
+      "longitude": 16.772683
+    },
+    {
+      "name": "thansen",
+      "latitude": 59.267446,
+      "longitude": 17.90938
+    },
+    {
+      "name": "thansen",
+      "latitude": 55.875189,
+      "longitude": 12.858771
+    },
+    {
+      "name": "Thansen",
+      "latitude": 56.023957,
+      "longitude": 14.118607
+    },
+    {
+      "name": "thansen",
+      "latitude": 58.435803,
+      "longitude": 15.589217
+    },
+    {
+      "name": "Tools Laitis",
+      "latitude": 63.172641,
+      "longitude": 14.694224
+    },
+    {
+      "name": "Top Tint",
+      "latitude": 57.73448,
+      "longitude": 11.912334
+    },
+    {
+      "name": "Trucken",
+      "latitude": 63.441334,
+      "longitude": 16.906886
+    },
+    {
+      "name": "Turboshop Sweden AB",
+      "latitude": 58.24073,
+      "longitude": 11.913557
+    },
+    {
+      "name": "Valla Bildemontering",
+      "latitude": 59.020813,
+      "longitude": 16.328591
+    },
+    {
+      "name": "VP Autoparts Mustang",
+      "latitude": 57.908259,
+      "longitude": 12.907141
+    },
+    {
+      "name": "Walters Bildemontering",
+      "latitude": 56.927882,
+      "longitude": 12.428416
+    },
+    {
+      "name": "Wheels4fun",
+      "latitude": 59.371569,
+      "longitude": 15.043398
+    },
+    {
+      "name": "Ådalens Bildemontering",
+      "latitude": 62.923372,
+      "longitude": 17.807694
+    },
+    {
+      "name": "Ågrens Däck, Bildelar & Åkeri",
+      "latitude": 58.225753,
+      "longitude": 13.566844
+    },
+    {
+      "name": "Örby Gummi",
+      "latitude": 59.270889,
+      "longitude": 18.043529
+    }
+  ],
+  "meta": {
+    "title": "Bildelsbutiker (Car parts shops) - Gratis nedladdning",
+    "description": "Bildelsbutiker i Sverige — OpenStreetMap-punktdata (OSM-tagg: shop=car_parts). Swedish car parts shops as named point locations with WGS84 coordinates. 144 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 144 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Bildelsbutiker (Car parts shops) | ListBase",
+    "seo_description": "Ladda ner Bildelsbutiker (Car parts shops) — 144 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 144 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

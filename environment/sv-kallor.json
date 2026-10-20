@@ -1,0 +1,876 @@
+{
+  "id": "sv-kallor",
+  "name": "Källor (Springs)",
+  "title": "Källor (Springs)",
+  "description": "Källor i Sverige — OpenStreetMap-punktdata (OSM-tagg: natural=spring). Swedish springs as named point locations with WGS84 coordinates. 167 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 167,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Stora Backen\"",
+      "latitude": 59.40829,
+      "longitude": 14.928273
+    },
+    {
+      "name": "Adlers källa",
+      "latitude": 59.358682,
+      "longitude": 14.959452
+    },
+    {
+      "name": "Ag3 K1",
+      "latitude": 59.396283,
+      "longitude": 14.945484
+    },
+    {
+      "name": "Ag5 K3",
+      "latitude": 59.172388,
+      "longitude": 15.377978
+    },
+    {
+      "name": "Alfreds källa",
+      "latitude": 56.693746,
+      "longitude": 12.879675
+    },
+    {
+      "name": "Alvkällan",
+      "latitude": 56.332188,
+      "longitude": 16.406137
+    },
+    {
+      "name": "Asplund",
+      "latitude": 60.090319,
+      "longitude": 16.757558
+    },
+    {
+      "name": "Barshällskällan",
+      "latitude": 59.435899,
+      "longitude": 17.89094
+    },
+    {
+      "name": "Björnkällorna",
+      "latitude": 59.219018,
+      "longitude": 14.303652
+    },
+    {
+      "name": "Bred källa",
+      "latitude": 59.726298,
+      "longitude": 17.067065
+    },
+    {
+      "name": "Britas källa",
+      "latitude": 57.738102,
+      "longitude": 14.043993
+    },
+    {
+      "name": "Brunnriskällan",
+      "latitude": 61.31258,
+      "longitude": 14.061689
+    },
+    {
+      "name": "Brunnskällan",
+      "latitude": 58.215725,
+      "longitude": 15.67719
+    },
+    {
+      "name": "Brynekällan",
+      "latitude": 57.806245,
+      "longitude": 11.999308
+    },
+    {
+      "name": "Brännakällan",
+      "latitude": 59.107274,
+      "longitude": 15.371824
+    },
+    {
+      "name": "Brônnskälla",
+      "latitude": 59.556037,
+      "longitude": 11.821107
+    },
+    {
+      "name": "Bullerhålet",
+      "latitude": 64.391722,
+      "longitude": 18.563902
+    },
+    {
+      "name": "Byggedals källa",
+      "latitude": 57.515618,
+      "longitude": 12.254326
+    },
+    {
+      "name": "Bykeskällan",
+      "latitude": 60.13492,
+      "longitude": 16.835701
+    },
+    {
+      "name": "Djupvikens friskvattenkälla",
+      "latitude": 64.468637,
+      "longitude": 19.439528
+    },
+    {
+      "name": "Dr Westerlunds källa",
+      "latitude": 63.331164,
+      "longitude": 12.093135
+    },
+    {
+      "name": "Drottning Kristinas källa",
+      "latitude": 59.415544,
+      "longitude": 17.696807
+    },
+    {
+      "name": "Drottningkällan",
+      "latitude": 58.978529,
+      "longitude": 17.566532
+    },
+    {
+      "name": "Edvards källa",
+      "latitude": 59.020483,
+      "longitude": 15.543833
+    },
+    {
+      "name": "Erik-Ers Källa",
+      "latitude": 60.134589,
+      "longitude": 15.386293
+    },
+    {
+      "name": "Fridhems källa",
+      "latitude": 57.98087,
+      "longitude": 13.76282
+    },
+    {
+      "name": "Fylleryds källa",
+      "latitude": 56.895931,
+      "longitude": 14.86136
+    },
+    {
+      "name": "Glörje källa",
+      "latitude": 57.250456,
+      "longitude": 13.588496
+    },
+    {
+      "name": "Gorkekälla",
+      "latitude": 55.668812,
+      "longitude": 14.266498
+    },
+    {
+      "name": "Grodkällan",
+      "latitude": 65.781485,
+      "longitude": 19.492202
+    },
+    {
+      "name": "Gråmons kallkälla",
+      "latitude": 58.831101,
+      "longitude": 14.630656
+    },
+    {
+      "name": "Gråsalakärret Tref. källa",
+      "latitude": 60.73874,
+      "longitude": 15.771492
+    },
+    {
+      "name": "Gröndals källa",
+      "latitude": 60.721845,
+      "longitude": 17.26912
+    },
+    {
+      "name": "Gällö brunn",
+      "latitude": 59.21963,
+      "longitude": 15.148502
+    },
+    {
+      "name": "Göstas källa",
+      "latitude": 58.997537,
+      "longitude": 15.550812
+    },
+    {
+      "name": "Hamra Helso Brunn",
+      "latitude": 56.95,
+      "longitude": 18.279683
+    },
+    {
+      "name": "Hanakällan",
+      "latitude": 55.909258,
+      "longitude": 13.635563
+    },
+    {
+      "name": "Hokällan",
+      "latitude": 58.143871,
+      "longitude": 13.603719
+    },
+    {
+      "name": "Hälle källor",
+      "latitude": 58.342804,
+      "longitude": 14.656573
+    },
+    {
+      "name": "Hälsobrunn",
+      "latitude": 56.353686,
+      "longitude": 13.710605
+    },
+    {
+      "name": "Hångers källa",
+      "latitude": 57.791273,
+      "longitude": 18.746968
+    },
+    {
+      "name": "Höstena källor",
+      "latitude": 57.00799,
+      "longitude": 12.647649
+    },
+    {
+      "name": "Ingbo 1",
+      "latitude": 60.1499,
+      "longitude": 16.833345
+    },
+    {
+      "name": "Ingbo 2",
+      "latitude": 60.149825,
+      "longitude": 16.834891
+    },
+    {
+      "name": "Ingbo 3 (Östa källa)",
+      "latitude": 60.148688,
+      "longitude": 16.835042
+    },
+    {
+      "name": "Ingbo B",
+      "latitude": 60.137653,
+      "longitude": 16.84525
+    },
+    {
+      "name": "Ingo källa",
+      "latitude": 60.138464,
+      "longitude": 16.84571
+    },
+    {
+      "name": "Jacobs källa",
+      "latitude": 58.678722,
+      "longitude": 16.245556
+    },
+    {
+      "name": "Jesu Källa",
+      "latitude": 56.204792,
+      "longitude": 14.984801
+    },
+    {
+      "name": "Jobsarbo Källa",
+      "latitude": 60.769573,
+      "longitude": 14.692751
+    },
+    {
+      "name": "Josefinakällan",
+      "latitude": 57.634189,
+      "longitude": 18.282982
+    },
+    {
+      "name": "Josefs Källa",
+      "latitude": 61.806433,
+      "longitude": 16.808464
+    },
+    {
+      "name": "Jungfrukällan",
+      "latitude": 55.631639,
+      "longitude": 14.118479
+    },
+    {
+      "name": "Jungfrukällan",
+      "latitude": 58.732019,
+      "longitude": 16.349511
+    },
+    {
+      "name": "Kalk-Nisses Vattenkälla",
+      "latitude": 56.990156,
+      "longitude": 16.782449
+    },
+    {
+      "name": "Kalktuffkälla",
+      "latitude": 63.235293,
+      "longitude": 14.620747
+    },
+    {
+      "name": "Kallebäcks källa",
+      "latitude": 57.682029,
+      "longitude": 12.018894
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 58.147575,
+      "longitude": 15.569169
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 59.198394,
+      "longitude": 17.87104
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 65.945225,
+      "longitude": 22.892241
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 63.352002,
+      "longitude": 15.57022
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 64.931191,
+      "longitude": 16.121676
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 58.783042,
+      "longitude": 14.64446
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 59.875947,
+      "longitude": 12.759225
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 58.138671,
+      "longitude": 15.592006
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 65.304728,
+      "longitude": 14.606149
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 59.234386,
+      "longitude": 14.504799
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 59.238126,
+      "longitude": 14.565442
+    },
+    {
+      "name": "Kallkälla",
+      "latitude": 65.502313,
+      "longitude": 20.512894
+    },
+    {
+      "name": "Kallkälla vid Svartviken",
+      "latitude": 59.627964,
+      "longitude": 18.767569
+    },
+    {
+      "name": "Kallkällan",
+      "latitude": 56.338418,
+      "longitude": 13.030727
+    },
+    {
+      "name": "Kallkällan",
+      "latitude": 60.394674,
+      "longitude": 15.599289
+    },
+    {
+      "name": "Kappla källa",
+      "latitude": 58.806905,
+      "longitude": 16.917508
+    },
+    {
+      "name": "Katrinebrunn",
+      "latitude": 59.124594,
+      "longitude": 15.620945
+    },
+    {
+      "name": "Knektakällan",
+      "latitude": 56.894944,
+      "longitude": 14.861392
+    },
+    {
+      "name": "Kohagekällan",
+      "latitude": 56.900197,
+      "longitude": 14.855515
+    },
+    {
+      "name": "Kräcklinge",
+      "latitude": 59.17705,
+      "longitude": 14.985286
+    },
+    {
+      "name": "Kungskällan",
+      "latitude": 60.107482,
+      "longitude": 16.87728
+    },
+    {
+      "name": "Kungskällan",
+      "latitude": 60.644969,
+      "longitude": 17.12755
+    },
+    {
+      "name": "Käldu",
+      "latitude": 57.057494,
+      "longitude": 18.294782
+    },
+    {
+      "name": "Källa",
+      "latitude": 59.169586,
+      "longitude": 17.211897
+    },
+    {
+      "name": "Källa",
+      "latitude": 61.00794,
+      "longitude": 14.446425
+    },
+    {
+      "name": "Källa",
+      "latitude": 59.18789,
+      "longitude": 16.490042
+    },
+    {
+      "name": "Källa till glädje",
+      "latitude": 56.347434,
+      "longitude": 13.719876
+    },
+    {
+      "name": "Källemossekällan",
+      "latitude": 56.887532,
+      "longitude": 14.85518
+    },
+    {
+      "name": "Kärnskogen",
+      "latitude": 58.843314,
+      "longitude": 15.288167
+    },
+    {
+      "name": "Lilla Fylleryds källa",
+      "latitude": 56.903472,
+      "longitude": 14.872994
+    },
+    {
+      "name": "Livelycke Källa",
+      "latitude": 58.013813,
+      "longitude": 12.104572
+    },
+    {
+      "name": "Livets källa",
+      "latitude": 62.082375,
+      "longitude": 17.426383
+    },
+    {
+      "name": "Lunnakällan",
+      "latitude": 56.887518,
+      "longitude": 14.889306
+    },
+    {
+      "name": "Låktatjåkka",
+      "latitude": 68.425605,
+      "longitude": 18.354571
+    },
+    {
+      "name": "LångBritas källa",
+      "latitude": 59.530568,
+      "longitude": 17.901998
+    },
+    {
+      "name": "Långsmon kallkälla",
+      "latitude": 58.926704,
+      "longitude": 14.55635
+    },
+    {
+      "name": "Löpperskällan",
+      "latitude": 58.961154,
+      "longitude": 15.060818
+    },
+    {
+      "name": "Malins källa",
+      "latitude": 59.698339,
+      "longitude": 16.633602
+    },
+    {
+      "name": "Midsommarkälla (Ingelsberg)",
+      "latitude": 59.526487,
+      "longitude": 14.951708
+    },
+    {
+      "name": "Mjölnarens källa",
+      "latitude": 59.435811,
+      "longitude": 17.969516
+    },
+    {
+      "name": "Munkakällan",
+      "latitude": 58.790617,
+      "longitude": 14.664753
+    },
+    {
+      "name": "Nissans källa",
+      "latitude": 57.663058,
+      "longitude": 13.997183
+    },
+    {
+      "name": "Norby källa",
+      "latitude": 59.831202,
+      "longitude": 17.595564
+    },
+    {
+      "name": "Nygårdskällan",
+      "latitude": 59.544953,
+      "longitude": 13.949953
+    },
+    {
+      "name": "Nälberg",
+      "latitude": 59.085243,
+      "longitude": 15.005008
+    },
+    {
+      "name": "Offerkällan",
+      "latitude": 58.432917,
+      "longitude": 13.698676
+    },
+    {
+      "name": "Onsvalakällan",
+      "latitude": 55.9482,
+      "longitude": 13.606229
+    },
+    {
+      "name": "Oxkällan",
+      "latitude": 60.134608,
+      "longitude": 16.840724
+    },
+    {
+      "name": "Parthus källa",
+      "latitude": 60.125658,
+      "longitude": 15.2955
+    },
+    {
+      "name": "Pilgrimskälla",
+      "latitude": 62.921379,
+      "longitude": 14.506336
+    },
+    {
+      "name": "Pilgrimskällan",
+      "latitude": 62.955761,
+      "longitude": 15.046775
+    },
+    {
+      "name": "Pyr-Brittas källa",
+      "latitude": 59.489804,
+      "longitude": 14.621676
+    },
+    {
+      "name": "Rensjön",
+      "latitude": 68.065288,
+      "longitude": 19.822325
+    },
+    {
+      "name": "Rent dricksvatten i källa",
+      "latitude": 62.505989,
+      "longitude": 17.012696
+    },
+    {
+      "name": "Rugerdskelda",
+      "latitude": 61.14956,
+      "longitude": 14.183351
+    },
+    {
+      "name": "Ruskelakällan",
+      "latitude": 58.290061,
+      "longitude": 13.645599
+    },
+    {
+      "name": "Råkällan",
+      "latitude": 60.347042,
+      "longitude": 16.09943
+    },
+    {
+      "name": "Rårödspågens källa",
+      "latitude": 56.036151,
+      "longitude": 13.246417
+    },
+    {
+      "name": "Röbäcks källa",
+      "latitude": 63.809425,
+      "longitude": 20.203032
+    },
+    {
+      "name": "Röekillorna",
+      "latitude": 55.401377,
+      "longitude": 14.132279
+    },
+    {
+      "name": "S Ingbo",
+      "latitude": 60.133793,
+      "longitude": 16.841955
+    },
+    {
+      "name": "Sandakällan",
+      "latitude": 59.276621,
+      "longitude": 18.187051
+    },
+    {
+      "name": "Sankt Olofs källa",
+      "latitude": 63.279512,
+      "longitude": 14.33844
+    },
+    {
+      "name": "Sankt Olofs Källa",
+      "latitude": 58.026524,
+      "longitude": 12.108687
+    },
+    {
+      "name": "Sankt Olofs källa",
+      "latitude": 62.550417,
+      "longitude": 15.891707
+    },
+    {
+      "name": "Sankt Olofs källa",
+      "latitude": 63.094074,
+      "longitude": 14.810096
+    },
+    {
+      "name": "Sankt Olofs källa",
+      "latitude": 55.632051,
+      "longitude": 14.121377
+    },
+    {
+      "name": "Sankta Magnhilds källa",
+      "latitude": 55.880547,
+      "longitude": 13.647205
+    },
+    {
+      "name": "Skärsjökällan",
+      "latitude": 60.343902,
+      "longitude": 16.098802
+    },
+    {
+      "name": "Skärviks brunn",
+      "latitude": 59.634523,
+      "longitude": 18.393105
+    },
+    {
+      "name": "Springkällan",
+      "latitude": 60.372039,
+      "longitude": 15.716957
+    },
+    {
+      "name": "Spånbrokällan (Offerkälla)",
+      "latitude": 58.945928,
+      "longitude": 15.067046
+    },
+    {
+      "name": "St Klara trefaldighetskälla",
+      "latitude": 60.175666,
+      "longitude": 14.744161
+    },
+    {
+      "name": "Stora Blekekällan",
+      "latitude": 63.233462,
+      "longitude": 14.621841
+    },
+    {
+      "name": "Stormkällan",
+      "latitude": 59.074092,
+      "longitude": 15.357459
+    },
+    {
+      "name": "Surbrunn",
+      "latitude": 61.153019,
+      "longitude": 14.111131
+    },
+    {
+      "name": "Surbrunnskällan",
+      "latitude": 55.90982,
+      "longitude": 13.75905
+    },
+    {
+      "name": "Surbrunnskällan",
+      "latitude": 62.312405,
+      "longitude": 15.178759
+    },
+    {
+      "name": "Sörbylund",
+      "latitude": 59.100138,
+      "longitude": 14.877281
+    },
+    {
+      "name": "tapwater",
+      "latitude": 63.424257,
+      "longitude": 16.551161
+    },
+    {
+      "name": "Timmaglas Källa",
+      "latitude": 56.740921,
+      "longitude": 13.318391
+    },
+    {
+      "name": "Tingstukällan",
+      "latitude": 59.959143,
+      "longitude": 17.529231
+    },
+    {
+      "name": "Titte Vitte källa",
+      "latitude": 58.502123,
+      "longitude": 15.993284
+    },
+    {
+      "name": "Tockabjärs källa",
+      "latitude": 55.719388,
+      "longitude": 14.078767
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 59.894677,
+      "longitude": 17.00773
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 60.202563,
+      "longitude": 15.632819
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 60.448299,
+      "longitude": 15.613222
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 60.726003,
+      "longitude": 13.610678
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 60.777089,
+      "longitude": 15.845493
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 63.106917,
+      "longitude": 14.261028
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 61.188272,
+      "longitude": 14.762648
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 60.527378,
+      "longitude": 15.444897
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 60.538495,
+      "longitude": 15.346701
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 59.907321,
+      "longitude": 16.869721
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 64.178926,
+      "longitude": 16.89349
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 60.594796,
+      "longitude": 15.583925
+    },
+    {
+      "name": "Trefaldighetskälla",
+      "latitude": 60.740011,
+      "longitude": 15.419725
+    },
+    {
+      "name": "Trefaldighetskällan",
+      "latitude": 59.464805,
+      "longitude": 18.099854
+    },
+    {
+      "name": "Trefaldighetskällan",
+      "latitude": 60.335004,
+      "longitude": 15.771021
+    },
+    {
+      "name": "Trefaldighetskällan",
+      "latitude": 60.556939,
+      "longitude": 15.209076
+    },
+    {
+      "name": "Trefaldighetskällan",
+      "latitude": 61.010657,
+      "longitude": 15.841971
+    },
+    {
+      "name": "Trefaldighetskällan",
+      "latitude": 59.539304,
+      "longitude": 17.92123
+    },
+    {
+      "name": "Ultuna källa",
+      "latitude": 59.80892,
+      "longitude": 17.667105
+    },
+    {
+      "name": "Ungdomens källa",
+      "latitude": 59.7927,
+      "longitude": 14.980781
+    },
+    {
+      "name": "Vatubuttn",
+      "latitude": 60.905692,
+      "longitude": 14.606274
+    },
+    {
+      "name": "Vimos källa",
+      "latitude": 60.418346,
+      "longitude": 15.696154
+    },
+    {
+      "name": "Vissboda",
+      "latitude": 59.012503,
+      "longitude": 15.054934
+    },
+    {
+      "name": "Åbytorp",
+      "latitude": 59.217135,
+      "longitude": 14.859188
+    },
+    {
+      "name": "Åsbo Vattenkälla",
+      "latitude": 60.626026,
+      "longitude": 15.640483
+    },
+    {
+      "name": "Ögonakällan",
+      "latitude": 59.039465,
+      "longitude": 15.018684
+    }
+  ],
+  "meta": {
+    "title": "Källor (Springs) - Gratis nedladdning",
+    "description": "Källor i Sverige — OpenStreetMap-punktdata (OSM-tagg: natural=spring). Swedish springs as named point locations with WGS84 coordinates. 167 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 167 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Källor (Springs) | ListBase",
+    "seo_description": "Ladda ner Källor (Springs) — 167 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 167 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

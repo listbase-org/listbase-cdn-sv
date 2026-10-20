@@ -1,0 +1,142 @@
+{
+  "id": "sv-sodermanland-kommuner",
+  "name": "Kommuner i Södermanlands län",
+  "title": "Kommuner i Södermanlands län",
+  "description": "9 kommuner i Södermanlands län (länskod 04, ISO SE-D , residensstad Nyköping). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "0428",
+      "name": "Vingåkers kommun",
+      "name_short": "Vingåker",
+      "slug": "vingaker",
+      "locality": "VINGÅKER",
+      "url": "http://www.vingaker.se",
+      "num_postnummer": 73
+    },
+    {
+      "kommunkod": "0461",
+      "name": "Gnesta kommun",
+      "name_short": "Gnesta",
+      "slug": "gnesta",
+      "locality": "GNESTA",
+      "url": "http://www.gnesta.se",
+      "num_postnummer": 174
+    },
+    {
+      "kommunkod": "0480",
+      "name": "Nyköpings kommun",
+      "name_short": "Nyköping",
+      "slug": "nykoping",
+      "locality": "NYKÖPING",
+      "url": "http://www.nykoping.se",
+      "num_postnummer": 201
+    },
+    {
+      "kommunkod": "0481",
+      "name": "Oxelösunds kommun",
+      "name_short": "Oxelösund",
+      "slug": "oxelosund",
+      "locality": "OXELÖSUND",
+      "url": "http://www.oxelosund.se",
+      "num_postnummer": 35
+    },
+    {
+      "kommunkod": "0482",
+      "name": "Flens kommun",
+      "name_short": "Flen",
+      "slug": "flen",
+      "locality": "FLEN",
+      "url": "http://www.flen.se",
+      "num_postnummer": 300
+    },
+    {
+      "kommunkod": "0483",
+      "name": "Katrineholms kommun",
+      "name_short": "Katrineholm",
+      "slug": "katrineholm",
+      "locality": "KATRINEHOLM",
+      "url": "http://www.katrineholm.se",
+      "num_postnummer": 156
+    },
+    {
+      "kommunkod": "0484",
+      "name": "Eskilstuna kommun",
+      "name_short": "Eskilstuna",
+      "slug": "eskilstuna",
+      "locality": "ESKILSTUNA",
+      "url": "http://www.eskilstuna.se/",
+      "num_postnummer": 414
+    },
+    {
+      "kommunkod": "0486",
+      "name": "Strängnäs kommun",
+      "name_short": "Strängnäs",
+      "slug": "strangnas",
+      "locality": "STRÄNGNÄS",
+      "url": "http://www.strangnas.se",
+      "num_postnummer": 446
+    },
+    {
+      "kommunkod": "0488",
+      "name": "Trosa kommun",
+      "name_short": "Trosa",
+      "slug": "trosa",
+      "locality": "TROSA",
+      "url": "http://www.trosa.se",
+      "num_postnummer": 65
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Södermanlands län - Gratis nedladdning",
+    "description": "9 kommuner i Södermanlands län (länskod 04, ISO SE-D , residensstad Nyköping). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 9 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Södermanlands län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Södermanlands län — 9 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 9 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

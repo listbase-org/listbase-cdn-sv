@@ -1,0 +1,709 @@
+{
+  "id": "sv-gavleborg-regso",
+  "name": "RegSO-områden i Gävleborgs län",
+  "title": "RegSO-områden i Gävleborgs län",
+  "description": "94 regionala statistikområden (RegSO) i Gävleborgs län (länskod 21). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 94,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "2101R001",
+      "regso_namn": "Ockelbo tätort",
+      "kommun_kod": "2101",
+      "kommun_namn": "Ockelbo",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2101R002",
+      "regso_namn": "Ockelbos omland",
+      "kommun_kod": "2101",
+      "kommun_namn": "Ockelbo",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2104R001",
+      "regso_namn": "Hofors tätort",
+      "kommun_kod": "2104",
+      "kommun_namn": "Hofors",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2104R002",
+      "regso_namn": "Hofors västra omland",
+      "kommun_kod": "2104",
+      "kommun_namn": "Hofors",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2104R003",
+      "regso_namn": "Hofors östra omland",
+      "kommun_kod": "2104",
+      "kommun_namn": "Hofors",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2121R001",
+      "regso_namn": "Alfta",
+      "kommun_kod": "2121",
+      "kommun_namn": "Ovanåker",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2121R002",
+      "regso_namn": "Edsbyn",
+      "kommun_kod": "2121",
+      "kommun_namn": "Ovanåker",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2121R003",
+      "regso_namn": "Ovanåkers landsbygd",
+      "kommun_kod": "2121",
+      "kommun_namn": "Ovanåker",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2132R001",
+      "regso_namn": "Bergsjö",
+      "kommun_kod": "2132",
+      "kommun_namn": "Nordanstig",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2132R002",
+      "regso_namn": "Gnarp",
+      "kommun_kod": "2132",
+      "kommun_namn": "Nordanstig",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2132R003",
+      "regso_namn": "Nordanstig nordvästra omland",
+      "kommun_kod": "2132",
+      "kommun_namn": "Nordanstig",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2132R004",
+      "regso_namn": "Nordanstig nordöstra omland",
+      "kommun_kod": "2132",
+      "kommun_namn": "Nordanstig",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2132R005",
+      "regso_namn": "Nordanstig södra omland",
+      "kommun_kod": "2132",
+      "kommun_namn": "Nordanstig",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2161R001",
+      "regso_namn": "Färila",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2161R002",
+      "regso_namn": "Järvsö",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2161R003",
+      "regso_namn": "Järvsö omland",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2161R004",
+      "regso_namn": "Ljusdal",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2161R005",
+      "regso_namn": "Ljusdal norra",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2161R006",
+      "regso_namn": "Ljusdal omland",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2161R007",
+      "regso_namn": "Tallåsen",
+      "kommun_kod": "2161",
+      "kommun_namn": "Ljusdal",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R001",
+      "regso_namn": "Andersberg",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R002",
+      "regso_namn": "Bergby-Norrsundet",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R003",
+      "regso_namn": "Björke-Norrlandet",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R004",
+      "regso_namn": "Forsbacka-Överhärde",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R005",
+      "regso_namn": "Furuvik-Sälgsjön",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R006",
+      "regso_namn": "Gävle centrum",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R007",
+      "regso_namn": "Gävle Strand-Näringen-Öster",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R008",
+      "regso_namn": "Gävle söder-Sörby",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R009",
+      "regso_namn": "Hagaström-Lexe",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R010",
+      "regso_namn": "Hedesunda",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R011",
+      "regso_namn": "Hemlingby-Hemsta-Järvsta",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R012",
+      "regso_namn": "Hille-Åbyggeby",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R013",
+      "regso_namn": "Holmsund-Sjöäng-Sörby Urfjäll",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R014",
+      "regso_namn": "Jonstorp-Lindbacka-Strömsbro",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R015",
+      "regso_namn": "Norra Brynäs",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R016",
+      "regso_namn": "Norrtull-Nynäs",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R017",
+      "regso_namn": "Stigslund-Gavlehov",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R018",
+      "regso_namn": "Sätra",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R019",
+      "regso_namn": "Södra Bomhus",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R020",
+      "regso_namn": "Södra Brynäs",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R021",
+      "regso_namn": "Valbo",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2180R022",
+      "regso_namn": "Villastaden-Fridhem",
+      "kommun_kod": "2180",
+      "kommun_namn": "Gävle",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2181R001",
+      "regso_namn": "Järbo",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2181R002",
+      "regso_namn": "Kungsgården",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2181R003",
+      "regso_namn": "Sandviken centrum",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2181R004",
+      "regso_namn": "Sandviken nordöstra tätorten",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2181R005",
+      "regso_namn": "Sandviken södra tätorten",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2181R006",
+      "regso_namn": "Sandviken västra tätorten",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2181R007",
+      "regso_namn": "Sandviken östra tätort",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2181R008",
+      "regso_namn": "Sandvikens norra omland",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2181R009",
+      "regso_namn": "Sandvikens södra omland",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2181R010",
+      "regso_namn": "Storvik",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2181R011",
+      "regso_namn": "Årsunda",
+      "kommun_kod": "2181",
+      "kommun_namn": "Sandviken",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2182R001",
+      "regso_namn": "Bergviksbygden",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2182R002",
+      "regso_namn": "Bergvik-Vannsätter",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2182R003",
+      "regso_namn": "Ljusne",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2182R004",
+      "regso_namn": "Norrala-Trönö",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2182R005",
+      "regso_namn": "Sandarne",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2182R006",
+      "regso_namn": "Skog",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2182R007",
+      "regso_namn": "Söderala-Mo",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2182R008",
+      "regso_namn": "Söderhamn centrala staden norr",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2182R009",
+      "regso_namn": "Söderhamn centrala staden söder",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2182R010",
+      "regso_namn": "Söderhamn centrum",
+      "kommun_kod": "2182",
+      "kommun_namn": "Söderhamn",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R001",
+      "regso_namn": "Arbrå landsbygd",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R002",
+      "regso_namn": "Arbrå tätort",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R003",
+      "regso_namn": "Björktjära-Framnäs",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R004",
+      "regso_namn": "Bollnäs centrum",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R005",
+      "regso_namn": "Bollnäs landsbygd",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R006",
+      "regso_namn": "Gärdet",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R007",
+      "regso_namn": "Höglunda-Brånan",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R008",
+      "regso_namn": "Kilafors landsbygd",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R009",
+      "regso_namn": "Kilafors-Sibo tätort",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R010",
+      "regso_namn": "Ren",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R011",
+      "regso_namn": "Rengsjö kommundel",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R012",
+      "regso_namn": "Säversta-Granberg-Hertsjö",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2183R013",
+      "regso_namn": "Sävsberg-Heden",
+      "kommun_kod": "2183",
+      "kommun_namn": "Bollnäs",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R001",
+      "regso_namn": "Bjuråkersbygden",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R002",
+      "regso_namn": "Björkberg-Maln",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R003",
+      "regso_namn": "Delsbo",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R004",
+      "regso_namn": "Delsbo omland",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R005",
+      "regso_namn": "Enånger-Njutångersbygden",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R006",
+      "regso_namn": "Forsa-Näsvikens omland",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R007",
+      "regso_namn": "Hudiksvall södra",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R008",
+      "regso_namn": "Hudiksvall västra",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R009",
+      "regso_namn": "Hudiksvall östra",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R010",
+      "regso_namn": "Håsta",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R011",
+      "regso_namn": "Hög-Mellanbyn-Rogsta",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R012",
+      "regso_namn": "Idenor",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R013",
+      "regso_namn": "Iggesund norra",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R014",
+      "regso_namn": "Iggesund södra",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R015",
+      "regso_namn": "Jakobsberg-Kristineberg",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R016",
+      "regso_namn": "Näsviken",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R017",
+      "regso_namn": "Sanna-Sandvalla",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    },
+    {
+      "regso_kod": "2184R018",
+      "regso_namn": "Sörforsa",
+      "kommun_kod": "2184",
+      "kommun_namn": "Hudiksvall",
+      "lan_kod": "21"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Gävleborgs län - Gratis nedladdning",
+    "description": "94 regionala statistikområden (RegSO) i Gävleborgs län (länskod 21). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 94 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Gävleborgs län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Gävleborgs län — 94 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 94 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

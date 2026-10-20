@@ -1,0 +1,203 @@
+{
+  "id": "sv-botaniska-tradgardar",
+  "name": "Botaniska trädgårdar i Sverige",
+  "title": "Botaniska trädgårdar i Sverige",
+  "description": "Botanical gardens in Sweden with coordinates, sourced from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_sv",
+      "label": "Name Sv",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_sv",
+      "label": "Admin Area Sv",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q5702499",
+      "name_sv": "Alnarpsparken",
+      "name_en": "Alnarp Park Arboretum",
+      "admin_area_sv": "Lomma kommun",
+      "admin_area_en": "Lomma Municipality",
+      "latitude": 55.654444,
+      "longitude": 13.077778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5702499"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q819811",
+      "name_sv": "Bergianska trädgården",
+      "name_en": "Bergian botanic garden",
+      "admin_area_sv": "Stockholms kommun",
+      "admin_area_en": "Stockholm",
+      "latitude": 59.369722,
+      "longitude": 18.046111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q819811"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3064716",
+      "name_sv": "Botaniska trädgården",
+      "name_en": "Botaniska trädgården",
+      "admin_area_sv": "Lunds kommun",
+      "admin_area_en": "Lund Municipality",
+      "latitude": 55.703889,
+      "longitude": 13.202778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3064716"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q96631877",
+      "name_sv": "Botaniska trädgården i Skara",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 58.386789,
+      "longitude": 13.444931,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96631877"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q2755982",
+      "name_sv": "Botaniska trädgården i Uppsala",
+      "name_en": "Uppsala Botanical Garden",
+      "admin_area_sv": "Uppsala kommun",
+      "admin_area_en": "Uppsala Municipality",
+      "latitude": 59.8525,
+      "longitude": 17.629167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2755982"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q10498762",
+      "name_sv": "Fredriksdal museer och trädgårdar",
+      "name_en": "Fredriksdal Museums and Gardens",
+      "admin_area_sv": "Helsingborgs kommun",
+      "admin_area_en": "Helsingborg Municipality",
+      "latitude": 56.055917,
+      "longitude": 12.709583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10498762"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q956772",
+      "name_sv": "Göteborgs botaniska trädgård",
+      "name_en": "Gothenburg Botanical Garden",
+      "admin_area_sv": "Göteborgs kommun",
+      "admin_area_en": "Gothenburg Municipality",
+      "latitude": 57.682881,
+      "longitude": 11.950389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q956772"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q10540701",
+      "name_sv": "Jokkmokks fjällträdgård",
+      "name_en": "Jokkmokks fjällträdgård",
+      "admin_area_sv": "Jokkmokks kommun",
+      "admin_area_en": "Jokkmokk Municipality",
+      "latitude": 66.5997,
+      "longitude": 19.8433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10540701"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q134489503",
+      "name_sv": "Kärrhults gård",
+      "name_en": "Kärrhults gård",
+      "admin_area_sv": "Sverige",
+      "admin_area_en": "Sweden",
+      "latitude": 57.128222,
+      "longitude": 13.329222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134489503"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q1515798",
+      "name_sv": "Linnéträdgården",
+      "name_en": "Linnaean Garden",
+      "admin_area_sv": "Uppsala kommun",
+      "admin_area_en": "Uppsala Municipality",
+      "latitude": 59.862222,
+      "longitude": 17.633889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1515798"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q115216744",
+      "name_sv": "SLU Kunskapsparken",
+      "name_en": "The Knowledge Garden at the Swedish University of Agricultural Sciences",
+      "admin_area_sv": "Uppsala kommun",
+      "admin_area_en": "Uppsala Municipality",
+      "latitude": 59.81575,
+      "longitude": 17.663361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115216744"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q4353880",
+      "name_sv": "Visby botaniska trädgård",
+      "name_en": "Visby Botanical Garden",
+      "admin_area_sv": "Region Gotland",
+      "admin_area_en": "Region Gotland",
+      "latitude": 57.643889,
+      "longitude": 18.294167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4353880"
+    }
+  ],
+  "meta": {
+    "title": "Botaniska trädgårdar i Sverige - Gratis nedladdning",
+    "description": "Botanical gardens in Sweden with coordinates, sourced from Wikidata. Innehåller 12 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Botaniska trädgårdar i Sverige | ListBase",
+    "seo_description": "Ladda ner Botaniska trädgårdar i Sverige — 12 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 12 poster / 9 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

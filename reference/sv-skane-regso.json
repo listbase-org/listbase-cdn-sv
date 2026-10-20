@@ -1,0 +1,3306 @@
+{
+  "id": "sv-skane-regso",
+  "name": "RegSO-områden i Skåne län",
+  "title": "RegSO-områden i Skåne län",
+  "description": "465 regionala statistikområden (RegSO) i Skåne län (länskod 12). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 465,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "1214R001",
+      "regso_namn": "Kågeröd-Billeberga omland",
+      "kommun_kod": "1214",
+      "kommun_namn": "Svalöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1214R002",
+      "regso_namn": "Röstånga",
+      "kommun_kod": "1214",
+      "kommun_namn": "Svalöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1214R003",
+      "regso_namn": "Svalöv",
+      "kommun_kod": "1214",
+      "kommun_namn": "Svalöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1214R004",
+      "regso_namn": "Teckomatorp",
+      "kommun_kod": "1214",
+      "kommun_namn": "Svalöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R001",
+      "regso_namn": "Hjärup-Hjärup omnejd",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R002",
+      "regso_namn": "Jakriborg-Jakriborg omnejd",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R003",
+      "regso_namn": "Nordvästra Staffanstorp-omnejd",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R004",
+      "regso_namn": "Nordöstra Staffanstorp-omnejd",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R005",
+      "regso_namn": "Norra Hjärup-omnejd-Bergströmshusen",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R006",
+      "regso_namn": "Staffanstorp centrala",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R007",
+      "regso_namn": "Staffanstorp södra",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R008",
+      "regso_namn": "Staffanstorp västra",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R009",
+      "regso_namn": "Staffanstorp östra",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R010",
+      "regso_namn": "Staffanstorps omnejd",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R011",
+      "regso_namn": "Sydvästra Staffanstorp-omnejd",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1230R012",
+      "regso_namn": "Sydöstra Staffanstorp-omnejd",
+      "kommun_kod": "1230",
+      "kommun_namn": "Staffanstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1231R001",
+      "regso_namn": "Burlöv södra",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1231R002",
+      "regso_namn": "Norra Åkarp",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1231R003",
+      "regso_namn": "Svenshög-Elisetorp",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1231R004",
+      "regso_namn": "Södra Arlöv",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1231R005",
+      "regso_namn": "Södra Åkarp",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1231R006",
+      "regso_namn": "Tågarp",
+      "kommun_kod": "1231",
+      "kommun_namn": "Burlöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R001",
+      "regso_namn": "Arrie-Västra Ingelstad-Östra Grevie",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R002",
+      "regso_namn": "Falsterbo",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R003",
+      "regso_namn": "Hököpinge",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R004",
+      "regso_namn": "Höllviken centrum-Collins väg-Klockarevägen",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R005",
+      "regso_namn": "Höllviken kanalvägarna-Gya-Kämpinge",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R006",
+      "regso_namn": "Ljunghusen",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R007",
+      "regso_namn": "Skanör",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R008",
+      "regso_namn": "Vellinge centrum-Tran-Vipgränd-Herrestorp",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R009",
+      "regso_namn": "Vellinge kommuns jordbrukslandskap",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R010",
+      "regso_namn": "Vellinge norra-Asklunda-Eskilstorp",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R011",
+      "regso_namn": "Vellinge södra-Södervång-Tofta",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R012",
+      "regso_namn": "Vellinge västra-Norrevång-Torsgården",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R013",
+      "regso_namn": "Östra Höllviken-Kronodal-Granvik",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1233R014",
+      "regso_namn": "Östra Höllviken-Sandeplan-Rängs sand",
+      "kommun_kod": "1233",
+      "kommun_namn": "Vellinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1256R001",
+      "regso_namn": "Broby väst",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1256R002",
+      "regso_namn": "Broby öst",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1256R003",
+      "regso_namn": "Glimåkra",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1256R004",
+      "regso_namn": "Hanaskog",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1256R005",
+      "regso_namn": "Knislinge väst",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1256R006",
+      "regso_namn": "Knislinge öst",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1256R007",
+      "regso_namn": "Sibbhult",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1256R008",
+      "regso_namn": "Östra Göinge landsbygd",
+      "kommun_kod": "1256",
+      "kommun_namn": "Östra Göinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1257R001",
+      "regso_namn": "Örkelljunga norra",
+      "kommun_kod": "1257",
+      "kommun_namn": "Örkelljunga",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1257R002",
+      "regso_namn": "Örkelljunga omland",
+      "kommun_kod": "1257",
+      "kommun_namn": "Örkelljunga",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1257R003",
+      "regso_namn": "Örkelljunga västra",
+      "kommun_kod": "1257",
+      "kommun_namn": "Örkelljunga",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1257R004",
+      "regso_namn": "Örkelljunga östra",
+      "kommun_kod": "1257",
+      "kommun_namn": "Örkelljunga",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1260R001",
+      "regso_namn": "Billesholm norra",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1260R002",
+      "regso_namn": "Billesholm södra",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1260R003",
+      "regso_namn": "Bjuv norra-Gunnarstorp",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1260R004",
+      "regso_namn": "Bjuv södra",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1260R005",
+      "regso_namn": "Bjuv västra",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1260R006",
+      "regso_namn": "Bjuv östra-Selleberga",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1260R007",
+      "regso_namn": "Ekeby västra",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1260R008",
+      "regso_namn": "Ekeby östra",
+      "kommun_kod": "1260",
+      "kommun_namn": "Bjuv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1261R001",
+      "regso_namn": "Arvidsborg-Korsbacka",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1261R002",
+      "regso_namn": "Dösjebro",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1261R003",
+      "regso_namn": "Furulund-Lackalänga",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1261R004",
+      "regso_namn": "Hofterup-Ålstorp",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1261R005",
+      "regso_namn": "Kävlinge centrum",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1261R006",
+      "regso_namn": "Kävlinge nordväst",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1261R007",
+      "regso_namn": "Kävlinge norra-Stationsstaden-Rinnebäck",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1261R008",
+      "regso_namn": "Kävlinge omland",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1261R009",
+      "regso_namn": "Löddeköpinge",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1261R010",
+      "regso_namn": "Löddeköpinge väster-Barsebäck",
+      "kommun_kod": "1261",
+      "kommun_namn": "Kävlinge",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1262R001",
+      "regso_namn": "Bjärred norra",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1262R002",
+      "regso_namn": "Bjärred södra",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1262R003",
+      "regso_namn": "Flädie-Fjelie",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1262R004",
+      "regso_namn": "Lomma centrala",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1262R005",
+      "regso_namn": "Lomma norra",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1262R006",
+      "regso_namn": "Lomma södra-Alnarp",
+      "kommun_kod": "1262",
+      "kommun_namn": "Lomma",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1263R001",
+      "regso_namn": "Bara",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1263R002",
+      "regso_namn": "Bjärshög-Skabersjö-Kärrstorp",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1263R003",
+      "regso_namn": "Hyby-Holmeja-Börringe",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1263R004",
+      "regso_namn": "Klågerup",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1263R005",
+      "regso_namn": "Marbäck-Naverlönn-Kyrkan",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1263R006",
+      "regso_namn": "Svedala centrum-Svedala södra",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1263R007",
+      "regso_namn": "Svedala norra-Bjäret-Sjödiken-Tittente",
+      "kommun_kod": "1263",
+      "kommun_namn": "Svedala",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1264R001",
+      "regso_namn": "Bingsmarken-Abbekås-Mossby",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1264R002",
+      "regso_namn": "Janstorp-Slimminge-Tånebro",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1264R003",
+      "regso_namn": "Rydsgård",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1264R004",
+      "regso_namn": "Skivarp",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1264R005",
+      "regso_namn": "Skurup nordost",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1264R006",
+      "regso_namn": "Skurup nordväst",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1264R007",
+      "regso_namn": "Skurup sydost",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1264R008",
+      "regso_namn": "Skurup sydväst",
+      "kommun_kod": "1264",
+      "kommun_namn": "Skurup",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R001",
+      "regso_namn": "Björka-Öved-Bjärsjölagård",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R002",
+      "regso_namn": "Blentarp-Dalvik",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R003",
+      "regso_namn": "Fränninge-Vallarum",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R004",
+      "regso_namn": "Grimstofta-Åsum",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R005",
+      "regso_namn": "Hemmestorp-Everlöv-Ilstorp",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R006",
+      "regso_namn": "Lövestad-Heinge",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R007",
+      "regso_namn": "Sjöbo centrum-Sjöbo östra",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R008",
+      "regso_namn": "Sommarbyarna Norra-Omma",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R009",
+      "regso_namn": "Sommarbyarna Södra-Ryggorna-Spjälla",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R010",
+      "regso_namn": "Sövde-Knickarp",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R011",
+      "regso_namn": "Vollsjö-Brandstad",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1265R012",
+      "regso_namn": "Äsperöd-Vanstad-Röddinge",
+      "kommun_kod": "1265",
+      "kommun_namn": "Sjöbo",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1266R001",
+      "regso_namn": "Hörby västra-Osbyholm",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1266R002",
+      "regso_namn": "Hörby östra",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1266R003",
+      "regso_namn": "Killhult-Satserup",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1266R004",
+      "regso_namn": "Ludvigsborg-Södra Rörum",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1266R005",
+      "regso_namn": "Lyby-Östraby",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1266R006",
+      "regso_namn": "Önneköp",
+      "kommun_kod": "1266",
+      "kommun_namn": "Hörby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1267R001",
+      "regso_namn": "Höör väster-Centrala Höör-Grönalund",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1267R002",
+      "regso_namn": "Snogeröd-Munkarp-Norra Rörum",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1267R003",
+      "regso_namn": "Stanstorp-Sätofta-Sjunnerup",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1267R004",
+      "regso_namn": "Stenskogen-Veterinärgården",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1267R005",
+      "regso_namn": "Tjörnarps stationssamhälle",
+      "kommun_kod": "1267",
+      "kommun_namn": "Höör",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1270R001",
+      "regso_namn": "Tomelilla norra omland",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1270R002",
+      "regso_namn": "Tomelilla omnejd",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1270R003",
+      "regso_namn": "Tomelilla södra",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1270R004",
+      "regso_namn": "Tomelilla södra omland",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1270R005",
+      "regso_namn": "Tomelilla västra",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1270R006",
+      "regso_namn": "Tomelilla östra",
+      "kommun_kod": "1270",
+      "kommun_namn": "Tomelilla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1272R001",
+      "regso_namn": "Bromölla omland",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1272R002",
+      "regso_namn": "Bromölla öster-Dalafuret",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1272R003",
+      "regso_namn": "Bromölla östra centrum-Åbylyckorna",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1272R004",
+      "regso_namn": "Gualöv-Bromölla skogen-västra centrum Bromölla",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1272R005",
+      "regso_namn": "Ivetofta-Rökebacken",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1272R006",
+      "regso_namn": "Nymölla-Edenryd-Valje",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1272R007",
+      "regso_namn": "Näsum-Västanå",
+      "kommun_kod": "1272",
+      "kommun_namn": "Bromölla",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1273R001",
+      "regso_namn": "Killeberg-Loshult-Hökön",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1273R002",
+      "regso_namn": "Lönsboda",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1273R003",
+      "regso_namn": "Lönsboda omland",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1273R004",
+      "regso_namn": "Osby norra",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1273R005",
+      "regso_namn": "Osby omland",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1273R006",
+      "regso_namn": "Osby södra",
+      "kommun_kod": "1273",
+      "kommun_namn": "Osby",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1275R001",
+      "regso_namn": "Perstorp nordvästra tätorten",
+      "kommun_kod": "1275",
+      "kommun_namn": "Perstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1275R002",
+      "regso_namn": "Perstorp nordöstra tätorten",
+      "kommun_kod": "1275",
+      "kommun_namn": "Perstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1275R003",
+      "regso_namn": "Perstorp omland",
+      "kommun_kod": "1275",
+      "kommun_namn": "Perstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1275R004",
+      "regso_namn": "Perstorp sydvästra tätorten",
+      "kommun_kod": "1275",
+      "kommun_namn": "Perstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1275R005",
+      "regso_namn": "Perstorp sydöstra tätorten",
+      "kommun_kod": "1275",
+      "kommun_namn": "Perstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1276R001",
+      "regso_namn": "Krika omland",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1276R002",
+      "regso_namn": "Ljungbyhed",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1276R003",
+      "regso_namn": "Ljungbyhed omland",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1276R004",
+      "regso_namn": "Solslätt-Pappersbruket",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1276R005",
+      "regso_namn": "Stidsvig-Östra Ljungby",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1276R006",
+      "regso_namn": "Storäng-Söndraby",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1276R007",
+      "regso_namn": "Tegelbruket-Klippan väster",
+      "kommun_kod": "1276",
+      "kommun_namn": "Klippan",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1277R001",
+      "regso_namn": "Björnekulla",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1277R002",
+      "regso_namn": "Björnås-Tingdal",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1277R003",
+      "regso_namn": "Centrum norr-Grytevad",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1277R004",
+      "regso_namn": "Dala-Bjärshög",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1277R005",
+      "regso_namn": "Haganäs",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1277R006",
+      "regso_namn": "Hyllinge",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1277R007",
+      "regso_namn": "Kvidinge",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1277R008",
+      "regso_namn": "Kvidinge omland",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1277R009",
+      "regso_namn": "Nyvång-Västra Broby",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1277R010",
+      "regso_namn": "Åstorp centrum-Rågen",
+      "kommun_kod": "1277",
+      "kommun_namn": "Åstorp",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1278R001",
+      "regso_namn": "Båstad landsbygd",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1278R002",
+      "regso_namn": "Båstad västra",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1278R003",
+      "regso_namn": "Grevie",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1278R004",
+      "regso_namn": "Malen-Båstad",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1278R005",
+      "regso_namn": "Torekov",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1278R006",
+      "regso_namn": "Västra Förslöv",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1278R007",
+      "regso_namn": "Västra Karup-Hov",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1278R008",
+      "regso_namn": "Östra Förslöv",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1278R009",
+      "regso_namn": "Östra Karup-Hemmeslöv",
+      "kommun_kod": "1278",
+      "kommun_namn": "Båstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R001",
+      "regso_namn": "RegSO-Almvik norr-Lindängen norr",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R002",
+      "regso_namn": "RegSO-Almvik syd-Lindängen syd",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R003",
+      "regso_namn": "RegSO-Annelund-Lönngården",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R004",
+      "regso_namn": "RegSO-Annetorp-Kalkbrottet",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R005",
+      "regso_namn": "RegSO-Augustenborg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R006",
+      "regso_namn": "RegSO-Bellevuegården väst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R007",
+      "regso_namn": "RegSO-Bellevuegården öst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R008",
+      "regso_namn": "RegSO-Bellevue-Nya Bellevue",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R009",
+      "regso_namn": "RegSO-Bunkeflostrand syd",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R010",
+      "regso_namn": "RegSO-Bunkeflostrand väst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R011",
+      "regso_namn": "RegSO-Bunkeflostrand öst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R012",
+      "regso_namn": "RegSO-Dammfri",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R013",
+      "regso_namn": "RegSO-Davidshall-Lugnet",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R014",
+      "regso_namn": "RegSO-Djupadal-Rosenvång",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R015",
+      "regso_namn": "RegSO-Elinelund-Djupadal",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R016",
+      "regso_namn": "RegSO-Emilstorp-Östra kyrkogården-Apelgården",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R017",
+      "regso_namn": "RegSO-Eriksfält",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R018",
+      "regso_namn": "RegSO-Fortuna hemgården-Kvarnby-Södra Sallerup",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R019",
+      "regso_namn": "RegSO-Fosieby-Kastanjegården",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R020",
+      "regso_namn": "RegSO-Fågelbacken",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R021",
+      "regso_namn": "RegSO-Gamla Limhamn",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R022",
+      "regso_namn": "RegSO-Gamla staden öst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R023",
+      "regso_namn": "RegSO-Gullvik",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R024",
+      "regso_namn": "RegSO-Gullviksborg-Hermodsdal syd",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R025",
+      "regso_namn": "RegSO-Hamnen-Stortorget",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R026",
+      "regso_namn": "RegSO-Heleneholm-Almhög",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R027",
+      "regso_namn": "RegSO-Hermodsdal-Gullviksborg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R028",
+      "regso_namn": "RegSO-Herrgården norr",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R029",
+      "regso_namn": "RegSO-Hindby",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R030",
+      "regso_namn": "RegSO-Holma",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R031",
+      "regso_namn": "RegSO-Holma-Kroksbäck",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R032",
+      "regso_namn": "RegSO-Hyllievång norr",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R033",
+      "regso_namn": "RegSO-Hyllievång syd",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R034",
+      "regso_namn": "RegSO-Håkanstorp-Bulltofta-Valdemarsro",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R035",
+      "regso_namn": "RegSO-Hästhagen-Kronprinsen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R036",
+      "regso_namn": "RegSO-Jägersro öst-Stenkällan",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R037",
+      "regso_namn": "RegSO-Jägersro-Almgården-Höja väst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R038",
+      "regso_namn": "RegSO-Kirseberg syd",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R039",
+      "regso_namn": "RegSO-Kirsebergsstaden-Rostorp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R040",
+      "regso_namn": "RegSO-Kroksbäck väst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R041",
+      "regso_namn": "RegSO-Kronborg-Pildammsparken-Teatern",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R042",
+      "regso_namn": "RegSO-Kryddgården",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R043",
+      "regso_namn": "RegSO-Kulladal",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R044",
+      "regso_namn": "RegSO-Limhamns hamnområde",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R045",
+      "regso_namn": "RegSO-Lindängen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R046",
+      "regso_namn": "RegSO-Lorensborg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R047",
+      "regso_namn": "RegSO-Malmöhus",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R048",
+      "regso_namn": "RegSO-Mellanheden-Solbacken",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R049",
+      "regso_namn": "RegSO-Möllevången",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R050",
+      "regso_namn": "RegSO-Möllevången syd",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R051",
+      "regso_namn": "RegSO-Möllevången väst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R052",
+      "regso_namn": "RegSO-Möllevången öst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R053",
+      "regso_namn": "RegSO-Nydala norr",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R054",
+      "regso_namn": "RegSO-Oxie norr",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R055",
+      "regso_namn": "RegSO-Oxie syd",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R056",
+      "regso_namn": "RegSO-Persborg-Törnrosen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R057",
+      "regso_namn": "RegSO-Ribersborg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R058",
+      "regso_namn": "RegSO-Riseberga",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R059",
+      "regso_namn": "RegSO-Rådmansvången",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R060",
+      "regso_namn": "RegSO-Rönneholm",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R061",
+      "regso_namn": "RegSO-Rörsjöstaden",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R062",
+      "regso_namn": "RegSO-Sege väst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R063",
+      "regso_namn": "RegSO-Sege öst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R064",
+      "regso_namn": "RegSO-Sibbarp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R065",
+      "regso_namn": "RegSO-Slussen",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R066",
+      "regso_namn": "RegSO-Sofielund norr",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R067",
+      "regso_namn": "RegSO-Sorgenfri norr",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R068",
+      "regso_namn": "RegSO-Stadion-Borgmästaregården",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R069",
+      "regso_namn": "RegSO-Svågertorp-Lindeborg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R070",
+      "regso_namn": "RegSO-Söderkulla",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R071",
+      "regso_namn": "RegSO-Södervärn-Allmänna sjukhuset-Flensburg",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R072",
+      "regso_namn": "RegSO-Södra Sofielund",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R073",
+      "regso_namn": "RegSO-Tygelsjö by omland",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R074",
+      "regso_namn": "RegSO-Videdal",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R075",
+      "regso_namn": "RegSO-Vintrie-Skumparp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R076",
+      "regso_namn": "RegSO-Virentofta-Östra Skrävlinge-Toftanäs",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R077",
+      "regso_namn": "RegSO-Värnhem-Västra Sorgenfri",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R078",
+      "regso_namn": "RegSO-Västervång-Fridhem",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R079",
+      "regso_namn": "RegSO-Västra hamnen nordväst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R080",
+      "regso_namn": "RegSO-Västra hamnen norr",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R081",
+      "regso_namn": "RegSO-Västra hamnen sydöst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R082",
+      "regso_namn": "RegSO-Västra hamnen väst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R083",
+      "regso_namn": "RegSO-Västra Kattarp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R084",
+      "regso_namn": "RegSO-Västra Sorgenfri öst",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R085",
+      "regso_namn": "RegSO-Ärtholmen-Södertorp-Gröndal",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R086",
+      "regso_namn": "RegSO-Ön norr",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R087",
+      "regso_namn": "RegSO-Örtagården norr",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R088",
+      "regso_namn": "RegSO-Örtagården syd-Herrgården syd",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R089",
+      "regso_namn": "RegSO-Östervärn-Ellstorp",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R090",
+      "regso_namn": "RegSO-Östra Sorgenfri norr",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1280R091",
+      "regso_namn": "RegSO-Östra Sorgenfri syd",
+      "kommun_kod": "1280",
+      "kommun_namn": "Malmö",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R001",
+      "regso_namn": "Annehem",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R002",
+      "regso_namn": "Arenan-Klostergården",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R003",
+      "regso_namn": "Brunnshög-Östra Torn",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R004",
+      "regso_namn": "Dalby centrum",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R005",
+      "regso_namn": "Dalby-Veberöd omnejd",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R006",
+      "regso_namn": "Delphinen-Kämnärsvägen",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R007",
+      "regso_namn": "Genarp centrum",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R008",
+      "regso_namn": "Genarps omnejd",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R009",
+      "regso_namn": "Kobjer-Öresundsvägen",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R010",
+      "regso_namn": "Ladugårdsmarken",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R011",
+      "regso_namn": "Linero",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R012",
+      "regso_namn": "Linero centrum",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R013",
+      "regso_namn": "Lund centrala staden",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R014",
+      "regso_namn": "Lund väster",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R015",
+      "regso_namn": "Lunds centrala omnejd",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R016",
+      "regso_namn": "Magistratsvägen-Fäladstorget",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R017",
+      "regso_namn": "Mårtens Fälad",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R018",
+      "regso_namn": "Möllevången",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R019",
+      "regso_namn": "Nilstorp-Stampelyckan",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R020",
+      "regso_namn": "Nöbbelöv-Gunnesbo",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R021",
+      "regso_namn": "Nöbbelöv-Oscarshem",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R022",
+      "regso_namn": "Nöbbelövs torg",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R023",
+      "regso_namn": "Parentesen-Ulrikedal",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R024",
+      "regso_namn": "Råbyholm",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R025",
+      "regso_namn": "Sankt Hans",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R026",
+      "regso_namn": "Skarpskyttevägen-Sankt Hans Backar",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R027",
+      "regso_namn": "Sparta-Ideon",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R028",
+      "regso_namn": "Stora Råby-Norränga",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R029",
+      "regso_namn": "Svenshögskolan-Utsättaregränden",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R030",
+      "regso_namn": "Södra Sanby omnejd",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R031",
+      "regso_namn": "Södra Sandby centrum",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R032",
+      "regso_namn": "Tuna-Galjevången",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R033",
+      "regso_namn": "Vallkärra-Stångby",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R034",
+      "regso_namn": "Veberöd centrum",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R035",
+      "regso_namn": "Vildanden",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1281R036",
+      "regso_namn": "Värpinge-Klosters Fälad",
+      "kommun_kod": "1281",
+      "kommun_namn": "Lund",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R001",
+      "regso_namn": "Albano",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R002",
+      "regso_namn": "Asmundtorp",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R003",
+      "regso_namn": "Borstahusen-Svaneholm",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R004",
+      "regso_namn": "Fröjdenborg-Larvi",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R005",
+      "regso_namn": "Glumslöv",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R006",
+      "regso_namn": "Helgebröten",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R007",
+      "regso_namn": "Hyllingelyckan-Örja-Örja industriområde",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R008",
+      "regso_namn": "Häljarp",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R009",
+      "regso_namn": "Koppargården-Kopparhögarna",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R010",
+      "regso_namn": "Landskrona centrum-Öster",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R011",
+      "regso_namn": "Nyhamn-Södra Industriområdet",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R012",
+      "regso_namn": "Pilåkern-Silvergården-Karlslund-Säbyholm",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R013",
+      "regso_namn": "Pilängen",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R014",
+      "regso_namn": "Sandvången",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R015",
+      "regso_namn": "Sankt Olov-Lasarettet",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R016",
+      "regso_namn": "Saxtorp-Kvärlöv-Annelöv",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R017",
+      "regso_namn": "Ven",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1282R018",
+      "regso_namn": "Västra Fäladen",
+      "kommun_kod": "1282",
+      "kommun_namn": "Landskrona",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R001",
+      "regso_namn": "Adolfsberg-Västergård",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R002",
+      "regso_namn": "Allerum-Domsten",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R003",
+      "regso_namn": "Berga-Kullavägen södra",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R004",
+      "regso_namn": "Dalhem-Väla södra",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R005",
+      "regso_namn": "Drottninghög",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R006",
+      "regso_namn": "Eneborg-Högaborg",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R007",
+      "regso_namn": "Eskilsminne-Gustavslund norra",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R008",
+      "regso_namn": "Fredriksdal-Filborna",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R009",
+      "regso_namn": "Helsingborg centrum-Slottshöjden västra",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R010",
+      "regso_namn": "Husensjö-Sofieberg",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R011",
+      "regso_namn": "Högasten-Miatorp östra",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R012",
+      "regso_namn": "Kattarp-Hasslarp-Utvälinge",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R013",
+      "regso_namn": "Laröd-Hittarp",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R014",
+      "regso_namn": "Mariastaden-Käftaåra",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R015",
+      "regso_namn": "Mörarp-Mörarp omland",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R016",
+      "regso_namn": "Norr-Pålsjö",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R017",
+      "regso_namn": "Närlunda-Elineberg",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R018",
+      "regso_namn": "Olympia-Slottshöjden östra",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R019",
+      "regso_namn": "Planteringen-Miatorp västra",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R020",
+      "regso_namn": "Påarp-Bårslöv",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R021",
+      "regso_namn": "Ramlösa-Gustavslund södra",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R022",
+      "regso_namn": "Ringstorp-Stattena",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R023",
+      "regso_namn": "Rosengården östra",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R024",
+      "regso_namn": "Rydebäck-Rya",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R025",
+      "regso_namn": "Råå-Pålstorp-Örby",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R026",
+      "regso_namn": "Söder-Oceanhamnen-Oljehamnen",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R027",
+      "regso_namn": "Tågaborg",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R028",
+      "regso_namn": "Vallåkra-Gantofta",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R029",
+      "regso_namn": "Wilson park-Fältabacken",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R030",
+      "regso_namn": "Ättekulla-Raus",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1283R031",
+      "regso_namn": "Ödåkra-Väla",
+      "kommun_kod": "1283",
+      "kommun_namn": "Helsingborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1284R001",
+      "regso_namn": "Höganäs landsbygd",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1284R002",
+      "regso_namn": "Höganäs Nedre",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1284R003",
+      "regso_namn": "Höganäs nordvästra-Strandbaden-Nyhamnsläge",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1284R004",
+      "regso_namn": "Höganäs södra",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1284R005",
+      "regso_namn": "Höganäs östra-Väsby-Ingelsträde",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1284R006",
+      "regso_namn": "Höganäs övre",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1284R007",
+      "regso_namn": "Jonstorp-Rekekroken-Svanshall",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1284R008",
+      "regso_namn": "Lerberget",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1284R009",
+      "regso_namn": "Viken",
+      "kommun_kod": "1284",
+      "kommun_namn": "Höganäs",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1285R001",
+      "regso_namn": "Backarna-Väster-Elvkullen",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1285R002",
+      "regso_namn": "Berga-Öster",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1285R003",
+      "regso_namn": "Billinge-Stockamöllan-Stehag",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1285R004",
+      "regso_namn": "Eslöv centrum",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1285R005",
+      "regso_namn": "Eslöv norr",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1285R006",
+      "regso_namn": "Flyinge-Örtofta-Hurva",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1285R007",
+      "regso_namn": "Karlsro-Solkullen",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1285R008",
+      "regso_namn": "Löberöd-Harlösa",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1285R009",
+      "regso_namn": "Marieholm",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1285R010",
+      "regso_namn": "Rönneberga-Norrevång",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1285R011",
+      "regso_namn": "Sallerup-Hällan-Bäckdala",
+      "kommun_kod": "1285",
+      "kommun_namn": "Eslöv",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1286R001",
+      "regso_namn": "Bellevue",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1286R002",
+      "regso_namn": "Edvinshem-Västra Sjöstaden-Åkesholm",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1286R003",
+      "regso_namn": "Egna hem-Solbacken",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1286R004",
+      "regso_namn": "Gamla staden-Gjuteriet",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1286R005",
+      "regso_namn": "Glemmingebro-Löderup",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1286R006",
+      "regso_namn": "Köpingebro-Nybrostrand",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1286R007",
+      "regso_namn": "Sövestad-Stora Köpinge",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1286R008",
+      "regso_namn": "Vallösa-Skårby-Svarte",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1286R009",
+      "regso_namn": "Ystad norra-Hedeskoga-Stora Herrestad",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1286R010",
+      "regso_namn": "Ystad östra",
+      "kommun_kod": "1286",
+      "kommun_namn": "Ystad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R001",
+      "regso_namn": "Alstad-Gislöv-Södra Åby-Södra Åby omland",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R002",
+      "regso_namn": "Anderslöv",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R003",
+      "regso_namn": "Anderslöv omland-Klagstorp-Klagstorp omland",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R004",
+      "regso_namn": "Dalajär-Böste",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R005",
+      "regso_namn": "Granlunda-Knäckekärr-Högalid",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R006",
+      "regso_namn": "Kyrkoköpinge-Malörten-Akka-Pilevall",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R007",
+      "regso_namn": "Skegrie",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R008",
+      "regso_namn": "Skegrie-Västra Tommarp omland",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R009",
+      "regso_namn": "Smygehamn-Beddingestrand",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R010",
+      "regso_namn": "Trelleborg innerstaden",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R011",
+      "regso_namn": "Västervång",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R012",
+      "regso_namn": "Västra stadsdelarna-Kurland",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R013",
+      "regso_namn": "Västra Tommarp-Hallabacken-Kattebäck",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1287R014",
+      "regso_namn": "Öster Jär-Fagerängen-Österlid",
+      "kommun_kod": "1287",
+      "kommun_namn": "Trelleborg",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R001",
+      "regso_namn": "Balsby-Österslöv-Fjälkestad",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R002",
+      "regso_namn": "Charlottesborg-Härlöv",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R003",
+      "regso_namn": "Degeberga-Everöd-Vittskövle",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R004",
+      "regso_namn": "Fjälkinge-Arkelstorp-Bäckaskog",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R005",
+      "regso_namn": "Gamlegården",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R006",
+      "regso_namn": "Hammar-Hammarslund",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R007",
+      "regso_namn": "Helgedal-Norra Åsum-Gärds Köpinge",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R008",
+      "regso_namn": "Kristianstad centrum",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R009",
+      "regso_namn": "Kulltorp-Sommarlust-Egna Hem",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R010",
+      "regso_namn": "Linderöd-Träne-Äsphult",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R011",
+      "regso_namn": "Nosaby-Möllebacken",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R012",
+      "regso_namn": "Näsby",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R013",
+      "regso_namn": "Söder",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R014",
+      "regso_namn": "Tollarp",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R015",
+      "regso_namn": "Viby-Rinkaby",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R016",
+      "regso_namn": "Vilan-Hedentorp",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R017",
+      "regso_namn": "Vä-Öllsjö-Ovesholm",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R018",
+      "regso_namn": "Åhus centrum-Transval",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R019",
+      "regso_namn": "Åhus norra",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R020",
+      "regso_namn": "Åhus södra-Yngsjö",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R021",
+      "regso_namn": "Önnestad-Färlöv-Skepparslöv",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R022",
+      "regso_namn": "Östermalm",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R023",
+      "regso_namn": "Österäng",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1290R024",
+      "regso_namn": "Östra Kasern-Fäladen",
+      "kommun_kod": "1290",
+      "kommun_namn": "Kristianstad",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R001",
+      "regso_namn": "Borrby",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R002",
+      "regso_namn": "Gärsnäs",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R003",
+      "regso_namn": "Hammenhög",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R004",
+      "regso_namn": "Kivik",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R005",
+      "regso_namn": "Sankt Olof",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R006",
+      "regso_namn": "Simrishamn centrala",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R007",
+      "regso_namn": "Simrishamn norra",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R008",
+      "regso_namn": "Simrishamn sydvästra landsbygd",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R009",
+      "regso_namn": "Simrishamn södra",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R010",
+      "regso_namn": "Simrishamn västra",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R011",
+      "regso_namn": "Skillinge",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1291R012",
+      "regso_namn": "Vik",
+      "kommun_kod": "1291",
+      "kommun_namn": "Simrishamn",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R001",
+      "regso_namn": "Adolfsfält-Rebbelberga-Karlslund",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R002",
+      "regso_namn": "Fridhem-Skörpinge-Kroneslätt",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R003",
+      "regso_namn": "Havsbaden-Paletten-Danielslund",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R004",
+      "regso_namn": "Hjärnarp-Margretetorp-Svenstorp",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R005",
+      "regso_namn": "Kronotorp-Gamla Kungsgården-Nya Kungsgården",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R006",
+      "regso_namn": "Kulltorp-Södra Utmarken-Epadalen",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R007",
+      "regso_namn": "Munka Ljungby-Tåstarp-Toarp",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R008",
+      "regso_namn": "Skälderviken-Pomona-Ärrarps ängar",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R009",
+      "regso_namn": "Stationsområdet-Sockerbruket",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R010",
+      "regso_namn": "Strövelstorp",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R011",
+      "regso_namn": "Vejbystrand-Magnarp-Skepparkroken",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R012",
+      "regso_namn": "Villan",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R013",
+      "regso_namn": "Ängavången-Nyhem-Skörpabäcken",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R014",
+      "regso_namn": "Ängelholm centrum",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R015",
+      "regso_namn": "Ängelholm omland nordost",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1292R016",
+      "regso_namn": "Ängelholm omland syd",
+      "kommun_kod": "1292",
+      "kommun_namn": "Ängelholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R001",
+      "regso_namn": "Ballingslöv-Norra Sandby-Mannarp",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R002",
+      "regso_namn": "Bjärnum västra",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R003",
+      "regso_namn": "Bjärnum östra",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R004",
+      "regso_namn": "Brunnshult-Emmaljunga-Tulatorp",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R005",
+      "regso_namn": "Gulastorp-Sjunkaröd-Gumlösa",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R006",
+      "regso_namn": "Hagsjö-Kråkeberga-Äskeberga",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R007",
+      "regso_namn": "Hågnarp-Mala-Vankiva",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R008",
+      "regso_namn": "Häglinge-Norra Mellby-Kialt",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R009",
+      "regso_namn": "Hässleholm centrum",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R010",
+      "regso_namn": "Hässleholm-Bokalyckan",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R011",
+      "regso_namn": "Hässleholm-Bokeberg",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R012",
+      "regso_namn": "Hässleholm-Djupadal-Galgbacken",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R013",
+      "regso_namn": "Hässleholm-Fredentorp",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R014",
+      "regso_namn": "Hässleholm-Gulastorp-Röinge-Stoby",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R015",
+      "regso_namn": "Hässleholm-Kristinehem",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R016",
+      "regso_namn": "Hässleholm-Kärråkra-Gäddastorp",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R017",
+      "regso_namn": "Hässleholm-Ljungdala",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R018",
+      "regso_namn": "Hässleholm-Läreda",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R019",
+      "regso_namn": "Hässleholm-Sjörröd-Finja",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R020",
+      "regso_namn": "Hässleholm-Stattena",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R021",
+      "regso_namn": "Hässleholm-Östervärn",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R022",
+      "regso_namn": "Hästveda",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R023",
+      "regso_namn": "Slättsjö-Röke-Öraholma",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R024",
+      "regso_namn": "Strandböke-Västra Torup-Björkeberga",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R025",
+      "regso_namn": "Sösdala",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R026",
+      "regso_namn": "Tormestorp",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R027",
+      "regso_namn": "Tyringe norra",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R028",
+      "regso_namn": "Tyringe sydväst",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R029",
+      "regso_namn": "Tyringe sydöst",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R030",
+      "regso_namn": "Vinslöv centrala",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R031",
+      "regso_namn": "Vinslöv norra",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R032",
+      "regso_namn": "Vinslöv södra",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    },
+    {
+      "regso_kod": "1293R033",
+      "regso_namn": "Vittsjö",
+      "kommun_kod": "1293",
+      "kommun_namn": "Hässleholm",
+      "lan_kod": "12"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Skåne län - Gratis nedladdning",
+    "description": "465 regionala statistikområden (RegSO) i Skåne län (länskod 12). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 465 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Skåne län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Skåne län — 465 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 465 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

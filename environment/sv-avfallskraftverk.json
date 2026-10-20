@@ -1,0 +1,352 @@
+{
+  "id": "sv-avfallskraftverk",
+  "name": "Avfallskraftverk (avfallsförbränning) i Sverige",
+  "title": "Avfallskraftverk (avfallsförbränning) i Sverige",
+  "description": "Waste power generation/storage units in Sweden (11 of 662), carved from sv-kraftverk by the native `fueltype` field. Verbatim subset of the powerplantmatching (PyPSA) merged European power plant dataset: name, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes and cross-referenced upstream source IDs.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "string"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "number"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 3357,
+      "name": "Uppsala",
+      "fueltype": "Waste",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Sweden",
+      "capacity_mw": 10,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.852419,
+      "lon": 17.67742,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 20,
+      "eic": "",
+      "project_ids": "EESI: EESI-63965; GEM: G100001052233"
+    },
+    {
+      "id": 7190,
+      "name": "Idbacksverket",
+      "fueltype": "Waste",
+      "technology": "",
+      "set": "PP",
+      "country": "Sweden",
+      "capacity_mw": 35,
+      "efficiency": "",
+      "date_in": 1997,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 58.7435,
+      "lon": 17.0002,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000201450; GPD: WRI1002150"
+    },
+    {
+      "id": 8697,
+      "name": "Aroskraft",
+      "fueltype": "Waste",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Sweden",
+      "capacity_mw": 51,
+      "efficiency": "",
+      "date_in": 2014,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.58849,
+      "lon": 16.513861,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000201441; GEO: GEO-46186"
+    },
+    {
+      "id": 11000,
+      "name": "Bristaverket",
+      "fueltype": "Waste",
+      "technology": "",
+      "set": "",
+      "country": "Sweden",
+      "capacity_mw": 20,
+      "efficiency": "",
+      "date_in": 2012,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.6095,
+      "lon": 17.8629,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001052196"
+    },
+    {
+      "id": 14557,
+      "name": "Garstad",
+      "fueltype": "Waste",
+      "technology": "",
+      "set": "",
+      "country": "Sweden",
+      "capacity_mw": 69,
+      "efficiency": "",
+      "date_in": 1994,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 58.43464,
+      "lon": 15.65686,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001000108, G100001052268"
+    },
+    {
+      "id": 15459,
+      "name": "Hogdalenverket",
+      "fueltype": "Waste",
+      "technology": "",
+      "set": "",
+      "country": "Sweden",
+      "capacity_mw": 71,
+      "efficiency": "",
+      "date_in": 1979,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.2581,
+      "lon": 18.0603,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000200280, G100001052215"
+    },
+    {
+      "id": 16683,
+      "name": "Korstaverket",
+      "fueltype": "Waste",
+      "technology": "",
+      "set": "",
+      "country": "Sweden",
+      "capacity_mw": 77,
+      "efficiency": "",
+      "date_in": 1981,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 62.4038919,
+      "lon": 17.3916071,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001052216, G100001052218"
+    },
+    {
+      "id": 17630,
+      "name": "Lejonpannan",
+      "fueltype": "Waste",
+      "technology": "",
+      "set": "",
+      "country": "Sweden",
+      "capacity_mw": 21.5,
+      "efficiency": "",
+      "date_in": 2015,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 58.43443,
+      "lon": 15.658527,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001052269"
+    },
+    {
+      "id": 22253,
+      "name": "Savenas Waste To Energy",
+      "fueltype": "Waste",
+      "technology": "",
+      "set": "",
+      "country": "Sweden",
+      "capacity_mw": 42,
+      "efficiency": "",
+      "date_in": 1974,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 57.7322,
+      "lon": 12.0529,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000200323"
+    },
+    {
+      "id": 23392,
+      "name": "Sysav South Scania Waste",
+      "fueltype": "Waste",
+      "technology": "",
+      "set": "",
+      "country": "Sweden",
+      "capacity_mw": 41.6,
+      "efficiency": "",
+      "date_in": 2003,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 55.631993,
+      "lon": 13.044237,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001052273, G100001052274"
+    },
+    {
+      "id": 23906,
+      "name": "Torsvik",
+      "fueltype": "Waste",
+      "technology": "",
+      "set": "",
+      "country": "Sweden",
+      "capacity_mw": 14,
+      "efficiency": "",
+      "date_in": 2006,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 57.6961,
+      "lon": 14.1535,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001052227"
+    }
+  ],
+  "meta": {
+    "title": "Avfallskraftverk (avfallsförbränning) i Sverige - Gratis nedladdning",
+    "description": "Waste power generation/storage units in Sweden (11 of 662), carved from sv-kraftverk by the native `fueltype` field. Verbatim subset of the powerplantmatching (PyPSA) merged European power plant dataset: name, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes and cross-referenced upstream source IDs. Innehåller 11 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Avfallskraftverk (avfallsförbränning) i Sverige | ListBase",
+    "seo_description": "Ladda ner Avfallskraftverk (avfallsförbränning) i Sverige — 11 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 11 poster / 19 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

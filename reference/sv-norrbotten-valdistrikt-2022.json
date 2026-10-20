@@ -1,0 +1,1312 @@
+{
+  "id": "sv-norrbotten-valdistrikt-2022",
+  "name": "Valdistrikt i Norrbottens län (val 2022)",
+  "title": "Valdistrikt i Norrbottens län (val 2022)",
+  "description": "157 valdistrikt i Norrbottens län (länskod 25) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 157,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "25050001",
+      "valdistrikt_namn": "Arvidsjaur Norra",
+      "kommun_kod": "2505",
+      "kommun_namn": "Arvidsjaur",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25050002",
+      "valdistrikt_namn": "Arvidsjaur Östra",
+      "kommun_kod": "2505",
+      "kommun_namn": "Arvidsjaur",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25050003",
+      "valdistrikt_namn": "Arvidsjaur Västra",
+      "kommun_kod": "2505",
+      "kommun_namn": "Arvidsjaur",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25060203",
+      "valdistrikt_namn": "Arjeplog",
+      "kommun_kod": "2506",
+      "kommun_namn": "Arjeplog",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25100202",
+      "valdistrikt_namn": "Jokkmokks Östra",
+      "kommun_kod": "2510",
+      "kommun_namn": "Jokkmokk",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25100217",
+      "valdistrikt_namn": "Jokkmokks Västra",
+      "kommun_kod": "2510",
+      "kommun_namn": "Jokkmokk",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25100409",
+      "valdistrikt_namn": "Porjus",
+      "kommun_kod": "2510",
+      "kommun_namn": "Jokkmokk",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25100516",
+      "valdistrikt_namn": "Vuollerim",
+      "kommun_kod": "2510",
+      "kommun_namn": "Jokkmokk",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25130001",
+      "valdistrikt_namn": "Överkalix övre",
+      "kommun_kod": "2513",
+      "kommun_namn": "Överkalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25130002",
+      "valdistrikt_namn": "Överkalix nedre",
+      "kommun_kod": "2513",
+      "kommun_namn": "Överkalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25140103",
+      "valdistrikt_namn": "Gammelgården-Morjärv",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25140105",
+      "valdistrikt_namn": "Innanbäcken",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25140106",
+      "valdistrikt_namn": "Kalix V",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25140107",
+      "valdistrikt_namn": "Näsbyn",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25140108",
+      "valdistrikt_namn": "Risön",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25140115",
+      "valdistrikt_namn": "Sangis",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25140118",
+      "valdistrikt_namn": "Ytterbyn",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25140123",
+      "valdistrikt_namn": "Kalix C",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25140125",
+      "valdistrikt_namn": "Stenbäcken",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25140221",
+      "valdistrikt_namn": "Töre",
+      "kommun_kod": "2514",
+      "kommun_namn": "Kalix",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25180101",
+      "valdistrikt_namn": "Hedenäset",
+      "kommun_kod": "2518",
+      "kommun_namn": "Övertorneå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25180102",
+      "valdistrikt_namn": "Kuivakangas",
+      "kommun_kod": "2518",
+      "kommun_namn": "Övertorneå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25180103",
+      "valdistrikt_namn": "Svanstein",
+      "kommun_kod": "2518",
+      "kommun_namn": "Övertorneå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25180104",
+      "valdistrikt_namn": "Övertorneå",
+      "kommun_kod": "2518",
+      "kommun_namn": "Övertorneå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25210001",
+      "valdistrikt_namn": "Pajala norra",
+      "kommun_kod": "2521",
+      "kommun_namn": "Pajala",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25210002",
+      "valdistrikt_namn": "Pajala södra",
+      "kommun_kod": "2521",
+      "kommun_namn": "Pajala",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25210003",
+      "valdistrikt_namn": "Tärendö",
+      "kommun_kod": "2521",
+      "kommun_namn": "Pajala",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25210004",
+      "valdistrikt_namn": "Junosuando",
+      "kommun_kod": "2521",
+      "kommun_namn": "Pajala",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25210005",
+      "valdistrikt_namn": "Korpilombolo",
+      "kommun_kod": "2521",
+      "kommun_namn": "Pajala",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25230001",
+      "valdistrikt_namn": "Gällivare Södra",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25230002",
+      "valdistrikt_namn": "Gällivare Norra",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25230003",
+      "valdistrikt_namn": "Gällivare Västra",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25230004",
+      "valdistrikt_namn": "Gällivare Centrum",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25230005",
+      "valdistrikt_namn": "Heden",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25230006",
+      "valdistrikt_namn": "Koskullskulle",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25230007",
+      "valdistrikt_namn": "Maria",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25230008",
+      "valdistrikt_namn": "Mellanområdet",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25230009",
+      "valdistrikt_namn": "Sjöparken",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25230011",
+      "valdistrikt_namn": "Dundret",
+      "kommun_kod": "2523",
+      "kommun_namn": "Gällivare",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25600209",
+      "valdistrikt_namn": "Vidsel",
+      "kommun_kod": "2560",
+      "kommun_namn": "Älvsbyn",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25600211",
+      "valdistrikt_namn": "Älvsbyns N",
+      "kommun_kod": "2560",
+      "kommun_namn": "Älvsbyn",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25600212",
+      "valdistrikt_namn": "Älvsbyns Ö",
+      "kommun_kod": "2560",
+      "kommun_namn": "Älvsbyn",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25600214",
+      "valdistrikt_namn": "Älvsbyns V",
+      "kommun_kod": "2560",
+      "kommun_namn": "Älvsbyn",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800101",
+      "valdistrikt_namn": "Varvet",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800102",
+      "valdistrikt_namn": "Stadsparken",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800103",
+      "valdistrikt_namn": "Kulturens hus",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800104",
+      "valdistrikt_namn": "Gültsauudden-Norra hamn",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800105",
+      "valdistrikt_namn": "Östermalm",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800106",
+      "valdistrikt_namn": "Bergviken",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800107",
+      "valdistrikt_namn": "Kallkällan",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800108",
+      "valdistrikt_namn": "Munkeberg",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800109",
+      "valdistrikt_namn": "Mjölkudden",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800111",
+      "valdistrikt_namn": "Notviken",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800112",
+      "valdistrikt_namn": "Köpmantorget",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800113",
+      "valdistrikt_namn": "Södra hamn",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800212",
+      "valdistrikt_namn": "Burströmska",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800213",
+      "valdistrikt_namn": "Malmudden",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800214",
+      "valdistrikt_namn": "Svartöstan-Lövskatan",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800215",
+      "valdistrikt_namn": "Södra Örnäset",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800216",
+      "valdistrikt_namn": "Skurholmen",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800217",
+      "valdistrikt_namn": "Norra Örnäset",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800220",
+      "valdistrikt_namn": "Klintbacken",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800221",
+      "valdistrikt_namn": "Lulsundet",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800222",
+      "valdistrikt_namn": "Kronan",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800223",
+      "valdistrikt_namn": "Hällbacken",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800237",
+      "valdistrikt_namn": "Hertsöcentrum",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800259",
+      "valdistrikt_namn": "Hertsölund",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800260",
+      "valdistrikt_namn": "Hertsöängar",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800267",
+      "valdistrikt_namn": "Björkskatan norra",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800268",
+      "valdistrikt_namn": "Björkskatan södra",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800270",
+      "valdistrikt_namn": "Bredviken-Lerbäcken",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800323",
+      "valdistrikt_namn": "Alvik-Ersnäs",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800324",
+      "valdistrikt_namn": "Antnäs-Måttsund",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800325",
+      "valdistrikt_namn": "Avan-Bälinge-Klöverträsk",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800326",
+      "valdistrikt_namn": "Bensbyn-Brändön",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800327",
+      "valdistrikt_namn": "G:a Bergnäset-Kallax-Gäddvik",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800328",
+      "valdistrikt_namn": "Trollstaden",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800335",
+      "valdistrikt_namn": "Gammelstad",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800344",
+      "valdistrikt_namn": "Persön",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800346",
+      "valdistrikt_namn": "Rutvik",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800349",
+      "valdistrikt_namn": "Öhemmanet-Karlsvik",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800350",
+      "valdistrikt_namn": "Hammaren",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800355",
+      "valdistrikt_namn": "Bergstaden",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800361",
+      "valdistrikt_namn": "Stadsön",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800362",
+      "valdistrikt_namn": "Porsöudden",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800363",
+      "valdistrikt_namn": "Porsöberget",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800364",
+      "valdistrikt_namn": "Universitetet",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800365",
+      "valdistrikt_namn": "Lillporsön",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800371",
+      "valdistrikt_namn": "Sunderbyn",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800439",
+      "valdistrikt_namn": "Jämtön-Vitå",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800442",
+      "valdistrikt_namn": "Niemisel-Prästholm",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25800447",
+      "valdistrikt_namn": "Råneå",
+      "kommun_kod": "2580",
+      "kommun_namn": "Luleå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810001",
+      "valdistrikt_namn": "Roknäs Lillpite Markbygden",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810002",
+      "valdistrikt_namn": "Sjulsmark Alterdalen Sikfors",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810003",
+      "valdistrikt_namn": "Sjulnäs Böle",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810004",
+      "valdistrikt_namn": "Svensbyn",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810005",
+      "valdistrikt_namn": "Porsnäs Östra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810006",
+      "valdistrikt_namn": "Porsnäs Västra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810007",
+      "valdistrikt_namn": "Rosvik",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810008",
+      "valdistrikt_namn": "Bergsviken Västra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810009",
+      "valdistrikt_namn": "Bergsviken Östra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810010",
+      "valdistrikt_namn": "Hortlax",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810011",
+      "valdistrikt_namn": "Öjebyn Centrala",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810012",
+      "valdistrikt_namn": "Öjebyn Norra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810013",
+      "valdistrikt_namn": "Öjebyn Södra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810014",
+      "valdistrikt_namn": "Djupviken Norra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810015",
+      "valdistrikt_namn": "Djupviken Södra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810016",
+      "valdistrikt_namn": "Backen Annelund",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810017",
+      "valdistrikt_namn": "Backen Källbo",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810018",
+      "valdistrikt_namn": "Häggholmen Västra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810019",
+      "valdistrikt_namn": "Norrmalm",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810020",
+      "valdistrikt_namn": "Häggholmen Östra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810021",
+      "valdistrikt_namn": "Strömnäs",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810022",
+      "valdistrikt_namn": "Pitholm",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810023",
+      "valdistrikt_namn": "Klubbgärdet",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810024",
+      "valdistrikt_namn": "Munksund Norra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810025",
+      "valdistrikt_namn": "Munksund Södra",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810026",
+      "valdistrikt_namn": "Blåsmark Hemmingsmark",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25810027",
+      "valdistrikt_namn": "Jävre",
+      "kommun_kod": "2581",
+      "kommun_namn": "Piteå",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820101",
+      "valdistrikt_namn": "Sveafältet",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820102",
+      "valdistrikt_namn": "Björknäs",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820103",
+      "valdistrikt_namn": "Centrum norra",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820104",
+      "valdistrikt_namn": "Prästholmen",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820105",
+      "valdistrikt_namn": "Erikslund- Fagernäs",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820113",
+      "valdistrikt_namn": "Svartbjörsbyn-Skogså",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820115",
+      "valdistrikt_namn": "Heden - Södra Bredåker",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820116",
+      "valdistrikt_namn": "Bodsvedjan - Unbyn",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820117",
+      "valdistrikt_namn": "Vittjärv - Norra Bredåker",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820124",
+      "valdistrikt_namn": "Centrum södra",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820132",
+      "valdistrikt_namn": "Torpgärdan",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820133",
+      "valdistrikt_namn": "Sanden",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820136",
+      "valdistrikt_namn": "Svartbyn",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820139",
+      "valdistrikt_namn": "Trångfors",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820220",
+      "valdistrikt_namn": "Gunnarsbyn",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820328",
+      "valdistrikt_namn": "Harads",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820409",
+      "valdistrikt_namn": "Sävastön",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25820440",
+      "valdistrikt_namn": "Sävast",
+      "kommun_kod": "2582",
+      "kommun_namn": "Boden",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25830101",
+      "valdistrikt_namn": "Haparanda Norra",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25830102",
+      "valdistrikt_namn": "Nikkala",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25830103",
+      "valdistrikt_namn": "Seskarö",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25830114",
+      "valdistrikt_namn": "Haparanda Södra",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25830115",
+      "valdistrikt_namn": "Marielund",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25830116",
+      "valdistrikt_namn": "Grankullen",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25830408",
+      "valdistrikt_namn": "Karungi",
+      "kommun_kod": "2583",
+      "kommun_namn": "Haparanda",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840001",
+      "valdistrikt_namn": "Kiruna Centrum",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840002",
+      "valdistrikt_namn": "Högalid och Sandstensberget",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840003",
+      "valdistrikt_namn": "Övre Norrmalm och Järnvägen",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840004",
+      "valdistrikt_namn": "Kiruna nordost",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840005",
+      "valdistrikt_namn": "Bolaget-Triangeln",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840007",
+      "valdistrikt_namn": "Östermalm",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840009",
+      "valdistrikt_namn": "Lombolo västra",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840010",
+      "valdistrikt_namn": "Jukkasjärvi",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840011",
+      "valdistrikt_namn": "Lombolo mellersta",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840012",
+      "valdistrikt_namn": "Kiruna sydost",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840013",
+      "valdistrikt_namn": "Luossavaara-Abisko",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840014",
+      "valdistrikt_namn": "Tuolluvaara-Kurravaara",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    },
+    {
+      "valdistrikt_kod": "25840015",
+      "valdistrikt_namn": "Lombolo östra - Nikkaluoktavägen",
+      "kommun_kod": "2584",
+      "kommun_namn": "Kiruna",
+      "lan_kod": "25",
+      "lan_namn": "Norrbottens län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Norrbottens län (val 2022) - Gratis nedladdning",
+    "description": "157 valdistrikt i Norrbottens län (länskod 25) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 157 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Norrbottens län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Norrbottens län (val 2022) — 157 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 157 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

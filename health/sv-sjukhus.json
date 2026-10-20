@@ -1,0 +1,1101 @@
+{
+  "id": "sv-sjukhus",
+  "name": "Sjukhus i Sverige",
+  "title": "Sjukhus i Sverige",
+  "description": "Sjukhus i Sverige (OpenStreetMap-punkter, amenity=hospital). Namn, latitud och longitud (WGS84). 212 poster.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 212,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Akademiska sjukhuset",
+      "latitude": 59.849563,
+      "longitude": 17.640147
+    },
+    {
+      "name": "Akutmottagning",
+      "latitude": 55.710963,
+      "longitude": 13.199502
+    },
+    {
+      "name": "Akutmottagning",
+      "latitude": 63.300015,
+      "longitude": 18.713428
+    },
+    {
+      "name": "Akutmottagning Barn",
+      "latitude": 55.712301,
+      "longitude": 13.199575
+    },
+    {
+      "name": "Akutmottagningen",
+      "latitude": 55.381362,
+      "longitude": 13.161133
+    },
+    {
+      "name": "Akutmottagningen",
+      "latitude": 59.849732,
+      "longitude": 17.640017
+    },
+    {
+      "name": "Alingsås lasarett",
+      "latitude": 57.928689,
+      "longitude": 12.52111
+    },
+    {
+      "name": "Alva Barnklinik",
+      "latitude": 59.306342,
+      "longitude": 18.121669
+    },
+    {
+      "name": "Ambulansstation",
+      "latitude": 60.027128,
+      "longitude": 13.58705
+    },
+    {
+      "name": "Angereds Närsjukhus",
+      "latitude": 57.796401,
+      "longitude": 12.047716
+    },
+    {
+      "name": "Avesta lasarett",
+      "latitude": 60.141214,
+      "longitude": 16.201526
+    },
+    {
+      "name": "Barn- och ungdomspsykiatriska mottagningen i Enköping",
+      "latitude": 59.64573,
+      "longitude": 17.078237
+    },
+    {
+      "name": "Barnspecialist­mottagningarna i länet",
+      "latitude": 59.85194,
+      "longitude": 17.64716
+    },
+    {
+      "name": "Berga Sjukhus",
+      "latitude": 59.082261,
+      "longitude": 18.134369
+    },
+    {
+      "name": "Beroendeakuten Stockholm",
+      "latitude": 59.33557,
+      "longitude": 18.018656
+    },
+    {
+      "name": "Björnbo sjukhus",
+      "latitude": 59.369848,
+      "longitude": 18.169662
+    },
+    {
+      "name": "Blackebergs sjukhus",
+      "latitude": 59.340808,
+      "longitude": 17.880513
+    },
+    {
+      "name": "Blekingesjukhuset Karlshamn",
+      "latitude": 56.187696,
+      "longitude": 14.853085
+    },
+    {
+      "name": "Blekingesjukhuset Karlskrona",
+      "latitude": 56.181932,
+      "longitude": 15.604037
+    },
+    {
+      "name": "Blekingesjukhuset Karlskrona Akutmottagning",
+      "latitude": 56.183002,
+      "longitude": 15.606299
+    },
+    {
+      "name": "Blod- och tumörsjukdomars behandlingsmottagning i Gränby",
+      "latitude": 59.877916,
+      "longitude": 17.672456
+    },
+    {
+      "name": "Bollnäs sjukhus",
+      "latitude": 61.353909,
+      "longitude": 16.361598
+    },
+    {
+      "name": "Borlänge Sjukhus",
+      "latitude": 60.503803,
+      "longitude": 15.465927
+    },
+    {
+      "name": "Brinkåsen",
+      "latitude": 58.345407,
+      "longitude": 12.36264
+    },
+    {
+      "name": "Bromma sjukhus",
+      "latitude": 59.359313,
+      "longitude": 17.899932
+    },
+    {
+      "name": "Capio Lundby Specialistsjukhus",
+      "latitude": 57.721224,
+      "longitude": 11.936728
+    },
+    {
+      "name": "Capio vårdcentral",
+      "latitude": 59.298243,
+      "longitude": 18.080417
+    },
+    {
+      "name": "Capio Vårdcentral Barnavårdcentral",
+      "latitude": 59.276218,
+      "longitude": 17.889848
+    },
+    {
+      "name": "Carlanderska sjukhuset",
+      "latitude": 57.692368,
+      "longitude": 11.989437
+    },
+    {
+      "name": "Centrallasarettet Växjö",
+      "latitude": 56.874305,
+      "longitude": 14.805646
+    },
+    {
+      "name": "Centralsjukhuset i Karlstad",
+      "latitude": 59.376061,
+      "longitude": 13.479704
+    },
+    {
+      "name": "Centralsjukhuset Kristianstad",
+      "latitude": 56.030743,
+      "longitude": 14.172504
+    },
+    {
+      "name": "CityAkuten Närakuten Barn",
+      "latitude": 59.353209,
+      "longitude": 18.036539
+    },
+    {
+      "name": "Dalens sjukhus",
+      "latitude": 59.288906,
+      "longitude": 18.098357
+    },
+    {
+      "name": "Dalslands Sjukhus",
+      "latitude": 58.798772,
+      "longitude": 12.161217
+    },
+    {
+      "name": "Danderyds sjukhus",
+      "latitude": 59.390999,
+      "longitude": 18.037441
+    },
+    {
+      "name": "Danderyds sjukhus Akutmottagning",
+      "latitude": 59.391544,
+      "longitude": 18.040416
+    },
+    {
+      "name": "Danderyds sjukhus Gynakut",
+      "latitude": 59.393204,
+      "longitude": 18.040276
+    },
+    {
+      "name": "Diabetesmottagning",
+      "latitude": 63.300714,
+      "longitude": 18.70976
+    },
+    {
+      "name": "Dietistmottagning",
+      "latitude": 63.300586,
+      "longitude": 18.709373
+    },
+    {
+      "name": "Drottning Silvias barnsjukhus",
+      "latitude": 57.719934,
+      "longitude": 12.052365
+    },
+    {
+      "name": "Ekbacken",
+      "latitude": 57.168604,
+      "longitude": 14.591496
+    },
+    {
+      "name": "Elisabethsjukhuset",
+      "latitude": 59.863034,
+      "longitude": 17.620172
+    },
+    {
+      "name": "Endokrinologimottagning",
+      "latitude": 55.587275,
+      "longitude": 13.002514
+    },
+    {
+      "name": "Enköpings Lasarett",
+      "latitude": 59.629615,
+      "longitude": 17.070346
+    },
+    {
+      "name": "Ersta sjukhus",
+      "latitude": 59.316675,
+      "longitude": 18.090423
+    },
+    {
+      "name": "Falu Lasarett",
+      "latitude": 60.609118,
+      "longitude": 15.64412
+    },
+    {
+      "name": "Familjecentralen Oxelösund",
+      "latitude": 58.673501,
+      "longitude": 17.107634
+    },
+    {
+      "name": "Filipstad vårdcentral",
+      "latitude": 59.712135,
+      "longitude": 14.178299
+    },
+    {
+      "name": "Finspångs Lasarett",
+      "latitude": 58.710436,
+      "longitude": 15.760881
+    },
+    {
+      "name": "Förlossningsavdelningen",
+      "latitude": 59.849554,
+      "longitude": 17.637561
+    },
+    {
+      "name": "Garnisonssjukhus",
+      "latitude": 59.646835,
+      "longitude": 17.104905
+    },
+    {
+      "name": "Geriatrisk mottagning",
+      "latitude": 63.300591,
+      "longitude": 18.709765
+    },
+    {
+      "name": "Gullspång vårdcentrum",
+      "latitude": 58.979211,
+      "longitude": 14.087837
+    },
+    {
+      "name": "Gällivare sjukhus",
+      "latitude": 67.130969,
+      "longitude": 20.686076
+    },
+    {
+      "name": "Gävle Sjukhus",
+      "latitude": 60.678352,
+      "longitude": 17.118875
+    },
+    {
+      "name": "Habiliteringsmottagning Sundsvall",
+      "latitude": 62.400778,
+      "longitude": 17.313374
+    },
+    {
+      "name": "Hallands sjukhus Halmstad",
+      "latitude": 56.681863,
+      "longitude": 12.845709
+    },
+    {
+      "name": "Hallands sjukhus Kungsbacka",
+      "latitude": 57.494837,
+      "longitude": 12.086518
+    },
+    {
+      "name": "Hallands sjukhus Varberg",
+      "latitude": 57.099129,
+      "longitude": 12.278168
+    },
+    {
+      "name": "Handens Närsjukhus",
+      "latitude": 59.173321,
+      "longitude": 18.14108
+    },
+    {
+      "name": "Helix",
+      "latitude": 59.214429,
+      "longitude": 17.933131
+    },
+    {
+      "name": "Helsingborgs lasarett",
+      "latitude": 56.046091,
+      "longitude": 12.704451
+    },
+    {
+      "name": "Hudiksvalls sjukhus",
+      "latitude": 61.730316,
+      "longitude": 17.097569
+    },
+    {
+      "name": "Hus 02",
+      "latitude": 57.75481,
+      "longitude": 16.634851
+    },
+    {
+      "name": "Hässleholms Sjukhus",
+      "latitude": 56.160011,
+      "longitude": 13.777337
+    },
+    {
+      "name": "Håbo - Enköpings psykiatri­mottagning",
+      "latitude": 59.64574,
+      "longitude": 17.077526
+    },
+    {
+      "name": "Höglandssjukhuset Eksjö",
+      "latitude": 57.666343,
+      "longitude": 14.9654
+    },
+    {
+      "name": "Höglandssjukhuset Eksjö-Nässjö",
+      "latitude": 57.65601,
+      "longitude": 14.713596
+    },
+    {
+      "name": "Högsbo närsjukhus",
+      "latitude": 57.666601,
+      "longitude": 11.931947
+    },
+    {
+      "name": "Högsbo sjukhus",
+      "latitude": 57.667159,
+      "longitude": 11.930986
+    },
+    {
+      "name": "Hörcentralen",
+      "latitude": 59.828744,
+      "longitude": 17.650191
+    },
+    {
+      "name": "Ingång 14",
+      "latitude": 60.676223,
+      "longitude": 17.119875
+    },
+    {
+      "name": "Ingång 25",
+      "latitude": 60.678818,
+      "longitude": 17.119295
+    },
+    {
+      "name": "Ingång C1, Akademiska sjukhuset",
+      "latitude": 59.845987,
+      "longitude": 17.640162
+    },
+    {
+      "name": "Jakobsbergs sjukhus",
+      "latitude": 59.422483,
+      "longitude": 17.846023
+    },
+    {
+      "name": "Järva Närsjukhus",
+      "latitude": 59.386459,
+      "longitude": 17.937572
+    },
+    {
+      "name": "Kalix sjukhus",
+      "latitude": 65.855035,
+      "longitude": 23.158604
+    },
+    {
+      "name": "Karlskoga Lasarett",
+      "latitude": 59.315213,
+      "longitude": 14.505824
+    },
+    {
+      "name": "Karolinska universitetssjukhuset",
+      "latitude": 59.351679,
+      "longitude": 18.03525
+    },
+    {
+      "name": "Karolinska universitetssjukhuset Huddinge",
+      "latitude": 59.22086,
+      "longitude": 17.932698
+    },
+    {
+      "name": "Karolinska Universitetssjukhuset Solna Barnakuten",
+      "latitude": 59.349616,
+      "longitude": 18.0326
+    },
+    {
+      "name": "Karolinska Universitetssjukhuset Solna Intensivakuten",
+      "latitude": 59.349452,
+      "longitude": 18.03278
+    },
+    {
+      "name": "Karsuddens sjukhus",
+      "latitude": 59.017005,
+      "longitude": 16.207237
+    },
+    {
+      "name": "Karsuddens sjukhus",
+      "latitude": 59.017547,
+      "longitude": 16.204669
+    },
+    {
+      "name": "Kiruna sjukhus",
+      "latitude": 67.849885,
+      "longitude": 20.238387
+    },
+    {
+      "name": "Kliniskt träningscentrum (KTC)",
+      "latitude": 63.300733,
+      "longitude": 18.709545
+    },
+    {
+      "name": "Kliniskt träningscentrum Region Uppsala (KTC)",
+      "latitude": 59.843874,
+      "longitude": 17.641092
+    },
+    {
+      "name": "Korallen",
+      "latitude": 59.535671,
+      "longitude": 18.082742
+    },
+    {
+      "name": "Kry",
+      "latitude": 59.306244,
+      "longitude": 18.121776
+    },
+    {
+      "name": "Kullbergska sjukhuset",
+      "latitude": 58.992015,
+      "longitude": 16.220263
+    },
+    {
+      "name": "Kungälvs sjukhus",
+      "latitude": 57.878295,
+      "longitude": 11.96837
+    },
+    {
+      "name": "Landskrona lasarett",
+      "latitude": 55.878021,
+      "longitude": 12.841023
+    },
+    {
+      "name": "Lasarettet i Motala",
+      "latitude": 58.54448,
+      "longitude": 15.027802
+    },
+    {
+      "name": "Lasarettet i Ystad",
+      "latitude": 55.434321,
+      "longitude": 13.817613
+    },
+    {
+      "name": "Lasarettet Ljungby",
+      "latitude": 56.836218,
+      "longitude": 13.931229
+    },
+    {
+      "name": "Lasarettet Trelleborg",
+      "latitude": 55.380873,
+      "longitude": 13.161288
+    },
+    {
+      "name": "Lidingö sjukhus",
+      "latitude": 59.3507,
+      "longitude": 18.150533
+    },
+    {
+      "name": "Ljusdals Sjukhus",
+      "latitude": 61.82929,
+      "longitude": 16.109502
+    },
+    {
+      "name": "Logopedmottagningen i Svartbäcken",
+      "latitude": 59.869025,
+      "longitude": 17.626552
+    },
+    {
+      "name": "Ludvika Lasarett",
+      "latitude": 60.156048,
+      "longitude": 15.202867
+    },
+    {
+      "name": "Lungavdelning Malmö",
+      "latitude": 55.587323,
+      "longitude": 13.002484
+    },
+    {
+      "name": "Lycksele lasarett",
+      "latitude": 64.585287,
+      "longitude": 18.678895
+    },
+    {
+      "name": "Lysekils sjukhus",
+      "latitude": 58.280935,
+      "longitude": 11.439891
+    },
+    {
+      "name": "Länssjukhuset i Kalmar",
+      "latitude": 56.65845,
+      "longitude": 16.328378
+    },
+    {
+      "name": "Länssjukhuset Ryhov",
+      "latitude": 57.767858,
+      "longitude": 14.195815
+    },
+    {
+      "name": "Länssjukhuset Sundsvall-Härnösand",
+      "latitude": 62.409986,
+      "longitude": 17.30108
+    },
+    {
+      "name": "Lövånger vårdcentral",
+      "latitude": 64.369021,
+      "longitude": 21.311421
+    },
+    {
+      "name": "Löwenströmska sjukhuset",
+      "latitude": 59.545798,
+      "longitude": 17.908413
+    },
+    {
+      "name": "Maria Ungdom akutmottagning",
+      "latitude": 59.332877,
+      "longitude": 18.02367
+    },
+    {
+      "name": "Medicinmottagning",
+      "latitude": 63.300545,
+      "longitude": 18.7094
+    },
+    {
+      "name": "Minneskliniken",
+      "latitude": 55.611472,
+      "longitude": 13.059651
+    },
+    {
+      "name": "Mora lasarett",
+      "latitude": 61.016384,
+      "longitude": 14.584501
+    },
+    {
+      "name": "Mora lasarett BUP, Kurator",
+      "latitude": 61.016401,
+      "longitude": 14.582664
+    },
+    {
+      "name": "Mälarsjukhuset",
+      "latitude": 59.363483,
+      "longitude": 16.533871
+    },
+    {
+      "name": "Mölndals sjukhus",
+      "latitude": 57.661124,
+      "longitude": 12.010879
+    },
+    {
+      "name": "Nacka sjukhus",
+      "latitude": 59.31174,
+      "longitude": 18.196704
+    },
+    {
+      "name": "Norra Älvsborgs Länssjukhus",
+      "latitude": 58.318132,
+      "longitude": 12.26439
+    },
+    {
+      "name": "Norrlands universitetssjukhus",
+      "latitude": 63.816942,
+      "longitude": 20.299808
+    },
+    {
+      "name": "Norrtälje Sjukhus",
+      "latitude": 59.757959,
+      "longitude": 18.689403
+    },
+    {
+      "name": "Norrtälje Sjukhus Akutmottagning",
+      "latitude": 59.757483,
+      "longitude": 18.688945
+    },
+    {
+      "name": "Nyköpings lasarett",
+      "latitude": 58.759657,
+      "longitude": 16.995785
+    },
+    {
+      "name": "Nynäshamns Sjukhus",
+      "latitude": 58.903155,
+      "longitude": 17.944488
+    },
+    {
+      "name": "Närakut Danderyd",
+      "latitude": 59.392982,
+      "longitude": 18.038955
+    },
+    {
+      "name": "Närakut Haga",
+      "latitude": 59.353023,
+      "longitude": 18.03453
+    },
+    {
+      "name": "Närakut Järva",
+      "latitude": 59.386322,
+      "longitude": 17.937837
+    },
+    {
+      "name": "Närakut Nacka",
+      "latitude": 59.311942,
+      "longitude": 18.197409
+    },
+    {
+      "name": "Närakut Rosenlund",
+      "latitude": 59.310897,
+      "longitude": 18.060897
+    },
+    {
+      "name": "Närakut Sollentuna",
+      "latitude": 59.430825,
+      "longitude": 17.953958
+    },
+    {
+      "name": "Närsjukhuset i Söderhamn",
+      "latitude": 61.297334,
+      "longitude": 17.056461
+    },
+    {
+      "name": "Ortopedteknisk enhet",
+      "latitude": 63.300212,
+      "longitude": 18.709084
+    },
+    {
+      "name": "Oscar II-dialys­mottagningen",
+      "latitude": 59.845391,
+      "longitude": 17.638609
+    },
+    {
+      "name": "Oskarshamns Sjukhus",
+      "latitude": 57.263469,
+      "longitude": 16.421897
+    },
+    {
+      "name": "Osteopatklinik Valiant AB",
+      "latitude": 63.828986,
+      "longitude": 20.246728
+    },
+    {
+      "name": "Palliativt centrum",
+      "latitude": 59.815673,
+      "longitude": 17.647566
+    },
+    {
+      "name": "Piteå Älvdals Sjukhus",
+      "latitude": 65.312411,
+      "longitude": 21.496258
+    },
+    {
+      "name": "Praktikertjänst Närsjukhus Strömstad",
+      "latitude": 58.941513,
+      "longitude": 11.169425
+    },
+    {
+      "name": "Prima Fysik Sportrehab",
+      "latitude": 59.306328,
+      "longitude": 18.122102
+    },
+    {
+      "name": "Psykiatrisk mottagning i Skutskär",
+      "latitude": 60.626133,
+      "longitude": 17.411893
+    },
+    {
+      "name": "Psykiatrisk mottagning Lund",
+      "latitude": 55.718041,
+      "longitude": 13.190527
+    },
+    {
+      "name": "Psykiatriska akutmottagningen Stockholm",
+      "latitude": 59.335338,
+      "longitude": 18.018446
+    },
+    {
+      "name": "Psykiatri­mottagningen för unga vuxna",
+      "latitude": 59.860352,
+      "longitude": 17.641042
+    },
+    {
+      "name": "Psykosvårdens ungdomsteam",
+      "latitude": 59.86269,
+      "longitude": 17.605501
+    },
+    {
+      "name": "Punktionscytologiska mottagningen",
+      "latitude": 59.845222,
+      "longitude": 17.639946
+    },
+    {
+      "name": "Rosenlunds sjukhus",
+      "latitude": 59.310549,
+      "longitude": 18.061449
+    },
+    {
+      "name": "Roslagens Sjukhus",
+      "latitude": 59.762457,
+      "longitude": 18.714693
+    },
+    {
+      "name": "Rättspsykiatri Västmanland",
+      "latitude": 59.934458,
+      "longitude": 16.605649
+    },
+    {
+      "name": "Rättspsykiatriska regionkliniken i Sundsvall",
+      "latitude": 62.394148,
+      "longitude": 17.240365
+    },
+    {
+      "name": "Råcksta sjukhem",
+      "latitude": 59.363095,
+      "longitude": 17.894789
+    },
+    {
+      "name": "Rågården",
+      "latitude": 57.789842,
+      "longitude": 12.11703
+    },
+    {
+      "name": "Sabbatsbergs sjukhus",
+      "latitude": 59.338276,
+      "longitude": 18.047399
+    },
+    {
+      "name": "Sahlgrenska Universitetssjukhuset",
+      "latitude": 57.682499,
+      "longitude": 11.960393
+    },
+    {
+      "name": "Saltsjöbadens sjukhus",
+      "latitude": 59.273736,
+      "longitude": 18.30735
+    },
+    {
+      "name": "Sandvikens närsjukhus",
+      "latitude": 60.609277,
+      "longitude": 16.759491
+    },
+    {
+      "name": "Sankt Eriks ögonsjukhus",
+      "latitude": 59.348599,
+      "longitude": 18.033244
+    },
+    {
+      "name": "Sankt Görans sjukhus",
+      "latitude": 59.334217,
+      "longitude": 18.020901
+    },
+    {
+      "name": "Sankt Görans sjukhus Akutmottagning",
+      "latitude": 59.33435,
+      "longitude": 18.022047
+    },
+    {
+      "name": "Sankt Görans sjukhus Förlossning",
+      "latitude": 59.334573,
+      "longitude": 18.020962
+    },
+    {
+      "name": "Simrishamns Sjukhus",
+      "latitude": 55.552557,
+      "longitude": 14.339783
+    },
+    {
+      "name": "Sjukhuset Arvika",
+      "latitude": 59.665188,
+      "longitude": 12.615584
+    },
+    {
+      "name": "Skaraborgs Sjukhus Falköping",
+      "latitude": 58.189245,
+      "longitude": 13.554269
+    },
+    {
+      "name": "Skaraborgs Sjukhus Lidköping",
+      "latitude": 58.497686,
+      "longitude": 13.152878
+    },
+    {
+      "name": "Skaraborgs Sjukhus Mariestad",
+      "latitude": 58.705177,
+      "longitude": 13.79476
+    },
+    {
+      "name": "Skaraborgs sjukhus Skövde",
+      "latitude": 58.427101,
+      "longitude": 13.850609
+    },
+    {
+      "name": "Skellefteå Sjukhus",
+      "latitude": 64.757786,
+      "longitude": 20.936907
+    },
+    {
+      "name": "Skutskärs vårdcentral",
+      "latitude": 60.626126,
+      "longitude": 17.411574
+    },
+    {
+      "name": "Skånes Universitetsjukhus Malmö",
+      "latitude": 55.587412,
+      "longitude": 13.001412
+    },
+    {
+      "name": "Skånes Universitetssjukhus i Lund (SUS)",
+      "latitude": 55.711755,
+      "longitude": 13.198553
+    },
+    {
+      "name": "Slottsbergskliniken AB",
+      "latitude": 57.655891,
+      "longitude": 11.899809
+    },
+    {
+      "name": "Sollefteå sjukhus",
+      "latitude": 63.174699,
+      "longitude": 17.234515
+    },
+    {
+      "name": "Sollentuna BUMM Martina",
+      "latitude": 59.423783,
+      "longitude": 17.954977
+    },
+    {
+      "name": "Sollentuna sjukhus",
+      "latitude": 59.431336,
+      "longitude": 17.954734
+    },
+    {
+      "name": "Sophiahemmet",
+      "latitude": 59.345848,
+      "longitude": 18.07601
+    },
+    {
+      "name": "Sophiahemmet",
+      "latitude": 59.348197,
+      "longitude": 18.07956
+    },
+    {
+      "name": "Sorsele sjukstuga hälsocentral",
+      "latitude": 65.53717,
+      "longitude": 17.541226
+    },
+    {
+      "name": "Stensbergshemmet",
+      "latitude": 56.659715,
+      "longitude": 16.335617
+    },
+    {
+      "name": "Stockholms sjukhem",
+      "latitude": 59.332672,
+      "longitude": 18.025546
+    },
+    {
+      "name": "Stortorpskliniken",
+      "latitude": 59.240727,
+      "longitude": 18.129457
+    },
+    {
+      "name": "Sunderby sjukhus",
+      "latitude": 65.671799,
+      "longitude": 21.932504
+    },
+    {
+      "name": "Södersjukhuset",
+      "latitude": 59.308819,
+      "longitude": 18.05576
+    },
+    {
+      "name": "Södersjukhuset Akutmottagning",
+      "latitude": 59.310103,
+      "longitude": 18.054833
+    },
+    {
+      "name": "Södertälje sjukhus",
+      "latitude": 59.198845,
+      "longitude": 17.633044
+    },
+    {
+      "name": "Södra sjukhusområdet",
+      "latitude": 56.238491,
+      "longitude": 12.852965
+    },
+    {
+      "name": "Södra Älvsborgs Sjukhus",
+      "latitude": 57.726142,
+      "longitude": 12.962469
+    },
+    {
+      "name": "Södra Älvsborgs Sjukhus Skene",
+      "latitude": 57.492773,
+      "longitude": 12.647093
+    },
+    {
+      "name": "Tandregleringsklinik",
+      "latitude": 61.014839,
+      "longitude": 14.584193
+    },
+    {
+      "name": "Terveyskeskus",
+      "latitude": 67.327144,
+      "longitude": 23.764923
+    },
+    {
+      "name": "Tierps vårdcentrum",
+      "latitude": 60.336763,
+      "longitude": 17.514221
+    },
+    {
+      "name": "Tornion terveyskeskus",
+      "latitude": 65.850151,
+      "longitude": 24.152373
+    },
+    {
+      "name": "Torsby sjukhus",
+      "latitude": 60.138158,
+      "longitude": 12.998864
+    },
+    {
+      "name": "Uddevalla sjukhus",
+      "latitude": 58.356388,
+      "longitude": 11.928607
+    },
+    {
+      "name": "Universitetssjukhuset i Linköping",
+      "latitude": 58.401396,
+      "longitude": 15.622117
+    },
+    {
+      "name": "Universitetssjukhuset Örebro",
+      "latitude": 59.274898,
+      "longitude": 15.228299
+    },
+    {
+      "name": "Visby Lasarett",
+      "latitude": 57.648787,
+      "longitude": 18.300511
+    },
+    {
+      "name": "Vrinnevisjukhuset",
+      "latitude": 58.563566,
+      "longitude": 16.178438
+    },
+    {
+      "name": "Värnamo sjukhus",
+      "latitude": 57.173856,
+      "longitude": 14.028576
+    },
+    {
+      "name": "Västerviks sjukhus",
+      "latitude": 57.755418,
+      "longitude": 16.634737
+    },
+    {
+      "name": "Västmanlands sjukhus Fagersta",
+      "latitude": 59.997053,
+      "longitude": 15.808995
+    },
+    {
+      "name": "Västmanlands sjukhus Köping",
+      "latitude": 59.510005,
+      "longitude": 16.003847
+    },
+    {
+      "name": "Västmanlands sjukhus Sala",
+      "latitude": 59.923954,
+      "longitude": 16.602251
+    },
+    {
+      "name": "Västmanlands sjukhus Västerås",
+      "latitude": 59.618193,
+      "longitude": 16.581726
+    },
+    {
+      "name": "Vårdhem",
+      "latitude": 58.987989,
+      "longitude": 16.462286
+    },
+    {
+      "name": "Älvgården",
+      "latitude": 60.346619,
+      "longitude": 16.045928
+    },
+    {
+      "name": "Ängelholms sjukhus",
+      "latitude": 56.238491,
+      "longitude": 12.852965
+    },
+    {
+      "name": "Ögonmottagning 2",
+      "latitude": 55.710708,
+      "longitude": 13.200152
+    },
+    {
+      "name": "Ögonmottagning Malmö",
+      "latitude": 55.587301,
+      "longitude": 13.002496
+    },
+    {
+      "name": "Örebro Blodcentral",
+      "latitude": 59.275279,
+      "longitude": 15.224115
+    },
+    {
+      "name": "Örnsköldsviks sjukhus",
+      "latitude": 63.298967,
+      "longitude": 18.713148
+    },
+    {
+      "name": "Östersunds Sjukhus",
+      "latitude": 63.182781,
+      "longitude": 14.6351
+    },
+    {
+      "name": "Östersunds sjukhus",
+      "latitude": 63.183803,
+      "longitude": 14.635567
+    },
+    {
+      "name": "Östra Sjukhuset",
+      "latitude": 57.720466,
+      "longitude": 12.051545
+    },
+    {
+      "name": "Överkalix vårdcentral",
+      "latitude": 66.33839,
+      "longitude": 22.846679
+    }
+  ],
+  "meta": {
+    "title": "Sjukhus i Sverige - Gratis nedladdning",
+    "description": "Sjukhus i Sverige (OpenStreetMap-punkter, amenity=hospital). Namn, latitud och longitud (WGS84). 212 poster. Innehåller 212 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Sjukhus i Sverige | ListBase",
+    "seo_description": "Ladda ner Sjukhus i Sverige — 212 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 212 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

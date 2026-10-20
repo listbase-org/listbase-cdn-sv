@@ -1,0 +1,97 @@
+{
+  "id": "sv-mattenheter-light",
+  "name": "Måttenheter – kategori 'light' (4)",
+  "title": "Måttenheter – kategori 'light' (4)",
+  "description": "Måttenheter i kategorin 'light' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "light-candela",
+      "kategori": "light",
+      "namn": "candela",
+      "forkortning": "cd",
+      "smal_form": "cd",
+      "monster": "{0} candela"
+    },
+    {
+      "id": 2,
+      "unit_code": "light-lumen",
+      "kategori": "light",
+      "namn": "lumen",
+      "forkortning": "lm",
+      "smal_form": "lm",
+      "monster": "{0} lumen"
+    },
+    {
+      "id": 3,
+      "unit_code": "light-lux",
+      "kategori": "light",
+      "namn": "lux",
+      "forkortning": "lux",
+      "smal_form": "lux",
+      "monster": "{0} lux"
+    },
+    {
+      "id": 4,
+      "unit_code": "light-solar-luminosity",
+      "kategori": "light",
+      "namn": "solluminositeter",
+      "forkortning": "L☉",
+      "smal_form": "L☉",
+      "monster": "{0} solluminositeter"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'light' (4) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'light' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 4 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'light' (4) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'light' (4) — 4 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 4 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

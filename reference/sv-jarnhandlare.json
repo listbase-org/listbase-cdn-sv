@@ -1,0 +1,1551 @@
+{
+  "id": "sv-jarnhandlare",
+  "name": "Järnhandlare (Hardware shops)",
+  "title": "Järnhandlare (Hardware shops)",
+  "description": "Järnhandlare i Sverige — OpenStreetMap-punktdata (OSM-tagg: shop=hardware). Swedish hardware shops as named point locations with WGS84 coordinates. 302 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 302,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AB Karl Hedin",
+      "latitude": 59.712352,
+      "longitude": 14.1537
+    },
+    {
+      "name": "AB Karl Hedin",
+      "latitude": 59.353741,
+      "longitude": 17.031449
+    },
+    {
+      "name": "AB Karl Hedin",
+      "latitude": 59.992242,
+      "longitude": 15.825173
+    },
+    {
+      "name": "ABK Tekniska",
+      "latitude": 56.217607,
+      "longitude": 15.270919
+    },
+    {
+      "name": "Affes Maskin & Teknik",
+      "latitude": 66.394168,
+      "longitude": 23.634366
+    },
+    {
+      "name": "Ahlsell",
+      "latitude": 61.340464,
+      "longitude": 16.388166
+    },
+    {
+      "name": "Ahlsell",
+      "latitude": 58.354051,
+      "longitude": 11.971112
+    },
+    {
+      "name": "Ahlsell",
+      "latitude": 59.607988,
+      "longitude": 16.60965
+    },
+    {
+      "name": "Ahlsell",
+      "latitude": 56.201855,
+      "longitude": 15.640141
+    },
+    {
+      "name": "Ahlsell Umeå",
+      "latitude": 63.837433,
+      "longitude": 20.242716
+    },
+    {
+      "name": "Ahtis Såg & Motor AB",
+      "latitude": 57.163334,
+      "longitude": 12.745104
+    },
+    {
+      "name": "Allt På Pall",
+      "latitude": 56.228422,
+      "longitude": 15.423115
+    },
+    {
+      "name": "Andor",
+      "latitude": 67.207938,
+      "longitude": 23.365858
+    },
+    {
+      "name": "areco",
+      "latitude": 59.607614,
+      "longitude": 16.615196
+    },
+    {
+      "name": "Assemblin Ronneby",
+      "latitude": 56.211475,
+      "longitude": 15.271026
+    },
+    {
+      "name": "Axima",
+      "latitude": 58.129268,
+      "longitude": 13.336056
+    },
+    {
+      "name": "Backmarks",
+      "latitude": 62.414555,
+      "longitude": 17.347314
+    },
+    {
+      "name": "Bad och värme",
+      "latitude": 59.710555,
+      "longitude": 14.156847
+    },
+    {
+      "name": "Balders Hage",
+      "latitude": 57.93071,
+      "longitude": 12.53609
+    },
+    {
+      "name": "Battsam",
+      "latitude": 56.187664,
+      "longitude": 15.602284
+    },
+    {
+      "name": "Beijer",
+      "latitude": 58.355077,
+      "longitude": 11.968541
+    },
+    {
+      "name": "Beijer Bygg",
+      "latitude": 61.332084,
+      "longitude": 16.405264
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 63.3923,
+      "longitude": 13.095448
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 59.410212,
+      "longitude": 17.84011
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 62.414336,
+      "longitude": 17.349988
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 56.650565,
+      "longitude": 16.467341
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 59.435812,
+      "longitude": 17.931856
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 56.173812,
+      "longitude": 14.838476
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 65.319507,
+      "longitude": 21.446403
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 59.23095,
+      "longitude": 17.952197
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 59.338272,
+      "longitude": 17.02616
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 56.676693,
+      "longitude": 12.808334
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 59.355878,
+      "longitude": 18.175233
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 55.686153,
+      "longitude": 13.212313
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 59.844987,
+      "longitude": 17.687896
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 55.582665,
+      "longitude": 13.009273
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 59.261822,
+      "longitude": 15.184586
+    },
+    {
+      "name": "Beijer byggmaterial",
+      "latitude": 63.840802,
+      "longitude": 20.204037
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 56.17326,
+      "longitude": 15.593297
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 58.395398,
+      "longitude": 13.864212
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "latitude": 58.073852,
+      "longitude": 11.819824
+    },
+    {
+      "name": "Beijer Tomta",
+      "latitude": 60.077491,
+      "longitude": 18.771755
+    },
+    {
+      "name": "Beijers",
+      "latitude": 57.50685,
+      "longitude": 14.145269
+    },
+    {
+      "name": "Bepps",
+      "latitude": 55.641345,
+      "longitude": 13.685969
+    },
+    {
+      "name": "Bepps",
+      "latitude": 55.683177,
+      "longitude": 13.186058
+    },
+    {
+      "name": "BiLeVi:s Butik & Service",
+      "latitude": 63.931695,
+      "longitude": 19.215779
+    },
+    {
+      "name": "Bolist",
+      "latitude": 59.501694,
+      "longitude": 13.333653
+    },
+    {
+      "name": "Bolist",
+      "latitude": 59.42146,
+      "longitude": 13.689174
+    },
+    {
+      "name": "Bolist",
+      "latitude": 60.184567,
+      "longitude": 17.187291
+    },
+    {
+      "name": "Bolist",
+      "latitude": 55.682332,
+      "longitude": 13.087944
+    },
+    {
+      "name": "Bolist",
+      "latitude": 59.645339,
+      "longitude": 17.122709
+    },
+    {
+      "name": "Bolist",
+      "latitude": 56.108628,
+      "longitude": 12.789409
+    },
+    {
+      "name": "Bolist Emmaboda Trädgårdservice",
+      "latitude": 56.623766,
+      "longitude": 15.540786
+    },
+    {
+      "name": "Bolist Hällefors Bygg & Järn",
+      "latitude": 59.780637,
+      "longitude": 14.51506
+    },
+    {
+      "name": "Bolist Jonssons Trä",
+      "latitude": 56.870139,
+      "longitude": 16.663528
+    },
+    {
+      "name": "Bolist Utterströms",
+      "latitude": 63.569178,
+      "longitude": 19.499886
+    },
+    {
+      "name": "Bolist Östhammar",
+      "latitude": 60.242573,
+      "longitude": 18.345144
+    },
+    {
+      "name": "Bolyst",
+      "latitude": 60.168617,
+      "longitude": 13.496761
+    },
+    {
+      "name": "Borgunda Bygghandel",
+      "latitude": 58.411378,
+      "longitude": 13.881424
+    },
+    {
+      "name": "Borgunda Bygghandel",
+      "latitude": 58.166426,
+      "longitude": 13.54625
+    },
+    {
+      "name": "Brukbar Cirkulär Järnhandel",
+      "latitude": 59.651057,
+      "longitude": 17.082514
+    },
+    {
+      "name": "Bröderna",
+      "latitude": 56.072443,
+      "longitude": 14.468354
+    },
+    {
+      "name": "Bröderna Nordquist Byggmaterial AB",
+      "latitude": 59.307169,
+      "longitude": 18.115473
+    },
+    {
+      "name": "BSIAB",
+      "latitude": 59.319316,
+      "longitude": 14.459876
+    },
+    {
+      "name": "Bygg & Järn",
+      "latitude": 56.537242,
+      "longitude": 15.58405
+    },
+    {
+      "name": "Byggbutiken",
+      "latitude": 55.515408,
+      "longitude": 13.235391
+    },
+    {
+      "name": "Byggfabriken",
+      "latitude": 55.607878,
+      "longitude": 13.007608
+    },
+    {
+      "name": "Bygghemma",
+      "latitude": 55.551256,
+      "longitude": 12.994099
+    },
+    {
+      "name": "Byggmax",
+      "latitude": 61.769641,
+      "longitude": 17.091049
+    },
+    {
+      "name": "Byggmax",
+      "latitude": 63.16502,
+      "longitude": 14.687838
+    },
+    {
+      "name": "Byggnadsvårdsbutiken",
+      "latitude": 59.567988,
+      "longitude": 16.370888
+    },
+    {
+      "name": "Bygma",
+      "latitude": 60.477964,
+      "longitude": 15.428822
+    },
+    {
+      "name": "Bärebergs Järn & Maskin",
+      "latitude": 58.204715,
+      "longitude": 12.679494
+    },
+    {
+      "name": "C-B Stål & Metall AB",
+      "latitude": 59.329368,
+      "longitude": 14.582395
+    },
+    {
+      "name": "Carl Nilsson AB",
+      "latitude": 56.54276,
+      "longitude": 14.128042
+    },
+    {
+      "name": "City Lås",
+      "latitude": 57.777249,
+      "longitude": 14.155591
+    },
+    {
+      "name": "Clas Ohlson",
+      "latitude": 58.493617,
+      "longitude": 13.184363
+    },
+    {
+      "name": "Colorama",
+      "latitude": 58.556765,
+      "longitude": 15.044266
+    },
+    {
+      "name": "Colorama",
+      "latitude": 60.042173,
+      "longitude": 13.704367
+    },
+    {
+      "name": "Cramo",
+      "latitude": 58.355002,
+      "longitude": 11.972121
+    },
+    {
+      "name": "Dahl",
+      "latitude": 59.349897,
+      "longitude": 18.046622
+    },
+    {
+      "name": "Derome",
+      "latitude": 56.218287,
+      "longitude": 15.649885
+    },
+    {
+      "name": "Derome Byggvaror",
+      "latitude": 58.143767,
+      "longitude": 11.805511
+    },
+    {
+      "name": "Däckteam Meca",
+      "latitude": 63.932194,
+      "longitude": 19.224592
+    },
+    {
+      "name": "Ekbergs Låsservice",
+      "latitude": 59.327993,
+      "longitude": 14.522594
+    },
+    {
+      "name": "El & Driftteknik i Strängnäs AB",
+      "latitude": 59.350515,
+      "longitude": 17.033135
+    },
+    {
+      "name": "Elda",
+      "latitude": 56.149002,
+      "longitude": 13.783464
+    },
+    {
+      "name": "Elda Butiken",
+      "latitude": 56.200599,
+      "longitude": 15.637618
+    },
+    {
+      "name": "Eliasson Järn & Byggvaror",
+      "latitude": 58.667758,
+      "longitude": 17.107222
+    },
+    {
+      "name": "Elkedjan",
+      "latitude": 58.257233,
+      "longitude": 12.961862
+    },
+    {
+      "name": "Elmsta Färg & Järnhandel",
+      "latitude": 59.972426,
+      "longitude": 18.809542
+    },
+    {
+      "name": "ELON",
+      "latitude": 62.624626,
+      "longitude": 17.927066
+    },
+    {
+      "name": "Elproman",
+      "latitude": 59.283006,
+      "longitude": 17.946002
+    },
+    {
+      "name": "Eneby järn",
+      "latitude": 58.591054,
+      "longitude": 16.212857
+    },
+    {
+      "name": "Ernst P",
+      "latitude": 57.643816,
+      "longitude": 12.02918
+    },
+    {
+      "name": "Farfasteningzon AB",
+      "latitude": 56.500229,
+      "longitude": 13.004553
+    },
+    {
+      "name": "Farslycke Svets och Maskinservice",
+      "latitude": 56.237055,
+      "longitude": 14.933479
+    },
+    {
+      "name": "Fellessons",
+      "latitude": 56.55558,
+      "longitude": 14.152894
+    },
+    {
+      "name": "Flarkens Järn & Färg",
+      "latitude": 64.302551,
+      "longitude": 20.867694
+    },
+    {
+      "name": "Flinks järn",
+      "latitude": 59.337635,
+      "longitude": 18.006354
+    },
+    {
+      "name": "Flinks Järn",
+      "latitude": 59.280574,
+      "longitude": 17.917388
+    },
+    {
+      "name": "Flinks järn",
+      "latitude": 59.466884,
+      "longitude": 18.126163
+    },
+    {
+      "name": "Floby bygghandel",
+      "latitude": 58.139231,
+      "longitude": 13.337464
+    },
+    {
+      "name": "Forcit",
+      "latitude": 59.520025,
+      "longitude": 15.028416
+    },
+    {
+      "name": "Fricweld AB",
+      "latitude": 59.768918,
+      "longitude": 14.51897
+    },
+    {
+      "name": "Frydéns järnaffär",
+      "latitude": 58.424263,
+      "longitude": 14.16262
+    },
+    {
+      "name": "Fårösunds Byggvaror",
+      "latitude": 57.863414,
+      "longitude": 19.05518
+    },
+    {
+      "name": "G&B i Rottne",
+      "latitude": 57.020301,
+      "longitude": 14.893491
+    },
+    {
+      "name": "Gamla Jernboden",
+      "latitude": 56.232384,
+      "longitude": 15.266383
+    },
+    {
+      "name": "Garageport Experten",
+      "latitude": 56.232048,
+      "longitude": 15.264315
+    },
+    {
+      "name": "Gränsfors Bruks Fabriksbutik",
+      "latitude": 62.040314,
+      "longitude": 17.08821
+    },
+    {
+      "name": "Gustavsson Isolering AB",
+      "latitude": 59.867996,
+      "longitude": 17.604738
+    },
+    {
+      "name": "Gustis AB",
+      "latitude": 60.060232,
+      "longitude": 18.083805
+    },
+    {
+      "name": "Gärdin & Persson",
+      "latitude": 63.166689,
+      "longitude": 14.685788
+    },
+    {
+      "name": "Gärdin & Persson",
+      "latitude": 63.165816,
+      "longitude": 14.685499
+    },
+    {
+      "name": "Göranssons Färg",
+      "latitude": 60.619757,
+      "longitude": 15.800973
+    },
+    {
+      "name": "Göta Motorer",
+      "latitude": 56.389267,
+      "longitude": 13.985483
+    },
+    {
+      "name": "Göteborgs Skruvcenter",
+      "latitude": 57.707751,
+      "longitude": 11.882403
+    },
+    {
+      "name": "Hamnaffären",
+      "latitude": 57.59872,
+      "longitude": 11.794482
+    },
+    {
+      "name": "Happy Homes",
+      "latitude": 65.094719,
+      "longitude": 17.112068
+    },
+    {
+      "name": "Harald Nyborg",
+      "latitude": 58.492889,
+      "longitude": 13.184757
+    },
+    {
+      "name": "Harås Byggvaror",
+      "latitude": 58.021362,
+      "longitude": 11.839276
+    },
+    {
+      "name": "Hilti",
+      "latitude": 57.748083,
+      "longitude": 11.997166
+    },
+    {
+      "name": "Hilti",
+      "latitude": 59.42077,
+      "longitude": 17.915674
+    },
+    {
+      "name": "Hjorts Trävaruaffär",
+      "latitude": 59.363998,
+      "longitude": 15.418686
+    },
+    {
+      "name": "HTH Köksforum",
+      "latitude": 56.694118,
+      "longitude": 16.332523
+    },
+    {
+      "name": "Hudiksvalls Järn",
+      "latitude": 61.726205,
+      "longitude": 17.12083
+    },
+    {
+      "name": "Hugos Maskin AB",
+      "latitude": 65.957161,
+      "longitude": 24.035368
+    },
+    {
+      "name": "Hulthéns Svets & Smide",
+      "latitude": 57.57291,
+      "longitude": 12.088349
+    },
+    {
+      "name": "Husqvarna",
+      "latitude": 59.414972,
+      "longitude": 17.858863
+    },
+    {
+      "name": "Hydralik Service",
+      "latitude": 56.204863,
+      "longitude": 15.288015
+    },
+    {
+      "name": "Hyr-Lund",
+      "latitude": 59.867007,
+      "longitude": 17.660652
+    },
+    {
+      "name": "Höglandsvillan",
+      "latitude": 57.833117,
+      "longitude": 14.807711
+    },
+    {
+      "name": "Iittala outlet",
+      "latitude": 56.552014,
+      "longitude": 14.159871
+    },
+    {
+      "name": "Imab",
+      "latitude": 56.024325,
+      "longitude": 12.715443
+    },
+    {
+      "name": "Installationsbolaget",
+      "latitude": 59.643472,
+      "longitude": 17.081066
+    },
+    {
+      "name": "Jasa Maskin AB",
+      "latitude": 58.353099,
+      "longitude": 11.980277
+    },
+    {
+      "name": "Jem & Fix",
+      "latitude": 56.737085,
+      "longitude": 15.891118
+    },
+    {
+      "name": "jem & fix",
+      "latitude": 57.497707,
+      "longitude": 12.669589
+    },
+    {
+      "name": "JG:s Bygghandel",
+      "latitude": 58.664308,
+      "longitude": 13.827022
+    },
+    {
+      "name": "Jibe’s Plåt AB",
+      "latitude": 59.782303,
+      "longitude": 14.51561
+    },
+    {
+      "name": "Jirvelius store",
+      "latitude": 59.185289,
+      "longitude": 14.867403
+    },
+    {
+      "name": "JP Montage",
+      "latitude": 56.252261,
+      "longitude": 15.249054
+    },
+    {
+      "name": "Jula",
+      "latitude": 65.840905,
+      "longitude": 24.109529
+    },
+    {
+      "name": "Järn & Färg",
+      "latitude": 60.180354,
+      "longitude": 17.178882
+    },
+    {
+      "name": "Järna Trä",
+      "latitude": 59.095915,
+      "longitude": 17.582306
+    },
+    {
+      "name": "Järnboden",
+      "latitude": 59.259341,
+      "longitude": 17.221598
+    },
+    {
+      "name": "Järnia",
+      "latitude": 59.343596,
+      "longitude": 13.498866
+    },
+    {
+      "name": "Järnia",
+      "latitude": 58.119659,
+      "longitude": 12.534336
+    },
+    {
+      "name": "Järnia",
+      "latitude": 57.764132,
+      "longitude": 12.257744
+    },
+    {
+      "name": "Järnia",
+      "latitude": 55.851657,
+      "longitude": 13.662533
+    },
+    {
+      "name": "Järnia",
+      "latitude": 63.930945,
+      "longitude": 19.21723
+    },
+    {
+      "name": "Jörgens Rörservice i Backaryd AB",
+      "latitude": 56.355578,
+      "longitude": 15.169908
+    },
+    {
+      "name": "K Bygg Färingsö Trä",
+      "latitude": 59.309274,
+      "longitude": 17.774706
+    },
+    {
+      "name": "K-Bygg",
+      "latitude": 59.609303,
+      "longitude": 16.61001
+    },
+    {
+      "name": "K-Bygg",
+      "latitude": 58.427599,
+      "longitude": 15.617667
+    },
+    {
+      "name": "K-Bygg Fresks",
+      "latitude": 62.653233,
+      "longitude": 17.887849
+    },
+    {
+      "name": "K-Rauta",
+      "latitude": 62.444894,
+      "longitude": 17.326938
+    },
+    {
+      "name": "Kakel Design",
+      "latitude": 59.866445,
+      "longitude": 17.661547
+    },
+    {
+      "name": "Karl Hedin",
+      "latitude": 60.34408,
+      "longitude": 15.765815
+    },
+    {
+      "name": "Karl Hedin Bygghandel",
+      "latitude": 59.559713,
+      "longitude": 17.547287
+    },
+    {
+      "name": "Karlaplans Järnaffär",
+      "latitude": 59.33829,
+      "longitude": 18.089204
+    },
+    {
+      "name": "Kjellmans",
+      "latitude": 58.354647,
+      "longitude": 11.973333
+    },
+    {
+      "name": "Klippnet AB",
+      "latitude": 58.473494,
+      "longitude": 13.926369
+    },
+    {
+      "name": "Kolmårdens Byggtjänst",
+      "latitude": 58.671071,
+      "longitude": 16.362742
+    },
+    {
+      "name": "Kramfors Järnhandel",
+      "latitude": 62.928019,
+      "longitude": 17.784611
+    },
+    {
+      "name": "Kullbergs Mur och Bygg",
+      "latitude": 56.204581,
+      "longitude": 15.287496
+    },
+    {
+      "name": "Kungsängs Teknik",
+      "latitude": 59.855463,
+      "longitude": 17.644339
+    },
+    {
+      "name": "Kungälvs Trä",
+      "latitude": 57.963961,
+      "longitude": 12.135238
+    },
+    {
+      "name": "Lagerbutiken",
+      "latitude": 57.318706,
+      "longitude": 14.586798
+    },
+    {
+      "name": "Laitis",
+      "latitude": 65.323458,
+      "longitude": 21.43648
+    },
+    {
+      "name": "Laitis I Pajala AB",
+      "latitude": 67.208109,
+      "longitude": 23.366862
+    },
+    {
+      "name": "Larsons Järn",
+      "latitude": 66.326592,
+      "longitude": 22.844618
+    },
+    {
+      "name": "Lasta Gotland",
+      "latitude": 57.616338,
+      "longitude": 18.320351
+    },
+    {
+      "name": "Leifs verktyg o trädgård AB",
+      "latitude": 57.899968,
+      "longitude": 16.408071
+    },
+    {
+      "name": "Lindar'n",
+      "latitude": 57.35769,
+      "longitude": 12.121863
+    },
+    {
+      "name": "Lindar'n",
+      "latitude": 57.487143,
+      "longitude": 12.074374
+    },
+    {
+      "name": "Lindkvist Järn",
+      "latitude": 57.675207,
+      "longitude": 14.091675
+    },
+    {
+      "name": "Linds Rör AB",
+      "latitude": 59.320109,
+      "longitude": 14.504035
+    },
+    {
+      "name": "Lindvall Carl AB Järn & Maskinaffär",
+      "latitude": 56.255175,
+      "longitude": 14.076334
+    },
+    {
+      "name": "Ljugarns Handels AB",
+      "latitude": 57.337619,
+      "longitude": 18.6999
+    },
+    {
+      "name": "LNT",
+      "latitude": 56.398008,
+      "longitude": 14.322238
+    },
+    {
+      "name": "Lundagrossisten",
+      "latitude": 59.868129,
+      "longitude": 17.606196
+    },
+    {
+      "name": "Lundagrossisten",
+      "latitude": 59.372612,
+      "longitude": 18.00964
+    },
+    {
+      "name": "Lundell & Zetterberg",
+      "latitude": 59.339411,
+      "longitude": 18.067317
+    },
+    {
+      "name": "Lundqvist Maskin & Verktyg",
+      "latitude": 58.605344,
+      "longitude": 16.17707
+    },
+    {
+      "name": "Lyrsten sågverk",
+      "latitude": 58.092295,
+      "longitude": 11.530168
+    },
+    {
+      "name": "Magnussons Byggvaror",
+      "latitude": 58.186534,
+      "longitude": 16.735633
+    },
+    {
+      "name": "Malmbergs",
+      "latitude": 59.36779,
+      "longitude": 18.005803
+    },
+    {
+      "name": "Markussons Bygg Järn & Fritid",
+      "latitude": 65.089119,
+      "longitude": 17.107607
+    },
+    {
+      "name": "Maskin & Fritid, Hyresmaskiner",
+      "latitude": 56.196851,
+      "longitude": 15.665896
+    },
+    {
+      "name": "Maskinhjälp",
+      "latitude": 57.709391,
+      "longitude": 12.934488
+    },
+    {
+      "name": "Maskinkontakten i Uppland AB",
+      "latitude": 59.614694,
+      "longitude": 17.88105
+    },
+    {
+      "name": "Materialmännen",
+      "latitude": 58.21533,
+      "longitude": 16.576582
+    },
+    {
+      "name": "Mekia AB",
+      "latitude": 57.673085,
+      "longitude": 11.663564
+    },
+    {
+      "name": "MG Rental",
+      "latitude": 59.335619,
+      "longitude": 18.051885
+    },
+    {
+      "name": "Moheda Järn och Bygg",
+      "latitude": 57.001458,
+      "longitude": 14.577798
+    },
+    {
+      "name": "Movab",
+      "latitude": 58.166104,
+      "longitude": 13.543858
+    },
+    {
+      "name": "Movab Götene",
+      "latitude": 58.523854,
+      "longitude": 13.49211
+    },
+    {
+      "name": "Mårdhs Plåtslageri",
+      "latitude": 56.241551,
+      "longitude": 15.286774
+    },
+    {
+      "name": "NA Svensson - Woody",
+      "latitude": 58.905548,
+      "longitude": 17.551746
+    },
+    {
+      "name": "NP Nilsson Helsingborg",
+      "latitude": 56.073657,
+      "longitude": 12.713423
+    },
+    {
+      "name": "NP Nilssons",
+      "latitude": 56.256257,
+      "longitude": 12.890262
+    },
+    {
+      "name": "Nya Hallabro Rostfria",
+      "latitude": 56.388287,
+      "longitude": 15.104837
+    },
+    {
+      "name": "Nya Järnboden",
+      "latitude": 57.319084,
+      "longitude": 15.582645
+    },
+    {
+      "name": "Ods Kvarn",
+      "latitude": 57.60318,
+      "longitude": 13.5147
+    },
+    {
+      "name": "Olinders",
+      "latitude": 57.683706,
+      "longitude": 11.650921
+    },
+    {
+      "name": "Optimera",
+      "latitude": 58.262161,
+      "longitude": 12.931776
+    },
+    {
+      "name": "Optimera",
+      "latitude": 58.029379,
+      "longitude": 14.973507
+    },
+    {
+      "name": "Optimera",
+      "latitude": 58.167991,
+      "longitude": 13.542185
+    },
+    {
+      "name": "Optimera",
+      "latitude": 56.541998,
+      "longitude": 14.128242
+    },
+    {
+      "name": "Optimera",
+      "latitude": 55.505743,
+      "longitude": 13.235775
+    },
+    {
+      "name": "Optimera",
+      "latitude": 57.508343,
+      "longitude": 14.148226
+    },
+    {
+      "name": "Oscar Gustafsson Biredskap",
+      "latitude": 57.183779,
+      "longitude": 12.280962
+    },
+    {
+      "name": "Per Tec Järn och Motor",
+      "latitude": 56.519459,
+      "longitude": 13.31724
+    },
+    {
+      "name": "Plåthuset",
+      "latitude": 59.648578,
+      "longitude": 17.121825
+    },
+    {
+      "name": "Plåtslagaren",
+      "latitude": 56.251332,
+      "longitude": 15.250092
+    },
+    {
+      "name": "Pro Center",
+      "latitude": 59.339855,
+      "longitude": 18.058006
+    },
+    {
+      "name": "PT:s Motor AB",
+      "latitude": 60.598061,
+      "longitude": 15.626118
+    },
+    {
+      "name": "Ramirent",
+      "latitude": 59.448136,
+      "longitude": 17.921247
+    },
+    {
+      "name": "Ramirent",
+      "latitude": 59.346376,
+      "longitude": 17.029278
+    },
+    {
+      "name": "Roctexo Aerospace",
+      "latitude": 57.178708,
+      "longitude": 14.058561
+    },
+    {
+      "name": "Ronneby Maskinaffär",
+      "latitude": 56.219917,
+      "longitude": 15.270147
+    },
+    {
+      "name": "Rosdala Glasbruk Butik",
+      "latitude": 57.12226,
+      "longitude": 15.172768
+    },
+    {
+      "name": "Rudolphis Järn",
+      "latitude": 61.800337,
+      "longitude": 16.551678
+    },
+    {
+      "name": "Sag & Ukuten",
+      "latitude": 59.360889,
+      "longitude": 17.946274
+    },
+    {
+      "name": "Sandbergs Järn",
+      "latitude": 59.339246,
+      "longitude": 18.062286
+    },
+    {
+      "name": "Scandinavian Tool Systems AB",
+      "latitude": 60.681707,
+      "longitude": 15.089878
+    },
+    {
+      "name": "Selga",
+      "latitude": 58.355624,
+      "longitude": 11.961691
+    },
+    {
+      "name": "Selga",
+      "latitude": 59.440281,
+      "longitude": 18.095993
+    },
+    {
+      "name": "Service punkten",
+      "latitude": 59.349871,
+      "longitude": 17.98617
+    },
+    {
+      "name": "Sifvert Skruv",
+      "latitude": 59.293925,
+      "longitude": 18.008151
+    },
+    {
+      "name": "Sigvards Färghall",
+      "latitude": 56.838843,
+      "longitude": 13.924678
+    },
+    {
+      "name": "Sjöbloms VVS",
+      "latitude": 63.862786,
+      "longitude": 20.30395
+    },
+    {
+      "name": "Skaraborgs Skog & Landskapsservice AB",
+      "latitude": 58.678833,
+      "longitude": 13.820303
+    },
+    {
+      "name": "Skene Järn",
+      "latitude": 57.493172,
+      "longitude": 12.6611
+    },
+    {
+      "name": "Skene Järn",
+      "latitude": 57.543053,
+      "longitude": 12.426604
+    },
+    {
+      "name": "Skottorps bygghandel",
+      "latitude": 56.455614,
+      "longitude": 12.949377
+    },
+    {
+      "name": "Smedkvist Transport",
+      "latitude": 67.423229,
+      "longitude": 22.511392
+    },
+    {
+      "name": "Special Beslag",
+      "latitude": 57.727498,
+      "longitude": 11.959553
+    },
+    {
+      "name": "Stabia städbutik",
+      "latitude": 59.644283,
+      "longitude": 17.083367
+    },
+    {
+      "name": "Sundströms Kyl AB",
+      "latitude": 59.868506,
+      "longitude": 17.604316
+    },
+    {
+      "name": "Sunne Järnhandel",
+      "latitude": 59.838102,
+      "longitude": 13.139537
+    },
+    {
+      "name": "Svenljunga Såg & Motortjänst",
+      "latitude": 57.502859,
+      "longitude": 13.112839
+    },
+    {
+      "name": "Swedol",
+      "latitude": 60.604864,
+      "longitude": 15.66477
+    },
+    {
+      "name": "Swedol",
+      "latitude": 57.742247,
+      "longitude": 11.993353
+    },
+    {
+      "name": "Swedol",
+      "latitude": 57.122567,
+      "longitude": 12.263531
+    },
+    {
+      "name": "Swedol",
+      "latitude": 59.646001,
+      "longitude": 17.119392
+    },
+    {
+      "name": "Swedol",
+      "latitude": 59.383362,
+      "longitude": 16.493729
+    },
+    {
+      "name": "Swedol",
+      "latitude": 62.422291,
+      "longitude": 17.344261
+    },
+    {
+      "name": "Swedol",
+      "latitude": 56.022915,
+      "longitude": 14.116514
+    },
+    {
+      "name": "Swedol",
+      "latitude": 56.195392,
+      "longitude": 15.635167
+    },
+    {
+      "name": "Swedol",
+      "latitude": 58.414236,
+      "longitude": 13.880052
+    },
+    {
+      "name": "Swedol",
+      "latitude": 58.151215,
+      "longitude": 13.555845
+    },
+    {
+      "name": "Swedol",
+      "latitude": 60.473737,
+      "longitude": 15.431974
+    },
+    {
+      "name": "Swedol",
+      "latitude": 59.847376,
+      "longitude": 17.682551
+    },
+    {
+      "name": "Swedol Expressbutik",
+      "latitude": 59.29043,
+      "longitude": 18.08097
+    },
+    {
+      "name": "Swedol järnhandel",
+      "latitude": 59.38738,
+      "longitude": 13.47479
+    },
+    {
+      "name": "Swedol Norrköping",
+      "latitude": 58.612545,
+      "longitude": 16.176445
+    },
+    {
+      "name": "Swedol Sätra",
+      "latitude": 59.285742,
+      "longitude": 17.93063
+    },
+    {
+      "name": "Swedol Tools",
+      "latitude": 58.434387,
+      "longitude": 15.599
+    },
+    {
+      "name": "Swesafe",
+      "latitude": 63.832685,
+      "longitude": 20.218544
+    },
+    {
+      "name": "Söders olja och rör AB",
+      "latitude": 57.020273,
+      "longitude": 14.895233
+    },
+    {
+      "name": "Söderströms Motor",
+      "latitude": 63.305074,
+      "longitude": 18.74731
+    },
+    {
+      "name": "Tibro Skog & Trädgårdsmaskiner",
+      "latitude": 58.417445,
+      "longitude": 14.133063
+    },
+    {
+      "name": "Toolab Verktyg",
+      "latitude": 57.655538,
+      "longitude": 11.940767
+    },
+    {
+      "name": "Tools",
+      "latitude": 58.352349,
+      "longitude": 11.97892
+    },
+    {
+      "name": "Tools",
+      "latitude": 59.346001,
+      "longitude": 18.038067
+    },
+    {
+      "name": "Tools",
+      "latitude": 60.126055,
+      "longitude": 15.176806
+    },
+    {
+      "name": "TOOLS",
+      "latitude": 57.659062,
+      "longitude": 11.938448
+    },
+    {
+      "name": "Tools",
+      "latitude": 59.324065,
+      "longitude": 14.477379
+    },
+    {
+      "name": "Tools Sjögrens",
+      "latitude": 58.07399,
+      "longitude": 11.818531
+    },
+    {
+      "name": "Tools Vetlanda",
+      "latitude": 57.421789,
+      "longitude": 15.090761
+    },
+    {
+      "name": "Tools Wijklunds",
+      "latitude": 56.913925,
+      "longitude": 12.498751
+    },
+    {
+      "name": "Träbolaget i Ljungbyhed AB",
+      "latitude": 56.068551,
+      "longitude": 13.236459
+    },
+    {
+      "name": "Tärnsjö järnhandel",
+      "latitude": 60.153834,
+      "longitude": 16.946001
+    },
+    {
+      "name": "Upplands Kyl & Värme AB",
+      "latitude": 59.864436,
+      "longitude": 17.602983
+    },
+    {
+      "name": "Vadsbolås",
+      "latitude": 58.161903,
+      "longitude": 13.550799
+    },
+    {
+      "name": "Vargöns Järnhandel",
+      "latitude": 58.352816,
+      "longitude": 12.392267
+    },
+    {
+      "name": "Varma hem",
+      "latitude": 59.64321,
+      "longitude": 17.086537
+    },
+    {
+      "name": "Verktygsladan",
+      "latitude": 58.52458,
+      "longitude": 14.519981
+    },
+    {
+      "name": "VJB Järnhandel",
+      "latitude": 65.818884,
+      "longitude": 15.086029
+    },
+    {
+      "name": "Waxholms järn & färg",
+      "latitude": 59.402283,
+      "longitude": 18.353772
+    },
+    {
+      "name": "Westerbrings Plåt",
+      "latitude": 61.743435,
+      "longitude": 17.090369
+    },
+    {
+      "name": "Wiberger",
+      "latitude": 57.760692,
+      "longitude": 11.996204
+    },
+    {
+      "name": "Woody Nylands trä",
+      "latitude": 62.926909,
+      "longitude": 17.786719
+    },
+    {
+      "name": "Würth",
+      "latitude": 59.201415,
+      "longitude": 18.126912
+    },
+    {
+      "name": "Würth",
+      "latitude": 57.651013,
+      "longitude": 11.938815
+    },
+    {
+      "name": "Würth",
+      "latitude": 59.238172,
+      "longitude": 15.142528
+    },
+    {
+      "name": "Würth",
+      "latitude": 67.137166,
+      "longitude": 20.659944
+    },
+    {
+      "name": "Würth",
+      "latitude": 55.56749,
+      "longitude": 13.05018
+    },
+    {
+      "name": "Würth Yrkesbutik",
+      "latitude": 60.474795,
+      "longitude": 15.438209
+    },
+    {
+      "name": "XL Bygg",
+      "latitude": 58.080302,
+      "longitude": 13.031235
+    },
+    {
+      "name": "XL Bygg",
+      "latitude": 63.850533,
+      "longitude": 20.210981
+    },
+    {
+      "name": "XL Bygg Luleå",
+      "latitude": 65.610514,
+      "longitude": 22.112734
+    },
+    {
+      "name": "XL Bygg Pousette",
+      "latitude": 59.89602,
+      "longitude": 18.491686
+    },
+    {
+      "name": "XL-BYGG Fresks",
+      "latitude": 64.913531,
+      "longitude": 19.477833
+    },
+    {
+      "name": "XL-bygg Norrköping",
+      "latitude": 58.617949,
+      "longitude": 16.171962
+    },
+    {
+      "name": "XL-Bygg Veberöd",
+      "latitude": 55.63656,
+      "longitude": 13.492228
+    },
+    {
+      "name": "Åhus Marina",
+      "latitude": 55.924003,
+      "longitude": 14.303673
+    },
+    {
+      "name": "Östkustens Markis och Solskydd",
+      "latitude": 58.209517,
+      "longitude": 16.579865
+    },
+    {
+      "name": "Överkalix Lastbilcentra",
+      "latitude": 66.340453,
+      "longitude": 22.829756
+    }
+  ],
+  "meta": {
+    "title": "Järnhandlare (Hardware shops) - Gratis nedladdning",
+    "description": "Järnhandlare i Sverige — OpenStreetMap-punktdata (OSM-tagg: shop=hardware). Swedish hardware shops as named point locations with WGS84 coordinates. 302 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 302 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Järnhandlare (Hardware shops) | ListBase",
+    "seo_description": "Ladda ner Järnhandlare (Hardware shops) — 302 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 302 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

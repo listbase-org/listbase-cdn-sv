@@ -1,0 +1,426 @@
+{
+  "id": "sv-universitet",
+  "name": "Sweden — Universitet & högskolor (Universities)",
+  "title": "Sweden — Universitet & högskolor (Universities)",
+  "description": "List of universities and university colleges (högskolor) in Sweden. Each record carries the institution name, primary registered domain, full domain-alias list, primary web page, country, ISO-3166-1 alpha-2 country code, and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Sweden\"). Native Swedish-language names and diacritics (å/ä/ö) preserved verbatim.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Blekinge Institute of Technology",
+      "slug": "bth",
+      "domain": "bth.se",
+      "domains": "bth.se",
+      "web_page": "http://www.bth.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Chalmers University of Technology",
+      "slug": "chalmers",
+      "domain": "chalmers.se",
+      "domains": "chalmers.se",
+      "web_page": "http://www.chalmers.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Dalarna University College",
+      "slug": "du",
+      "domain": "du.se",
+      "domains": "du.se",
+      "web_page": "http://www.du.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Free University Stockholm",
+      "slug": "stockholm-fu",
+      "domain": "stockholm-fu.com",
+      "domains": "stockholm-fu.com",
+      "web_page": "http://www.stockholm-fu.com/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Gotland University College",
+      "slug": "hgo",
+      "domain": "hgo.se",
+      "domains": "hgo.se",
+      "web_page": "http://www.hgo.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Göteborg University",
+      "slug": "gu",
+      "domain": "gu.se",
+      "domains": "gu.se",
+      "web_page": "http://www.gu.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Halmstad University College",
+      "slug": "hh",
+      "domain": "hh.se",
+      "domains": "hh.se",
+      "web_page": "http://www.hh.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Jönköping University College",
+      "slug": "hj",
+      "domain": "hj.se",
+      "domains": "hj.se",
+      "web_page": "http://www.hj.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "KTH Royal Institute of Technology",
+      "slug": "kth",
+      "domain": "kth.se",
+      "domains": "kth.se",
+      "web_page": "http://www.kth.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Kalmar University College",
+      "slug": "hik",
+      "domain": "hik.se",
+      "domains": "hik.se",
+      "web_page": "http://www.hik.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Karlstad University",
+      "slug": "kau",
+      "domain": "kau.se",
+      "domains": "kau.se",
+      "web_page": "http://www.kau.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Karolinska Institute Stockholm",
+      "slug": "ki",
+      "domain": "ki.se",
+      "domains": "ki.se",
+      "web_page": "http://www.ki.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Linköping University",
+      "slug": "liu",
+      "domain": "liu.se",
+      "domains": "liu.se",
+      "web_page": "http://www.liu.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Lulea University of Technology",
+      "slug": "luth",
+      "domain": "luth.se",
+      "domains": "luth.se",
+      "web_page": "http://www.luth.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Lund University",
+      "slug": "lu",
+      "domain": "lu.se",
+      "domains": "lu.se",
+      "web_page": "http://www.lu.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Malmö University College",
+      "slug": "mah",
+      "domain": "mah.se",
+      "domains": "mah.se",
+      "web_page": "http://www.mah.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Mid-Sweden University",
+      "slug": "miun",
+      "domain": "miun.se",
+      "domains": "miun.se",
+      "web_page": "http://www.miun.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Mälardalen University",
+      "slug": "mdh",
+      "domain": "mdh.se",
+      "domains": "mdh.se",
+      "web_page": "http://www.mdh.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Nordic School of Public Health",
+      "slug": "nhv",
+      "domain": "nhv.se",
+      "domains": "nhv.se",
+      "web_page": "http://www.nhv.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "School of Design and Crafts",
+      "slug": "hdk",
+      "domain": "hdk.gu.se",
+      "domains": "hdk.gu.se",
+      "web_page": "http://www.hdk.gu.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Stockholm Institute of Education",
+      "slug": "lhs",
+      "domain": "lhs.se",
+      "domains": "lhs.se",
+      "web_page": "http://www.lhs.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Stockholm School of Economics",
+      "slug": "hhs",
+      "domain": "hhs.se",
+      "domains": "hhs.se",
+      "web_page": "http://www.hhs.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Stockholm University",
+      "slug": "su",
+      "domain": "su.se",
+      "domains": "su.se",
+      "web_page": "http://www.su.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Swedish University of Agricultural Sciences",
+      "slug": "slu",
+      "domain": "slu.se",
+      "domains": "slu.se",
+      "web_page": "http://www.slu.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Södertörn University College",
+      "slug": "sh",
+      "domain": "sh.se",
+      "domains": "sh.se",
+      "web_page": "http://www.sh.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Umea University",
+      "slug": "umu",
+      "domain": "umu.se",
+      "domains": "umu.se",
+      "web_page": "http://www.umu.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "University College of Arts, Crafts and Design",
+      "slug": "konstfack",
+      "domain": "konstfack.se",
+      "domains": "konstfack.se",
+      "web_page": "http://www.konstfack.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "University College of Borås",
+      "slug": "hb",
+      "domain": "hb.se",
+      "domains": "hb.se",
+      "web_page": "http://www.hb.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "University College of Gävle",
+      "slug": "hig",
+      "domain": "hig.se",
+      "domains": "hig.se",
+      "web_page": "http://www.hig.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "University College of Kristianstad",
+      "slug": "hkr",
+      "domain": "hkr.se",
+      "domains": "hkr.se",
+      "web_page": "http://www.hkr.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "University College of Skövde",
+      "slug": "his",
+      "domain": "his.se",
+      "domains": "his.se",
+      "web_page": "http://www.his.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "University College of Trollhättan/Uddevalla",
+      "slug": "htu",
+      "domain": "htu.se",
+      "domains": "htu.se",
+      "web_page": "http://www.htu.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Uppsala University",
+      "slug": "uu",
+      "domain": "uu.se",
+      "domains": "uu.se",
+      "web_page": "http://www.uu.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Växjö University",
+      "slug": "vxu",
+      "domain": "vxu.se",
+      "domains": "vxu.se",
+      "web_page": "http://www.vxu.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "World Maritime University",
+      "slug": "wmu",
+      "domain": "wmu.se",
+      "domains": "wmu.se",
+      "web_page": "http://www.wmu.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    },
+    {
+      "name": "Örebro University",
+      "slug": "oru",
+      "domain": "oru.se",
+      "domains": "oru.se",
+      "web_page": "http://www.oru.se/",
+      "country": "Sweden",
+      "country_code": "SE",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Sweden — Universitet & högskolor (Universities) - Gratis nedladdning",
+    "description": "List of universities and university colleges (högskolor) in Sweden. Each record carries the institution name, primary registered domain, full domain-alias list, primary web page, country, ISO-3166-1 alpha-2 country code, and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Sweden\"). Native Swedish-language names and diacritics (å/ä/ö) preserved verbatim. Innehåller 36 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Sweden — Universitet & högskolor (Universities) | ListBase",
+    "seo_description": "Ladda ner Sweden — Universitet & högskolor (Universities) — 36 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 36 poster / 8 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

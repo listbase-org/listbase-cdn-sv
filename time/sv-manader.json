@@ -1,0 +1,84 @@
+{
+  "id": "sv-manader",
+  "name": "Månader",
+  "title": "Månader",
+  "description": "Årets tolv månader på svenska med månadsnummer.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "number": "1",
+      "name": "januari"
+    },
+    {
+      "number": "2",
+      "name": "februari"
+    },
+    {
+      "number": "3",
+      "name": "mars"
+    },
+    {
+      "number": "4",
+      "name": "april"
+    },
+    {
+      "number": "5",
+      "name": "maj"
+    },
+    {
+      "number": "6",
+      "name": "juni"
+    },
+    {
+      "number": "7",
+      "name": "juli"
+    },
+    {
+      "number": "8",
+      "name": "augusti"
+    },
+    {
+      "number": "9",
+      "name": "september"
+    },
+    {
+      "number": "10",
+      "name": "oktober"
+    },
+    {
+      "number": "11",
+      "name": "november"
+    },
+    {
+      "number": "12",
+      "name": "december"
+    }
+  ],
+  "meta": {
+    "title": "Månader - Gratis nedladdning",
+    "description": "Årets tolv månader på svenska med månadsnummer. Innehåller 12 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Månader | ListBase",
+    "seo_description": "Ladda ner Månader — 12 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 12 poster / 2 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

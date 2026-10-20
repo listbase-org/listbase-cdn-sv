@@ -1,0 +1,3971 @@
+{
+  "id": "sv-malmo-postnummer",
+  "name": "Postnummer i Malmö",
+  "title": "Postnummer i Malmö",
+  "description": "786 postnummer i Malmö stad (kommunkod 1280, länskod 12, residensort MALMÖ). Källa: lukaswass/swedish-municipalities-postal-codes (MIT, 2025-07-07).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 786,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "string"
+    },
+    {
+      "key": "postnummer_compact",
+      "label": "Postnummer Compact",
+      "type": "number"
+    },
+    {
+      "key": "postnummer_3pp",
+      "label": "Postnummer 3pp",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "200 01",
+      "postnummer_compact": "20001",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 02",
+      "postnummer_compact": "20002",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 03",
+      "postnummer_compact": "20003",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 04",
+      "postnummer_compact": "20004",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 05",
+      "postnummer_compact": "20005",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 06",
+      "postnummer_compact": "20006",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 07",
+      "postnummer_compact": "20007",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 10",
+      "postnummer_compact": "20010",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 11",
+      "postnummer_compact": "20011",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 21",
+      "postnummer_compact": "20021",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 22",
+      "postnummer_compact": "20022",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 24",
+      "postnummer_compact": "20024",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 25",
+      "postnummer_compact": "20025",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 31",
+      "postnummer_compact": "20031",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 32",
+      "postnummer_compact": "20032",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 39",
+      "postnummer_compact": "20039",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 40",
+      "postnummer_compact": "20040",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 41",
+      "postnummer_compact": "20041",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 42",
+      "postnummer_compact": "20042",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 43",
+      "postnummer_compact": "20043",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 45",
+      "postnummer_compact": "20045",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 46",
+      "postnummer_compact": "20046",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 49",
+      "postnummer_compact": "20049",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 60",
+      "postnummer_compact": "20060",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 61",
+      "postnummer_compact": "20061",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 62",
+      "postnummer_compact": "20062",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 70",
+      "postnummer_compact": "20070",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 71",
+      "postnummer_compact": "20071",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 72",
+      "postnummer_compact": "20072",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 73",
+      "postnummer_compact": "20073",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "200 74",
+      "postnummer_compact": "20074",
+      "postnummer_3pp": "200"
+    },
+    {
+      "postnummer": "201 10",
+      "postnummer_compact": "20110",
+      "postnummer_3pp": "201"
+    },
+    {
+      "postnummer": "201 20",
+      "postnummer_compact": "20120",
+      "postnummer_3pp": "201"
+    },
+    {
+      "postnummer": "201 21",
+      "postnummer_compact": "20121",
+      "postnummer_3pp": "201"
+    },
+    {
+      "postnummer": "201 22",
+      "postnummer_compact": "20122",
+      "postnummer_3pp": "201"
+    },
+    {
+      "postnummer": "201 23",
+      "postnummer_compact": "20123",
+      "postnummer_3pp": "201"
+    },
+    {
+      "postnummer": "201 24",
+      "postnummer_compact": "20124",
+      "postnummer_3pp": "201"
+    },
+    {
+      "postnummer": "201 25",
+      "postnummer_compact": "20125",
+      "postnummer_3pp": "201"
+    },
+    {
+      "postnummer": "201 26",
+      "postnummer_compact": "20126",
+      "postnummer_3pp": "201"
+    },
+    {
+      "postnummer": "201 80",
+      "postnummer_compact": "20180",
+      "postnummer_3pp": "201"
+    },
+    {
+      "postnummer": "202 10",
+      "postnummer_compact": "20210",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 11",
+      "postnummer_compact": "20211",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 12",
+      "postnummer_compact": "20212",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 13",
+      "postnummer_compact": "20213",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 14",
+      "postnummer_compact": "20214",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 15",
+      "postnummer_compact": "20215",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 19",
+      "postnummer_compact": "20219",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 20",
+      "postnummer_compact": "20220",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 21",
+      "postnummer_compact": "20221",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 22",
+      "postnummer_compact": "20222",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 23",
+      "postnummer_compact": "20223",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 24",
+      "postnummer_compact": "20224",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 25",
+      "postnummer_compact": "20225",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 26",
+      "postnummer_compact": "20226",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 27",
+      "postnummer_compact": "20227",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 28",
+      "postnummer_compact": "20228",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 29",
+      "postnummer_compact": "20229",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 30",
+      "postnummer_compact": "20230",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 40",
+      "postnummer_compact": "20240",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 50",
+      "postnummer_compact": "20250",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 60",
+      "postnummer_compact": "20260",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 70",
+      "postnummer_compact": "20270",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 71",
+      "postnummer_compact": "20271",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "202 80",
+      "postnummer_compact": "20280",
+      "postnummer_3pp": "202"
+    },
+    {
+      "postnummer": "203 10",
+      "postnummer_compact": "20310",
+      "postnummer_3pp": "203"
+    },
+    {
+      "postnummer": "203 11",
+      "postnummer_compact": "20311",
+      "postnummer_3pp": "203"
+    },
+    {
+      "postnummer": "203 12",
+      "postnummer_compact": "20312",
+      "postnummer_3pp": "203"
+    },
+    {
+      "postnummer": "203 13",
+      "postnummer_compact": "20313",
+      "postnummer_3pp": "203"
+    },
+    {
+      "postnummer": "203 14",
+      "postnummer_compact": "20314",
+      "postnummer_3pp": "203"
+    },
+    {
+      "postnummer": "203 15",
+      "postnummer_compact": "20315",
+      "postnummer_3pp": "203"
+    },
+    {
+      "postnummer": "203 20",
+      "postnummer_compact": "20320",
+      "postnummer_3pp": "203"
+    },
+    {
+      "postnummer": "205 01",
+      "postnummer_compact": "20501",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 02",
+      "postnummer_compact": "20502",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 03",
+      "postnummer_compact": "20503",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 04",
+      "postnummer_compact": "20504",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 05",
+      "postnummer_compact": "20505",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 06",
+      "postnummer_compact": "20506",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 07",
+      "postnummer_compact": "20507",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 08",
+      "postnummer_compact": "20508",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 09",
+      "postnummer_compact": "20509",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 10",
+      "postnummer_compact": "20510",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 11",
+      "postnummer_compact": "20511",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 12",
+      "postnummer_compact": "20512",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 13",
+      "postnummer_compact": "20513",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 14",
+      "postnummer_compact": "20514",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 15",
+      "postnummer_compact": "20515",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 16",
+      "postnummer_compact": "20516",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 17",
+      "postnummer_compact": "20517",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 18",
+      "postnummer_compact": "20518",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 19",
+      "postnummer_compact": "20519",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 20",
+      "postnummer_compact": "20520",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 21",
+      "postnummer_compact": "20521",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 22",
+      "postnummer_compact": "20522",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 23",
+      "postnummer_compact": "20523",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 25",
+      "postnummer_compact": "20525",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 26",
+      "postnummer_compact": "20526",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 28",
+      "postnummer_compact": "20528",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 29",
+      "postnummer_compact": "20529",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 30",
+      "postnummer_compact": "20530",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 31",
+      "postnummer_compact": "20531",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 33",
+      "postnummer_compact": "20533",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 35",
+      "postnummer_compact": "20535",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 36",
+      "postnummer_compact": "20536",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 37",
+      "postnummer_compact": "20537",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 38",
+      "postnummer_compact": "20538",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 39",
+      "postnummer_compact": "20539",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 40",
+      "postnummer_compact": "20540",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 41",
+      "postnummer_compact": "20541",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 42",
+      "postnummer_compact": "20542",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 43",
+      "postnummer_compact": "20543",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 44",
+      "postnummer_compact": "20544",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 45",
+      "postnummer_compact": "20545",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 47",
+      "postnummer_compact": "20547",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 50",
+      "postnummer_compact": "20550",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 52",
+      "postnummer_compact": "20552",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 55",
+      "postnummer_compact": "20555",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 56",
+      "postnummer_compact": "20556",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 57",
+      "postnummer_compact": "20557",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 58",
+      "postnummer_compact": "20558",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 59",
+      "postnummer_compact": "20559",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 60",
+      "postnummer_compact": "20560",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 65",
+      "postnummer_compact": "20565",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 70",
+      "postnummer_compact": "20570",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 74",
+      "postnummer_compact": "20574",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 75",
+      "postnummer_compact": "20575",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 76",
+      "postnummer_compact": "20576",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 77",
+      "postnummer_compact": "20577",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 78",
+      "postnummer_compact": "20578",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 79",
+      "postnummer_compact": "20579",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 80",
+      "postnummer_compact": "20580",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 81",
+      "postnummer_compact": "20581",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 85",
+      "postnummer_compact": "20585",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 90",
+      "postnummer_compact": "20590",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "205 95",
+      "postnummer_compact": "20595",
+      "postnummer_3pp": "205"
+    },
+    {
+      "postnummer": "207 01",
+      "postnummer_compact": "20701",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 02",
+      "postnummer_compact": "20702",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 03",
+      "postnummer_compact": "20703",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 04",
+      "postnummer_compact": "20704",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 05",
+      "postnummer_compact": "20705",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 06",
+      "postnummer_compact": "20706",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 07",
+      "postnummer_compact": "20707",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 08",
+      "postnummer_compact": "20708",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 09",
+      "postnummer_compact": "20709",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 10",
+      "postnummer_compact": "20710",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 11",
+      "postnummer_compact": "20711",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 12",
+      "postnummer_compact": "20712",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 13",
+      "postnummer_compact": "20713",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 14",
+      "postnummer_compact": "20714",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 15",
+      "postnummer_compact": "20715",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 16",
+      "postnummer_compact": "20716",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 17",
+      "postnummer_compact": "20717",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 18",
+      "postnummer_compact": "20718",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 19",
+      "postnummer_compact": "20719",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 20",
+      "postnummer_compact": "20720",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 21",
+      "postnummer_compact": "20721",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 22",
+      "postnummer_compact": "20722",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 23",
+      "postnummer_compact": "20723",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 24",
+      "postnummer_compact": "20724",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 25",
+      "postnummer_compact": "20725",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 26",
+      "postnummer_compact": "20726",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 27",
+      "postnummer_compact": "20727",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 28",
+      "postnummer_compact": "20728",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 91",
+      "postnummer_compact": "20791",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 92",
+      "postnummer_compact": "20792",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 94",
+      "postnummer_compact": "20794",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 95",
+      "postnummer_compact": "20795",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 97",
+      "postnummer_compact": "20797",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 98",
+      "postnummer_compact": "20798",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "207 99",
+      "postnummer_compact": "20799",
+      "postnummer_3pp": "207"
+    },
+    {
+      "postnummer": "208 00",
+      "postnummer_compact": "20800",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 01",
+      "postnummer_compact": "20801",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 02",
+      "postnummer_compact": "20802",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 03",
+      "postnummer_compact": "20803",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 04",
+      "postnummer_compact": "20804",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 05",
+      "postnummer_compact": "20805",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 06",
+      "postnummer_compact": "20806",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 07",
+      "postnummer_compact": "20807",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 08",
+      "postnummer_compact": "20808",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 09",
+      "postnummer_compact": "20809",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 10",
+      "postnummer_compact": "20810",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 11",
+      "postnummer_compact": "20811",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 12",
+      "postnummer_compact": "20812",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 13",
+      "postnummer_compact": "20813",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 14",
+      "postnummer_compact": "20814",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 15",
+      "postnummer_compact": "20815",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 16",
+      "postnummer_compact": "20816",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 17",
+      "postnummer_compact": "20817",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 18",
+      "postnummer_compact": "20818",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 19",
+      "postnummer_compact": "20819",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 20",
+      "postnummer_compact": "20820",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 21",
+      "postnummer_compact": "20821",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 22",
+      "postnummer_compact": "20822",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 23",
+      "postnummer_compact": "20823",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 24",
+      "postnummer_compact": "20824",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 25",
+      "postnummer_compact": "20825",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 26",
+      "postnummer_compact": "20826",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 27",
+      "postnummer_compact": "20827",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 28",
+      "postnummer_compact": "20828",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 29",
+      "postnummer_compact": "20829",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 30",
+      "postnummer_compact": "20830",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 31",
+      "postnummer_compact": "20831",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 32",
+      "postnummer_compact": "20832",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 33",
+      "postnummer_compact": "20833",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 34",
+      "postnummer_compact": "20834",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 35",
+      "postnummer_compact": "20835",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 36",
+      "postnummer_compact": "20836",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 37",
+      "postnummer_compact": "20837",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 38",
+      "postnummer_compact": "20838",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 39",
+      "postnummer_compact": "20839",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 40",
+      "postnummer_compact": "20840",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 41",
+      "postnummer_compact": "20841",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 42",
+      "postnummer_compact": "20842",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 43",
+      "postnummer_compact": "20843",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 44",
+      "postnummer_compact": "20844",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 45",
+      "postnummer_compact": "20845",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 46",
+      "postnummer_compact": "20846",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 47",
+      "postnummer_compact": "20847",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 48",
+      "postnummer_compact": "20848",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 49",
+      "postnummer_compact": "20849",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 50",
+      "postnummer_compact": "20850",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 51",
+      "postnummer_compact": "20851",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 52",
+      "postnummer_compact": "20852",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 53",
+      "postnummer_compact": "20853",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 54",
+      "postnummer_compact": "20854",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 55",
+      "postnummer_compact": "20855",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 56",
+      "postnummer_compact": "20856",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 57",
+      "postnummer_compact": "20857",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 58",
+      "postnummer_compact": "20858",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 59",
+      "postnummer_compact": "20859",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 60",
+      "postnummer_compact": "20860",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 61",
+      "postnummer_compact": "20861",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 62",
+      "postnummer_compact": "20862",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 63",
+      "postnummer_compact": "20863",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 64",
+      "postnummer_compact": "20864",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 65",
+      "postnummer_compact": "20865",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 66",
+      "postnummer_compact": "20866",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 67",
+      "postnummer_compact": "20867",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 68",
+      "postnummer_compact": "20868",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 69",
+      "postnummer_compact": "20869",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 70",
+      "postnummer_compact": "20870",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 71",
+      "postnummer_compact": "20871",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 72",
+      "postnummer_compact": "20872",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 73",
+      "postnummer_compact": "20873",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 74",
+      "postnummer_compact": "20874",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 75",
+      "postnummer_compact": "20875",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 76",
+      "postnummer_compact": "20876",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 77",
+      "postnummer_compact": "20877",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 78",
+      "postnummer_compact": "20878",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 79",
+      "postnummer_compact": "20879",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 80",
+      "postnummer_compact": "20880",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 81",
+      "postnummer_compact": "20881",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 82",
+      "postnummer_compact": "20882",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 83",
+      "postnummer_compact": "20883",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 84",
+      "postnummer_compact": "20884",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 85",
+      "postnummer_compact": "20885",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 86",
+      "postnummer_compact": "20886",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 87",
+      "postnummer_compact": "20887",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 88",
+      "postnummer_compact": "20888",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 89",
+      "postnummer_compact": "20889",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 90",
+      "postnummer_compact": "20890",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 91",
+      "postnummer_compact": "20891",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 92",
+      "postnummer_compact": "20892",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 93",
+      "postnummer_compact": "20893",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 94",
+      "postnummer_compact": "20894",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 95",
+      "postnummer_compact": "20895",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 96",
+      "postnummer_compact": "20896",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 97",
+      "postnummer_compact": "20897",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 98",
+      "postnummer_compact": "20898",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "208 99",
+      "postnummer_compact": "20899",
+      "postnummer_3pp": "208"
+    },
+    {
+      "postnummer": "209 00",
+      "postnummer_compact": "20900",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 01",
+      "postnummer_compact": "20901",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 02",
+      "postnummer_compact": "20902",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 03",
+      "postnummer_compact": "20903",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 04",
+      "postnummer_compact": "20904",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 05",
+      "postnummer_compact": "20905",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 06",
+      "postnummer_compact": "20906",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 07",
+      "postnummer_compact": "20907",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 08",
+      "postnummer_compact": "20908",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 09",
+      "postnummer_compact": "20909",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 10",
+      "postnummer_compact": "20910",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 11",
+      "postnummer_compact": "20911",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 12",
+      "postnummer_compact": "20912",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 13",
+      "postnummer_compact": "20913",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 14",
+      "postnummer_compact": "20914",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 15",
+      "postnummer_compact": "20915",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 16",
+      "postnummer_compact": "20916",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 17",
+      "postnummer_compact": "20917",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 18",
+      "postnummer_compact": "20918",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 19",
+      "postnummer_compact": "20919",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 20",
+      "postnummer_compact": "20920",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 21",
+      "postnummer_compact": "20921",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 22",
+      "postnummer_compact": "20922",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 23",
+      "postnummer_compact": "20923",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 24",
+      "postnummer_compact": "20924",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 25",
+      "postnummer_compact": "20925",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 26",
+      "postnummer_compact": "20926",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 27",
+      "postnummer_compact": "20927",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 28",
+      "postnummer_compact": "20928",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 29",
+      "postnummer_compact": "20929",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 30",
+      "postnummer_compact": "20930",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 31",
+      "postnummer_compact": "20931",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 32",
+      "postnummer_compact": "20932",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 33",
+      "postnummer_compact": "20933",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 34",
+      "postnummer_compact": "20934",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 35",
+      "postnummer_compact": "20935",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 36",
+      "postnummer_compact": "20936",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 37",
+      "postnummer_compact": "20937",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 38",
+      "postnummer_compact": "20938",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 39",
+      "postnummer_compact": "20939",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 40",
+      "postnummer_compact": "20940",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 41",
+      "postnummer_compact": "20941",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 42",
+      "postnummer_compact": "20942",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 43",
+      "postnummer_compact": "20943",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 44",
+      "postnummer_compact": "20944",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 45",
+      "postnummer_compact": "20945",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 46",
+      "postnummer_compact": "20946",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 47",
+      "postnummer_compact": "20947",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 48",
+      "postnummer_compact": "20948",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 49",
+      "postnummer_compact": "20949",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 50",
+      "postnummer_compact": "20950",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 51",
+      "postnummer_compact": "20951",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 52",
+      "postnummer_compact": "20952",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 53",
+      "postnummer_compact": "20953",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 54",
+      "postnummer_compact": "20954",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 55",
+      "postnummer_compact": "20955",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 56",
+      "postnummer_compact": "20956",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 57",
+      "postnummer_compact": "20957",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 58",
+      "postnummer_compact": "20958",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 59",
+      "postnummer_compact": "20959",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 60",
+      "postnummer_compact": "20960",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 61",
+      "postnummer_compact": "20961",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 62",
+      "postnummer_compact": "20962",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 63",
+      "postnummer_compact": "20963",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 64",
+      "postnummer_compact": "20964",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 65",
+      "postnummer_compact": "20965",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 66",
+      "postnummer_compact": "20966",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 67",
+      "postnummer_compact": "20967",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 68",
+      "postnummer_compact": "20968",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 69",
+      "postnummer_compact": "20969",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 70",
+      "postnummer_compact": "20970",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 71",
+      "postnummer_compact": "20971",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 72",
+      "postnummer_compact": "20972",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 73",
+      "postnummer_compact": "20973",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 74",
+      "postnummer_compact": "20974",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 75",
+      "postnummer_compact": "20975",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 76",
+      "postnummer_compact": "20976",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 77",
+      "postnummer_compact": "20977",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 78",
+      "postnummer_compact": "20978",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 79",
+      "postnummer_compact": "20979",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 80",
+      "postnummer_compact": "20980",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 81",
+      "postnummer_compact": "20981",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 82",
+      "postnummer_compact": "20982",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 83",
+      "postnummer_compact": "20983",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 84",
+      "postnummer_compact": "20984",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 85",
+      "postnummer_compact": "20985",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 86",
+      "postnummer_compact": "20986",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 87",
+      "postnummer_compact": "20987",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 88",
+      "postnummer_compact": "20988",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 89",
+      "postnummer_compact": "20989",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 90",
+      "postnummer_compact": "20990",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 91",
+      "postnummer_compact": "20991",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 92",
+      "postnummer_compact": "20992",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 93",
+      "postnummer_compact": "20993",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 94",
+      "postnummer_compact": "20994",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 95",
+      "postnummer_compact": "20995",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 96",
+      "postnummer_compact": "20996",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 97",
+      "postnummer_compact": "20997",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 98",
+      "postnummer_compact": "20998",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "209 99",
+      "postnummer_compact": "20999",
+      "postnummer_3pp": "209"
+    },
+    {
+      "postnummer": "211 00",
+      "postnummer_compact": "21100",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 01",
+      "postnummer_compact": "21101",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 03",
+      "postnummer_compact": "21103",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 05",
+      "postnummer_compact": "21105",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 10",
+      "postnummer_compact": "21110",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 11",
+      "postnummer_compact": "21111",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 12",
+      "postnummer_compact": "21112",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 13",
+      "postnummer_compact": "21113",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 14",
+      "postnummer_compact": "21114",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 15",
+      "postnummer_compact": "21115",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 16",
+      "postnummer_compact": "21116",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 17",
+      "postnummer_compact": "21117",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 18",
+      "postnummer_compact": "21118",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 19",
+      "postnummer_compact": "21119",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 20",
+      "postnummer_compact": "21120",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 21",
+      "postnummer_compact": "21121",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 22",
+      "postnummer_compact": "21122",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 24",
+      "postnummer_compact": "21124",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 25",
+      "postnummer_compact": "21125",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 26",
+      "postnummer_compact": "21126",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 27",
+      "postnummer_compact": "21127",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 28",
+      "postnummer_compact": "21128",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 29",
+      "postnummer_compact": "21129",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 30",
+      "postnummer_compact": "21130",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 31",
+      "postnummer_compact": "21131",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 32",
+      "postnummer_compact": "21132",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 33",
+      "postnummer_compact": "21133",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 34",
+      "postnummer_compact": "21134",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 35",
+      "postnummer_compact": "21135",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 36",
+      "postnummer_compact": "21136",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 37",
+      "postnummer_compact": "21137",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 38",
+      "postnummer_compact": "21138",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 39",
+      "postnummer_compact": "21139",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 40",
+      "postnummer_compact": "21140",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 41",
+      "postnummer_compact": "21141",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 42",
+      "postnummer_compact": "21142",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 43",
+      "postnummer_compact": "21143",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 44",
+      "postnummer_compact": "21144",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 45",
+      "postnummer_compact": "21145",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 46",
+      "postnummer_compact": "21146",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 47",
+      "postnummer_compact": "21147",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 48",
+      "postnummer_compact": "21148",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 49",
+      "postnummer_compact": "21149",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 50",
+      "postnummer_compact": "21150",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 51",
+      "postnummer_compact": "21151",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 52",
+      "postnummer_compact": "21152",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 53",
+      "postnummer_compact": "21153",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 54",
+      "postnummer_compact": "21154",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 55",
+      "postnummer_compact": "21155",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 56",
+      "postnummer_compact": "21156",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 57",
+      "postnummer_compact": "21157",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 58",
+      "postnummer_compact": "21158",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 59",
+      "postnummer_compact": "21159",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 60",
+      "postnummer_compact": "21160",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 65",
+      "postnummer_compact": "21165",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 71",
+      "postnummer_compact": "21171",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 73",
+      "postnummer_compact": "21173",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 74",
+      "postnummer_compact": "21174",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 75",
+      "postnummer_compact": "21175",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 76",
+      "postnummer_compact": "21176",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "211 77",
+      "postnummer_compact": "21177",
+      "postnummer_3pp": "211"
+    },
+    {
+      "postnummer": "212 00",
+      "postnummer_compact": "21200",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 01",
+      "postnummer_compact": "21201",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 02",
+      "postnummer_compact": "21202",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 06",
+      "postnummer_compact": "21206",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 07",
+      "postnummer_compact": "21207",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 08",
+      "postnummer_compact": "21208",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 09",
+      "postnummer_compact": "21209",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 10",
+      "postnummer_compact": "21210",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 11",
+      "postnummer_compact": "21211",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 12",
+      "postnummer_compact": "21212",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 13",
+      "postnummer_compact": "21213",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 14",
+      "postnummer_compact": "21214",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 15",
+      "postnummer_compact": "21215",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 16",
+      "postnummer_compact": "21216",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 17",
+      "postnummer_compact": "21217",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 18",
+      "postnummer_compact": "21218",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 19",
+      "postnummer_compact": "21219",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 20",
+      "postnummer_compact": "21220",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 21",
+      "postnummer_compact": "21221",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 22",
+      "postnummer_compact": "21222",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 23",
+      "postnummer_compact": "21223",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 24",
+      "postnummer_compact": "21224",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 25",
+      "postnummer_compact": "21225",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 26",
+      "postnummer_compact": "21226",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 27",
+      "postnummer_compact": "21227",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 28",
+      "postnummer_compact": "21228",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 29",
+      "postnummer_compact": "21229",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 30",
+      "postnummer_compact": "21230",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 31",
+      "postnummer_compact": "21231",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 32",
+      "postnummer_compact": "21232",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 33",
+      "postnummer_compact": "21233",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 34",
+      "postnummer_compact": "21234",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 35",
+      "postnummer_compact": "21235",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 36",
+      "postnummer_compact": "21236",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 37",
+      "postnummer_compact": "21237",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 38",
+      "postnummer_compact": "21238",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 39",
+      "postnummer_compact": "21239",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 40",
+      "postnummer_compact": "21240",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 41",
+      "postnummer_compact": "21241",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 42",
+      "postnummer_compact": "21242",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 43",
+      "postnummer_compact": "21243",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 44",
+      "postnummer_compact": "21244",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 45",
+      "postnummer_compact": "21245",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 46",
+      "postnummer_compact": "21246",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 50",
+      "postnummer_compact": "21250",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 51",
+      "postnummer_compact": "21251",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 52",
+      "postnummer_compact": "21252",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 60",
+      "postnummer_compact": "21260",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "212 91",
+      "postnummer_compact": "21291",
+      "postnummer_3pp": "212"
+    },
+    {
+      "postnummer": "213 00",
+      "postnummer_compact": "21300",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 61",
+      "postnummer_compact": "21361",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 62",
+      "postnummer_compact": "21362",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 63",
+      "postnummer_compact": "21363",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 64",
+      "postnummer_compact": "21364",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 65",
+      "postnummer_compact": "21365",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 66",
+      "postnummer_compact": "21366",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 67",
+      "postnummer_compact": "21367",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 68",
+      "postnummer_compact": "21368",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 69",
+      "postnummer_compact": "21369",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 70",
+      "postnummer_compact": "21370",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 71",
+      "postnummer_compact": "21371",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 72",
+      "postnummer_compact": "21372",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 73",
+      "postnummer_compact": "21373",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 74",
+      "postnummer_compact": "21374",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 75",
+      "postnummer_compact": "21375",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 76",
+      "postnummer_compact": "21376",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "213 77",
+      "postnummer_compact": "21377",
+      "postnummer_3pp": "213"
+    },
+    {
+      "postnummer": "214 00",
+      "postnummer_compact": "21400",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 02",
+      "postnummer_compact": "21402",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 04",
+      "postnummer_compact": "21404",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 10",
+      "postnummer_compact": "21410",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 11",
+      "postnummer_compact": "21411",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 12",
+      "postnummer_compact": "21412",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 13",
+      "postnummer_compact": "21413",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 20",
+      "postnummer_compact": "21420",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 21",
+      "postnummer_compact": "21421",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 22",
+      "postnummer_compact": "21422",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 23",
+      "postnummer_compact": "21423",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 24",
+      "postnummer_compact": "21424",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 25",
+      "postnummer_compact": "21425",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 26",
+      "postnummer_compact": "21426",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 27",
+      "postnummer_compact": "21427",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 28",
+      "postnummer_compact": "21428",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 29",
+      "postnummer_compact": "21429",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 30",
+      "postnummer_compact": "21430",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 31",
+      "postnummer_compact": "21431",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 32",
+      "postnummer_compact": "21432",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 33",
+      "postnummer_compact": "21433",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 34",
+      "postnummer_compact": "21434",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 35",
+      "postnummer_compact": "21435",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 36",
+      "postnummer_compact": "21436",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 37",
+      "postnummer_compact": "21437",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 38",
+      "postnummer_compact": "21438",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 39",
+      "postnummer_compact": "21439",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 40",
+      "postnummer_compact": "21440",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 41",
+      "postnummer_compact": "21441",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 42",
+      "postnummer_compact": "21442",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 43",
+      "postnummer_compact": "21443",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 44",
+      "postnummer_compact": "21444",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 45",
+      "postnummer_compact": "21445",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 46",
+      "postnummer_compact": "21446",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 47",
+      "postnummer_compact": "21447",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 48",
+      "postnummer_compact": "21448",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 49",
+      "postnummer_compact": "21449",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 50",
+      "postnummer_compact": "21450",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 54",
+      "postnummer_compact": "21454",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 55",
+      "postnummer_compact": "21455",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 56",
+      "postnummer_compact": "21456",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 57",
+      "postnummer_compact": "21457",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 58",
+      "postnummer_compact": "21458",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 59",
+      "postnummer_compact": "21459",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 63",
+      "postnummer_compact": "21463",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 66",
+      "postnummer_compact": "21466",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "214 67",
+      "postnummer_compact": "21467",
+      "postnummer_3pp": "214"
+    },
+    {
+      "postnummer": "215 00",
+      "postnummer_compact": "21500",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 10",
+      "postnummer_compact": "21510",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 26",
+      "postnummer_compact": "21526",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 27",
+      "postnummer_compact": "21527",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 32",
+      "postnummer_compact": "21532",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 33",
+      "postnummer_compact": "21533",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 34",
+      "postnummer_compact": "21534",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 35",
+      "postnummer_compact": "21535",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 36",
+      "postnummer_compact": "21536",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 37",
+      "postnummer_compact": "21537",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 50",
+      "postnummer_compact": "21550",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 51",
+      "postnummer_compact": "21551",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 52",
+      "postnummer_compact": "21552",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 53",
+      "postnummer_compact": "21553",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 58",
+      "postnummer_compact": "21558",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 59",
+      "postnummer_compact": "21559",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 60",
+      "postnummer_compact": "21560",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 61",
+      "postnummer_compact": "21561",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 62",
+      "postnummer_compact": "21562",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 63",
+      "postnummer_compact": "21563",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 64",
+      "postnummer_compact": "21564",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 65",
+      "postnummer_compact": "21565",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 66",
+      "postnummer_compact": "21566",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 67",
+      "postnummer_compact": "21567",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 68",
+      "postnummer_compact": "21568",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 69",
+      "postnummer_compact": "21569",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 70",
+      "postnummer_compact": "21570",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 71",
+      "postnummer_compact": "21571",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 72",
+      "postnummer_compact": "21572",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 73",
+      "postnummer_compact": "21573",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 74",
+      "postnummer_compact": "21574",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 78",
+      "postnummer_compact": "21578",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 79",
+      "postnummer_compact": "21579",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 80",
+      "postnummer_compact": "21580",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 81",
+      "postnummer_compact": "21581",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 82",
+      "postnummer_compact": "21582",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 83",
+      "postnummer_compact": "21583",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 84",
+      "postnummer_compact": "21584",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 85",
+      "postnummer_compact": "21585",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "215 86",
+      "postnummer_compact": "21586",
+      "postnummer_3pp": "215"
+    },
+    {
+      "postnummer": "216 00",
+      "postnummer_compact": "21600",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 08",
+      "postnummer_compact": "21608",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 09",
+      "postnummer_compact": "21609",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 10",
+      "postnummer_compact": "21610",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 11",
+      "postnummer_compact": "21611",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 12",
+      "postnummer_compact": "21612",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 13",
+      "postnummer_compact": "21613",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 14",
+      "postnummer_compact": "21614",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 15",
+      "postnummer_compact": "21615",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 16",
+      "postnummer_compact": "21616",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 17",
+      "postnummer_compact": "21617",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 18",
+      "postnummer_compact": "21618",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 19",
+      "postnummer_compact": "21619",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 20",
+      "postnummer_compact": "21620",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 21",
+      "postnummer_compact": "21621",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 22",
+      "postnummer_compact": "21622",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 23",
+      "postnummer_compact": "21623",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 24",
+      "postnummer_compact": "21624",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 25",
+      "postnummer_compact": "21625",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 30",
+      "postnummer_compact": "21630",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 31",
+      "postnummer_compact": "21631",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 32",
+      "postnummer_compact": "21632",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 33",
+      "postnummer_compact": "21633",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 41",
+      "postnummer_compact": "21641",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 42",
+      "postnummer_compact": "21642",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 43",
+      "postnummer_compact": "21643",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 44",
+      "postnummer_compact": "21644",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 45",
+      "postnummer_compact": "21645",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 46",
+      "postnummer_compact": "21646",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 47",
+      "postnummer_compact": "21647",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 48",
+      "postnummer_compact": "21648",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "216 49",
+      "postnummer_compact": "21649",
+      "postnummer_3pp": "216"
+    },
+    {
+      "postnummer": "217 00",
+      "postnummer_compact": "21700",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 01",
+      "postnummer_compact": "21701",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 41",
+      "postnummer_compact": "21741",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 42",
+      "postnummer_compact": "21742",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 43",
+      "postnummer_compact": "21743",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 44",
+      "postnummer_compact": "21744",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 45",
+      "postnummer_compact": "21745",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 46",
+      "postnummer_compact": "21746",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 47",
+      "postnummer_compact": "21747",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 48",
+      "postnummer_compact": "21748",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 49",
+      "postnummer_compact": "21749",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 51",
+      "postnummer_compact": "21751",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 52",
+      "postnummer_compact": "21752",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 53",
+      "postnummer_compact": "21753",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 54",
+      "postnummer_compact": "21754",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 55",
+      "postnummer_compact": "21755",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 56",
+      "postnummer_compact": "21756",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 57",
+      "postnummer_compact": "21757",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 58",
+      "postnummer_compact": "21758",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 59",
+      "postnummer_compact": "21759",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 61",
+      "postnummer_compact": "21761",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 62",
+      "postnummer_compact": "21762",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 63",
+      "postnummer_compact": "21763",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 64",
+      "postnummer_compact": "21764",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 65",
+      "postnummer_compact": "21765",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 66",
+      "postnummer_compact": "21766",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 67",
+      "postnummer_compact": "21767",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 71",
+      "postnummer_compact": "21771",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 72",
+      "postnummer_compact": "21772",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 73",
+      "postnummer_compact": "21773",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 74",
+      "postnummer_compact": "21774",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "217 75",
+      "postnummer_compact": "21775",
+      "postnummer_3pp": "217"
+    },
+    {
+      "postnummer": "218 00",
+      "postnummer_compact": "21800",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 20",
+      "postnummer_compact": "21820",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 21",
+      "postnummer_compact": "21821",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 24",
+      "postnummer_compact": "21824",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 31",
+      "postnummer_compact": "21831",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 32",
+      "postnummer_compact": "21832",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 33",
+      "postnummer_compact": "21833",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 34",
+      "postnummer_compact": "21834",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 36",
+      "postnummer_compact": "21836",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 37",
+      "postnummer_compact": "21837",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 38",
+      "postnummer_compact": "21838",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 39",
+      "postnummer_compact": "21839",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 40",
+      "postnummer_compact": "21840",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 41",
+      "postnummer_compact": "21841",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 42",
+      "postnummer_compact": "21842",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 44",
+      "postnummer_compact": "21844",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 45",
+      "postnummer_compact": "21845",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 46",
+      "postnummer_compact": "21846",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 47",
+      "postnummer_compact": "21847",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 51",
+      "postnummer_compact": "21851",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 52",
+      "postnummer_compact": "21852",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 53",
+      "postnummer_compact": "21853",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 54",
+      "postnummer_compact": "21854",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 55",
+      "postnummer_compact": "21855",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 71",
+      "postnummer_compact": "21871",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 72",
+      "postnummer_compact": "21872",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 73",
+      "postnummer_compact": "21873",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 74",
+      "postnummer_compact": "21874",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "218 75",
+      "postnummer_compact": "21875",
+      "postnummer_3pp": "218"
+    },
+    {
+      "postnummer": "230 40",
+      "postnummer_compact": "23040",
+      "postnummer_3pp": "230"
+    },
+    {
+      "postnummer": "230 42",
+      "postnummer_compact": "23042",
+      "postnummer_3pp": "230"
+    },
+    {
+      "postnummer": "230 43",
+      "postnummer_compact": "23043",
+      "postnummer_3pp": "230"
+    },
+    {
+      "postnummer": "230 44",
+      "postnummer_compact": "23044",
+      "postnummer_3pp": "230"
+    },
+    {
+      "postnummer": "233 01",
+      "postnummer_compact": "23301",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 02",
+      "postnummer_compact": "23302",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 20",
+      "postnummer_compact": "23320",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 21",
+      "postnummer_compact": "23321",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 22",
+      "postnummer_compact": "23322",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 23",
+      "postnummer_compact": "23323",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 24",
+      "postnummer_compact": "23324",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 25",
+      "postnummer_compact": "23325",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 26",
+      "postnummer_compact": "23326",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 31",
+      "postnummer_compact": "23331",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 32",
+      "postnummer_compact": "23332",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 33",
+      "postnummer_compact": "23333",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 34",
+      "postnummer_compact": "23334",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 35",
+      "postnummer_compact": "23335",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 36",
+      "postnummer_compact": "23336",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 37",
+      "postnummer_compact": "23337",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 38",
+      "postnummer_compact": "23338",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 39",
+      "postnummer_compact": "23339",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 41",
+      "postnummer_compact": "23341",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 42",
+      "postnummer_compact": "23342",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 43",
+      "postnummer_compact": "23343",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 44",
+      "postnummer_compact": "23344",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 51",
+      "postnummer_compact": "23351",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 61",
+      "postnummer_compact": "23361",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 62",
+      "postnummer_compact": "23362",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 63",
+      "postnummer_compact": "23363",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 64",
+      "postnummer_compact": "23364",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 65",
+      "postnummer_compact": "23365",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 80",
+      "postnummer_compact": "23380",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 81",
+      "postnummer_compact": "23381",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 91",
+      "postnummer_compact": "23391",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 92",
+      "postnummer_compact": "23392",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 93",
+      "postnummer_compact": "23393",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "233 94",
+      "postnummer_compact": "23394",
+      "postnummer_3pp": "233"
+    },
+    {
+      "postnummer": "235 01",
+      "postnummer_compact": "23501",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 20",
+      "postnummer_compact": "23520",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 21",
+      "postnummer_compact": "23521",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 22",
+      "postnummer_compact": "23522",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 25",
+      "postnummer_compact": "23525",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 31",
+      "postnummer_compact": "23531",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 32",
+      "postnummer_compact": "23532",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 33",
+      "postnummer_compact": "23533",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 34",
+      "postnummer_compact": "23534",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 35",
+      "postnummer_compact": "23535",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 36",
+      "postnummer_compact": "23536",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 37",
+      "postnummer_compact": "23537",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 38",
+      "postnummer_compact": "23538",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 39",
+      "postnummer_compact": "23539",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 41",
+      "postnummer_compact": "23541",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 42",
+      "postnummer_compact": "23542",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 43",
+      "postnummer_compact": "23543",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 81",
+      "postnummer_compact": "23581",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 82",
+      "postnummer_compact": "23582",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 83",
+      "postnummer_compact": "23583",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 91",
+      "postnummer_compact": "23591",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 92",
+      "postnummer_compact": "23592",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 93",
+      "postnummer_compact": "23593",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 94",
+      "postnummer_compact": "23594",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "235 99",
+      "postnummer_compact": "23599",
+      "postnummer_3pp": "235"
+    },
+    {
+      "postnummer": "238 01",
+      "postnummer_compact": "23801",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 20",
+      "postnummer_compact": "23820",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 21",
+      "postnummer_compact": "23821",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 22",
+      "postnummer_compact": "23822",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 23",
+      "postnummer_compact": "23823",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 30",
+      "postnummer_compact": "23830",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 31",
+      "postnummer_compact": "23831",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 32",
+      "postnummer_compact": "23832",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 33",
+      "postnummer_compact": "23833",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 34",
+      "postnummer_compact": "23834",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 35",
+      "postnummer_compact": "23835",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 36",
+      "postnummer_compact": "23836",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 37",
+      "postnummer_compact": "23837",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 38",
+      "postnummer_compact": "23838",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 39",
+      "postnummer_compact": "23839",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 40",
+      "postnummer_compact": "23840",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 41",
+      "postnummer_compact": "23841",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 42",
+      "postnummer_compact": "23842",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "238 43",
+      "postnummer_compact": "23843",
+      "postnummer_3pp": "238"
+    },
+    {
+      "postnummer": "245 01",
+      "postnummer_compact": "24501",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 18",
+      "postnummer_compact": "24518",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 20",
+      "postnummer_compact": "24520",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 21",
+      "postnummer_compact": "24521",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 22",
+      "postnummer_compact": "24522",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 23",
+      "postnummer_compact": "24523",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 24",
+      "postnummer_compact": "24524",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 25",
+      "postnummer_compact": "24525",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 30",
+      "postnummer_compact": "24530",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 31",
+      "postnummer_compact": "24531",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 32",
+      "postnummer_compact": "24532",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 33",
+      "postnummer_compact": "24533",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 34",
+      "postnummer_compact": "24534",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 35",
+      "postnummer_compact": "24535",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 37",
+      "postnummer_compact": "24537",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 38",
+      "postnummer_compact": "24538",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 41",
+      "postnummer_compact": "24541",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 42",
+      "postnummer_compact": "24542",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 43",
+      "postnummer_compact": "24543",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 44",
+      "postnummer_compact": "24544",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 45",
+      "postnummer_compact": "24545",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 46",
+      "postnummer_compact": "24546",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 61",
+      "postnummer_compact": "24561",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 80",
+      "postnummer_compact": "24580",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 91",
+      "postnummer_compact": "24591",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 92",
+      "postnummer_compact": "24592",
+      "postnummer_3pp": "245"
+    },
+    {
+      "postnummer": "245 93",
+      "postnummer_compact": "24593",
+      "postnummer_3pp": "245"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Malmö - Gratis nedladdning",
+    "description": "786 postnummer i Malmö stad (kommunkod 1280, länskod 12, residensort MALMÖ). Källa: lukaswass/swedish-municipalities-postal-codes (MIT, 2025-07-07). Innehåller 786 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Malmö | ListBase",
+    "seo_description": "Ladda ner Postnummer i Malmö — 786 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 786 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

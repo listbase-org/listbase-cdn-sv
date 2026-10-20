@@ -1,0 +1,170 @@
+{
+  "id": "sv-nojesparker",
+  "name": "Nöjesparker i Sverige",
+  "title": "Nöjesparker i Sverige",
+  "description": "Amusement parks in Sweden with coordinates, sourced from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_sv",
+      "label": "Name Sv",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_sv",
+      "label": "Admin Area Sv",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10500070",
+      "name_sv": "Fun City",
+      "name_en": "",
+      "admin_area_sv": "Varbergs kommun",
+      "admin_area_en": "Varberg Municipality",
+      "latitude": 57.065833,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10500070"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q260304",
+      "name_sv": "Gröna Lund",
+      "name_en": "Gröna Lund",
+      "admin_area_sv": "Stockholms kommun",
+      "admin_area_en": "Stockholm",
+      "latitude": 59.323056,
+      "longitude": 18.096111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q260304"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q10516500",
+      "name_sv": "Halmstad äventyrsland",
+      "name_en": "Halmstad Adventure Park",
+      "admin_area_sv": "Halmstads kommun",
+      "admin_area_en": "Halmstad Municipality",
+      "latitude": 56.666389,
+      "longitude": 12.817222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10516500"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q10523918",
+      "name_sv": "High Chaparral",
+      "name_en": "High Chaparral Theme Park",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 57.263333,
+      "longitude": 13.827222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10523918"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q10542340",
+      "name_sv": "Kabe sommarland",
+      "name_en": "Kabe sommarland",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 57.763664,
+      "longitude": 14.142881,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10542340"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1413270",
+      "name_sv": "Liseberg",
+      "name_en": "Liseberg",
+      "admin_area_sv": "Göteborgs kommun",
+      "admin_area_en": "Gothenburg Municipality",
+      "latitude": 57.695556,
+      "longitude": 11.99,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1413270"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q10605542",
+      "name_sv": "Nöjesfältet",
+      "name_en": "",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.324722,
+      "longitude": 18.095,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10605542"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q2800195",
+      "name_sv": "Skara sommarland",
+      "name_en": "Skara Sommarland",
+      "admin_area_sv": "Skara kommun",
+      "admin_area_en": "Skara Municipality",
+      "latitude": 58.4042,
+      "longitude": 13.5523,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2800195"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q7827877",
+      "name_sv": "Tosselilla sommarland",
+      "name_en": "Tosselilla Summer Park",
+      "admin_area_sv": "Tomelilla kommun",
+      "admin_area_en": "Tomelilla Municipality",
+      "latitude": 55.553056,
+      "longitude": 13.906111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7827877"
+    }
+  ],
+  "meta": {
+    "title": "Nöjesparker i Sverige - Gratis nedladdning",
+    "description": "Amusement parks in Sweden with coordinates, sourced from Wikidata. Innehåller 9 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Nöjesparker i Sverige | ListBase",
+    "seo_description": "Ladda ner Nöjesparker i Sverige — 9 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 9 poster / 9 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

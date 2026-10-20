@@ -1,0 +1,884 @@
+{
+  "id": "sv-dalarna-regso",
+  "name": "RegSO-områden i Dalarnas län",
+  "title": "RegSO-områden i Dalarnas län",
+  "description": "119 regionala statistikområden (RegSO) i Dalarnas län (länskod 20). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "2021R001",
+      "regso_namn": "Vansbro västra landsbygd",
+      "kommun_kod": "2021",
+      "kommun_namn": "Vansbro",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2021R002",
+      "regso_namn": "Vansbro",
+      "kommun_kod": "2021",
+      "kommun_namn": "Vansbro",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2021R003",
+      "regso_namn": "Dala-Järna",
+      "kommun_kod": "2021",
+      "kommun_namn": "Vansbro",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2021R004",
+      "regso_namn": "Vansbro östra landsbygd",
+      "kommun_kod": "2021",
+      "kommun_namn": "Vansbro",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2023R001",
+      "regso_namn": "Limedsforsen-Lima-Rörbäcksnäs",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2023R002",
+      "regso_namn": "Malungs nordöstra tätort",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2023R003",
+      "regso_namn": "Malungs omland",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2023R004",
+      "regso_namn": "Malungs sydöstra tätort",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2023R005",
+      "regso_namn": "Malungs västra tätort",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2023R006",
+      "regso_namn": "Transtrand-Sälen-Sörsjön",
+      "kommun_kod": "2023",
+      "kommun_namn": "Malung-Sälen",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2026R001",
+      "regso_namn": "Björbo",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2026R002",
+      "regso_namn": "Brötjärna omland",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2026R003",
+      "regso_namn": "Djurmo omland",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2026R004",
+      "regso_namn": "Djurås",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2026R005",
+      "regso_namn": "Kyrkbyn",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2026R006",
+      "regso_namn": "Mockfjärd",
+      "kommun_kod": "2026",
+      "kommun_namn": "Gagnef",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2029R001",
+      "regso_namn": "Insjön-Tunsta",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2029R002",
+      "regso_namn": "Käringberget",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2029R003",
+      "regso_namn": "Noret-Ullvi-Rönnäs",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2029R004",
+      "regso_namn": "Siljansnäs-Leksand väst",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2029R005",
+      "regso_namn": "Tällberg-Leksand öst",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2029R006",
+      "regso_namn": "Åkerö-Västanvik-Häradsbygden",
+      "kommun_kod": "2029",
+      "kommun_namn": "Leksand",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2031R001",
+      "regso_namn": "Rättvik centrum-Sjurberg",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2031R002",
+      "regso_namn": "Rättvik nordöstra",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2031R003",
+      "regso_namn": "Rättvik norra omland",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2031R004",
+      "regso_namn": "Rättvik norra-Vikarbyn",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2031R005",
+      "regso_namn": "Rättvik södra",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2031R006",
+      "regso_namn": "Rättvik södra omland",
+      "kommun_kod": "2031",
+      "kommun_namn": "Rättvik",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2034R001",
+      "regso_namn": "Orsa centrala",
+      "kommun_kod": "2034",
+      "kommun_namn": "Orsa",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2034R002",
+      "regso_namn": "Orsa nordvästra",
+      "kommun_kod": "2034",
+      "kommun_namn": "Orsa",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2034R003",
+      "regso_namn": "Orsa omland",
+      "kommun_kod": "2034",
+      "kommun_namn": "Orsa",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2034R004",
+      "regso_namn": "Orsa sydöstra",
+      "kommun_kod": "2034",
+      "kommun_namn": "Orsa",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2039R001",
+      "regso_namn": "Idre-Älvdalen norra omland",
+      "kommun_kod": "2039",
+      "kommun_namn": "Älvdalen",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2039R002",
+      "regso_namn": "Rot-Holen-Näset",
+      "kommun_kod": "2039",
+      "kommun_namn": "Älvdalen",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2039R003",
+      "regso_namn": "Särna-Älvdalen mellersta omland",
+      "kommun_kod": "2039",
+      "kommun_namn": "Älvdalen",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2039R004",
+      "regso_namn": "Älvdalen södra omland",
+      "kommun_kod": "2039",
+      "kommun_namn": "Älvdalen",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2039R005",
+      "regso_namn": "Älvdalen-Kåtilla-Västäng",
+      "kommun_kod": "2039",
+      "kommun_namn": "Älvdalen",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2061R001",
+      "regso_namn": "Hagge-Björsjö",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2061R002",
+      "regso_namn": "Malingsbo-Larsbo",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2061R003",
+      "regso_namn": "Morgårdshammar-Gubbo",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2061R004",
+      "regso_namn": "Smedjebacken centrum",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2061R005",
+      "regso_namn": "Smedjebacken Norra",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2061R006",
+      "regso_namn": "Smedjebacken Södra",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2061R007",
+      "regso_namn": "Starbo-Åsmansbo",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2061R008",
+      "regso_namn": "Söderbärke",
+      "kommun_kod": "2061",
+      "kommun_namn": "Smedjebacken",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R001",
+      "regso_namn": "Färnäs-Nusnäs",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R002",
+      "regso_namn": "Hånåkni-Utmeland-Vinäs",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R003",
+      "regso_namn": "Mora centrala",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R004",
+      "regso_namn": "Mora nordvästra",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R005",
+      "regso_namn": "Morkarlby-Selja-Långlet",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R006",
+      "regso_namn": "Noret norra",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R007",
+      "regso_namn": "Noret södra",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R008",
+      "regso_namn": "Saxnäs-Yvraden",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R009",
+      "regso_namn": "Sollerön-Gesunda-Ryssa",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R010",
+      "regso_namn": "Vattnäs-Bergkarlås-Garsås",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R011",
+      "regso_namn": "Våmhus-Bonäs",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2062R012",
+      "regso_namn": "Öna-Östnor-Kråkberg",
+      "kommun_kod": "2062",
+      "kommun_namn": "Mora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R001",
+      "regso_namn": "Aspeboda",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R002",
+      "regso_namn": "Bjursås",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R003",
+      "regso_namn": "Bjursås omland-Sågmyra",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R004",
+      "regso_namn": "Bojsenburg",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R005",
+      "regso_namn": "Enviken-Linghed-Svärdsjö omland",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R006",
+      "regso_namn": "Falu centrum norra",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R007",
+      "regso_namn": "Falu centrum södra",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R008",
+      "regso_namn": "Grycksbo",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R009",
+      "regso_namn": "Herrhagen",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R010",
+      "regso_namn": "Hosjö",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R011",
+      "regso_namn": "Kvarnberget-Främby-Källviken",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R012",
+      "regso_namn": "Nedre Norslund",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R013",
+      "regso_namn": "Pilbo-Samuelsdal-Gruvriset",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R014",
+      "regso_namn": "Slätta-Gamla Berget",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R015",
+      "regso_namn": "Stennäset-Britsarvet-Lugnet",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R016",
+      "regso_namn": "Sundborn-Danholn-Toftbyn",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R017",
+      "regso_namn": "Svärdsjö",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R018",
+      "regso_namn": "Vika",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2080R019",
+      "regso_namn": "Övre Norslund-Hälsinggården-Korsnäs",
+      "kommun_kod": "2080",
+      "kommun_namn": "Falun",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R001",
+      "regso_namn": "Bulllermyren",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R002",
+      "regso_namn": "Forssa",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R003",
+      "regso_namn": "Gylle-Åselby-Färjegårdarna-Hytting",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R004",
+      "regso_namn": "Jakobsgårdarna-Paradiset-Nygårdsdalen",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R005",
+      "regso_namn": "Kupolen-Norra Backa-Hagalund-Ringen",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R006",
+      "regso_namn": "Lergärdet-Bergslagsbyn",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R007",
+      "regso_namn": "Medväga-Hönsarvet-Domnarvet-Barkagärdet-Islingby-Nyckelby",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R008",
+      "regso_namn": "Mjälga-Centrum",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R009",
+      "regso_namn": "Repbäcken-Amsberg-Kvarnsveden",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R010",
+      "regso_namn": "Romme",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R011",
+      "regso_namn": "Skräddarbacken-Mats Knuts-Nygårdarna",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R012",
+      "regso_namn": "Södra Bullermyren-Norra Hagalund",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R013",
+      "regso_namn": "Tjärna Ängar",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R014",
+      "regso_namn": "Tolsbo-Strandbo-Sörbo-Repbäcken-Idkerberget-Halvarsgårdarna",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R015",
+      "regso_namn": "Torsång-Sunnanö-Uvberget-Fågelmyra-Oberget-Ornäs",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R016",
+      "regso_namn": "Östermalm",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2081R017",
+      "regso_namn": "Övre Tjärna",
+      "kommun_kod": "2081",
+      "kommun_namn": "Borlänge",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2082R001",
+      "regso_namn": "Gustafs omland",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2082R002",
+      "regso_namn": "Mora-Enbacka-Naglarby",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2082R003",
+      "regso_namn": "Säter centrala",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2082R004",
+      "regso_namn": "Säter västra",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2082R005",
+      "regso_namn": "Säter östra",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2082R006",
+      "regso_namn": "Säters omland",
+      "kommun_kod": "2082",
+      "kommun_namn": "Säter",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2083R001",
+      "regso_namn": "Garpenbergsområdet",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2083R002",
+      "regso_namn": "Hedemora landsbygd",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2083R003",
+      "regso_namn": "Hedemora stad",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2083R004",
+      "regso_namn": "Långshytte-Husby området",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2083R005",
+      "regso_namn": "Vikmanshytteområdet",
+      "kommun_kod": "2083",
+      "kommun_namn": "Hedemora",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2084R001",
+      "regso_namn": "Avesta norra-Avesta västra-Karlbo",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2084R002",
+      "regso_namn": "Avesta omland",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2084R003",
+      "regso_namn": "Avesta södra-Avesta östra-Bengtsbo",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2084R004",
+      "regso_namn": "Horndal",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2084R005",
+      "regso_namn": "Krylbo-Isaksbo-Mästerbo",
+      "kommun_kod": "2084",
+      "kommun_namn": "Avesta",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2085R001",
+      "regso_namn": "Fredriksberg",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2085R002",
+      "regso_namn": "Grangärde-Sunnansjö",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2085R003",
+      "regso_namn": "Grängesberg",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2085R004",
+      "regso_namn": "Högberget",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2085R005",
+      "regso_namn": "Ludvika gård",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2085R006",
+      "regso_namn": "Ludvika norra",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2085R007",
+      "regso_namn": "Ludvika södra",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2085R008",
+      "regso_namn": "Marnäs",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2085R009",
+      "regso_namn": "Saxdalen-Blötberget-Gonäs",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20"
+    },
+    {
+      "regso_kod": "2085R010",
+      "regso_namn": "Sörvik-Persbo-Gräsberg",
+      "kommun_kod": "2085",
+      "kommun_namn": "Ludvika",
+      "lan_kod": "20"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Dalarnas län - Gratis nedladdning",
+    "description": "119 regionala statistikområden (RegSO) i Dalarnas län (länskod 20). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 119 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Dalarnas län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Dalarnas län — 119 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 119 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

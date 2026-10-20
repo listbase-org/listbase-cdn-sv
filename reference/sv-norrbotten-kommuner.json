@@ -1,0 +1,187 @@
+{
+  "id": "sv-norrbotten-kommuner",
+  "name": "Kommuner i Norrbottens län",
+  "title": "Kommuner i Norrbottens län",
+  "description": "14 kommuner i Norrbottens län (länskod 25, ISO SE-BD, residensstad Luleå). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "kommunkod",
+      "label": "Kommunkod",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_short",
+      "label": "Name Short",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunkod": "2505",
+      "name": "Arvidsjaurs kommun",
+      "name_short": "Arvidsjaur",
+      "slug": "arvidsjaur",
+      "locality": "ARVIDSJAUR",
+      "url": "http://www.arvidsjaur.se",
+      "num_postnummer": 77
+    },
+    {
+      "kommunkod": "2506",
+      "name": "Arjeplogs kommun",
+      "name_short": "Arjeplog",
+      "slug": "arjeplog",
+      "locality": "ARJEPLOG",
+      "url": "http://www.arjeplog.se",
+      "num_postnummer": 47
+    },
+    {
+      "kommunkod": "2510",
+      "name": "Jokkmokks kommun",
+      "name_short": "Jokkmokk",
+      "slug": "jokkmokk",
+      "locality": "JOKKMOKK",
+      "url": "http://www.jokkmokk.se",
+      "num_postnummer": 98
+    },
+    {
+      "kommunkod": "2513",
+      "name": "Överkalix kommun",
+      "name_short": "Överkalix",
+      "slug": "overkalix",
+      "locality": "ÖVERKALIX",
+      "url": "http://www.overkalix.se",
+      "num_postnummer": 64
+    },
+    {
+      "kommunkod": "2514",
+      "name": "Kalix kommun",
+      "name_short": "Kalix",
+      "slug": "kalix",
+      "locality": "KALIX",
+      "url": "http://www.kalix.se",
+      "num_postnummer": 204
+    },
+    {
+      "kommunkod": "2518",
+      "name": "Övertorneå kommun",
+      "name_short": "Övertorneå",
+      "slug": "overtornea",
+      "locality": "ÖVERTORNEÅ",
+      "url": "http://www.overtornea.se",
+      "num_postnummer": 66
+    },
+    {
+      "kommunkod": "2521",
+      "name": "Pajala kommun",
+      "name_short": "Pajala",
+      "slug": "pajala",
+      "locality": "PAJALA",
+      "url": "http://www.pajala.se",
+      "num_postnummer": 48
+    },
+    {
+      "kommunkod": "2523",
+      "name": "Gällivare kommun",
+      "name_short": "Gällivare",
+      "slug": "gallivare",
+      "locality": "GÄLLIVARE",
+      "url": "http://www.gellivare.se",
+      "num_postnummer": 110
+    },
+    {
+      "kommunkod": "2560",
+      "name": "Älvsbyns kommun",
+      "name_short": "Älvsbyn",
+      "slug": "alvsbyn",
+      "locality": "ÄLVSBYN",
+      "url": "http://www.alvsbyn.se",
+      "num_postnummer": 199
+    },
+    {
+      "kommunkod": "2580",
+      "name": "Luleå kommun",
+      "name_short": "Luleå",
+      "slug": "lulea",
+      "locality": "LULEÅ",
+      "url": "http://www.lulea.se",
+      "num_postnummer": 292
+    },
+    {
+      "kommunkod": "2581",
+      "name": "Piteå kommun",
+      "name_short": "Piteå",
+      "slug": "pitea",
+      "locality": "PITEÅ",
+      "url": "http://www.pitea.se",
+      "num_postnummer": 261
+    },
+    {
+      "kommunkod": "2582",
+      "name": "Bodens kommun",
+      "name_short": "Boden",
+      "slug": "boden",
+      "locality": "BODEN",
+      "url": "http://www.boden.se",
+      "num_postnummer": 208
+    },
+    {
+      "kommunkod": "2583",
+      "name": "Haparanda stad",
+      "name_short": "Haparanda",
+      "slug": "haparanda",
+      "locality": "HAPARANDA",
+      "url": "http://www.haparanda.se",
+      "num_postnummer": 49
+    },
+    {
+      "kommunkod": "2584",
+      "name": "Kiruna kommun",
+      "name_short": "Kiruna",
+      "slug": "kiruna",
+      "locality": "KIRUNA",
+      "url": "http://www.kiruna.se",
+      "num_postnummer": 92
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Norrbottens län - Gratis nedladdning",
+    "description": "14 kommuner i Norrbottens län (länskod 25, ISO SE-BD, residensstad Luleå). Källa: lukaswass/swedish-municipalities-postal-codes (MIT) korslänkad mot SCB länskoder. Innehåller 14 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Norrbottens län | ListBase",
+    "seo_description": "Ladda ner Kommuner i Norrbottens län — 14 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 14 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

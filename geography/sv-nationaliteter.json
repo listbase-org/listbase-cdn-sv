@@ -1,0 +1,1632 @@
+{
+  "id": "sv-nationaliteter",
+  "name": "Nationaliteter",
+  "title": "Nationaliteter",
+  "description": "Länder med svenska nationalitetsord: invånare i singular och plural samt adjektivform.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 197,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_alternativename",
+      "label": "Country Alternativename",
+      "type": "string"
+    },
+    {
+      "key": "resident_singular",
+      "label": "Resident Singular",
+      "type": "string"
+    },
+    {
+      "key": "resident_plural",
+      "label": "Resident Plural",
+      "type": "string"
+    },
+    {
+      "key": "adjective",
+      "label": "Adjective",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "0",
+      "country": "Afghanistan",
+      "country_alternativename": "",
+      "resident_singular": "['afghan']",
+      "resident_plural": "['afghaner']",
+      "adjective": "afghansk"
+    },
+    {
+      "id": "1",
+      "country": "Albanien",
+      "country_alternativename": "",
+      "resident_singular": "['alban']",
+      "resident_plural": "['albaner']",
+      "adjective": "albansk"
+    },
+    {
+      "id": "2",
+      "country": "Algeriet",
+      "country_alternativename": "",
+      "resident_singular": "['algerier']",
+      "resident_plural": "['algerier']",
+      "adjective": "algerisk"
+    },
+    {
+      "id": "3",
+      "country": "Andorra",
+      "country_alternativename": "",
+      "resident_singular": "['andorran']",
+      "resident_plural": "['andorraner']",
+      "adjective": "andorransk"
+    },
+    {
+      "id": "4",
+      "country": "Angola",
+      "country_alternativename": "",
+      "resident_singular": "['angolan']",
+      "resident_plural": "['angolaner']",
+      "adjective": "angolansk"
+    },
+    {
+      "id": "5",
+      "country": "Antigua och Barbuda",
+      "country_alternativename": "",
+      "resident_singular": "['antiguan', 'barbudan']",
+      "resident_plural": "['antiguaner', 'barbudaner']",
+      "adjective": "antiguansk, barbudansk"
+    },
+    {
+      "id": "6",
+      "country": "Argentina",
+      "country_alternativename": "",
+      "resident_singular": "['argentinare']",
+      "resident_plural": "['argentinare']",
+      "adjective": "argentinsk"
+    },
+    {
+      "id": "7",
+      "country": "Armenien",
+      "country_alternativename": "",
+      "resident_singular": "['armenier']",
+      "resident_plural": "['armenier']",
+      "adjective": "armenisk"
+    },
+    {
+      "id": "8",
+      "country": "Australien",
+      "country_alternativename": "",
+      "resident_singular": "['australier']",
+      "resident_plural": "['australier']",
+      "adjective": "australisk"
+    },
+    {
+      "id": "9",
+      "country": "Azerbajdzjan",
+      "country_alternativename": "",
+      "resident_singular": "['azerbajdzjanier', 'azer', 'azerier']",
+      "resident_plural": "['azerbajdzjanier', 'azerer', 'azerier']",
+      "adjective": "azerbajdzjansk, azerisk"
+    },
+    {
+      "id": "10",
+      "country": "Bahamas",
+      "country_alternativename": "",
+      "resident_singular": "['bahaman']",
+      "resident_plural": "['bahamaner']",
+      "adjective": "bahamansk"
+    },
+    {
+      "id": "11",
+      "country": "Bahrain",
+      "country_alternativename": "",
+      "resident_singular": "['bahrainier']",
+      "resident_plural": "['bahrainier']",
+      "adjective": "bahrainsk"
+    },
+    {
+      "id": "12",
+      "country": "Bangladesh",
+      "country_alternativename": "",
+      "resident_singular": "['bangladeshier']",
+      "resident_plural": "['bangladeshier']",
+      "adjective": "bangladeshisk"
+    },
+    {
+      "id": "13",
+      "country": "Barbados",
+      "country_alternativename": "",
+      "resident_singular": "['barbadier']",
+      "resident_plural": "['barbadier']",
+      "adjective": "barbadisk"
+    },
+    {
+      "id": "14",
+      "country": "Belgien",
+      "country_alternativename": "",
+      "resident_singular": "['belgier', 'belgare']",
+      "resident_plural": "['belgier', 'belgare']",
+      "adjective": "belgisk"
+    },
+    {
+      "id": "15",
+      "country": "Belize",
+      "country_alternativename": "",
+      "resident_singular": "['belizier']",
+      "resident_plural": "['belizier']",
+      "adjective": "belizisk"
+    },
+    {
+      "id": "16",
+      "country": "Benin",
+      "country_alternativename": "",
+      "resident_singular": "['beninier']",
+      "resident_plural": "['beninier']",
+      "adjective": "beninsk"
+    },
+    {
+      "id": "17",
+      "country": "Bhutan",
+      "country_alternativename": "",
+      "resident_singular": "['bhutanes']",
+      "resident_plural": "['bhutaneser']",
+      "adjective": "bhutanesisk"
+    },
+    {
+      "id": "18",
+      "country": "Bolivia",
+      "country_alternativename": "",
+      "resident_singular": "['bolivian']",
+      "resident_plural": "['bolivianer']",
+      "adjective": "boliviansk"
+    },
+    {
+      "id": "19",
+      "country": "Bosnien-Hercegovina",
+      "country_alternativename": "",
+      "resident_singular": "['bosnier']",
+      "resident_plural": "['bosnier']",
+      "adjective": "bosnisk"
+    },
+    {
+      "id": "20",
+      "country": "Botswana",
+      "country_alternativename": "",
+      "resident_singular": "['botswanier']",
+      "resident_plural": "['botswanier']",
+      "adjective": "botswansk"
+    },
+    {
+      "id": "21",
+      "country": "Brasilien",
+      "country_alternativename": "",
+      "resident_singular": "['brasilian']",
+      "resident_plural": "['brasilianer']",
+      "adjective": "brasiliansk"
+    },
+    {
+      "id": "22",
+      "country": "Brunei",
+      "country_alternativename": "",
+      "resident_singular": "['bruneier']",
+      "resident_plural": "['bruneier']",
+      "adjective": "bruneisk"
+    },
+    {
+      "id": "23",
+      "country": "Bulgarien",
+      "country_alternativename": "",
+      "resident_singular": "['bulgar']",
+      "resident_plural": "['bulgarer']",
+      "adjective": "bulgarisk"
+    },
+    {
+      "id": "24",
+      "country": "Burkina Faso",
+      "country_alternativename": "",
+      "resident_singular": "['burkinier']",
+      "resident_plural": "['burkinier']",
+      "adjective": "burkinsk"
+    },
+    {
+      "id": "25",
+      "country": "Burundi",
+      "country_alternativename": "",
+      "resident_singular": "['burundier']",
+      "resident_plural": "['burundier']",
+      "adjective": "burundisk"
+    },
+    {
+      "id": "26",
+      "country": "Centralafrikanska republiken",
+      "country_alternativename": "",
+      "resident_singular": "['centralafrikan']",
+      "resident_plural": "['centralafrikaner']",
+      "adjective": "centralafrikansk"
+    },
+    {
+      "id": "27",
+      "country": "Chile",
+      "country_alternativename": "",
+      "resident_singular": "['chilenare']",
+      "resident_plural": "['chilenare']",
+      "adjective": "chilensk"
+    },
+    {
+      "id": "28",
+      "country": "Colombia",
+      "country_alternativename": "",
+      "resident_singular": "['colombian']",
+      "resident_plural": "['colombianer']",
+      "adjective": "colombiansk"
+    },
+    {
+      "id": "29",
+      "country": "Costa Rica",
+      "country_alternativename": "",
+      "resident_singular": "['costarican']",
+      "resident_plural": "['costaricaner']",
+      "adjective": "costaricansk"
+    },
+    {
+      "id": "30",
+      "country": "Cypern",
+      "country_alternativename": "",
+      "resident_singular": "['cypriot']",
+      "resident_plural": "['cyprioter']",
+      "adjective": "cypriotisk"
+    },
+    {
+      "id": "31",
+      "country": "Danmark",
+      "country_alternativename": "",
+      "resident_singular": "['dansk']",
+      "resident_plural": "['danskar']",
+      "adjective": "dansk"
+    },
+    {
+      "id": "32",
+      "country": "Djibouti",
+      "country_alternativename": "",
+      "resident_singular": "['djiboutier']",
+      "resident_plural": "['djiboutier']",
+      "adjective": "djiboutisk"
+    },
+    {
+      "id": "33",
+      "country": "Dominica",
+      "country_alternativename": "",
+      "resident_singular": "['dominiker']",
+      "resident_plural": "['dominiker']",
+      "adjective": "dominikisk"
+    },
+    {
+      "id": "34",
+      "country": "Dominikanska republiken",
+      "country_alternativename": "",
+      "resident_singular": "['dominikan']",
+      "resident_plural": "['dominikaner']",
+      "adjective": "dominikansk"
+    },
+    {
+      "id": "35",
+      "country": "Ecuador",
+      "country_alternativename": "",
+      "resident_singular": "['ecuadorian']",
+      "resident_plural": "['ecuadorianer']",
+      "adjective": "ecuadoriansk"
+    },
+    {
+      "id": "36",
+      "country": "Egypten",
+      "country_alternativename": "",
+      "resident_singular": "['egyptier']",
+      "resident_plural": "['egyptier']",
+      "adjective": "egyptisk"
+    },
+    {
+      "id": "37",
+      "country": "Ekvatorialguinea",
+      "country_alternativename": "",
+      "resident_singular": "['ekvatorialguinean']",
+      "resident_plural": "['ekvatorialguineaner']",
+      "adjective": "ekvatorialguineansk"
+    },
+    {
+      "id": "38",
+      "country": "Elfenbenskusten",
+      "country_alternativename": "",
+      "resident_singular": "['ivorian']",
+      "resident_plural": "['ivorianer']",
+      "adjective": "ivoriansk"
+    },
+    {
+      "id": "39",
+      "country": "El Salvador",
+      "country_alternativename": "",
+      "resident_singular": "['salvadoran']",
+      "resident_plural": "['salvadoraner']",
+      "adjective": "salvadoransk"
+    },
+    {
+      "id": "40",
+      "country": "Eritrea",
+      "country_alternativename": "",
+      "resident_singular": "['eritrean']",
+      "resident_plural": "['eritreaner']",
+      "adjective": "eritreansk"
+    },
+    {
+      "id": "41",
+      "country": "Estland",
+      "country_alternativename": "",
+      "resident_singular": "['estländare', 'est']",
+      "resident_plural": "['estländare', 'ester']",
+      "adjective": "estländsk, estnisk"
+    },
+    {
+      "id": "42",
+      "country": "Etiopien",
+      "country_alternativename": "",
+      "resident_singular": "['etiopier']",
+      "resident_plural": "['etiopier']",
+      "adjective": "etiopisk"
+    },
+    {
+      "id": "43",
+      "country": "Fiji",
+      "country_alternativename": "",
+      "resident_singular": "['fijian']",
+      "resident_plural": "['fijianer']",
+      "adjective": "fijiansk"
+    },
+    {
+      "id": "44",
+      "country": "Filippinerna",
+      "country_alternativename": "",
+      "resident_singular": "['filippinier']",
+      "resident_plural": "['filippinier']",
+      "adjective": "filippinsk"
+    },
+    {
+      "id": "45",
+      "country": "Finland",
+      "country_alternativename": "",
+      "resident_singular": "['finländare', 'finne', 'finlandssvensk']",
+      "resident_plural": "['finländare', 'finnar', 'finlandssvenskar']",
+      "adjective": "finländsk, finsk, finlandssvensk"
+    },
+    {
+      "id": "46",
+      "country": "Frankrike",
+      "country_alternativename": "",
+      "resident_singular": "['fransman']",
+      "resident_plural": "['fransmän']",
+      "adjective": "fransk"
+    },
+    {
+      "id": "47",
+      "country": "Förenade arabemiraten",
+      "country_alternativename": "",
+      "resident_singular": "['emiratier']",
+      "resident_plural": "['emiratier']",
+      "adjective": "emiratisk"
+    },
+    {
+      "id": "48",
+      "country": "Gabon",
+      "country_alternativename": "",
+      "resident_singular": "['gabones']",
+      "resident_plural": "['gaboneser']",
+      "adjective": "gabonesisk"
+    },
+    {
+      "id": "49",
+      "country": "Gambia",
+      "country_alternativename": "",
+      "resident_singular": "['gambier']",
+      "resident_plural": "['gambier']",
+      "adjective": "gambisk"
+    },
+    {
+      "id": "50",
+      "country": "Georgien",
+      "country_alternativename": "",
+      "resident_singular": "['georgier']",
+      "resident_plural": "['georgier']",
+      "adjective": "georgisk"
+    },
+    {
+      "id": "51",
+      "country": "Ghana",
+      "country_alternativename": "",
+      "resident_singular": "['ghanan']",
+      "resident_plural": "['ghananer']",
+      "adjective": "ghanansk"
+    },
+    {
+      "id": "52",
+      "country": "Grekland",
+      "country_alternativename": "",
+      "resident_singular": "['grek']",
+      "resident_plural": "['greker']",
+      "adjective": "grekisk"
+    },
+    {
+      "id": "53",
+      "country": "Grenada",
+      "country_alternativename": "",
+      "resident_singular": "['grenadier']",
+      "resident_plural": "['grenadier']",
+      "adjective": "grenadisk"
+    },
+    {
+      "id": "54",
+      "country": "Guatemala",
+      "country_alternativename": "",
+      "resident_singular": "['guatemalan']",
+      "resident_plural": "['guatemalaner']",
+      "adjective": "guatemalansk"
+    },
+    {
+      "id": "55",
+      "country": "Guinea",
+      "country_alternativename": "",
+      "resident_singular": "['guinean']",
+      "resident_plural": "['guineaner']",
+      "adjective": "guineansk"
+    },
+    {
+      "id": "56",
+      "country": "Guinea-Bissau",
+      "country_alternativename": "",
+      "resident_singular": "['bissauguinean']",
+      "resident_plural": "['bissauguineaner']",
+      "adjective": "bissauguineansk"
+    },
+    {
+      "id": "57",
+      "country": "Guyana",
+      "country_alternativename": "",
+      "resident_singular": "['guyanan']",
+      "resident_plural": "['guyananer']",
+      "adjective": "guyansk"
+    },
+    {
+      "id": "58",
+      "country": "Haiti",
+      "country_alternativename": "",
+      "resident_singular": "['haitier']",
+      "resident_plural": "['haitier']",
+      "adjective": "haitisk"
+    },
+    {
+      "id": "59",
+      "country": "Honduras",
+      "country_alternativename": "",
+      "resident_singular": "['honduran']",
+      "resident_plural": "['honduraner']",
+      "adjective": "honduransk"
+    },
+    {
+      "id": "60",
+      "country": "Indien",
+      "country_alternativename": "",
+      "resident_singular": "['indier']",
+      "resident_plural": "['indier']",
+      "adjective": "indisk"
+    },
+    {
+      "id": "61",
+      "country": "Indonesien",
+      "country_alternativename": "",
+      "resident_singular": "['indones']",
+      "resident_plural": "['indoneser']",
+      "adjective": "indonesisk"
+    },
+    {
+      "id": "62",
+      "country": "Irak",
+      "country_alternativename": "",
+      "resident_singular": "['irakier']",
+      "resident_plural": "['irakier']",
+      "adjective": "irakisk"
+    },
+    {
+      "id": "63",
+      "country": "Iran",
+      "country_alternativename": "",
+      "resident_singular": "['iranier']",
+      "resident_plural": "['iranier']",
+      "adjective": "iransk"
+    },
+    {
+      "id": "64",
+      "country": "Irland",
+      "country_alternativename": "",
+      "resident_singular": "['irländare']",
+      "resident_plural": "['irländare']",
+      "adjective": "irländsk"
+    },
+    {
+      "id": "65",
+      "country": "Island",
+      "country_alternativename": "",
+      "resident_singular": "['islänning']",
+      "resident_plural": "['islänningar']",
+      "adjective": "isländsk"
+    },
+    {
+      "id": "66",
+      "country": "Israel",
+      "country_alternativename": "",
+      "resident_singular": "['israel']",
+      "resident_plural": "['israeler']",
+      "adjective": "israelisk"
+    },
+    {
+      "id": "67",
+      "country": "Italien",
+      "country_alternativename": "",
+      "resident_singular": "['italienare']",
+      "resident_plural": "['italienare']",
+      "adjective": "italiensk"
+    },
+    {
+      "id": "68",
+      "country": "Jamaica",
+      "country_alternativename": "",
+      "resident_singular": "['jamaican']",
+      "resident_plural": "['jamaicaner']",
+      "adjective": "jamaicansk"
+    },
+    {
+      "id": "69",
+      "country": "Japan",
+      "country_alternativename": "",
+      "resident_singular": "['japan']",
+      "resident_plural": "['japaner']",
+      "adjective": "japansk"
+    },
+    {
+      "id": "70",
+      "country": "Jemen",
+      "country_alternativename": "",
+      "resident_singular": "['jemenit']",
+      "resident_plural": "['jemeniter']",
+      "adjective": "jemenitisk"
+    },
+    {
+      "id": "71",
+      "country": "Jordanien",
+      "country_alternativename": "",
+      "resident_singular": "['jordanier']",
+      "resident_plural": "['jordanier']",
+      "adjective": "jordansk"
+    },
+    {
+      "id": "72",
+      "country": "Kambodja",
+      "country_alternativename": "",
+      "resident_singular": "['kambodjan']",
+      "resident_plural": "['kambodjaner']",
+      "adjective": "kambodjansk"
+    },
+    {
+      "id": "73",
+      "country": "Kamerun",
+      "country_alternativename": "",
+      "resident_singular": "['kamerunier']",
+      "resident_plural": "['kamerunier']",
+      "adjective": "kamerunsk"
+    },
+    {
+      "id": "74",
+      "country": "Kanada",
+      "country_alternativename": "",
+      "resident_singular": "['kanadensare']",
+      "resident_plural": "['kanadensare']",
+      "adjective": "kanadensisk"
+    },
+    {
+      "id": "75",
+      "country": "Kap Verde",
+      "country_alternativename": "",
+      "resident_singular": "['kapverdian']",
+      "resident_plural": "['kapverdianer']",
+      "adjective": "kapverdiansk"
+    },
+    {
+      "id": "76",
+      "country": "Kazakstan",
+      "country_alternativename": "",
+      "resident_singular": "['kazakstanier', 'kazak']",
+      "resident_plural": "['kazakstanier', 'kazaker']",
+      "adjective": "kazakstansk, kazakisk"
+    },
+    {
+      "id": "77",
+      "country": "Kenya",
+      "country_alternativename": "",
+      "resident_singular": "['kenyan']",
+      "resident_plural": "['kenyaner']",
+      "adjective": "kenyansk"
+    },
+    {
+      "id": "78",
+      "country": "Kina",
+      "country_alternativename": "",
+      "resident_singular": "['kines']",
+      "resident_plural": "['kineser']",
+      "adjective": "kinesisk"
+    },
+    {
+      "id": "79",
+      "country": "Kirgizistan",
+      "country_alternativename": "",
+      "resident_singular": "['kirgizistanier', 'kirgiz']",
+      "resident_plural": "['kirgizistanier', 'kirgizer']",
+      "adjective": "kirgizistansk, kirgizisk"
+    },
+    {
+      "id": "80",
+      "country": "Kiribati",
+      "country_alternativename": "",
+      "resident_singular": "['kiribatier']",
+      "resident_plural": "['kiribatier']",
+      "adjective": "kiribatisk"
+    },
+    {
+      "id": "81",
+      "country": "Komorerna",
+      "country_alternativename": "",
+      "resident_singular": "['komorier']",
+      "resident_plural": "['komorier']",
+      "adjective": "komorisk"
+    },
+    {
+      "id": "82",
+      "country": "Kongo-Brazzaville",
+      "country_alternativename": "Republiken Kongo",
+      "resident_singular": "['(brazzaville)kongoles']",
+      "resident_plural": "['(brazzaville)kongoleser']",
+      "adjective": "kongolesisk, brazzavillekongolesisk"
+    },
+    {
+      "id": "83",
+      "country": "Kongo-Kinshasa",
+      "country_alternativename": "Demokratiska republiken Kongo",
+      "resident_singular": "['(kinshasa)kongoles']",
+      "resident_plural": "['(kinshasa)kongoleser']",
+      "adjective": "kongolesisk, kinshasakongolesisk"
+    },
+    {
+      "id": "84",
+      "country": "Kosovo",
+      "country_alternativename": "",
+      "resident_singular": "['kosovan', 'kosovoserb', 'kosovoalban']",
+      "resident_plural": "['kosovaner', 'kosovoserber', 'kosovoalbaner']",
+      "adjective": "kosovansk, kosovoserbisk, kosovoalbansk"
+    },
+    {
+      "id": "85",
+      "country": "Kroatien",
+      "country_alternativename": "",
+      "resident_singular": "['kroat']",
+      "resident_plural": "['kroater']",
+      "adjective": "kroatisk"
+    },
+    {
+      "id": "86",
+      "country": "Kuba",
+      "country_alternativename": "",
+      "resident_singular": "['kuban']",
+      "resident_plural": "['kubaner']",
+      "adjective": "kubansk"
+    },
+    {
+      "id": "87",
+      "country": "Kuwait",
+      "country_alternativename": "",
+      "resident_singular": "['kuwaitier']",
+      "resident_plural": "['kuwaitier']",
+      "adjective": "kuwaitisk"
+    },
+    {
+      "id": "88",
+      "country": "Laos",
+      "country_alternativename": "",
+      "resident_singular": "['laotier']",
+      "resident_plural": "['laotier']",
+      "adjective": "laotisk"
+    },
+    {
+      "id": "89",
+      "country": "Lesotho",
+      "country_alternativename": "",
+      "resident_singular": "['lesothier']",
+      "resident_plural": "['lesothier']",
+      "adjective": "lesothisk"
+    },
+    {
+      "id": "90",
+      "country": "Lettland",
+      "country_alternativename": "",
+      "resident_singular": "['lettländare', 'lett']",
+      "resident_plural": "['lettländare', 'letter']",
+      "adjective": "lettländsk, lettisk"
+    },
+    {
+      "id": "91",
+      "country": "Libanon",
+      "country_alternativename": "",
+      "resident_singular": "['libanes']",
+      "resident_plural": "['libaneser']",
+      "adjective": "libanesisk"
+    },
+    {
+      "id": "92",
+      "country": "Liberia",
+      "country_alternativename": "",
+      "resident_singular": "['liberian']",
+      "resident_plural": "['liberianer']",
+      "adjective": "liberiansk"
+    },
+    {
+      "id": "93",
+      "country": "Libyen",
+      "country_alternativename": "",
+      "resident_singular": "['libyer']",
+      "resident_plural": "['libyer']",
+      "adjective": "libysk"
+    },
+    {
+      "id": "94",
+      "country": "Liechtenstein",
+      "country_alternativename": "",
+      "resident_singular": "['liechtensteinare']",
+      "resident_plural": "['liechtensteinare']",
+      "adjective": "liechtensteinsk"
+    },
+    {
+      "id": "95",
+      "country": "Litauen",
+      "country_alternativename": "",
+      "resident_singular": "['litauer']",
+      "resident_plural": "['litauer']",
+      "adjective": "litauisk"
+    },
+    {
+      "id": "96",
+      "country": "Luxemburg",
+      "country_alternativename": "",
+      "resident_singular": "['luxemburgare']",
+      "resident_plural": "['luxemburgare']",
+      "adjective": "luxemburgsk"
+    },
+    {
+      "id": "97",
+      "country": "Madagaskar",
+      "country_alternativename": "",
+      "resident_singular": "['madagask']",
+      "resident_plural": "['madagasker']",
+      "adjective": "madagaskisk"
+    },
+    {
+      "id": "98",
+      "country": "Makedonien",
+      "country_alternativename": "",
+      "resident_singular": "['makedonier']",
+      "resident_plural": "['makedonier']",
+      "adjective": "makedonisk, makedonsk"
+    },
+    {
+      "id": "99",
+      "country": "Malawi",
+      "country_alternativename": "",
+      "resident_singular": "['malawier']",
+      "resident_plural": "['malawier']",
+      "adjective": "malawisk"
+    },
+    {
+      "id": "100",
+      "country": "Malaysia",
+      "country_alternativename": "",
+      "resident_singular": "['malaysier']",
+      "resident_plural": "['malaysier']",
+      "adjective": "malaysisk"
+    },
+    {
+      "id": "101",
+      "country": "Maldiverna",
+      "country_alternativename": "",
+      "resident_singular": "['maldivier']",
+      "resident_plural": "['maldivier']",
+      "adjective": "maldivisk"
+    },
+    {
+      "id": "102",
+      "country": "Mali",
+      "country_alternativename": "",
+      "resident_singular": "['malier']",
+      "resident_plural": "['malier']",
+      "adjective": "malisk"
+    },
+    {
+      "id": "103",
+      "country": "Malta",
+      "country_alternativename": "",
+      "resident_singular": "['maltes']",
+      "resident_plural": "['malteser']",
+      "adjective": "maltesisk"
+    },
+    {
+      "id": "104",
+      "country": "Marocko",
+      "country_alternativename": "",
+      "resident_singular": "['marockan']",
+      "resident_plural": "['marockaner']",
+      "adjective": "marockansk"
+    },
+    {
+      "id": "105",
+      "country": "Marshallöarna",
+      "country_alternativename": "",
+      "resident_singular": "['marshalles']",
+      "resident_plural": "['marshalleser']",
+      "adjective": "marshallesisk"
+    },
+    {
+      "id": "106",
+      "country": "Mauretanien",
+      "country_alternativename": "",
+      "resident_singular": "['mauretanier']",
+      "resident_plural": "['mauretanier']",
+      "adjective": "mauretansk"
+    },
+    {
+      "id": "107",
+      "country": "Mauritius",
+      "country_alternativename": "",
+      "resident_singular": "['mauritier']",
+      "resident_plural": "['mauritier']",
+      "adjective": "mauritisk"
+    },
+    {
+      "id": "108",
+      "country": "Mexiko",
+      "country_alternativename": "",
+      "resident_singular": "['mexikan']",
+      "resident_plural": "['mexikaner']",
+      "adjective": "mexikansk"
+    },
+    {
+      "id": "109",
+      "country": "Mikronesien",
+      "country_alternativename": "",
+      "resident_singular": "['mikronesier']",
+      "resident_plural": "['mikronesier']",
+      "adjective": "mikronesisk"
+    },
+    {
+      "id": "110",
+      "country": "Moçambique",
+      "country_alternativename": "",
+      "resident_singular": "['moçambikier']",
+      "resident_plural": "['moçambikier']",
+      "adjective": "moçambikisk"
+    },
+    {
+      "id": "111",
+      "country": "Moldavien",
+      "country_alternativename": "",
+      "resident_singular": "['moldavier']",
+      "resident_plural": "['moldavier']",
+      "adjective": "moldavisk"
+    },
+    {
+      "id": "112",
+      "country": "Monaco",
+      "country_alternativename": "",
+      "resident_singular": "['monegask']",
+      "resident_plural": "['monegasker']",
+      "adjective": "monegaskisk"
+    },
+    {
+      "id": "113",
+      "country": "Mongoliet",
+      "country_alternativename": "",
+      "resident_singular": "['mongolier']",
+      "resident_plural": "['mongolier']",
+      "adjective": "mongolisk"
+    },
+    {
+      "id": "114",
+      "country": "Montenegro",
+      "country_alternativename": "",
+      "resident_singular": "['montenegrin']",
+      "resident_plural": "['montenegriner']",
+      "adjective": "montenegrinsk"
+    },
+    {
+      "id": "115",
+      "country": "Myanmar",
+      "country_alternativename": "Burma",
+      "resident_singular": "['myanmarier']",
+      "resident_plural": "['myanmarier']",
+      "adjective": "myanmarisk"
+    },
+    {
+      "id": "116",
+      "country": "Namibia",
+      "country_alternativename": "",
+      "resident_singular": "['namibier']",
+      "resident_plural": "['namibier']",
+      "adjective": "namibisk"
+    },
+    {
+      "id": "117",
+      "country": "Nauru",
+      "country_alternativename": "",
+      "resident_singular": "['nauruer']",
+      "resident_plural": "['nauruer']",
+      "adjective": "naurisk"
+    },
+    {
+      "id": "118",
+      "country": "Nederländerna",
+      "country_alternativename": "Holland",
+      "resident_singular": "['nederländare', 'holländare']",
+      "resident_plural": "['nederländare', 'holländare']",
+      "adjective": "nederländsk, holländsk"
+    },
+    {
+      "id": "119",
+      "country": "Nepal",
+      "country_alternativename": "",
+      "resident_singular": "['nepales']",
+      "resident_plural": "['nepaleser']",
+      "adjective": "nepalesisk"
+    },
+    {
+      "id": "120",
+      "country": "Nicaragua",
+      "country_alternativename": "",
+      "resident_singular": "['nicaraguan']",
+      "resident_plural": "['nicaraguaner']",
+      "adjective": "nicaraguansk"
+    },
+    {
+      "id": "121",
+      "country": "Niger",
+      "country_alternativename": "",
+      "resident_singular": "['nigerier']",
+      "resident_plural": "['nigerier']",
+      "adjective": "nigerisk"
+    },
+    {
+      "id": "122",
+      "country": "Nigeria",
+      "country_alternativename": "",
+      "resident_singular": "['nigerian']",
+      "resident_plural": "['nigerianer']",
+      "adjective": "nigeriansk"
+    },
+    {
+      "id": "123",
+      "country": "Nordkorea",
+      "country_alternativename": "",
+      "resident_singular": "['nordkorean']",
+      "resident_plural": "['nordkoreaner']",
+      "adjective": "nordkoreansk"
+    },
+    {
+      "id": "124",
+      "country": "Norge",
+      "country_alternativename": "",
+      "resident_singular": "['norrman']",
+      "resident_plural": "['norrmän']",
+      "adjective": "norsk"
+    },
+    {
+      "id": "125",
+      "country": "Nya Zeeland",
+      "country_alternativename": "",
+      "resident_singular": "['nyzeeländare']",
+      "resident_plural": "['nyzeeländare']",
+      "adjective": "nyzeeländsk"
+    },
+    {
+      "id": "126",
+      "country": "Oman",
+      "country_alternativename": "",
+      "resident_singular": "['omanier']",
+      "resident_plural": "['omanier']",
+      "adjective": "omansk"
+    },
+    {
+      "id": "127",
+      "country": "Pakistan",
+      "country_alternativename": "",
+      "resident_singular": "['pakistanier']",
+      "resident_plural": "['pakistanier']",
+      "adjective": "pakistansk"
+    },
+    {
+      "id": "128",
+      "country": "Palau",
+      "country_alternativename": "",
+      "resident_singular": "['palauer']",
+      "resident_plural": "['palauer']",
+      "adjective": "palauisk"
+    },
+    {
+      "id": "129",
+      "country": "Palestina",
+      "country_alternativename": "",
+      "resident_singular": "['palestinier']",
+      "resident_plural": "['palestinier']",
+      "adjective": "palestinsk"
+    },
+    {
+      "id": "130",
+      "country": "Panama",
+      "country_alternativename": "",
+      "resident_singular": "['panaman']",
+      "resident_plural": "['panamaner']",
+      "adjective": "panamansk"
+    },
+    {
+      "id": "131",
+      "country": "Papua Nya Guinea",
+      "country_alternativename": "",
+      "resident_singular": "['papuan']",
+      "resident_plural": "['papuaner']",
+      "adjective": "papuansk"
+    },
+    {
+      "id": "132",
+      "country": "Paraguay",
+      "country_alternativename": "",
+      "resident_singular": "['paraguayan']",
+      "resident_plural": "['paraguayaner']",
+      "adjective": "paraguayansk"
+    },
+    {
+      "id": "133",
+      "country": "Peru",
+      "country_alternativename": "",
+      "resident_singular": "['peruan']",
+      "resident_plural": "['peruaner']",
+      "adjective": "peruansk"
+    },
+    {
+      "id": "134",
+      "country": "Polen",
+      "country_alternativename": "",
+      "resident_singular": "['polack']",
+      "resident_plural": "['polacker']",
+      "adjective": "polsk"
+    },
+    {
+      "id": "135",
+      "country": "Portugal",
+      "country_alternativename": "",
+      "resident_singular": "['portugis']",
+      "resident_plural": "['portugiser']",
+      "adjective": "portugisisk"
+    },
+    {
+      "id": "136",
+      "country": "Qatar",
+      "country_alternativename": "",
+      "resident_singular": "['qatarier']",
+      "resident_plural": "['qatarier']",
+      "adjective": "qatarisk"
+    },
+    {
+      "id": "137",
+      "country": "Rumänien",
+      "country_alternativename": "",
+      "resident_singular": "['rumän']",
+      "resident_plural": "['rumäner']",
+      "adjective": "rumänsk"
+    },
+    {
+      "id": "138",
+      "country": "Rwanda",
+      "country_alternativename": "",
+      "resident_singular": "['rwandier']",
+      "resident_plural": "['rwandier']",
+      "adjective": "rwandisk"
+    },
+    {
+      "id": "139",
+      "country": "Ryssland",
+      "country_alternativename": "",
+      "resident_singular": "['ryss']",
+      "resident_plural": "['ryssar']",
+      "adjective": "rysk"
+    },
+    {
+      "id": "140",
+      "country": "Salomonöarna",
+      "country_alternativename": "",
+      "resident_singular": "['salomonier']",
+      "resident_plural": "['salomonier']",
+      "adjective": "salomonsk"
+    },
+    {
+      "id": "141",
+      "country": "Samoa",
+      "country_alternativename": "",
+      "resident_singular": "['samoan']",
+      "resident_plural": "['samoaner']",
+      "adjective": "samoansk"
+    },
+    {
+      "id": "142",
+      "country": "San Marino",
+      "country_alternativename": "",
+      "resident_singular": "['sanmarinier']",
+      "resident_plural": "['sanmarinier']",
+      "adjective": "sanmarinsk"
+    },
+    {
+      "id": "143",
+      "country": "Sao Tomé och Principe",
+      "country_alternativename": "",
+      "resident_singular": "['(sao)tomean']",
+      "resident_plural": "['(sao)tomeaner']",
+      "adjective": "(sao)tomeansk"
+    },
+    {
+      "id": "144",
+      "country": "Saudiarabien",
+      "country_alternativename": "",
+      "resident_singular": "['saudier']",
+      "resident_plural": "['saudier']",
+      "adjective": "saudisk"
+    },
+    {
+      "id": "145",
+      "country": "Schweiz",
+      "country_alternativename": "",
+      "resident_singular": "['schweizare']",
+      "resident_plural": "['schweizare']",
+      "adjective": "schweizisk"
+    },
+    {
+      "id": "146",
+      "country": "Senegal",
+      "country_alternativename": "",
+      "resident_singular": "['senegales']",
+      "resident_plural": "['senegaleser']",
+      "adjective": "senegalesisk"
+    },
+    {
+      "id": "147",
+      "country": "Serbien",
+      "country_alternativename": "",
+      "resident_singular": "['serb']",
+      "resident_plural": "['serber']",
+      "adjective": "serbisk"
+    },
+    {
+      "id": "148",
+      "country": "Seychellerna",
+      "country_alternativename": "",
+      "resident_singular": "['seychellier']",
+      "resident_plural": "['seychellier']",
+      "adjective": "seychellisk"
+    },
+    {
+      "id": "149",
+      "country": "Sierra Leone",
+      "country_alternativename": "",
+      "resident_singular": "['sierraleonier']",
+      "resident_plural": "['sierraleonier']",
+      "adjective": "sierraleonsk"
+    },
+    {
+      "id": "150",
+      "country": "Singapore",
+      "country_alternativename": "",
+      "resident_singular": "['singaporian']",
+      "resident_plural": "['singaporianer']",
+      "adjective": "singaporiansk"
+    },
+    {
+      "id": "151",
+      "country": "Slovakien",
+      "country_alternativename": "",
+      "resident_singular": "['slovak']",
+      "resident_plural": "['slovaker']",
+      "adjective": "slovakisk"
+    },
+    {
+      "id": "152",
+      "country": "Slovenien",
+      "country_alternativename": "",
+      "resident_singular": "['sloven']",
+      "resident_plural": "['slovener']",
+      "adjective": "slovensk"
+    },
+    {
+      "id": "153",
+      "country": "Somalia",
+      "country_alternativename": "",
+      "resident_singular": "['somalier']",
+      "resident_plural": "['somalier']",
+      "adjective": "somalisk"
+    },
+    {
+      "id": "154",
+      "country": "Spanien",
+      "country_alternativename": "",
+      "resident_singular": "['spanjor']",
+      "resident_plural": "['spanjorer']",
+      "adjective": "spansk"
+    },
+    {
+      "id": "155",
+      "country": "Sri Lanka",
+      "country_alternativename": "",
+      "resident_singular": "['lankes']",
+      "resident_plural": "['lankeser']",
+      "adjective": "lankesisk"
+    },
+    {
+      "id": "156",
+      "country": "Saint Kitts och Nevis",
+      "country_alternativename": "",
+      "resident_singular": "['kittsian', 'nevisian']",
+      "resident_plural": "['kittsianer', 'nevisianer']",
+      "adjective": "kittsiansk, nevisiansk"
+    },
+    {
+      "id": "157",
+      "country": "Saint Lucia",
+      "country_alternativename": "",
+      "resident_singular": "['lucian']",
+      "resident_plural": "['lucianer']",
+      "adjective": "luciansk"
+    },
+    {
+      "id": "158",
+      "country": "Saint Vincent och Grenadinerna",
+      "country_alternativename": "",
+      "resident_singular": "['vincentier', 'grenadinier']",
+      "resident_plural": "['vincentier', 'grenadinier']",
+      "adjective": "vincentisk, grenadinsk"
+    },
+    {
+      "id": "159",
+      "country": "Storbritannien",
+      "country_alternativename": "",
+      "resident_singular": "['britt']",
+      "resident_plural": "['britter']",
+      "adjective": "brittisk"
+    },
+    {
+      "id": "160",
+      "country": "Sudan",
+      "country_alternativename": "Nordsudan",
+      "resident_singular": "['sudanes']",
+      "resident_plural": "['sudaneser']",
+      "adjective": "sudanesisk"
+    },
+    {
+      "id": "161",
+      "country": "Surinam",
+      "country_alternativename": "",
+      "resident_singular": "['surinames']",
+      "resident_plural": "['surinameser']",
+      "adjective": "surinamesisk"
+    },
+    {
+      "id": "162",
+      "country": "Sverige",
+      "country_alternativename": "",
+      "resident_singular": "['svensk']",
+      "resident_plural": "['svenskar']",
+      "adjective": "svensk"
+    },
+    {
+      "id": "163",
+      "country": "Swaziland",
+      "country_alternativename": "",
+      "resident_singular": "['swaziländare']",
+      "resident_plural": "['swaziländare']",
+      "adjective": "swaziländsk"
+    },
+    {
+      "id": "164",
+      "country": "Sydafrika",
+      "country_alternativename": "",
+      "resident_singular": "['sydafrikan']",
+      "resident_plural": "['sydafrikaner']",
+      "adjective": "sydafrikansk"
+    },
+    {
+      "id": "165",
+      "country": "Sydkorea",
+      "country_alternativename": "",
+      "resident_singular": "['sydkorean']",
+      "resident_plural": "['sydkoreaner']",
+      "adjective": "sydkoreansk"
+    },
+    {
+      "id": "166",
+      "country": "Sydsudan",
+      "country_alternativename": "",
+      "resident_singular": "['sydsudanes']",
+      "resident_plural": "['sydsudaneser']",
+      "adjective": "sydsudanesisk"
+    },
+    {
+      "id": "167",
+      "country": "Syrien",
+      "country_alternativename": "",
+      "resident_singular": "['syrier']",
+      "resident_plural": "['syrier']",
+      "adjective": "syrisk"
+    },
+    {
+      "id": "168",
+      "country": "Tadzjikistan",
+      "country_alternativename": "",
+      "resident_singular": "['tadzjikistanier', 'tadzjik']",
+      "resident_plural": "['tadzjikistanier', 'tadzjiker']",
+      "adjective": "tadzjikistansk, tadzjikisk"
+    },
+    {
+      "id": "169",
+      "country": "Taiwan",
+      "country_alternativename": "",
+      "resident_singular": "['taiwanes']",
+      "resident_plural": "['taiwaneser']",
+      "adjective": "taiwanesisk"
+    },
+    {
+      "id": "170",
+      "country": "Tanzania",
+      "country_alternativename": "",
+      "resident_singular": "['tanzanier']",
+      "resident_plural": "['tanzanier']",
+      "adjective": "tanzanisk"
+    },
+    {
+      "id": "171",
+      "country": "Tchad",
+      "country_alternativename": "",
+      "resident_singular": "['tchadier']",
+      "resident_plural": "['tchadier']",
+      "adjective": "tchadisk"
+    },
+    {
+      "id": "172",
+      "country": "Thailand",
+      "country_alternativename": "",
+      "resident_singular": "['thailändare']",
+      "resident_plural": "['thailändare']",
+      "adjective": "thailändsk"
+    },
+    {
+      "id": "173",
+      "country": "Tjeckien",
+      "country_alternativename": "",
+      "resident_singular": "['tjeck']",
+      "resident_plural": "['tjecker']",
+      "adjective": "tjeckisk"
+    },
+    {
+      "id": "174",
+      "country": "Togo",
+      "country_alternativename": "",
+      "resident_singular": "['togoles']",
+      "resident_plural": "['togoleser']",
+      "adjective": "togolesisk"
+    },
+    {
+      "id": "175",
+      "country": "Tonga",
+      "country_alternativename": "",
+      "resident_singular": "['tongan']",
+      "resident_plural": "['tonganer']",
+      "adjective": "tongansk"
+    },
+    {
+      "id": "176",
+      "country": "Trinidad och Tobago",
+      "country_alternativename": "",
+      "resident_singular": "['trinidadier', 'tobagier']",
+      "resident_plural": "['trinidadier', 'tobagier']",
+      "adjective": "trinidadisk, tobagisk"
+    },
+    {
+      "id": "177",
+      "country": "Tunisien",
+      "country_alternativename": "",
+      "resident_singular": "['tunisier']",
+      "resident_plural": "['tunisier']",
+      "adjective": "tunisisk"
+    },
+    {
+      "id": "178",
+      "country": "Turkiet",
+      "country_alternativename": "",
+      "resident_singular": "['turk']",
+      "resident_plural": "['turkar']",
+      "adjective": "turkisk"
+    },
+    {
+      "id": "179",
+      "country": "Turkmenistan",
+      "country_alternativename": "",
+      "resident_singular": "['turkmenistanier', 'turkmen']",
+      "resident_plural": "['turkmenistanier', 'turkmener']",
+      "adjective": "turkmenistansk, turkmenisk"
+    },
+    {
+      "id": "180",
+      "country": "Tuvalu",
+      "country_alternativename": "",
+      "resident_singular": "['tuvaluan']",
+      "resident_plural": "['tuvaluaner']",
+      "adjective": "tuvaluansk"
+    },
+    {
+      "id": "181",
+      "country": "Tyskland",
+      "country_alternativename": "",
+      "resident_singular": "['tysk']",
+      "resident_plural": "['tyskar']",
+      "adjective": "tysk"
+    },
+    {
+      "id": "182",
+      "country": "Uganda",
+      "country_alternativename": "",
+      "resident_singular": "['ugandier']",
+      "resident_plural": "['ugandier']",
+      "adjective": "ugandisk"
+    },
+    {
+      "id": "183",
+      "country": "Ukraina",
+      "country_alternativename": "",
+      "resident_singular": "['ukrainare']",
+      "resident_plural": "['ukrainare']",
+      "adjective": "ukrainsk"
+    },
+    {
+      "id": "184",
+      "country": "Ungern",
+      "country_alternativename": "",
+      "resident_singular": "['ungrare']",
+      "resident_plural": "['ungrare']",
+      "adjective": "ungersk"
+    },
+    {
+      "id": "185",
+      "country": "Uruguay",
+      "country_alternativename": "",
+      "resident_singular": "['uruguayan']",
+      "resident_plural": "['uruguayaner']",
+      "adjective": "uruguayansk"
+    },
+    {
+      "id": "186",
+      "country": "USA",
+      "country_alternativename": "Förenta staterna",
+      "resident_singular": "['amerikan']",
+      "resident_plural": "['amerikaner']",
+      "adjective": "amerikansk"
+    },
+    {
+      "id": "187",
+      "country": "Uzbekistan",
+      "country_alternativename": "",
+      "resident_singular": "['uzbekistanier', 'uzbek']",
+      "resident_plural": "['uzbekistanier', 'uzbeker']",
+      "adjective": "uzbekistansk, uzbekisk"
+    },
+    {
+      "id": "188",
+      "country": "Vanuatu",
+      "country_alternativename": "",
+      "resident_singular": "['vanuatuer']",
+      "resident_plural": "['vanuatuer']",
+      "adjective": "vanuatisk"
+    },
+    {
+      "id": "189",
+      "country": "Vatikanstaten",
+      "country_alternativename": "",
+      "resident_singular": "['vatikanare']",
+      "resident_plural": "['vatikanare']",
+      "adjective": "vatikansk"
+    },
+    {
+      "id": "190",
+      "country": "Venezuela",
+      "country_alternativename": "",
+      "resident_singular": "['venezuelan']",
+      "resident_plural": "['venezuelaner']",
+      "adjective": "venezuelansk"
+    },
+    {
+      "id": "191",
+      "country": "Vietnam",
+      "country_alternativename": "",
+      "resident_singular": "['vietnames']",
+      "resident_plural": "['vietnameser']",
+      "adjective": "vietnamesisk"
+    },
+    {
+      "id": "192",
+      "country": "Vitryssland",
+      "country_alternativename": "",
+      "resident_singular": "['vitryss']",
+      "resident_plural": "['vitryssar']",
+      "adjective": "vitrysk"
+    },
+    {
+      "id": "193",
+      "country": "Zambia",
+      "country_alternativename": "",
+      "resident_singular": "['zambier']",
+      "resident_plural": "['zambier']",
+      "adjective": "zambisk"
+    },
+    {
+      "id": "194",
+      "country": "Zimbabwe",
+      "country_alternativename": "",
+      "resident_singular": "['zimbabwier']",
+      "resident_plural": "['zimbabwier']",
+      "adjective": "zimbabwisk"
+    },
+    {
+      "id": "195",
+      "country": "Österrike",
+      "country_alternativename": "",
+      "resident_singular": "['österrikare']",
+      "resident_plural": "['österrikare']",
+      "adjective": "österrikisk"
+    },
+    {
+      "id": "196",
+      "country": "Östtimor",
+      "country_alternativename": "",
+      "resident_singular": "['östtimorian']",
+      "resident_plural": "['östtimorianer']",
+      "adjective": "östtimoriansk "
+    }
+  ],
+  "meta": {
+    "title": "Nationaliteter - Gratis nedladdning",
+    "description": "Länder med svenska nationalitetsord: invånare i singular och plural samt adjektivform. Innehåller 197 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Nationaliteter | ListBase",
+    "seo_description": "Ladda ner Nationaliteter — 197 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 197 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

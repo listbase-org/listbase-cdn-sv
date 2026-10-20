@@ -1,0 +1,758 @@
+{
+  "id": "sv-orebro-regso",
+  "name": "RegSO-områden i Örebro län",
+  "title": "RegSO-områden i Örebro län",
+  "description": "101 regionala statistikområden (RegSO) i Örebro län (länskod 18). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "1814R001",
+      "regso_namn": "Fjugesta västra",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1814R002",
+      "regso_namn": "Fjugesta östra",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1814R003",
+      "regso_namn": "Lekeberg norra landsbygd",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1814R004",
+      "regso_namn": "Lekeberg södra landsbygd",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1814R005",
+      "regso_namn": "Lekeberg-Lanna",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1814R006",
+      "regso_namn": "Mullhyttan-Mullhyttan omnejd",
+      "kommun_kod": "1814",
+      "kommun_namn": "Lekeberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1860R001",
+      "regso_namn": "Finnerödja-Tived",
+      "kommun_kod": "1860",
+      "kommun_namn": "Laxå",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1860R002",
+      "regso_namn": "Hasselfors-Röfors",
+      "kommun_kod": "1860",
+      "kommun_namn": "Laxå",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1860R003",
+      "regso_namn": "Laxå norra",
+      "kommun_kod": "1860",
+      "kommun_namn": "Laxå",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1860R004",
+      "regso_namn": "Laxå södra",
+      "kommun_kod": "1860",
+      "kommun_namn": "Laxå",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1861R001",
+      "regso_namn": "Hallsberg västra-Stortorget-Vibytorp",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1861R002",
+      "regso_namn": "Hallsberg östra-Norrby-Samsala",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1861R003",
+      "regso_namn": "Nya Långängen-Falla",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1861R004",
+      "regso_namn": "Nytorget-Hässleberg-Brunnskullen",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1861R005",
+      "regso_namn": "Pålsboda-Vibbanbotorp-Resta",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1861R006",
+      "regso_namn": "Sköllersta-Kalsta-Sörby",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1861R007",
+      "regso_namn": "Stocksätter-Kårstahult-Stora Älberg",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1861R008",
+      "regso_namn": "Svennevad-Kånsta-Hjortkvarn",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1861R009",
+      "regso_namn": "Vretstorp-Viby-omland",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1861R010",
+      "regso_namn": "Östansjö-Tisaren-Ålsta",
+      "kommun_kod": "1861",
+      "kommun_namn": "Hallsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1862R001",
+      "regso_namn": "Degerfors centrum-Bruket",
+      "kommun_kod": "1862",
+      "kommun_namn": "Degerfors",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1862R002",
+      "regso_namn": "Strömtorp-Degernäs",
+      "kommun_kod": "1862",
+      "kommun_namn": "Degerfors",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1862R003",
+      "regso_namn": "Svartå-Solberga-Knutsbol",
+      "kommun_kod": "1862",
+      "kommun_namn": "Degerfors",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1862R004",
+      "regso_namn": "Åtorp-Högberg-Gräsmossen",
+      "kommun_kod": "1862",
+      "kommun_namn": "Degerfors",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1863R001",
+      "regso_namn": "Hällefors centrum",
+      "kommun_kod": "1863",
+      "kommun_namn": "Hällefors",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1863R002",
+      "regso_namn": "Hällefors omland",
+      "kommun_kod": "1863",
+      "kommun_namn": "Hällefors",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1863R003",
+      "regso_namn": "Hällefors-Gillershöjden",
+      "kommun_kod": "1863",
+      "kommun_namn": "Hällefors",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1863R004",
+      "regso_namn": "Hällefors-Kronhagen",
+      "kommun_kod": "1863",
+      "kommun_namn": "Hällefors",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1864R001",
+      "regso_namn": "Kopparberg City",
+      "kommun_kod": "1864",
+      "kommun_namn": "Ljusnarsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1864R002",
+      "regso_namn": "Kopparberg Yttre-Bångbro",
+      "kommun_kod": "1864",
+      "kommun_namn": "Ljusnarsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1864R003",
+      "regso_namn": "Ljusnarsberg Yttre",
+      "kommun_kod": "1864",
+      "kommun_namn": "Ljusnarsberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R001",
+      "regso_namn": "Adolfsberg",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R002",
+      "regso_namn": "Almby-Ormesta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R003",
+      "regso_namn": "Baronbackarna",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R004",
+      "regso_namn": "Brickebacken",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R005",
+      "regso_namn": "Brickeberg-Norra Bro",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R006",
+      "regso_namn": "Brunnsgärdet-Lindhult-Nasta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R007",
+      "regso_namn": "Ekeby-Almby-Hidingsta-Stora Mellösa",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R008",
+      "regso_namn": "Eklunda-Sörby",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R009",
+      "regso_namn": "Ervalla-Ölmbrotorp",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R010",
+      "regso_namn": "Garphyttan-Närkes Kil",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R011",
+      "regso_namn": "Glanshammar",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R012",
+      "regso_namn": "Hagaby-Ringstorp",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R013",
+      "regso_namn": "Holmen-Hjärsta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R014",
+      "regso_namn": "Hovsta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R015",
+      "regso_namn": "Ladugårdsängen",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R016",
+      "regso_namn": "Latorp-Täby-Vintrosa",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R017",
+      "regso_namn": "Lillån",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R018",
+      "regso_namn": "Lundby",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R019",
+      "regso_namn": "Marieberg-Mosås",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R020",
+      "regso_namn": "Markbacken-Västra Mark",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R021",
+      "regso_namn": "Mellringe-Björkhaga",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R022",
+      "regso_namn": "Nya Hjärsta-Nyponlunden",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R023",
+      "regso_namn": "Näsby-Norra Ormesta",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R024",
+      "regso_namn": "Rosta-Örnsro",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R025",
+      "regso_namn": "Rynninge-Grenadjärstaden",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R026",
+      "regso_namn": "Sörbyängen",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R027",
+      "regso_namn": "Tybble",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R028",
+      "regso_namn": "Varberga-Oxhagen",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R029",
+      "regso_namn": "Vivalla",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R030",
+      "regso_namn": "Västhaga-Solhaga",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R031",
+      "regso_namn": "Örebro city",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R032",
+      "regso_namn": "Örebro norr-CV",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R033",
+      "regso_namn": "Örebro söder",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R034",
+      "regso_namn": "Örebro väster",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R035",
+      "regso_namn": "Örebro öster",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1880R036",
+      "regso_namn": "Östernärke",
+      "kommun_kod": "1880",
+      "kommun_namn": "Örebro",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1881R001",
+      "regso_namn": "Haga-Djupadal-Åsen",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1881R002",
+      "regso_namn": "Kumla centrum-Fylsta-Via",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1881R003",
+      "regso_namn": "Kumla omland",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1881R004",
+      "regso_namn": "Kumlaby-Korsta-Sannahed",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1881R005",
+      "regso_namn": "Oppegård-Skogstorp-Smedstorp",
+      "kommun_kod": "1881",
+      "kommun_namn": "Kumla",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1882R001",
+      "regso_namn": "Askersund omland norr",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1882R002",
+      "regso_namn": "Askersund omland söder",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1882R003",
+      "regso_namn": "Askersund omland väster",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1882R004",
+      "regso_namn": "Askersund omland öster",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1882R005",
+      "regso_namn": "Askersund stad",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1882R006",
+      "regso_namn": "Åsbro",
+      "kommun_kod": "1882",
+      "kommun_namn": "Askersund",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1883R001",
+      "regso_namn": "Karlskoga norra tätort",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1883R002",
+      "regso_namn": "Karlskoga omland",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1883R003",
+      "regso_namn": "Karlskoga västra tätort",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1883R004",
+      "regso_namn": "Karlskoga östra tätort",
+      "kommun_kod": "1883",
+      "kommun_namn": "Karlskoga",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1884R001",
+      "regso_namn": "Esstorp-Fibbetorp",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1884R002",
+      "regso_namn": "Nora landsbygd norr",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1884R003",
+      "regso_namn": "Nora landsbygd söder",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1884R004",
+      "regso_namn": "Nora norra centrum",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1884R005",
+      "regso_namn": "Nora södra centrum",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1884R006",
+      "regso_namn": "Pershyttan-Hitorp",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1884R007",
+      "regso_namn": "Ås-Gyttorp",
+      "kommun_kod": "1884",
+      "kommun_namn": "Nora",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R001",
+      "regso_namn": "Fellingsbro landsbygd",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R002",
+      "regso_namn": "Fellingsbro tätort",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R003",
+      "regso_namn": "Frövi landsbygd",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R004",
+      "regso_namn": "Frövi tätort",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R005",
+      "regso_namn": "Lindesberg landsbygd",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R006",
+      "regso_namn": "Lindesberg nordöstra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R007",
+      "regso_namn": "Lindesberg norra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R008",
+      "regso_namn": "Lindesberg sydöstra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R009",
+      "regso_namn": "Lindesberg södra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R010",
+      "regso_namn": "Lindesberg västra",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R011",
+      "regso_namn": "Storå landsbygd",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    },
+    {
+      "regso_kod": "1885R012",
+      "regso_namn": "Storå tätort",
+      "kommun_kod": "1885",
+      "kommun_namn": "Lindesberg",
+      "lan_kod": "18"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Örebro län - Gratis nedladdning",
+    "description": "101 regionala statistikområden (RegSO) i Örebro län (länskod 18). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 101 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Örebro län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Örebro län — 101 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 101 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

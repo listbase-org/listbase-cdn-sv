@@ -1,0 +1,56 @@
+{
+  "id": "sv-myndigheter-affarsverk",
+  "name": "Statliga myndigheter – Statligt affärsverk",
+  "title": "Statliga myndigheter – Statligt affärsverk",
+  "description": "Svenska organisationer av typen ”Statligt affärsverk” med namn och ort.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "Statligt affärsverk",
+      "name": "Luftfartsverket",
+      "city": "Norrköping"
+    },
+    {
+      "type": "Statligt affärsverk",
+      "name": "Sjöfartsverket",
+      "city": "Norrköping"
+    },
+    {
+      "type": "Statligt affärsverk",
+      "name": "Svenska kraftnät",
+      "city": "Sundbyberg"
+    }
+  ],
+  "meta": {
+    "title": "Statliga myndigheter – Statligt affärsverk - Gratis nedladdning",
+    "description": "Svenska organisationer av typen ”Statligt affärsverk” med namn och ort. Innehåller 3 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Statliga myndigheter – Statligt affärsverk | ListBase",
+    "seo_description": "Ladda ner Statliga myndigheter – Statligt affärsverk — 3 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 3 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

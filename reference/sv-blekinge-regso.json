@@ -1,0 +1,520 @@
+{
+  "id": "sv-blekinge-regso",
+  "name": "RegSO-områden i Blekinge län",
+  "title": "RegSO-områden i Blekinge län",
+  "description": "67 regionala statistikområden (RegSO) i Blekinge län (länskod 10). Delmängd av sv-regso. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "regso_kod",
+      "label": "Regso Kod",
+      "type": "string"
+    },
+    {
+      "key": "regso_namn",
+      "label": "Regso Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regso_kod": "1060R001",
+      "regso_namn": "Jämshög-Jämshög närområde",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1060R002",
+      "regso_namn": "Kyrkhult-Kyrkhult närområde",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1060R003",
+      "regso_namn": "Olofström sydöstra-Gränum",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1060R004",
+      "regso_namn": "Olofströms omland-Vilshult",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1060R005",
+      "regso_namn": "Olofströms tätort nordvästra-Vilboken",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1060R006",
+      "regso_namn": "Olofströms tätort nordöstra-Brännaregården",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1060R007",
+      "regso_namn": "Olofströms tätort norra-centrala",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1060R008",
+      "regso_namn": "Olofströms tätort södra-Nordenbergsskolan",
+      "kommun_kod": "1060",
+      "kommun_namn": "Olofström",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R001",
+      "regso_namn": "Bergåsa-Västra Mark-Annebo",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R002",
+      "regso_namn": "Fridlevstad-Tving",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R003",
+      "regso_namn": "Galgamarken",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R004",
+      "regso_namn": "Holmsjö-Strömsberg-Kättilsmåla",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R005",
+      "regso_namn": "Hässlegården-Bastasjö-Torskors",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R006",
+      "regso_namn": "Hästö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R007",
+      "regso_namn": "Jämjö tätort",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R008",
+      "regso_namn": "Karlskronas omland-Nättrabys omland",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R009",
+      "regso_namn": "Kronotorp-Nordöstra Lyckeby",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R010",
+      "regso_namn": "Kungsmarken",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R011",
+      "regso_namn": "Långö-Gräsvik",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R012",
+      "regso_namn": "Marieberg-Gullberna",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R013",
+      "regso_namn": "Mariedal-Backabo",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R014",
+      "regso_namn": "Nordvästra Trossö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R015",
+      "regso_namn": "Nordöstra Trossö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R016",
+      "regso_namn": "Nättraby tätort",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R017",
+      "regso_namn": "Pantarholmen",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R018",
+      "regso_namn": "Ramdala-Senoren",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R019",
+      "regso_namn": "Rödeby tätort",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R020",
+      "regso_namn": "Saltö-Björkholmen",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R021",
+      "regso_namn": "Skärgården",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R022",
+      "regso_namn": "Spandelstorp",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R023",
+      "regso_namn": "Sydvästra Trossö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R024",
+      "regso_namn": "Sydöstra Lyckeby",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R025",
+      "regso_namn": "Sydöstra Trossö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R026",
+      "regso_namn": "Torhamn-Kristianopel-Jämjös omland",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R027",
+      "regso_namn": "Verkö-Ringö-Knösö",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1080R028",
+      "regso_namn": "Västra Lyckeby",
+      "kommun_kod": "1080",
+      "kommun_namn": "Karlskrona",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1081R001",
+      "regso_namn": "Backaryd-Hallabro",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1081R002",
+      "regso_namn": "Bräkne-Hoby",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1081R003",
+      "regso_namn": "Ekenäs-Sörby-Påtorp",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1081R004",
+      "regso_namn": "Hasselstad-Eringsboda",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1081R005",
+      "regso_namn": "Hulta",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1081R006",
+      "regso_namn": "Kallinge",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1081R007",
+      "regso_namn": "Ronneby centrum",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1081R008",
+      "regso_namn": "Saxemara-Listerby-Johannishus",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1081R009",
+      "regso_namn": "Älgbacken-Hjorthöjden",
+      "kommun_kod": "1081",
+      "kommun_namn": "Ronneby",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R001",
+      "regso_namn": "Asarum centrala",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R002",
+      "regso_namn": "Duveryd",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R003",
+      "regso_namn": "Froarp",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R004",
+      "regso_namn": "Hällaryd-Åryd",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R005",
+      "regso_namn": "Högadal",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R006",
+      "regso_namn": "Karlshamn centrala",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R007",
+      "regso_namn": "Karlshamn västra",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R008",
+      "regso_namn": "Karlshamn östra",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R009",
+      "regso_namn": "Korpadalen-Strömma",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R010",
+      "regso_namn": "Mörrum västra",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R011",
+      "regso_namn": "Mörrum östra",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R012",
+      "regso_namn": "Mörrum-Svängsta omland",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R013",
+      "regso_namn": "Prästslätten",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1082R014",
+      "regso_namn": "Svängsta",
+      "kommun_kod": "1082",
+      "kommun_namn": "Karlshamn",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1083R001",
+      "regso_namn": "Falkvik",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1083R002",
+      "regso_namn": "Hällevik",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1083R003",
+      "regso_namn": "Kylinge-Gammalstorp-Ysane",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1083R004",
+      "regso_namn": "Listerlandet-Hanö",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1083R005",
+      "regso_namn": "Mjällby",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1083R006",
+      "regso_namn": "Norje-Pukavik",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1083R007",
+      "regso_namn": "Stadskärnan",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10"
+    },
+    {
+      "regso_kod": "1083R008",
+      "regso_namn": "Sölvesborg",
+      "kommun_kod": "1083",
+      "kommun_namn": "Sölvesborg",
+      "lan_kod": "10"
+    }
+  ],
+  "meta": {
+    "title": "RegSO-områden i Blekinge län - Gratis nedladdning",
+    "description": "67 regionala statistikområden (RegSO) i Blekinge län (länskod 10). Delmängd av sv-regso. Källa: stefur/swemaps-data. Innehåller 67 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "RegSO-områden i Blekinge län | ListBase",
+    "seo_description": "Ladda ner RegSO-områden i Blekinge län — 67 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 67 poster / 5 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

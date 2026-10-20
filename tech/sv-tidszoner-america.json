@@ -1,0 +1,424 @@
+{
+  "id": "sv-tidszoner-america",
+  "name": "Tidszoner – America (46)",
+  "title": "Tidszoner – America (46)",
+  "description": "Tidszoner vars IANA-identifierare börjar med 'America/', med namn på svenska.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "stad",
+      "label": "Stad",
+      "type": "string"
+    },
+    {
+      "key": "standardnamn",
+      "label": "Standardnamn",
+      "type": "string"
+    },
+    {
+      "key": "sommarnamn",
+      "label": "Sommarnamn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "America/Araguaina",
+      "region": "America",
+      "stad": "Araguaína",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "region": "America",
+      "stad": "Río Gallegos",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "America/Argentina/Tucuman",
+      "region": "America",
+      "stad": "Tucumán",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "America/Asuncion",
+      "region": "America",
+      "stad": "Asunción",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "America/Bahia_Banderas",
+      "region": "America",
+      "stad": "Bahía de Banderas",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "America/Belem",
+      "region": "America",
+      "stad": "Belém",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "America/Bogota",
+      "region": "America",
+      "stad": "Bogotá",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "America/Cancun",
+      "region": "America",
+      "stad": "Cancún",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "America/Cayman",
+      "region": "America",
+      "stad": "Caymanöarna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Ciudad_Juarez",
+      "region": "America",
+      "stad": "Ciudad Juárez",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Coral_Harbour",
+      "region": "America",
+      "stad": "Atikokan",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Cordoba",
+      "region": "America",
+      "stad": "Córdoba",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Cuiaba",
+      "region": "America",
+      "stad": "Cuiabá",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Curacao",
+      "region": "America",
+      "stad": "Curaçao",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Eirunepe",
+      "region": "America",
+      "stad": "Eirunepé",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Godthab",
+      "region": "America",
+      "stad": "Nuuk",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Havana",
+      "region": "America",
+      "stad": "Havanna",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Indiana/Knox",
+      "region": "America",
+      "stad": "Knox, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Indiana/Marengo",
+      "region": "America",
+      "stad": "Marengo, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Indiana/Petersburg",
+      "region": "America",
+      "stad": "Petersburg, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Indiana/Tell_City",
+      "region": "America",
+      "stad": "Tell City, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Indiana/Vevay",
+      "region": "America",
+      "stad": "Vevay, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Indiana/Vincennes",
+      "region": "America",
+      "stad": "Vincennes, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Indiana/Winamac",
+      "region": "America",
+      "stad": "Winamac, Indiana",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Jujuy",
+      "region": "America",
+      "stad": "San Salvador de Jujuy",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Kentucky/Monticello",
+      "region": "America",
+      "stad": "Monticello, Kentucky",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Lower_Princes",
+      "region": "America",
+      "stad": "Lower Prince’s Quarter",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Maceio",
+      "region": "America",
+      "stad": "Maceió",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Mazatlan",
+      "region": "America",
+      "stad": "Mazatlán",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Merida",
+      "region": "America",
+      "stad": "Mérida",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Mexico_City",
+      "region": "America",
+      "stad": "Ciudad de México",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Miquelon",
+      "region": "America",
+      "stad": "Saint-Pierre",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Noronha",
+      "region": "America",
+      "stad": "Fernando de Noronha",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/North_Dakota/Beulah",
+      "region": "America",
+      "stad": "Beulah, North Dakota",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/North_Dakota/Center",
+      "region": "America",
+      "stad": "Center, North Dakota",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "region": "America",
+      "stad": "New Salem, North Dakota",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Santarem",
+      "region": "America",
+      "stad": "Santarém",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Sao_Paulo",
+      "region": "America",
+      "stad": "São Paulo",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Scoresbysund",
+      "region": "America",
+      "stad": "Ittoqqortoormiit",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/St_Barthelemy",
+      "region": "America",
+      "stad": "Saint-Barthélemy",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/St_Johns",
+      "region": "America",
+      "stad": "Saint John’s",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/St_Kitts",
+      "region": "America",
+      "stad": "Saint Kitts",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/St_Lucia",
+      "region": "America",
+      "stad": "Saint Lucia",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/St_Thomas",
+      "region": "America",
+      "stad": "Saint Thomas",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/St_Vincent",
+      "region": "America",
+      "stad": "Saint Vincent",
+      "standardnamn": "",
+      "sommarnamn": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/Thule",
+      "region": "America",
+      "stad": "Qaanaaq",
+      "standardnamn": "",
+      "sommarnamn": ""
+    }
+  ],
+  "meta": {
+    "title": "Tidszoner – America (46) - Gratis nedladdning",
+    "description": "Tidszoner vars IANA-identifierare börjar med 'America/', med namn på svenska. Innehåller 46 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Tidszoner – America (46) | ListBase",
+    "seo_description": "Ladda ner Tidszoner – America (46) — 46 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 46 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

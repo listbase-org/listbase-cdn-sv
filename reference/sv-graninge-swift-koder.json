@@ -1,0 +1,70 @@
+{
+  "id": "sv-graninge-swift-koder",
+  "name": "SWIFT/BIC-koder — Graninge",
+  "title": "SWIFT/BIC-koder — Graninge",
+  "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 4 institut som källan anger med orten \"GRANINGE\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "FOREIGN FINANCE TRUST SWEDEN KB",
+      "city": "GRANINGE",
+      "branch": "",
+      "swift_code": "FFTSSE21"
+    },
+    {
+      "bank": "FREELANCE ALLIANCE TRUST SWEDEN KB",
+      "city": "GRANINGE",
+      "branch": "",
+      "swift_code": "FRALSE21"
+    },
+    {
+      "bank": "NORDIC HERITAGE TRUST KB",
+      "city": "GRANINGE",
+      "branch": "",
+      "swift_code": "NOHRSES1"
+    },
+    {
+      "bank": "SCANDINAVIAN HERITAGE TRUST KB",
+      "city": "GRANINGE",
+      "branch": "",
+      "swift_code": "SCEUSE21"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Graninge - Gratis nedladdning",
+    "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 4 institut som källan anger med orten \"GRANINGE\". Innehåller 4 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Graninge | ListBase",
+    "seo_description": "Ladda ner SWIFT/BIC-koder — Graninge — 4 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 4 poster / 4 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

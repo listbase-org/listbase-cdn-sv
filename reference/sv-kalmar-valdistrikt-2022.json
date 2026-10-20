@@ -1,0 +1,1352 @@
+{
+  "id": "sv-kalmar-valdistrikt-2022",
+  "name": "Valdistrikt i Kalmar län (val 2022)",
+  "title": "Valdistrikt i Kalmar län (val 2022)",
+  "description": "162 valdistrikt i Kalmar län (länskod 08) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 162,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "08210101",
+      "valdistrikt_namn": "Fågelfors",
+      "kommun_kod": "0821",
+      "kommun_namn": "Högsby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08210201",
+      "valdistrikt_namn": "Högsby",
+      "kommun_kod": "0821",
+      "kommun_namn": "Högsby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08210202",
+      "valdistrikt_namn": "Berga",
+      "kommun_kod": "0821",
+      "kommun_namn": "Högsby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08210301",
+      "valdistrikt_namn": "Ruda",
+      "kommun_kod": "0821",
+      "kommun_namn": "Högsby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08210401",
+      "valdistrikt_namn": "Fagerhult",
+      "kommun_kod": "0821",
+      "kommun_namn": "Högsby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08340101",
+      "valdistrikt_namn": "Gullabo",
+      "kommun_kod": "0834",
+      "kommun_namn": "Torsås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08340201",
+      "valdistrikt_namn": "Torsås 1",
+      "kommun_kod": "0834",
+      "kommun_namn": "Torsås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08340202",
+      "valdistrikt_namn": "Torsås 2",
+      "kommun_kod": "0834",
+      "kommun_namn": "Torsås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08340401",
+      "valdistrikt_namn": "Söderåkra 1",
+      "kommun_kod": "0834",
+      "kommun_namn": "Torsås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08340402",
+      "valdistrikt_namn": "Söderåkra 2",
+      "kommun_kod": "0834",
+      "kommun_namn": "Torsås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08400105",
+      "valdistrikt_namn": "Vickleby-Resmo",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08400303",
+      "valdistrikt_namn": "Mörbylånga-Kastlösa",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08400401",
+      "valdistrikt_namn": "Gårdby",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08400811",
+      "valdistrikt_namn": "Sydöland",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08401304",
+      "valdistrikt_namn": "Glömminge",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08401406",
+      "valdistrikt_namn": "Algutsrum",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08401501",
+      "valdistrikt_namn": "Snäckstrand",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08401502",
+      "valdistrikt_namn": "Talludden",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08401503",
+      "valdistrikt_namn": "Runsbäck",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08401504",
+      "valdistrikt_namn": "Skogsby",
+      "kommun_kod": "0840",
+      "kommun_namn": "Mörbylånga",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08600101",
+      "valdistrikt_namn": "Ekeberg",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08600102",
+      "valdistrikt_namn": "Hultsfred S",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08600103",
+      "valdistrikt_namn": "Hultsfred N",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08600201",
+      "valdistrikt_namn": "Lönneberga",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08600301",
+      "valdistrikt_namn": "Målilla",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08600401",
+      "valdistrikt_namn": "Järeda",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08600501",
+      "valdistrikt_namn": "Virserum",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08600601",
+      "valdistrikt_namn": "Vena",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08600801",
+      "valdistrikt_namn": "Mörlunda",
+      "kommun_kod": "0860",
+      "kommun_namn": "Hultsfred",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08610101",
+      "valdistrikt_namn": "Mönsterås Centrum S",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08610102",
+      "valdistrikt_namn": "Mönsterås Centrum N",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08610103",
+      "valdistrikt_namn": "Mönsterås Landsbygd S",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08610104",
+      "valdistrikt_namn": "Mönsterås Landsbygd N",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08610105",
+      "valdistrikt_namn": "Mönsterås Ljungnäs",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08610201",
+      "valdistrikt_namn": "Fliseryd",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08610301",
+      "valdistrikt_namn": "Blomstermåla",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08610302",
+      "valdistrikt_namn": "Ålem",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08610303",
+      "valdistrikt_namn": "Timmernabben",
+      "kommun_kod": "0861",
+      "kommun_namn": "Mönsterås",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08620101",
+      "valdistrikt_namn": "Emmaboda södra",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08620102",
+      "valdistrikt_namn": "Emmaboda norra",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08620201",
+      "valdistrikt_namn": "Lindås",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08620202",
+      "valdistrikt_namn": "Vissefjärda",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08620301",
+      "valdistrikt_namn": "Algutsboda",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08620401",
+      "valdistrikt_namn": "Långasjö",
+      "kommun_kod": "0862",
+      "kommun_namn": "Emmaboda",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800101",
+      "valdistrikt_namn": "Kvarnholmen",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800107",
+      "valdistrikt_namn": "Malmen V",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800108",
+      "valdistrikt_namn": "Malmen Ö-Norrgårdsgärdet Ö",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800122",
+      "valdistrikt_namn": "Malmen S",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800124",
+      "valdistrikt_namn": "Ängö-Varvsholmen",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800201",
+      "valdistrikt_namn": "Lindsdal NV-Förlösa",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800202",
+      "valdistrikt_namn": "Lindsdal NO",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800203",
+      "valdistrikt_namn": "Lindsdal SV-Kläckeberga",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800204",
+      "valdistrikt_namn": "Lindsdal SO-Fjölebro",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800205",
+      "valdistrikt_namn": "Vimpeltorpet",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800206",
+      "valdistrikt_namn": "Snurrom",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800301",
+      "valdistrikt_namn": "Smedby Ö",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800302",
+      "valdistrikt_namn": "Smedby V",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800303",
+      "valdistrikt_namn": "Smedby S-Rinkabyholm N-Boholmarna",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800401",
+      "valdistrikt_namn": "Rinkabyholm S-Hossmo",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800501",
+      "valdistrikt_namn": "Rockneby",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800502",
+      "valdistrikt_namn": "Drag-Revsudden",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800601",
+      "valdistrikt_namn": "Läckeby",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800801",
+      "valdistrikt_namn": "Trekanten",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800802",
+      "valdistrikt_namn": "Ljungbyholm-Vassmolösa N",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08800901",
+      "valdistrikt_namn": "Hagby Vassmolösa S",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801001",
+      "valdistrikt_namn": "Halltorp-Voxtorp",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801301",
+      "valdistrikt_namn": "Tvärskog",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801401",
+      "valdistrikt_namn": "Påryd",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801502",
+      "valdistrikt_namn": "Gamla stan",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801503",
+      "valdistrikt_namn": "Kalmarsundsparken-Stensö",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801504",
+      "valdistrikt_namn": "Sandås-Stensberg",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801505",
+      "valdistrikt_namn": "Falkenberg",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801506",
+      "valdistrikt_namn": "Tegelviken-Johannesborg",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801609",
+      "valdistrikt_namn": "Norrgårdsgärdet V",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801610",
+      "valdistrikt_namn": "Oxhagen",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801611",
+      "valdistrikt_namn": "Getingen-Tallhagen",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801621",
+      "valdistrikt_namn": "Skälby",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801712",
+      "valdistrikt_namn": "Funkabo",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801713",
+      "valdistrikt_namn": "Djurängen V",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801714",
+      "valdistrikt_namn": "Djurängen Ö",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801715",
+      "valdistrikt_namn": "Berga Centrum",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801716",
+      "valdistrikt_namn": "Berga",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801817",
+      "valdistrikt_namn": "Norrliden V",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801818",
+      "valdistrikt_namn": "Norrliden Ö",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801820",
+      "valdistrikt_namn": "Bergavik",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08801823",
+      "valdistrikt_namn": "Björkenäs mfl",
+      "kommun_kod": "0880",
+      "kommun_namn": "Kalmar",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810101",
+      "valdistrikt_namn": "Nybro 1",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810102",
+      "valdistrikt_namn": "Nybro 2",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810103",
+      "valdistrikt_namn": "Nybro 3",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810104",
+      "valdistrikt_namn": "Nybro 4",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810105",
+      "valdistrikt_namn": "Nybro 5",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810106",
+      "valdistrikt_namn": "Nybro 6",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810107",
+      "valdistrikt_namn": "Nybro 7",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810201",
+      "valdistrikt_namn": "Kråksmåla",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810301",
+      "valdistrikt_namn": "Bäckebo",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810401",
+      "valdistrikt_namn": "Kristvalla",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810501",
+      "valdistrikt_namn": "Madesjö 1",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810502",
+      "valdistrikt_namn": "Madesjö 2",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810601",
+      "valdistrikt_namn": "Örsjö-Oskar",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08810901",
+      "valdistrikt_namn": "Hälleberga",
+      "kommun_kod": "0881",
+      "kommun_namn": "Nybro",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820101",
+      "valdistrikt_namn": "Kolberga-Mockebo",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820102",
+      "valdistrikt_namn": "Humlekärrshult",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820103",
+      "valdistrikt_namn": "Norrtorn",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820104",
+      "valdistrikt_namn": "Orrängen-Syrenhagen",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820105",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820106",
+      "valdistrikt_namn": "Solbacka-Åsa",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820107",
+      "valdistrikt_namn": "Södertorn",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820108",
+      "valdistrikt_namn": "Gröndal",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820109",
+      "valdistrikt_namn": "Kristineberg Ö",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820110",
+      "valdistrikt_namn": "Kristineberg V",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820319",
+      "valdistrikt_namn": "Fårbo-Misterhult",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820321",
+      "valdistrikt_namn": "Figeholm",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820411",
+      "valdistrikt_namn": "Kristdala-Bråbo-Ishult",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820513",
+      "valdistrikt_namn": "Svalliden",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820514",
+      "valdistrikt_namn": "Rödsle-Norrby",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820515",
+      "valdistrikt_namn": "Döderhult-Bockara",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08820517",
+      "valdistrikt_namn": "Påskallavik",
+      "kommun_kod": "0882",
+      "kommun_namn": "Oskarshamn",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830101",
+      "valdistrikt_namn": "Centrum",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830102",
+      "valdistrikt_namn": "Västralund-Stenhagen",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830103",
+      "valdistrikt_namn": "Marieborg",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830104",
+      "valdistrikt_namn": "Peru",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830105",
+      "valdistrikt_namn": "Brevik",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830106",
+      "valdistrikt_namn": "Skogshaga",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830107",
+      "valdistrikt_namn": "Jenny-Kvännaren",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830108",
+      "valdistrikt_namn": "Karstorp",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830109",
+      "valdistrikt_namn": "Piperskärr-Gränsö",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830112",
+      "valdistrikt_namn": "Johannesdal",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830113",
+      "valdistrikt_namn": "Ludvigsdal-Hornslandet",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830115",
+      "valdistrikt_namn": "Östermalm",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830118",
+      "valdistrikt_namn": "Södermalm",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830209",
+      "valdistrikt_namn": "Djurgården-Törnsfall",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830310",
+      "valdistrikt_namn": "Gladhammar-Västrum",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830514",
+      "valdistrikt_namn": "Ukna-Västra Ed",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830720",
+      "valdistrikt_namn": "Överum",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08830922",
+      "valdistrikt_namn": "Loftahammar",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08831124",
+      "valdistrikt_namn": "Gamleby 1",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08831126",
+      "valdistrikt_namn": "Gamleby 2-Lofta",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08831430",
+      "valdistrikt_namn": "Blackstad-Odensvi",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08831431",
+      "valdistrikt_namn": "Hallingeberg S",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08831532",
+      "valdistrikt_namn": "Hjorted",
+      "kommun_kod": "0883",
+      "kommun_namn": "Västervik",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840101",
+      "valdistrikt_namn": "Vimmerby 1",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840102",
+      "valdistrikt_namn": "Vimmerby 2",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840103",
+      "valdistrikt_namn": "Vimmerby 3",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840104",
+      "valdistrikt_namn": "Vimmerby 4",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840105",
+      "valdistrikt_namn": "Vimmerby 5",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840106",
+      "valdistrikt_namn": "Storebro",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840301",
+      "valdistrikt_namn": "Rumskulla-Pelarne",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840501",
+      "valdistrikt_namn": "Frödinge",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840601",
+      "valdistrikt_namn": "Locknevi",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840701",
+      "valdistrikt_namn": "Djursdala",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840801",
+      "valdistrikt_namn": "Gullringen",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840802",
+      "valdistrikt_namn": "Södra Vi",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08840901",
+      "valdistrikt_namn": "Tuna",
+      "kommun_kod": "0884",
+      "kommun_namn": "Vimmerby",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08850101",
+      "valdistrikt_namn": "Borgholms 1",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08850102",
+      "valdistrikt_namn": "Borgholms 2",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08850203",
+      "valdistrikt_namn": "Alböke-Föra-Bredsättra-Egby-Löt",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08850707",
+      "valdistrikt_namn": "Köping",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08850808",
+      "valdistrikt_namn": "Räpplinge-Högsrum",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08851010",
+      "valdistrikt_namn": "Gärdslösa-Långlöt-Runsten",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08851313",
+      "valdistrikt_namn": "Böda",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08851415",
+      "valdistrikt_namn": "Högby",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    },
+    {
+      "valdistrikt_kod": "08851516",
+      "valdistrikt_namn": "Källa-Persnäs",
+      "kommun_kod": "0885",
+      "kommun_namn": "Borgholm",
+      "lan_kod": "08",
+      "lan_namn": "Kalmar län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Kalmar län (val 2022) - Gratis nedladdning",
+    "description": "162 valdistrikt i Kalmar län (länskod 08) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 162 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Kalmar län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Kalmar län (val 2022) — 162 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 162 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

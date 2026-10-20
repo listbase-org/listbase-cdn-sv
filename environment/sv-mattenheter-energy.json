@@ -1,0 +1,187 @@
+{
+  "id": "sv-mattenheter-energy",
+  "name": "Måttenheter – kategori 'energy' (14)",
+  "title": "Måttenheter – kategori 'energy' (14)",
+  "description": "Måttenheter i kategorin 'energy' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "energy-becquerel",
+      "kategori": "energy",
+      "namn": "becquerel",
+      "forkortning": "Bq",
+      "smal_form": "Bq",
+      "monster": "{0} becquerel"
+    },
+    {
+      "id": 2,
+      "unit_code": "energy-british-thermal-unit",
+      "kategori": "energy",
+      "namn": "British thermal units",
+      "forkortning": "BTU",
+      "smal_form": "BTU",
+      "monster": "{0} British thermal units"
+    },
+    {
+      "id": 3,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategori": "energy",
+      "namn": "BTU-IT",
+      "forkortning": "BTU-IT",
+      "smal_form": "BTU-IT",
+      "monster": "{0} BTU-IT"
+    },
+    {
+      "id": 4,
+      "unit_code": "energy-calorie",
+      "kategori": "energy",
+      "namn": "kalorier",
+      "forkortning": "cal",
+      "smal_form": "cal",
+      "monster": "{0} kalorier"
+    },
+    {
+      "id": 5,
+      "unit_code": "energy-calorie-it",
+      "kategori": "energy",
+      "namn": "IT-kalorier",
+      "forkortning": "cal IT",
+      "smal_form": "calIT",
+      "monster": "{0} IT-kalorier"
+    },
+    {
+      "id": 6,
+      "unit_code": "energy-electronvolt",
+      "kategori": "energy",
+      "namn": "elektronvolt",
+      "forkortning": "eV",
+      "smal_form": "eV",
+      "monster": "{0} elektronvolt"
+    },
+    {
+      "id": 7,
+      "unit_code": "energy-foodcalorie",
+      "kategori": "energy",
+      "namn": "kilokalorier",
+      "forkortning": "",
+      "smal_form": "",
+      "monster": "{0} kilokalorier"
+    },
+    {
+      "id": 8,
+      "unit_code": "energy-gray",
+      "kategori": "energy",
+      "namn": "gray",
+      "forkortning": "Gy",
+      "smal_form": "Gy",
+      "monster": "{0} gray"
+    },
+    {
+      "id": 9,
+      "unit_code": "energy-joule",
+      "kategori": "energy",
+      "namn": "joule",
+      "forkortning": "J",
+      "smal_form": "J",
+      "monster": "{0} joule"
+    },
+    {
+      "id": 10,
+      "unit_code": "energy-kilocalorie",
+      "kategori": "energy",
+      "namn": "kilokalorier",
+      "forkortning": "kcal",
+      "smal_form": "kcal",
+      "monster": "{0} kilokalorier"
+    },
+    {
+      "id": 11,
+      "unit_code": "energy-kilojoule",
+      "kategori": "energy",
+      "namn": "kilojoule",
+      "forkortning": "kJ",
+      "smal_form": "kJ",
+      "monster": "{0} kilojoule"
+    },
+    {
+      "id": 12,
+      "unit_code": "energy-kilowatt-hour",
+      "kategori": "energy",
+      "namn": "kilowattimmar",
+      "forkortning": "kWh",
+      "smal_form": "kWh",
+      "monster": "{0} kilowattimmar"
+    },
+    {
+      "id": 13,
+      "unit_code": "energy-sievert",
+      "kategori": "energy",
+      "namn": "sievert",
+      "forkortning": "Sv",
+      "smal_form": "Sv",
+      "monster": "{0} sievert"
+    },
+    {
+      "id": 14,
+      "unit_code": "energy-therm-us",
+      "kategori": "energy",
+      "namn": "am. therm",
+      "forkortning": "am. therm",
+      "smal_form": "am. therm",
+      "monster": "{0} am. therms"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'energy' (14) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'energy' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 14 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'energy' (14) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'energy' (14) — 14 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 14 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

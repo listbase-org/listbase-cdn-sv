@@ -1,0 +1,247 @@
+{
+  "id": "sv-golfbanor",
+  "name": "Golfbanor i Sverige",
+  "title": "Golfbanor i Sverige",
+  "description": "Golf courses in Sweden with coordinates, sourced from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_sv",
+      "label": "Name Sv",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_sv",
+      "label": "Admin Area Sv",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4864988",
+      "name_sv": "Barsebäck Resort Golf",
+      "name_en": "Barsebäck Resort Golf",
+      "admin_area_sv": "Kävlinge kommun",
+      "admin_area_en": "Kävlinge Municipality",
+      "latitude": 55.794695,
+      "longitude": 12.948589,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4864988"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q2213522",
+      "name_sv": "Bro Hof Slott Golf Club",
+      "name_en": "Bro Hof Slott Golf Club",
+      "admin_area_sv": "Upplands-Bro kommun",
+      "admin_area_en": "Upplands-Bro Municipality",
+      "latitude": 59.49557,
+      "longitude": 17.6258,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2213522"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q10515995",
+      "name_sv": "Hagge GK",
+      "name_en": "Hagge GK",
+      "admin_area_sv": "Smedjebackens kommun",
+      "admin_area_en": "Smedjebacken Municipality",
+      "latitude": 60.1131,
+      "longitude": 15.2487,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10515995"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q2325640",
+      "name_sv": "Halmstad GK",
+      "name_en": "Halmstad Golf Club",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 56.662264,
+      "longitude": 12.749291,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2325640"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q10542820",
+      "name_sv": "Kalmar GK",
+      "name_en": "Kalmar GK",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 56.713889,
+      "longitude": 16.338889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10542820"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q15877566",
+      "name_sv": "",
+      "name_en": "Kristianstads Golf Club",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 55.924427,
+      "longitude": 14.272871,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15877566"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q2253162",
+      "name_sv": "Kungl. Drottningholms Golfklubb",
+      "name_en": "Royal Drottningholm Golf Club",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.319444,
+      "longitude": 17.857222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2253162"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q13746251",
+      "name_sv": "",
+      "name_en": "Kungsängen Golf Club",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.516,
+      "longitude": 17.723,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13746251"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q10650351",
+      "name_sv": "Reftele GK",
+      "name_en": "Reftele GK",
+      "admin_area_sv": "Reftele",
+      "admin_area_en": "Reftele",
+      "latitude": 57.201389,
+      "longitude": 13.611389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10650351"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q10658234",
+      "name_sv": "Ryfors GK",
+      "name_en": "Reftele GK",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 57.904722,
+      "longitude": 13.824722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10658234"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q34182502",
+      "name_sv": "",
+      "name_en": "Sankt Jörgen Park Golf",
+      "admin_area_sv": "Göteborgs kommun",
+      "admin_area_en": "Gothenburg Municipality",
+      "latitude": 57.745424,
+      "longitude": 11.94864,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34182502"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q1942209",
+      "name_sv": "Skånes golfdistriktsförbund",
+      "name_en": "Mölle GK",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 56.2991,
+      "longitude": 12.4686,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1942209"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q2079645",
+      "name_sv": "Stockholms GK",
+      "name_en": "Stockholm Golfclub",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.395278,
+      "longitude": 18.026111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2079645"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q1891608",
+      "name_sv": "Stockholms golfdistriktsförbund",
+      "name_en": "Ullna Golf Club",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 59.4955,
+      "longitude": 18.1524,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1891608"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q15885762",
+      "name_sv": "",
+      "name_en": "Vetlanda Golfklubb",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 57.4149,
+      "longitude": 15.0459,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15885762"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q10725989",
+      "name_sv": "Äppelgårdens GK",
+      "name_en": "Äppelgårdens Golfklubb",
+      "admin_area_sv": "",
+      "admin_area_en": "",
+      "latitude": 56.4253,
+      "longitude": 12.9228,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10725989"
+    }
+  ],
+  "meta": {
+    "title": "Golfbanor i Sverige - Gratis nedladdning",
+    "description": "Golf courses in Sweden with coordinates, sourced from Wikidata. Innehåller 16 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Golfbanor i Sverige | ListBase",
+    "seo_description": "Ladda ner Golfbanor i Sverige — 16 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 16 poster / 9 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "sv-mattenheter-pressure",
+  "name": "Måttenheter – kategori 'pressure' (12)",
+  "title": "Måttenheter – kategori 'pressure' (12)",
+  "description": "Måttenheter i kategorin 'pressure' från den svenska (sv) språkinställningen i CLDR, med namn på svenska.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "forkortning",
+      "label": "Forkortning",
+      "type": "string"
+    },
+    {
+      "key": "smal_form",
+      "label": "Smal Form",
+      "type": "string"
+    },
+    {
+      "key": "monster",
+      "label": "Monster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "pressure-atmosphere",
+      "kategori": "pressure",
+      "namn": "atmosfärer",
+      "forkortning": "atm",
+      "smal_form": "atm",
+      "monster": "{0} atmosfärer"
+    },
+    {
+      "id": 2,
+      "unit_code": "pressure-bar",
+      "kategori": "pressure",
+      "namn": "bar",
+      "forkortning": "bar",
+      "smal_form": "bar",
+      "monster": "{0} bar"
+    },
+    {
+      "id": 3,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategori": "pressure",
+      "namn": "gas E",
+      "forkortning": "gas E",
+      "smal_form": "gas E",
+      "monster": "{0} gas E"
+    },
+    {
+      "id": 4,
+      "unit_code": "pressure-hectopascal",
+      "kategori": "pressure",
+      "namn": "hektopascal",
+      "forkortning": "hPa",
+      "smal_form": "hPa",
+      "monster": "{0} hektopascal"
+    },
+    {
+      "id": 5,
+      "unit_code": "pressure-inch-ofhg",
+      "kategori": "pressure",
+      "namn": "tum kvicksilver",
+      "forkortning": "tum Hg",
+      "smal_form": "tum Hg",
+      "monster": "{0} tum kvicksilver"
+    },
+    {
+      "id": 6,
+      "unit_code": "pressure-kilopascal",
+      "kategori": "pressure",
+      "namn": "kilopascal",
+      "forkortning": "kPa",
+      "smal_form": "kPa",
+      "monster": "{0} kilopascal"
+    },
+    {
+      "id": 7,
+      "unit_code": "pressure-megapascal",
+      "kategori": "pressure",
+      "namn": "megapascal",
+      "forkortning": "MPa",
+      "smal_form": "MPa",
+      "monster": "{0} megapascal"
+    },
+    {
+      "id": 8,
+      "unit_code": "pressure-millibar",
+      "kategori": "pressure",
+      "namn": "millibar",
+      "forkortning": "mbar",
+      "smal_form": "mbar",
+      "monster": "{0} millibar"
+    },
+    {
+      "id": 9,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategori": "pressure",
+      "namn": "millimeter kvicksilver",
+      "forkortning": "mm Hg",
+      "smal_form": "mm Hg",
+      "monster": "{0} millimeter kvicksilver"
+    },
+    {
+      "id": 10,
+      "unit_code": "pressure-ofhg",
+      "kategori": "pressure",
+      "namn": "kvicksilver",
+      "forkortning": "Hg",
+      "smal_form": "Hg",
+      "monster": "{0} kvicksilver"
+    },
+    {
+      "id": 11,
+      "unit_code": "pressure-pascal",
+      "kategori": "pressure",
+      "namn": "pascal",
+      "forkortning": "Pa",
+      "smal_form": "Pa",
+      "monster": "{0} pascal"
+    },
+    {
+      "id": 12,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategori": "pressure",
+      "namn": "pund per kvadrattum",
+      "forkortning": "psi",
+      "smal_form": "psi",
+      "monster": "{0} pund per kvadrattum"
+    }
+  ],
+  "meta": {
+    "title": "Måttenheter – kategori 'pressure' (12) - Gratis nedladdning",
+    "description": "Måttenheter i kategorin 'pressure' från den svenska (sv) språkinställningen i CLDR, med namn på svenska. Innehåller 12 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Måttenheter – kategori 'pressure' (12) | ListBase",
+    "seo_description": "Ladda ner Måttenheter – kategori 'pressure' (12) — 12 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 12 poster / 7 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

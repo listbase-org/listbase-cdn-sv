@@ -1,0 +1,806 @@
+{
+  "id": "sv-bankomater",
+  "name": "Bankomater (ATMs)",
+  "title": "Bankomater (ATMs)",
+  "description": "Bankomater i Sverige — OpenStreetMap-punktdata (OSM-tagg: amenity=atm). Swedish atms as named point locations with WGS84 coordinates. 153 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ATM",
+      "latitude": 67.844989,
+      "longitude": 20.254408
+    },
+    {
+      "name": "ATM Växjö Småland Airport",
+      "latitude": 56.924861,
+      "longitude": 14.731808
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 56.191736,
+      "longitude": 15.834677
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 60.48461,
+      "longitude": 15.417088
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.404284,
+      "longitude": 17.943609
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.40253,
+      "longitude": 17.945092
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.402883,
+      "longitude": 17.946313
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 63.175118,
+      "longitude": 14.637442
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.332412,
+      "longitude": 18.061329
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.33058,
+      "longitude": 18.057429
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.332313,
+      "longitude": 18.06635
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.783721,
+      "longitude": 14.520812
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 60.07645,
+      "longitude": 15.007403
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 61.167369,
+      "longitude": 15.134773
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.51379,
+      "longitude": 17.928854
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.241743,
+      "longitude": 18.284377
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 60.130913,
+      "longitude": 16.213635
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 58.416264,
+      "longitude": 15.62536
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 60.141358,
+      "longitude": 14.372172
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 60.277894,
+      "longitude": 15.985542
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 60.27695,
+      "longitude": 15.986046
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 56.051455,
+      "longitude": 14.584274
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 60.065704,
+      "longitude": 15.924123
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 63.851571,
+      "longitude": 15.558681
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 57.710257,
+      "longitude": 12.792142
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.410097,
+      "longitude": 17.925863
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.259032,
+      "longitude": 15.240101
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.376137,
+      "longitude": 17.940851
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 59.370011,
+      "longitude": 18.004804
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 57.906769,
+      "longitude": 16.697953
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 58.380688,
+      "longitude": 15.679741
+    },
+    {
+      "name": "Bankomat 312801",
+      "latitude": 56.68681,
+      "longitude": 16.318463
+    },
+    {
+      "name": "Bankomat 316901",
+      "latitude": 56.174102,
+      "longitude": 14.285979
+    },
+    {
+      "name": "Bankomat 317001",
+      "latitude": 56.207035,
+      "longitude": 14.833189
+    },
+    {
+      "name": "Bankomat 317552",
+      "latitude": 56.073709,
+      "longitude": 14.467244
+    },
+    {
+      "name": "Bankomat 317751",
+      "latitude": 55.837837,
+      "longitude": 14.090587
+    },
+    {
+      "name": "Bankomat 318301",
+      "latitude": 56.736652,
+      "longitude": 14.542874
+    },
+    {
+      "name": "Bankomat 318902",
+      "latitude": 56.170608,
+      "longitude": 14.861576
+    },
+    {
+      "name": "Bankomat 319303",
+      "latitude": 56.029879,
+      "longitude": 14.158496
+    },
+    {
+      "name": "Bankomat 319401",
+      "latitude": 56.055465,
+      "longitude": 14.15866
+    },
+    {
+      "name": "Bankomat 319502",
+      "latitude": 56.043762,
+      "longitude": 14.151797
+    },
+    {
+      "name": "Bankomat 319601",
+      "latitude": 56.025447,
+      "longitude": 14.169011
+    },
+    {
+      "name": "Bankomat 321001",
+      "latitude": 56.397599,
+      "longitude": 14.322584
+    },
+    {
+      "name": "Bankomat 321601",
+      "latitude": 56.192662,
+      "longitude": 14.745964
+    },
+    {
+      "name": "Bankomat 321701",
+      "latitude": 56.38009,
+      "longitude": 13.996239
+    },
+    {
+      "name": "Bankomat 321951",
+      "latitude": 56.464041,
+      "longitude": 14.693824
+    },
+    {
+      "name": "Bankomat 323201",
+      "latitude": 56.262284,
+      "longitude": 14.771322
+    },
+    {
+      "name": "Bankomat 323501",
+      "latitude": 56.046586,
+      "longitude": 14.679184
+    },
+    {
+      "name": "Bankomat 325901",
+      "latitude": 56.229053,
+      "longitude": 15.118224
+    },
+    {
+      "name": "Bankomat 326101",
+      "latitude": 56.629799,
+      "longitude": 15.53814
+    },
+    {
+      "name": "Bankomat 327201",
+      "latitude": 56.245626,
+      "longitude": 15.28634
+    },
+    {
+      "name": "Bankomat 327501",
+      "latitude": 56.660244,
+      "longitude": 16.339834
+    },
+    {
+      "name": "Bankomat 327854",
+      "latitude": 56.161358,
+      "longitude": 15.583405
+    },
+    {
+      "name": "Bankomat 328251",
+      "latitude": 57.169906,
+      "longitude": 14.580708
+    },
+    {
+      "name": "Bankomat 328801",
+      "latitude": 56.750517,
+      "longitude": 15.269042
+    },
+    {
+      "name": "Bankomat 329101",
+      "latitude": 56.196647,
+      "longitude": 15.640841
+    },
+    {
+      "name": "Bankomat 329152",
+      "latitude": 56.196642,
+      "longitude": 15.640874
+    },
+    {
+      "name": "Bankomat 331901",
+      "latitude": 56.743988,
+      "longitude": 15.908913
+    },
+    {
+      "name": "Bankomat 332001",
+      "latitude": 56.206099,
+      "longitude": 15.527492
+    },
+    {
+      "name": "Bankomat 332151",
+      "latitude": 56.278079,
+      "longitude": 14.524071
+    },
+    {
+      "name": "Bankomat 333151",
+      "latitude": 56.525074,
+      "longitude": 14.97967
+    },
+    {
+      "name": "Bankomat 334101",
+      "latitude": 56.890632,
+      "longitude": 14.796351
+    },
+    {
+      "name": "Bankomat 334201",
+      "latitude": 56.902285,
+      "longitude": 14.829485
+    },
+    {
+      "name": "Bankomat 337452",
+      "latitude": 56.884339,
+      "longitude": 14.766868
+    },
+    {
+      "name": "Bankomat 340101",
+      "latitude": 56.16172,
+      "longitude": 15.583406
+    },
+    {
+      "name": "Bankomat 347901",
+      "latitude": 56.211425,
+      "longitude": 15.276529
+    },
+    {
+      "name": "Bankomat 347952",
+      "latitude": 56.211407,
+      "longitude": 15.276507
+    },
+    {
+      "name": "Bankomat 348052",
+      "latitude": 56.02543,
+      "longitude": 14.206583
+    },
+    {
+      "name": "Bankomat 349152",
+      "latitude": 56.16916,
+      "longitude": 14.862824
+    },
+    {
+      "name": "Bankomat 349552",
+      "latitude": 56.879631,
+      "longitude": 14.800134
+    },
+    {
+      "name": "Bankomat 349601",
+      "latitude": 56.735092,
+      "longitude": 16.29585
+    },
+    {
+      "name": "Bankomat 350052",
+      "latitude": 56.744622,
+      "longitude": 15.907165
+    },
+    {
+      "name": "Bankomat 350753",
+      "latitude": 56.66345,
+      "longitude": 16.361995
+    },
+    {
+      "name": "Bankomat 351101",
+      "latitude": 55.928441,
+      "longitude": 14.294994
+    },
+    {
+      "name": "Bankomat 35140 & 351452",
+      "latitude": 56.670856,
+      "longitude": 16.336061
+    },
+    {
+      "name": "Bankomat 351652",
+      "latitude": 56.859828,
+      "longitude": 14.819726
+    },
+    {
+      "name": "Bankomat 352151",
+      "latitude": 56.843729,
+      "longitude": 15.395915
+    },
+    {
+      "name": "Bankomat 352352",
+      "latitude": 56.031034,
+      "longitude": 14.15822
+    },
+    {
+      "name": "Bankomat 352501",
+      "latitude": 56.87674,
+      "longitude": 14.807544
+    },
+    {
+      "name": "Bankomat 352651",
+      "latitude": 56.534796,
+      "longitude": 15.583024
+    },
+    {
+      "name": "Bankomat 352901",
+      "latitude": 57.062605,
+      "longitude": 15.051167
+    },
+    {
+      "name": "Bankomat ica kvantum filipstad",
+      "latitude": 59.713206,
+      "longitude": 14.156324
+    },
+    {
+      "name": "Bankomat Lasarettsvägen",
+      "latitude": 56.181848,
+      "longitude": 15.605637
+    },
+    {
+      "name": "Bäckgatan",
+      "latitude": 56.87919,
+      "longitude": 14.805095
+    },
+    {
+      "name": "City Gross Karlshamn",
+      "latitude": 56.176807,
+      "longitude": 14.855752
+    },
+    {
+      "name": "City Gross Kristianstad",
+      "latitude": 56.024041,
+      "longitude": 14.200725
+    },
+    {
+      "name": "City Gross Växjö",
+      "latitude": 56.87802,
+      "longitude": 14.772908
+    },
+    {
+      "name": "Coop Sommarlust 09-6001",
+      "latitude": 56.041714,
+      "longitude": 14.164405
+    },
+    {
+      "name": "Danske Bank",
+      "latitude": 59.862508,
+      "longitude": 17.645917
+    },
+    {
+      "name": "EKO Fjälkinge",
+      "latitude": 56.040108,
+      "longitude": 14.311795
+    },
+    {
+      "name": "Euronet",
+      "latitude": 55.43011,
+      "longitude": 13.822062
+    },
+    {
+      "name": "Gallerian Samarkand Växjö",
+      "latitude": 56.884757,
+      "longitude": 14.765858
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.332705,
+      "longitude": 18.063768
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.318492,
+      "longitude": 18.060395
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.304286,
+      "longitude": 18.093803
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 60.675253,
+      "longitude": 17.142935
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.332716,
+      "longitude": 17.982664
+    },
+    {
+      "name": "Handelsbanken",
+      "latitude": 59.235346,
+      "longitude": 17.981
+    },
+    {
+      "name": "ICA Bank",
+      "latitude": 59.388098,
+      "longitude": 16.534488
+    },
+    {
+      "name": "ICA Banken",
+      "latitude": 59.311523,
+      "longitude": 14.127927
+    },
+    {
+      "name": "ICA Banken",
+      "latitude": 59.435057,
+      "longitude": 13.440105
+    },
+    {
+      "name": "ICA banken",
+      "latitude": 59.361193,
+      "longitude": 17.966362
+    },
+    {
+      "name": "ICA Supermarket Hovshaga",
+      "latitude": 56.909183,
+      "longitude": 14.797547
+    },
+    {
+      "name": "Kontanten",
+      "latitude": 56.831973,
+      "longitude": 13.933108
+    },
+    {
+      "name": "Kontanten",
+      "latitude": 56.044441,
+      "longitude": 14.668577
+    },
+    {
+      "name": "Kontanten",
+      "latitude": 59.302533,
+      "longitude": 18.102931
+    },
+    {
+      "name": "Kontanten",
+      "latitude": 55.590354,
+      "longitude": 12.971115
+    },
+    {
+      "name": "Kontanten",
+      "latitude": 59.346484,
+      "longitude": 18.033897
+    },
+    {
+      "name": "kontanten",
+      "latitude": 56.051415,
+      "longitude": 14.582398
+    },
+    {
+      "name": "Kontanten (Nokas CMS AB) - Willy:s Karlskrona Lyckeby 2153",
+      "latitude": 56.197032,
+      "longitude": 15.649867
+    },
+    {
+      "name": "Kontanten City Gross Karlskrona",
+      "latitude": 56.196783,
+      "longitude": 15.612676
+    },
+    {
+      "name": "Kontanten Ronnebygatan",
+      "latitude": 56.162199,
+      "longitude": 15.588239
+    },
+    {
+      "name": "Kontanten Uttag",
+      "latitude": 58.409007,
+      "longitude": 15.625483
+    },
+    {
+      "name": "Kosta Outlet",
+      "latitude": 56.8499,
+      "longitude": 15.392283
+    },
+    {
+      "name": "Loomis Servicebox",
+      "latitude": 56.191723,
+      "longitude": 15.834681
+    },
+    {
+      "name": "Loomis Servicebox",
+      "latitude": 56.899966,
+      "longitude": 14.556418
+    },
+    {
+      "name": "Loomis Servicebox",
+      "latitude": 56.16174,
+      "longitude": 15.583393
+    },
+    {
+      "name": "Loomis Servicebox",
+      "latitude": 56.051538,
+      "longitude": 14.583879
+    },
+    {
+      "name": "Loomis Servicebox",
+      "latitude": 56.255238,
+      "longitude": 14.077278
+    },
+    {
+      "name": "Loomis Servicebox",
+      "latitude": 56.171094,
+      "longitude": 14.863507
+    },
+    {
+      "name": "Loomis Servicebox",
+      "latitude": 56.21134,
+      "longitude": 15.276555
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.865883,
+      "longitude": 17.6613
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.566893,
+      "longitude": 17.52813
+    },
+    {
+      "name": "Nordea",
+      "latitude": 62.033609,
+      "longitude": 14.365091
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.308391,
+      "longitude": 18.075927
+    },
+    {
+      "name": "Nordea",
+      "latitude": 62.632643,
+      "longitude": 17.938268
+    },
+    {
+      "name": "Nordea",
+      "latitude": 59.3478,
+      "longitude": 18.0037
+    },
+    {
+      "name": "Nordea",
+      "latitude": 65.835487,
+      "longitude": 24.139055
+    },
+    {
+      "name": "Otto",
+      "latitude": 65.84595,
+      "longitude": 24.149131
+    },
+    {
+      "name": "Otto",
+      "latitude": 65.846544,
+      "longitude": 24.150387
+    },
+    {
+      "name": "Otto",
+      "latitude": 65.843103,
+      "longitude": 24.14432
+    },
+    {
+      "name": "Otto.",
+      "latitude": 66.040504,
+      "longitude": 24.018725
+    },
+    {
+      "name": "Roslagens Sparbank",
+      "latitude": 60.099745,
+      "longitude": 18.813363
+    },
+    {
+      "name": "SEB",
+      "latitude": 59.314397,
+      "longitude": 18.071339
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.331501,
+      "longitude": 18.067615
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.503979,
+      "longitude": 13.317645
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.569468,
+      "longitude": 17.529676
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 62.033395,
+      "longitude": 14.359825
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.297954,
+      "longitude": 18.079422
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.33468,
+      "longitude": 18.032982
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 59.126776,
+      "longitude": 15.143817
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 64.750645,
+      "longitude": 20.954211
+    },
+    {
+      "name": "Swedbank",
+      "latitude": 64.867422,
+      "longitude": 20.386962
+    },
+    {
+      "name": "Swedbank AB Vrigstad",
+      "latitude": 57.355751,
+      "longitude": 14.473569
+    },
+    {
+      "name": "Uttag",
+      "latitude": 59.650515,
+      "longitude": 17.086709
+    },
+    {
+      "name": "Uttagsautomat",
+      "latitude": 59.369366,
+      "longitude": 16.516763
+    },
+    {
+      "name": "Uttagsautomat",
+      "latitude": 58.38068,
+      "longitude": 15.679747
+    },
+    {
+      "name": "Vadstena Sparbank",
+      "latitude": 58.448048,
+      "longitude": 14.889744
+    },
+    {
+      "name": "Willy:s Hemma Alvesta 2813",
+      "latitude": 56.902499,
+      "longitude": 14.558472
+    },
+    {
+      "name": "Willy:s Kristianstad 2108",
+      "latitude": 56.023718,
+      "longitude": 14.141106
+    },
+    {
+      "name": "WiLLY:S Olofström",
+      "latitude": 56.277757,
+      "longitude": 14.535858
+    },
+    {
+      "name": "Willy:s Växjö I 11 - 2265",
+      "latitude": 56.877365,
+      "longitude": 14.767987
+    },
+    {
+      "name": "Willys Rondellen",
+      "latitude": 55.93044,
+      "longitude": 14.28831
+    }
+  ],
+  "meta": {
+    "title": "Bankomater (ATMs) - Gratis nedladdning",
+    "description": "Bankomater i Sverige — OpenStreetMap-punktdata (OSM-tagg: amenity=atm). Swedish atms as named point locations with WGS84 coordinates. 153 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 153 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Bankomater (ATMs) | ListBase",
+    "seo_description": "Ladda ner Bankomater (ATMs) — 153 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 153 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

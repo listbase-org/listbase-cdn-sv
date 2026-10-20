@@ -1,0 +1,169 @@
+{
+  "id": "sv-michelin-restauranger-2-stjarnor",
+  "name": "2 Michelin-stjärnor i Sverige",
+  "title": "2 Michelin-stjärnor i Sverige",
+  "description": "Lista över 4 restauranger med två Michelin-stjärnor i Sverige.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "postcode",
+      "label": "Postcode",
+      "type": "string"
+    },
+    {
+      "key": "cuisine",
+      "label": "Cuisine",
+      "type": "string"
+    },
+    {
+      "key": "price",
+      "label": "Price",
+      "type": "string"
+    },
+    {
+      "key": "award",
+      "label": "Award",
+      "type": "string"
+    },
+    {
+      "key": "green_star",
+      "label": "Green Star",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "michelin_url",
+      "label": "Michelin Url",
+      "type": "string"
+    },
+    {
+      "key": "description_en",
+      "label": "Description En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "slug": "vollmers-malmo",
+      "name": "Vollmers",
+      "city": "Malmo",
+      "address": "Tegelgårdsgatan 5, Malmo, 211 33, Sweden",
+      "postcode": "211 33",
+      "cuisine": "Contemporary",
+      "price": "€€€€",
+      "award": "2 Stars",
+      "green_star": false,
+      "latitude": 55.6046461,
+      "longitude": 12.9966201,
+      "phone": "+4640579750",
+      "website": "https://www.vollmers.nu/",
+      "michelin_url": "https://guide.michelin.com/en/skane/malmo/restaurant/vollmers",
+      "description_en": "Keep an eye out for the small sign hanging above the door of this discreet restaurant on a cobbled Old Town street, otherwise you might walk right on by. From the outside, its whitewashed walls give it something of a residential look, which is matched inside by an elegantly low-key dining room where seven linen-laid tables and comfy chairs set a homely tone. The surprise menu sees texture and acidity used to good effect in creative, sophisticated dishes; some are inspired by the owners’ childhood memories, such as the traditional pork, cabbage and lingonberry, which is elevated into a very personal dish."
+    },
+    {
+      "slug": "signum-molnlycke",
+      "name": "Signum",
+      "city": "Mölnlycke",
+      "address": "Hällsnäs Hotell, Långenäsvägen 150, Mölnlycke, 435 35, Sweden",
+      "postcode": "435 35",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "award": "2 Stars",
+      "green_star": true,
+      "latitude": 57.675447,
+      "longitude": 12.1786546,
+      "phone": "+4631881803",
+      "website": "https://restaurantsignum.com/",
+      "michelin_url": "https://guide.michelin.com/en/vastra-gotaland/molnlycke_2675596/restaurant/signum-1205585",
+      "description_en": "An old manor house on the shores of Landvettersjön Lake provides a beautiful setting for this hotel restaurant, which sits in a boathouse-style annexe. The rustic room is characterised by Scandinavian furnishings, sheepskins and modern art, and floor-to-ceiling windows afford wonderful views over the water. The menu is an excellent showcase of Scandinavian ingredients, with produce coming from the kitchen garden, foraged from the surrounding area and plucked from local waters. Bold flavours and original combinations feature in dishes such as squid, mangalitsa and leek or spruce and Schrenkii caviar."
+    },
+    {
+      "slug": "vyn-simrishamn",
+      "name": "VYN",
+      "city": "Simrishamn",
+      "address": "Höga vägen 72, Simrishamn, 272 92, Sweden",
+      "postcode": "272 92",
+      "cuisine": "Creative",
+      "price": "€€€€",
+      "award": "2 Stars",
+      "green_star": false,
+      "latitude": 55.4962176,
+      "longitude": 14.3130043,
+      "phone": "+4641420400",
+      "website": "https://www.vynrestaurant.se",
+      "michelin_url": "https://guide.michelin.com/en/skane/simrishamn_2683288/restaurant/vyn",
+      "description_en": "On the southern tip of Sweden, Chef-Owner Daniel Berlin has taken a former farmhouse and turned it into the latest platform for his thrillingly impressive cooking. A dish of milk-fed lamb encapsulates so many of VYN’s strengths: the produce is superb; the cooking over fire is precise and technically accomplished; and the accompanying brunoise of lamb heart, neck and sweetbreads underlines how using the whole animal bolsters both flavour and sustainability. The full operation also includes 15 hotel rooms and the more relaxed Food and Wine bar."
+    },
+    {
+      "slug": "aira-stockholm",
+      "name": "AIRA",
+      "city": "Stockholm",
+      "address": "Biskopsvägen 9, Stockholm, 115 21, Sweden",
+      "postcode": "115 21",
+      "cuisine": "Modern Cuisine",
+      "price": "€€€€",
+      "award": "2 Stars",
+      "green_star": false,
+      "latitude": 59.3209372,
+      "longitude": 18.123702,
+      "phone": "+46848004900",
+      "website": "https://www.aira.se",
+      "michelin_url": "https://guide.michelin.com/en/stockholm-region/stockholm/restaurant/aira",
+      "description_en": "This strikingly designed restaurant sits near the beautiful Royal Djurgården. Its stage is the open kitchen, with the chefs often adding their finishing touches tableside. Beautifully composed dishes use top quality Nordic ingredients and deliver well-judged flavours and textures, featuring the likes of halibut with fermented melon, sesame and jalapeno. Service is top-notch and it’s worth opting for either a wine pairing or the creative non-alcoholic option featuring ingredients from their garden. Be sure arrive early for a drink on the waterside terrace too."
+    }
+  ],
+  "meta": {
+    "title": "2 Michelin-stjärnor i Sverige - Gratis nedladdning",
+    "description": "Lista över 4 restauranger med två Michelin-stjärnor i Sverige. Innehåller 4 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "2 Michelin-stjärnor i Sverige | ListBase",
+    "seo_description": "Ladda ner 2 Michelin-stjärnor i Sverige — 4 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 4 poster / 15 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

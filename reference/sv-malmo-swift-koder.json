@@ -1,0 +1,112 @@
+{
+  "id": "sv-malmo-swift-koder",
+  "name": "SWIFT/BIC-koder — Malmo",
+  "title": "SWIFT/BIC-koder — Malmo",
+  "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 11 institut som källan anger med orten \"MALMO\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "AARHUSKARLSHAMN FINANCE AB",
+      "city": "MALMO",
+      "branch": "",
+      "swift_code": "AAKFSEM1"
+    },
+    {
+      "bank": "E.ON TRADING NORDIC AB",
+      "city": "MALMO",
+      "branch": "",
+      "swift_code": "EOTNSEM1"
+    },
+    {
+      "bank": "EGL SVERIGE AB",
+      "city": "MALMO",
+      "branch": "",
+      "swift_code": "EGSVSEM1"
+    },
+    {
+      "bank": "IKC CAPITAL AB",
+      "city": "MALMO",
+      "branch": "",
+      "swift_code": "IKCPSEM1"
+    },
+    {
+      "bank": "LARSSON AND NORDQVIST ASSET MANAGEMENT AB",
+      "city": "MALMO",
+      "branch": "",
+      "swift_code": "LNAMSEM1"
+    },
+    {
+      "bank": "SHFM OVERSEAS SWEDEN FILIAL",
+      "city": "MALMO",
+      "branch": "",
+      "swift_code": "SOWFSEM1"
+    },
+    {
+      "bank": "SKANDINAVISKA ENSKILDA BANKEN",
+      "city": "MALMO",
+      "branch": "",
+      "swift_code": "ESSESESM"
+    },
+    {
+      "bank": "SPARBANKEN ORESUND AB",
+      "city": "MALMO",
+      "branch": "",
+      "swift_code": "FINNSES1"
+    },
+    {
+      "bank": "SPARBANKEN ORESUND AB(PUBL)",
+      "city": "MALMO",
+      "branch": "",
+      "swift_code": "GRIPSES1"
+    },
+    {
+      "bank": "STELLA ASSET MANAGEMENT AB",
+      "city": "MALMO",
+      "branch": "",
+      "swift_code": "STTGSEM1"
+    },
+    {
+      "bank": "SVENSKA HANDELSBANKEN",
+      "city": "MALMO",
+      "branch": "(TRADE AND EXPORT FINANCE)",
+      "swift_code": "HANDSESSMLM"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Malmo - Gratis nedladdning",
+    "description": "SWIFT/BIC-koder för banker och finansinstitut i Sverige. Varje post anger institutets namn, ort, eventuellt kontor samt den 8- eller 11-teckniga SWIFT/BIC-koden. Orter anges i källans ASCII-translitterering (t.ex. GOTEBORG, MALMO). Källa: PeterNotenboom/SwiftCodes (MIT). Kompletterar sv-banker (clearingnummer-register) och sv-bankkontor (OSM-punktdata) — detta är en separat familj baserad på SWIFT/BIC. Denna delmängd omfattar de 11 institut som källan anger med orten \"MALMO\". Innehåller 11 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Malmo | ListBase",
+    "seo_description": "Ladda ner SWIFT/BIC-koder — Malmo — 11 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 11 poster / 4 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

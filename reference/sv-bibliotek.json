@@ -1,0 +1,3356 @@
+{
+  "id": "sv-bibliotek",
+  "name": "Bibliotek (Libraries)",
+  "title": "Bibliotek (Libraries)",
+  "description": "Bibliotek i Sverige — OpenStreetMap-punktdata (OSM-tagg: amenity=library). Swedish libraries as named point locations with WGS84 coordinates. 663 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 663,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adolfsbergs bibliotek",
+      "latitude": 59.238964,
+      "longitude": 15.186263
+    },
+    {
+      "name": "Agnes Kulturhus",
+      "latitude": 60.673221,
+      "longitude": 17.147347
+    },
+    {
+      "name": "Alberga bibliotek",
+      "latitude": 59.281823,
+      "longitude": 16.110157
+    },
+    {
+      "name": "Alby bibliotek",
+      "latitude": 59.237925,
+      "longitude": 17.846577
+    },
+    {
+      "name": "Ale bibliotek",
+      "latitude": 57.892769,
+      "longitude": 12.048488
+    },
+    {
+      "name": "Alingsås bibliotek",
+      "latitude": 57.92824,
+      "longitude": 12.533119
+    },
+    {
+      "name": "Almedalsbiblioteket",
+      "latitude": 57.639941,
+      "longitude": 18.289686
+    },
+    {
+      "name": "Alnö Bibliotek",
+      "latitude": 62.426135,
+      "longitude": 17.417215
+    },
+    {
+      "name": "Alviks Bibliotek",
+      "latitude": 59.332762,
+      "longitude": 17.982369
+    },
+    {
+      "name": "Andersbergs bibliotek",
+      "latitude": 56.660683,
+      "longitude": 12.897703
+    },
+    {
+      "name": "Andersbergs Bibliotek",
+      "latitude": 60.651609,
+      "longitude": 17.138538
+    },
+    {
+      "name": "Anderslövs Bibliotek",
+      "latitude": 55.438139,
+      "longitude": 13.318456
+    },
+    {
+      "name": "Anderstorps Bibliotek",
+      "latitude": 57.283368,
+      "longitude": 13.638225
+    },
+    {
+      "name": "Angereds Bibliotek",
+      "latitude": 57.795777,
+      "longitude": 12.05177
+    },
+    {
+      "name": "Anna Lindh-biblioteket",
+      "latitude": 59.349017,
+      "longitude": 18.069043
+    },
+    {
+      "name": "Arboga stadsbibliotek",
+      "latitude": 59.392763,
+      "longitude": 15.840361
+    },
+    {
+      "name": "Arena Rotebro",
+      "latitude": 59.476654,
+      "longitude": 17.911364
+    },
+    {
+      "name": "Arjeplogs Bibliotek",
+      "latitude": 66.044788,
+      "longitude": 17.875151
+    },
+    {
+      "name": "ArkDes bibliotek",
+      "latitude": 59.325697,
+      "longitude": 18.085517
+    },
+    {
+      "name": "Arkenbiblioteket",
+      "latitude": 63.28829,
+      "longitude": 18.713242
+    },
+    {
+      "name": "Arlövs bibliotek",
+      "latitude": 55.632299,
+      "longitude": 13.070713
+    },
+    {
+      "name": "Arvika Stadsbibliotek",
+      "latitude": 59.656033,
+      "longitude": 12.588041
+    },
+    {
+      "name": "Asia Library",
+      "latitude": 55.711279,
+      "longitude": 13.20664
+    },
+    {
+      "name": "Asienbiblioteket",
+      "latitude": 59.356916,
+      "longitude": 18.052091
+    },
+    {
+      "name": "Askims Bibliotek",
+      "latitude": 57.633542,
+      "longitude": 11.937369
+    },
+    {
+      "name": "Aspuddens bibliotek",
+      "latitude": 59.305467,
+      "longitude": 18.001548
+    },
+    {
+      "name": "Avesta bibliotek",
+      "latitude": 60.146055,
+      "longitude": 16.166892
+    },
+    {
+      "name": "Backa bibliotek",
+      "latitude": 57.750004,
+      "longitude": 11.98153
+    },
+    {
+      "name": "Bagarmossens bibliotek",
+      "latitude": 59.277127,
+      "longitude": 18.132863
+    },
+    {
+      "name": "Bankeryds bibliotek",
+      "latitude": 57.859883,
+      "longitude": 14.125028
+    },
+    {
+      "name": "BAS Barkarby bibliotek",
+      "latitude": 59.408363,
+      "longitude": 17.86221
+    },
+    {
+      "name": "Bellevuegårdsbiblioteket",
+      "latitude": 55.581317,
+      "longitude": 12.976727
+    },
+    {
+      "name": "Bengtsfors Bibliotek",
+      "latitude": 59.028544,
+      "longitude": 12.228434
+    },
+    {
+      "name": "Berga bibliotek",
+      "latitude": 58.390453,
+      "longitude": 15.643028
+    },
+    {
+      "name": "Bergshamra bibliotek",
+      "latitude": 59.381121,
+      "longitude": 18.03495
+    },
+    {
+      "name": "Bibliotek",
+      "latitude": 63.810012,
+      "longitude": 16.40349
+    },
+    {
+      "name": "Bibliotek",
+      "latitude": 60.127918,
+      "longitude": 18.643901
+    },
+    {
+      "name": "Bibliotek",
+      "latitude": 55.715771,
+      "longitude": 13.49793
+    },
+    {
+      "name": "Bibliotek",
+      "latitude": 59.738275,
+      "longitude": 18.499509
+    },
+    {
+      "name": "Bibliotek",
+      "latitude": 57.90893,
+      "longitude": 14.073599
+    },
+    {
+      "name": "Bibliotek",
+      "latitude": 57.790341,
+      "longitude": 13.410234
+    },
+    {
+      "name": "Bibliotek",
+      "latitude": 66.607634,
+      "longitude": 19.830168
+    },
+    {
+      "name": "Bibliotek",
+      "latitude": 67.849068,
+      "longitude": 20.30436
+    },
+    {
+      "name": "Bibliotek & läranderesurser",
+      "latitude": 57.725378,
+      "longitude": 12.93941
+    },
+    {
+      "name": "Bibliotek & Medborgarhus",
+      "latitude": 65.593123,
+      "longitude": 19.172086
+    },
+    {
+      "name": "Bibliotek Agora",
+      "latitude": 58.42745,
+      "longitude": 15.57635
+    },
+    {
+      "name": "Bibliotek Flygvapenmuseum",
+      "latitude": 58.410133,
+      "longitude": 15.524686
+    },
+    {
+      "name": "Bibliotek Masten 2",
+      "latitude": 55.612065,
+      "longitude": 12.979978
+    },
+    {
+      "name": "Bibliotek Skärplinge",
+      "latitude": 60.470037,
+      "longitude": 17.756052
+    },
+    {
+      "name": "Bibliotek Sunne",
+      "latitude": 59.83728,
+      "longitude": 13.14381
+    },
+    {
+      "name": "Bibliotek Träffpunkten",
+      "latitude": 59.621444,
+      "longitude": 17.856448
+    },
+    {
+      "name": "Bibliotek Tyresö Strand",
+      "latitude": 59.242335,
+      "longitude": 18.284404
+    },
+    {
+      "name": "Biblioteket",
+      "latitude": 59.88308,
+      "longitude": 12.30583
+    },
+    {
+      "name": "Biblioteket",
+      "latitude": 57.496927,
+      "longitude": 13.110404
+    },
+    {
+      "name": "Biblioteket",
+      "latitude": 56.055898,
+      "longitude": 12.97375
+    },
+    {
+      "name": "Biblioteket",
+      "latitude": 59.324071,
+      "longitude": 13.468265
+    },
+    {
+      "name": "Biblioteket",
+      "latitude": 58.912,
+      "longitude": 11.932547
+    },
+    {
+      "name": "Biblioteket i Handen",
+      "latitude": 59.167356,
+      "longitude": 18.140149
+    },
+    {
+      "name": "Biblioteket i Kulturhuset Möbeln",
+      "latitude": 60.345898,
+      "longitude": 17.514984
+    },
+    {
+      "name": "Biblioteket i Kulturhuset Möbeln",
+      "latitude": 60.345299,
+      "longitude": 17.514885
+    },
+    {
+      "name": "Biblioteket i Tyresö centrum",
+      "latitude": 59.245107,
+      "longitude": 18.228811
+    },
+    {
+      "name": "Biblioteket i Vega",
+      "latitude": 59.185119,
+      "longitude": 18.133826
+    },
+    {
+      "name": "Biblioteket i Västerhaninge",
+      "latitude": 59.122457,
+      "longitude": 18.10449
+    },
+    {
+      "name": "Biblioteket Navet",
+      "latitude": 58.946062,
+      "longitude": 17.486359
+    },
+    {
+      "name": "Biblioteket, Kulturhuset Kåken",
+      "latitude": 57.716782,
+      "longitude": 12.017204
+    },
+    {
+      "name": "Biologibiblioteket",
+      "latitude": 59.85007,
+      "longitude": 17.625669
+    },
+    {
+      "name": "Biomedicinska biblioteket",
+      "latitude": 57.683951,
+      "longitude": 11.961414
+    },
+    {
+      "name": "Biskopsgårdens biblotek",
+      "latitude": 57.71193,
+      "longitude": 11.892127
+    },
+    {
+      "name": "Bispbergs bybliotek",
+      "latitude": 60.361017,
+      "longitude": 15.78601
+    },
+    {
+      "name": "Bjurholms Biblotek",
+      "latitude": 63.931904,
+      "longitude": 19.213039
+    },
+    {
+      "name": "Bjursås bibliotek",
+      "latitude": 60.738852,
+      "longitude": 15.44456
+    },
+    {
+      "name": "Bjärnums bibliotek",
+      "latitude": 56.289479,
+      "longitude": 13.710637
+    },
+    {
+      "name": "Bjärreds Bibliotek",
+      "latitude": 55.721416,
+      "longitude": 13.02357
+    },
+    {
+      "name": "Björkhagens bibliotek",
+      "latitude": 59.290744,
+      "longitude": 18.116727
+    },
+    {
+      "name": "Björksätraskolan biblioteket",
+      "latitude": 60.605071,
+      "longitude": 16.749468
+    },
+    {
+      "name": "Björkö bibliotek",
+      "latitude": 57.736772,
+      "longitude": 11.678766
+    },
+    {
+      "name": "Björna bibliotek",
+      "latitude": 63.550459,
+      "longitude": 18.598271
+    },
+    {
+      "name": "Blackebergs bibliotek",
+      "latitude": 59.347767,
+      "longitude": 17.884385
+    },
+    {
+      "name": "Blentarps Bibliotek",
+      "latitude": 55.583481,
+      "longitude": 13.600105
+    },
+    {
+      "name": "BMC-biblioteket",
+      "latitude": 59.842279,
+      "longitude": 17.634024
+    },
+    {
+      "name": "Boda bibliotek",
+      "latitude": 56.729896,
+      "longitude": 15.669171
+    },
+    {
+      "name": "Boklådan",
+      "latitude": 63.2934,
+      "longitude": 18.617799
+    },
+    {
+      "name": "Bolidens Biblotek",
+      "latitude": 64.867732,
+      "longitude": 20.384949
+    },
+    {
+      "name": "Bollebygds Bibliotek",
+      "latitude": 57.672249,
+      "longitude": 12.571279
+    },
+    {
+      "name": "Bomhus Bibliotek",
+      "latitude": 60.675737,
+      "longitude": 17.215187
+    },
+    {
+      "name": "Borgholms Bibliotek",
+      "latitude": 56.878573,
+      "longitude": 16.657211
+    },
+    {
+      "name": "Borlänge bibliotek",
+      "latitude": 60.487214,
+      "longitude": 15.43403
+    },
+    {
+      "name": "Borås Stadsbibliotek",
+      "latitude": 57.721198,
+      "longitude": 12.94705
+    },
+    {
+      "name": "Bosvedjans bibliotek",
+      "latitude": 62.420207,
+      "longitude": 17.334936
+    },
+    {
+      "name": "Brandbergens bibliotek",
+      "latitude": 59.172148,
+      "longitude": 18.170917
+    },
+    {
+      "name": "Bredbyns bibliotek",
+      "latitude": 63.444267,
+      "longitude": 18.115994
+    },
+    {
+      "name": "Bredängs bibliotek",
+      "latitude": 59.294641,
+      "longitude": 17.934
+    },
+    {
+      "name": "Brickebackens bibliotek",
+      "latitude": 59.239191,
+      "longitude": 15.242394
+    },
+    {
+      "name": "Bro bibliotek",
+      "latitude": 59.516525,
+      "longitude": 17.642749
+    },
+    {
+      "name": "Broddetorps bibliotek",
+      "latitude": 58.303582,
+      "longitude": 13.605937
+    },
+    {
+      "name": "Brommaplans Bibliotek",
+      "latitude": 59.338788,
+      "longitude": 17.940153
+    },
+    {
+      "name": "Bromölla Bibliotek",
+      "latitude": 56.074591,
+      "longitude": 14.470141
+    },
+    {
+      "name": "Bräcke bibliotek",
+      "latitude": 62.749856,
+      "longitude": 15.421593
+    },
+    {
+      "name": "Bräkne-Hoby bibliotek",
+      "latitude": 56.227041,
+      "longitude": 15.117242
+    },
+    {
+      "name": "Brålanda Bibliotek",
+      "latitude": 58.562904,
+      "longitude": 12.350633
+    },
+    {
+      "name": "Bureå bibliotek",
+      "latitude": 64.619686,
+      "longitude": 21.199938
+    },
+    {
+      "name": "Burlövs Bibliotek",
+      "latitude": 55.632174,
+      "longitude": 13.070425
+    },
+    {
+      "name": "Byttorps Bibliotek",
+      "latitude": 57.723542,
+      "longitude": 12.909481
+    },
+    {
+      "name": "Bäckbybiblioteket",
+      "latitude": 59.599746,
+      "longitude": 16.474461
+    },
+    {
+      "name": "Bälingebiblioteket",
+      "latitude": 59.949221,
+      "longitude": 17.530421
+    },
+    {
+      "name": "Campusbiblioteket",
+      "latitude": 64.746178,
+      "longitude": 20.957097
+    },
+    {
+      "name": "Chalmers Bibliotek Huvudbibliotek",
+      "latitude": 57.690483,
+      "longitude": 11.978444
+    },
+    {
+      "name": "Chalmers bibliotek Lindholmen",
+      "latitude": 57.706797,
+      "longitude": 11.938772
+    },
+    {
+      "name": "Culturum",
+      "latitude": 58.754388,
+      "longitude": 17.009635
+    },
+    {
+      "name": "Dag Hammarskjöldbiblioteket",
+      "latitude": 59.855486,
+      "longitude": 17.637577
+    },
+    {
+      "name": "Dalabergs bibliotek",
+      "latitude": 58.37129,
+      "longitude": 11.935144
+    },
+    {
+      "name": "Dalby bibliotek",
+      "latitude": 55.664156,
+      "longitude": 13.347201
+    },
+    {
+      "name": "Dalkarlså folkhögskolas bibliotek",
+      "latitude": 64.04487,
+      "longitude": 20.858041
+    },
+    {
+      "name": "Dals Långeds folkbibliotek",
+      "latitude": 58.923478,
+      "longitude": 12.307616
+    },
+    {
+      "name": "Dalsjöfors Biblotek",
+      "latitude": 57.723074,
+      "longitude": 13.107539
+    },
+    {
+      "name": "Danderyds bibliotek",
+      "latitude": 59.397222,
+      "longitude": 18.036583
+    },
+    {
+      "name": "Deje bibliotek",
+      "latitude": 59.605436,
+      "longitude": 13.464813
+    },
+    {
+      "name": "Delsbo bibliotek",
+      "latitude": 61.805044,
+      "longitude": 16.550913
+    },
+    {
+      "name": "Dieselverkstadens bibliotek",
+      "latitude": 59.305237,
+      "longitude": 18.120672
+    },
+    {
+      "name": "Diseröds bibliotek",
+      "latitude": 57.924354,
+      "longitude": 12.03037
+    },
+    {
+      "name": "Djursholms Bibliotek",
+      "latitude": 59.396995,
+      "longitude": 18.089312
+    },
+    {
+      "name": "Djurö bibliotek",
+      "latitude": 59.311738,
+      "longitude": 18.699577
+    },
+    {
+      "name": "Domnarvets biblioteksfilial",
+      "latitude": 60.501742,
+      "longitude": 15.454899
+    },
+    {
+      "name": "Dorotea Bibliotek",
+      "latitude": 64.262357,
+      "longitude": 16.416492
+    },
+    {
+      "name": "Drakudden",
+      "latitude": 59.486489,
+      "longitude": 17.569472
+    },
+    {
+      "name": "Drottninghögsbiblioteket",
+      "latitude": 56.062458,
+      "longitude": 12.728332
+    },
+    {
+      "name": "Edsbergs bibliotek",
+      "latitude": 59.445166,
+      "longitude": 17.965476
+    },
+    {
+      "name": "Ekerö Bibliotek",
+      "latitude": 59.291158,
+      "longitude": 17.811924
+    },
+    {
+      "name": "Ekholmens bibliotek",
+      "latitude": 58.381085,
+      "longitude": 15.680174
+    },
+    {
+      "name": "Ekonomiska biblioteket",
+      "latitude": 57.697377,
+      "longitude": 11.961074
+    },
+    {
+      "name": "Eksjö Stadsbibliotek",
+      "latitude": 57.67069,
+      "longitude": 14.976433
+    },
+    {
+      "name": "Elinebergs bibliotek",
+      "latitude": 56.029283,
+      "longitude": 12.725634
+    },
+    {
+      "name": "Emmaboda bibliotek",
+      "latitude": 56.63061,
+      "longitude": 15.542504
+    },
+    {
+      "name": "Eneby bibliotek",
+      "latitude": 58.606344,
+      "longitude": 16.148103
+    },
+    {
+      "name": "Eneby bibliotek",
+      "latitude": 58.603863,
+      "longitude": 16.143919
+    },
+    {
+      "name": "Enköpings bibliotek",
+      "latitude": 59.63397,
+      "longitude": 17.074298
+    },
+    {
+      "name": "Ersbodabiblioteket",
+      "latitude": 63.857781,
+      "longitude": 20.335833
+    },
+    {
+      "name": "Eslövs Stadsbibliotek",
+      "latitude": 55.840815,
+      "longitude": 13.303463
+    },
+    {
+      "name": "Falköpings Stadsbibliotek",
+      "latitude": 58.169862,
+      "longitude": 13.555958
+    },
+    {
+      "name": "Falu stadsbibliotek",
+      "latitude": 60.607154,
+      "longitude": 15.62838
+    },
+    {
+      "name": "Farsta Bibliotek",
+      "latitude": 59.242544,
+      "longitude": 18.09001
+    },
+    {
+      "name": "Fellingsbro bibliotek",
+      "latitude": 59.434919,
+      "longitude": 15.591526
+    },
+    {
+      "name": "Filipstads bergslags bibliotek",
+      "latitude": 59.712747,
+      "longitude": 14.17247
+    },
+    {
+      "name": "Finspångs Bibliotek",
+      "latitude": 58.706947,
+      "longitude": 15.774825
+    },
+    {
+      "name": "Fisksätra bibliotek",
+      "latitude": 59.293202,
+      "longitude": 18.257175
+    },
+    {
+      "name": "Fjällbacka bibliotek",
+      "latitude": 58.597147,
+      "longitude": 11.29207
+    },
+    {
+      "name": "Flemingsbergs Bibliotek",
+      "latitude": 59.223287,
+      "longitude": 17.939613
+    },
+    {
+      "name": "Flemingsbergs bibliotek",
+      "latitude": 59.218928,
+      "longitude": 17.949518
+    },
+    {
+      "name": "Flens bibliotek",
+      "latitude": 59.058959,
+      "longitude": 16.589828
+    },
+    {
+      "name": "Floby bibliotek",
+      "latitude": 58.137059,
+      "longitude": 13.336818
+    },
+    {
+      "name": "Floda bibliotek",
+      "latitude": 57.808792,
+      "longitude": 12.362493
+    },
+    {
+      "name": "Forsbackas bibliotek",
+      "latitude": 60.612951,
+      "longitude": 16.892971
+    },
+    {
+      "name": "Forshaga bibliotek",
+      "latitude": 59.529145,
+      "longitude": 13.480266
+    },
+    {
+      "name": "Frescatibiblioteket",
+      "latitude": 59.363506,
+      "longitude": 18.061308
+    },
+    {
+      "name": "Fritsla bibliotek",
+      "latitude": 57.553931,
+      "longitude": 12.79157
+    },
+    {
+      "name": "Fruängens bibliotek",
+      "latitude": 59.28567,
+      "longitude": 17.965421
+    },
+    {
+      "name": "Funäsdalens bibliotek",
+      "latitude": 62.545499,
+      "longitude": 12.54739
+    },
+    {
+      "name": "Furulundsskolans bibliotek",
+      "latitude": 56.055853,
+      "longitude": 14.582354
+    },
+    {
+      "name": "Futura",
+      "latitude": 58.729243,
+      "longitude": 11.315313
+    },
+    {
+      "name": "Fyllinge bibliotek",
+      "latitude": 56.648796,
+      "longitude": 12.921081
+    },
+    {
+      "name": "Fyren",
+      "latitude": 57.490636,
+      "longitude": 12.075363
+    },
+    {
+      "name": "Färgelanda bibliotek",
+      "latitude": 58.568358,
+      "longitude": 11.996087
+    },
+    {
+      "name": "Färjestadens Bibliotek",
+      "latitude": 56.651747,
+      "longitude": 16.468374
+    },
+    {
+      "name": "Förslövs bibliotek",
+      "latitude": 56.355581,
+      "longitude": 12.819985
+    },
+    {
+      "name": "Gamla Enskede bibliotek",
+      "latitude": 59.285434,
+      "longitude": 18.097756
+    },
+    {
+      "name": "Genarps bibliotek",
+      "latitude": 55.59591,
+      "longitude": 13.404165
+    },
+    {
+      "name": "Geobiblioteket",
+      "latitude": 59.848764,
+      "longitude": 17.630016
+    },
+    {
+      "name": "Geobiblioteket",
+      "latitude": 59.365359,
+      "longitude": 18.0572
+    },
+    {
+      "name": "Geobiblioteket",
+      "latitude": 55.709464,
+      "longitude": 13.201345
+    },
+    {
+      "name": "Gimo bibliotek",
+      "latitude": 60.173451,
+      "longitude": 18.185186
+    },
+    {
+      "name": "Gislaveds bibliotek",
+      "latitude": 57.296237,
+      "longitude": 13.530477
+    },
+    {
+      "name": "Glumslövs bibliotek",
+      "latitude": 55.940862,
+      "longitude": 12.810241
+    },
+    {
+      "name": "Gnesta Bibliotek",
+      "latitude": 59.047907,
+      "longitude": 17.310582
+    },
+    {
+      "name": "Gnosjö Bibliotek",
+      "latitude": 57.357514,
+      "longitude": 13.733433
+    },
+    {
+      "name": "Goethe Institut",
+      "latitude": 59.332927,
+      "longitude": 18.058787
+    },
+    {
+      "name": "Gottsundabiblioteket",
+      "latitude": 59.809293,
+      "longitude": 17.629738
+    },
+    {
+      "name": "Granloholms bibliotek",
+      "latitude": 62.41165,
+      "longitude": 17.270056
+    },
+    {
+      "name": "Granö bibliotek",
+      "latitude": 64.248421,
+      "longitude": 19.316214
+    },
+    {
+      "name": "Gribbylunds bibliotek",
+      "latitude": 59.46284,
+      "longitude": 18.091658
+    },
+    {
+      "name": "Grubbebiblioteket",
+      "latitude": 63.833036,
+      "longitude": 20.199695
+    },
+    {
+      "name": "Grums bibliotek",
+      "latitude": 59.351734,
+      "longitude": 13.11077
+    },
+    {
+      "name": "Gråbo Bibliotek",
+      "latitude": 57.836372,
+      "longitude": 12.300047
+    },
+    {
+      "name": "Grönahögs bibliotek",
+      "latitude": 57.696071,
+      "longitude": 13.584968
+    },
+    {
+      "name": "Gröndals bibliotek",
+      "latitude": 59.316134,
+      "longitude": 18.012168
+    },
+    {
+      "name": "Gubbängens bibliotek",
+      "latitude": 59.262316,
+      "longitude": 18.084156
+    },
+    {
+      "name": "Guldhedens bibliotek",
+      "latitude": 57.683465,
+      "longitude": 11.971711
+    },
+    {
+      "name": "Gullholmens bibliotek",
+      "latitude": 58.17971,
+      "longitude": 11.406398
+    },
+    {
+      "name": "Gustafs bibliotek",
+      "latitude": 60.414949,
+      "longitude": 15.604099
+    },
+    {
+      "name": "Gymnasiebiblioteket",
+      "latitude": 65.582751,
+      "longitude": 22.139636
+    },
+    {
+      "name": "Gymnasiebiblioteket",
+      "latitude": 59.259725,
+      "longitude": 15.20689
+    },
+    {
+      "name": "Göta bibliotek",
+      "latitude": 57.715146,
+      "longitude": 12.92853
+    },
+    {
+      "name": "Haga Bibliotek",
+      "latitude": 59.275255,
+      "longitude": 15.165347
+    },
+    {
+      "name": "Hageby bibliotek",
+      "latitude": 58.57259,
+      "longitude": 16.209749
+    },
+    {
+      "name": "Hagfors bibliotek",
+      "latitude": 60.036291,
+      "longitude": 13.701347
+    },
+    {
+      "name": "Hagsätra bibliotek",
+      "latitude": 59.261907,
+      "longitude": 18.014543
+    },
+    {
+      "name": "Hallabro bibliotek",
+      "latitude": 56.390475,
+      "longitude": 15.103815
+    },
+    {
+      "name": "Hallonbergens bibliotek",
+      "latitude": 59.37544,
+      "longitude": 17.968366
+    },
+    {
+      "name": "Hallstahammars Bibliotek",
+      "latitude": 59.613765,
+      "longitude": 16.23103
+    },
+    {
+      "name": "Hallstaviks bibliotek",
+      "latitude": 60.050034,
+      "longitude": 18.595867
+    },
+    {
+      "name": "Halmstad stadsbibliotek",
+      "latitude": 56.675265,
+      "longitude": 12.861756
+    },
+    {
+      "name": "Haninge kulturhus",
+      "latitude": 59.167223,
+      "longitude": 18.139974
+    },
+    {
+      "name": "Haparanda Stadsbibliotek",
+      "latitude": 65.836665,
+      "longitude": 24.139535
+    },
+    {
+      "name": "Harlösa bibliotek",
+      "latitude": 55.71506,
+      "longitude": 13.527767
+    },
+    {
+      "name": "Harplinge bibliotek",
+      "latitude": 56.740714,
+      "longitude": 12.725757
+    },
+    {
+      "name": "Hasslö Bibliotek",
+      "latitude": 56.115015,
+      "longitude": 15.473683
+    },
+    {
+      "name": "Heby Bibliotek",
+      "latitude": 59.938826,
+      "longitude": 16.860565
+    },
+    {
+      "name": "Helsingborgs stadsbibliotek",
+      "latitude": 56.04218,
+      "longitude": 12.699266
+    },
+    {
+      "name": "Hemmestaskolan Bibliotek",
+      "latitude": 59.319873,
+      "longitude": 18.485983
+    },
+    {
+      "name": "Hemse Bibliotek",
+      "latitude": 57.239174,
+      "longitude": 18.376293
+    },
+    {
+      "name": "Henåns bibliotek",
+      "latitude": 58.237897,
+      "longitude": 11.67902
+    },
+    {
+      "name": "Herrljunga bibliotek",
+      "latitude": 58.077015,
+      "longitude": 13.025151
+    },
+    {
+      "name": "Hindås Bibliotek",
+      "latitude": 57.703547,
+      "longitude": 12.451704
+    },
+    {
+      "name": "Hjorthöjdens bibliotek",
+      "latitude": 56.202296,
+      "longitude": 15.253579
+    },
+    {
+      "name": "Hjällbo bibliotek",
+      "latitude": 57.769108,
+      "longitude": 12.019898
+    },
+    {
+      "name": "Hjärups Bibliotek",
+      "latitude": 55.672136,
+      "longitude": 13.143375
+    },
+    {
+      "name": "Hofors Bibliotek",
+      "latitude": 60.545585,
+      "longitude": 16.286892
+    },
+    {
+      "name": "Holmsjö bibliotek",
+      "latitude": 56.411655,
+      "longitude": 15.54253
+    },
+    {
+      "name": "Holmsunds bibliotek",
+      "latitude": 63.702553,
+      "longitude": 20.373171
+    },
+    {
+      "name": "Horns bibliotek",
+      "latitude": 57.899781,
+      "longitude": 15.83859
+    },
+    {
+      "name": "Hornstulls bibliotek",
+      "latitude": 59.315979,
+      "longitude": 18.035066
+    },
+    {
+      "name": "Horreds bibliotek",
+      "latitude": 57.354531,
+      "longitude": 12.475366
+    },
+    {
+      "name": "Hovshaga Bibliotek",
+      "latitude": 56.909853,
+      "longitude": 14.797471
+    },
+    {
+      "name": "Huddinge huvudbibliotek",
+      "latitude": 59.239014,
+      "longitude": 17.988602
+    },
+    {
+      "name": "Hudiksvalls Bibliotek",
+      "latitude": 61.727844,
+      "longitude": 17.111298
+    },
+    {
+      "name": "Humanistiska biblioteket",
+      "latitude": 57.695294,
+      "longitude": 11.985489
+    },
+    {
+      "name": "Husie stadsdelsbibliotek",
+      "latitude": 55.590857,
+      "longitude": 13.070876
+    },
+    {
+      "name": "Huvudbiblioteket",
+      "latitude": 58.380297,
+      "longitude": 12.321215
+    },
+    {
+      "name": "Hyllie Park Bibliotekshuset",
+      "latitude": 55.568002,
+      "longitude": 12.951809
+    },
+    {
+      "name": "Hylliebiblioteket",
+      "latitude": 55.562854,
+      "longitude": 12.974631
+    },
+    {
+      "name": "Hägernäs bibliotek",
+      "latitude": 59.448236,
+      "longitude": 18.123843
+    },
+    {
+      "name": "Häggvallbiblioteket",
+      "latitude": 58.036762,
+      "longitude": 11.737618
+    },
+    {
+      "name": "Hällaryd bibliotek",
+      "latitude": 56.20576,
+      "longitude": 14.947115
+    },
+    {
+      "name": "Hällefors Bibliotek",
+      "latitude": 59.784289,
+      "longitude": 14.520799
+    },
+    {
+      "name": "Hälleviks bibliotek",
+      "latitude": 56.013679,
+      "longitude": 14.690511
+    },
+    {
+      "name": "Hällnäs bibliotek",
+      "latitude": 64.31499,
+      "longitude": 19.61124
+    },
+    {
+      "name": "Härjedalensbibliothek",
+      "latitude": 62.418041,
+      "longitude": 13.514538
+    },
+    {
+      "name": "Härnösands bibliotek",
+      "latitude": 62.631029,
+      "longitude": 17.946148
+    },
+    {
+      "name": "Hässelby gårds bibliotek",
+      "latitude": 59.36763,
+      "longitude": 17.843722
+    },
+    {
+      "name": "Hässelby villastads bibliotek",
+      "latitude": 59.379846,
+      "longitude": 17.817485
+    },
+    {
+      "name": "Håbo biblotek",
+      "latitude": 59.566389,
+      "longitude": 17.527964
+    },
+    {
+      "name": "Högboda bibliotek",
+      "latitude": 59.558383,
+      "longitude": 13.058005
+    },
+    {
+      "name": "Högdalens bibliotek",
+      "latitude": 59.263461,
+      "longitude": 18.04257
+    },
+    {
+      "name": "Högsbo Bibliotek",
+      "latitude": 57.670656,
+      "longitude": 11.927295
+    },
+    {
+      "name": "Högskolebibliotek",
+      "latitude": 58.393065,
+      "longitude": 13.853206
+    },
+    {
+      "name": "Högskolebiblioteket",
+      "latitude": 60.613617,
+      "longitude": 15.654226
+    },
+    {
+      "name": "Högskolebiblioteket",
+      "latitude": 56.664859,
+      "longitude": 12.878872
+    },
+    {
+      "name": "Högskolebiblioteket",
+      "latitude": 60.668177,
+      "longitude": 17.119288
+    },
+    {
+      "name": "Högskolebiblioteket",
+      "latitude": 57.778698,
+      "longitude": 14.162606
+    },
+    {
+      "name": "Höllvikens bibliotek",
+      "latitude": 55.418447,
+      "longitude": 12.953303
+    },
+    {
+      "name": "Hörby Bibliotek",
+      "latitude": 55.855249,
+      "longitude": 13.661286
+    },
+    {
+      "name": "Hörby Kulturhus",
+      "latitude": 55.853241,
+      "longitude": 13.661192
+    },
+    {
+      "name": "Höörs bibliotek",
+      "latitude": 55.936049,
+      "longitude": 13.548873
+    },
+    {
+      "name": "Idre bibliotek",
+      "latitude": 61.857866,
+      "longitude": 12.713439
+    },
+    {
+      "name": "Ingatorps bibliotek",
+      "latitude": 57.639693,
+      "longitude": 15.415944
+    },
+    {
+      "name": "Ingelstad bibliotek",
+      "latitude": 56.744944,
+      "longitude": 14.92219
+    },
+    {
+      "name": "Ingmarsö bibliotek",
+      "latitude": 59.471768,
+      "longitude": 18.752014
+    },
+    {
+      "name": "Jakobsbergs bibliotek",
+      "latitude": 59.423518,
+      "longitude": 17.83816
+    },
+    {
+      "name": "Johannelunds bibliotek",
+      "latitude": 58.395684,
+      "longitude": 15.66298
+    },
+    {
+      "name": "Jonstorps Bibliotek",
+      "latitude": 56.229318,
+      "longitude": 12.677049
+    },
+    {
+      "name": "Jordbro bibliotek",
+      "latitude": 59.141106,
+      "longitude": 18.133605
+    },
+    {
+      "name": "Judiska Biblioteket",
+      "latitude": 59.331712,
+      "longitude": 18.073988
+    },
+    {
+      "name": "Jämjö bibliotek",
+      "latitude": 56.190539,
+      "longitude": 15.834227
+    },
+    {
+      "name": "Jämshögs bibliotek",
+      "latitude": 56.24047,
+      "longitude": 14.531152
+    },
+    {
+      "name": "Jämshögs bibliotek",
+      "latitude": 56.240826,
+      "longitude": 14.53385
+    },
+    {
+      "name": "Järbos bibliotek",
+      "latitude": 60.716823,
+      "longitude": 16.593686
+    },
+    {
+      "name": "Kalix kommunbibliotek",
+      "latitude": 65.856679,
+      "longitude": 23.144687
+    },
+    {
+      "name": "Kallhälls bibliotek",
+      "latitude": 59.454321,
+      "longitude": 17.807293
+    },
+    {
+      "name": "Kallinge bibliotek",
+      "latitude": 56.245015,
+      "longitude": 15.283436
+    },
+    {
+      "name": "Karby bibliotek",
+      "latitude": 59.561008,
+      "longitude": 18.220529
+    },
+    {
+      "name": "Karin Boye-biblioteket",
+      "latitude": 59.853839,
+      "longitude": 17.625448
+    },
+    {
+      "name": "Karlsborgs bibliotek",
+      "latitude": 58.53349,
+      "longitude": 14.507663
+    },
+    {
+      "name": "Karlshamns stadsbibliotek",
+      "latitude": 56.170743,
+      "longitude": 14.860304
+    },
+    {
+      "name": "Karlskronas stadsbibliotek",
+      "latitude": 56.160594,
+      "longitude": 15.585241
+    },
+    {
+      "name": "Karlstad Sjukhusbibliotek",
+      "latitude": 59.37514,
+      "longitude": 13.477106
+    },
+    {
+      "name": "Karlstads stadsbibliotek",
+      "latitude": 59.383606,
+      "longitude": 13.502849
+    },
+    {
+      "name": "Karlstads universitetsbibliotek",
+      "latitude": 59.406439,
+      "longitude": 13.580644
+    },
+    {
+      "name": "Kils bibliotek",
+      "latitude": 59.503592,
+      "longitude": 13.316911
+    },
+    {
+      "name": "Kinna bibliotek",
+      "latitude": 57.508204,
+      "longitude": 12.698001
+    },
+    {
+      "name": "Kinnarps bibliotek",
+      "latitude": 58.078516,
+      "longitude": 13.514455
+    },
+    {
+      "name": "Kirsebergsbiblioteket",
+      "latitude": 55.611348,
+      "longitude": 13.043193
+    },
+    {
+      "name": "Kisa Bibliotek",
+      "latitude": 57.98803,
+      "longitude": 15.633213
+    },
+    {
+      "name": "Kista bibliotek",
+      "latitude": 59.402172,
+      "longitude": 17.945523
+    },
+    {
+      "name": "Klintehamn Bibliotek",
+      "latitude": 57.386595,
+      "longitude": 18.199485
+    },
+    {
+      "name": "Klostergårdens bibliotek",
+      "latitude": 55.693676,
+      "longitude": 13.178181
+    },
+    {
+      "name": "Knislinge bibliotek",
+      "latitude": 56.197812,
+      "longitude": 14.088319
+    },
+    {
+      "name": "Knivsta bibliotek",
+      "latitude": 59.726681,
+      "longitude": 17.788115
+    },
+    {
+      "name": "Kode bibliotek",
+      "latitude": 57.943702,
+      "longitude": 11.846827
+    },
+    {
+      "name": "Kolsva bibliotek",
+      "latitude": 59.602325,
+      "longitude": 15.83811
+    },
+    {
+      "name": "Kommunbibliotek",
+      "latitude": 64.206365,
+      "longitude": 19.717683
+    },
+    {
+      "name": "Konstfack bibliotek",
+      "latitude": 59.299887,
+      "longitude": 17.994186
+    },
+    {
+      "name": "Koordinaten",
+      "latitude": 58.670179,
+      "longitude": 17.104959
+    },
+    {
+      "name": "Kortedala Bibliotek",
+      "latitude": 57.752336,
+      "longitude": 12.031711
+    },
+    {
+      "name": "Kramfors kommunbibliotek",
+      "latitude": 62.931703,
+      "longitude": 17.777885
+    },
+    {
+      "name": "Kristianstads stadsbibliotek",
+      "latitude": 56.031554,
+      "longitude": 14.161101
+    },
+    {
+      "name": "Kristinehamns bibliotek",
+      "latitude": 59.31349,
+      "longitude": 14.108586
+    },
+    {
+      "name": "Krokeks bibliotek",
+      "latitude": 58.66454,
+      "longitude": 16.37868
+    },
+    {
+      "name": "Krokoms bibliotek",
+      "latitude": 63.326275,
+      "longitude": 14.449392
+    },
+    {
+      "name": "Kronoparkens bibliotek",
+      "latitude": 59.404271,
+      "longitude": 13.571309
+    },
+    {
+      "name": "KTH: Biblioteket",
+      "latitude": 59.34801,
+      "longitude": 18.072249
+    },
+    {
+      "name": "Kulturbiblioteket",
+      "latitude": 59.331902,
+      "longitude": 18.06463
+    },
+    {
+      "name": "Kulturhus biblioteket",
+      "latitude": 59.478633,
+      "longitude": 17.75122
+    },
+    {
+      "name": "Kulturhuset Forum Kvarnsveden",
+      "latitude": 60.516168,
+      "longitude": 15.414772
+    },
+    {
+      "name": "Kulturhuset Komedianten",
+      "latitude": 57.108534,
+      "longitude": 12.251652
+    },
+    {
+      "name": "Kulturhuset och Orsa bibliotek",
+      "latitude": 61.119598,
+      "longitude": 14.619605
+    },
+    {
+      "name": "Kumla bibliotek",
+      "latitude": 59.127141,
+      "longitude": 15.136854
+    },
+    {
+      "name": "Kungliga biblioteket",
+      "latitude": 59.338237,
+      "longitude": 18.07213
+    },
+    {
+      "name": "Kungshamns bibliotek",
+      "latitude": 58.357229,
+      "longitude": 11.259547
+    },
+    {
+      "name": "Kungsholmens bibliotek",
+      "latitude": 59.332876,
+      "longitude": 18.031291
+    },
+    {
+      "name": "Kungsmarkens bibliotek",
+      "latitude": 56.194488,
+      "longitude": 15.622786
+    },
+    {
+      "name": "Kungsörs bibliotek",
+      "latitude": 59.422298,
+      "longitude": 16.098291
+    },
+    {
+      "name": "Kungälvs stadsbibliotek",
+      "latitude": 57.874763,
+      "longitude": 11.977944
+    },
+    {
+      "name": "Kunskapcentrum Agardh",
+      "latitude": 56.426065,
+      "longitude": 12.848241
+    },
+    {
+      "name": "Kvissleby bibliotek",
+      "latitude": 62.296211,
+      "longitude": 17.379397
+    },
+    {
+      "name": "Kyrkbyns bibliotek",
+      "latitude": 57.712098,
+      "longitude": 11.907478
+    },
+    {
+      "name": "Kyrkhults bibliotek",
+      "latitude": 56.354677,
+      "longitude": 14.587878
+    },
+    {
+      "name": "Kärna bibliotek",
+      "latitude": 57.846256,
+      "longitude": 11.79251
+    },
+    {
+      "name": "Kärra bibliotek",
+      "latitude": 57.794319,
+      "longitude": 11.988485
+    },
+    {
+      "name": "Kävlinge Bibliotek",
+      "latitude": 55.79456,
+      "longitude": 13.112447
+    },
+    {
+      "name": "Kållereds bibliotek",
+      "latitude": 57.609875,
+      "longitude": 12.050132
+    },
+    {
+      "name": "Köpings stadsbibliotek",
+      "latitude": 59.514459,
+      "longitude": 16.001433
+    },
+    {
+      "name": "Lagerhusets Bibliotek",
+      "latitude": 57.702075,
+      "longitude": 11.953599
+    },
+    {
+      "name": "Lambohovs bibliotek",
+      "latitude": 58.3881,
+      "longitude": 15.566205
+    },
+    {
+      "name": "Landskrona stadsbibliotek",
+      "latitude": 55.871786,
+      "longitude": 12.835075
+    },
+    {
+      "name": "Laröds bibliotek",
+      "latitude": 56.091284,
+      "longitude": 12.655198
+    },
+    {
+      "name": "Laurentiistiftelsen",
+      "latitude": 55.695423,
+      "longitude": 13.201009
+    },
+    {
+      "name": "Lekebergs bibiliotek",
+      "latitude": 59.174605,
+      "longitude": 14.871471
+    },
+    {
+      "name": "Leksands kulturhus",
+      "latitude": 60.73057,
+      "longitude": 14.993194
+    },
+    {
+      "name": "Lerbergets Bibliotek",
+      "latitude": 56.176269,
+      "longitude": 12.565787
+    },
+    {
+      "name": "Lerums bibliotek",
+      "latitude": 57.773358,
+      "longitude": 12.274788
+    },
+    {
+      "name": "Lessebo bibliotek",
+      "latitude": 56.755462,
+      "longitude": 15.267796
+    },
+    {
+      "name": "Lidingö Stadsbibliotek",
+      "latitude": 59.365579,
+      "longitude": 18.13514
+    },
+    {
+      "name": "Lidköpings stadsbibliotek",
+      "latitude": 58.50475,
+      "longitude": 13.153616
+    },
+    {
+      "name": "Lilla Edets bibliotek",
+      "latitude": 58.13389,
+      "longitude": 12.126316
+    },
+    {
+      "name": "Lillhärdals bibliotek",
+      "latitude": 61.853304,
+      "longitude": 14.066568
+    },
+    {
+      "name": "Limhamnsbiblioteket",
+      "latitude": 55.582302,
+      "longitude": 12.933134
+    },
+    {
+      "name": "Lindesbergs stadsbibliotek",
+      "latitude": 59.594108,
+      "longitude": 15.223418
+    },
+    {
+      "name": "Lindeskolans bibliotek",
+      "latitude": 59.59348,
+      "longitude": 15.215411
+    },
+    {
+      "name": "Lindome Bibliotek",
+      "latitude": 57.577224,
+      "longitude": 12.08531
+    },
+    {
+      "name": "Lindsdalsbiblioteket",
+      "latitude": 56.734603,
+      "longitude": 16.295966
+    },
+    {
+      "name": "Lindängenbiblioteket",
+      "latitude": 55.559353,
+      "longitude": 13.014943
+    },
+    {
+      "name": "Linero Bibliotek",
+      "latitude": 55.694771,
+      "longitude": 13.241996
+    },
+    {
+      "name": "Linköpings stifts- och landsbibliotek",
+      "latitude": 58.411758,
+      "longitude": 15.613512
+    },
+    {
+      "name": "Listerby bibliotek",
+      "latitude": 56.188606,
+      "longitude": 15.396152
+    },
+    {
+      "name": "Lits bibliotek",
+      "latitude": 63.317436,
+      "longitude": 14.850683
+    },
+    {
+      "name": "Ljung bibliotek",
+      "latitude": 57.987332,
+      "longitude": 13.058492
+    },
+    {
+      "name": "Ljungby Bibliotek",
+      "latitude": 56.832847,
+      "longitude": 13.947686
+    },
+    {
+      "name": "Ljungsbro bibliotek",
+      "latitude": 58.508879,
+      "longitude": 15.503239
+    },
+    {
+      "name": "Ljungskile bibliotek",
+      "latitude": 58.222278,
+      "longitude": 11.920201
+    },
+    {
+      "name": "Ljusdals Bibliotek",
+      "latitude": 61.829928,
+      "longitude": 16.090149
+    },
+    {
+      "name": "Ljusteroe Bibliothek",
+      "latitude": 59.526066,
+      "longitude": 18.622781
+    },
+    {
+      "name": "Lomma Folkbibliotek",
+      "latitude": 55.675443,
+      "longitude": 13.069545
+    },
+    {
+      "name": "Luma bibliotek",
+      "latitude": 59.30591,
+      "longitude": 18.096899
+    },
+    {
+      "name": "Lundby bibliotek",
+      "latitude": 57.720917,
+      "longitude": 11.946862
+    },
+    {
+      "name": "Lunds stadsbibliotek",
+      "latitude": 55.706724,
+      "longitude": 13.191532
+    },
+    {
+      "name": "Lunds universitetsbibliotek",
+      "latitude": 55.709106,
+      "longitude": 13.197363
+    },
+    {
+      "name": "LUSEM Library",
+      "latitude": 55.712692,
+      "longitude": 13.215283
+    },
+    {
+      "name": "LUX-biblioteket",
+      "latitude": 55.709715,
+      "longitude": 13.200701
+    },
+    {
+      "name": "Lyckeby bibliotek",
+      "latitude": 56.197329,
+      "longitude": 15.657255
+    },
+    {
+      "name": "Lycksele bibliotek",
+      "latitude": 64.595765,
+      "longitude": 18.673625
+    },
+    {
+      "name": "Lysekils stadsbibliotek",
+      "latitude": 58.274887,
+      "longitude": 11.431809
+    },
+    {
+      "name": "Långsele bibliotek",
+      "latitude": 63.17867,
+      "longitude": 17.06538
+    },
+    {
+      "name": "Lödöse bibliotek",
+      "latitude": 58.036206,
+      "longitude": 12.154033
+    },
+    {
+      "name": "Löttorps bibliotek",
+      "latitude": 57.166313,
+      "longitude": 17.006764
+    },
+    {
+      "name": "Majornas bibliotek",
+      "latitude": 57.69342,
+      "longitude": 11.919815
+    },
+    {
+      "name": "Malmslätt Bibliotek",
+      "latitude": 58.420038,
+      "longitude": 15.509163
+    },
+    {
+      "name": "Malmö Stadsbibliotek",
+      "latitude": 55.600483,
+      "longitude": 12.994091
+    },
+    {
+      "name": "Mantorps bibliotek",
+      "latitude": 58.350147,
+      "longitude": 15.288305
+    },
+    {
+      "name": "Mariannelunds bibliotek",
+      "latitude": 57.616106,
+      "longitude": 15.572026
+    },
+    {
+      "name": "Mariefreds bibliotek",
+      "latitude": 59.259712,
+      "longitude": 17.222968
+    },
+    {
+      "name": "Mariehemsbiblioteket",
+      "latitude": 63.840873,
+      "longitude": 20.319615
+    },
+    {
+      "name": "Marstrands bibliotek",
+      "latitude": 57.887303,
+      "longitude": 11.582032
+    },
+    {
+      "name": "Matematiska biblioteket",
+      "latitude": 55.710884,
+      "longitude": 13.206726
+    },
+    {
+      "name": "Medborgarhuset",
+      "latitude": 62.033179,
+      "longitude": 14.368494
+    },
+    {
+      "name": "Medicinska biblioteket",
+      "latitude": 63.817815,
+      "longitude": 20.300546
+    },
+    {
+      "name": "Medicinska biblioteket Mölndal",
+      "latitude": 57.660361,
+      "longitude": 12.009162
+    },
+    {
+      "name": "Medicinska biblioteket Östra",
+      "latitude": 57.721784,
+      "longitude": 12.05052
+    },
+    {
+      "name": "Medicinska fakultetens bibliotek",
+      "latitude": 55.588543,
+      "longitude": 12.999072
+    },
+    {
+      "name": "Misteln",
+      "latitude": 57.165138,
+      "longitude": 16.026115
+    },
+    {
+      "name": "Mjällby bibliotek",
+      "latitude": 56.048781,
+      "longitude": 14.677015
+    },
+    {
+      "name": "Mjölby bibliotek",
+      "latitude": 58.325067,
+      "longitude": 15.124648
+    },
+    {
+      "name": "Mora Kulturhus",
+      "latitude": 61.005077,
+      "longitude": 14.539867
+    },
+    {
+      "name": "Morö Backe bibliotek",
+      "latitude": 64.752731,
+      "longitude": 21.027142
+    },
+    {
+      "name": "Moskosels bibliotek",
+      "latitude": 65.87524,
+      "longitude": 19.456657
+    },
+    {
+      "name": "Motala stadsbibliotek",
+      "latitude": 58.53524,
+      "longitude": 15.035543
+    },
+    {
+      "name": "Munkedals bibliotek",
+      "latitude": 58.466384,
+      "longitude": 11.672983
+    },
+    {
+      "name": "Munkfors bibliotek",
+      "latitude": 59.834503,
+      "longitude": 13.542086
+    },
+    {
+      "name": "Mölltorps bibliotek",
+      "latitude": 58.496107,
+      "longitude": 14.413339
+    },
+    {
+      "name": "Mölndals Stadsbibliotek, Huvudbiblioteket",
+      "latitude": 57.655492,
+      "longitude": 12.011876
+    },
+    {
+      "name": "Mölnlycke bibliotek",
+      "latitude": 57.6585,
+      "longitude": 12.118164
+    },
+    {
+      "name": "Mönsterås bibliotek",
+      "latitude": 57.039692,
+      "longitude": 16.444459
+    },
+    {
+      "name": "Mörbylånga bibliotek",
+      "latitude": 56.527491,
+      "longitude": 16.37519
+    },
+    {
+      "name": "Mörrums bibliotek",
+      "latitude": 56.192991,
+      "longitude": 14.75506
+    },
+    {
+      "name": "Nacka Forum bibliotek",
+      "latitude": 59.308824,
+      "longitude": 18.164819
+    },
+    {
+      "name": "Nora Bibliotek",
+      "latitude": 59.519101,
+      "longitude": 15.037381
+    },
+    {
+      "name": "Norbergs bibliotek",
+      "latitude": 60.068255,
+      "longitude": 15.926471
+    },
+    {
+      "name": "Nordkalottens Kultur- och Forskningscentrum",
+      "latitude": 66.390683,
+      "longitude": 23.65929
+    },
+    {
+      "name": "Nordmalings bibliotek",
+      "latitude": 63.568177,
+      "longitude": 19.505604
+    },
+    {
+      "name": "Norjes bibliotek",
+      "latitude": 56.121585,
+      "longitude": 14.673695
+    },
+    {
+      "name": "Norra Djurgårdsstadens bibliotek",
+      "latitude": 59.359564,
+      "longitude": 18.095076
+    },
+    {
+      "name": "Norra Fäladens bibliotek",
+      "latitude": 55.723506,
+      "longitude": 13.201722
+    },
+    {
+      "name": "Norrtälje Stadbibliotek",
+      "latitude": 59.759617,
+      "longitude": 18.702194
+    },
+    {
+      "name": "Norsjö bibliotek",
+      "latitude": 64.911162,
+      "longitude": 19.481307
+    },
+    {
+      "name": "Nynäshamns Stadsbibliotek",
+      "latitude": 58.902016,
+      "longitude": 17.946033
+    },
+    {
+      "name": "Nättraby bibliotek",
+      "latitude": 56.203535,
+      "longitude": 15.528238
+    },
+    {
+      "name": "Ockelbo kommun",
+      "latitude": 60.890611,
+      "longitude": 16.716681
+    },
+    {
+      "name": "Olofströms Bibliotek",
+      "latitude": 56.277595,
+      "longitude": 14.526951
+    },
+    {
+      "name": "Ore bibliotek",
+      "latitude": 61.168195,
+      "longitude": 15.143971
+    },
+    {
+      "name": "Orkanenbiblioteket",
+      "latitude": 55.610715,
+      "longitude": 12.995349
+    },
+    {
+      "name": "Orminge bibliotek",
+      "latitude": 59.327052,
+      "longitude": 18.25722
+    },
+    {
+      "name": "Ornö bibliotek",
+      "latitude": 59.051703,
+      "longitude": 18.431502
+    },
+    {
+      "name": "Oskarströms bibliotek",
+      "latitude": 56.80193,
+      "longitude": 12.975949
+    },
+    {
+      "name": "Oxie Bibliotek",
+      "latitude": 55.539749,
+      "longitude": 13.096225
+    },
+    {
+      "name": "Partille Kulturum",
+      "latitude": 57.740775,
+      "longitude": 12.109816
+    },
+    {
+      "name": "Patientbibliotek",
+      "latitude": 59.602732,
+      "longitude": 15.216401
+    },
+    {
+      "name": "Pedagogiska biblioteket",
+      "latitude": 57.70179,
+      "longitude": 11.964433
+    },
+    {
+      "name": "Piteå Stadsbibliotek",
+      "latitude": 65.320281,
+      "longitude": 21.486198
+    },
+    {
+      "name": "Porjus Biblioteket",
+      "latitude": 66.959719,
+      "longitude": 19.82079
+    },
+    {
+      "name": "Rampens bibliotek",
+      "latitude": 58.350151,
+      "longitude": 11.849796
+    },
+    {
+      "name": "Ramsmora bibliotek",
+      "latitude": 59.423925,
+      "longitude": 18.909629
+    },
+    {
+      "name": "Riksdagsbiblioteket",
+      "latitude": 59.325664,
+      "longitude": 18.068368
+    },
+    {
+      "name": "Rimbo bibliotek",
+      "latitude": 59.744382,
+      "longitude": 18.368188
+    },
+    {
+      "name": "Rimforsa Bibliotek",
+      "latitude": 58.13539,
+      "longitude": 15.686482
+    },
+    {
+      "name": "Ringstorps bibliotek",
+      "latitude": 56.065657,
+      "longitude": 12.700372
+    },
+    {
+      "name": "Rinkeby bibliotek",
+      "latitude": 59.388749,
+      "longitude": 17.927067
+    },
+    {
+      "name": "Ronneby stadsbibliotek",
+      "latitude": 56.21031,
+      "longitude": 15.280519
+    },
+    {
+      "name": "Rosengårds bibliotek",
+      "latitude": 55.58521,
+      "longitude": 13.044579
+    },
+    {
+      "name": "Runda huset",
+      "latitude": 59.326321,
+      "longitude": 18.39024
+    },
+    {
+      "name": "Ryds bibliotek",
+      "latitude": 58.409167,
+      "longitude": 15.562746
+    },
+    {
+      "name": "Rättviks bibliotek",
+      "latitude": 60.881861,
+      "longitude": 15.121435
+    },
+    {
+      "name": "Råneå bibliotek",
+      "latitude": 65.857176,
+      "longitude": 22.288475
+    },
+    {
+      "name": "Råå bibliotek",
+      "latitude": 55.998019,
+      "longitude": 12.742095
+    },
+    {
+      "name": "Rödeby bibliotek",
+      "latitude": 56.264045,
+      "longitude": 15.621299
+    },
+    {
+      "name": "Sala bibliotek",
+      "latitude": 59.923039,
+      "longitude": 16.609669
+    },
+    {
+      "name": "Salems bibliotek",
+      "latitude": 59.202201,
+      "longitude": 17.764967
+    },
+    {
+      "name": "Saltsjöbadens bibliotek",
+      "latitude": 59.28517,
+      "longitude": 18.275537
+    },
+    {
+      "name": "Samhällsvetenskapliga biblioteket",
+      "latitude": 57.697895,
+      "longitude": 11.961799
+    },
+    {
+      "name": "Samhällsvetenskapliga fakultetens bibliotek",
+      "latitude": 55.707979,
+      "longitude": 13.194266
+    },
+    {
+      "name": "Sandvikens Biblotek",
+      "latitude": 60.620555,
+      "longitude": 16.779286
+    },
+    {
+      "name": "Segeltorps Bibliotek",
+      "latitude": 59.278079,
+      "longitude": 17.944648
+    },
+    {
+      "name": "Sigtuna bibliotek",
+      "latitude": 59.616158,
+      "longitude": 17.715745
+    },
+    {
+      "name": "Sigtunastiftelsens bibliotek",
+      "latitude": 59.615305,
+      "longitude": 17.710324
+    },
+    {
+      "name": "Sjömansgården",
+      "latitude": 60.167989,
+      "longitude": 18.469975
+    },
+    {
+      "name": "Sjöviks bibliotek",
+      "latitude": 57.914724,
+      "longitude": 12.368647
+    },
+    {
+      "name": "Skanörs Bibliotek",
+      "latitude": 55.41155,
+      "longitude": 12.844484
+    },
+    {
+      "name": "Skara bibliotek",
+      "latitude": 58.387223,
+      "longitude": 13.440075
+    },
+    {
+      "name": "Skara bibliotek (Forskaravdelningen)",
+      "latitude": 58.387037,
+      "longitude": 13.439193
+    },
+    {
+      "name": "Skarpnäcks gårds bibliotek",
+      "latitude": 59.267783,
+      "longitude": 18.128735
+    },
+    {
+      "name": "Skattkärrs bibliotek",
+      "latitude": 59.413198,
+      "longitude": 13.675117
+    },
+    {
+      "name": "Skelleftehamns bibliotek",
+      "latitude": 64.687814,
+      "longitude": 21.245301
+    },
+    {
+      "name": "Skellefteå stadsbibliotek",
+      "latitude": 64.752019,
+      "longitude": 20.953709
+    },
+    {
+      "name": "Skepplanda Bibliotek",
+      "latitude": 57.982905,
+      "longitude": 12.21208
+    },
+    {
+      "name": "Skiljebo bibliotek",
+      "latitude": 59.620726,
+      "longitude": 16.594454
+    },
+    {
+      "name": "Skillingaryds bibliotek",
+      "latitude": 57.42767,
+      "longitude": 14.092273
+    },
+    {
+      "name": "Skogsbiblioteket",
+      "latitude": 63.821196,
+      "longitude": 20.313723
+    },
+    {
+      "name": "Skogås bibliotek",
+      "latitude": 59.217756,
+      "longitude": 18.15259
+    },
+    {
+      "name": "Skorpeds bibliotek",
+      "latitude": 63.378179,
+      "longitude": 17.884347
+    },
+    {
+      "name": "Skultorps biblioteksfilial",
+      "latitude": 58.343359,
+      "longitude": 13.828247
+    },
+    {
+      "name": "Skutskärs bibliotek",
+      "latitude": 60.6257,
+      "longitude": 17.412432
+    },
+    {
+      "name": "Skänninge bibliotek",
+      "latitude": 58.395342,
+      "longitude": 15.087453
+    },
+    {
+      "name": "Skärblacka Bibliotek",
+      "latitude": 58.581489,
+      "longitude": 15.913899
+    },
+    {
+      "name": "Skärhamns bibliotek",
+      "latitude": 57.986216,
+      "longitude": 11.55034
+    },
+    {
+      "name": "Skärholmens bibliotek",
+      "latitude": 59.276001,
+      "longitude": 17.906012
+    },
+    {
+      "name": "Skåre Bibliotek",
+      "latitude": 59.436589,
+      "longitude": 13.439261
+    },
+    {
+      "name": "Sköndals Bibliotek",
+      "latitude": 59.255663,
+      "longitude": 18.11468
+    },
+    {
+      "name": "Skönsbergs bibliotek",
+      "latitude": 62.400985,
+      "longitude": 17.341742
+    },
+    {
+      "name": "Skönsmons bibliotek",
+      "latitude": 62.378184,
+      "longitude": 17.344711
+    },
+    {
+      "name": "Slöjd och byggnadsvård Bibliotek",
+      "latitude": 57.814282,
+      "longitude": 12.391805
+    },
+    {
+      "name": "Smålandsstenar bibliotek",
+      "latitude": 57.162898,
+      "longitude": 13.411097
+    },
+    {
+      "name": "Sollefteå bibliotek",
+      "latitude": 63.167348,
+      "longitude": 17.270209
+    },
+    {
+      "name": "Sollentuna bibliotek",
+      "latitude": 59.429535,
+      "longitude": 17.949983
+    },
+    {
+      "name": "Solna stadsbibliotek",
+      "latitude": 59.359773,
+      "longitude": 18.00149
+    },
+    {
+      "name": "Sparvens Lilla Bibliotek",
+      "latitude": 57.717638,
+      "longitude": 12.003933
+    },
+    {
+      "name": "Språk- och litteraturbiblioteket",
+      "latitude": 55.708678,
+      "longitude": 13.199243
+    },
+    {
+      "name": "Spånga bibliotek",
+      "latitude": 59.38253,
+      "longitude": 17.898001
+    },
+    {
+      "name": "Stadsarkivet",
+      "latitude": 59.860883,
+      "longitude": 17.635704
+    },
+    {
+      "name": "Stadsarkivet",
+      "latitude": 55.594337,
+      "longitude": 13.008644
+    },
+    {
+      "name": "Stadsbibliotek",
+      "latitude": 58.034722,
+      "longitude": 14.97612
+    },
+    {
+      "name": "Stadsbibliotek",
+      "latitude": 60.149241,
+      "longitude": 15.185791
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "latitude": 58.994143,
+      "longitude": 16.203693
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "latitude": 57.654058,
+      "longitude": 14.69943
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "latitude": 56.906269,
+      "longitude": 12.490271
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "latitude": 59.372575,
+      "longitude": 16.512548
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "latitude": 56.665368,
+      "longitude": 16.357128
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "latitude": 65.585485,
+      "longitude": 22.152168
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "latitude": 58.584917,
+      "longitude": 16.190867
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "latitude": 58.347859,
+      "longitude": 11.93437
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "latitude": 57.780163,
+      "longitude": 14.176768
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "latitude": 56.173251,
+      "longitude": 14.858421
+    },
+    {
+      "name": "Stadsbiblioteket",
+      "latitude": 58.937925,
+      "longitude": 11.177531
+    },
+    {
+      "name": "Stadsbiblioteket 300m2",
+      "latitude": 57.706897,
+      "longitude": 11.971707
+    },
+    {
+      "name": "Stadsbiblioteket 300m²",
+      "latitude": 57.707293,
+      "longitude": 11.968037
+    },
+    {
+      "name": "Stadsbiblioteket på Götaplatsen",
+      "latitude": 57.69795,
+      "longitude": 11.97969
+    },
+    {
+      "name": "Stadsbiblioteket Spelbomskan",
+      "latitude": 59.343272,
+      "longitude": 18.053486
+    },
+    {
+      "name": "Stadsblioteket",
+      "latitude": 58.390073,
+      "longitude": 13.85104
+    },
+    {
+      "name": "Stadsdelsbiblioteket Garaget",
+      "latitude": 55.585055,
+      "longitude": 13.017403
+    },
+    {
+      "name": "Staffanstorps bibliotek",
+      "latitude": 55.644297,
+      "longitude": 13.208627
+    },
+    {
+      "name": "Stehags bibliotek",
+      "latitude": 55.902613,
+      "longitude": 13.391702
+    },
+    {
+      "name": "Stella",
+      "latitude": 56.659436,
+      "longitude": 16.363378
+    },
+    {
+      "name": "Stenbacka bibliotek",
+      "latitude": 56.204354,
+      "longitude": 14.837212
+    },
+    {
+      "name": "Steneby bibliotek",
+      "latitude": 58.923594,
+      "longitude": 12.307742
+    },
+    {
+      "name": "Stenhagenbiblioteket",
+      "latitude": 59.850582,
+      "longitude": 17.558356
+    },
+    {
+      "name": "Stenstorps Bibliotek",
+      "latitude": 58.274439,
+      "longitude": 13.714471
+    },
+    {
+      "name": "Stenungsunds Bibliotek",
+      "latitude": 58.066515,
+      "longitude": 11.816567
+    },
+    {
+      "name": "Stockholm Stad",
+      "latitude": 59.409033,
+      "longitude": 17.925871
+    },
+    {
+      "name": "Stockholms stadsbibliotek",
+      "latitude": 59.343353,
+      "longitude": 18.054557
+    },
+    {
+      "name": "Stockholms universitetsbibliotek",
+      "latitude": 59.363743,
+      "longitude": 18.060824
+    },
+    {
+      "name": "Stocksunds bibliotek",
+      "latitude": 59.38505,
+      "longitude": 18.058557
+    },
+    {
+      "name": "Storumans kommunbibliotek",
+      "latitude": 65.09653,
+      "longitude": 17.114828
+    },
+    {
+      "name": "Storviks Bibliotek",
+      "latitude": 60.583294,
+      "longitude": 16.532252
+    },
+    {
+      "name": "Storvretabiblioteket",
+      "latitude": 59.960039,
+      "longitude": 17.703298
+    },
+    {
+      "name": "Storå Bibliotek",
+      "latitude": 59.713243,
+      "longitude": 15.12811
+    },
+    {
+      "name": "Strängnäs Bibliotek/Multeum",
+      "latitude": 59.378348,
+      "longitude": 17.02457
+    },
+    {
+      "name": "Studietorget Campus Linné",
+      "latitude": 57.691408,
+      "longitude": 11.956028
+    },
+    {
+      "name": "Studietorget Hälsovetarbacken",
+      "latitude": 57.686996,
+      "longitude": 11.955495
+    },
+    {
+      "name": "Sturkö bibliotek",
+      "latitude": 56.112479,
+      "longitude": 15.681193
+    },
+    {
+      "name": "Stångby bibliotek",
+      "latitude": 55.751048,
+      "longitude": 13.196535
+    },
+    {
+      "name": "Sundborns (nya) bibliotek",
+      "latitude": 60.65047,
+      "longitude": 15.778047
+    },
+    {
+      "name": "Sundbybergs bibliotek",
+      "latitude": 59.362532,
+      "longitude": 17.965526
+    },
+    {
+      "name": "Sundsgårdens bibliotek",
+      "latitude": 55.987396,
+      "longitude": 12.757772
+    },
+    {
+      "name": "Sundsvalls stadsbibliotek",
+      "latitude": 62.39188,
+      "longitude": 17.311336
+    },
+    {
+      "name": "Surahammars bibliotek",
+      "latitude": 59.707237,
+      "longitude": 16.222373
+    },
+    {
+      "name": "Svalövs bibliotek",
+      "latitude": 55.913288,
+      "longitude": 13.108503
+    },
+    {
+      "name": "Svedala bibliotek",
+      "latitude": 55.509565,
+      "longitude": 13.237998
+    },
+    {
+      "name": "Svängsta bibliotek",
+      "latitude": 56.26208,
+      "longitude": 14.77161
+    },
+    {
+      "name": "Syltebiblioteket",
+      "latitude": 58.254127,
+      "longitude": 12.278016
+    },
+    {
+      "name": "Säters bibliotek",
+      "latitude": 60.347434,
+      "longitude": 15.749783
+    },
+    {
+      "name": "Sävarbiblioteket",
+      "latitude": 63.899385,
+      "longitude": 20.556907
+    },
+    {
+      "name": "Sävjabiblioteket",
+      "latitude": 59.810726,
+      "longitude": 17.702274
+    },
+    {
+      "name": "Sävsjö Stadsbibliotek",
+      "latitude": 57.400865,
+      "longitude": 14.665261
+    },
+    {
+      "name": "Söderhamns stadsbibliotek",
+      "latitude": 61.302367,
+      "longitude": 17.05497
+    },
+    {
+      "name": "Södertälje Stadsbibliotek",
+      "latitude": 59.196863,
+      "longitude": 17.626404
+    },
+    {
+      "name": "Södertörns bibliotek",
+      "latitude": 59.219032,
+      "longitude": 17.941246
+    },
+    {
+      "name": "Södra Sandby bibliotek",
+      "latitude": 55.7175,
+      "longitude": 13.344612
+    },
+    {
+      "name": "Södra utmarkens Bibliotek",
+      "latitude": 56.23399,
+      "longitude": 12.844632
+    },
+    {
+      "name": "Sölvesborgs bibliotek",
+      "latitude": 56.052681,
+      "longitude": 14.58832
+    },
+    {
+      "name": "Sörforsa bibliotek",
+      "latitude": 61.716881,
+      "longitude": 16.966973
+    },
+    {
+      "name": "Söråkers bibliotek",
+      "latitude": 62.508339,
+      "longitude": 17.509475
+    },
+    {
+      "name": "Tabergs bibliotek",
+      "latitude": 57.679179,
+      "longitude": 14.08951
+    },
+    {
+      "name": "Tegelbrukets bibliotek",
+      "latitude": 59.281039,
+      "longitude": 15.190616
+    },
+    {
+      "name": "Tegsbiblioteket",
+      "latitude": 63.819436,
+      "longitude": 20.2438
+    },
+    {
+      "name": "Telefonplans bibliotek",
+      "latitude": 59.298925,
+      "longitude": 17.99666
+    },
+    {
+      "name": "Tenhults bibliotek",
+      "latitude": 57.709563,
+      "longitude": 14.322483
+    },
+    {
+      "name": "Tensta bibliotek",
+      "latitude": 59.395414,
+      "longitude": 17.897802
+    },
+    {
+      "name": "Tidaholms stadsbibliotek",
+      "latitude": 58.177934,
+      "longitude": 13.95978
+    },
+    {
+      "name": "Timrå bibliotek",
+      "latitude": 62.489624,
+      "longitude": 17.32663
+    },
+    {
+      "name": "Tollarps bibliotek",
+      "latitude": 55.934138,
+      "longitude": 13.973784
+    },
+    {
+      "name": "Tornion kaupunginkirjasto",
+      "latitude": 65.845902,
+      "longitude": 24.140733
+    },
+    {
+      "name": "Torshälla bibliotek",
+      "latitude": 59.421268,
+      "longitude": 16.470732
+    },
+    {
+      "name": "Torslanda bibliotek",
+      "latitude": 57.710876,
+      "longitude": 11.774373
+    },
+    {
+      "name": "Torsångs Bibliotek",
+      "latitude": 60.463254,
+      "longitude": 15.569039
+    },
+    {
+      "name": "Torsås bibliotek",
+      "latitude": 56.412551,
+      "longitude": 16.000729
+    },
+    {
+      "name": "Tranemo stadsbibliotek",
+      "latitude": 57.485407,
+      "longitude": 13.349397
+    },
+    {
+      "name": "Tranströmers bibliotek",
+      "latitude": 59.314579,
+      "longitude": 18.07293
+    },
+    {
+      "name": "Trehörningsjö bibliotek",
+      "latitude": 63.693855,
+      "longitude": 18.859352
+    },
+    {
+      "name": "Trelleborgs Bibliotek",
+      "latitude": 55.376275,
+      "longitude": 13.157378
+    },
+    {
+      "name": "Trelleborgs Biblotek (Automat)",
+      "latitude": 55.371887,
+      "longitude": 13.158741
+    },
+    {
+      "name": "Trollbäckens Bibliotek",
+      "latitude": 59.222002,
+      "longitude": 18.204275
+    },
+    {
+      "name": "Trollhättans Stadsbibliotek",
+      "latitude": 58.286261,
+      "longitude": 12.291816
+    },
+    {
+      "name": "Trosa Stadsbibliotek",
+      "latitude": 58.89632,
+      "longitude": 17.548668
+    },
+    {
+      "name": "Tullinge bibiliotek",
+      "latitude": 59.206095,
+      "longitude": 17.902655
+    },
+    {
+      "name": "Tuve bibliotek",
+      "latitude": 57.755553,
+      "longitude": 11.926778
+    },
+    {
+      "name": "Tvärålunds bibliotek",
+      "latitude": 64.097196,
+      "longitude": 19.668511
+    },
+    {
+      "name": "Tyringe Bibliotek",
+      "latitude": 56.159576,
+      "longitude": 13.598403
+    },
+    {
+      "name": "Täby Bibliotek",
+      "latitude": 59.444339,
+      "longitude": 18.068084
+    },
+    {
+      "name": "Täby Kyrkby Bibliotek",
+      "latitude": 59.492306,
+      "longitude": 18.067529
+    },
+    {
+      "name": "Tärnaby bibliotek",
+      "latitude": 65.711311,
+      "longitude": 15.265846
+    },
+    {
+      "name": "Tärnsjö Bibliotek",
+      "latitude": 60.153866,
+      "longitude": 16.924395
+    },
+    {
+      "name": "Töcksfors bibliotek",
+      "latitude": 59.508992,
+      "longitude": 11.837001
+    },
+    {
+      "name": "Töreboda bibliotek",
+      "latitude": 58.706872,
+      "longitude": 14.127688
+    },
+    {
+      "name": "UB",
+      "latitude": 56.855283,
+      "longitude": 14.829863
+    },
+    {
+      "name": "Ullareds Bibliotek",
+      "latitude": 57.136985,
+      "longitude": 12.72278
+    },
+    {
+      "name": "Ulriksdalsskolans bibliotek",
+      "latitude": 59.380871,
+      "longitude": 18.00318
+    },
+    {
+      "name": "Ultuna Biblioteket",
+      "latitude": 59.815308,
+      "longitude": 17.662952
+    },
+    {
+      "name": "Umedalens bibliotek",
+      "latitude": 63.838545,
+      "longitude": 20.159942
+    },
+    {
+      "name": "Umeå stadsbibliotek",
+      "latitude": 63.824854,
+      "longitude": 20.260051
+    },
+    {
+      "name": "Umeå universitetsbibliotek",
+      "latitude": 63.821461,
+      "longitude": 20.306874
+    },
+    {
+      "name": "Universitetsbiblioteket",
+      "latitude": 63.176687,
+      "longitude": 14.649295
+    },
+    {
+      "name": "Universitetsbiblioteket",
+      "latitude": 65.617321,
+      "longitude": 22.140044
+    },
+    {
+      "name": "Universitetsbiblioteket konstnärligt campus",
+      "latitude": 63.820645,
+      "longitude": 20.274931
+    },
+    {
+      "name": "University Library",
+      "latitude": 59.346384,
+      "longitude": 18.023992
+    },
+    {
+      "name": "Upplands Väsby bibliotek",
+      "latitude": 59.520871,
+      "longitude": 17.901676
+    },
+    {
+      "name": "Uppsala stadsbibliotek",
+      "latitude": 59.860692,
+      "longitude": 17.636152
+    },
+    {
+      "name": "Vadstena bibliotek",
+      "latitude": 58.445711,
+      "longitude": 14.888586
+    },
+    {
+      "name": "Valbo Bibliotek",
+      "latitude": 60.638666,
+      "longitude": 17.006056
+    },
+    {
+      "name": "Valdemarsviks bibliotek",
+      "latitude": 58.20519,
+      "longitude": 16.600514
+    },
+    {
+      "name": "Valhall",
+      "latitude": 64.204611,
+      "longitude": 19.711311
+    },
+    {
+      "name": "Vallabiblioteket",
+      "latitude": 58.3971,
+      "longitude": 15.578241
+    },
+    {
+      "name": "Vallberga bibliotek",
+      "latitude": 56.464556,
+      "longitude": 13.032803
+    },
+    {
+      "name": "Vallentuna bibliotek",
+      "latitude": 59.534199,
+      "longitude": 18.076647
+    },
+    {
+      "name": "Vallås Bibliotek",
+      "latitude": 56.677829,
+      "longitude": 12.910806
+    },
+    {
+      "name": "Vara folkbibliotek",
+      "latitude": 58.262672,
+      "longitude": 12.954833
+    },
+    {
+      "name": "Varbergs bibliotek Bua",
+      "latitude": 57.236525,
+      "longitude": 12.126352
+    },
+    {
+      "name": "Vargöns Bibliotek",
+      "latitude": 58.355517,
+      "longitude": 12.389895
+    },
+    {
+      "name": "Vaxholms stadsbibliotek",
+      "latitude": 59.403537,
+      "longitude": 18.349274
+    },
+    {
+      "name": "Veberöds bibliotek",
+      "latitude": 55.635323,
+      "longitude": 13.490019
+    },
+    {
+      "name": "Vejbystrands Bibliotek",
+      "latitude": 56.314152,
+      "longitude": 12.769611
+    },
+    {
+      "name": "Vellinge bibliotek",
+      "latitude": 55.471299,
+      "longitude": 13.012774
+    },
+    {
+      "name": "Vika Bibliotek",
+      "latitude": 60.514193,
+      "longitude": 15.714643
+    },
+    {
+      "name": "Vikens Bibliotek",
+      "latitude": 56.146265,
+      "longitude": 12.576545
+    },
+    {
+      "name": "Viksjö bibliotek",
+      "latitude": 59.411945,
+      "longitude": 17.803873
+    },
+    {
+      "name": "Vilbergens bibliotek",
+      "latitude": 58.570634,
+      "longitude": 16.169692
+    },
+    {
+      "name": "Vinslövs Bibliotek",
+      "latitude": 56.104641,
+      "longitude": 13.915199
+    },
+    {
+      "name": "Vintrosa bibliotek",
+      "latitude": 59.254515,
+      "longitude": 14.95488
+    },
+    {
+      "name": "Visingsö Bibliotek",
+      "latitude": 58.052634,
+      "longitude": 14.346819
+    },
+    {
+      "name": "Vitterhetsakademiens bibliotek",
+      "latitude": 59.333667,
+      "longitude": 18.090912
+    },
+    {
+      "name": "Vivalla bibliotek",
+      "latitude": 59.299233,
+      "longitude": 15.187019
+    },
+    {
+      "name": "Voxcultura",
+      "latitude": 61.378654,
+      "longitude": 15.815294
+    },
+    {
+      "name": "Vrigstad Bibliotek",
+      "latitude": 57.356479,
+      "longitude": 14.471641
+    },
+    {
+      "name": "Väderstads bibliotek",
+      "latitude": 58.312649,
+      "longitude": 14.924339
+    },
+    {
+      "name": "Vällingby bibliotek",
+      "latitude": 59.362437,
+      "longitude": 17.870536
+    },
+    {
+      "name": "Vännäs Biblotek",
+      "latitude": 63.908639,
+      "longitude": 19.755903
+    },
+    {
+      "name": "Vännäsby bibliotek",
+      "latitude": 63.914407,
+      "longitude": 19.814245
+    },
+    {
+      "name": "Världslitteraturhuset",
+      "latitude": 57.727741,
+      "longitude": 12.005496
+    },
+    {
+      "name": "Värnamo Stadsbibliotek",
+      "latitude": 57.188591,
+      "longitude": 14.037305
+    },
+    {
+      "name": "Värnamo stadsbibliotek",
+      "latitude": 57.188649,
+      "longitude": 14.03718
+    },
+    {
+      "name": "Västerås stadsbibliotek",
+      "latitude": 59.612889,
+      "longitude": 16.543315
+    },
+    {
+      "name": "Västra Frölunda bibliotek",
+      "latitude": 57.653563,
+      "longitude": 11.909669
+    },
+    {
+      "name": "Växjö stadsbibliotek",
+      "latitude": 56.880502,
+      "longitude": 14.800277
+    },
+    {
+      "name": "Vålbergs bibliotek",
+      "latitude": 59.395137,
+      "longitude": 13.1952
+    },
+    {
+      "name": "Vårbyhuset",
+      "latitude": 59.264591,
+      "longitude": 17.882969
+    },
+    {
+      "name": "Vårgårda Bibliotek",
+      "latitude": 58.032845,
+      "longitude": 12.812641
+    },
+    {
+      "name": "Vårsta Bibliotek",
+      "latitude": 59.165424,
+      "longitude": 17.796795
+    },
+    {
+      "name": "Werner Aspenströmbiblioteket",
+      "latitude": 60.142094,
+      "longitude": 15.412213
+    },
+    {
+      "name": "Wrangel",
+      "latitude": 55.706705,
+      "longitude": 13.199897
+    },
+    {
+      "name": "Ydre kommunbibliotek",
+      "latitude": 57.825195,
+      "longitude": 15.276612
+    },
+    {
+      "name": "Ystads stadsbibliotek",
+      "latitude": 55.433459,
+      "longitude": 13.828215
+    },
+    {
+      "name": "Ytterby bibliotek",
+      "latitude": 57.863348,
+      "longitude": 11.922204
+    },
+    {
+      "name": "Älmhults Bibliotek",
+      "latitude": 56.555507,
+      "longitude": 14.141577
+    },
+    {
+      "name": "Älvdalens sockenbibliotek",
+      "latitude": 61.227594,
+      "longitude": 14.040598
+    },
+    {
+      "name": "Älvsbacka bibliotek",
+      "latitude": 59.71862,
+      "longitude": 13.664639
+    },
+    {
+      "name": "Älvsjö bibliotek",
+      "latitude": 59.278168,
+      "longitude": 18.007833
+    },
+    {
+      "name": "Älvstrandens bibliotek",
+      "latitude": 57.705152,
+      "longitude": 11.937814
+    },
+    {
+      "name": "Älvängens bibliotek",
+      "latitude": 57.957598,
+      "longitude": 12.117228
+    },
+    {
+      "name": "Ängelholms stadsbibliotek",
+      "latitude": 56.243527,
+      "longitude": 12.861031
+    },
+    {
+      "name": "Åby bibliotek",
+      "latitude": 58.662086,
+      "longitude": 16.174053
+    },
+    {
+      "name": "Åhus bibliotek",
+      "latitude": 55.926811,
+      "longitude": 14.299895
+    },
+    {
+      "name": "Ålidhemsbiblioteket",
+      "latitude": 63.808332,
+      "longitude": 20.315565
+    },
+    {
+      "name": "Åmotfors bibliotek",
+      "latitude": 59.762087,
+      "longitude": 12.363008
+    },
+    {
+      "name": "Åmåls bibliotek",
+      "latitude": 59.051337,
+      "longitude": 12.705531
+    },
+    {
+      "name": "Ångströmbiblioteket",
+      "latitude": 59.839821,
+      "longitude": 17.647123
+    },
+    {
+      "name": "Åre bibliotek",
+      "latitude": 63.399163,
+      "longitude": 13.07603
+    },
+    {
+      "name": "Åredalens Folkhögskolan biblioteket",
+      "latitude": 63.318688,
+      "longitude": 13.351068
+    },
+    {
+      "name": "Årsta bibliotek",
+      "latitude": 59.297345,
+      "longitude": 18.051573
+    },
+    {
+      "name": "Åsele bibliotek",
+      "latitude": 64.162262,
+      "longitude": 17.356418
+    },
+    {
+      "name": "Åshammars Bibliotek",
+      "latitude": 60.64184,
+      "longitude": 16.554656
+    },
+    {
+      "name": "Öckerö bibliotek",
+      "latitude": 57.708999,
+      "longitude": 11.65441
+    },
+    {
+      "name": "Ödåkra bibliotek",
+      "latitude": 56.106295,
+      "longitude": 12.747338
+    },
+    {
+      "name": "Öjebyns bibliotek",
+      "latitude": 65.345278,
+      "longitude": 21.399931
+    },
+    {
+      "name": "Örby bibliotek",
+      "latitude": 59.275193,
+      "longitude": 18.02762
+    },
+    {
+      "name": "Örebro Stadsbibliotek",
+      "latitude": 59.272016,
+      "longitude": 15.207614
+    },
+    {
+      "name": "Öregrunds bibliotek",
+      "latitude": 60.339488,
+      "longitude": 18.439973
+    },
+    {
+      "name": "Örsundsbro bibliotek",
+      "latitude": 59.73481,
+      "longitude": 17.306929
+    },
+    {
+      "name": "Ösmos Biblotek",
+      "latitude": 58.983312,
+      "longitude": 17.896268
+    },
+    {
+      "name": "Östberga Bibliotek",
+      "latitude": 59.288959,
+      "longitude": 18.033378
+    },
+    {
+      "name": "Österbybruks bibliotek",
+      "latitude": 60.194929,
+      "longitude": 17.896488
+    },
+    {
+      "name": "Österfärnebo bibliotek",
+      "latitude": 60.305063,
+      "longitude": 16.796929
+    },
+    {
+      "name": "Östermalms bibliotek",
+      "latitude": 59.340113,
+      "longitude": 18.09168
+    },
+    {
+      "name": "Östersunds bibliotek",
+      "latitude": 63.17666,
+      "longitude": 14.641502
+    },
+    {
+      "name": "Österåkers bibliotek",
+      "latitude": 59.479772,
+      "longitude": 18.299358
+    },
+    {
+      "name": "Östra Ljungby bibliotek",
+      "latitude": 56.191798,
+      "longitude": 13.072892
+    },
+    {
+      "name": "Överkalix Kommunbiboltek",
+      "latitude": 66.32683,
+      "longitude": 22.836096
+    },
+    {
+      "name": "Övertorneå Bibliotek",
+      "latitude": 66.387239,
+      "longitude": 23.648963
+    },
+    {
+      "name": "Öxnehaga bibliotek",
+      "latitude": 57.774869,
+      "longitude": 14.263764
+    }
+  ],
+  "meta": {
+    "title": "Bibliotek (Libraries) - Gratis nedladdning",
+    "description": "Bibliotek i Sverige — OpenStreetMap-punktdata (OSM-tagg: amenity=library). Swedish libraries as named point locations with WGS84 coordinates. 663 st. Utvunna ur EU-POIS quadkey-rutor (zoom-12). Innehåller 663 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Bibliotek (Libraries) | ListBase",
+    "seo_description": "Ladda ner Bibliotek (Libraries) — 663 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 663 poster / 3 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}

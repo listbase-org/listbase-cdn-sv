@@ -1,0 +1,1960 @@
+{
+  "id": "sv-uppsala-valdistrikt-2022",
+  "name": "Valdistrikt i Uppsala län (val 2022)",
+  "title": "Valdistrikt i Uppsala län (val 2022)",
+  "description": "238 valdistrikt i Uppsala län (länskod 03) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 238,
+  "columns": [
+    {
+      "key": "valdistrikt_kod",
+      "label": "Valdistrikt Kod",
+      "type": "number"
+    },
+    {
+      "key": "valdistrikt_namn",
+      "label": "Valdistrikt Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommun_kod",
+      "label": "Kommun Kod",
+      "type": "number"
+    },
+    {
+      "key": "kommun_namn",
+      "label": "Kommun Namn",
+      "type": "string"
+    },
+    {
+      "key": "lan_kod",
+      "label": "Lan Kod",
+      "type": "number"
+    },
+    {
+      "key": "lan_namn",
+      "label": "Lan Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valdistrikt_kod": "03050101",
+      "valdistrikt_namn": "Mansängen - Draget",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03050102",
+      "valdistrikt_namn": "Skörby - Gillmarken",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03050103",
+      "valdistrikt_namn": "Västerängen - Åkerby",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03050104",
+      "valdistrikt_namn": "Råby - Frösunda",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03050106",
+      "valdistrikt_namn": "Väppeby äng - Kalmarsand",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03050107",
+      "valdistrikt_namn": "Väppebyberget - Viby äng",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03050206",
+      "valdistrikt_namn": "Gamla Bålsta - Pomona",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03050207",
+      "valdistrikt_namn": "Åsenområdet",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03050309",
+      "valdistrikt_namn": "Häggeby - Övergran",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03050310",
+      "valdistrikt_namn": "Krägga - Graneberg",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03050410",
+      "valdistrikt_namn": "Skokloster",
+      "kommun_kod": "0305",
+      "kommun_namn": "Håbo",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03190106",
+      "valdistrikt_namn": "Gårdskär",
+      "kommun_kod": "0319",
+      "kommun_namn": "Älvkarleby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03190107",
+      "valdistrikt_namn": "Östanån",
+      "kommun_kod": "0319",
+      "kommun_namn": "Älvkarleby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03190108",
+      "valdistrikt_namn": "Älvkarleö bruk - Marma",
+      "kommun_kod": "0319",
+      "kommun_namn": "Älvkarleby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03190202",
+      "valdistrikt_namn": "Jungfruholmen",
+      "kommun_kod": "0319",
+      "kommun_namn": "Älvkarleby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03190204",
+      "valdistrikt_namn": "Skutskärs Centrum",
+      "kommun_kod": "0319",
+      "kommun_namn": "Älvkarleby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03190205",
+      "valdistrikt_namn": "Boda",
+      "kommun_kod": "0319",
+      "kommun_namn": "Älvkarleby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303259",
+      "valdistrikt_namn": "Lagga - Östuna",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303363",
+      "valdistrikt_namn": "Vassunda",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303364",
+      "valdistrikt_namn": "Norra Alsike",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303365",
+      "valdistrikt_namn": "Vrå",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303366",
+      "valdistrikt_namn": "Boängen",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303369",
+      "valdistrikt_namn": "Sågen",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303566",
+      "valdistrikt_namn": "Tallbacken",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303567",
+      "valdistrikt_namn": "Östra Knivsta",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303568",
+      "valdistrikt_namn": "Södra Knivsta",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303570",
+      "valdistrikt_namn": "Västra Knivsta",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303571",
+      "valdistrikt_namn": "Gredelby",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03303775",
+      "valdistrikt_namn": "Husby - Långhundra",
+      "kommun_kod": "0330",
+      "kommun_namn": "Knivsta",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03310101",
+      "valdistrikt_namn": "Västerlövsta Västra - Enåker",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03310102",
+      "valdistrikt_namn": "Västerlövsta Östra - Huddunge",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03310405",
+      "valdistrikt_namn": "Morgongåva",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03310508",
+      "valdistrikt_namn": "Tärnsjö",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03310609",
+      "valdistrikt_namn": "Östervåla",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03310711",
+      "valdistrikt_namn": "Harbo",
+      "kommun_kod": "0331",
+      "kommun_namn": "Heby",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600101",
+      "valdistrikt_namn": "Vallskoga",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600102",
+      "valdistrikt_namn": "Tierps köping södra",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600103",
+      "valdistrikt_namn": "Tierps köping norra",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600104",
+      "valdistrikt_namn": "Svanby",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600302",
+      "valdistrikt_namn": "Örbyhus Sydväst",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600303",
+      "valdistrikt_namn": "Örbyhus Nordost",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600305",
+      "valdistrikt_namn": "Vendel",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600406",
+      "valdistrikt_namn": "Tobo",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600508",
+      "valdistrikt_namn": "Kyrkbyn",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600510",
+      "valdistrikt_namn": "Månkarbo",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600611",
+      "valdistrikt_namn": "Söderfors",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600713",
+      "valdistrikt_namn": "Västland - Karlholm",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600817",
+      "valdistrikt_namn": "Skärplinge",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03600918",
+      "valdistrikt_namn": "Hållnäs",
+      "kommun_kod": "0360",
+      "kommun_namn": "Tierp",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800001",
+      "valdistrikt_namn": "Fjärdingen - Vasaparken",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800002",
+      "valdistrikt_namn": "Fjärdingen - Sankt Johannes",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800003",
+      "valdistrikt_namn": "Fjärdingen - Odinslund",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800004",
+      "valdistrikt_namn": "Luthagen östra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800005",
+      "valdistrikt_namn": "Fjärdingen - Orphei drängars plats",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800006",
+      "valdistrikt_namn": "Centrum-Linnéträdgården-Mikaelsplan",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800008",
+      "valdistrikt_namn": "Centrum - Stora torget",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800009",
+      "valdistrikt_namn": "Centrum södra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800010",
+      "valdistrikt_namn": "Centrum - Samariterhemmet",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800011",
+      "valdistrikt_namn": "Höganäs västra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800012",
+      "valdistrikt_namn": "Centrum - Höganäs - Kvarnen",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800013",
+      "valdistrikt_namn": "Fålhagen - Östra Station",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800014",
+      "valdistrikt_namn": "Kungsängen centrala",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800015",
+      "valdistrikt_namn": "Kungsängen södra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800016",
+      "valdistrikt_namn": "Kungsängen - Hovstallängen",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800017",
+      "valdistrikt_namn": "Kungsängen västra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800018",
+      "valdistrikt_namn": "Kungsängen nordöstra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800042",
+      "valdistrikt_namn": "Svartbäcken nedre",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800043",
+      "valdistrikt_namn": "Svartbäcken - Fyrishov",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800044",
+      "valdistrikt_namn": "Tuna backar - Östra Tuna backar",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800045",
+      "valdistrikt_namn": "Bärby hage - Tunaberg",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800048",
+      "valdistrikt_namn": "Svartbäcken norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800049",
+      "valdistrikt_namn": "Kapellgärdet - Tornet",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800050",
+      "valdistrikt_namn": "Kapellgärdet norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800051",
+      "valdistrikt_namn": "Kapellgärdet - Djäknegatan",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800052",
+      "valdistrikt_namn": "Kapellgärdet - Väktargatan",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800053",
+      "valdistrikt_namn": "Kapellgärdet - Kantorsgatan",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800055",
+      "valdistrikt_namn": "Höganäs östra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800056",
+      "valdistrikt_namn": "Kvarngärdet södra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800057",
+      "valdistrikt_namn": "Kvarngärdet norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800058",
+      "valdistrikt_namn": "Gränby södra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800059",
+      "valdistrikt_namn": "Gränby norra - Brillinge",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800060",
+      "valdistrikt_namn": "Gränby sydvästra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800061",
+      "valdistrikt_namn": "Gränby nordvästra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800063",
+      "valdistrikt_namn": "Löten östra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800064",
+      "valdistrikt_namn": "Löten norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800065",
+      "valdistrikt_namn": "Löten västra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800066",
+      "valdistrikt_namn": "Nyby gård",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800067",
+      "valdistrikt_namn": "Gamla Uppsala - Yrsaparken",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800068",
+      "valdistrikt_namn": "Nyby södra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800069",
+      "valdistrikt_namn": "Nyby norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800070",
+      "valdistrikt_namn": "Gamla Uppsala",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800091",
+      "valdistrikt_namn": "Luthagen norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800092",
+      "valdistrikt_namn": "Luthagen centrala",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800093",
+      "valdistrikt_namn": "Studentstaden - Observatoriet",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800094",
+      "valdistrikt_namn": "Studentstaden - Rackarberget",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800095",
+      "valdistrikt_namn": "Studentstaden - Studentvägen",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800096",
+      "valdistrikt_namn": "Luthagen sydvästra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800097",
+      "valdistrikt_namn": "Luthagen - Tiundaskolan",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800098",
+      "valdistrikt_namn": "Rickomberga",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800100",
+      "valdistrikt_namn": "Luthagen - Seminariet",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800101",
+      "valdistrikt_namn": "Luthagen - Eriksdal",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800102",
+      "valdistrikt_namn": "Luthagen - Prästgårdsgatan",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800103",
+      "valdistrikt_namn": "Husbyborg - Börjetull",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800104",
+      "valdistrikt_namn": "Luthagen-Mimmi Ekholms plats-Hällby",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800105",
+      "valdistrikt_namn": "Stenhagen norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800106",
+      "valdistrikt_namn": "Stenhagen västra - Kvarnbo",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800108",
+      "valdistrikt_namn": "Stenhagen södra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800131",
+      "valdistrikt_namn": "Fålhagen - S:t Göransplan",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800132",
+      "valdistrikt_namn": "Fålhagen - Almtuna",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800133",
+      "valdistrikt_namn": "Fålhagen norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800135",
+      "valdistrikt_namn": "Fålhagen södra - Boländerna",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800138",
+      "valdistrikt_namn": "Sala backe västra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800139",
+      "valdistrikt_namn": "Sala backe - Byggmästaren",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800140",
+      "valdistrikt_namn": "Sala backe södra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800141",
+      "valdistrikt_namn": "Sala backe - Skomakarberget",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800142",
+      "valdistrikt_namn": "Sala backe norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800143",
+      "valdistrikt_namn": "Sala backe - Källparken",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800144",
+      "valdistrikt_namn": "Sala backe - Östra Sala backe",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800145",
+      "valdistrikt_namn": "Sala backe - Byggmästarparken",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800146",
+      "valdistrikt_namn": "Årsta norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800147",
+      "valdistrikt_namn": "Årsta centrala",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800149",
+      "valdistrikt_namn": "Årsta - Körveln",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800150",
+      "valdistrikt_namn": "Årsta östra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800151",
+      "valdistrikt_namn": "Slavsta - Fyrislund",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800181",
+      "valdistrikt_namn": "Ekeby",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800182",
+      "valdistrikt_namn": "Berthåga - Flogsta Flogstavallen",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800183",
+      "valdistrikt_namn": "Flogsta södra - Ekeby södra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800184",
+      "valdistrikt_namn": "Flogsta - Sernanders väg",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800186",
+      "valdistrikt_namn": "Flogsta västra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800187",
+      "valdistrikt_namn": "Kåbo östra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800188",
+      "valdistrikt_namn": "Kåbo västra - Kungsgärdet",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800190",
+      "valdistrikt_namn": "Eriksberg - Sommarro",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800191",
+      "valdistrikt_namn": "Eriksberg - Västertorg",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800192",
+      "valdistrikt_namn": "Eriksberg östra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800193",
+      "valdistrikt_namn": "Eriksberg - Marmorvägen",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800195",
+      "valdistrikt_namn": "Norby östra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800196",
+      "valdistrikt_namn": "Norby västra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800197",
+      "valdistrikt_namn": "Eriksberg - Håga",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800221",
+      "valdistrikt_namn": "Kungsängens gård-Vilan-Bergsbrunna",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800222",
+      "valdistrikt_namn": "Nåntuna",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800225",
+      "valdistrikt_namn": "Sävja nordvästra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800226",
+      "valdistrikt_namn": "Sävja nordöstra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800228",
+      "valdistrikt_namn": "Sävja södra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800240",
+      "valdistrikt_namn": "Rosendal östra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800241",
+      "valdistrikt_namn": "Rosendal västra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800242",
+      "valdistrikt_namn": "Rosendal - Siegbahnsparken",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800250",
+      "valdistrikt_namn": "Ultuna - Ulleråker - Polacksbacken",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800251",
+      "valdistrikt_namn": "Ulleråker södra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800252",
+      "valdistrikt_namn": "Bäcklösa",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800262",
+      "valdistrikt_namn": "Valsätra norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800265",
+      "valdistrikt_namn": "Valsätra - Spinnrocksvägen",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800266",
+      "valdistrikt_namn": "Valsätra sydvästra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800267",
+      "valdistrikt_namn": "Gamla Gottsunda - Vårdsätra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800268",
+      "valdistrikt_namn": "Gottsunda norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800269",
+      "valdistrikt_namn": "Gottsunda - Stenhammarsparken",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800270",
+      "valdistrikt_namn": "Gottsunda Centrum",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800271",
+      "valdistrikt_namn": "Gottsunda mellersta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800272",
+      "valdistrikt_namn": "Gottsunda östra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800274",
+      "valdistrikt_namn": "Sunnersta östra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800275",
+      "valdistrikt_namn": "Sunnersta norra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800276",
+      "valdistrikt_namn": "Sunnersta mellersta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800277",
+      "valdistrikt_namn": "Sunnersta södra",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800301",
+      "valdistrikt_namn": "Västra Björklinge",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800302",
+      "valdistrikt_namn": "Östra Björklinge",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800303",
+      "valdistrikt_namn": "Björklinge glesbygd",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800304",
+      "valdistrikt_namn": "Viksta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800321",
+      "valdistrikt_namn": "Storvreta - Lyckebo",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800322",
+      "valdistrikt_namn": "Gamla Storvreta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800323",
+      "valdistrikt_namn": "Norra Storvreta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800324",
+      "valdistrikt_namn": "Östra Storvreta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800325",
+      "valdistrikt_namn": "Storvretabygden - Fullerö hage",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800326",
+      "valdistrikt_namn": "Vattholma",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800327",
+      "valdistrikt_namn": "Skyttorp - Tensta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800341",
+      "valdistrikt_namn": "Börje",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800342",
+      "valdistrikt_namn": "Lövstalöt",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800343",
+      "valdistrikt_namn": "Jumkil - Åkerby",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800344",
+      "valdistrikt_namn": "Bälinge västra tätort",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800345",
+      "valdistrikt_namn": "Bälinge glesbygd och östra tätort",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800346",
+      "valdistrikt_namn": "Skuttunge",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800347",
+      "valdistrikt_namn": "Åkerlänna",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800360",
+      "valdistrikt_namn": "Lindbacken",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800361",
+      "valdistrikt_namn": "Vaksala - Jälla - Skölsta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800362",
+      "valdistrikt_namn": "Södra Rasbobygden",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800363",
+      "valdistrikt_namn": "Gåvsta",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800364",
+      "valdistrikt_namn": "Rasbokil",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800365",
+      "valdistrikt_namn": "Stavby",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800366",
+      "valdistrikt_namn": "Tuna",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800381",
+      "valdistrikt_namn": "Danmark",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800382",
+      "valdistrikt_namn": "Gunsta tätort",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800383",
+      "valdistrikt_namn": "Funbo - Marielund",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800384",
+      "valdistrikt_namn": "Länna",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800385",
+      "valdistrikt_namn": "Almunge",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800387",
+      "valdistrikt_namn": "Faringe - Bladåker",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800388",
+      "valdistrikt_namn": "Knutby",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800401",
+      "valdistrikt_namn": "Vreta Ytternäs - Bodarna Uppsala Näs",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800402",
+      "valdistrikt_namn": "Dalby - Uppsala Näs - Västeråker",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800403",
+      "valdistrikt_namn": "Balingsta - Ramsta - Hagby",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800404",
+      "valdistrikt_namn": "Vänge tätort",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800405",
+      "valdistrikt_namn": "Vängebygden",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800406",
+      "valdistrikt_namn": "Åland - Skogstibble",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03800407",
+      "valdistrikt_namn": "Järlåsa",
+      "kommun_kod": "0380",
+      "kommun_namn": "Uppsala",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810105",
+      "valdistrikt_namn": "Kryddgården",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810106",
+      "valdistrikt_namn": "Munksundet",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810107",
+      "valdistrikt_namn": "Västerleden S",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810108",
+      "valdistrikt_namn": "S:t Ilian S",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810109",
+      "valdistrikt_namn": "Bergvreten",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810110",
+      "valdistrikt_namn": "Korsängen",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810111",
+      "valdistrikt_namn": "Gånsta",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810112",
+      "valdistrikt_namn": "Fanna",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810113",
+      "valdistrikt_namn": "Åkersberg",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810114",
+      "valdistrikt_namn": "Bredsand",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810120",
+      "valdistrikt_namn": "S:t Ilian N",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810122",
+      "valdistrikt_namn": "Enögla",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810123",
+      "valdistrikt_namn": "Västerleden N",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810124",
+      "valdistrikt_namn": "Romberga",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810127",
+      "valdistrikt_namn": "Sparrsätra",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810225",
+      "valdistrikt_namn": "Svinnegarn",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810526",
+      "valdistrikt_namn": "Hummelsta",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03810901",
+      "valdistrikt_namn": "Lillkyrka",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03811703",
+      "valdistrikt_namn": "Grillby",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03811804",
+      "valdistrikt_namn": "Skolsta",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03812128",
+      "valdistrikt_namn": "Örsundsbro Ö",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03812629",
+      "valdistrikt_namn": "Örsundsbro V",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03813132",
+      "valdistrikt_namn": "Fjärdhundra",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03813331",
+      "valdistrikt_namn": "Torstuna",
+      "kommun_kod": "0381",
+      "kommun_namn": "Enköping",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03820101",
+      "valdistrikt_namn": "Östhammars centrum",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03820118",
+      "valdistrikt_namn": "Kristinelund - Boda",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03820208",
+      "valdistrikt_namn": "Norrskedika - Valö - Forsmark",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03820403",
+      "valdistrikt_namn": "Öregrund norra - Gräsö",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03820404",
+      "valdistrikt_namn": "Öregrund södra - Söderön",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03820405",
+      "valdistrikt_namn": "Ed",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03820606",
+      "valdistrikt_namn": "Hargshamn - Boda",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03820910",
+      "valdistrikt_namn": "Alunda tätort",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03820911",
+      "valdistrikt_namn": "Alunda - Ekeby",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03821113",
+      "valdistrikt_namn": "Gimo Västra",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03821114",
+      "valdistrikt_namn": "Gimo - Hökhuvud - Vattensta",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03821315",
+      "valdistrikt_namn": "Österbybruk - Morkarla",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    },
+    {
+      "valdistrikt_kod": "03821316",
+      "valdistrikt_namn": "Österbybruk - Dannemora - Film",
+      "kommun_kod": "0382",
+      "kommun_namn": "Östhammar",
+      "lan_kod": "03",
+      "lan_namn": "Uppsala län"
+    }
+  ],
+  "meta": {
+    "title": "Valdistrikt i Uppsala län (val 2022) - Gratis nedladdning",
+    "description": "238 valdistrikt i Uppsala län (länskod 03) vid valen 2022, med kod, namn och kommun. Delmängd av sv-valdistrikt-2022. Källa: stefur/swemaps-data. Innehåller 238 poster. Ladda ner i Excel, CSV, PDF format.",
+    "seo_title": "Valdistrikt i Uppsala län (val 2022) | ListBase",
+    "seo_description": "Ladda ner Valdistrikt i Uppsala län (val 2022) — 238 poster. Tillgänglig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Innehåller 238 poster / 6 fält",
+      "Gratis nedladdning i Excel, CSV och PDF format",
+      "Datakälla: open data"
+    ]
+  }
+}
