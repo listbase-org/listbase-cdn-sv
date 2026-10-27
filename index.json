@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:35.173Z",
-  "total_datasets": 487,
-  "total_records": 2264066,
+  "generated": "2026-10-27T02:33:37.570Z",
+  "total_datasets": 488,
+  "total_records": 2264087,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -11098,6 +11098,30 @@
         "xlsx": {
           "name": "sv-total-fertilitet_SV.xlsx",
           "size": 9073
+        }
+      }
+    },
+    {
+      "id": "sv-uppehallstillstand-efter-grund",
+      "name": "Beviljade uppehållstillstånd efter grund (1980–2018)",
+      "category": "society",
+      "record_count": 21,
+      "columns": [
+        "group",
+        "n_2018",
+        "cumulative_1980_2018"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring",
+      "updated": "2026-10",
+      "size": 3961,
+      "files": {
+        "csv": {
+          "name": "sv-uppehallstillstand-efter-grund_SV.csv",
+          "size": 880
+        },
+        "xlsx": {
+          "name": "sv-uppehallstillstand-efter-grund_SV.xlsx",
+          "size": 7470
         }
       }
     },

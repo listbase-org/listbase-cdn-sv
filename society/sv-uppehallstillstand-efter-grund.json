@@ -1,0 +1,146 @@
+{
+  "id": "sv-uppehallstillstand-efter-grund",
+  "name": "Beviljade uppehållstillstånd efter grund (1980–2018)",
+  "title": "Beviljade uppehållstillstånd efter grund (1980–2018)",
+  "description": "Antal beviljade uppehållstillstånd i Sverige efter grupp/grund 2018 och ackumulerat 1980–2018.",
+  "category": "society",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "n_2018",
+      "label": "N 2018",
+      "type": "number"
+    },
+    {
+      "key": "cumulative_1980_2018",
+      "label": "Cumulative 1980 2018",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "group": "Kvotflyktingar",
+      "n_2018": 5219,
+      "cumulative_1980_2018": 64707
+    },
+    {
+      "group": "Flyktingar enl. FN-konvention",
+      "n_2018": 8150,
+      "cumulative_1980_2018": 112673
+    },
+    {
+      "group": "Totalt flyktingar",
+      "n_2018": 13369,
+      "cumulative_1980_2018": 177380
+    },
+    {
+      "group": "Gymnasielagen 2018",
+      "n_2018": 4980,
+      "cumulative_1980_2018": 4980
+    },
+    {
+      "group": "Krigsvägrare 1",
+      "n_2018": "",
+      "cumulative_1980_2018": 3036
+    },
+    {
+      "group": "de facto-flyktingar 1",
+      "n_2018": "",
+      "cumulative_1980_2018": 37726
+    },
+    {
+      "group": "Övriga skyddsbehövande 2",
+      "n_2018": 5017,
+      "cumulative_1980_2018": 179047
+    },
+    {
+      "group": "Humanitära skäl",
+      "n_2018": 529,
+      "cumulative_1980_2018": 181864
+    },
+    {
+      "group": "Verkställighetshinder",
+      "n_2018": 680,
+      "cumulative_1980_2018": 5178
+    },
+    {
+      "group": "Tillfällig lag (barn och barnfamiljer)",
+      "n_2018": "",
+      "cumulative_1980_2018": 17665
+    },
+    {
+      "group": "Totalt flyktingar eller motsvarande",
+      "n_2018": 29794,
+      "cumulative_1980_2018": 671583
+    },
+    {
+      "group": "Tidigare asylrelaterat tidsbegränsat tillstånd",
+      "n_2018": "",
+      "cumulative_1980_2018": 637
+    },
+    {
+      "group": "Tidsbegränsade tillstånd",
+      "n_2018": 467,
+      "cumulative_1980_2018": 3463
+    },
+    {
+      "group": "Anhöriga",
+      "n_2018": 44772,
+      "cumulative_1980_2018": 902743
+    },
+    {
+      "group": "Därav flyktinganhöriga",
+      "n_2018": 16641,
+      "cumulative_1980_2018": 236928
+    },
+    {
+      "group": "Arbetsmarknadsinvandrare",
+      "n_2018": 41065,
+      "cumulative_1980_2018": 372276
+    },
+    {
+      "group": "Gäststudenter",
+      "n_2018": 14102,
+      "cumulative_1980_2018": 195991
+    },
+    {
+      "group": "Adopterade barn",
+      "n_2018": 72,
+      "cumulative_1980_2018": 24736
+    },
+    {
+      "group": "Enl. EES-avtal",
+      "n_2018": 7571,
+      "cumulative_1980_2018": 288398
+    },
+    {
+      "group": "Totalt",
+      "n_2018": 132624,
+      "cumulative_1980_2018": 2395120
+    },
+    {
+      "group": "Totalt enligt Migrationsverket",
+      "n_2018": 132696,
+      "cumulative_1980_2018": 2431780
+    }
+  ],
+  "meta": {
+    "title": "Beviljade uppehållstillstånd efter grund (1980–2018) - Free Download",
+    "description": "Antal beviljade uppehållstillstånd i Sverige efter grupp/grund 2018 och ackumulerat 1980–2018. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Beviljade uppehållstillstånd efter grund (1980–2018) | ListBase",
+    "seo_description": "Download Beviljade uppehållstillstånd efter grund (1980–2018) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring"
+    ]
+  }
+}
