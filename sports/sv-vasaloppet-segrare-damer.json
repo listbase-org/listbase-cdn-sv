@@ -1,0 +1,373 @@
+{
+  "id": "sv-vasaloppet-segrare-damer",
+  "name": "Vasaloppet — segrare damer",
+  "title": "Vasaloppet — segrare damer",
+  "description": "Segrare i Vasaloppets damklass med klubb/nation, segertid och årets kransmas.",
+  "category": "sports",
+  "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_segrare_i_Vasaloppet",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_segrare_i_Vasaloppet",
+  "updated": "2026-10",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "club_nation",
+      "label": "Club Nation",
+      "type": "string"
+    },
+    {
+      "key": "time",
+      "label": "Time",
+      "type": "string"
+    },
+    {
+      "key": "kransmas",
+      "label": "Kransmas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1923,
+      "winner": "Margit Nordin",
+      "club_nation": "",
+      "time": "10:09:42",
+      "kransmas": ""
+    },
+    {
+      "year": 1981,
+      "winner": "Meeri Bodelid",
+      "club_nation": "Högbo GIF",
+      "time": "5.28.08",
+      "kransmas": ""
+    },
+    {
+      "year": 1982,
+      "winner": "Meeri Bodelid",
+      "club_nation": "Högbo GIF",
+      "time": "5.14.54",
+      "kransmas": ""
+    },
+    {
+      "year": 1983,
+      "winner": "Ann-Katrin Karlsson",
+      "club_nation": "IFK Mora",
+      "time": "4.46.07",
+      "kransmas": ""
+    },
+    {
+      "year": 1984,
+      "winner": "Kersti Strand",
+      "club_nation": "Norge",
+      "time": "5.20.55",
+      "kransmas": ""
+    },
+    {
+      "year": 1985,
+      "winner": "Maria Canins-Bonaldi",
+      "club_nation": "Italien",
+      "time": "5.30.56",
+      "kransmas": ""
+    },
+    {
+      "year": 1986,
+      "winner": "Åsa Mattsson",
+      "club_nation": "IFK Mora",
+      "time": "5.06.16",
+      "kransmas": ""
+    },
+    {
+      "year": 1987,
+      "winner": "Åsa Mattsson",
+      "club_nation": "IFK Mora",
+      "time": "5.38.41",
+      "kransmas": ""
+    },
+    {
+      "year": 1988,
+      "winner": "Gunnel Mörtberg",
+      "club_nation": "Högbo AIK",
+      "time": "5.38 25",
+      "kransmas": ""
+    },
+    {
+      "year": 1989,
+      "winner": "Marie Johansson",
+      "club_nation": "Dala-Järna IK",
+      "time": "5.38.12",
+      "kransmas": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Nina Skeime",
+      "club_nation": "Norge",
+      "time": "5.18.49",
+      "kransmas": ""
+    },
+    {
+      "year": 1992,
+      "winner": "Antonina Ordina",
+      "club_nation": "Umedalens IF",
+      "time": "4.39.23",
+      "kransmas": ""
+    },
+    {
+      "year": 1993,
+      "winner": "Antonina Ordina",
+      "club_nation": "SK Tegsnäspojkarna",
+      "time": "4.43.00",
+      "kransmas": ""
+    },
+    {
+      "year": 1994,
+      "winner": "Kerrin Petty",
+      "club_nation": "IFK Mora",
+      "time": "5.03.22",
+      "kransmas": ""
+    },
+    {
+      "year": 1995,
+      "winner": "Astrid Ruud",
+      "club_nation": "Norge",
+      "time": "4.57.02",
+      "kransmas": ""
+    },
+    {
+      "year": 1996,
+      "winner": "Sofia Lind",
+      "club_nation": "Roslags-Länna IF",
+      "time": "4.49.44",
+      "kransmas": ""
+    },
+    {
+      "year": 1997,
+      "winner": "Sofia Lind",
+      "club_nation": "Åsarna IK",
+      "time": "5:06:35",
+      "kransmas": "Jonas Buud"
+    },
+    {
+      "year": 1998,
+      "winner": "Kerrin Petty",
+      "club_nation": "IFK Mora medborgare i USA",
+      "time": "4:17:02",
+      "kransmas": "Torbjörn Schedvin"
+    },
+    {
+      "year": 1999,
+      "winner": "Sofia Lind",
+      "club_nation": "Åsarna IK",
+      "time": "5:04:50",
+      "kransmas": ""
+    },
+    {
+      "year": 2000,
+      "winner": "Svetlana Nagejkina",
+      "club_nation": "Ryssland",
+      "time": "4:52:35",
+      "kransmas": "Thomas Eriksson"
+    },
+    {
+      "year": 2001,
+      "winner": "Ulrica Persson",
+      "club_nation": "SK Bore",
+      "time": "4:31:05",
+      "kransmas": "Niklas Karlsson"
+    },
+    {
+      "year": 2002,
+      "winner": "Svetlana Nagejkina",
+      "club_nation": "Vitryssland",
+      "time": "4:38:47",
+      "kransmas": "Mikael Hedh"
+    },
+    {
+      "year": 2003,
+      "winner": "Ulrica Persson",
+      "club_nation": "SK Bore",
+      "time": "4:32:57",
+      "kransmas": "Andreas Johansson"
+    },
+    {
+      "year": 2004,
+      "winner": "Sofia Lind",
+      "club_nation": "Åsarna IK",
+      "time": "4:20:28",
+      "kransmas": "Niclas Jacobsson"
+    },
+    {
+      "year": 2005,
+      "winner": "Sofia Lind",
+      "club_nation": "Åsarna IK",
+      "time": "4:24:09",
+      "kransmas": "Markus Leijon"
+    },
+    {
+      "year": 2006,
+      "winner": "Christina Paluselli",
+      "club_nation": "Italien",
+      "time": "4:59:24",
+      "kransmas": "Martin Johansson"
+    },
+    {
+      "year": 2007,
+      "winner": "Elin Ek",
+      "club_nation": "IFK Mora",
+      "time": "4:48:29",
+      "kransmas": "Lars Suther"
+    },
+    {
+      "year": 2008,
+      "winner": "Sandra Hansson",
+      "club_nation": "Uddevalla IS",
+      "time": "4:47:16",
+      "kransmas": "Joakim Engström"
+    },
+    {
+      "year": 2009,
+      "winner": "Sandra Hansson",
+      "club_nation": "Uddevalla IS",
+      "time": "4:43:13",
+      "kransmas": "Jonas Nilsson"
+    },
+    {
+      "year": 2010,
+      "winner": "Susanne Nyström",
+      "club_nation": "IFK Mora SK",
+      "time": "4:33:07",
+      "kransmas": "Johan Öhagen"
+    },
+    {
+      "year": 2011,
+      "winner": "Jenny Hansson",
+      "club_nation": "Östersunds SK",
+      "time": "4:25:30",
+      "kransmas": "Anders Solin"
+    },
+    {
+      "year": 2012,
+      "winner": "Vibeke Skofterud",
+      "club_nation": "Norge",
+      "time": "4:08:24",
+      "kransmas": "Erik Smedhs"
+    },
+    {
+      "year": 2013,
+      "winner": "Laila Kveli",
+      "club_nation": "Norge",
+      "time": "4:22:22",
+      "kransmas": "André Gatu"
+    },
+    {
+      "year": 2014,
+      "winner": "Laila Kveli",
+      "club_nation": "Norge",
+      "time": "4:31:57",
+      "kransmas": "Daniel Svensson"
+    },
+    {
+      "year": 2015,
+      "winner": "Justyna Kowalczyk",
+      "club_nation": "Polen",
+      "time": "4:41:02",
+      "kransmas": "Victor Gustafsson"
+    },
+    {
+      "year": 2016,
+      "winner": "Katerina Smutna",
+      "club_nation": "Österrike",
+      "time": "4:17:56",
+      "kransmas": "Johan Wellert"
+    },
+    {
+      "year": 2017,
+      "winner": "Britta Johansson Norgren",
+      "club_nation": "Sollefteå skidor IF",
+      "time": "4:19:43",
+      "kransmas": "Linus Rapp"
+    },
+    {
+      "year": 2018,
+      "winner": "Lina Korsgren",
+      "club_nation": "Sverige",
+      "time": "4:41:50",
+      "kransmas": "Joakim Kullberg"
+    },
+    {
+      "year": 2019,
+      "winner": "Britta Johansson Norgren",
+      "club_nation": "Sverige",
+      "time": "4:54:24",
+      "kransmas": "Victor Sticko"
+    },
+    {
+      "year": 2020,
+      "winner": "Lina Korsgren",
+      "club_nation": "Åre Längdskidklubb",
+      "time": "4:41:02",
+      "kransmas": "Daniel Duhlbo"
+    },
+    {
+      "year": 2021,
+      "winner": "Lina Korsgren",
+      "club_nation": "Åre Längdskidklubb",
+      "time": "3:52:08",
+      "kransmas": "Gustaf Berglund"
+    },
+    {
+      "year": 2022,
+      "winner": "Astrid Øyre Slind",
+      "club_nation": "Norge",
+      "time": "3:50:06",
+      "kransmas": "Edvin Nilsson"
+    },
+    {
+      "year": 2023,
+      "winner": "Emilie Fleten",
+      "club_nation": "Team Ramudden, Norge",
+      "time": "4:04:08",
+      "kransmas": "Albin Gezelius"
+    },
+    {
+      "year": 2024,
+      "winner": "Emilie Fleten",
+      "club_nation": "Team Ramudden, Norge",
+      "time": "4:23:07",
+      "kransmas": "Gustav Johnsson"
+    },
+    {
+      "year": 2025,
+      "winner": "Stina Nilsson",
+      "club_nation": "Team Ragde Charge",
+      "time": "3:54:00",
+      "kransmas": "Arvid Jerkgård"
+    },
+    {
+      "year": 2026,
+      "winner": "Emilie Fleten",
+      "club_nation": "Team Ramudden",
+      "time": "4.24.26",
+      "kransmas": "William Mathisen"
+    }
+  ],
+  "meta": {
+    "title": "Vasaloppet — segrare damer - Free Download",
+    "description": "Segrare i Vasaloppets damklass med klubb/nation, segertid och årets kransmas. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vasaloppet — segrare damer | ListBase",
+    "seo_description": "Download Vasaloppet — segrare damer — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_segrare_i_Vasaloppet"
+    ]
+  }
+}

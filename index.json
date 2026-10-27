@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:42.485Z",
-  "total_datasets": 490,
-  "total_records": 2264148,
+  "generated": "2026-10-27T02:33:45.054Z",
+  "total_datasets": 491,
+  "total_records": 2264194,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -11371,6 +11371,32 @@
         "xlsx": {
           "name": "sv-tv-kanaler-sport_SV.xlsx",
           "size": 10841
+        }
+      }
+    },
+    {
+      "id": "sv-vasaloppet-segrare-damer",
+      "name": "Vasaloppet — segrare damer",
+      "category": "sports",
+      "record_count": 46,
+      "columns": [
+        "year",
+        "winner",
+        "club_nation",
+        "time",
+        "kransmas"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_segrare_i_Vasaloppet",
+      "updated": "2026-10",
+      "size": 8812,
+      "files": {
+        "csv": {
+          "name": "sv-vasaloppet-segrare-damer_SV.csv",
+          "size": 2784
+        },
+        "xlsx": {
+          "name": "sv-vasaloppet-segrare-damer_SV.xlsx",
+          "size": 8971
         }
       }
     },
