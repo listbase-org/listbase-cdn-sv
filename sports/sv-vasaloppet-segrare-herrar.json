@@ -1,0 +1,786 @@
+{
+  "id": "sv-vasaloppet-segrare-herrar",
+  "name": "Vasaloppet — segrare herrar",
+  "title": "Vasaloppet — segrare herrar",
+  "description": "Alla segrare i Vasaloppet (herrar) sedan 1922 med klubb/nation, segertid och årets kranskulla.",
+  "category": "sports",
+  "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_segrare_i_Vasaloppet",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_segrare_i_Vasaloppet",
+  "updated": "2026-10",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "club_nation",
+      "label": "Club Nation",
+      "type": "string"
+    },
+    {
+      "key": "time",
+      "label": "Time",
+      "type": "string"
+    },
+    {
+      "key": "kranskulla",
+      "label": "Kranskulla",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1922,
+      "winner": "Ernst Alm",
+      "club_nation": "IFK Norsjö , Sverige",
+      "time": "7:32:49",
+      "kranskulla": "Therése Eliasson"
+    },
+    {
+      "year": 1923,
+      "winner": "Oskar Lindberg",
+      "club_nation": "IFK Norsjö , Sverige",
+      "time": "6:32:41",
+      "kranskulla": "Hilma Ström"
+    },
+    {
+      "year": 1924,
+      "winner": "John Lindgren",
+      "club_nation": "IFK Umeå , Sverige",
+      "time": "6:53:26",
+      "kranskulla": "Maja Lundgren"
+    },
+    {
+      "year": 1925,
+      "winner": "Sven Utterström",
+      "club_nation": "Bodens BK , Sverige",
+      "time": "6:03:55",
+      "kranskulla": "Elsa Cederlund"
+    },
+    {
+      "year": 1926,
+      "winner": "Per-Erik Hedlund",
+      "club_nation": "Malungs IF , Sverige",
+      "time": "5:36:07",
+      "kranskulla": "Aina Pers"
+    },
+    {
+      "year": 1927,
+      "winner": "Konrad Pettersson",
+      "club_nation": "Luleå SK , Sverige",
+      "time": "6:19:32",
+      "kranskulla": "Lea Ström"
+    },
+    {
+      "year": 1928,
+      "winner": "Per-Erik Hedlund",
+      "club_nation": "Särna SK , Sverige",
+      "time": "5:33:23",
+      "kranskulla": "Stina Eriksson"
+    },
+    {
+      "year": 1929,
+      "winner": "Johan Abram Persson",
+      "club_nation": "Arjeplogs SK , Sverige",
+      "time": "6:38:22",
+      "kranskulla": "Elin Henriksson"
+    },
+    {
+      "year": 1930,
+      "winner": "Verner Lundström",
+      "club_nation": "Arvidsjaurs IF , Sverige",
+      "time": "6:56:30",
+      "kranskulla": "Ethel Eriksson"
+    },
+    {
+      "year": 1931,
+      "winner": "Anders Ström",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "6:37:47",
+      "kranskulla": "Anna-Britta Mattsson"
+    },
+    {
+      "year": 1932,
+      "winner": "Inställt",
+      "club_nation": "",
+      "time": "",
+      "kranskulla": ""
+    },
+    {
+      "year": 1933,
+      "winner": "Arthur Häggblad",
+      "club_nation": "IFK Umeå , Sverige",
+      "time": "5:57:09",
+      "kranskulla": "Margit Nilsson"
+    },
+    {
+      "year": 1934,
+      "winner": "Inställt",
+      "club_nation": "",
+      "time": "",
+      "kranskulla": ""
+    },
+    {
+      "year": 1935,
+      "winner": "Arthur Häggblad",
+      "club_nation": "IFK Umeå , Sverige",
+      "time": "6:08:55",
+      "kranskulla": "Marianne Edling"
+    },
+    {
+      "year": 1936,
+      "winner": "Sven Hansson",
+      "club_nation": "Lima IF , Sverige",
+      "time": "6:31:55",
+      "kranskulla": "Inga-Greta Landeck"
+    },
+    {
+      "year": 1937,
+      "winner": "Arthur Häggblad",
+      "club_nation": "IFK Umeå , Sverige",
+      "time": "6:05:56",
+      "kranskulla": "Gerda Berg"
+    },
+    {
+      "year": 1938,
+      "winner": "Elias Nilsson",
+      "club_nation": "Östersunds SK , Sverige",
+      "time": "5:48:28",
+      "kranskulla": "Majt Sundin"
+    },
+    {
+      "year": 1939,
+      "winner": "Alfred Lif",
+      "club_nation": "Orsa IF , Sverige",
+      "time": "5:35:59",
+      "kranskulla": "Anna-Greta Pettersson"
+    },
+    {
+      "year": 1940,
+      "winner": "Arthur Häggblad",
+      "club_nation": "IFK Umeå , Sverige",
+      "time": "6:23:57",
+      "kranskulla": "Kerstin Cassel"
+    },
+    {
+      "year": 1941,
+      "winner": "Mauritz Brännström",
+      "club_nation": "IFK Norsjö , Sverige",
+      "time": "6:51:12",
+      "kranskulla": "Ingrid Asplund"
+    },
+    {
+      "year": 1942,
+      "winner": "Olle Wiklund",
+      "club_nation": "IFK Bergvik , Sverige",
+      "time": "5:31:50",
+      "kranskulla": "Britt Herdin"
+    },
+    {
+      "year": 1943,
+      "winner": "Nils ”Mora-Nisse” Karlsson",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "5:47:10",
+      "kranskulla": "Elsa Karlsson (syster till segraren)"
+    },
+    {
+      "year": 1944,
+      "winner": "Gösta Andersson",
+      "club_nation": "IFK Umeå , Sverige",
+      "time": "5:18:43",
+      "kranskulla": "Margareta Julin"
+    },
+    {
+      "year": 1945,
+      "winner": "Nils ”Mora-Nisse” Karlsson",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "6:27:59",
+      "kranskulla": "Kerstin Sars"
+    },
+    {
+      "year": 1946,
+      "winner": "Nils ”Mora-Nisse” Karlsson",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "6:08:42",
+      "kranskulla": "Elsa Sars"
+    },
+    {
+      "year": 1947,
+      "winner": "Nils ”Mora-Nisse” Karlsson",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "5:59:35",
+      "kranskulla": "Nina Lindén"
+    },
+    {
+      "year": 1948,
+      "winner": "Nils ”Mora-Nisse” Karlsson",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "5:35:13",
+      "kranskulla": "Ann-Mari Andersson"
+    },
+    {
+      "year": 1949,
+      "winner": "Nils ”Mora-Nisse” Karlsson",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "5:44:09",
+      "kranskulla": "Kerstin Norlin"
+    },
+    {
+      "year": 1950,
+      "winner": "Nils ”Mora-Nisse” Karlsson",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "6:08:25",
+      "kranskulla": "Karin Bergström"
+    },
+    {
+      "year": 1951,
+      "winner": "Nils ”Mora-Nisse” Karlsson",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "5:27:20",
+      "kranskulla": "Inga Nyström"
+    },
+    {
+      "year": 1952,
+      "winner": "Sigfrid Mattsson",
+      "club_nation": "Skarpnäcks IF , Sverige",
+      "time": "5:09:45",
+      "kranskulla": "Åsa Mattsson-Djos"
+    },
+    {
+      "year": 1953,
+      "winner": "Nils ”Mora-Nisse” Karlsson",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "5:01:55",
+      "kranskulla": "Anna-Greta Beus"
+    },
+    {
+      "year": 1954,
+      "winner": "Pekka Kuvaja",
+      "club_nation": "Finland",
+      "time": "6:22:51",
+      "kranskulla": "Birgitta Heimer"
+    },
+    {
+      "year": 1955,
+      "winner": "Sixten Jernberg",
+      "club_nation": "Lima IF , Sverige",
+      "time": "5:27:28",
+      "kranskulla": "Kerstin Ingemansson"
+    },
+    {
+      "year": 1956,
+      "winner": "Sigvard Jonsson",
+      "club_nation": "Rossöns IF , Sverige",
+      "time": "5:23:36",
+      "kranskulla": "Gun Larsson"
+    },
+    {
+      "year": 1957,
+      "winner": "Gunnar Larsson",
+      "club_nation": "Oxbergs IF , Sverige",
+      "time": "6:23:40",
+      "kranskulla": "Barbro Persson"
+    },
+    {
+      "year": 1958,
+      "winner": "Gunnar Larsson",
+      "club_nation": "Oxbergs IF , Sverige",
+      "time": "5:31:50",
+      "kranskulla": "Anna-Greta Mattsson"
+    },
+    {
+      "year": 1959,
+      "winner": "Sune Larsson",
+      "club_nation": "Oxbergs IF , Sverige",
+      "time": "5:13:28",
+      "kranskulla": "Margareta Åhs"
+    },
+    {
+      "year": 1960,
+      "winner": "Sixten Jernberg",
+      "club_nation": "Lima IF , Sverige",
+      "time": "5:13:26",
+      "kranskulla": "Maivor Olsson"
+    },
+    {
+      "year": 1961,
+      "winner": "David Johansson",
+      "club_nation": "Delsbo IF , Sverige",
+      "time": "4:45:10",
+      "kranskulla": "Marianne Eriksson"
+    },
+    {
+      "year": 1962,
+      "winner": "Janne Stefansson",
+      "club_nation": "Sälens IF , Sverige",
+      "time": "5:07:46",
+      "kranskulla": "Ann-Mari Hansson"
+    },
+    {
+      "year": 1963,
+      "winner": "Janne Stefansson",
+      "club_nation": "Sälens IF , Sverige",
+      "time": "4:56:25",
+      "kranskulla": "Anita Håkansson"
+    },
+    {
+      "year": 1964,
+      "winner": "Janne Stefansson",
+      "club_nation": "Sälens IF , Sverige",
+      "time": "5:32:07",
+      "kranskulla": "Anita Rosendahl"
+    },
+    {
+      "year": 1965,
+      "winner": "Janne Stefansson",
+      "club_nation": "Sälens IF , Sverige",
+      "time": "4:35:03",
+      "kranskulla": "Gudrun Nilsson"
+    },
+    {
+      "year": 1966,
+      "winner": "Janne Stefansson",
+      "club_nation": "Sälens IF , Sverige",
+      "time": "5:52:38",
+      "kranskulla": "Eva Runesson"
+    },
+    {
+      "year": 1967,
+      "winner": "Assar Rönnlund",
+      "club_nation": "IFK Umeå , Sverige",
+      "time": "5:20:22",
+      "kranskulla": "Christina Fernström"
+    },
+    {
+      "year": 1968,
+      "winner": "Janne Stefansson",
+      "club_nation": "Sälens IF , Sverige",
+      "time": "4:39:49",
+      "kranskulla": "Karin Abrahamsson"
+    },
+    {
+      "year": 1969,
+      "winner": "Janne Stefansson",
+      "club_nation": "Sälens IF , Sverige",
+      "time": "4:50:07",
+      "kranskulla": "Christina Spansk"
+    },
+    {
+      "year": 1970,
+      "winner": "Lars-Arne Bölling",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "5:08:38",
+      "kranskulla": "Karin Karlsson"
+    },
+    {
+      "year": 1971,
+      "winner": "Ole Ellefsæter",
+      "club_nation": "Nybygda IL , Norge",
+      "time": "5:12:56",
+      "kranskulla": "Ingegärd Backlund"
+    },
+    {
+      "year": 1972,
+      "winner": "Lars-Arne Bölling",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "5:35:19",
+      "kranskulla": "Marianne Karlsson"
+    },
+    {
+      "year": 1973,
+      "winner": "Pauli Siitonen",
+      "club_nation": "Helsingin Poliisi-Voimailijat , Finland",
+      "time": "4:42:11",
+      "kranskulla": "Gunilla Lannerbro"
+    },
+    {
+      "year": 1974,
+      "winner": "Matti Kuosku",
+      "club_nation": "Högbo GIF , Sverige",
+      "time": "5:06:23",
+      "kranskulla": "Anna Mattsson"
+    },
+    {
+      "year": 1975,
+      "winner": "Gert-Dietmar Klause",
+      "club_nation": "Dynamo Klingenthal , Östtyskland",
+      "time": "4:20:29",
+      "kranskulla": "Lena Banck"
+    },
+    {
+      "year": 1976,
+      "winner": "Matti Kuosku",
+      "club_nation": "Högbo GIF, Sverige",
+      "time": "4:09:07",
+      "kranskulla": "Åsa Mattsson"
+    },
+    {
+      "year": 1977,
+      "winner": "Ivan Garanin",
+      "club_nation": "DSO Jenbek Rudnyj , Sovjetunionen",
+      "time": "4:30:34",
+      "kranskulla": "Christina Andersson"
+    },
+    {
+      "year": 1978,
+      "winner": "Jean-Paul Pierrat",
+      "club_nation": "Frankrike",
+      "time": "5:20:12",
+      "kranskulla": "Gunilla Lund"
+    },
+    {
+      "year": 1979,
+      "winner": "Ola Hassis",
+      "club_nation": "Orsa IF , Sverige",
+      "time": "4:05:58",
+      "kranskulla": "Britta Samuelsson"
+    },
+    {
+      "year": 1980,
+      "winner": "Walter Mayer",
+      "club_nation": "Österrike",
+      "time": "4:08:02",
+      "kranskulla": "Inga-Britt Ax"
+    },
+    {
+      "year": 1981,
+      "winner": "Sven-Åke Lundbäck",
+      "club_nation": "IFK Råneå , Sverige",
+      "time": "4:29:32",
+      "kranskulla": "Åsa Norell"
+    },
+    {
+      "year": 1982,
+      "winner": "Lasse Frykberg",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "4:28:50",
+      "kranskulla": "Anna-Karin Winberg"
+    },
+    {
+      "year": 1983,
+      "winner": "Konrad Hallenbarter",
+      "club_nation": "Schweiz",
+      "time": "3:58:08",
+      "kranskulla": "Mait Eriksson"
+    },
+    {
+      "year": 1984,
+      "winner": "Hans Persson",
+      "club_nation": "Åsarna IK , Sverige",
+      "time": "4:14:14",
+      "kranskulla": "Marie Andersson"
+    },
+    {
+      "year": 1985,
+      "winner": "Bengt Hassis",
+      "club_nation": "Orsa IF , Sverige",
+      "time": "4:45:43",
+      "kranskulla": "Eva Hermansson"
+    },
+    {
+      "year": 1986,
+      "winner": "Bengt Hassis",
+      "club_nation": "Orsa IF , Sverige",
+      "time": "3:48:55",
+      "kranskulla": "Camilla Karlberg"
+    },
+    {
+      "year": 1987,
+      "winner": "Anders Larsson",
+      "club_nation": "Bondsjöhöjdens IK , Sverige",
+      "time": "4:20:20",
+      "kranskulla": "Sara Kans"
+    },
+    {
+      "year": 1988,
+      "winner": "Anders Blomquist Örjan Blomquist",
+      "club_nation": "IFK Lidingö , Sverige IFK Lidingö , Sverige",
+      "time": "4:47:04 4:47:04",
+      "kranskulla": "Karin Värnlund"
+    },
+    {
+      "year": 1989,
+      "winner": "Jan Ottosson",
+      "club_nation": "Åsarna IK , Sverige",
+      "time": "5:09:33",
+      "kranskulla": "Eva Lönn"
+    },
+    {
+      "year": 1990,
+      "winner": "Inställt på grund av snöbrist",
+      "club_nation": "",
+      "time": "",
+      "kranskulla": ""
+    },
+    {
+      "year": 1991,
+      "winner": "Jan Ottosson",
+      "club_nation": "Åsarna IK , Sverige",
+      "time": "5:07:11",
+      "kranskulla": "Christel Asp"
+    },
+    {
+      "year": 1992,
+      "winner": "Jan Ottosson",
+      "club_nation": "Åsarna IK , Sverige",
+      "time": "3:57:04",
+      "kranskulla": "Maria Gustavsson"
+    },
+    {
+      "year": 1993,
+      "winner": "Håkan Westin",
+      "club_nation": "Graningealliansen , Sverige",
+      "time": "4:02:10",
+      "kranskulla": "Helena Gezelius"
+    },
+    {
+      "year": 1994,
+      "winner": "Jan Ottosson",
+      "club_nation": "Åsarna IK , Sverige",
+      "time": "4:06:19",
+      "kranskulla": "Isabell Andersson"
+    },
+    {
+      "year": 1995,
+      "winner": "Sven-Erik Danielsson",
+      "club_nation": "Dala-Järna IK , Sverige",
+      "time": "4:11:09",
+      "kranskulla": "Malin Brandt"
+    },
+    {
+      "year": 1996,
+      "winner": "Håkan Westin",
+      "club_nation": "Graningealliansen , Sverige",
+      "time": "4:01:15",
+      "kranskulla": "Katrin Svensson"
+    },
+    {
+      "year": 1997,
+      "winner": "Michail Botvinov",
+      "club_nation": "SC Obertauern , Österrike",
+      "time": "4:11:41",
+      "kranskulla": "Marika Engström"
+    },
+    {
+      "year": 1998,
+      "winner": "Peter Göransson",
+      "club_nation": "Åsarna IK , Sverige",
+      "time": "3:38:57",
+      "kranskulla": "Ida Holmberg"
+    },
+    {
+      "year": 1999,
+      "winner": "Staffan Larsson",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "4:31:37",
+      "kranskulla": "Maria Wik"
+    },
+    {
+      "year": 2000,
+      "winner": "Raul Olle",
+      "club_nation": "Võru Suusaklub , Estland",
+      "time": "4:14:38",
+      "kranskulla": "Emma Stefansson"
+    },
+    {
+      "year": 2001,
+      "winner": "Henrik Eriksson",
+      "club_nation": "IFK Mora , Sverige",
+      "time": "4:01:22",
+      "kranskulla": "Catharina Asph"
+    },
+    {
+      "year": 2002,
+      "winner": "Daniel Tynell",
+      "club_nation": "Falun-Borlänge SK , Sverige",
+      "time": "3:58:52",
+      "kranskulla": "Maria Bergqvist"
+    },
+    {
+      "year": 2003,
+      "winner": "Oskar Svärd",
+      "club_nation": "Sollefteå SK , Sverige",
+      "time": "3:58:23",
+      "kranskulla": "Åsa Östberg"
+    },
+    {
+      "year": 2004,
+      "winner": "Anders Aukland",
+      "club_nation": "Oseberg Skilag , Norge",
+      "time": "3:48:42",
+      "kranskulla": "Lena Hermansson"
+    },
+    {
+      "year": 2005,
+      "winner": "Oskar Svärd",
+      "club_nation": "Ulricehamns IF , Sverige",
+      "time": "3:51:47",
+      "kranskulla": "Eva Lif"
+    },
+    {
+      "year": 2006,
+      "winner": "Daniel Tynell",
+      "club_nation": "Grycksbo IF , Sverige",
+      "time": "4:34:09",
+      "kranskulla": "Julia Limby"
+    },
+    {
+      "year": 2007,
+      "winner": "Oskar Svärd",
+      "club_nation": "Ulricehamns IF , Sverige",
+      "time": "4:43:40",
+      "kranskulla": "Eva Svensson"
+    },
+    {
+      "year": 2008,
+      "winner": "Jørgen Aukland",
+      "club_nation": "Oseberg Skilag / Team Santander , Norge",
+      "time": "4:13:45",
+      "kranskulla": "Caroline Westling"
+    },
+    {
+      "year": 2009,
+      "winner": "Daniel Tynell",
+      "club_nation": "Grycksbo IF, Sverige",
+      "time": "4:10:55",
+      "kranskulla": "Sandra Brander"
+    },
+    {
+      "year": 2010,
+      "winner": "Jörgen Brink",
+      "club_nation": "Hudiksvalls IF , Sverige",
+      "time": "4:02:59",
+      "kranskulla": "Helene Söderlund"
+    },
+    {
+      "year": 2011,
+      "winner": "Jörgen Brink",
+      "club_nation": "Hudiksvalls IF, Sverige",
+      "time": "3:51:51",
+      "kranskulla": "Frida Dahl"
+    },
+    {
+      "year": 2012,
+      "winner": "Jörgen Brink",
+      "club_nation": "Hudiksvalls IF, Sverige",
+      "time": "3:38:41",
+      "kranskulla": "Johanna Axelsson"
+    },
+    {
+      "year": 2013,
+      "winner": "Jørgen Aukland",
+      "club_nation": "Oseberg Skilag / Team Santander , Norge",
+      "time": "3:50:48",
+      "kranskulla": "Isabelle Jansson"
+    },
+    {
+      "year": 2014,
+      "winner": "John Kristian Dahl",
+      "club_nation": "Strindheim IL , Norge",
+      "time": "4:14:33",
+      "kranskulla": "Lisa Englund"
+    },
+    {
+      "year": 2015,
+      "winner": "Petter Eliassen",
+      "club_nation": "Tverrelvdalen IL , Norge",
+      "time": "4:01:48",
+      "kranskulla": "Viktoria Stärner"
+    },
+    {
+      "year": 2016,
+      "winner": "John Kristian Dahl",
+      "club_nation": "Strindheim IL, Norge",
+      "time": "4:08:00",
+      "kranskulla": "Hanna Eriksson"
+    },
+    {
+      "year": 2017,
+      "winner": "John Kristian Dahl",
+      "club_nation": "Strindheim IL, Norge",
+      "time": "3:57:18",
+      "kranskulla": "Lydia Sundin"
+    },
+    {
+      "year": 2018,
+      "winner": "Andreas Nygaard",
+      "club_nation": "Burfjord IL, Norge",
+      "time": "4:24:36",
+      "kranskulla": "Sara Wadman"
+    },
+    {
+      "year": 2019,
+      "winner": "Tore Bjørseth Berdal",
+      "club_nation": "Byåsen IL , Norge",
+      "time": "4:39:15",
+      "kranskulla": "Emma Höglund"
+    },
+    {
+      "year": 2020,
+      "winner": "Petter Eliassen",
+      "club_nation": "Tverrelvdalen IL, Norge",
+      "time": "4:25:14",
+      "kranskulla": "Fanny Axelsson"
+    },
+    {
+      "year": 2021,
+      "winner": "Tord Asle Gjerdalen",
+      "club_nation": "Fossum IF, Norge",
+      "time": "3:28:18",
+      "kranskulla": "Emelie Brudin"
+    },
+    {
+      "year": 2022,
+      "winner": "Andreas Nygaard",
+      "club_nation": "Burfjord IL, Norge",
+      "time": "3:32:18",
+      "kranskulla": "Wilma Björkman"
+    },
+    {
+      "year": 2023,
+      "winner": "Emil Persson",
+      "club_nation": "Lager 157 Ski Team, Sverige",
+      "time": "3:37:43",
+      "kranskulla": "Alice Larsson"
+    },
+    {
+      "year": 2024,
+      "winner": "Torleif Syrstad",
+      "club_nation": "Lager 157 Ski Team, Sverige",
+      "time": "3:52:43",
+      "kranskulla": "Elsa Hermansson"
+    },
+    {
+      "year": 2025,
+      "winner": "Alvar Myhlback",
+      "club_nation": "Lager 157 Ski Team, Sverige",
+      "time": "3:28:45",
+      "kranskulla": "Maja Heikki"
+    },
+    {
+      "year": 2026,
+      "winner": "Oskar Kardin",
+      "club_nation": "Lager 157 Ski Team, Sverige",
+      "time": "4:14:45",
+      "kranskulla": "Maja Stefansson"
+    }
+  ],
+  "meta": {
+    "title": "Vasaloppet — segrare herrar - Free Download",
+    "description": "Alla segrare i Vasaloppet (herrar) sedan 1922 med klubb/nation, segertid och årets kranskulla. Contains 105 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vasaloppet — segrare herrar | ListBase",
+    "seo_description": "Download Vasaloppet — segrare herrar — 105 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 105 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_segrare_i_Vasaloppet"
+    ]
+  }
+}

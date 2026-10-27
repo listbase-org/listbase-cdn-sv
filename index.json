@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:45.054Z",
-  "total_datasets": 491,
-  "total_records": 2264194,
+  "generated": "2026-10-27T02:33:47.495Z",
+  "total_datasets": 492,
+  "total_records": 2264299,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -11397,6 +11397,32 @@
         "xlsx": {
           "name": "sv-vasaloppet-segrare-damer_SV.xlsx",
           "size": 8971
+        }
+      }
+    },
+    {
+      "id": "sv-vasaloppet-segrare-herrar",
+      "name": "Vasaloppet — segrare herrar",
+      "category": "sports",
+      "record_count": 105,
+      "columns": [
+        "year",
+        "winner",
+        "club_nation",
+        "time",
+        "kranskulla"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_segrare_i_Vasaloppet",
+      "updated": "2026-10",
+      "size": 20150,
+      "files": {
+        "csv": {
+          "name": "sv-vasaloppet-segrare-herrar_SV.csv",
+          "size": 8084
+        },
+        "xlsx": {
+          "name": "sv-vasaloppet-segrare-herrar_SV.xlsx",
+          "size": 11947
         }
       }
     },
