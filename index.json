@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:27.230Z",
-  "total_datasets": 459,
-  "total_records": 2262397,
+  "generated": "2026-10-27T02:32:29.542Z",
+  "total_datasets": 460,
+  "total_records": 2262410,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -360,6 +360,34 @@
         "xlsx": {
           "name": "sv-banker-nyckeltal_SV.xlsx",
           "size": 8379
+        }
+      }
+    },
+    {
+      "id": "sv-energi-nyckeltal-per-ar",
+      "name": "Energi i Sverige — nyckeltal per år",
+      "category": "economy",
+      "record_count": 13,
+      "columns": [
+        "year",
+        "population_millions",
+        "primary_energy_supply_twh",
+        "energy_production_twh",
+        "net_energy_import_twh",
+        "electricity_consumption_twh",
+        "co2_emissions_mt"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Energi_i_Sverige",
+      "updated": "2026-10",
+      "size": 5282,
+      "files": {
+        "csv": {
+          "name": "sv-energi-nyckeltal-per-ar_SV.csv",
+          "size": 716
+        },
+        "xlsx": {
+          "name": "sv-energi-nyckeltal-per-ar_SV.xlsx",
+          "size": 7360
         }
       }
     },

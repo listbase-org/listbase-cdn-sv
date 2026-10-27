@@ -1,0 +1,178 @@
+{
+  "id": "sv-energi-nyckeltal-per-ar",
+  "name": "Energi i Sverige — nyckeltal per år",
+  "title": "Energi i Sverige — nyckeltal per år",
+  "description": "Befolkning, primär energiförsörjning, energiproduktion, nettoimport, elförbrukning och CO2-utsläpp i Sverige per år.",
+  "category": "economy",
+  "source": "https://sv.wikipedia.org/wiki/Energi_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Energi_i_Sverige",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "population_millions",
+      "label": "Population Millions",
+      "type": "number"
+    },
+    {
+      "key": "primary_energy_supply_twh",
+      "label": "Primary Energy Supply Twh",
+      "type": "number"
+    },
+    {
+      "key": "energy_production_twh",
+      "label": "Energy Production Twh",
+      "type": "number"
+    },
+    {
+      "key": "net_energy_import_twh",
+      "label": "Net Energy Import Twh",
+      "type": "number"
+    },
+    {
+      "key": "electricity_consumption_twh",
+      "label": "Electricity Consumption Twh",
+      "type": "number"
+    },
+    {
+      "key": "co2_emissions_mt",
+      "label": "Co2 Emissions Mt",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2004,
+      "population_millions": 8.99,
+      "primary_energy_supply_twh": 627,
+      "energy_production_twh": 408,
+      "net_energy_import_twh": 236,
+      "electricity_consumption_twh": 138.7,
+      "co2_emissions_mt": 52.2
+    },
+    {
+      "year": 2007,
+      "population_millions": 9.15,
+      "primary_energy_supply_twh": 586,
+      "energy_production_twh": 391,
+      "net_energy_import_twh": 221,
+      "electricity_consumption_twh": 139.4,
+      "co2_emissions_mt": 46.2
+    },
+    {
+      "year": 2008,
+      "population_millions": 9.26,
+      "primary_energy_supply_twh": 577,
+      "energy_production_twh": 387,
+      "net_energy_import_twh": 229,
+      "electricity_consumption_twh": 137.1,
+      "co2_emissions_mt": 45.9
+    },
+    {
+      "year": 2009,
+      "population_millions": 9.3,
+      "primary_energy_supply_twh": 528,
+      "energy_production_twh": 353,
+      "net_energy_import_twh": 207,
+      "electricity_consumption_twh": 131.5,
+      "co2_emissions_mt": 41.7
+    },
+    {
+      "year": 2010,
+      "population_millions": 9.38,
+      "primary_energy_supply_twh": 596,
+      "energy_production_twh": 390,
+      "net_energy_import_twh": 229,
+      "electricity_consumption_twh": 140.1,
+      "co2_emissions_mt": 47.6
+    },
+    {
+      "year": 2012,
+      "population_millions": 9.45,
+      "primary_energy_supply_twh": 570,
+      "energy_production_twh": 378,
+      "net_energy_import_twh": 219,
+      "electricity_consumption_twh": 132.6,
+      "co2_emissions_mt": 44.9
+    },
+    {
+      "year": "",
+      "population_millions": 9.52,
+      "primary_energy_supply_twh": 583,
+      "energy_production_twh": 421,
+      "net_energy_import_twh": 179,
+      "electricity_consumption_twh": 136,
+      "co2_emissions_mt": 40.4
+    },
+    {
+      "year": 2013,
+      "population_millions": 9.6,
+      "primary_energy_supply_twh": 573,
+      "energy_production_twh": 408,
+      "net_energy_import_twh": 193,
+      "electricity_consumption_twh": 133.2,
+      "co2_emissions_mt": 37.5
+    },
+    {
+      "year": 2015,
+      "population_millions": 9.8,
+      "primary_energy_supply_twh": 529,
+      "energy_production_twh": 395,
+      "net_energy_import_twh": 170,
+      "electricity_consumption_twh": 133.2,
+      "co2_emissions_mt": 37.1
+    },
+    {
+      "year": 2017,
+      "population_millions": 10.1,
+      "primary_energy_supply_twh": 572,
+      "energy_production_twh": 419,
+      "net_energy_import_twh": 165,
+      "electricity_consumption_twh": 136.7,
+      "co2_emissions_mt": 37.6
+    },
+    {
+      "year": 2019,
+      "population_millions": 10.3,
+      "primary_energy_supply_twh": "",
+      "energy_production_twh": "",
+      "net_energy_import_twh": "",
+      "electricity_consumption_twh": 138.3,
+      "co2_emissions_mt": ""
+    },
+    {
+      "year": "",
+      "population_millions": 12.3,
+      "primary_energy_supply_twh": -8.8,
+      "energy_production_twh": 2.7,
+      "net_energy_import_twh": -30.1,
+      "electricity_consumption_twh": -1.4,
+      "co2_emissions_mt": -28
+    },
+    {
+      "year": "",
+      "population_millions": "",
+      "primary_energy_supply_twh": "",
+      "energy_production_twh": "",
+      "net_energy_import_twh": "",
+      "electricity_consumption_twh": "",
+      "co2_emissions_mt": ""
+    }
+  ],
+  "meta": {
+    "title": "Energi i Sverige — nyckeltal per år - Free Download",
+    "description": "Befolkning, primär energiförsörjning, energiproduktion, nettoimport, elförbrukning och CO2-utsläpp i Sverige per år. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Energi i Sverige — nyckeltal per år | ListBase",
+    "seo_description": "Download Energi i Sverige — nyckeltal per år — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Energi_i_Sverige"
+    ]
+  }
+}
