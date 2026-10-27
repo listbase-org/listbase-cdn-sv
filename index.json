@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:32.620Z",
-  "total_datasets": 486,
-  "total_records": 2263890,
+  "generated": "2026-10-27T02:33:35.173Z",
+  "total_datasets": 487,
+  "total_records": 2264066,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -11075,6 +11075,29 @@
         "xlsx": {
           "name": "sv-sociala-inrattningar_SV.xlsx",
           "size": 45798
+        }
+      }
+    },
+    {
+      "id": "sv-total-fertilitet",
+      "name": "Total fertilitet i Sverige sedan 1630",
+      "category": "society",
+      "record_count": 176,
+      "columns": [
+        "year",
+        "total_fertility_rate"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_demografi",
+      "updated": "2026-10",
+      "size": 13258,
+      "files": {
+        "csv": {
+          "name": "sv-total-fertilitet_SV.csv",
+          "size": 2472
+        },
+        "xlsx": {
+          "name": "sv-total-fertilitet_SV.xlsx",
+          "size": 9073
         }
       }
     },
