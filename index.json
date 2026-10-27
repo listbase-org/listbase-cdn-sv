@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:05.768Z",
-  "total_datasets": 475,
-  "total_records": 2263262,
+  "generated": "2026-10-27T02:33:07.986Z",
+  "total_datasets": 476,
+  "total_records": 2263268,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "music",
@@ -4209,6 +4209,29 @@
         "xlsx": {
           "name": "sv-svenska-akademiens-ledamoter_SV.xlsx",
           "size": 7810
+        }
+      }
+    },
+    {
+      "id": "sv-svenska-dialektomraden",
+      "name": "Svenska dialektområden",
+      "category": "language",
+      "record_count": 6,
+      "columns": [
+        "dialect_area",
+        "extent"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Svenska_spr%C3%A5ket",
+      "updated": "2026-10",
+      "size": 2145,
+      "files": {
+        "csv": {
+          "name": "sv-svenska-dialektomraden_SV.csv",
+          "size": 618
+        },
+        "xlsx": {
+          "name": "sv-svenska-dialektomraden_SV.xlsx",
+          "size": 7040
         }
       }
     },

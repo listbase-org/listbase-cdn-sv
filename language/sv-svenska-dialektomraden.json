@@ -1,0 +1,60 @@
+{
+  "id": "sv-svenska-dialektomraden",
+  "name": "Svenska dialektområden",
+  "title": "Svenska dialektområden",
+  "description": "De traditionella svenska dialektområdena och deras geografiska utbredning.",
+  "category": "language",
+  "source": "https://sv.wikipedia.org/wiki/Svenska_spr%C3%A5ket",
+  "source_url": "https://sv.wikipedia.org/wiki/Svenska_spr%C3%A5ket",
+  "updated": "2026-10",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "dialect_area",
+      "label": "Dialect Area",
+      "type": "string"
+    },
+    {
+      "key": "extent",
+      "label": "Extent",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dialect_area": "Norrländska mål",
+      "extent": "Norrland utom södra Hälsingland , Härjedalen och Gästrikland ."
+    },
+    {
+      "dialect_area": "Sveamål",
+      "extent": "Svealand utom Värmland , större delen av Östergötland samt Norrlandskusten upp till och med södra Hälsingland . Dialekterna i Särna och Idre brukar undantas."
+    },
+    {
+      "dialect_area": "Östsvenska mål",
+      "extent": "Svensktalande bygder i Finland (främst i Österbotten , Egentliga Finland , Nyland och Åland ) och i Estland ."
+    },
+    {
+      "dialect_area": "Götamål",
+      "extent": "Västra och norra Götaland (ibland undantas Bohuslän ) samt Värmland ."
+    },
+    {
+      "dialect_area": "Sydsvenska mål",
+      "extent": "Skåne , Blekinge , södra Halland och södra Småland ."
+    },
+    {
+      "dialect_area": "Gotländska",
+      "extent": "Gotland ."
+    }
+  ],
+  "meta": {
+    "title": "Svenska dialektområden - Free Download",
+    "description": "De traditionella svenska dialektområdena och deras geografiska utbredning. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska dialektområden | ListBase",
+    "seo_description": "Download Svenska dialektområden — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Svenska_spr%C3%A5ket"
+    ]
+  }
+}
