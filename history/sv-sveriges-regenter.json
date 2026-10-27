@@ -1,0 +1,752 @@
+{
+  "id": "sv-sveriges-regenter",
+  "name": "Sveriges regenter",
+  "title": "Sveriges regenter",
+  "description": "Sveriges kungar, drottningar och riksföreståndare från Erik Segersäll till i dag, grupperade efter ätt/period, med födelse, tillträde, frånträde och död.",
+  "category": "history",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_regenter",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_regenter",
+  "updated": "2026-10",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "dynasty_period",
+      "label": "Dynasty Period",
+      "type": "string"
+    },
+    {
+      "key": "birth",
+      "label": "Birth",
+      "type": "string"
+    },
+    {
+      "key": "accession",
+      "label": "Accession",
+      "type": "string"
+    },
+    {
+      "key": "end_of_reign",
+      "label": "End Of Reign",
+      "type": "string"
+    },
+    {
+      "key": "death",
+      "label": "Death",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Erik Segersäll",
+      "dynasty_period": "Erik Segersälls ätt",
+      "birth": "Cirka 945 enligt vissa källor son till Björn Eriksson",
+      "accession": "Cirka 970 (då \"småkung\" av Svealand), enade möjligen Sverige på 990-talet",
+      "end_of_reign": "Cirka 995 sotdöd (sjukdom) på kungsgården i Gamla Uppsala",
+      "death": "Cirka 995 sotdöd (sjukdom) på kungsgården i Gamla Uppsala"
+    },
+    {
+      "name": "Olof Skötkonung",
+      "dynasty_period": "Erik Segersälls ätt",
+      "birth": "Cirka 980 son till Erik Segersäll",
+      "accession": "Cirka 995 enade möjligen Sverige",
+      "end_of_reign": "Cirka 1022 i Husaby i Västergötland",
+      "death": "Cirka 1022 i Husaby i Västergötland"
+    },
+    {
+      "name": "Anund Jakob även känd under namnet Emund Kolbränna",
+      "dynasty_period": "Erik Segersälls ätt",
+      "birth": "Cirka 1008 son till Olof Skötkonung och Estrid av Obotriterna",
+      "accession": "Cirka 1022 vid Olof Skötkonungs död",
+      "end_of_reign": "Cirka 1050 sotdöd",
+      "death": "Cirka 1050 sotdöd"
+    },
+    {
+      "name": "Emund den gamle även känd under namnet Emund Slemme",
+      "dynasty_period": "Erik Segersälls ätt",
+      "birth": "Cirka 1000 son till Olof Skötkonung och frillan Edla av Venden",
+      "accession": "Cirka 1050 vid Anund Jakobs död",
+      "end_of_reign": "Cirka 1060 sotdöd",
+      "death": "Cirka 1060 sotdöd"
+    },
+    {
+      "name": "Stenkil",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "Cirka 1030 son till Ragnvald den gamle och möjligen till Astrid Nialsdotter",
+      "accession": "Cirka 1060 vid Emund den gamles död",
+      "end_of_reign": "Cirka 1066 sotdöd (i \"hetsig feber\")",
+      "death": "Cirka 1066 sotdöd (i \"hetsig feber\")"
+    },
+    {
+      "name": "Efter Stenkils död utbryter strider om kungamakten. Olika källor har olika kungalängder, och situationen är på det hela taget oklar 1066–1088.",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "Efter Stenkils död utbryter strider om kungamakten. Olika källor har olika kungalängder, och situationen är på det hela taget oklar 1066–1088.",
+      "accession": "Efter Stenkils död utbryter strider om kungamakten. Olika källor har olika kungalängder, och situationen är på det hela taget oklar 1066–1088.",
+      "end_of_reign": "Efter Stenkils död utbryter strider om kungamakten. Olika källor har olika kungalängder, och situationen är på det hela taget oklar 1066–1088.",
+      "death": "Efter Stenkils död utbryter strider om kungamakten. Olika källor har olika kungalängder, och situationen är på det hela taget oklar 1066–1088."
+    },
+    {
+      "name": "Erik och Erik",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "",
+      "accession": "Cirka 1066 vid Stenkils död, stred med varandra om makten",
+      "end_of_reign": "Cirka 1067 stupade i strid med varandra",
+      "death": "Cirka 1067 stupade i strid med varandra"
+    },
+    {
+      "name": "Halsten",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "Möjligen kring 1050 son till Stenkil och Emund den gamles dotter",
+      "accession": "Cirka 1070 efter Erikarnas död, möjligen regent senare igen tillsammans med Inge d.ä.",
+      "end_of_reign": "Cirka 1070 avsatt och fördriven",
+      "death": "Okänt dödsår"
+    },
+    {
+      "name": "Anund Gårdske",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "Okänt födelseår",
+      "accession": "Kung i Svealand cirka 1070 vid Halstens fördrivning",
+      "end_of_reign": "Cirka 1070 avsatt och fördriven",
+      "death": "Okänt dödsår"
+    },
+    {
+      "name": "Håkan Röde",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "Okänt födelseår",
+      "accession": "1070-talet",
+      "end_of_reign": "1079 eller 1080",
+      "death": "1079 eller 1080"
+    },
+    {
+      "name": "Inge den äldre",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "Okänt födelseår son till Stenkil och Emund den gamles dotter",
+      "accession": "Cirka 1080 Möjligen tidigare samregent med Halsten eller Håkan",
+      "end_of_reign": "Enligt en isländsk uppgift skall han vid mitten av 1080-talet fördrivits från Mälardalen, men återvänt efter cirka tre år. Sedan kung till sin död.",
+      "death": "Cirka 1100"
+    },
+    {
+      "name": "Blot-Sven",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "Okänt födelseår; enligt sägnen bror till Inge den äldres hustru.",
+      "accession": "Kung i Svealand vid mitten av 1080-talet vid Inge den äldres fördrivning",
+      "end_of_reign": "Efter cirka tre år som kung",
+      "death": "Efter cirka tre år som kung"
+    },
+    {
+      "name": "Filip",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "Okänt födelseår son till Halsten",
+      "accession": "Cirka 1100 vid Inge den äldres död",
+      "end_of_reign": "1118",
+      "death": "1118"
+    },
+    {
+      "name": "Inge den yngre",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "Okänt födelseår son till Halsten",
+      "accession": "1118",
+      "end_of_reign": "Cirka 1125",
+      "death": "Cirka 1125"
+    },
+    {
+      "name": "Ragnvald Knaphövde",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "Okänt födelseår",
+      "accession": "1120-talet Vald till kung i Svealand vid Inge den yngres död",
+      "end_of_reign": "Dödad efter kort tid på tronen",
+      "death": "Dödad efter kort tid på tronen"
+    },
+    {
+      "name": "Magnus Nilsson även känd under namnet Magnus den starke ( omtvistad status som kung )",
+      "dynasty_period": "Stenkilska ätten och tronstrider",
+      "birth": "1106 eller 1107 son till Nils av Danmark och kung Inge den äldres dotter Margareta Fredkulla",
+      "accession": "1125 Enligt Saxo Grammaticus vald till kung i Västergötland vid Inge den yngres död",
+      "end_of_reign": "1130 Avsatt och fördriven från Sverige",
+      "death": "4 juni 1134 stupad i slaget vid Fotevik i Skåne"
+    },
+    {
+      "name": "Sverker den äldre",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "Okänt födelseår",
+      "accession": "Kung cirka 1130",
+      "end_of_reign": "25 december cirka 1156 , möjligen mördad på väg till julottan",
+      "death": "25 december cirka 1156 , möjligen mördad på väg till julottan"
+    },
+    {
+      "name": "Erik den helige",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "Okänt födelseår",
+      "accession": "Kung cirka 1156 vid Sverker den äldres död",
+      "end_of_reign": "Cirka 1160 (enligt en sentida legend den 18 maj ) mördad av Magnus Henriksson i Östra Aros",
+      "death": "Cirka 1160 (enligt en sentida legend den 18 maj ) mördad av Magnus Henriksson i Östra Aros"
+    },
+    {
+      "name": "Magnus Henriksson",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "1130 i Danmark son till Henrik Skadelår och kung Inge den äldres barnbarn Ingrid .",
+      "accession": "Cirka 1160 vid Erik den heliges död",
+      "end_of_reign": "1161 dödad av Karl Sverkersson vid Örebro",
+      "death": "1161 dödad av Karl Sverkersson vid Örebro"
+    },
+    {
+      "name": "Karl Sverkersson",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "1130-talet son till Sverker den äldre och Ulvhild Håkansdotter",
+      "accession": "Kung 1161 vid Magnus Henrikssons död",
+      "end_of_reign": "12 april 1167 mördad på Visingsö av Knut Eriksson",
+      "death": "12 april 1167 mördad på Visingsö av Knut Eriksson"
+    },
+    {
+      "name": "Kol ( omtvistad status som kung )",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "Okänt födelseår son eller sonson till Sverker den äldre",
+      "accession": "Kung i Östergötland 1167 samregent med brodern Burislev",
+      "end_of_reign": "1173 stupad vid Bjälbo i Östergötland i strid med Knut Eriksson",
+      "death": "1173 stupad vid Bjälbo i Östergötland i strid med Knut Eriksson"
+    },
+    {
+      "name": "Burislev ( omtvistad status som kung )",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "Okänt födelseår son eller sonson till Sverker den äldre",
+      "accession": "Kung i Östergötland 1167 samregent med brodern Kol",
+      "end_of_reign": "1169 stupad i strid med Knut Eriksson",
+      "death": "1169 stupad i strid med Knut Eriksson"
+    },
+    {
+      "name": "Knut Eriksson",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "Före 1150 son till Erik den helige och Kristina Björnsdotter",
+      "accession": "Kung 1167 efter Karl Sverkerssons död Kung även i Östergötland 1173 vid Kol Sverkerssons död",
+      "end_of_reign": "1195 eller 1196 på Eriksbergs kungsgård i Västergötland",
+      "death": "1195 eller 1196 på Eriksbergs kungsgård i Västergötland"
+    },
+    {
+      "name": "Sverker den yngre Karlsson",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "1164 son till Karl Sverkersson och Kristina Stigsdotter Hvide",
+      "accession": "Kung 1195 eller 1196 vid Knut Erikssons död",
+      "end_of_reign": "31 januari 1208 avsatt efter slaget vid Lena",
+      "death": "17 eller 18 juli 1210 stupad i slaget vid Gestilren"
+    },
+    {
+      "name": "Erik Knutsson",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "1180 son till Knut Eriksson",
+      "accession": "Kung 31 januari 1208 vid Sverker den yngres avsättning",
+      "end_of_reign": "10 april 1216 i \"hetsig feber\" eller tvinsot på Visingsö",
+      "death": "10 april 1216 i \"hetsig feber\" eller tvinsot på Visingsö"
+    },
+    {
+      "name": "Johan Sverkersson",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "1201 son till Sverker den yngre Karlsson och Ingegärd Birgersdotter",
+      "accession": "Kung 1216 vid Erik Knutssons död",
+      "end_of_reign": "10 mars 1222 i sjukdom på Visingsö",
+      "death": "10 mars 1222 i sjukdom på Visingsö"
+    },
+    {
+      "name": "Erik Eriksson",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "1216 son till Erik Knutsson och Rikissa av Danmark",
+      "accession": "Vald till kung någon gång mellan 1 augusti 1222 och 31 juli 1223 efter Johan Sverkerssons död",
+      "end_of_reign": "28 eller 29 november 1229 avsatt efter slaget vid Olustra",
+      "death": ""
+    },
+    {
+      "name": "Knut Långe",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "Okänt födelseår son till Holmger och släkt med den erikska ätten",
+      "accession": "Kung 1229 vid Erik Erikssons avsättning",
+      "end_of_reign": "1234 död i samband med Erik Erikssons återkomst",
+      "death": "1234 död i samband med Erik Erikssons återkomst"
+    },
+    {
+      "name": "Erik Eriksson",
+      "dynasty_period": "Sverkerska ätten och Erikska ätten",
+      "birth": "",
+      "accession": "Återinsatt som kung 1234 i samband med Knut Långes död",
+      "end_of_reign": "2 februari 1250 på okänd plats",
+      "death": "2 februari 1250 på okänd plats"
+    },
+    {
+      "name": "Birger jarl",
+      "dynasty_period": "Bjälboätten",
+      "birth": "1200 eller 1210 son till Magnus Minnisköld och Ingrid Ylva",
+      "accession": "Regerande riksjarl i mars 1248",
+      "end_of_reign": "21 oktober 1266 på Jälbolung i Västergötland",
+      "death": "21 oktober 1266 på Jälbolung i Västergötland"
+    },
+    {
+      "name": "Valdemar Birgersson",
+      "dynasty_period": "Bjälboätten",
+      "birth": "1238 eller 1239 son till Birger jarl och kung Erik Erikssons syster Ingeborg",
+      "accession": "Vald till kung 1250 efter Erik Erikssons död Övertog styrelsen vid Birger jarls död 1266",
+      "end_of_reign": "22 juli 1275 avsatt av Magnus Ladulås",
+      "death": "26 december 1302 som fånge på Nyköpingshus"
+    },
+    {
+      "name": "Magnus Ladulås",
+      "dynasty_period": "Bjälboätten",
+      "birth": "1240 son till Birger jarl och Ingeborg Eriksdotter",
+      "accession": "Kung 22 juli 1275 vid kung Valdemars avsättning",
+      "end_of_reign": "18 december 1290 på Näs slott på Visingsö",
+      "death": "18 december 1290 på Näs slott på Visingsö"
+    },
+    {
+      "name": "Birger Magnusson",
+      "dynasty_period": "Bjälboätten",
+      "birth": "1280 son till Magnus Ladulås och Helvig av Holstein",
+      "accession": "Tronföljare 1284 Kung 18 december 1290 vid Magnus Ladulås död",
+      "end_of_reign": "Mars eller april 1318 avsatt och fördriven av anhängare till sina bröder",
+      "death": "31 maj 1321 i Danmark"
+    },
+    {
+      "name": "Ingeborg Håkansdotter",
+      "dynasty_period": "Bjälboätten",
+      "birth": "1301 dotter till Håkan V av Norge och Eufemia av Arnstein",
+      "accession": "1318 svensk regent i eget namn",
+      "end_of_reign": "8 juli 1319 vid sonens trontillträde",
+      "death": "17 juni 1361"
+    },
+    {
+      "name": "Magnus Eriksson",
+      "dynasty_period": "Bjälboätten",
+      "birth": "Våren 1316 son till hertig Erik Magnusson och Ingeborg Håkansdotter",
+      "accession": "Vald till kung 8 juli 1319 på Mora äng",
+      "end_of_reign": "Februari 1364 avsatt vid Albrekts av Mecklenburg kungaval",
+      "death": "1 december 1374 drunknad vid skeppsbrott vid Bergen i Norge"
+    },
+    {
+      "name": "Erik Magnusson",
+      "dynasty_period": "Bjälboätten",
+      "birth": "Början av 1339 son till Magnus Eriksson och Blanka av Namur",
+      "accession": "Tronföljare 6 december 1344 Utropad till kung i opposition mot Magnus Eriksson 17 oktober 1356 Erkänd som kung över stora delar av landet 28 april 1357",
+      "end_of_reign": "20 juni 1359 i pest",
+      "death": "20 juni 1359 i pest"
+    },
+    {
+      "name": "Håkan Magnusson",
+      "dynasty_period": "Bjälboätten",
+      "birth": "Augusti 1340 son till Magnus Eriksson och Blanka av Namur",
+      "accession": "Vald till kung i opposition mot Magnus Eriksson 15 februari 1362 Senare under året försonad och samregent med honom",
+      "end_of_reign": "Februari 1364 avsatt vid Albrekts av Mecklenburg kungaval",
+      "death": "Augusti eller 10 eller 11 september 1380 i Oslo i Norge"
+    },
+    {
+      "name": "Albrekt av Mecklenburg",
+      "dynasty_period": "Mecklenburgska ätten",
+      "birth": "1338 eller 1340 son till hertig Albrekt den store av Mecklenburg och kung Magnus Erikssons syster Eufemia Eriksdotter",
+      "accession": "Kung 15 februari 1364",
+      "end_of_reign": "24 februari 1389 besegrad i slaget vid Åsle och avsatt av Margareta",
+      "death": "31 mars eller 1 april 1412 i Mecklenburg"
+    },
+    {
+      "name": "Margareta",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "Våren 1353 dotter till kung Valdemar Atterdag av Danmark och Helvig av Slesvig. Håkan Magnussons änka, samt ättling till den svenske kungen Erik Knutsson",
+      "accession": "Regerande drottning 24 februari 1389 23 juli 1396 samregent med Erik av Pommern",
+      "end_of_reign": "28 oktober 1412 pestdöd i Flensburg",
+      "death": "28 oktober 1412 pestdöd i Flensburg"
+    },
+    {
+      "name": "Erik av Pommern",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "1382 son till hertig Vratislav VII av Pommern och Maria av Mecklenburg , ättling till den svenske kungen Magnus Ladulås",
+      "accession": "Kung 23 juli 1396 (samregent med Margareta) Ensam regent 28 oktober 1412 vid hennes död",
+      "end_of_reign": "16 augusti 1434 uppsagd tro och lydnad",
+      "death": ""
+    },
+    {
+      "name": "Erik av Pommern",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "",
+      "accession": "Återtagen som kung 14 oktober 1435",
+      "end_of_reign": "11 januari 1436 åter uppsagd tro och lydnad",
+      "death": ""
+    },
+    {
+      "name": "Karl Knutsson (Bonde)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "Möjligen 1 oktober 1408 eller 1409 son till riddar Knut Tordsson (Bonde) och Margareta Karlsdotter (Sparre av Tofta)",
+      "accession": "Februari 1436 samregerande rikshövitsman med Engelbrekt Engelbrektsson (ensam i ämbetet vid Engelbrekts död 4 maj )",
+      "end_of_reign": "1 september 1436 , då Erik av Pommern återinsattes som kung (Karl Knutsson fortfarande rikshövitsman till 6 mars 1438 )",
+      "death": ""
+    },
+    {
+      "name": "Erik av Pommern",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "",
+      "accession": "Återtagen som kung 1 september 1436",
+      "end_of_reign": "29 september eller 1 oktober 1439 avsatt vid ett möte i Tälje",
+      "death": "3 maj 1459 i Pommern"
+    },
+    {
+      "name": "Karl Knutsson (Bonde)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "",
+      "accession": "Riksföreståndare 17 oktober 1438",
+      "end_of_reign": "13 september 1440 , då Kristofer av Bayern valdes till kung",
+      "death": ""
+    },
+    {
+      "name": "Kristofer av Bayern",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "26 februari 1416 eller 1418 son till hertig Johan av Pfalz och Erik av Pommerns syster Katarina av Pommern",
+      "accession": "Vald till kung villkorligt i oktober 1440 Hyllad som kung 13 september 1441",
+      "end_of_reign": "6 januari 1448 i Helsingborg",
+      "death": "6 januari 1448 i Helsingborg"
+    },
+    {
+      "name": "Bengt Jönsson (Oxenstierna)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "Omkring 1395 son till Jöns Bengtsson (Oxenstierna) d.ä. och Märta Finvidsdotter (Frössviksätten)",
+      "accession": "Riksföreståndare i januari 1448 vid kung Kristofers död",
+      "end_of_reign": "20 juni 1448 , då Karl Knutsson valdes till kung",
+      "death": "1449 eller 1450"
+    },
+    {
+      "name": "Nils Jönsson (Oxenstierna)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "Omkring 1390 son till Jöns Bengtsson (Oxenstierna) d.ä. och Märta Finvidsdotter (Frössviksätten)",
+      "accession": "Riksföreståndare i januari 1448 vid kung Kristofers död",
+      "end_of_reign": "20 juni 1448 , då Karl Knutsson valdes till kung",
+      "death": "Tidigast i oktober 1450"
+    },
+    {
+      "name": "Karl Knutsson (Bonde)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "",
+      "accession": "Kung 20 juni 1448",
+      "end_of_reign": "24 februari 1457 avsatt och flydd till Danzig",
+      "death": ""
+    },
+    {
+      "name": "Jöns Bengtsson (Oxenstierna)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "1417 son till Bengt Jönsson (Oxenstierna) och Kristina Kristiernsdotter (Vasa)",
+      "accession": "Riksföreståndare i mars 1457 efter kung Karls avsättning",
+      "end_of_reign": "23 juni 1457 då Kristian I valdes till kung",
+      "death": ""
+    },
+    {
+      "name": "Erik Axelsson (Tott)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "1417 son till Axel Pedersson (Tott) och Ingeborg Ivarsdotter",
+      "accession": "Riksföreståndare i mars 1457 efter kung Karls avsättning",
+      "end_of_reign": "23 juni 1457 då Kristian I valdes till kung",
+      "death": ""
+    },
+    {
+      "name": "Kristian I",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "Februari 1426 son till greve Didrik av Oldenburg och Hedvig av Holstein , ättling till den svenske kungen Magnus Ladulås",
+      "accession": "Kung 23 juni 1457",
+      "end_of_reign": "23 juni 1464 avsatt och flydd till Danmark",
+      "death": "21 maj 1481 i Köpenhamn"
+    },
+    {
+      "name": "Karl Knutsson (Bonde)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "",
+      "accession": "Kung 9 augusti 1464",
+      "end_of_reign": "30 januari 1465 åter avsatt",
+      "death": ""
+    },
+    {
+      "name": "Kettil Karlsson (Vasa)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "1433 eller 1434 son till Karl Kristiernsson (Vasa) och Ebba Eriksdotter Krummedige",
+      "accession": "Riksföreståndare 26 december 1464",
+      "end_of_reign": "11 augusti 1465 pestdöd på slottet Tre Kronor i Stockholm",
+      "death": "11 augusti 1465 pestdöd på slottet Tre Kronor i Stockholm"
+    },
+    {
+      "name": "Jöns Bengtsson (Oxenstierna)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "",
+      "accession": "Riksföreståndare 11 augusti 1465 vid Kettil Karlssons död",
+      "end_of_reign": "18 oktober 1466 avsatt",
+      "death": "15 december 1467 på Öland"
+    },
+    {
+      "name": "Erik Axelsson (Tott)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "",
+      "accession": "Riksföreståndare 18 oktober 1466 vid Jöns Bengtssons avsättning",
+      "end_of_reign": "12 november 1467 då Karl Knutsson valdes till kung",
+      "death": "Februari eller mars 1481 i Viborg i Finland"
+    },
+    {
+      "name": "Karl Knutsson (Bonde)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "",
+      "accession": "Kung 12 november 1467",
+      "end_of_reign": "15 maj 1470 på slottet Tre Kronor i Stockholm",
+      "death": "15 maj 1470 på slottet Tre Kronor i Stockholm"
+    },
+    {
+      "name": "Sten Sture den äldre",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "1440 son till Gustav Anundsson Sture och Birgitta Stensdotter (Bielke)",
+      "accession": "Själv utropad till riksföreståndare 16 maj 1470 Erkänd på posten 1 juni 1470",
+      "end_of_reign": "6 oktober 1497 vid Hans kungaval",
+      "death": ""
+    },
+    {
+      "name": "Hans även känd som Johan II",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "1 eller 2 februari 1455 son till Kristian I och Dorotea av Brandenburg",
+      "accession": "Erkänd som kung 6 oktober 1497 Vald till kung 18 oktober 1497",
+      "end_of_reign": "1 augusti 1501 avsatt",
+      "death": "20 februari 1513 i danska Ålborg"
+    },
+    {
+      "name": "Sten Sture den äldre",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "",
+      "accession": "Riksföreståndare 12 november 1501 efter kung Hans avsättning",
+      "end_of_reign": "14 december 1503 i Jönköping",
+      "death": "14 december 1503 i Jönköping"
+    },
+    {
+      "name": "Svante Nilsson (Sture)",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "1460 son till Nils Sture (Natt och Dag) och Birgitta Karlsdotter (Bonde)",
+      "accession": "Riksföreståndare 21 januari 1504",
+      "end_of_reign": "31 december 1511 eller 2 januari 1512 i Västerås",
+      "death": "31 december 1511 eller 2 januari 1512 i Västerås"
+    },
+    {
+      "name": "Erik Trolle",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "1460 son till Arvid Birgersson (Trolle) och Kristina Jonsdotter (Gädda) eller Beata Ivarsdotter (Tott)",
+      "accession": "Riksföreståndare i mitten av januari 1512",
+      "end_of_reign": "23 juli 1512 avsatt vid Sten Sture den yngres riksföreståndarval",
+      "death": "1530"
+    },
+    {
+      "name": "Sten Sture den yngre",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "1492 , 1493 eller 1494 son till Svante Nilsson (Sture) och Iliana Erengisledotter (Gädda)",
+      "accession": "Riksföreståndare 23 juli 1512",
+      "end_of_reign": "3 februari 1520 på Mälarens is",
+      "death": "3 februari 1520 på Mälarens is"
+    },
+    {
+      "name": "Kristian II",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "1 juli 1481 i danska Nyborg son till kung Hans och Kristina av Sachsen",
+      "accession": "Erkänd som svensk kung av riksrådet 6 mars 1520 Vald till kung 1 november 1520",
+      "end_of_reign": "23 augusti 1521 avsatt vid Gustav Vasas riksföreståndarval",
+      "death": "25 januari 1559 i fängelse på Kalundborg på Själland"
+    },
+    {
+      "name": "Gustav Vasa",
+      "dynasty_period": "Kalmarunionens monarker och riksföreståndare",
+      "birth": "12 maj 1496 på Rydboholm eller Lindholmen i Uppland son till Erik Johansson (Vasa) och Cecilia Månsdotter (Eka)",
+      "accession": "Riksföreståndare 23 augusti 1521",
+      "end_of_reign": "Själv vald till kung 6 juni 1523",
+      "death": ""
+    },
+    {
+      "name": "Gustav Vasa även känd under namnet Gustav I",
+      "dynasty_period": "Vasaätten",
+      "birth": "",
+      "accession": "Kung 6 juni 1523",
+      "end_of_reign": "29 september 1560 på slottet Tre Kronor i Stockholm",
+      "death": "29 september 1560 på slottet Tre Kronor i Stockholm"
+    },
+    {
+      "name": "Erik XIV",
+      "dynasty_period": "Vasaätten",
+      "birth": "13 december 1533 på slottet Tre Kronor i Stockholm son till Gustav Vasa och Katarina av Sachsen-Lauenburg",
+      "accession": "Tronföljare 1544 vid införandet av Västerås arvförening Kung 29 september 1560 vid faderns död",
+      "end_of_reign": "29 september 1568 tillfångatagen och avsatt av sina bröder Johan och Karl 26 januari 1569 formellt avsatt av ständerna",
+      "death": "26 februari 1577 på Örbyhus slott i Uppland"
+    },
+    {
+      "name": "Johan III",
+      "dynasty_period": "Vasaätten",
+      "birth": "20 december 1537 på Stegeborgs slott i Östergötland son till Gustav Vasa och Margareta Eriksdotter (Leijonhufvud)",
+      "accession": "Utropad till kung 30 september 1568 efter brodern Eriks avsättning Erkänd som kung av ständerna 26 januari 1569",
+      "end_of_reign": "17 november 1592 på slottet Tre Kronor i Stockholm",
+      "death": "17 november 1592 på slottet Tre Kronor i Stockholm"
+    },
+    {
+      "name": "Sigismund",
+      "dynasty_period": "Vasaätten",
+      "birth": "20 juni 1566 på Gripsholms slott son till Johan III och Katarina Jagellonica",
+      "accession": "Kung 17 november 1592 vid faderns död",
+      "end_of_reign": "24 juli 1599 avsatt av ständerna",
+      "death": "19 april 1632 i Warszawa"
+    },
+    {
+      "name": "Karl IX",
+      "dynasty_period": "Vasaätten",
+      "birth": "4 oktober 1550 på slottet Tre Kronor i Stockholm son till Gustav Vasa och Margareta Eriksdotter (Leijonhufvud)",
+      "accession": "Bekräftad av ständerna som riksföreståndare 24 juli 1599 vid Sigismunds avsättning Kung 22 mars 1604",
+      "end_of_reign": "30 oktober 1611 på Nyköpingshus i Södermanland",
+      "death": "30 oktober 1611 på Nyköpingshus i Södermanland"
+    },
+    {
+      "name": "Gustav II Adolf även känd under namnet Gustav Adolf den store",
+      "dynasty_period": "Vasaätten",
+      "birth": "9 december 1594 på slottet Tre Kronor i Stockholm son till Karl IX och Kristina av Holstein-Gottorp",
+      "accession": "Tronföljare 22 mars 1604 vid faderns trontillträde Omyndig kung 30 oktober 1611 vid faderns död Myndigförklarad 26 december samma år",
+      "end_of_reign": "6 november 1632 stupad i slaget vid Lützen",
+      "death": "6 november 1632 stupad i slaget vid Lützen"
+    },
+    {
+      "name": "Kristina",
+      "dynasty_period": "Vasaätten",
+      "birth": "7 december 1626 på slottet Tre Kronor i Stockholm dotter till Gustav II Adolf och Maria Eleonora av Brandenburg",
+      "accession": "Tronföljare från födseln Omyndig drottning 6 november 1632 vid faderns död Myndigförklarad 8 december 1644",
+      "end_of_reign": "6 juni 1654 abdikerad till förmån för Karl X Gustav",
+      "death": "9 april 1689 i Rom"
+    },
+    {
+      "name": "Karl X Gustav",
+      "dynasty_period": "Pfalziska ätten",
+      "birth": "8 november 1622 på Nyköpingshus i Nyköping son till greve Johan Kasimir av Pfalz-Zweibrücken och Karl IX:s dotter Katarina",
+      "accession": "Kung 6 juni 1654 vid Kristinas abdikation",
+      "end_of_reign": "13 februari 1660 i lunginflammation i Kungshuset i Göteborg",
+      "death": "13 februari 1660 i lunginflammation i Kungshuset i Göteborg"
+    },
+    {
+      "name": "Karl XI",
+      "dynasty_period": "Pfalziska ätten",
+      "birth": "24 november 1655 på slottet Tre Kronor i Stockholm son till Karl X Gustav och Hedvig Eleonora av Holstein-Gottorp",
+      "accession": "Omyndig kung 13 februari 1660 vid faderns död Myndig 18 december 1672",
+      "end_of_reign": "5 april 1697 i magcancer på slottet Tre Kronor i Stockholm",
+      "death": "5 april 1697 i magcancer på slottet Tre Kronor i Stockholm"
+    },
+    {
+      "name": "Karl XII",
+      "dynasty_period": "Pfalziska ätten",
+      "birth": "17 juni 1682 på slottet Tre Kronor i Stockholm son till Karl XI och Ulrika Eleonora av Danmark",
+      "accession": "Omyndig kung 5 april 1697 vid faderns död Myndigförklarad 8 november samma år",
+      "end_of_reign": "30 november 1718 dödsskjuten vid belägringen av Fredrikstens fästning i Norge",
+      "death": "30 november 1718 dödsskjuten vid belägringen av Fredrikstens fästning i Norge"
+    },
+    {
+      "name": "Ulrika Eleonora",
+      "dynasty_period": "Pfalziska ätten",
+      "birth": "23 januari 1688 på slottet Tre Kronor i Stockholm dotter till Karl XI och Ulrika Eleonora av Danmark",
+      "accession": "Utropad till drottning 5 december 1718 vid budet om Karl XII:s död Vald av riksdagen 23 januari 1719",
+      "end_of_reign": "29 februari 1720 abdikerad till förmån för Fredrik I",
+      "death": "24 november 1741 i Kungshuset i Stockholm"
+    },
+    {
+      "name": "Fredrik I",
+      "dynasty_period": "Hessiska ätten",
+      "birth": "18 april 1676 i Kassel i tyska Hessen son till lantgreve Karl I av Hessen-Kassel och Maria Amalia av Kurland",
+      "accession": "Vald till kung av riksdagen 24 mars 1720 efter Ulrika Eleonoras abdikation",
+      "end_of_reign": "25 mars 1751 av kallbrand i Kungshuset i Stockholm",
+      "death": "25 mars 1751 av kallbrand i Kungshuset i Stockholm"
+    },
+    {
+      "name": "Adolf Fredrik",
+      "dynasty_period": "Holstein-Gottorpska ätten",
+      "birth": "4 maj 1710 på tyska Gottorp son till Kristian August av Holstein-Gottorp och Albertina Fredrika av Baden-Durlach",
+      "accession": "Vald till tronföljare av riksdagen 23 juni 1743 Kung 25 mars 1751 vid föregångarens död",
+      "end_of_reign": "12 februari 1771 av slaganfall på Stockholms slott",
+      "death": "12 februari 1771 av slaganfall på Stockholms slott"
+    },
+    {
+      "name": "Gustav III",
+      "dynasty_period": "Holstein-Gottorpska ätten",
+      "birth": "13 januari 1746 i Kungshuset i Stockholm son till Adolf Fredrik och Lovisa Ulrika av Preussen",
+      "accession": "Kronprins 25 mars 1751 vid faderns trontillträde Kung 12 februari 1771 vid faderns död",
+      "end_of_reign": "29 mars 1792 av blodförgiftning och lunginflammation på Stockholms slott. Detta till följd av att han under en maskeradbal två veckor tidigare hade skjutits med ett skott i ryggen av Jacob Johan Anckarström .",
+      "death": "29 mars 1792 av blodförgiftning och lunginflammation på Stockholms slott. Detta till följd av att han under en maskeradbal två veckor tidigare hade skjutits med ett skott i ryggen av Jacob Johan Anckarström ."
+    },
+    {
+      "name": "Gustav IV Adolf",
+      "dynasty_period": "Holstein-Gottorpska ätten",
+      "birth": "1 november 1778 på Stockholms slott son till Gustav III och Sofia Magdalena av Danmark",
+      "accession": "Kronprins från födseln Omyndig kung 29 mars 1792 vid faderns död Myndig 1 november 1796",
+      "end_of_reign": "Arresterad på Stockholms slott 13 mars 1809 Abdikerad 29 mars 1809 Formellt avsatt av riksdagen 10 maj samma år och därefter landsförvisad",
+      "death": "7 februari 1837 på värdshuset Vita hästen i schweiziska Sankt Gallen"
+    },
+    {
+      "name": "Karl XIII",
+      "dynasty_period": "Holstein-Gottorpska ätten",
+      "birth": "26 september 1748 i Kungshuset i Stockholm son till Adolf Fredrik och Lovisa Ulrika av Preussen",
+      "accession": "Riksföreståndare 13 mars 1809 vid Gustav IV Adolfs arrestering 6 juni 1809 självutropad till kung",
+      "end_of_reign": "5 februari 1818 på Stockholms slott",
+      "death": "5 februari 1818 på Stockholms slott"
+    },
+    {
+      "name": "Karl XIV Johan (före 1810 Jean Baptiste Jules Bernadotte )",
+      "dynasty_period": "Bernadotteska ätten",
+      "birth": "26 januari 1763 i franska Pau son till advokaten Henri Bernadotte och Jeanne de Saint-Jean",
+      "accession": "Vald till tronföljare av riksdagen i Örebro 21 augusti 1810 Kung 5 februari 1818 vid föregångarens död",
+      "end_of_reign": "8 mars 1844 av kallbrand efter ett slaganfall på Stockholms slott",
+      "death": "8 mars 1844 av kallbrand efter ett slaganfall på Stockholms slott"
+    },
+    {
+      "name": "Oscar I (född som Joseph François Oscar Bernadotte )",
+      "dynasty_period": "Bernadotteska ätten",
+      "birth": "4 juli 1799 i Frankrikes huvudstad Paris son till Jean Baptiste Bernadotte och Désirée Clary",
+      "accession": "Arvfurste 21 augusti 1810 vid faderns tronföljarval Kronprins 5 februari 1818 vid faderns trontillträde Kung 8 mars 1844 vid faderns död",
+      "end_of_reign": "8 juli 1859 av hjärntumör på Stockholms slott",
+      "death": "8 juli 1859 av hjärntumör på Stockholms slott"
+    },
+    {
+      "name": "Karl XV",
+      "dynasty_period": "Bernadotteska ätten",
+      "birth": "3 maj 1826 på Stockholms slott son till Oscar I och Josefina av Leuchtenberg",
+      "accession": "Arvprins från födseln Kronprins 8 mars 1844 vid faderns trontillträde Regent 25 september 1857 vid faderns sjukdom Kung 8 juli 1859 vid faderns död",
+      "end_of_reign": "18 september 1872 i tarm tuberkulos i Malmö",
+      "death": "18 september 1872 i tarm tuberkulos i Malmö"
+    },
+    {
+      "name": "Oscar II",
+      "dynasty_period": "Bernadotteska ätten",
+      "birth": "21 januari 1829 på Stockholms slott son till Oscar I och Josefina av Leuchtenberg",
+      "accession": "Tronföljare 8 juli 1859 vid föregångarens trontillträde Kung 18 september 1872 vid föregångarens död",
+      "end_of_reign": "8 december 1907 på Stockholms slott",
+      "death": "8 december 1907 på Stockholms slott"
+    },
+    {
+      "name": "Gustaf V",
+      "dynasty_period": "Bernadotteska ätten",
+      "birth": "16 juni 1858 på Drottningholms slott son till Oscar II och Sofia av Nassau",
+      "accession": "Kronprins 18 september 1872 vid faderns trontillträde Kung 8 december 1907 vid faderns död",
+      "end_of_reign": "29 oktober 1950 på Drottningholms slott",
+      "death": "29 oktober 1950 på Drottningholms slott"
+    },
+    {
+      "name": "Gustaf VI Adolf",
+      "dynasty_period": "Bernadotteska ätten",
+      "birth": "11 november 1882 på Stockholms slott son till Gustaf V och Victoria av Baden",
+      "accession": "Arvprins från födseln Kronprins 8 december 1907 vid faderns trontillträde Kung 29 oktober 1950 vid faderns död",
+      "end_of_reign": "15 september 1973 på Helsingborgs lasarett",
+      "death": "15 september 1973 på Helsingborgs lasarett"
+    },
+    {
+      "name": "Carl XVI Gustaf",
+      "dynasty_period": "Bernadotteska ätten",
+      "birth": "30 april 1946 på Haga slott utanför Stockholm son till Gustaf VI Adolfs son arvprins Gustaf Adolf och prinsessan Sibylla",
+      "accession": "Arvprins från födseln Kronprins 29 oktober 1950 vid farfaderns trontillträde Kung 15 september 1973 vid Gustaf VI Adolfs död",
+      "end_of_reign": "",
+      "death": ""
+    }
+  ],
+  "meta": {
+    "title": "Sveriges regenter - Free Download",
+    "description": "Sveriges kungar, drottningar och riksföreståndare från Erik Segersäll till i dag, grupperade efter ätt/period, med födelse, tillträde, frånträde och död. Contains 87 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges regenter | ListBase",
+    "seo_description": "Download Sveriges regenter — 87 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 87 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_regenter"
+    ]
+  }
+}
