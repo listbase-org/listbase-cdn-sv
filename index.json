@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:30.129Z",
-  "total_datasets": 485,
-  "total_records": 2263844,
+  "generated": "2026-10-27T02:33:32.620Z",
+  "total_datasets": 486,
+  "total_records": 2263890,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 23
+      "dataset_count": 24
     },
     {
       "id": "reference",
@@ -5048,6 +5048,32 @@
         "xlsx": {
           "name": "sv-sverigedemokraterna-riksdagsledamoter_SV.xlsx",
           "size": 15429
+        }
+      }
+    },
+    {
+      "id": "sv-sveriges-statsministrar",
+      "name": "Sveriges statsministrar",
+      "category": "politics",
+      "record_count": 46,
+      "columns": [
+        "prime_minister",
+        "took_office",
+        "left_office",
+        "party",
+        "government"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_statsministrar",
+      "updated": "2026-10",
+      "size": 11007,
+      "files": {
+        "csv": {
+          "name": "sv-sveriges-statsministrar_SV.csv",
+          "size": 4060
+        },
+        "xlsx": {
+          "name": "sv-sveriges-statsministrar_SV.xlsx",
+          "size": 8929
         }
       }
     },

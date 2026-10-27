@@ -1,0 +1,373 @@
+{
+  "id": "sv-sveriges-statsministrar",
+  "name": "Sveriges statsministrar",
+  "title": "Sveriges statsministrar",
+  "description": "Sveriges statsministrar sedan 1876: tillträde, avgång, parti och regering.",
+  "category": "politics",
+  "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_statsministrar",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_statsministrar",
+  "updated": "2026-10",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "prime_minister",
+      "label": "Prime Minister",
+      "type": "string"
+    },
+    {
+      "key": "took_office",
+      "label": "Took Office",
+      "type": "string"
+    },
+    {
+      "key": "left_office",
+      "label": "Left Office",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "prime_minister": "Louis De Geer d.ä.",
+      "took_office": "20 mars 1876",
+      "left_office": "19 april 1880",
+      "party": "Partilös",
+      "government": "De Geer d.ä."
+    },
+    {
+      "prime_minister": "Arvid Posse",
+      "took_office": "19 april 1880",
+      "left_office": "13 juni 1883",
+      "party": "Lantmannapartiet",
+      "government": "Posse"
+    },
+    {
+      "prime_minister": "Carl Johan Thyselius",
+      "took_office": "13 juni 1883",
+      "left_office": "16 maj 1884",
+      "party": "Partilös",
+      "government": "Thyselius"
+    },
+    {
+      "prime_minister": "Robert Themptander",
+      "took_office": "16 maj 1884",
+      "left_office": "6 februari 1888",
+      "party": "Partilös",
+      "government": "Themptander"
+    },
+    {
+      "prime_minister": "Gillis Bildt",
+      "took_office": "6 februari 1888",
+      "left_office": "12 oktober 1889",
+      "party": "Partilös",
+      "government": "G. Bildt"
+    },
+    {
+      "prime_minister": "Gustaf Åkerhielm",
+      "took_office": "12 oktober 1889",
+      "left_office": "10 juli 1891",
+      "party": "Protektionistiska partiet",
+      "government": "Åkerhielm"
+    },
+    {
+      "prime_minister": "Erik Gustaf Boström",
+      "took_office": "10 juli 1891",
+      "left_office": "12 september 1900",
+      "party": "Lantmannapartiet",
+      "government": "Boström I"
+    },
+    {
+      "prime_minister": "Fredrik von Otter",
+      "took_office": "12 september 1900",
+      "left_office": "5 juli 1902",
+      "party": "Partilös",
+      "government": "von Otter"
+    },
+    {
+      "prime_minister": "Erik Gustaf Boström",
+      "took_office": "5 juli 1902",
+      "left_office": "13 april 1905",
+      "party": "Lantmannapartiet",
+      "government": "Boström II"
+    },
+    {
+      "prime_minister": "Johan Ramstedt",
+      "took_office": "13 april 1905",
+      "left_office": "2 augusti 1905",
+      "party": "Partilös",
+      "government": "Ramstedt"
+    },
+    {
+      "prime_minister": "Christian Lundeberg",
+      "took_office": "2 augusti 1905",
+      "left_office": "7 november 1905",
+      "party": "Protektionistiska partiet",
+      "government": "Lundeberg"
+    },
+    {
+      "prime_minister": "Karl Staaff",
+      "took_office": "7 november 1905",
+      "left_office": "29 maj 1906",
+      "party": "Liberala samlingspartiet",
+      "government": "Staaff I"
+    },
+    {
+      "prime_minister": "Arvid Lindman",
+      "took_office": "29 maj 1906",
+      "left_office": "7 oktober 1911",
+      "party": "Lantmanna- och borgarepartiet",
+      "government": "Lindman I"
+    },
+    {
+      "prime_minister": "Karl Staaff",
+      "took_office": "7 oktober 1911",
+      "left_office": "17 februari 1914",
+      "party": "Liberala samlingspartiet",
+      "government": "Staaff II"
+    },
+    {
+      "prime_minister": "Hjalmar Hammarskjöld",
+      "took_office": "17 februari 1914",
+      "left_office": "30 mars 1917",
+      "party": "Partilös",
+      "government": "Hammarskjöld"
+    },
+    {
+      "prime_minister": "Carl Swartz",
+      "took_office": "30 mars 1917",
+      "left_office": "19 oktober 1917",
+      "party": "Nationella partiet",
+      "government": "Swartz"
+    },
+    {
+      "prime_minister": "Nils Edén",
+      "took_office": "19 oktober 1917",
+      "left_office": "10 mars 1920",
+      "party": "Liberala samlingspartiet",
+      "government": "Edén"
+    },
+    {
+      "prime_minister": "Hjalmar Branting",
+      "took_office": "10 mars 1920",
+      "left_office": "27 oktober 1920",
+      "party": "Socialdemokraterna",
+      "government": "Branting I"
+    },
+    {
+      "prime_minister": "Louis De Geer d.y.",
+      "took_office": "27 oktober 1920",
+      "left_office": "23 februari 1921",
+      "party": "Partilös",
+      "government": "De Geer d.y."
+    },
+    {
+      "prime_minister": "Oscar von Sydow",
+      "took_office": "23 februari 1921",
+      "left_office": "13 oktober 1921",
+      "party": "Partilös",
+      "government": "von Sydow"
+    },
+    {
+      "prime_minister": "Hjalmar Branting",
+      "took_office": "13 oktober 1921",
+      "left_office": "19 april 1923",
+      "party": "Socialdemokraterna",
+      "government": "Branting II"
+    },
+    {
+      "prime_minister": "Ernst Trygger",
+      "took_office": "19 april 1923",
+      "left_office": "18 oktober 1924",
+      "party": "Nationella partiet",
+      "government": "Trygger"
+    },
+    {
+      "prime_minister": "Hjalmar Branting",
+      "took_office": "18 oktober 1924",
+      "left_office": "24 januari 1925",
+      "party": "Socialdemokraterna",
+      "government": "Branting III"
+    },
+    {
+      "prime_minister": "Rickard Sandler",
+      "took_office": "24 januari 1925",
+      "left_office": "7 juni 1926",
+      "party": "Socialdemokraterna",
+      "government": "Sandler"
+    },
+    {
+      "prime_minister": "Carl Gustaf Ekman",
+      "took_office": "7 juni 1926",
+      "left_office": "2 oktober 1928",
+      "party": "Frisinnade folkpartiet",
+      "government": "Ekman I"
+    },
+    {
+      "prime_minister": "Arvid Lindman",
+      "took_office": "2 oktober 1928",
+      "left_office": "7 juni 1930",
+      "party": "Lantmanna- och borgarepartiet",
+      "government": "Lindman II"
+    },
+    {
+      "prime_minister": "Carl Gustaf Ekman",
+      "took_office": "7 juni 1930",
+      "left_office": "6 augusti 1932",
+      "party": "Frisinnade folkpartiet",
+      "government": "Ekman II"
+    },
+    {
+      "prime_minister": "Felix Hamrin",
+      "took_office": "6 augusti 1932",
+      "left_office": "24 september 1932",
+      "party": "Frisinnade folkpartiet",
+      "government": "Hamrin"
+    },
+    {
+      "prime_minister": "Per Albin Hansson",
+      "took_office": "24 september 1932",
+      "left_office": "19 juni 1936",
+      "party": "Socialdemokraterna",
+      "government": "Hansson I"
+    },
+    {
+      "prime_minister": "Axel Pehrsson i Bramstorp",
+      "took_office": "19 juni 1936",
+      "left_office": "28 september 1936",
+      "party": "Bondeförbundet",
+      "government": "Pehrsson i Bramstorp"
+    },
+    {
+      "prime_minister": "Per Albin Hansson",
+      "took_office": "28 september 1936",
+      "left_office": "6 oktober 1946 †",
+      "party": "Socialdemokraterna",
+      "government": "Hansson II , Hansson III , Hansson IV"
+    },
+    {
+      "prime_minister": "Östen Undén (tf.)",
+      "took_office": "6 oktober 1946",
+      "left_office": "11 oktober 1946",
+      "party": "Socialdemokraterna",
+      "government": "Hansson IV"
+    },
+    {
+      "prime_minister": "Tage Erlander",
+      "took_office": "11 oktober 1946",
+      "left_office": "14 oktober 1969",
+      "party": "Socialdemokraterna",
+      "government": "Erlander I , Erlander II , Erlander III"
+    },
+    {
+      "prime_minister": "Olof Palme",
+      "took_office": "14 oktober 1969",
+      "left_office": "8 oktober 1976",
+      "party": "Socialdemokraterna",
+      "government": "Palme I"
+    },
+    {
+      "prime_minister": "Thorbjörn Fälldin",
+      "took_office": "8 oktober 1976",
+      "left_office": "18 oktober 1978",
+      "party": "Centerpartiet",
+      "government": "Fälldin I"
+    },
+    {
+      "prime_minister": "Ola Ullsten",
+      "took_office": "18 oktober 1978",
+      "left_office": "12 oktober 1979",
+      "party": "Folkpartiet",
+      "government": "Ullsten"
+    },
+    {
+      "prime_minister": "Thorbjörn Fälldin",
+      "took_office": "12 oktober 1979",
+      "left_office": "8 oktober 1982",
+      "party": "Centerpartiet",
+      "government": "Fälldin II , Fälldin III"
+    },
+    {
+      "prime_minister": "Olof Palme",
+      "took_office": "8 oktober 1982",
+      "left_office": "28 februari 1986 †",
+      "party": "Socialdemokraterna",
+      "government": "Palme II"
+    },
+    {
+      "prime_minister": "Ingvar Carlsson",
+      "took_office": "1 mars 1986",
+      "left_office": "4 oktober 1991",
+      "party": "Socialdemokraterna",
+      "government": "Carlsson I , Carlsson II"
+    },
+    {
+      "prime_minister": "Carl Bildt",
+      "took_office": "4 oktober 1991",
+      "left_office": "7 oktober 1994",
+      "party": "Moderaterna",
+      "government": "C. Bildt"
+    },
+    {
+      "prime_minister": "Ingvar Carlsson",
+      "took_office": "7 oktober 1994",
+      "left_office": "22 mars 1996",
+      "party": "Socialdemokraterna",
+      "government": "Carlsson III"
+    },
+    {
+      "prime_minister": "Göran Persson",
+      "took_office": "22 mars 1996",
+      "left_office": "6 oktober 2006",
+      "party": "Socialdemokraterna",
+      "government": "Persson"
+    },
+    {
+      "prime_minister": "Fredrik Reinfeldt",
+      "took_office": "6 oktober 2006",
+      "left_office": "3 oktober 2014",
+      "party": "Moderaterna",
+      "government": "Reinfeldt"
+    },
+    {
+      "prime_minister": "Stefan Löfven",
+      "took_office": "3 oktober 2014",
+      "left_office": "30 november 2021",
+      "party": "Socialdemokraterna",
+      "government": "Löfven I , Löfven II , Löfven III"
+    },
+    {
+      "prime_minister": "Magdalena Andersson",
+      "took_office": "30 november 2021",
+      "left_office": "18 oktober 2022",
+      "party": "Socialdemokraterna",
+      "government": "Andersson"
+    },
+    {
+      "prime_minister": "Ulf Kristersson",
+      "took_office": "18 oktober 2022",
+      "left_office": "nuvarande",
+      "party": "Moderaterna",
+      "government": "Kristersson"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges statsministrar - Free Download",
+    "description": "Sveriges statsministrar sedan 1876: tillträde, avgång, parti och regering. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges statsministrar | ListBase",
+    "seo_description": "Download Sveriges statsministrar — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_statsministrar"
+    ]
+  }
+}
