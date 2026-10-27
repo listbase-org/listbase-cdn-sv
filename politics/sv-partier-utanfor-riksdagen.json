@@ -1,0 +1,264 @@
+{
+  "id": "sv-partier-utanfor-riksdagen",
+  "name": "Svenska politiska partier utanför riksdagen",
+  "title": "Svenska politiska partier utanför riksdagen",
+  "description": "Mindre svenska politiska partier utanför riksdagen: förkortning, grundat, partiledare, ideologi och antal röster i riksdagsvalet 2022.",
+  "category": "politics",
+  "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_politiska_partier",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_politiska_partier",
+  "updated": "2026-10",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "abbr",
+      "label": "Abbr",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "leader",
+      "label": "Leader",
+      "type": "string"
+    },
+    {
+      "key": "ideology",
+      "label": "Ideology",
+      "type": "string"
+    },
+    {
+      "key": "votes_2022",
+      "label": "Votes 2022",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "party": "Partiet Nyans",
+      "abbr": "PNy",
+      "founded": 2019,
+      "leader": "Mikail Yüksel",
+      "ideology": "Identitetspolitik",
+      "votes_2022": 28352
+    },
+    {
+      "party": "Alternativ för Sverige",
+      "abbr": "AfS",
+      "founded": 2018,
+      "leader": "Gustav Kasselstrand",
+      "ideology": "Nationalism Högerpopulism",
+      "votes_2022": 16646
+    },
+    {
+      "party": "Medborgerlig samling",
+      "abbr": "MED",
+      "founded": 2014,
+      "leader": "Daniel Sonesson",
+      "ideology": "Liberalkonservatism",
+      "votes_2022": 12882
+    },
+    {
+      "party": "Piratpartiet",
+      "abbr": "PP",
+      "founded": 2006,
+      "leader": "Mikael Enmalm",
+      "ideology": "Piratideologi",
+      "votes_2022": 9135
+    },
+    {
+      "party": "MoD – Mänskliga rättigheter och Demokrati",
+      "abbr": "MoD",
+      "founded": 2021,
+      "leader": "Andreas Sidkvist",
+      "ideology": "Närdemokrati Mänskliga rättigheter",
+      "votes_2022": 6077
+    },
+    {
+      "party": "Kristna värdepartiet",
+      "abbr": "KrVP",
+      "founded": 2014,
+      "leader": "Mats Selander",
+      "ideology": "Värdekonservatism Abortmotstånd",
+      "votes_2022": 5983
+    },
+    {
+      "party": "Knapptryckarna",
+      "abbr": "Kn",
+      "founded": 2021,
+      "leader": "Ulf Bejerstrand",
+      "ideology": "Direktdemokrati",
+      "votes_2022": 5493
+    },
+    {
+      "party": "Landsbygdspartiet oberoende",
+      "abbr": "LPo",
+      "founded": 2010,
+      "leader": "Benneth Thyr",
+      "ideology": "Decentralisering Nordisk agrarianism",
+      "votes_2022": 2215
+    },
+    {
+      "party": "Direktdemokraterna",
+      "abbr": "DD",
+      "founded": 2013,
+      "leader": "ingen",
+      "ideology": "Direktdemokrati",
+      "votes_2022": 1755
+    },
+    {
+      "party": "Klimatalliansen",
+      "abbr": "KA",
+      "founded": 2021,
+      "leader": "Gudrun Schyman",
+      "ideology": "Klimatpolitik",
+      "votes_2022": 1702
+    },
+    {
+      "party": "Enhet",
+      "abbr": "ENH",
+      "founded": 1990,
+      "leader": "Vide Geiger Gunilla Wigertz",
+      "ideology": "Holism Pacifism",
+      "votes_2022": 1234
+    },
+    {
+      "party": "Nordiska motståndsrörelsen",
+      "abbr": "NMR",
+      "founded": 1997,
+      "leader": "Fredrik Vejdeland",
+      "ideology": "Nynazism Nationalsocialism",
+      "votes_2022": 847
+    },
+    {
+      "party": "Partiet Vändpunkt",
+      "abbr": "PV",
+      "founded": 2019,
+      "leader": "Gunnar Brundin Paula Dahlberg",
+      "ideology": "Ekologism",
+      "votes_2022": 419
+    },
+    {
+      "party": "Klassiskt liberala partiet",
+      "abbr": "KLP",
+      "founded": 2004,
+      "leader": "Magnus Jönsson",
+      "ideology": "Klassisk liberalism Libertarianism",
+      "votes_2022": 344
+    },
+    {
+      "party": "Skånepartiet",
+      "abbr": "SKÅ",
+      "founded": 1979,
+      "leader": "Carl P. Herslow",
+      "ideology": "Separatism",
+      "votes_2022": 206
+    },
+    {
+      "party": "Trygghetspartiet",
+      "abbr": "TRP",
+      "founded": 2016,
+      "leader": "Erling Hansen",
+      "ideology": "Pensionärsparti",
+      "votes_2022": 66
+    },
+    {
+      "party": "Ambition Sverige",
+      "abbr": "–",
+      "founded": 2025,
+      "leader": "Elsa Widding",
+      "ideology": "Högerpopulism",
+      "votes_2022": ""
+    },
+    {
+      "party": "Djurens parti",
+      "abbr": "DjuP",
+      "founded": 2014,
+      "leader": "Simon Knutsson",
+      "ideology": "Djurrätt",
+      "votes_2022": ""
+    },
+    {
+      "party": "Enad Röst",
+      "abbr": "ER",
+      "founded": 2026,
+      "leader": "kollektiv",
+      "ideology": "Socialism Feminism",
+      "votes_2022": ""
+    },
+    {
+      "party": "Framtidens Vänster",
+      "abbr": "FV",
+      "founded": 2025,
+      "leader": "Daniel Riazat Lorena Delgado Varas",
+      "ideology": "Socialism",
+      "votes_2022": ""
+    },
+    {
+      "party": "Kommunistiska partiet",
+      "abbr": "K",
+      "founded": 1970,
+      "leader": "Povel Johansson",
+      "ideology": "Kommunism Marxism-leninism",
+      "votes_2022": ""
+    },
+    {
+      "party": "Sjöbopartiet",
+      "abbr": "SJP",
+      "founded": 1991,
+      "leader": "Johan Söderlin",
+      "ideology": "Högerpopulism Nationalkonservatism",
+      "votes_2022": ""
+    },
+    {
+      "party": "Socialistiskt Alternativ",
+      "abbr": "SAV",
+      "founded": 1973,
+      "leader": "kollektiv",
+      "ideology": "Socialism Marxism",
+      "votes_2022": ""
+    },
+    {
+      "party": "Solidaritetspartiet (ej aktivt)",
+      "abbr": "SPI",
+      "founded": 2021,
+      "leader": "Göran Dandelo",
+      "ideology": "Pensionärsparti",
+      "votes_2022": ""
+    },
+    {
+      "party": "Vägvalet (nedlagt)",
+      "abbr": "VägV",
+      "founded": 2010,
+      "leader": "Claes Westberg",
+      "ideology": "Enfrågeparti",
+      "votes_2022": ""
+    },
+    {
+      "party": "Örebropartiet",
+      "abbr": "ÖrP",
+      "founded": 2014,
+      "leader": "Markus Allard",
+      "ideology": "Populism Lokalism",
+      "votes_2022": ""
+    }
+  ],
+  "meta": {
+    "title": "Svenska politiska partier utanför riksdagen - Free Download",
+    "description": "Mindre svenska politiska partier utanför riksdagen: förkortning, grundat, partiledare, ideologi och antal röster i riksdagsvalet 2022. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska politiska partier utanför riksdagen | ListBase",
+    "seo_description": "Download Svenska politiska partier utanför riksdagen — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_politiska_partier"
+    ]
+  }
+}

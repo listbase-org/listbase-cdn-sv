@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:48.535Z",
-  "total_datasets": 468,
-  "total_records": 2262973,
+  "generated": "2026-10-27T02:32:50.974Z",
+  "total_datasets": 469,
+  "total_records": 2262999,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 21
+      "dataset_count": 22
     },
     {
       "id": "reference",
@@ -4585,6 +4585,33 @@
         "xlsx": {
           "name": "sv-ny-demokrati-riksdagsledamoter_SV.xlsx",
           "size": 8940
+        }
+      }
+    },
+    {
+      "id": "sv-partier-utanfor-riksdagen",
+      "name": "Svenska politiska partier utanför riksdagen",
+      "category": "politics",
+      "record_count": 26,
+      "columns": [
+        "party",
+        "abbr",
+        "founded",
+        "leader",
+        "ideology",
+        "votes_2022"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_politiska_partier",
+      "updated": "2026-10",
+      "size": 6967,
+      "files": {
+        "csv": {
+          "name": "sv-partier-utanfor-riksdagen_SV.csv",
+          "size": 2171
+        },
+        "xlsx": {
+          "name": "sv-partier-utanfor-riksdagen_SV.xlsx",
+          "size": 8491
         }
       }
     },
