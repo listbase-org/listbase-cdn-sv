@@ -1,0 +1,72 @@
+{
+  "id": "sv-storsta-skogsagare",
+  "name": "Sveriges största skogsägare",
+  "title": "Sveriges största skogsägare",
+  "description": "De största ägarna av produktiv skogsmark i Sverige (hektar).",
+  "category": "agriculture",
+  "source": "https://sv.wikipedia.org/wiki/Skogsn%C3%A4ringen_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Skogsn%C3%A4ringen_i_Sverige",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "productive_forest_ha",
+      "label": "Productive Forest Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "owner": "Sveaskog AB",
+      "productive_forest_ha": 3100000
+    },
+    {
+      "owner": "SCA AB",
+      "productive_forest_ha": 2000000
+    },
+    {
+      "owner": "Bergvik skog AB",
+      "productive_forest_ha": 1900000
+    },
+    {
+      "owner": "Holmen Skog AB",
+      "productive_forest_ha": 1033000
+    },
+    {
+      "owner": "Statens fastighetsverk",
+      "productive_forest_ha": 750000
+    },
+    {
+      "owner": "Svenska kyrkan (stiften)",
+      "productive_forest_ha": 390000
+    },
+    {
+      "owner": "Fortifikationsverket",
+      "productive_forest_ha": 78000
+    },
+    {
+      "owner": "Persson Invest Skog AB",
+      "productive_forest_ha": 76000
+    },
+    {
+      "owner": "Boxholms skogar AB",
+      "productive_forest_ha": 32000
+    }
+  ],
+  "meta": {
+    "title": "Sveriges största skogsägare - Free Download",
+    "description": "De största ägarna av produktiv skogsmark i Sverige (hektar). Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges största skogsägare | ListBase",
+    "seo_description": "Download Sveriges största skogsägare — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Skogsn%C3%A4ringen_i_Sverige"
+    ]
+  }
+}

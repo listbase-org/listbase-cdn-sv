@@ -1,12 +1,12 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:58.199Z",
-  "total_datasets": 472,
-  "total_records": 2263061,
+  "generated": "2026-10-27T02:33:00.644Z",
+  "total_datasets": 473,
+  "total_records": 2263070,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -140,6 +140,29 @@
         "xlsx": {
           "name": "sv-renskotsel-statistik_SV.xlsx",
           "size": 6956
+        }
+      }
+    },
+    {
+      "id": "sv-storsta-skogsagare",
+      "name": "Sveriges största skogsägare",
+      "category": "agriculture",
+      "record_count": 9,
+      "columns": [
+        "owner",
+        "productive_forest_ha"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Skogsn%C3%A4ringen_i_Sverige",
+      "updated": "2026-10",
+      "size": 2056,
+      "files": {
+        "csv": {
+          "name": "sv-storsta-skogsagare_SV.csv",
+          "size": 294
+        },
+        "xlsx": {
+          "name": "sv-storsta-skogsagare_SV.xlsx",
+          "size": 6909
         }
       }
     },
