@@ -1,0 +1,166 @@
+{
+  "id": "sv-storsta-livsmedelsforetag",
+  "name": "Sveriges största livsmedelsföretag",
+  "title": "Sveriges största livsmedelsföretag",
+  "description": "De största företagen i svensk livsmedelsindustri med antal anställda och omsättning (tusen kr).",
+  "category": "food",
+  "source": "https://sv.wikipedia.org/wiki/Svensk_livsmedelsindustri",
+  "source_url": "https://sv.wikipedia.org/wiki/Svensk_livsmedelsindustri",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "employees",
+      "label": "Employees",
+      "type": "number"
+    },
+    {
+      "key": "revenue_1000_sek",
+      "label": "Revenue 1000 Sek",
+      "type": "number"
+    },
+    {
+      "key": "rank_by_revenue",
+      "label": "Rank By Revenue",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "company": "AAK AB",
+      "employees": 4013,
+      "revenue_1000_sek": 35452000,
+      "rank_by_revenue": 1
+    },
+    {
+      "company": "Scandi Standard AB",
+      "employees": 3215,
+      "revenue_1000_sek": 10101000,
+      "rank_by_revenue": 3
+    },
+    {
+      "company": "Arla Foods AB",
+      "employees": 3075,
+      "revenue_1000_sek": 17735265,
+      "rank_by_revenue": 2
+    },
+    {
+      "company": "Cloetta AB",
+      "employees": 2599,
+      "revenue_1000_sek": 6046000,
+      "rank_by_revenue": 6
+    },
+    {
+      "company": "HKScan Sweden AB",
+      "employees": 1731,
+      "revenue_1000_sek": 7456394,
+      "rank_by_revenue": 4
+    },
+    {
+      "company": "Pågengruppen AB",
+      "employees": 1468,
+      "revenue_1000_sek": 3983468,
+      "rank_by_revenue": 8
+    },
+    {
+      "company": "Orkla Foods Sverige AB",
+      "employees": 1403,
+      "revenue_1000_sek": 5774135,
+      "rank_by_revenue": 7
+    },
+    {
+      "company": "Gunnar Dafgård AB",
+      "employees": 1175,
+      "revenue_1000_sek": 3039099,
+      "rank_by_revenue": 13
+    },
+    {
+      "company": "KLS Ugglarps AB",
+      "employees": 1039,
+      "revenue_1000_sek": 6509481,
+      "rank_by_revenue": 5
+    },
+    {
+      "company": "Atria Sverige AB",
+      "employees": 991,
+      "revenue_1000_sek": 3051534,
+      "rank_by_revenue": 12
+    },
+    {
+      "company": "Blentagruppen AB",
+      "employees": 957,
+      "revenue_1000_sek": 2520073,
+      "rank_by_revenue": 16
+    },
+    {
+      "company": "Skånemejerier AB",
+      "employees": 722,
+      "revenue_1000_sek": 4342405,
+      "rank_by_revenue": 9
+    },
+    {
+      "company": "Fazer Bageri AB",
+      "employees": 680,
+      "revenue_1000_sek": 1123106,
+      "rank_by_revenue": 30
+    },
+    {
+      "company": "Orkla Confectionery & Snacks Sverige AB",
+      "employees": 506,
+      "revenue_1000_sek": 1842062,
+      "rank_by_revenue": 18
+    },
+    {
+      "company": "Santa Maria AB",
+      "employees": 506,
+      "revenue_1000_sek": 3103994,
+      "rank_by_revenue": 11
+    },
+    {
+      "company": "Frigoscandia AB",
+      "employees": 474,
+      "revenue_1000_sek": 1843026,
+      "rank_by_revenue": 19
+    },
+    {
+      "company": "Nestlé Sverige AB",
+      "employees": 440,
+      "revenue_1000_sek": 3717820,
+      "rank_by_revenue": 10
+    },
+    {
+      "company": "Barilla Sverige AB",
+      "employees": 423,
+      "revenue_1000_sek": 1608825,
+      "rank_by_revenue": 22
+    },
+    {
+      "company": "Fazer Sweden AB",
+      "employees": 317,
+      "revenue_1000_sek": 1383535,
+      "rank_by_revenue": 28
+    },
+    {
+      "company": "Nordic Sugar AB",
+      "employees": 315,
+      "revenue_1000_sek": 2317435,
+      "rank_by_revenue": 17
+    }
+  ],
+  "meta": {
+    "title": "Sveriges största livsmedelsföretag - Free Download",
+    "description": "De största företagen i svensk livsmedelsindustri med antal anställda och omsättning (tusen kr). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges största livsmedelsföretag | ListBase",
+    "seo_description": "Download Sveriges största livsmedelsföretag — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Svensk_livsmedelsindustri"
+    ]
+  }
+}
