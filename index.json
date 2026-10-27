@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:19.966Z",
-  "total_datasets": 481,
-  "total_records": 2263579,
+  "generated": "2026-10-27T02:33:22.457Z",
+  "total_datasets": 482,
+  "total_records": 2263645,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -4365,6 +4365,37 @@
         "xlsx": {
           "name": "sv-melodifestivalen-flest-deltaganden_SV.xlsx",
           "size": 8312
+        }
+      }
+    },
+    {
+      "id": "sv-sverige-i-eurovision",
+      "name": "Sveriges bidrag i Eurovision Song Contest",
+      "category": "music",
+      "record_count": 66,
+      "columns": [
+        "year",
+        "artist",
+        "song",
+        "lyrics_music",
+        "conductor",
+        "language",
+        "final_place",
+        "final_points",
+        "semi_place",
+        "semi_points"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sverige_i_Eurovision_Song_Contest",
+      "updated": "2026-10",
+      "size": 24186,
+      "files": {
+        "csv": {
+          "name": "sv-sverige-i-eurovision_SV.csv",
+          "size": 8787
+        },
+        "xlsx": {
+          "name": "sv-sverige-i-eurovision_SV.xlsx",
+          "size": 12440
         }
       }
     },
