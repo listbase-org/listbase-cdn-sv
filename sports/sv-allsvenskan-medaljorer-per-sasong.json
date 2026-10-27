@@ -1,0 +1,864 @@
+{
+  "id": "sv-allsvenskan-medaljorer-per-sasong",
+  "name": "Allsvenskan — medaljörer per säsong",
+  "title": "Allsvenskan — medaljörer per säsong",
+  "description": "Klubbarna som tog guld, silver och brons i Allsvenskan varje säsong sedan 1924/25.",
+  "category": "sports",
+  "source": "https://sv.wikipedia.org/wiki/Allsvenskan_i_fotboll",
+  "source_url": "https://sv.wikipedia.org/wiki/Allsvenskan_i_fotboll",
+  "updated": "2026-10",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "string"
+    },
+    {
+      "key": "gold",
+      "label": "Gold",
+      "type": "string"
+    },
+    {
+      "key": "large_silver",
+      "label": "Large Silver",
+      "type": "string"
+    },
+    {
+      "key": "small_silver",
+      "label": "Small Silver",
+      "type": "string"
+    },
+    {
+      "key": "bronze",
+      "label": "Bronze",
+      "type": "string"
+    },
+    {
+      "key": "small_bronze",
+      "label": "Small Bronze",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "1924/25",
+      "gold": "Gais",
+      "large_silver": "IFK Göteborg",
+      "small_silver": "Örgryte IS",
+      "bronze": "Hälsingborgs IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1925/26",
+      "gold": "Örgryte IS",
+      "large_silver": "Gais",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Hälsingborgs IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1926/27",
+      "gold": "Gais",
+      "large_silver": "IFK Göteborg",
+      "small_silver": "Hälsingborgs IF",
+      "bronze": "Örgryte IS",
+      "small_bronze": ""
+    },
+    {
+      "season": "1927/28",
+      "gold": "Örgryte IS",
+      "large_silver": "Hälsingborgs IF",
+      "small_silver": "Gais",
+      "bronze": "IFK Göteborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "1928/29",
+      "gold": "Hälsingborgs IF",
+      "large_silver": "Örgryte IS",
+      "small_silver": "IFK Göteborg",
+      "bronze": "IK Sleipner",
+      "small_bronze": ""
+    },
+    {
+      "season": "1929/30",
+      "gold": "Hälsingborgs IF",
+      "large_silver": "IFK Göteborg",
+      "small_silver": "IK Sleipner",
+      "bronze": "Gais",
+      "small_bronze": ""
+    },
+    {
+      "season": "1930/31",
+      "gold": "Gais",
+      "large_silver": "AIK",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Hälsingborgs IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1931/32",
+      "gold": "AIK",
+      "large_silver": "Örgryte IS",
+      "small_silver": "Gais",
+      "bronze": "IFK Göteborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "1932/33",
+      "gold": "Hälsingborgs IF",
+      "large_silver": "Gais",
+      "small_silver": "IFK Göteborg",
+      "bronze": "AIK",
+      "small_bronze": ""
+    },
+    {
+      "season": "1933/34",
+      "gold": "Hälsingborgs IF",
+      "large_silver": "Gais",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Halmstads BK",
+      "small_bronze": ""
+    },
+    {
+      "season": "1934/35",
+      "gold": "IFK Göteborg",
+      "large_silver": "AIK",
+      "small_silver": "IF Elfsborg",
+      "bronze": "Sandvikens IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1935/36",
+      "gold": "IF Elfsborg",
+      "large_silver": "AIK",
+      "small_silver": "Sandvikens IF",
+      "bronze": "IFK Göteborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "1936/37",
+      "gold": "AIK",
+      "large_silver": "IK Sleipner",
+      "small_silver": "Örgryte IS",
+      "bronze": "Sandvikens IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1937/38",
+      "gold": "IK Sleipner",
+      "large_silver": "Hälsingborgs IF",
+      "small_silver": "Landskrona BoIS",
+      "bronze": "IF Elfsborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "1938/39",
+      "gold": "IF Elfsborg",
+      "large_silver": "AIK",
+      "small_silver": "Malmö FF",
+      "bronze": "Landskrona BoIS",
+      "small_bronze": ""
+    },
+    {
+      "season": "1939/40",
+      "gold": "IF Elfsborg",
+      "large_silver": "IFK Göteborg",
+      "small_silver": "Hälsingborgs IF",
+      "bronze": "IK Brage",
+      "small_bronze": ""
+    },
+    {
+      "season": "1940/41",
+      "gold": "Hälsingborgs IF",
+      "large_silver": "Degerfors IF",
+      "small_silver": "AIK",
+      "bronze": "IF Elfsborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "1941/42",
+      "gold": "IFK Göteborg",
+      "large_silver": "Gais",
+      "small_silver": "IFK Norrköping",
+      "bronze": "Hälsingborgs IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1942/43",
+      "gold": "IFK Norrköping",
+      "large_silver": "IF Elfsborg",
+      "small_silver": "Hälsingborgs IF",
+      "bronze": "Degerfors IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1943/44",
+      "gold": "Malmö FF",
+      "large_silver": "IF Elfsborg",
+      "small_silver": "AIK",
+      "bronze": "IFK Norrköping",
+      "small_bronze": ""
+    },
+    {
+      "season": "1944/45",
+      "gold": "IFK Norrköping",
+      "large_silver": "IF Elfsborg",
+      "small_silver": "Malmö FF",
+      "bronze": "IFK Göteborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "1945/46",
+      "gold": "IFK Norrköping",
+      "large_silver": "Malmö FF",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Gais",
+      "small_bronze": ""
+    },
+    {
+      "season": "1946/47",
+      "gold": "IFK Norrköping",
+      "large_silver": "AIK",
+      "small_silver": "Malmö FF",
+      "bronze": "IF Elfsborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "1947/48",
+      "gold": "IFK Norrköping",
+      "large_silver": "Malmö FF",
+      "small_silver": "AIK",
+      "bronze": "Hälsingborgs IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1948/49",
+      "gold": "Malmö FF",
+      "large_silver": "Hälsingborgs IF",
+      "small_silver": "Gais",
+      "bronze": "Degerfors IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1949/50",
+      "gold": "Malmö FF",
+      "large_silver": "Jönköpings Södra",
+      "small_silver": "Hälsingborgs IF",
+      "bronze": "AIK",
+      "small_bronze": ""
+    },
+    {
+      "season": "1950/51",
+      "gold": "Malmö FF",
+      "large_silver": "Råå IF",
+      "small_silver": "Degerfors IF",
+      "bronze": "Hälsingborgs IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1951/52",
+      "gold": "IFK Norrköping",
+      "large_silver": "Malmö FF",
+      "small_silver": "Hälsingborgs IF",
+      "bronze": "IFK Göteborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "1952/53",
+      "gold": "Malmö FF",
+      "large_silver": "IFK Norrköping",
+      "small_silver": "Djurgårdens IF",
+      "bronze": "Hälsingborgs IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1953/54",
+      "gold": "Gais",
+      "large_silver": "Hälsingborgs IF",
+      "small_silver": "Degerfors IF",
+      "bronze": "AIK",
+      "small_bronze": ""
+    },
+    {
+      "season": "1954/55",
+      "gold": "Djurgårdens IF",
+      "large_silver": "Halmstads BK",
+      "small_silver": "AIK",
+      "bronze": "IFK Norrköping",
+      "small_bronze": ""
+    },
+    {
+      "season": "1955/56",
+      "gold": "IFK Norrköping",
+      "large_silver": "Malmö FF",
+      "small_silver": "Djurgårdens IF",
+      "bronze": "Sandvikens IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1956/57",
+      "gold": "IFK Norrköping",
+      "large_silver": "Malmö FF",
+      "small_silver": "Hälsingborgs IF",
+      "bronze": "Gais",
+      "small_bronze": ""
+    },
+    {
+      "season": "1957/58",
+      "gold": "IFK Göteborg",
+      "large_silver": "IFK Norrköping",
+      "small_silver": "Djurgårdens IF",
+      "bronze": "Malmö FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1959",
+      "gold": "Djurgårdens IF",
+      "large_silver": "IFK Norrköping",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Örgryte IS",
+      "small_bronze": ""
+    },
+    {
+      "season": "1960",
+      "gold": "IFK Norrköping",
+      "large_silver": "IFK Malmö",
+      "small_silver": "Örgryte IS",
+      "bronze": "Malmö FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1961",
+      "gold": "IF Elfsborg",
+      "large_silver": "IFK Norrköping",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Örebro SK",
+      "small_bronze": ""
+    },
+    {
+      "season": "1962",
+      "gold": "IFK Norrköping",
+      "large_silver": "Djurgårdens IF",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Örgryte IS",
+      "small_bronze": ""
+    },
+    {
+      "season": "1963",
+      "gold": "IFK Norrköping",
+      "large_silver": "Degerfors IF",
+      "small_silver": "AIK",
+      "bronze": "Malmö FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1964",
+      "gold": "Djurgårdens IF",
+      "large_silver": "Malmö FF",
+      "small_silver": "Örgryte IS",
+      "bronze": "IFK Norrköping",
+      "small_bronze": ""
+    },
+    {
+      "season": "1965",
+      "gold": "Malmö FF",
+      "large_silver": "IF Elfsborg",
+      "small_silver": "AIK",
+      "bronze": "IFK Norrköping",
+      "small_bronze": ""
+    },
+    {
+      "season": "1966",
+      "gold": "Djurgårdens IF",
+      "large_silver": "IFK Norrköping",
+      "small_silver": "IF Elfsborg",
+      "bronze": "IFK Göteborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "1967",
+      "gold": "Malmö FF",
+      "large_silver": "Djurgårdens IF",
+      "small_silver": "Hälsingborgs IF",
+      "bronze": "Örebro SK",
+      "small_bronze": ""
+    },
+    {
+      "season": "1968",
+      "gold": "Östers IF",
+      "large_silver": "Malmö FF",
+      "small_silver": "IFK Norrköping",
+      "bronze": "Djurgårdens IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1969",
+      "gold": "IFK Göteborg",
+      "large_silver": "Malmö FF",
+      "small_silver": "Djurgårdens IF",
+      "bronze": "Åtvidabergs FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1970",
+      "gold": "Malmö FF",
+      "large_silver": "Åtvidabergs FF",
+      "small_silver": "Djurgårdens IF",
+      "bronze": "IF Elfsborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "1971",
+      "gold": "Malmö FF",
+      "large_silver": "Åtvidabergs FF",
+      "small_silver": "IFK Norrköping",
+      "bronze": "Djurgårdens IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1972",
+      "gold": "Åtvidabergs FF",
+      "large_silver": "AIK",
+      "small_silver": "Östers IF",
+      "bronze": "IFK Norrköping",
+      "small_bronze": ""
+    },
+    {
+      "season": "1973",
+      "gold": "Åtvidabergs FF",
+      "large_silver": "Östers IF",
+      "small_silver": "Djurgårdens IF",
+      "bronze": "Malmö FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1974",
+      "gold": "Malmö FF",
+      "large_silver": "AIK",
+      "small_silver": "Östers IF",
+      "bronze": "Gais",
+      "small_bronze": ""
+    },
+    {
+      "season": "1975",
+      "gold": "Malmö FF",
+      "large_silver": "Östers IF",
+      "small_silver": "Djurgårdens IF",
+      "bronze": "Landskrona BoIS",
+      "small_bronze": ""
+    },
+    {
+      "season": "1976",
+      "gold": "Halmstads BK",
+      "large_silver": "Malmö FF",
+      "small_silver": "Östers IF",
+      "bronze": "Landskrona BoIS",
+      "small_bronze": ""
+    },
+    {
+      "season": "1977",
+      "gold": "Malmö FF",
+      "large_silver": "IF Elfsborg",
+      "small_silver": "Kalmar FF",
+      "bronze": "IFK Norrköping",
+      "small_bronze": ""
+    },
+    {
+      "season": "1978",
+      "gold": "Östers IF",
+      "large_silver": "Malmö FF",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Kalmar FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1979",
+      "gold": "Halmstads BK",
+      "large_silver": "IFK Göteborg",
+      "small_silver": "IF Elfsborg",
+      "bronze": "Malmö FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1980",
+      "gold": "Östers IF",
+      "large_silver": "Malmö FF",
+      "small_silver": "IFK Göteborg",
+      "bronze": "IK Brage",
+      "small_bronze": ""
+    },
+    {
+      "season": "1981",
+      "gold": "Östers IF",
+      "large_silver": "IFK Göteborg",
+      "small_silver": "IFK Norrköping",
+      "bronze": "IK Brage",
+      "small_bronze": ""
+    },
+    {
+      "season": "1982",
+      "gold": "IFK Göteborg",
+      "large_silver": "",
+      "small_silver": "Hammarby IF",
+      "bronze": "IF Elfsborg",
+      "small_bronze": "Malmö FF"
+    },
+    {
+      "season": "1983",
+      "gold": "IFK Göteborg",
+      "large_silver": "AIK",
+      "small_silver": "Malmö FF",
+      "bronze": "",
+      "small_bronze": "Östers IF"
+    },
+    {
+      "season": "1984",
+      "gold": "IFK Göteborg",
+      "large_silver": "",
+      "small_silver": "AIK",
+      "bronze": "Malmö FF",
+      "small_bronze": "Hammarby IF"
+    },
+    {
+      "season": "1985",
+      "gold": "Örgryte IS",
+      "large_silver": "Malmö FF",
+      "small_silver": "Kalmar FF",
+      "bronze": "",
+      "small_bronze": "IFK Göteborg"
+    },
+    {
+      "season": "1986",
+      "gold": "Malmö FF",
+      "large_silver": "",
+      "small_silver": "IFK Göteborg",
+      "bronze": "AIK",
+      "small_bronze": "IFK Norrköping"
+    },
+    {
+      "season": "1987",
+      "gold": "IFK Göteborg",
+      "large_silver": "Malmö FF",
+      "small_silver": "IFK Norrköping",
+      "bronze": "",
+      "small_bronze": "Östers IF"
+    },
+    {
+      "season": "1988",
+      "gold": "Malmö FF",
+      "large_silver": "",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Djurgårdens IF",
+      "small_bronze": "Örgryte IS"
+    },
+    {
+      "season": "1989",
+      "gold": "IFK Norrköping",
+      "large_silver": "Malmö FF",
+      "small_silver": "",
+      "bronze": "Gais",
+      "small_bronze": "Örebro SK"
+    },
+    {
+      "season": "1990",
+      "gold": "IFK Göteborg",
+      "large_silver": "",
+      "small_silver": "IFK Norrköping",
+      "bronze": "Örebro SK",
+      "small_bronze": "Östers IF"
+    },
+    {
+      "season": "1991",
+      "gold": "IFK Göteborg",
+      "large_silver": "IFK Norrköping",
+      "small_silver": "Örebro SK",
+      "bronze": "Malmö FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1992",
+      "gold": "AIK",
+      "large_silver": "IFK Norrköping",
+      "small_silver": "Östers IF",
+      "bronze": "Trelleborgs FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1993",
+      "gold": "IFK Göteborg",
+      "large_silver": "IFK Norrköping",
+      "small_silver": "AIK",
+      "bronze": "Trelleborgs FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1994",
+      "gold": "IFK Göteborg",
+      "large_silver": "Örebro SK",
+      "small_silver": "Malmö FF",
+      "bronze": "IFK Norrköping",
+      "small_bronze": ""
+    },
+    {
+      "season": "1995",
+      "gold": "IFK Göteborg",
+      "large_silver": "Helsingborgs IF",
+      "small_silver": "Halmstads BK",
+      "bronze": "Malmö FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "1996",
+      "gold": "IFK Göteborg",
+      "large_silver": "Malmö FF",
+      "small_silver": "Helsingborgs IF",
+      "bronze": "AIK",
+      "small_bronze": ""
+    },
+    {
+      "season": "1997",
+      "gold": "Halmstads BK",
+      "large_silver": "IFK Göteborg",
+      "small_silver": "Malmö FF",
+      "bronze": "Örebro SK",
+      "small_bronze": ""
+    },
+    {
+      "season": "1998",
+      "gold": "AIK",
+      "large_silver": "Helsingborgs IF",
+      "small_silver": "Hammarby IF",
+      "bronze": "Halmstads BK",
+      "small_bronze": ""
+    },
+    {
+      "season": "1999",
+      "gold": "Helsingborgs IF",
+      "large_silver": "AIK",
+      "small_silver": "Halmstads BK",
+      "bronze": "Örgryte IS",
+      "small_bronze": ""
+    },
+    {
+      "season": "2000",
+      "gold": "Halmstads BK",
+      "large_silver": "Helsingborgs IF",
+      "small_silver": "AIK",
+      "bronze": "IFK Göteborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "2001",
+      "gold": "Hammarby IF",
+      "large_silver": "Djurgårdens IF",
+      "small_silver": "AIK",
+      "bronze": "IFK Göteborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "2002",
+      "gold": "Djurgårdens IF",
+      "large_silver": "Malmö FF",
+      "small_silver": "Örgryte IS",
+      "bronze": "Helsingborgs IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2003",
+      "gold": "Djurgårdens IF",
+      "large_silver": "Hammarby IF",
+      "small_silver": "Malmö FF",
+      "bronze": "Örgryte IS",
+      "small_bronze": ""
+    },
+    {
+      "season": "2004",
+      "gold": "Malmö FF",
+      "large_silver": "Halmstads BK",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Djurgårdens IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2005",
+      "gold": "Djurgårdens IF",
+      "large_silver": "IFK Göteborg",
+      "small_silver": "Kalmar FF",
+      "bronze": "Hammarby IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2006",
+      "gold": "IF Elfsborg",
+      "large_silver": "AIK",
+      "small_silver": "Hammarby IF",
+      "bronze": "Helsingborgs IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2007",
+      "gold": "IFK Göteborg",
+      "large_silver": "Kalmar FF",
+      "small_silver": "Djurgårdens IF",
+      "bronze": "IF Elfsborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "2008",
+      "gold": "Kalmar FF",
+      "large_silver": "IF Elfsborg",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Helsingborgs IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2009",
+      "gold": "AIK",
+      "large_silver": "IFK Göteborg",
+      "small_silver": "IF Elfsborg",
+      "bronze": "Kalmar FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2010",
+      "gold": "Malmö FF",
+      "large_silver": "Helsingborgs IF",
+      "small_silver": "Örebro SK",
+      "bronze": "IF Elfsborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "2011",
+      "gold": "Helsingborgs IF",
+      "large_silver": "AIK",
+      "small_silver": "IF Elfsborg",
+      "bronze": "Malmö FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2012",
+      "gold": "IF Elfsborg",
+      "large_silver": "BK Häcken",
+      "small_silver": "Malmö FF",
+      "bronze": "AIK",
+      "small_bronze": ""
+    },
+    {
+      "season": "2013",
+      "gold": "Malmö FF",
+      "large_silver": "AIK",
+      "small_silver": "IFK Göteborg",
+      "bronze": "Kalmar FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2014",
+      "gold": "Malmö FF",
+      "large_silver": "IFK Göteborg",
+      "small_silver": "AIK",
+      "bronze": "IF Elfsborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "2015",
+      "gold": "IFK Norrköping",
+      "large_silver": "IFK Göteborg",
+      "small_silver": "AIK",
+      "bronze": "IF Elfsborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "2016",
+      "gold": "Malmö FF",
+      "large_silver": "AIK",
+      "small_silver": "IFK Norrköping",
+      "bronze": "IFK Göteborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "2017",
+      "gold": "Malmö FF",
+      "large_silver": "AIK",
+      "small_silver": "Djurgårdens IF",
+      "bronze": "BK Häcken",
+      "small_bronze": ""
+    },
+    {
+      "season": "2018",
+      "gold": "AIK",
+      "large_silver": "IFK Norrköping",
+      "small_silver": "Malmö FF",
+      "bronze": "Hammarby IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2019",
+      "gold": "Djurgårdens IF",
+      "large_silver": "Malmö FF",
+      "small_silver": "Hammarby IF",
+      "bronze": "AIK",
+      "small_bronze": ""
+    },
+    {
+      "season": "2020",
+      "gold": "Malmö FF",
+      "large_silver": "IF Elfsborg",
+      "small_silver": "BK Häcken",
+      "bronze": "Djurgårdens IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2021",
+      "gold": "Malmö FF",
+      "large_silver": "AIK",
+      "small_silver": "Djurgårdens IF",
+      "bronze": "IF Elfsborg",
+      "small_bronze": ""
+    },
+    {
+      "season": "2022",
+      "gold": "BK Häcken",
+      "large_silver": "Djurgårdens IF",
+      "small_silver": "Hammarby IF",
+      "bronze": "Kalmar FF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2023",
+      "gold": "Malmö FF",
+      "large_silver": "IF Elfsborg",
+      "small_silver": "BK Häcken",
+      "bronze": "Djurgårdens IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2024",
+      "gold": "Malmö FF",
+      "large_silver": "Hammarby IF",
+      "small_silver": "AIK",
+      "bronze": "Djurgårdens IF",
+      "small_bronze": ""
+    },
+    {
+      "season": "2025",
+      "gold": "Mjällby AIF",
+      "large_silver": "Hammarby IF",
+      "small_silver": "Gais",
+      "bronze": "IFK Göteborg",
+      "small_bronze": ""
+    }
+  ],
+  "meta": {
+    "title": "Allsvenskan — medaljörer per säsong - Free Download",
+    "description": "Klubbarna som tog guld, silver och brons i Allsvenskan varje säsong sedan 1924/25. Contains 101 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Allsvenskan — medaljörer per säsong | ListBase",
+    "seo_description": "Download Allsvenskan — medaljörer per säsong — 101 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 101 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Allsvenskan_i_fotboll"
+    ]
+  }
+}
