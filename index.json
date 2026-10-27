@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:37.570Z",
-  "total_datasets": 488,
-  "total_records": 2264087,
+  "generated": "2026-10-27T02:33:39.865Z",
+  "total_datasets": 489,
+  "total_records": 2264099,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -11122,6 +11122,31 @@
         "xlsx": {
           "name": "sv-uppehallstillstand-efter-grund_SV.xlsx",
           "size": 7470
+        }
+      }
+    },
+    {
+      "id": "sv-utrikes-fodda-1950-1973",
+      "name": "Utrikes födda i Sverige 1950 och 1973 efter födelseland",
+      "category": "society",
+      "record_count": 12,
+      "columns": [
+        "country_of_birth",
+        "n_1950",
+        "n_1973",
+        "change_1950_1973"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring",
+      "updated": "2026-10",
+      "size": 3262,
+      "files": {
+        "csv": {
+          "name": "sv-utrikes-fodda-1950-1973_SV.csv",
+          "size": 463
+        },
+        "xlsx": {
+          "name": "sv-utrikes-fodda-1950-1973_SV.xlsx",
+          "size": 7073
         }
       }
     },

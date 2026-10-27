@@ -1,0 +1,118 @@
+{
+  "id": "sv-utrikes-fodda-1950-1973",
+  "name": "Utrikes födda i Sverige 1950 och 1973 efter födelseland",
+  "title": "Utrikes födda i Sverige 1950 och 1973 efter födelseland",
+  "description": "Antal utrikes födda personer i Sverige 1950 och 1973 efter födelseland, under arbetskraftsinvandringens period.",
+  "category": "society",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "country_of_birth",
+      "label": "Country Of Birth",
+      "type": "string"
+    },
+    {
+      "key": "n_1950",
+      "label": "N 1950",
+      "type": "number"
+    },
+    {
+      "key": "n_1973",
+      "label": "N 1973",
+      "type": "number"
+    },
+    {
+      "key": "change_1950_1973",
+      "label": "Change 1950 1973",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country_of_birth": "Finland",
+      "n_1950": 45000,
+      "n_1973": 236000,
+      "change_1950_1973": 191000
+    },
+    {
+      "country_of_birth": "Jugoslavien",
+      "n_1950": 0,
+      "n_1973": 34000,
+      "change_1950_1973": 34000
+    },
+    {
+      "country_of_birth": "Tyskland",
+      "n_1950": 22000,
+      "n_1973": 42000,
+      "change_1950_1973": 20000
+    },
+    {
+      "country_of_birth": "Danmark",
+      "n_1950": 23000,
+      "n_1973": 39000,
+      "change_1950_1973": 16000
+    },
+    {
+      "country_of_birth": "Norge",
+      "n_1950": 31000,
+      "n_1973": 44000,
+      "change_1950_1973": 13000
+    },
+    {
+      "country_of_birth": "Grekland",
+      "n_1950": 0,
+      "n_1973": 12000,
+      "change_1950_1973": 12000
+    },
+    {
+      "country_of_birth": "Ungern",
+      "n_1950": 2000,
+      "n_1973": 11000,
+      "change_1950_1973": 9000
+    },
+    {
+      "country_of_birth": "Österrike",
+      "n_1950": 3000,
+      "n_1973": 8000,
+      "change_1950_1973": 5000
+    },
+    {
+      "country_of_birth": "Italien",
+      "n_1950": 3000,
+      "n_1973": 8000,
+      "change_1950_1973": 5000
+    },
+    {
+      "country_of_birth": "Tjeckoslovakien",
+      "n_1950": 4000,
+      "n_1973": 8000,
+      "change_1950_1973": 4000
+    },
+    {
+      "country_of_birth": "Polen",
+      "n_1950": 8000,
+      "n_1973": 11000,
+      "change_1950_1973": 3000
+    },
+    {
+      "country_of_birth": "Storbritannien",
+      "n_1950": 2000,
+      "n_1973": 5000,
+      "change_1950_1973": 3000
+    }
+  ],
+  "meta": {
+    "title": "Utrikes födda i Sverige 1950 och 1973 efter födelseland - Free Download",
+    "description": "Antal utrikes födda personer i Sverige 1950 och 1973 efter födelseland, under arbetskraftsinvandringens period. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Utrikes födda i Sverige 1950 och 1973 efter födelseland | ListBase",
+    "seo_description": "Download Utrikes födda i Sverige 1950 och 1973 efter födelseland — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring"
+    ]
+  }
+}
