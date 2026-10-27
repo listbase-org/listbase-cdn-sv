@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:33.996Z",
-  "total_datasets": 462,
-  "total_records": 2262738,
+  "generated": "2026-10-27T02:32:36.339Z",
+  "total_datasets": 463,
+  "total_records": 2262800,
   "categories": [
     {
       "id": "culture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "environment",
@@ -489,6 +489,32 @@
         "xlsx": {
           "name": "sv-universitet_SV.xlsx",
           "size": 8690
+        }
+      }
+    },
+    {
+      "id": "sv-guldbaggegalor",
+      "name": "Guldbaggegalor",
+      "category": "entertainment",
+      "record_count": 62,
+      "columns": [
+        "gala",
+        "hosts",
+        "venue",
+        "date",
+        "broadcast"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Guldbaggen",
+      "updated": "2026-10",
+      "size": 12841,
+      "files": {
+        "csv": {
+          "name": "sv-guldbaggegalor_SV.csv",
+          "size": 5658
+        },
+        "xlsx": {
+          "name": "sv-guldbaggegalor_SV.xlsx",
+          "size": 9456
         }
       }
     },

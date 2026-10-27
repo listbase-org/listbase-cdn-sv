@@ -1,0 +1,485 @@
+{
+  "id": "sv-guldbaggegalor",
+  "name": "Guldbaggegalor",
+  "title": "Guldbaggegalor",
+  "description": "Alla Guldbaggegalor sedan 1964 med värdar, plats, datum och TV-sändning.",
+  "category": "entertainment",
+  "source": "https://sv.wikipedia.org/wiki/Guldbaggen",
+  "source_url": "https://sv.wikipedia.org/wiki/Guldbaggen",
+  "updated": "2026-10",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "gala",
+      "label": "Gala",
+      "type": "string"
+    },
+    {
+      "key": "hosts",
+      "label": "Hosts",
+      "type": "string"
+    },
+    {
+      "key": "venue",
+      "label": "Venue",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "broadcast",
+      "label": "Broadcast",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gala": "Guldbaggegalan 1964",
+      "hosts": "—",
+      "venue": "Grand Hôtel , Stockholm",
+      "date": "25 september 1964",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1965",
+      "hosts": "Olof Palme",
+      "venue": "Röda Kvarn och Stadshuset , Stockholm",
+      "date": "15 oktober 1965",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1966",
+      "hosts": "Krister Wickman",
+      "venue": "Spegeln och Operaterassen , Stockholm",
+      "date": "17 oktober 1966",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1967",
+      "hosts": "Harry Schein och Olof Palme",
+      "venue": "Spegeln och Operaterassen , Stockholm",
+      "date": "9 oktober 1967",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1968",
+      "hosts": "Harry Schein",
+      "venue": "Spegeln och Operaterassen , Stockholm",
+      "date": "21 oktober 1968",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1969",
+      "hosts": "Olof Palme",
+      "venue": "Operaterassen , Stockholm",
+      "date": "13 oktober 1969",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1970",
+      "hosts": "Bo Jonsson",
+      "venue": "Filmhuset , Stockholm",
+      "date": "26 oktober 1970",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1972",
+      "hosts": "Bo Jonsson och Gun Hyltén-Cavallius",
+      "venue": "Filmhuset , Stockholm",
+      "date": "23 oktober 1972",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1973",
+      "hosts": "Harry Schein",
+      "venue": "Grand Hôtel , Stockholm",
+      "date": "29 oktober 1973",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1974",
+      "hosts": "Harry Schein",
+      "venue": "Hasselbacken , Stockholm",
+      "date": "16 september 1974",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1975",
+      "hosts": "Harry Schein",
+      "venue": "Operaterassen , Stockholm",
+      "date": "13 oktober 1975",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1976",
+      "hosts": "Harry Schein",
+      "venue": "Operaterassen , Stockholm",
+      "date": "13 september 1976",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1977",
+      "hosts": "Harry Schein",
+      "venue": "Operaterassen , Stockholm",
+      "date": "5 september 1977",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1978",
+      "hosts": "Harry Schein",
+      "venue": "Operaterassen , Stockholm",
+      "date": "18 september 1978",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1979",
+      "hosts": "Per Ahlmark",
+      "venue": "Operaterassen , Stockholm",
+      "date": "24 september 1979",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1980",
+      "hosts": "Per Ahlmark",
+      "venue": "Grand Hôtel , Stockholm",
+      "date": "22 september 1980",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1981",
+      "hosts": "Lasse Åberg",
+      "venue": "Hamburger Börs , Stockholm",
+      "date": "30 oktober 1981",
+      "broadcast": "TV2"
+    },
+    {
+      "gala": "Guldbaggegalan 1982",
+      "hosts": "Lars Amble",
+      "venue": "Hamburger Börs , Stockholm",
+      "date": "10 oktober 1982",
+      "broadcast": "TV2"
+    },
+    {
+      "gala": "Guldbaggegalan 1983",
+      "hosts": "Lars Orup",
+      "venue": "Stadshuset , Stockholm",
+      "date": "31 oktober 1983",
+      "broadcast": "TV2"
+    },
+    {
+      "gala": "Guldbaggegalan 1985",
+      "hosts": "Bosse Parnevik",
+      "venue": "Stadshuset , Stockholm",
+      "date": "24 januari 1985",
+      "broadcast": "TV2"
+    },
+    {
+      "gala": "Guldbaggegalan 1986",
+      "hosts": "Sven Wollter",
+      "venue": "Chinateatern och Berns , Stockholm",
+      "date": "27 januari 1986",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1987",
+      "hosts": "Bibi Andersson och Jarl Kulle",
+      "venue": "Sergelteatern , Stockholm",
+      "date": "2 februari 1987",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1988",
+      "hosts": "Lars-Eric Brossner och Tomas von Brömssen",
+      "venue": "Magasin 113, Göteborg",
+      "date": "1 februari 1988",
+      "broadcast": "TV2"
+    },
+    {
+      "gala": "Guldbaggegalan 1989",
+      "hosts": "Max von Sydow , Tomas Bolme och Lena Nyman",
+      "venue": "Berns , Stockholm",
+      "date": "6 mars 1989",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1990",
+      "hosts": "Lis Nilheim och Per Eggers",
+      "venue": "Berns , Stockholm",
+      "date": "5 februari 1990",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1991",
+      "hosts": "Anders Eriksson och Jan Rippe (som \" Roy och Roger \")",
+      "venue": "Palladium , Stockholm",
+      "date": "11 februari 1991",
+      "broadcast": "—"
+    },
+    {
+      "gala": "Guldbaggegalan 1992",
+      "hosts": "Tomas Bolme och Kim Anderzon",
+      "venue": "Cirkus , Stockholm",
+      "date": "16 mars 1992",
+      "broadcast": "TV4"
+    },
+    {
+      "gala": "Guldbaggegalan 1993",
+      "hosts": "Lennart Swahn",
+      "venue": "Cirkus , Stockholm",
+      "date": "1 mars 1993",
+      "broadcast": "TV4"
+    },
+    {
+      "gala": "Guldbaggegalan 1994",
+      "hosts": "Lennart Swahn",
+      "venue": "Cirkus , Stockholm",
+      "date": "31 januari 1994",
+      "broadcast": "TV4"
+    },
+    {
+      "gala": "Guldbaggegalan 1995",
+      "hosts": "Lennart Swahn och Agneta Sjödin",
+      "venue": "Cirkus , Stockholm",
+      "date": "30 januari 1995",
+      "broadcast": "TV4"
+    },
+    {
+      "gala": "Guldbaggegalan 1996",
+      "hosts": "Björn Skifs",
+      "venue": "Stadshuset , Stockholm",
+      "date": "12 februari 1996",
+      "broadcast": "TV4"
+    },
+    {
+      "gala": "Guldbaggegalan 1997",
+      "hosts": "Björn Skifs",
+      "venue": "Stadshuset , Stockholm",
+      "date": "10 februari 1997",
+      "broadcast": "TV4"
+    },
+    {
+      "gala": "Guldbaggegalan 1998",
+      "hosts": "Marika Lagercrantz",
+      "venue": "Stadshuset , Stockholm",
+      "date": "9 februari 1998",
+      "broadcast": "TV4"
+    },
+    {
+      "gala": "Guldbaggegalan 1999",
+      "hosts": "Loa Falkman",
+      "venue": "Kungliga Operan , Stockholm",
+      "date": "8 februari 1999",
+      "broadcast": "TV4"
+    },
+    {
+      "gala": "Guldbaggegalan 2000",
+      "hosts": "Kattis Ahlström",
+      "venue": "Cirkus , Stockholm",
+      "date": "7 februari 2000",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2001",
+      "hosts": "Mark Levengood",
+      "venue": "Cirkus , Stockholm",
+      "date": "5 februari 2001",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2002",
+      "hosts": "Björn Kjellman",
+      "venue": "Göteborgsoperan , Göteborg",
+      "date": "28 januari 2002",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2003",
+      "hosts": "Björn Kjellman",
+      "venue": "Cirkus , Stockholm",
+      "date": "3 februari 2003",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2004",
+      "hosts": "Maria Lundqvist",
+      "venue": "Göteborgsoperan , Göteborg",
+      "date": "26 januari 2004",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2005",
+      "hosts": "Björn Kjellman",
+      "venue": "Chinateatern , Stockholm",
+      "date": "24 januari 2005",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2006",
+      "hosts": "Lena Endre",
+      "venue": "Göteborgsoperan , Göteborg",
+      "date": "30 januari 2006",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2007",
+      "hosts": "Sissela Kyle",
+      "venue": "Cirkus , Stockholm",
+      "date": "22 januari 2007",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2008",
+      "hosts": "Sissela Kyle",
+      "venue": "Cirkus , Stockholm",
+      "date": "21 januari 2008",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2009",
+      "hosts": "Johan Glans och Björn Gustafsson",
+      "venue": "Cirkus , Stockholm",
+      "date": "12 januari 2009",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2010",
+      "hosts": "Johan Glans",
+      "venue": "Cirkus , Stockholm",
+      "date": "25 januari 2010",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2011",
+      "hosts": "Petra Mede",
+      "venue": "Cirkus , Stockholm",
+      "date": "24 januari 2011",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2012",
+      "hosts": "Petra Mede",
+      "venue": "Cirkus , Stockholm",
+      "date": "23 januari 2012",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2013",
+      "hosts": "Babben Larsson",
+      "venue": "Cirkus , Stockholm",
+      "date": "21 januari 2013",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2014",
+      "hosts": "Sissela Kyle",
+      "venue": "Cirkus , Stockholm",
+      "date": "20 januari 2014",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2015",
+      "hosts": "Petra Mede",
+      "venue": "Cirkus , Stockholm",
+      "date": "26 januari 2015",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2016",
+      "hosts": "Petra Mede",
+      "venue": "Cirkus , Stockholm",
+      "date": "18 januari 2016",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2017",
+      "hosts": "Petra Mede",
+      "venue": "Cirkus , Stockholm",
+      "date": "23 januari 2017",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2018",
+      "hosts": "Petra Mede",
+      "venue": "Cirkus , Stockholm",
+      "date": "22 januari 2018",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2019",
+      "hosts": "Emma Molin",
+      "venue": "Cirkus , Stockholm",
+      "date": "28 januari 2019",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2020",
+      "hosts": "Emma Molin",
+      "venue": "Cirkus , Stockholm",
+      "date": "20 januari 2020",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2021",
+      "hosts": "Amie Bramme Sey och David Sundin",
+      "venue": "Annexet , Stockholm",
+      "date": "25 januari 2021",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2022",
+      "hosts": "Gina Dirawi",
+      "venue": "Cirkus , Stockholm",
+      "date": "24 januari 2022",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2023",
+      "hosts": "Parisa Amiri",
+      "venue": "Cirkus , Stockholm",
+      "date": "23 januari 2023",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2024",
+      "hosts": "Shima Niavarani",
+      "venue": "Cirkus , Stockholm",
+      "date": "15 januari 2024",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2025",
+      "hosts": "Shima Niavarani",
+      "venue": "Cirkus , Stockholm",
+      "date": "13 januari 2025",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2026",
+      "hosts": "Shima Niavarani",
+      "venue": "Cirkus , Stockholm",
+      "date": "19 januari 2026",
+      "broadcast": "SVT1"
+    },
+    {
+      "gala": "Guldbaggegalan 2027",
+      "hosts": "",
+      "venue": "Cirkus , Stockholm",
+      "date": "25 januari 2027",
+      "broadcast": "SVT1"
+    }
+  ],
+  "meta": {
+    "title": "Guldbaggegalor - Free Download",
+    "description": "Alla Guldbaggegalor sedan 1964 med värdar, plats, datum och TV-sändning. Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Guldbaggegalor | ListBase",
+    "seo_description": "Download Guldbaggegalor — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Guldbaggen"
+    ]
+  }
+}
