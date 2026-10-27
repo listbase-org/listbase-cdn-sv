@@ -1,0 +1,200 @@
+{
+  "id": "sv-svenska-akademiens-ledamoter",
+  "name": "Svenska Akademiens ledamöter",
+  "title": "Svenska Akademiens ledamöter",
+  "description": "Nuvarande ledamöter i Svenska Akademien per stol: namn, yrke, födelseår och invalsår.",
+  "category": "language",
+  "source": "https://sv.wikipedia.org/wiki/Svenska_Akademien",
+  "source_url": "https://sv.wikipedia.org/wiki/Svenska_Akademien",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "chair",
+      "label": "Chair",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "profession",
+      "label": "Profession",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "string"
+    },
+    {
+      "key": "elected",
+      "label": "Elected",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chair": 1,
+      "name": "Eric M. Runesson",
+      "profession": "jurist",
+      "born": "1960 (66 år)",
+      "elected": 2018,
+      "notes": ""
+    },
+    {
+      "chair": 2,
+      "name": "Bo Ralph",
+      "profession": "språkforskare",
+      "born": "1945 (81 år)",
+      "elected": 1999,
+      "notes": ""
+    },
+    {
+      "chair": 3,
+      "name": "David Håkansson",
+      "profession": "språkforskare",
+      "born": "1978 (47 år)",
+      "elected": 2023,
+      "notes": ""
+    },
+    {
+      "chair": 4,
+      "name": "Anders Olsson",
+      "profession": "författare, litteraturforskare",
+      "born": "1949 (77 år)",
+      "elected": 2008,
+      "notes": "Tillförordnad ständig sekreterare 13 april 2018 , ständig sekreterare från 1 juni 2018–2019. Ordförande för nobelkommittén ."
+    },
+    {
+      "chair": 5,
+      "name": "Ingrid Carlberg",
+      "profession": "författare",
+      "born": "1961 (64 år)",
+      "elected": 2020,
+      "notes": "Ständig sekreterare sedan 1 juni 2026."
+    },
+    {
+      "chair": 6,
+      "name": "Tomas Riad",
+      "profession": "språkforskare",
+      "born": "1959 (66 år)",
+      "elected": 2011,
+      "notes": ""
+    },
+    {
+      "chair": 7,
+      "name": "Åsa Wikforss",
+      "profession": "professor i filosofi",
+      "born": "1961 (65 år)",
+      "elected": 2019,
+      "notes": ""
+    },
+    {
+      "chair": 8,
+      "name": "Jesper Svenbro",
+      "profession": "antikforskare, poet",
+      "born": "1944 (82 år)",
+      "elected": 2006,
+      "notes": ""
+    },
+    {
+      "chair": 9,
+      "name": "Ellen Mattson",
+      "profession": "författare",
+      "born": "1962 (64 år)",
+      "elected": 2019,
+      "notes": ""
+    },
+    {
+      "chair": 10,
+      "name": "Peter Englund",
+      "profession": "historiker, författare",
+      "born": "1957 (69 år)",
+      "elected": 2002,
+      "notes": "Ständig sekreterare 2009–2015."
+    },
+    {
+      "chair": 11,
+      "name": "Mats Malm",
+      "profession": "litteraturvetare, översättare",
+      "born": "1964 (62 år)",
+      "elected": 2018,
+      "notes": "Ständig sekreterare 2019–2026."
+    },
+    {
+      "chair": 12,
+      "name": "Per Wästberg",
+      "profession": "författare",
+      "born": "1933 (92 år)",
+      "elected": 1997,
+      "notes": ""
+    },
+    {
+      "chair": 13,
+      "name": "Anne Swärd",
+      "profession": "författare",
+      "born": "1969 (57 år)",
+      "elected": 2019,
+      "notes": ""
+    },
+    {
+      "chair": 14,
+      "name": "Steve Sem-Sandberg",
+      "profession": "författare",
+      "born": "1958 (68 år)",
+      "elected": 2020,
+      "notes": ""
+    },
+    {
+      "chair": 15,
+      "name": "Jila Mossaed",
+      "profession": "författare, poet",
+      "born": "1948 (78 år)",
+      "elected": 2018,
+      "notes": ""
+    },
+    {
+      "chair": 16,
+      "name": "Anna-Karin Palm",
+      "profession": "författare",
+      "born": "1961 (65 år)",
+      "elected": 2023,
+      "notes": ""
+    },
+    {
+      "chair": 17,
+      "name": "Horace Engdahl",
+      "profession": "författare, litteraturforskare",
+      "born": "1948 (77 år)",
+      "elected": 1997,
+      "notes": "Ständig sekreterare 1999–2009."
+    },
+    {
+      "chair": 18,
+      "name": "vakant sedan 2024",
+      "profession": "",
+      "born": "",
+      "elected": "",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Svenska Akademiens ledamöter - Free Download",
+    "description": "Nuvarande ledamöter i Svenska Akademien per stol: namn, yrke, födelseår och invalsår. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska Akademiens ledamöter | ListBase",
+    "seo_description": "Download Svenska Akademiens ledamöter — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Svenska_Akademien"
+    ]
+  }
+}
