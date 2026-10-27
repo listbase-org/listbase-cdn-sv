@@ -1,0 +1,448 @@
+{
+  "id": "sv-utrikes-fodda-efter-land-1900-2024",
+  "name": "Utrikes födda i Sverige efter födelseland 1900–2024",
+  "title": "Utrikes födda i Sverige efter födelseland 1900–2024",
+  "description": "Antal personer i Sverige födda i olika länder 1900, 1930, 1960, 1990 och 2024.",
+  "category": "society",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_demografi",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_demografi",
+  "updated": "2026-10",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "y1900",
+      "label": "Y1900",
+      "type": "number"
+    },
+    {
+      "key": "y1930",
+      "label": "Y1930",
+      "type": "number"
+    },
+    {
+      "key": "y1960",
+      "label": "Y1960",
+      "type": "number"
+    },
+    {
+      "key": "y1990",
+      "label": "Y1990",
+      "type": "number"
+    },
+    {
+      "key": "y2024",
+      "label": "Y2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Syrien",
+      "y1900": "",
+      "y1930": "",
+      "y1960": 6,
+      "y1990": 5874,
+      "y2024": 196152
+    },
+    {
+      "country": "Irak",
+      "y1900": "",
+      "y1930": "",
+      "y1960": 16,
+      "y1990": 9818,
+      "y2024": 143160
+    },
+    {
+      "country": "Finland",
+      "y1900": 6644,
+      "y1930": 9746,
+      "y1960": 101307,
+      "y1990": 217636,
+      "y2024": 125904
+    },
+    {
+      "country": "Polen",
+      "y1900": "",
+      "y1930": 1065,
+      "y1960": 6347,
+      "y1990": 35631,
+      "y2024": 100062
+    },
+    {
+      "country": "Iran",
+      "y1900": 2,
+      "y1930": 8,
+      "y1960": 115,
+      "y1990": 40084,
+      "y2024": 87115
+    },
+    {
+      "country": "Afghanistan",
+      "y1900": "",
+      "y1930": "",
+      "y1960": 17,
+      "y1990": 534,
+      "y2024": 68164
+    },
+    {
+      "country": "Somalia",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": 1441,
+      "y2024": 66846
+    },
+    {
+      "country": "Jugoslavien",
+      "y1900": "",
+      "y1930": 19,
+      "y1960": 1532,
+      "y1990": 43346,
+      "y2024": 59692
+    },
+    {
+      "country": "Bosnien och Hercegovina",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 59333
+    },
+    {
+      "country": "Indien",
+      "y1900": 45,
+      "y1930": 135,
+      "y1960": 361,
+      "y1990": 9054,
+      "y2024": 59290
+    },
+    {
+      "country": "Tyskland",
+      "y1900": 5107,
+      "y1930": 8566,
+      "y1960": 37580,
+      "y1990": 37558,
+      "y2024": 57871
+    },
+    {
+      "country": "Turkiet",
+      "y1900": 15,
+      "y1930": 22,
+      "y1960": 202,
+      "y1990": 25528,
+      "y2024": 57389
+    },
+    {
+      "country": "Eritrea",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 49704
+    },
+    {
+      "country": "Thailand",
+      "y1900": "",
+      "y1930": "",
+      "y1960": 20,
+      "y1990": 4934,
+      "y2024": 45882
+    },
+    {
+      "country": "Ukraina",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 41767
+    },
+    {
+      "country": "Norge",
+      "y1900": 7978,
+      "y1930": 14731,
+      "y1960": 37253,
+      "y1990": 52744,
+      "y2024": 39370
+    },
+    {
+      "country": "Kina (ej Hong Kong)",
+      "y1900": 34,
+      "y1930": 201,
+      "y1960": 520,
+      "y1990": 3896,
+      "y2024": 38976
+    },
+    {
+      "country": "Danmark",
+      "y1900": 6872,
+      "y1930": 8726,
+      "y1960": 35112,
+      "y1990": 43931,
+      "y2024": 37203
+    },
+    {
+      "country": "Rumänien",
+      "y1900": 3,
+      "y1930": 34,
+      "y1960": 719,
+      "y1990": 8785,
+      "y2024": 36870
+    },
+    {
+      "country": "Storbritannien",
+      "y1900": 779,
+      "y1930": 1270,
+      "y1960": 2738,
+      "y1990": 11378,
+      "y2024": 33143
+    },
+    {
+      "country": "Libanon",
+      "y1900": "",
+      "y1930": "",
+      "y1960": 15,
+      "y1990": 15986,
+      "y2024": 29774
+    },
+    {
+      "country": "Pakistan",
+      "y1900": "",
+      "y1930": "",
+      "y1960": 11,
+      "y1990": 2291,
+      "y2024": 29760
+    },
+    {
+      "country": "Chile",
+      "y1900": 6,
+      "y1930": 28,
+      "y1960": 69,
+      "y1990": 27635,
+      "y2024": 27427
+    },
+    {
+      "country": "Ryssland",
+      "y1900": 1506,
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 26529
+    },
+    {
+      "country": "USA",
+      "y1900": 5130,
+      "y1930": 8852,
+      "y1960": 10874,
+      "y1990": 13001,
+      "y2024": 25437
+    },
+    {
+      "country": "Etiopien",
+      "y1900": 5,
+      "y1930": "",
+      "y1960": 59,
+      "y1990": 10027,
+      "y2024": 23463
+    },
+    {
+      "country": "Vietnam",
+      "y1900": "",
+      "y1930": "",
+      "y1960": 1,
+      "y1990": 6265,
+      "y2024": 21842
+    },
+    {
+      "country": "Grekland",
+      "y1900": 5,
+      "y1930": 22,
+      "y1960": 266,
+      "y1990": 13171,
+      "y2024": 21520
+    },
+    {
+      "country": "Serbien",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 17909
+    },
+    {
+      "country": "Litauen",
+      "y1900": "",
+      "y1930": 149,
+      "y1960": "",
+      "y1990": 233,
+      "y2024": 17878
+    },
+    {
+      "country": "Filippinerna",
+      "y1900": "",
+      "y1930": "",
+      "y1960": 5,
+      "y1990": 2613,
+      "y2024": 17683
+    },
+    {
+      "country": "Ungern",
+      "y1900": 50,
+      "y1930": 108,
+      "y1960": 8544,
+      "y1990": 15045,
+      "y2024": 16960
+    },
+    {
+      "country": "Nederländerna",
+      "y1900": 50,
+      "y1930": 208,
+      "y1960": 2105,
+      "y1990": 3543,
+      "y2024": 16829
+    },
+    {
+      "country": "Italien",
+      "y1900": 200,
+      "y1930": 367,
+      "y1960": 4904,
+      "y1990": 5989,
+      "y2024": 16786
+    },
+    {
+      "country": "Spanien",
+      "y1900": 30,
+      "y1930": 64,
+      "y1960": 867,
+      "y1990": 4917,
+      "y2024": 14681
+    },
+    {
+      "country": "Bangladesh",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 14461
+    },
+    {
+      "country": "Frankrike",
+      "y1900": 255,
+      "y1930": 599,
+      "y1960": 1750,
+      "y1990": 3844,
+      "y2024": 14270
+    },
+    {
+      "country": "Colombia",
+      "y1900": "",
+      "y1930": "",
+      "y1960": 73,
+      "y1990": 4650,
+      "y2024": 14217
+    },
+    {
+      "country": "Brasilien",
+      "y1900": 41,
+      "y1930": 92,
+      "y1960": 175,
+      "y1990": 2118,
+      "y2024": 13439
+    },
+    {
+      "country": "Kroatien",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 12975
+    },
+    {
+      "country": "Kosovo",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 12891
+    },
+    {
+      "country": "Marocko",
+      "y1900": "",
+      "y1930": "",
+      "y1960": 22,
+      "y1990": 2720,
+      "y2024": 12914
+    },
+    {
+      "country": "Sydkorea",
+      "y1900": "",
+      "y1930": "",
+      "y1960": 47,
+      "y1990": 8205,
+      "y2024": 11968
+    },
+    {
+      "country": "Sri Lanka",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 11380
+    },
+    {
+      "country": "Nordmakedonien",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 11195
+    },
+    {
+      "country": "Lettland",
+      "y1900": "",
+      "y1930": 550,
+      "y1960": "",
+      "y1990": 2025,
+      "y2024": 11362
+    },
+    {
+      "country": "Egypten",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 10979
+    },
+    {
+      "country": "Albanien",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 10763
+    },
+    {
+      "country": "Bulgarien",
+      "y1900": "",
+      "y1930": "",
+      "y1960": "",
+      "y1990": "",
+      "y2024": 10685
+    }
+  ],
+  "meta": {
+    "title": "Utrikes födda i Sverige efter födelseland 1900–2024 - Free Download",
+    "description": "Antal personer i Sverige födda i olika länder 1900, 1930, 1960, 1990 och 2024. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Utrikes födda i Sverige efter födelseland 1900–2024 | ListBase",
+    "seo_description": "Download Utrikes födda i Sverige efter födelseland 1900–2024 — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_demografi"
+    ]
+  }
+}

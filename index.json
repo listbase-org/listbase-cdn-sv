@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:39.865Z",
-  "total_datasets": 489,
-  "total_records": 2264099,
+  "generated": "2026-10-27T02:33:42.485Z",
+  "total_datasets": 490,
+  "total_records": 2264148,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -11147,6 +11147,33 @@
         "xlsx": {
           "name": "sv-utrikes-fodda-1950-1973_SV.xlsx",
           "size": 7073
+        }
+      }
+    },
+    {
+      "id": "sv-utrikes-fodda-efter-land-1900-2024",
+      "name": "Utrikes födda i Sverige efter födelseland 1900–2024",
+      "category": "society",
+      "record_count": 49,
+      "columns": [
+        "country",
+        "y1900",
+        "y1930",
+        "y1960",
+        "y1990",
+        "y2024"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_demografi",
+      "updated": "2026-10",
+      "size": 8721,
+      "files": {
+        "csv": {
+          "name": "sv-utrikes-fodda-efter-land-1900-2024_SV.csv",
+          "size": 1971
+        },
+        "xlsx": {
+          "name": "sv-utrikes-fodda-efter-land-1900-2024_SV.xlsx",
+          "size": 8693
         }
       }
     },
