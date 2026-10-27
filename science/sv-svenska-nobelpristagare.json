@@ -1,0 +1,320 @@
+{
+  "id": "sv-svenska-nobelpristagare",
+  "name": "Svenska nobelpristagare",
+  "title": "Svenska nobelpristagare",
+  "description": "Svenska mottagare av Nobelpriset och Riksbankens pris i ekonomisk vetenskap: år, pris, pristagare, motivering och institution.",
+  "category": "science",
+  "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_nobelpristagare",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_nobelpristagare",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "prize",
+      "label": "Prize",
+      "type": "string"
+    },
+    {
+      "key": "laureate",
+      "label": "Laureate",
+      "type": "string"
+    },
+    {
+      "key": "shared_with",
+      "label": "Shared With",
+      "type": "string"
+    },
+    {
+      "key": "motivation",
+      "label": "Motivation",
+      "type": "string"
+    },
+    {
+      "key": "institution",
+      "label": "Institution",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1974,
+      "prize": "Ekonomi",
+      "laureate": "Gunnar Myrdal",
+      "shared_with": "Friedrich von Hayek",
+      "motivation": "För sitt arbete inom penning- och konjunkturteori samt studier av sambandet mellan ekonomiska, sociala och institutionella förhållanden.",
+      "institution": "Stockholms universitet"
+    },
+    {
+      "year": 1977,
+      "prize": "Ekonomi",
+      "laureate": "Bertil Ohlin",
+      "shared_with": "James Meade",
+      "motivation": "För sina bidrag till teorier kring internationell handel och rörelse av kapital.",
+      "institution": "Handelshögskolan i Stockholm"
+    },
+    {
+      "year": 1908,
+      "prize": "Fred",
+      "laureate": "Klas Pontus Arnoldson",
+      "shared_with": "Fredrik Bajer",
+      "motivation": "... för sina insatser i konflikten mellan unionen , och ett steg mot försoning mellan två självständiga stater.",
+      "institution": ""
+    },
+    {
+      "year": 1921,
+      "prize": "Fred",
+      "laureate": "Hjalmar Branting",
+      "shared_with": "Christian Lous Lange",
+      "motivation": "... för arbete kring Nationernas förbund och för internationellt samarbete.",
+      "institution": ""
+    },
+    {
+      "year": 1930,
+      "prize": "Fred",
+      "laureate": "Nathan Söderblom",
+      "shared_with": "",
+      "motivation": "Som ledare av kyrkan, ville han skapa en gemensam kristen plattform för fred .",
+      "institution": ""
+    },
+    {
+      "year": 1961,
+      "prize": "Fred",
+      "laureate": "Dag Hammarskjöld (Utdelades postumt )",
+      "shared_with": "",
+      "motivation": "...för att ha byggt upp ett effektiv och oberoende FN-sekretariat , och för att ha tagit en självständig linje gentemot stormakterna ..",
+      "institution": ""
+    },
+    {
+      "year": 1982,
+      "prize": "Fred",
+      "laureate": "Alva Myrdal",
+      "shared_with": "Alfonso García Robles",
+      "motivation": "Som företrädare för ett alliansfritt Sverige arbetade hon aktivt för att övertyga supermakterna att avväpna ..",
+      "institution": ""
+    },
+    {
+      "year": 1912,
+      "prize": "Fysik",
+      "laureate": "Gustaf Dalén",
+      "shared_with": "",
+      "motivation": "För sin uppfinning av självverkande regulatorer att i kombination med gasaccumulatorer användas till belysning av fyrar och lysbojar.",
+      "institution": "Aktiebolaget Gasaccumulator"
+    },
+    {
+      "year": 1924,
+      "prize": "Fysik",
+      "laureate": "Manne Siegbahn",
+      "shared_with": "",
+      "motivation": "För hans upptäcker och forskning kring röntgenspektrografi .",
+      "institution": "Uppsala universitet"
+    },
+    {
+      "year": 1970,
+      "prize": "Fysik",
+      "laureate": "Hannes Alfvén",
+      "shared_with": "Louis Eugène Félix Néel",
+      "motivation": "För viktigt arbete och upptäcker rörande magnetohydrodynamik , med många tillämpningsmöjligheter inom plasmafysiken ..",
+      "institution": "Kungliga Tekniska högskolan"
+    },
+    {
+      "year": 1981,
+      "prize": "Fysik",
+      "laureate": "Kai Siegbahn",
+      "shared_with": "Arthur Leonard Schawlow Nicolaas Bloembergen",
+      "motivation": "För sina bidrag till utvecklingen av högupplöst elektronspektroskopi .",
+      "institution": "Uppsala universitet"
+    },
+    {
+      "year": 2023,
+      "prize": "Fysik",
+      "laureate": "Anne L'Huillier",
+      "shared_with": "Pierre Agostini Ferenc Krausz",
+      "motivation": "För experimentella metoder som genererar attosekundpulser av ljus för studier av elektrondynamik i materia.",
+      "institution": "Lunds universitet"
+    },
+    {
+      "year": 1911,
+      "prize": "Fysiologi eller medicin",
+      "laureate": "Allvar Gullstrand",
+      "shared_with": "",
+      "motivation": "För hans forskning om ögats dioptrik .",
+      "institution": "Uppsala universitet"
+    },
+    {
+      "year": 1955,
+      "prize": "Fysiologi eller medicin",
+      "laureate": "Hugo Theorell",
+      "shared_with": "",
+      "motivation": "För hans upptäckter gällande oxiderande enzymer .",
+      "institution": "Karolinska Institutet"
+    },
+    {
+      "year": 1967,
+      "prize": "Fysiologi eller medicin",
+      "laureate": "Ragnar Granit",
+      "shared_with": "Haldan Keffer Hartline George Wald",
+      "motivation": "För upptäckter gällande primära fysiologiska och kemiska processer i ögat.",
+      "institution": "Karolinska Institutet"
+    },
+    {
+      "year": 1970,
+      "prize": "Fysiologi eller medicin",
+      "laureate": "Ulf von Euler",
+      "shared_with": "Sir Bernard Katz Julius Axelrod",
+      "motivation": "För deras upptäckter rörande signalsubstansen i nervcellernas kontaktorgan och mekanismerna för upplagring, frisättning och inaktivering.",
+      "institution": "Karolinska Institutet"
+    },
+    {
+      "year": 1981,
+      "prize": "Fysiologi eller medicin",
+      "laureate": "Torsten Wiesel",
+      "shared_with": "Roger W. Sperry David H. Hubel",
+      "motivation": "För deras upptäckter rörande hjärnans hantering av visuell information .",
+      "institution": "Harvard Medical School"
+    },
+    {
+      "year": 1982,
+      "prize": "Fysiologi eller medicin",
+      "laureate": "Sune Bergström Bengt Samuelsson",
+      "shared_with": "John R. Vane",
+      "motivation": "För deras upptäckter rörande prostaglandiner och biologiskt aktiva substanser.",
+      "institution": "Karolinska institutet"
+    },
+    {
+      "year": 2000,
+      "prize": "Fysiologi eller medicin",
+      "laureate": "Arvid Carlsson",
+      "shared_with": "Paul Greengard Eric R. Kandel",
+      "motivation": "För deras upptäckter rörande signalöverföring i nervsystemet .",
+      "institution": "Göteborgs universitet"
+    },
+    {
+      "year": 2022,
+      "prize": "Fysiologi eller medicin",
+      "laureate": "Svante Pääbo",
+      "shared_with": "",
+      "motivation": "För hans upptäckter rörande utdöda homininers arvsmassa och människans evolution .",
+      "institution": "Max Planck-institutet"
+    },
+    {
+      "year": 1903,
+      "prize": "Kemi",
+      "laureate": "Svante Arrhenius",
+      "shared_with": "",
+      "motivation": "Som ett erkännande av de extraordinära tjänster som han har utfört till kemins utveckling genom sin teori om den elektrolytiska dissociationen .",
+      "institution": "Stockholms universitet"
+    },
+    {
+      "year": 1926,
+      "prize": "Kemi",
+      "laureate": "The Svedberg",
+      "shared_with": "",
+      "motivation": "För hans forskning om dispersion .",
+      "institution": "Uppsala Universitet"
+    },
+    {
+      "year": 1929,
+      "prize": "Kemi",
+      "laureate": "Hans von Euler-Chelpin",
+      "shared_with": "Arthur Harden",
+      "motivation": "För sina undersökningar gällande jäsning av socker och enzymer .",
+      "institution": "Stockholms Universitet"
+    },
+    {
+      "year": 1948,
+      "prize": "Kemi",
+      "laureate": "Arne Tiselius",
+      "shared_with": "",
+      "motivation": "För sin forskning om elektrofores ...",
+      "institution": "Uppsala Universitet"
+    },
+    {
+      "year": 2015,
+      "prize": "Kemi",
+      "laureate": "Tomas Lindahl",
+      "shared_with": "Paul Modrich Aziz Sancar",
+      "motivation": "För mekaniska studier av reparation av DNA .",
+      "institution": "Francis Crick Institute"
+    },
+    {
+      "year": 1909,
+      "prize": "Litteratur",
+      "laureate": "Selma Lagerlöf",
+      "shared_with": "",
+      "motivation": "På grund av den ädla idealitet, den fantasiens rikedom och den framställningens själfullhet, som präglat hennes diktning.",
+      "institution": ""
+    },
+    {
+      "year": 1916,
+      "prize": "Litteratur",
+      "laureate": "Verner von Heidenstam",
+      "shared_with": "",
+      "motivation": "Som ett erkännande av hans betydelse som ledande företrädare för en ny era i vår litteratur.",
+      "institution": ""
+    },
+    {
+      "year": 1931,
+      "prize": "Litteratur",
+      "laureate": "Erik Axel Karlfeldt (Utdelades postumt )",
+      "shared_with": "",
+      "motivation": "För poesin av Erik Axel Karlfeldt.",
+      "institution": ""
+    },
+    {
+      "year": 1951,
+      "prize": "Litteratur",
+      "laureate": "Pär Lagerkvist",
+      "shared_with": "",
+      "motivation": "För den konstnärliga kraft och sanna självständighet i sinnet som han strävar efter i sin poesi, för att hitta svar på de eviga frågorna som mänskligheten står inför.",
+      "institution": ""
+    },
+    {
+      "year": 1966,
+      "prize": "Litteratur",
+      "laureate": "Nelly Sachs",
+      "shared_with": "",
+      "motivation": "För hennes enastående lyriska och dramatiska skrift, som tolkar Israels öde med berörande styrka.",
+      "institution": ""
+    },
+    {
+      "year": 1974,
+      "prize": "Litteratur",
+      "laureate": "Eyvind Johnson",
+      "shared_with": "Harry Martinson",
+      "motivation": "För en i länder och tider vittskådande berättarkonst i frihetens tjänst.",
+      "institution": ""
+    },
+    {
+      "year": 1974,
+      "prize": "Litteratur",
+      "laureate": "Harry Martinson",
+      "shared_with": "Eyvind Johnson",
+      "motivation": "För ett författarskap som fångar daggdroppen och speglar kosmos.",
+      "institution": ""
+    },
+    {
+      "year": 2011,
+      "prize": "Litteratur",
+      "laureate": "Tomas Tranströmer",
+      "shared_with": "",
+      "motivation": "För att han i förtätade, genomlysta bilder ger oss ny tillgång till det verkliga.",
+      "institution": ""
+    }
+  ],
+  "meta": {
+    "title": "Svenska nobelpristagare - Free Download",
+    "description": "Svenska mottagare av Nobelpriset och Riksbankens pris i ekonomisk vetenskap: år, pris, pristagare, motivering och institution. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska nobelpristagare | ListBase",
+    "seo_description": "Download Svenska nobelpristagare — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_nobelpristagare"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:17.713Z",
-  "total_datasets": 480,
-  "total_records": 2263546,
+  "generated": "2026-10-27T02:33:19.966Z",
+  "total_datasets": 481,
+  "total_records": 2263579,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -10807,6 +10807,33 @@
         "xlsx": {
           "name": "sv-regso_SV.xlsx",
           "size": 118423
+        }
+      }
+    },
+    {
+      "id": "sv-svenska-nobelpristagare",
+      "name": "Svenska nobelpristagare",
+      "category": "science",
+      "record_count": 33,
+      "columns": [
+        "year",
+        "prize",
+        "laureate",
+        "shared_with",
+        "motivation",
+        "institution"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_nobelpristagare",
+      "updated": "2026-10",
+      "size": 11298,
+      "files": {
+        "csv": {
+          "name": "sv-svenska-nobelpristagare_SV.csv",
+          "size": 5486
+        },
+        "xlsx": {
+          "name": "sv-svenska-nobelpristagare_SV.xlsx",
+          "size": 10006
         }
       }
     },
