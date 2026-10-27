@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:25.050Z",
-  "total_datasets": 458,
-  "total_records": 2262272,
+  "generated": "2026-10-27T02:32:27.230Z",
+  "total_datasets": 459,
+  "total_records": 2262397,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -10385,6 +10385,36 @@
         "xlsx": {
           "name": "sv-regso_SV.xlsx",
           "size": 118423
+        }
+      }
+    },
+    {
+      "id": "sv-befolkningsrorelser-per-ar",
+      "name": "Befolkningsrörelser i Sverige per år sedan 1900",
+      "category": "society",
+      "record_count": 125,
+      "columns": [
+        "year",
+        "average_population",
+        "births",
+        "deaths",
+        "natural_change",
+        "birth_rate_per_1000",
+        "death_rate_per_1000",
+        "natural_change_per_1000",
+        "total_fertility_rate"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_demografi",
+      "updated": "2026-10",
+      "size": 38457,
+      "files": {
+        "csv": {
+          "name": "sv-befolkningsrorelser-per-ar_SV.csv",
+          "size": 8641
+        },
+        "xlsx": {
+          "name": "sv-befolkningsrorelser-per-ar_SV.xlsx",
+          "size": 13460
         }
       }
     },
