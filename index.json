@@ -1,12 +1,12 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:12.667Z",
-  "total_datasets": 478,
-  "total_records": 2263422,
+  "generated": "2026-10-27T02:33:15.284Z",
+  "total_datasets": 479,
+  "total_records": 2263466,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -167,6 +167,29 @@
         "xlsx": {
           "name": "sv-storsta-skogsagare_SV.xlsx",
           "size": 6909
+        }
+      }
+    },
+    {
+      "id": "sv-svenska-lantraser",
+      "name": "Svenska lantraser",
+      "category": "agriculture",
+      "record_count": 44,
+      "columns": [
+        "breed",
+        "species_group"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_lantraser",
+      "updated": "2026-10",
+      "size": 4701,
+      "files": {
+        "csv": {
+          "name": "sv-svenska-lantraser_SV.csv",
+          "size": 1129
+        },
+        "xlsx": {
+          "name": "sv-svenska-lantraser_SV.xlsx",
+          "size": 7597
         }
       }
     },
