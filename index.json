@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:53.251Z",
-  "total_datasets": 470,
-  "total_records": 2263006,
+  "generated": "2026-10-27T02:32:55.585Z",
+  "total_datasets": 471,
+  "total_records": 2263041,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 22
+      "dataset_count": 23
     },
     {
       "id": "reference",
@@ -4673,6 +4673,34 @@
         "xlsx": {
           "name": "sv-socialdemokraterna-riksdagsledamoter_SV.xlsx",
           "size": 97163
+        }
+      }
+    },
+    {
+      "id": "sv-statsministrar-levnadsdata",
+      "name": "Sveriges statsministrar — levnadsdata och ämbetstid",
+      "category": "politics",
+      "record_count": 35,
+      "columns": [
+        "name",
+        "born",
+        "age_first_took_office",
+        "time_in_office",
+        "age_last_left_office",
+        "died",
+        "lifespan"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_statsministrar",
+      "updated": "2026-10",
+      "size": 12788,
+      "files": {
+        "csv": {
+          "name": "sv-statsministrar-levnadsdata_SV.csv",
+          "size": 5159
+        },
+        "xlsx": {
+          "name": "sv-statsministrar-levnadsdata_SV.xlsx",
+          "size": 9515
         }
       }
     },

@@ -1,0 +1,376 @@
+{
+  "id": "sv-statsministrar-levnadsdata",
+  "name": "Sveriges statsministrar — levnadsdata och ämbetstid",
+  "title": "Sveriges statsministrar — levnadsdata och ämbetstid",
+  "description": "Födelse, död, ålder vid tillträde och avgång samt total ämbetstid för Sveriges statsministrar.",
+  "category": "politics",
+  "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_statsministrar",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_statsministrar",
+  "updated": "2026-10",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "string"
+    },
+    {
+      "key": "age_first_took_office",
+      "label": "Age First Took Office",
+      "type": "string"
+    },
+    {
+      "key": "time_in_office",
+      "label": "Time In Office",
+      "type": "string"
+    },
+    {
+      "key": "age_last_left_office",
+      "label": "Age Last Left Office",
+      "type": "string"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "string"
+    },
+    {
+      "key": "lifespan",
+      "label": "Lifespan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Louis De Geer d.ä.",
+      "born": "18 juli 1818",
+      "age_first_took_office": "57 år och 246 dagar",
+      "time_in_office": "4 år och 30 dagar",
+      "age_last_left_office": "61 år och 276 dagar",
+      "died": "24 september 1896",
+      "lifespan": "78 år och 68 dagar"
+    },
+    {
+      "name": "Arvid Posse",
+      "born": "15 februari 1820",
+      "age_first_took_office": "60 år och 64 dagar",
+      "time_in_office": "3 år och 55 dagar",
+      "age_last_left_office": "63 år och 118 dagar",
+      "died": "24 april 1901",
+      "lifespan": "81 år och 68 dagar"
+    },
+    {
+      "name": "Carl Johan Thyselius",
+      "born": "8 juni 1811",
+      "age_first_took_office": "72 år och 5 dagar",
+      "time_in_office": "0 år och 338 dagar",
+      "age_last_left_office": "72 år och 343 dagar",
+      "died": "11 januari 1891",
+      "lifespan": "79 år och 217 dagar"
+    },
+    {
+      "name": "Robert Themptander",
+      "born": "14 februari 1844",
+      "age_first_took_office": "40 år och 92 dagar",
+      "time_in_office": "3 år och 266 dagar",
+      "age_last_left_office": "43 år och 357 dagar",
+      "died": "30 januari 1897",
+      "lifespan": "52 år och 351 dagar"
+    },
+    {
+      "name": "Gillis Bildt",
+      "born": "16 oktober 1820",
+      "age_first_took_office": "67 år och 113 dagar",
+      "time_in_office": "1 år och 248 dagar",
+      "age_last_left_office": "68 år och 361 dagar",
+      "died": "24 oktober 1894",
+      "lifespan": "74 år och 8 dagar"
+    },
+    {
+      "name": "Gustaf Åkerhielm",
+      "born": "24 juni 1833",
+      "age_first_took_office": "56 år och 110 dagar",
+      "time_in_office": "1 år och 271 dagar",
+      "age_last_left_office": "58 år och 16 dagar",
+      "died": "2 april 1900",
+      "lifespan": "66 år och 282 dagar"
+    },
+    {
+      "name": "Erik Gustaf Boström",
+      "born": "11 februari 1842",
+      "age_first_took_office": "49 år och 149 dagar",
+      "time_in_office": "11 år och 347 dagar",
+      "age_last_left_office": "63 år och 61 dagar",
+      "died": "21 februari 1907",
+      "lifespan": "65 år och 10 dagar"
+    },
+    {
+      "name": "Fredrik von Otter",
+      "born": "11 april 1833",
+      "age_first_took_office": "67 år och 154 dagar",
+      "time_in_office": "1 år och 296 dagar",
+      "age_last_left_office": "69 år och 85 dagar",
+      "died": "9 mars 1910",
+      "lifespan": "76 år och 332 dagar"
+    },
+    {
+      "name": "Johan Ramstedt",
+      "born": "7 november 1852",
+      "age_first_took_office": "52 år och 157 dagar",
+      "time_in_office": "0 år och 111 dagar",
+      "age_last_left_office": "52 år och 268 dagar",
+      "died": "15 mars 1935",
+      "lifespan": "82 år och 128 dagar"
+    },
+    {
+      "name": "Christian Lundeberg",
+      "born": "14 juli 1842",
+      "age_first_took_office": "63 år och 19 dagar",
+      "time_in_office": "0 år och 97 dagar",
+      "age_last_left_office": "63 år och 116 dagar",
+      "died": "10 november 1911",
+      "lifespan": "69 år och 119 dagar"
+    },
+    {
+      "name": "Karl Staaff",
+      "born": "21 januari 1860",
+      "age_first_took_office": "45 år och 290 dagar",
+      "time_in_office": "2 år och 306 dagar",
+      "age_last_left_office": "54 år och 27 dagar",
+      "died": "4 oktober 1915",
+      "lifespan": "55 år och 256 dagar"
+    },
+    {
+      "name": "Arvid Lindman",
+      "born": "19 september 1862",
+      "age_first_took_office": "43 år och 252 dagar",
+      "time_in_office": "7 år och 13 dagar",
+      "age_last_left_office": "67 år och 261 dagar",
+      "died": "9 december 1936",
+      "lifespan": "74 år och 81 dagar"
+    },
+    {
+      "name": "Hjalmar Hammarskjöld",
+      "born": "4 februari 1862",
+      "age_first_took_office": "52 år och 13 dagar",
+      "time_in_office": "3 år och 41 dagar",
+      "age_last_left_office": "55 år och 54 dagar",
+      "died": "12 oktober 1953",
+      "lifespan": "91 år och 250 dagar"
+    },
+    {
+      "name": "Carl Swartz",
+      "born": "5 juni 1858",
+      "age_first_took_office": "58 år och 298 dagar",
+      "time_in_office": "0 år och 203 dagar",
+      "age_last_left_office": "59 år och 136 dagar",
+      "died": "6 november 1926",
+      "lifespan": "68 år och 154 dagar"
+    },
+    {
+      "name": "Nils Edén",
+      "born": "25 augusti 1871",
+      "age_first_took_office": "46 år och 55 dagar",
+      "time_in_office": "2 år och 143 dagar",
+      "age_last_left_office": "48 år och 198 dagar",
+      "died": "16 juni 1945",
+      "lifespan": "73 år och 295 dagar"
+    },
+    {
+      "name": "Hjalmar Branting",
+      "born": "23 november 1860",
+      "age_first_took_office": "59 år och 108 dagar",
+      "time_in_office": "2 år och 152 dagar",
+      "age_last_left_office": "64 år och 62 dagar",
+      "died": "24 februari 1925",
+      "lifespan": "64 år och 93 dagar"
+    },
+    {
+      "name": "Louis De Geer d.y.",
+      "born": "27 november 1854",
+      "age_first_took_office": "65 år och 335 dagar",
+      "time_in_office": "0 år och 119 dagar",
+      "age_last_left_office": "66 år och 88 dagar",
+      "died": "25 februari 1935",
+      "lifespan": "80 år och 90 dagar"
+    },
+    {
+      "name": "Oscar von Sydow",
+      "born": "12 juli 1873",
+      "age_first_took_office": "47 år och 226 dagar",
+      "time_in_office": "0 år och 232 dagar",
+      "age_last_left_office": "48 år och 93 dagar",
+      "died": "19 augusti 1936",
+      "lifespan": "63 år och 38 dagar"
+    },
+    {
+      "name": "Ernst Trygger",
+      "born": "27 oktober 1857",
+      "age_first_took_office": "65 år och 174 dagar",
+      "time_in_office": "1 år och 182 dagar",
+      "age_last_left_office": "66 år och 357 dagar",
+      "died": "23 september 1943",
+      "lifespan": "85 år och 331 dagar"
+    },
+    {
+      "name": "Rickard Sandler",
+      "born": "29 januari 1884",
+      "age_first_took_office": "40 år och 361 dagar",
+      "time_in_office": "1 år och 134 dagar",
+      "age_last_left_office": "42 år och 129 dagar",
+      "died": "12 november 1964",
+      "lifespan": "80 år och 288 dagar"
+    },
+    {
+      "name": "Carl Gustaf Ekman",
+      "born": "6 oktober 1872",
+      "age_first_took_office": "53 år och 244 dagar",
+      "time_in_office": "4 år och 178 dagar",
+      "age_last_left_office": "59 år och 305 dagar",
+      "died": "15 juni 1945",
+      "lifespan": "72 år och 252 dagar"
+    },
+    {
+      "name": "Felix Hamrin",
+      "born": "14 januari 1875",
+      "age_first_took_office": "57 år och 205 dagar",
+      "time_in_office": "0 år och 49 dagar",
+      "age_last_left_office": "57 år och 254 dagar",
+      "died": "27 november 1937",
+      "lifespan": "62 år och 317 dagar"
+    },
+    {
+      "name": "Per Albin Hansson",
+      "born": "28 oktober 1885",
+      "age_first_took_office": "46 år och 332 dagar",
+      "time_in_office": "13 år och 276 dagar",
+      "age_last_left_office": "60 år och 343 dagar",
+      "died": "6 oktober 1946",
+      "lifespan": "60 år och 343 dagar"
+    },
+    {
+      "name": "Axel Pehrson-Bramstorp",
+      "born": "19 augusti 1883",
+      "age_first_took_office": "52 år och 305 dagar",
+      "time_in_office": "0 år och 101 dagar",
+      "age_last_left_office": "53 år och 40 dagar",
+      "died": "19 februari 1954",
+      "lifespan": "70 år och 184 dagar"
+    },
+    {
+      "name": "Tage Erlander",
+      "born": "13 juni 1901",
+      "age_first_took_office": "45 år och 120 dagar",
+      "time_in_office": "23 år och 3 dagar",
+      "age_last_left_office": "68 år och 123 dagar",
+      "died": "21 juni 1985",
+      "lifespan": "84 år och 8 dagar"
+    },
+    {
+      "name": "Olof Palme",
+      "born": "30 januari 1927",
+      "age_first_took_office": "42 år och 257 dagar",
+      "time_in_office": "10 år och 137 dagar",
+      "age_last_left_office": "59 år och 29 dagar",
+      "died": "28 februari 1986",
+      "lifespan": "59 år och 29 dagar"
+    },
+    {
+      "name": "Thorbjörn Fälldin",
+      "born": "24 april 1926",
+      "age_first_took_office": "50 år och 167 dagar",
+      "time_in_office": "5 år och 6 dagar",
+      "age_last_left_office": "56 år och 167 dagar",
+      "died": "23 juli 2016",
+      "lifespan": "90 år och 90 dagar"
+    },
+    {
+      "name": "Ola Ullsten",
+      "born": "23 juni 1931",
+      "age_first_took_office": "47 år och 117 dagar",
+      "time_in_office": "0 år och 359 dagar",
+      "age_last_left_office": "48 år och 111 dagar",
+      "died": "28 maj 2018",
+      "lifespan": "86 år och 339 dagar"
+    },
+    {
+      "name": "Ingvar Carlsson",
+      "born": "9 november 1934",
+      "age_first_took_office": "51 år och 112 dagar",
+      "time_in_office": "7 år och 18 dagar",
+      "age_last_left_office": "61 år och 134 dagar",
+      "died": "Lever ännu",
+      "lifespan": "91 år och 352 dagar (lever ännu)"
+    },
+    {
+      "name": "Carl Bildt",
+      "born": "15 juli 1949",
+      "age_first_took_office": "42 år och 81 dagar",
+      "time_in_office": "3 år och 3 dagar",
+      "age_last_left_office": "45 år och 84 dagar",
+      "died": "Lever ännu",
+      "lifespan": "77 år och 104 dagar (lever ännu)"
+    },
+    {
+      "name": "Göran Persson",
+      "born": "20 januari 1949",
+      "age_first_took_office": "47 år och 62 dagar",
+      "time_in_office": "10 år och 198 dagar",
+      "age_last_left_office": "57 år och 259 dagar",
+      "died": "Lever ännu",
+      "lifespan": "77 år och 280 dagar (lever ännu)"
+    },
+    {
+      "name": "Fredrik Reinfeldt",
+      "born": "4 augusti 1965",
+      "age_first_took_office": "41 år och 63 dagar",
+      "time_in_office": "7 år och 362 dagar",
+      "age_last_left_office": "49 år och 60 dagar",
+      "died": "Lever ännu",
+      "lifespan": "61 år och 84 dagar (lever ännu)"
+    },
+    {
+      "name": "Stefan Löfven",
+      "born": "21 juli 1957",
+      "age_first_took_office": "57 år och 74 dagar",
+      "time_in_office": "7 år och 58 dagar",
+      "age_last_left_office": "64 år och 132 dagar",
+      "died": "Lever ännu",
+      "lifespan": "69 år och 98 dagar (lever ännu)"
+    },
+    {
+      "name": "Magdalena Andersson",
+      "born": "23 januari 1967",
+      "age_first_took_office": "54 år och 311 dagar",
+      "time_in_office": "0 år och 322 dagar",
+      "age_last_left_office": "55 år och 268 dagar",
+      "died": "Lever ännu",
+      "lifespan": "59 år och 277 dagar (lever ännu)"
+    },
+    {
+      "name": "Ulf Kristersson",
+      "born": "29 december 1963",
+      "age_first_took_office": "58 år och 293 dagar",
+      "time_in_office": "4 år och 9 dagar",
+      "age_last_left_office": "Regerande statsminister",
+      "died": "Lever ännu",
+      "lifespan": "62 år och 302 dagar (lever ännu)"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges statsministrar — levnadsdata och ämbetstid - Free Download",
+    "description": "Födelse, död, ålder vid tillträde och avgång samt total ämbetstid för Sveriges statsministrar. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges statsministrar — levnadsdata och ämbetstid | ListBase",
+    "seo_description": "Download Sveriges statsministrar — levnadsdata och ämbetstid — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_statsministrar"
+    ]
+  }
+}
