@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:31.838Z",
-  "total_datasets": 461,
-  "total_records": 2262730,
+  "generated": "2026-10-27T02:32:33.996Z",
+  "total_datasets": 462,
+  "total_records": 2262738,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -10468,6 +10468,29 @@
         "xlsx": {
           "name": "sv-befolkningsrorelser-per-ar_SV.xlsx",
           "size": 13460
+        }
+      }
+    },
+    {
+      "id": "sv-frikyrkor-medlemsantal",
+      "name": "Största frikyrkosamfunden i Sverige efter medlemsantal",
+      "category": "society",
+      "record_count": 8,
+      "columns": [
+        "denomination",
+        "members"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Religion_i_Sverige",
+      "updated": "2026-10",
+      "size": 2116,
+      "files": {
+        "csv": {
+          "name": "sv-frikyrkor-medlemsantal_SV.csv",
+          "size": 271
+        },
+        "xlsx": {
+          "name": "sv-frikyrkor-medlemsantal_SV.xlsx",
+          "size": 6918
         }
       }
     },

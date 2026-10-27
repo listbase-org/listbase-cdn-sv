@@ -1,0 +1,68 @@
+{
+  "id": "sv-frikyrkor-medlemsantal",
+  "name": "Största frikyrkosamfunden i Sverige efter medlemsantal",
+  "title": "Största frikyrkosamfunden i Sverige efter medlemsantal",
+  "description": "Medlemsantal i de största kristna samfunden utanför Svenska kyrkan (Equmeniakyrkan, Pingströrelsen m.fl.).",
+  "category": "society",
+  "source": "https://sv.wikipedia.org/wiki/Religion_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Religion_i_Sverige",
+  "updated": "2026-10",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "denomination",
+      "label": "Denomination",
+      "type": "string"
+    },
+    {
+      "key": "members",
+      "label": "Members",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "denomination": "Equmeniakyrkan",
+      "members": 116043
+    },
+    {
+      "denomination": "Pingströrelsen",
+      "members": 103198
+    },
+    {
+      "denomination": "Evangeliska Frikyrkan (EFK)",
+      "members": 49861
+    },
+    {
+      "denomination": "Svenska Alliansmissionen",
+      "members": 18750
+    },
+    {
+      "denomination": "Frälsningsarmén",
+      "members": 7700
+    },
+    {
+      "denomination": "Sjundedags Adventistsamfundet",
+      "members": 3584
+    },
+    {
+      "denomination": "Bibeltrogna Vänner (ELM)",
+      "members": 2508
+    },
+    {
+      "denomination": "Summa",
+      "members": 301644
+    }
+  ],
+  "meta": {
+    "title": "Största frikyrkosamfunden i Sverige efter medlemsantal - Free Download",
+    "description": "Medlemsantal i de största kristna samfunden utanför Svenska kyrkan (Equmeniakyrkan, Pingströrelsen m.fl.). Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Största frikyrkosamfunden i Sverige efter medlemsantal | ListBase",
+    "seo_description": "Download Största frikyrkosamfunden i Sverige efter medlemsantal — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Religion_i_Sverige"
+    ]
+  }
+}
