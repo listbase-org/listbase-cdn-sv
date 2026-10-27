@@ -1,0 +1,326 @@
+{
+  "id": "sv-allsvenskan-medaljtabell",
+  "name": "Allsvenskan — medaljtabell per klubb",
+  "title": "Allsvenskan — medaljtabell per klubb",
+  "description": "Guld, stora silver, lilla silver, brons och lilla brons i Allsvenskan per klubb.",
+  "category": "sports",
+  "source": "https://sv.wikipedia.org/wiki/Allsvenskan_i_fotboll",
+  "source_url": "https://sv.wikipedia.org/wiki/Allsvenskan_i_fotboll",
+  "updated": "2026-10",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "club",
+      "label": "Club",
+      "type": "string"
+    },
+    {
+      "key": "gold",
+      "label": "Gold",
+      "type": "number"
+    },
+    {
+      "key": "large_silver",
+      "label": "Large Silver",
+      "type": "number"
+    },
+    {
+      "key": "small_silver",
+      "label": "Small Silver",
+      "type": "number"
+    },
+    {
+      "key": "bronze",
+      "label": "Bronze",
+      "type": "number"
+    },
+    {
+      "key": "small_bronze",
+      "label": "Small Bronze",
+      "type": "number"
+    },
+    {
+      "key": "points",
+      "label": "Points",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "club": "Malmö FF",
+      "gold": 24,
+      "large_silver": 17,
+      "small_silver": 9,
+      "bronze": 9,
+      "small_bronze": 1,
+      "points": 198
+    },
+    {
+      "rank": 2,
+      "club": "IFK Göteborg",
+      "gold": 15,
+      "large_silver": 11,
+      "small_silver": 16,
+      "bronze": 9,
+      "small_bronze": 1,
+      "points": 149
+    },
+    {
+      "rank": 3,
+      "club": "IFK Norrköping",
+      "gold": 13,
+      "large_silver": 9,
+      "small_silver": 7,
+      "bronze": 7,
+      "small_bronze": 1,
+      "points": 113
+    },
+    {
+      "rank": 4,
+      "club": "Djurgårdens IF",
+      "gold": 8,
+      "large_silver": 4,
+      "small_silver": 10,
+      "bronze": 7,
+      "small_bronze": 0,
+      "points": 79
+    },
+    {
+      "rank": 5,
+      "club": "Helsingborgs IF",
+      "gold": 7,
+      "large_silver": 8,
+      "small_silver": 8,
+      "bronze": 10,
+      "small_bronze": 0,
+      "points": 85
+    },
+    {
+      "rank": 6,
+      "club": "AIK",
+      "gold": 6,
+      "large_silver": 15,
+      "small_silver": 13,
+      "bronze": 7,
+      "small_bronze": 0,
+      "points": 108
+    },
+    {
+      "rank": 7,
+      "club": "IF Elfsborg",
+      "gold": 6,
+      "large_silver": 8,
+      "small_silver": 5,
+      "bronze": 10,
+      "small_bronze": 0,
+      "points": 74
+    },
+    {
+      "rank": 8,
+      "club": "Gais",
+      "gold": 4,
+      "large_silver": 4,
+      "small_silver": 3,
+      "bronze": 5,
+      "small_bronze": 0,
+      "points": 43
+    },
+    {
+      "rank": 9,
+      "club": "Östers IF",
+      "gold": 4,
+      "large_silver": 2,
+      "small_silver": 4,
+      "bronze": 0,
+      "small_bronze": 3,
+      "points": 34
+    },
+    {
+      "rank": 10,
+      "club": "Halmstads BK",
+      "gold": 4,
+      "large_silver": 2,
+      "small_silver": 2,
+      "bronze": 2,
+      "small_bronze": 0,
+      "points": 32
+    },
+    {
+      "rank": 11,
+      "club": "Örgryte IS",
+      "gold": 3,
+      "large_silver": 2,
+      "small_silver": 5,
+      "bronze": 5,
+      "small_bronze": 1,
+      "points": 36
+    },
+    {
+      "rank": 12,
+      "club": "Åtvidabergs FF",
+      "gold": 2,
+      "large_silver": 2,
+      "small_silver": 0,
+      "bronze": 1,
+      "small_bronze": 0,
+      "points": 17
+    },
+    {
+      "rank": 13,
+      "club": "Hammarby IF",
+      "gold": 1,
+      "large_silver": 2,
+      "small_silver": 5,
+      "bronze": 2,
+      "small_bronze": 1,
+      "points": 23
+    },
+    {
+      "rank": 14,
+      "club": "Kalmar FF",
+      "gold": 1,
+      "large_silver": 1,
+      "small_silver": 3,
+      "bronze": 4,
+      "small_bronze": 0,
+      "points": 18
+    },
+    {
+      "rank": 15,
+      "club": "BK Häcken",
+      "gold": 1,
+      "large_silver": 1,
+      "small_silver": 2,
+      "bronze": 1,
+      "small_bronze": 0,
+      "points": 13
+    },
+    {
+      "rank": 16,
+      "club": "IK Sleipner",
+      "gold": 1,
+      "large_silver": 1,
+      "small_silver": 1,
+      "bronze": 1,
+      "small_bronze": 0,
+      "points": 11
+    },
+    {
+      "rank": 17,
+      "club": "Mjällby AIF",
+      "gold": 1,
+      "large_silver": 0,
+      "small_silver": 0,
+      "bronze": 0,
+      "small_bronze": 0,
+      "points": ""
+    },
+    {
+      "rank": 18,
+      "club": "Degerfors IF",
+      "gold": 0,
+      "large_silver": 2,
+      "small_silver": 2,
+      "bronze": 2,
+      "small_bronze": 0,
+      "points": 12
+    },
+    {
+      "rank": 19,
+      "club": "Örebro SK",
+      "gold": 0,
+      "large_silver": 1,
+      "small_silver": 2,
+      "bronze": 4,
+      "small_bronze": 1,
+      "points": 11
+    },
+    {
+      "rank": 20,
+      "club": "IFK Malmö",
+      "gold": 0,
+      "large_silver": 1,
+      "small_silver": 0,
+      "bronze": 0,
+      "small_bronze": 0,
+      "points": 3
+    },
+    {
+      "rank": 20,
+      "club": "Jönköpings Södra IF",
+      "gold": 0,
+      "large_silver": 1,
+      "small_silver": 0,
+      "bronze": 0,
+      "small_bronze": 0,
+      "points": 3
+    },
+    {
+      "rank": 20,
+      "club": "Råå IF",
+      "gold": 0,
+      "large_silver": 1,
+      "small_silver": 0,
+      "bronze": 0,
+      "small_bronze": 0,
+      "points": 3
+    },
+    {
+      "rank": 23,
+      "club": "Landskrona BoIS",
+      "gold": 0,
+      "large_silver": 0,
+      "small_silver": 1,
+      "bronze": 3,
+      "small_bronze": 0,
+      "points": 5
+    },
+    {
+      "rank": 23,
+      "club": "Sandvikens IF",
+      "gold": 0,
+      "large_silver": 0,
+      "small_silver": 1,
+      "bronze": 3,
+      "small_bronze": 0,
+      "points": 5
+    },
+    {
+      "rank": 25,
+      "club": "Trelleborgs FF",
+      "gold": 0,
+      "large_silver": 0,
+      "small_silver": 1,
+      "bronze": 1,
+      "small_bronze": 0,
+      "points": 3
+    },
+    {
+      "rank": 26,
+      "club": "IK Brage",
+      "gold": 0,
+      "large_silver": 0,
+      "small_silver": 0,
+      "bronze": 3,
+      "small_bronze": 0,
+      "points": 3
+    }
+  ],
+  "meta": {
+    "title": "Allsvenskan — medaljtabell per klubb - Free Download",
+    "description": "Guld, stora silver, lilla silver, brons och lilla brons i Allsvenskan per klubb. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Allsvenskan — medaljtabell per klubb | ListBase",
+    "seo_description": "Download Allsvenskan — medaljtabell per klubb — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Allsvenskan_i_fotboll"
+    ]
+  }
+}

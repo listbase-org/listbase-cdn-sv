@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:19.918Z",
-  "total_datasets": 456,
-  "total_records": 2262219,
+  "generated": "2026-10-27T02:32:22.767Z",
+  "total_datasets": 457,
+  "total_records": 2262245,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -10407,6 +10407,35 @@
         "xlsx": {
           "name": "sv-allsvenskan-medaljorer-per-sasong_SV.xlsx",
           "size": 10105
+        }
+      }
+    },
+    {
+      "id": "sv-allsvenskan-medaljtabell",
+      "name": "Allsvenskan — medaljtabell per klubb",
+      "category": "sports",
+      "record_count": 26,
+      "columns": [
+        "rank",
+        "club",
+        "gold",
+        "large_silver",
+        "small_silver",
+        "bronze",
+        "small_bronze",
+        "points"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Allsvenskan_i_fotboll",
+      "updated": "2026-10",
+      "size": 6800,
+      "files": {
+        "csv": {
+          "name": "sv-allsvenskan-medaljtabell_SV.csv",
+          "size": 1239
+        },
+        "xlsx": {
+          "name": "sv-allsvenskan-medaljtabell_SV.xlsx",
+          "size": 7893
         }
       }
     },
