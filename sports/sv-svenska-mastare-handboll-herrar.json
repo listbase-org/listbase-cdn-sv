@@ -1,0 +1,696 @@
+{
+  "id": "sv-svenska-mastare-handboll-herrar",
+  "name": "Svenska mästare i handboll för herrar",
+  "title": "Svenska mästare i handboll för herrar",
+  "description": "Svenska mästare i handboll för herrar med finalmotståndare, resultat, finalarena och publik.",
+  "category": "sports",
+  "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_m%C3%A4stare_i_handboll_f%C3%B6r_herrar",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_m%C3%A4stare_i_handboll_f%C3%B6r_herrar",
+  "updated": "2026-10",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "champion",
+      "label": "Champion",
+      "type": "string"
+    },
+    {
+      "key": "runner_up",
+      "label": "Runner Up",
+      "type": "string"
+    },
+    {
+      "key": "final_score",
+      "label": "Final Score",
+      "type": "string"
+    },
+    {
+      "key": "final_venue",
+      "label": "Final Venue",
+      "type": "string"
+    },
+    {
+      "key": "attendance",
+      "label": "Attendance",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1932,
+      "champion": "Flottans IF Karlskrona",
+      "runner_up": "Stockholms-Flottans IF",
+      "final_score": "15–9",
+      "final_venue": "Skeppsholmshallen, Stockholm",
+      "attendance": "1026"
+    },
+    {
+      "year": 1933,
+      "champion": "Redbergslids IK",
+      "runner_up": "Stockholms-Flottans IF",
+      "final_score": "15–11",
+      "final_venue": "Gamla Mässan, Göteborg",
+      "attendance": "1422"
+    },
+    {
+      "year": 1934,
+      "champion": "Redbergslids IK",
+      "runner_up": "Sollefteå GIF",
+      "final_score": "15–9",
+      "final_venue": "Gamla Mässan, Göteborg (2)",
+      "attendance": "1115"
+    },
+    {
+      "year": 1935,
+      "champion": "Majornas IK",
+      "runner_up": "Stockholms-Flottans IF",
+      "final_score": "10–9",
+      "final_venue": "Skeppsholmshallen, Stockholm (2)",
+      "attendance": "1182"
+    },
+    {
+      "year": 1936,
+      "champion": "SoIK Hellas",
+      "runner_up": "Flottans IF Karlskrona",
+      "final_score": "7–5",
+      "final_venue": "Sparre Gymnastiksal, Karlskrona",
+      "attendance": "1288"
+    },
+    {
+      "year": 1937,
+      "champion": "SoIK Hellas",
+      "runner_up": "Redbergslids IK",
+      "final_score": "9–7",
+      "final_venue": "Alvikshallen , Stockholm",
+      "attendance": "1826"
+    },
+    {
+      "year": 1938,
+      "champion": "Västerås IK",
+      "runner_up": "Djurgårdens IF",
+      "final_score": "13–12",
+      "final_venue": "Skeppsholmshallen, Stockholm (3)",
+      "attendance": "1466"
+    },
+    {
+      "year": 1939,
+      "champion": "Upsala Studenters IF",
+      "runner_up": "Redbergslids IK",
+      "final_score": "7–6",
+      "final_venue": "Studenternas tennishall, Uppsala",
+      "attendance": "822"
+    },
+    {
+      "year": 1940,
+      "champion": "Majornas IK",
+      "runner_up": "IFK Karlskrona",
+      "final_score": "8–4",
+      "final_venue": "Mässhallen , Göteborg",
+      "attendance": "2264"
+    },
+    {
+      "year": 1941,
+      "champion": "IFK Kristianstad",
+      "runner_up": "IFK Uppsala",
+      "final_score": "17–8",
+      "final_venue": "Korridoren , Kristianstad",
+      "attendance": "1299"
+    },
+    {
+      "year": 1942,
+      "champion": "Majornas IK",
+      "runner_up": "Stockholms-Flottans IF",
+      "final_score": "16–5",
+      "final_venue": "Mässhallen , Göteborg (2)",
+      "attendance": "2319"
+    },
+    {
+      "year": 1943,
+      "champion": "Majornas IK",
+      "runner_up": "Västerås HF",
+      "final_score": "14–8",
+      "final_venue": "Mässhallen , Göteborg (3)",
+      "attendance": "1900"
+    },
+    {
+      "year": 1944,
+      "champion": "Majornas IK",
+      "runner_up": "IFK Karlskrona",
+      "final_score": "16–8",
+      "final_venue": "Sparre Gymnastiksal, Karlskrona (2)",
+      "attendance": "1499"
+    },
+    {
+      "year": 1945,
+      "champion": "Majornas IK",
+      "runner_up": "IFK Karlskrona",
+      "final_score": "12–10",
+      "final_venue": "Mässhallen , Göteborg (4)",
+      "attendance": "3254"
+    },
+    {
+      "year": 1946,
+      "champion": "Majornas IK",
+      "runner_up": "Upsala IF",
+      "final_score": "11–3",
+      "final_venue": "Mässhallen , Göteborg (5)",
+      "attendance": "1990"
+    },
+    {
+      "year": 1947,
+      "champion": "Redbergslids IK",
+      "runner_up": "IK Heim",
+      "final_score": "8–7",
+      "final_venue": "Mässhallen , Göteborg (6)",
+      "attendance": "4198"
+    },
+    {
+      "year": 1948,
+      "champion": "IFK Kristianstad",
+      "runner_up": "Redbergslids IK",
+      "final_score": "8–7 (e.fl.)",
+      "final_venue": "Sporthallen , Kristianstad",
+      "attendance": "1628"
+    },
+    {
+      "year": 1949,
+      "champion": "IFK Lidingö",
+      "runner_up": "SoIK Hellas",
+      "final_score": "7–4",
+      "final_venue": "Eriksdalshallen , Stockholm",
+      "attendance": "1403"
+    },
+    {
+      "year": 1950,
+      "champion": "IK Heim",
+      "runner_up": "Örebro SK",
+      "final_score": "9–6",
+      "final_venue": "Idrottshuset , Örebro",
+      "attendance": "1857"
+    },
+    {
+      "year": 1951,
+      "champion": "AIK",
+      "runner_up": "IFK Kristianstad",
+      "final_score": "12–11",
+      "final_venue": "Eriksdalshallen , Stockholm (2)",
+      "attendance": "1784"
+    },
+    {
+      "year": 1952,
+      "champion": "IFK Kristianstad",
+      "runner_up": "AIK",
+      "final_score": "16–15 (e.fl.)",
+      "final_venue": "Sporthallen , Kristianstad (2)",
+      "attendance": "1272"
+    },
+    {
+      "year": 1968,
+      "champion": "IF Saab",
+      "runner_up": "SoIK Hellas",
+      "final_score": "17–17, 18–17",
+      "final_venue": "Linköpings Sporthall Eriksdalshallen , Stockholm (3)",
+      "attendance": "2517 2300"
+    },
+    {
+      "year": 1969,
+      "champion": "SoIK Hellas",
+      "runner_up": "Ystads IF",
+      "final_score": "26–16, 21–18",
+      "final_venue": "Eriksdalshallen , Stockholm (4) Ystad Idrottshall",
+      "attendance": "900 1028"
+    },
+    {
+      "year": 1970,
+      "champion": "SoIK Hellas",
+      "runner_up": "HK Drott",
+      "final_score": "20–17, 11–11",
+      "final_venue": "Sporthallen , Halmstad Eriksdalshallen , Stockholm (5)",
+      "attendance": "1869 2288"
+    },
+    {
+      "year": 1971,
+      "champion": "SoIK Hellas",
+      "runner_up": "Västra Frölunda IF",
+      "final_score": "13–10, 15–12",
+      "final_venue": "Eriksdalshallen , Stockholm (6) Frölundaborg , Göteborg",
+      "attendance": "921 6717"
+    },
+    {
+      "year": 1972,
+      "champion": "SoIK Hellas",
+      "runner_up": "HK Drott",
+      "final_score": "21–13, 10–14, 14–11",
+      "final_venue": "Eriksdalshallen , Stockholm (7, 8) Sporthallen , Halmstad (2)",
+      "attendance": "1190, 832 2314"
+    },
+    {
+      "year": 1973,
+      "champion": "IF Saab",
+      "runner_up": "SoIK Hellas",
+      "final_score": "14–14, 22–12",
+      "final_venue": "Eriksdalshallen , Stockholm (9) Linköpings Sporthall (2)",
+      "attendance": "2110 2674"
+    },
+    {
+      "year": 1974,
+      "champion": "IF Saab",
+      "runner_up": "SoIK Hellas",
+      "final_score": "21–15, 14–17, 20–17",
+      "final_venue": "Linköpings Sporthall (3, 4) Eriksdalshallen , Stockholm (10)",
+      "attendance": "2555, 2800 2500"
+    },
+    {
+      "year": 1975,
+      "champion": "HK Drott",
+      "runner_up": "IFK Kristianstad",
+      "final_score": "18–18, 14–12",
+      "final_venue": "Idrottshallen , Kristianstad Sporthallen , Halmstad (3)",
+      "attendance": "2650 2548"
+    },
+    {
+      "year": 1976,
+      "champion": "Ystads IF",
+      "runner_up": "IK Heim",
+      "final_score": "21–23, 15–12, 17–13",
+      "final_venue": "Mässhallen , Göteborg (7) Österporthallen (1, 2)",
+      "attendance": "3231 2370, 2426"
+    },
+    {
+      "year": 1977,
+      "champion": "SoIK Hellas",
+      "runner_up": "IK Heim",
+      "final_score": "30–16, 19–17",
+      "final_venue": "Eriksdalshallen , Stockholm (11) Frölundaborg , Göteborg (2)",
+      "attendance": "1765 2032"
+    },
+    {
+      "year": 1978,
+      "champion": "HK Drott",
+      "runner_up": "Lugi HF",
+      "final_score": "19–18, 23–18",
+      "final_venue": "Lunds Idrottshall Sporthallen , Halmstad (4)",
+      "attendance": "2000 2316"
+    },
+    {
+      "year": 1979,
+      "champion": "HK Drott",
+      "runner_up": "Ystads IF",
+      "final_score": "17–16, 19–19",
+      "final_venue": "Sannarpshallen , Halmstad Österporthallen , Ystad (3)",
+      "attendance": "5017 2997"
+    },
+    {
+      "year": 1980,
+      "champion": "Lugi HF",
+      "runner_up": "Ystads IF",
+      "final_score": "18–19, 20–19, 19–17 (e.fl.)",
+      "final_venue": "Lunds Idrottshall (2, 3) Österporthallen , Ystad (4)",
+      "attendance": "2000, 2000 2400"
+    },
+    {
+      "year": 1981,
+      "champion": "Vikingarnas IF",
+      "runner_up": "Ystads IF",
+      "final_score": "21–15, 20–22, 26–22",
+      "final_venue": "Idrottens Hus , Helsingborg (1, 2) Österporthallen , Ystad (5)",
+      "attendance": "3169, 3150 2225"
+    },
+    {
+      "year": 1982,
+      "champion": "IK Heim",
+      "runner_up": "HK Drott",
+      "final_score": "30-22, 23-21",
+      "final_venue": "Lisebergshallen , Göteborg Sannarpshallen , Halmstad (2)",
+      "attendance": "2057 5048"
+    },
+    {
+      "year": 1983,
+      "champion": "IK Heim",
+      "runner_up": "Västra Frölunda IF",
+      "final_score": "23–18, 20–16",
+      "final_venue": "Frölundaborg , Göteborg (3, 4)",
+      "attendance": "4568, 3153"
+    },
+    {
+      "year": 1984,
+      "champion": "HK Drott",
+      "runner_up": "Lugi HF",
+      "final_score": "3–0 i matcher (22–17, 17–14, 21–15)",
+      "final_venue": "Sannarpshallen , Halmstad (3, 4) Lunds Idrottshall (4)",
+      "attendance": "5029, 5050 2000"
+    },
+    {
+      "year": 1985,
+      "champion": "Redbergslids IK",
+      "runner_up": "HK Drott",
+      "final_score": "3–2 i matcher (19–18, 24–28, 19–21, 19–15, 21–20)",
+      "final_venue": "Lisebergshallen , Göteborg (2, 3) Sannarpshallen , Halmstad (5, 6) Frölundaborg , Göteborg (5)",
+      "attendance": "2392, 2120 4194, 5075 4739"
+    },
+    {
+      "year": 1986,
+      "champion": "Redbergslids IK",
+      "runner_up": "HP Warta",
+      "final_score": "3–1 i matcher (24–27, 27–21, 24–16, 31–19)",
+      "final_venue": "Frölundaborg , Göteborg (6, 7) Lisebergshallen , Göteborg (4, 5)",
+      "attendance": "1146, 1445 682, 1700"
+    },
+    {
+      "year": 1987,
+      "champion": "Redbergslids IK",
+      "runner_up": "HK Drott",
+      "final_score": "3–1 i matcher (22–14, 18–16, 7–26, 20–18)",
+      "final_venue": "Lisebergshallen , Göteborg (6, 7) Sannarpshallen , Halmstad (7, 8)",
+      "attendance": "2050, 2385 3526, 5071"
+    },
+    {
+      "year": 1988,
+      "champion": "HK Drott",
+      "runner_up": "Redbergslids IK",
+      "final_score": "3–0 i matcher (22–19, 25–24 (e.s.) , 13–12)",
+      "final_venue": "Lisebergshallen , Göteborg (8, 9) Sannarpshallen , Halmstad (9)",
+      "attendance": "1556, 1457 4515"
+    },
+    {
+      "year": 1989,
+      "champion": "Redbergslids IK",
+      "runner_up": "HK Drott",
+      "final_score": "3–0 i matcher (28–24, 22–17, 22–20)",
+      "final_venue": "Sannarpshallen , Halmstad (10, 11) Lisebergshallen , Göteborg (10)",
+      "attendance": "3468, 2813 1304"
+    },
+    {
+      "year": 1990,
+      "champion": "HK Drott",
+      "runner_up": "IF Saab",
+      "final_score": "3–1 i matcher (20–25, 22–16, 20–15, 25–16)",
+      "final_venue": "Sannarpshallen , Halmstad (12, 13) Linköpings Sporthall (5, 6)",
+      "attendance": "3880, 3452 2399, 1214"
+    },
+    {
+      "year": 1991,
+      "champion": "HK Drott",
+      "runner_up": "Irsta HF",
+      "final_score": "3–0 i matcher (22–20, 19–17, 23–15)",
+      "final_venue": "Sannarpshallen , Halmstad (14, 15) Västeråshallen",
+      "attendance": "3798, 4011 2338"
+    },
+    {
+      "year": 1992,
+      "champion": "Ystads IF",
+      "runner_up": "HK Drott",
+      "final_score": "3–0 i matcher (25–19, 24–16, 24–18)",
+      "final_venue": "Österporthallen , Ystad (6, 7) Sannarpshallen , Halmstad (16)",
+      "attendance": "1548, 1963 4238"
+    },
+    {
+      "year": 1993,
+      "champion": "Redbergslids IK",
+      "runner_up": "IK Sävehof",
+      "final_score": "3–2 i matcher (22–21, 23–19, 19–23, 15–20, 21–16)",
+      "final_venue": "Frölundaborg , Göteborg (8, 9, 10) Partille Idrottshall (1, 2)",
+      "attendance": "1316, 1546, 2323 1140, 1125"
+    },
+    {
+      "year": 1994,
+      "champion": "HK Drott",
+      "runner_up": "IK Sävehof",
+      "final_score": "3–0 i matcher (18–17, 22–17, 23–16)",
+      "final_venue": "Sannarpshallen , Halmstad (17, 18) Partille Idrottshall (3)",
+      "attendance": "3000, 4152 1035"
+    },
+    {
+      "year": 1995,
+      "champion": "Redbergslids IK",
+      "runner_up": "HK Drott",
+      "final_score": "3–2 i matcher (24–40, 26–21, 16–17, 26–23, 19–17)",
+      "final_venue": "Sannarpshallen , Halmstad (19, 20, 21) Lisebergshallen , Göteborg (11) Frölundaborg , Göteborg (11)",
+      "attendance": "2751, 2969, 4493 1143 1962"
+    },
+    {
+      "year": 1996,
+      "champion": "Redbergslids IK",
+      "runner_up": "Lugi HF",
+      "final_score": "3–0 i matcher (27–25, 28–25, 30–15)",
+      "final_venue": "Lisebergshallen , Göteborg (12, 13) Lunds Idrottshall (5)",
+      "attendance": "1423, 2245 2000"
+    },
+    {
+      "year": 1997,
+      "champion": "Redbergslids IK",
+      "runner_up": "IF Guif",
+      "final_score": "3–0 i matcher (27–21, 26–19, 35–23)",
+      "final_venue": "Lisebergshallen , Göteborg (14, 15) Sporthallen , Eskilstuna",
+      "attendance": "2028, 1733 2601"
+    },
+    {
+      "year": 1998,
+      "champion": "Redbergslids IK",
+      "runner_up": "HK Drott",
+      "final_score": "3–1 i matcher (33–19, 22–25, 29–17, 25–24)",
+      "final_venue": "Lisebergshallen , Göteborg (16, 17) Sannarpshallen , Halmstad (22, 23)",
+      "attendance": "1806, 1533 3053, 3035"
+    },
+    {
+      "year": 1999,
+      "champion": "HK Drott",
+      "runner_up": "Redbergslids IK",
+      "final_score": "3–1 i matcher (30–19, 18–32, 27–18, 23–21)",
+      "final_venue": "Sannarpshallen , Halmstad (24, 25) Lisebergshallen , Göteborg (18, 19)",
+      "attendance": "2739, 2753 1939, 2300"
+    },
+    {
+      "year": 2000,
+      "champion": "Redbergslids IK",
+      "runner_up": "HK Drott",
+      "final_score": "2–1 i matcher 28–20, 24–26, 25–22",
+      "final_venue": "Lisebergshallen , Göteborg (20, 21) Sannarpshallen , Halmstad (26)",
+      "attendance": "1770 , 1990 2203"
+    },
+    {
+      "year": 2001,
+      "champion": "Redbergslids IK",
+      "runner_up": "IF Guif",
+      "final_score": "2–1 i matcher 25–19, 26–27, 25–21",
+      "final_venue": "Frölundaborg , Göteborg (12, 13) Sporthallen , Eskilstuna (2)",
+      "attendance": "2535, 5300 2601"
+    },
+    {
+      "year": 2002,
+      "champion": "HK Drott",
+      "runner_up": "Redbergslids IK",
+      "final_score": "2–0 i matcher 30–25, 38–34 (e.f.)",
+      "final_venue": "Frölundaborg , Göteborg (14) Sporthallen , Halmstad (5)",
+      "attendance": "2162 2201"
+    },
+    {
+      "year": 2003,
+      "champion": "Redbergslids IK",
+      "runner_up": "HK Drott",
+      "final_score": "3–0 i matcher (31–24, 32–25, 35–20)",
+      "final_venue": "Frölundaborg , Göteborg (15, 16) Sunnerbohov , Ljungby",
+      "attendance": "1525, 2503 2400"
+    },
+    {
+      "year": 2004,
+      "champion": "IK Sävehof",
+      "runner_up": "Redbergslids IK",
+      "final_score": "3–0 i matcher (28–18, 25–14, 21–19)",
+      "final_venue": "Scandinavium , Göteborg (1, 2, 3)",
+      "attendance": "3226, 3437, 3500"
+    },
+    {
+      "year": 2005,
+      "champion": "IK Sävehof",
+      "runner_up": "IFK Skövde",
+      "final_score": "27–26",
+      "final_venue": "Globen , Stockholm",
+      "attendance": "14327"
+    },
+    {
+      "year": 2006,
+      "champion": "Hammarby IF",
+      "runner_up": "IK Sävehof",
+      "final_score": "34–31",
+      "final_venue": "Scandinavium , Göteborg (4)",
+      "attendance": "12236"
+    },
+    {
+      "year": 2007,
+      "champion": "Hammarby IF",
+      "runner_up": "IFK Skövde",
+      "final_score": "34–22",
+      "final_venue": "Globen , Stockholm (2)",
+      "attendance": "14089"
+    },
+    {
+      "year": 2008,
+      "champion": "Hammarby IF",
+      "runner_up": "IK Sävehof",
+      "final_score": "35–29",
+      "final_venue": "Scandinavium , Göteborg (5)",
+      "attendance": "12167"
+    },
+    {
+      "year": 2009,
+      "champion": "Alingsås HK",
+      "runner_up": "IF Guif",
+      "final_score": "29–26",
+      "final_venue": "Globen , Stockholm (4)",
+      "attendance": "13297"
+    },
+    {
+      "year": 2010,
+      "champion": "IK Sävehof",
+      "runner_up": "HK Drott Halmstad",
+      "final_score": "30–28 (e.f.)",
+      "final_venue": "Malmö Arena",
+      "attendance": "11822"
+    },
+    {
+      "year": 2011,
+      "champion": "IK Sävehof",
+      "runner_up": "Eskilstuna Guif",
+      "final_score": "35–18",
+      "final_venue": "Scandinavium , Göteborg (6)",
+      "attendance": "10763"
+    },
+    {
+      "year": 2012,
+      "champion": "IK Sävehof",
+      "runner_up": "IFK Kristianstad",
+      "final_score": "29–21",
+      "final_venue": "Malmö Arena (2)",
+      "attendance": "12068"
+    },
+    {
+      "year": 2013,
+      "champion": "HK Drott Halmstad",
+      "runner_up": "IFK Kristianstad",
+      "final_score": "28–27",
+      "final_venue": "Scandinavium , Göteborg (7)",
+      "attendance": "12044"
+    },
+    {
+      "year": 2014,
+      "champion": "Alingsås HK",
+      "runner_up": "Lugi HF",
+      "final_score": "24–22",
+      "final_venue": "Malmö Arena (3)",
+      "attendance": "10467"
+    },
+    {
+      "year": 2015,
+      "champion": "IFK Kristianstad",
+      "runner_up": "Alingsås HK",
+      "final_score": "28–25",
+      "final_venue": "Scandinavium , Göteborg (8)",
+      "attendance": "12312"
+    },
+    {
+      "year": 2016,
+      "champion": "IFK Kristianstad",
+      "runner_up": "Alingsås HK",
+      "final_score": "27–18",
+      "final_venue": "Malmö Arena (4)",
+      "attendance": "11579"
+    },
+    {
+      "year": 2017,
+      "champion": "IFK Kristianstad",
+      "runner_up": "Alingsås HK",
+      "final_score": "31–25",
+      "final_venue": "Malmö Arena (5)",
+      "attendance": "9876"
+    },
+    {
+      "year": 2018,
+      "champion": "IFK Kristianstad",
+      "runner_up": "HK Malmö",
+      "final_score": "23–22 (e.fl.)",
+      "final_venue": "Scandinavium , Göteborg (9)",
+      "attendance": "9668"
+    },
+    {
+      "year": 2019,
+      "champion": "IK Sävehof",
+      "runner_up": "Alingsås HK",
+      "final_score": "3–2 i matcher (33–30, 16–22, 22–25, 32–29 (e.fl.) , 27–20)",
+      "final_venue": "Estrad Alingsås (1, 2, 3) Partille Arena (1, 2)",
+      "attendance": "2560, 2750, 2750 3038, 3627"
+    },
+    {
+      "year": 2020,
+      "champion": "Ingen mästare utsedd",
+      "runner_up": "Ingen mästare utsedd",
+      "final_score": "Ingen mästare utsedd",
+      "final_venue": "",
+      "attendance": ""
+    },
+    {
+      "year": 2021,
+      "champion": "IK Sävehof",
+      "runner_up": "IFK Skövde",
+      "final_score": "3–0 i matcher (38–37 (e.fl.) , 32–22, 30-27)",
+      "final_venue": "Partille Arena (3, 4) Arena Skövde",
+      "attendance": "0, 0 0"
+    },
+    {
+      "year": 2022,
+      "champion": "Ystads IF",
+      "runner_up": "IFK Skövde",
+      "final_score": "3–1 i matcher (30–28, 29–34 (e.fl.) , 31–27, 47–46 (e.fl.) )",
+      "final_venue": "Arena Skövde (2, 3) Ystad Arena (1, 2)",
+      "attendance": "2432, 2609, 2516, 2700"
+    },
+    {
+      "year": 2023,
+      "champion": "IFK Kristianstad",
+      "runner_up": "IK Sävehof",
+      "final_score": "3–2 i matcher (29–34, 45–44 (e.fl.) , 33–31 (e.fl.) , 28–30, 30–23)",
+      "final_venue": "Kristianstad Arena (1, 2, 3) Partille Arena (5, 6)",
+      "attendance": "4303, 4720, 4954 3120, 3318"
+    },
+    {
+      "year": 2024,
+      "champion": "IK Sävehof",
+      "runner_up": "Ystads IF",
+      "final_score": "3–1 i matcher (28–27, 26-30, 39–37 (e.fl.) , 32–27)",
+      "final_venue": "Partille Arena (7, 8) Ystad Arena (3, 4)",
+      "attendance": "1922, 1890 2695, 2795"
+    },
+    {
+      "year": 2025,
+      "champion": "Ystads IF",
+      "runner_up": "Hammarby IF",
+      "final_score": "3–1 i matcher (32–31, 35-37, 33–32, 32–29)",
+      "final_venue": "Ystad Arena (9, 10) Eriksdalshallen (11, 12)",
+      "attendance": "2932, 3142 2330, 2350"
+    },
+    {
+      "year": 2026,
+      "champion": "IFK Kristianstad",
+      "runner_up": "HK Malmö",
+      "final_score": "3–1 i matcher (39-34, 35-42, 34-29, 41-38)",
+      "final_venue": "Kristianstad Arena (4, 5) Malmö Arena (6, 7)",
+      "attendance": "3479, 4641 5026, 5836"
+    }
+  ],
+  "meta": {
+    "title": "Svenska mästare i handboll för herrar - Free Download",
+    "description": "Svenska mästare i handboll för herrar med finalmotståndare, resultat, finalarena och publik. Contains 80 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska mästare i handboll för herrar | ListBase",
+    "seo_description": "Download Svenska mästare i handboll för herrar — 80 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 80 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_m%C3%A4stare_i_handboll_f%C3%B6r_herrar"
+    ]
+  }
+}

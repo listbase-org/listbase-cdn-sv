@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:15.284Z",
-  "total_datasets": 479,
-  "total_records": 2263466,
+  "generated": "2026-10-27T02:33:17.713Z",
+  "total_datasets": 480,
+  "total_records": 2263546,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -11046,6 +11046,33 @@
         "xlsx": {
           "name": "sv-svenska-bandyfinaler_SV.xlsx",
           "size": 14776
+        }
+      }
+    },
+    {
+      "id": "sv-svenska-mastare-handboll-herrar",
+      "name": "Svenska mästare i handboll för herrar",
+      "category": "sports",
+      "record_count": 80,
+      "columns": [
+        "year",
+        "champion",
+        "runner_up",
+        "final_score",
+        "final_venue",
+        "attendance"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_m%C3%A4stare_i_handboll_f%C3%B6r_herrar",
+      "updated": "2026-10",
+      "size": 22082,
+      "files": {
+        "csv": {
+          "name": "sv-svenska-mastare-handboll-herrar_SV.csv",
+          "size": 9976
+        },
+        "xlsx": {
+          "name": "sv-svenska-mastare-handboll-herrar_SV.xlsx",
+          "size": 11522
         }
       }
     },
