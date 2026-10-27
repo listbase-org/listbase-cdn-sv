@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:38.570Z",
-  "total_datasets": 464,
-  "total_records": 2262824,
+  "generated": "2026-10-27T02:32:41.026Z",
+  "total_datasets": 465,
+  "total_records": 2262847,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -10647,6 +10647,33 @@
         "xlsx": {
           "name": "sv-idrottsanlaggningar_SV.xlsx",
           "size": 91969
+        }
+      }
+    },
+    {
+      "id": "sv-ishockey-sm-medaljer",
+      "name": "Svenska mästare i ishockey — medaljer per klubb",
+      "category": "sports",
+      "record_count": 23,
+      "columns": [
+        "team",
+        "gold",
+        "silver",
+        "total",
+        "gold_years",
+        "silver_years"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Svenska_Hockeyligan",
+      "updated": "2026-10",
+      "size": 6353,
+      "files": {
+        "csv": {
+          "name": "sv-ishockey-sm-medaljer_SV.csv",
+          "size": 2124
+        },
+        "xlsx": {
+          "name": "sv-ishockey-sm-medaljer_SV.xlsx",
+          "size": 8101
         }
       }
     },
