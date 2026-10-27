@@ -1,12 +1,12 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:50.974Z",
-  "total_datasets": 469,
-  "total_records": 2262999,
+  "generated": "2026-10-27T02:32:53.251Z",
+  "total_datasets": 470,
+  "total_records": 2263006,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -114,6 +114,32 @@
         "xlsx": {
           "name": "sv-landskapsapplen_SV.xlsx",
           "size": 7346
+        }
+      }
+    },
+    {
+      "id": "sv-renskotsel-statistik",
+      "name": "Renskötsel i Sverige — statistik",
+      "category": "agriculture",
+      "record_count": 7,
+      "columns": [
+        "year",
+        "sami_villages",
+        "enterprises",
+        "reindeer_owners",
+        "reindeer"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Rensk%C3%B6tsel",
+      "updated": "2026-10",
+      "size": 2574,
+      "files": {
+        "csv": {
+          "name": "sv-renskotsel-statistik_SV.csv",
+          "size": 297
+        },
+        "xlsx": {
+          "name": "sv-renskotsel-statistik_SV.xlsx",
+          "size": 6956
         }
       }
     },

@@ -1,0 +1,100 @@
+{
+  "id": "sv-renskotsel-statistik",
+  "name": "Renskötsel i Sverige — statistik",
+  "title": "Renskötsel i Sverige — statistik",
+  "description": "Antal samebyar, renskötselföretag, renägare och renar i Sverige för olika år.",
+  "category": "agriculture",
+  "source": "https://sv.wikipedia.org/wiki/Rensk%C3%B6tsel",
+  "source_url": "https://sv.wikipedia.org/wiki/Rensk%C3%B6tsel",
+  "updated": "2026-10",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "sami_villages",
+      "label": "Sami Villages",
+      "type": "number"
+    },
+    {
+      "key": "enterprises",
+      "label": "Enterprises",
+      "type": "number"
+    },
+    {
+      "key": "reindeer_owners",
+      "label": "Reindeer Owners",
+      "type": "number"
+    },
+    {
+      "key": "reindeer",
+      "label": "Reindeer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1994,
+      "sami_villages": 51,
+      "enterprises": 972,
+      "reindeer_owners": 4746,
+      "reindeer": 283841
+    },
+    {
+      "year": 1995,
+      "sami_villages": 51,
+      "enterprises": "",
+      "reindeer_owners": 4806,
+      "reindeer": 253300
+    },
+    {
+      "year": 1996,
+      "sami_villages": 51,
+      "enterprises": "",
+      "reindeer_owners": 4815,
+      "reindeer": 240951
+    },
+    {
+      "year": 1997,
+      "sami_villages": 51,
+      "enterprises": 943,
+      "reindeer_owners": 4698,
+      "reindeer": 238567
+    },
+    {
+      "year": 1998,
+      "sami_villages": 51,
+      "enterprises": 932,
+      "reindeer_owners": 4654,
+      "reindeer": 227150
+    },
+    {
+      "year": 1999,
+      "sami_villages": 51,
+      "enterprises": "",
+      "reindeer_owners": 4522,
+      "reindeer": 220107
+    },
+    {
+      "year": 2000,
+      "sami_villages": 51,
+      "enterprises": 930,
+      "reindeer_owners": 4525,
+      "reindeer": 221164
+    }
+  ],
+  "meta": {
+    "title": "Renskötsel i Sverige — statistik - Free Download",
+    "description": "Antal samebyar, renskötselföretag, renägare och renar i Sverige för olika år. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Renskötsel i Sverige — statistik | ListBase",
+    "seo_description": "Download Renskötsel i Sverige — statistik — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Rensk%C3%B6tsel"
+    ]
+  }
+}
