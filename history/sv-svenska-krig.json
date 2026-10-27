@@ -1,0 +1,534 @@
+{
+  "id": "sv-svenska-krig",
+  "name": "Svenska krig",
+  "title": "Svenska krig",
+  "description": "Krig och konflikter som Sverige deltagit i från 1000-talet till 1814 med stridande parter, resultat och fredsavtal.",
+  "category": "history",
+  "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_krig",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_krig",
+  "updated": "2026-10",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "conflict",
+      "label": "Conflict",
+      "type": "string"
+    },
+    {
+      "key": "belligerent_1",
+      "label": "Belligerent 1",
+      "type": "string"
+    },
+    {
+      "key": "belligerent_2",
+      "label": "Belligerent 2",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    },
+    {
+      "key": "peace_treaty",
+      "label": "Peace Treaty",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "conflict": "Inge den äldres krig mot Norge (1090-talet—1101)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Norge",
+      "result": "Norske kungen Magnus Barfot fick Dalsland som hemgift efter giftermål med Inge den äldres dotter.",
+      "peace_treaty": "Trekungamötet 1101"
+    },
+    {
+      "conflict": "Striden mellan Sverkerska och Erikska ätten (1169–1210)",
+      "belligerent_1": "Erikska ätten",
+      "belligerent_2": "Sverkeska ätten",
+      "result": "Seger för Erikska ätten",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Estländska korståget (1220)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Estländare",
+      "result": "Estländsk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Norsk attack mot Sverige (1225/1249)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Norge",
+      "result": "Ingen klar vinnare",
+      "peace_treaty": "Freden i Lödöse"
+    },
+    {
+      "conflict": "Slaget vid Olustra (1229 eller 1230)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Folkungarna",
+      "result": "Seger för Folkungarna",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Svensk-Novgorodiska kriget (1240) (1240)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Republiken Novgorod",
+      "result": "Svensk förlust vid Neva",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Slaget vid Sparrsätra (1247)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Folkungarna",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Andra svenska korståget (1248–1250)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Österland",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Slaget vid Herrevadsbro (1251)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Folkungarna",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Avsättningskriget mot kung Valdemar (1275)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Magnus & Eriks upprorsmän",
+      "result": "Seger för upprorsmännen",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "6000-markskriget (1276–1278)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark",
+      "result": "Dansk seger",
+      "peace_treaty": "Freden i Laholm"
+    },
+    {
+      "conflict": "Tredje folkungaupproret (1278–1280)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Folkungarna",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Tredje svenska korståget (1293)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Österland",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Slaget vid Landskrona (1301)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Republiken Novgorod",
+      "result": "Novgorodsk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Slaget vid Röcklinge backe (1313)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Gotland",
+      "result": "Gotländsk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Slaget vid Mjölkalånga (1318)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Kexholmskriget (1321–1323)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Ryssland",
+      "result": "Oavgjort",
+      "peace_treaty": "Freden i Nöteborg"
+    },
+    {
+      "conflict": "Kalundborgskriget (1341–1343)",
+      "belligerent_1": "Sverige Holstein",
+      "belligerent_2": "Danmark Hanseförbundet",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Magnus Erikssons korståg (1348–1351)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Republiken Novgorod",
+      "result": "Status quo ante bellum",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Valdemar Atterdags invasion av Gotland (1361)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark",
+      "result": "Dansk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Avsättningskriget mot Albrekt av Mecklenburg (1388–1389)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark",
+      "result": "Dansk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Engelbrektsupproret (1434–1436)",
+      "belligerent_1": "Svenska upprorsmän",
+      "belligerent_2": "Kalmarunionen",
+      "result": "Seger för upprorsmännen",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Pukefejden (1436–1437)",
+      "belligerent_1": "Karl Knutsson (Bonde)",
+      "belligerent_2": "Erik Puke",
+      "result": "Seger för Karl Knutsson (Bonde)",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Kriget om Norge (1448-1451)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark",
+      "result": "Dansk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Kettil Karlssons uppror (1464–1465)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Kalmarunionen",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Dansk-svenska kriget (1468–1469) (1468–1469)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Kalmarunionen",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Slaget vid Öresten (1470)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Kalmarunionen",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Dansk-svenska kriget (1470–1471) (1470–1471)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Kalmarunionen",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Sturarnas ryska krig (1495–1497)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Moskvariket",
+      "result": "Svensk seger",
+      "peace_treaty": "Freden i Novgorod"
+    },
+    {
+      "conflict": "Avsättningskriget mot kung Hans (1501–1503)",
+      "belligerent_1": "Svenska upprorsmän",
+      "belligerent_2": "Kalmarunionen",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Svante Nilsson Stures krig mot Danmark (1504–1512)",
+      "belligerent_1": "Sverige Lübeck",
+      "belligerent_2": "Kalmarunionen",
+      "result": "Seger för Kalmarunionen",
+      "peace_treaty": "Freden i Malmö"
+    },
+    {
+      "conflict": "Sten Sture den yngres krig mot Danmark (1512–1520)",
+      "belligerent_1": "Svenska upprorsmän",
+      "belligerent_2": "Kalmarunionen",
+      "result": "Seger för Kalmarunionen",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Gustav Vasas befrielsekrig (1521–1523)",
+      "belligerent_1": "Svenska upprorsmän Lübeck",
+      "belligerent_2": "Kalmarunionen",
+      "result": "Svensk seger",
+      "peace_treaty": "Malmö recess"
+    },
+    {
+      "conflict": "Grevefejden (1534–1536)",
+      "belligerent_1": "Jylland Fyn Slesvig Holstein Sverige Preussen",
+      "belligerent_2": "Skåneland Själland Malmö Köpenhamn Lübeck",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Dackefejden (1542–1543)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Nils Dackes bondehär",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Stora ryska kriget (1554–1557)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Ryssland",
+      "result": "Status quo ante bellum",
+      "peace_treaty": "Freden i Novgorod"
+    },
+    {
+      "conflict": "Nordiska sjuårskriget (1563–1570)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark-Norge",
+      "result": "Status quo ante bellum",
+      "peace_treaty": "Freden i Stettin"
+    },
+    {
+      "conflict": "Första polska kriget (1563–1568)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Polen-Litauen",
+      "result": "Status quo ante bellum",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Nordiska tjugofemårskriget (1570–1595)",
+      "belligerent_1": "Sverige Polen-Litauen",
+      "belligerent_2": "Ryssland",
+      "result": "Svensk seger",
+      "peace_treaty": "Freden i Teusina"
+    },
+    {
+      "conflict": "Avsättningskriget mot Sigismund (1598–1599)",
+      "belligerent_1": "Sverige Polen-Litauen",
+      "belligerent_2": "Svenska upprorsmän",
+      "result": "Seger för upprorsmännen",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Andra polska kriget (1600–1629)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Polen-Litauen Tysk-romerska riket",
+      "result": "Svensk seger",
+      "peace_treaty": "Stilleståndet i Altmark Stilleståndet i Stuhmsdorf"
+    },
+    {
+      "conflict": "De la Gardieska fälttåget (1609–1610)",
+      "belligerent_1": "Sverige Ryska upprorsmän",
+      "belligerent_2": "Polen-Litauen",
+      "result": "Polsk-Litauisk seger",
+      "peace_treaty": "De la Gardies dagtingan"
+    },
+    {
+      "conflict": "Ingermanländska kriget (1610–1617)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Ryssland",
+      "result": "Svensk seger",
+      "peace_treaty": "Freden i Stolbova"
+    },
+    {
+      "conflict": "Kalmarkriget (1611–1613)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark-Norge",
+      "result": "Dansk-Norsk seger",
+      "peace_treaty": "Freden i Knäred"
+    },
+    {
+      "conflict": "Trettioåriga kriget (1618–1648)",
+      "belligerent_1": "Sverige Frankrike Danmark-Norge Böhmen Kurfurstendömet Sachsen Nederländerna Kurpfalz Braunschweig-Lüneburg Hessen-Kassel Brandenburg-Preussen England Skottland Transsylvanien",
+      "belligerent_2": "Tysk-romerska riket Katolska ligan Österrike Bayern Böhmen Spanien Ungern Kroatien Danmark-Norge",
+      "result": "Svensk-fransk seger",
+      "peace_treaty": "Westfaliska freden"
+    },
+    {
+      "conflict": "Torstensons krig (1643–1645)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark-Norge",
+      "result": "Svensk seger",
+      "peace_treaty": "Freden i Brömsebro"
+    },
+    {
+      "conflict": "Första bremiska kriget (1653–1654)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Bremen",
+      "result": "Svensk seger",
+      "peace_treaty": "Recessen i Stade"
+    },
+    {
+      "conflict": "Karl X Gustavs polska krig (1655–1660)",
+      "belligerent_1": "Sverige Ryssland Brandenburg-Preussen Kosackhetmanatet Litauen Transsylvanien Moldova Valakiet",
+      "belligerent_2": "Polen-Litauen Ryssland Krimkhanatet Kosackhetmanatet Österrike Ungern Brandenburg-Preussen Danmark-Norge Nederländerna",
+      "result": "Status quo ante bellum",
+      "peace_treaty": "Freden i Oliwa"
+    },
+    {
+      "conflict": "Karl X Gustavs ryska krig (1656–1661)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Ryssland",
+      "result": "Status quo ante bellum",
+      "peace_treaty": "Freden i Kardis"
+    },
+    {
+      "conflict": "Karl X Gustavs första danska krig (1657–1658)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark-Norge",
+      "result": "Svensk seger",
+      "peace_treaty": "Freden i Roskilde"
+    },
+    {
+      "conflict": "Karl X Gustavs andra danska krig (1658–1660)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark-Norge Nederländerna Brandenburg-Preussen Österrike Polen-Litauen",
+      "result": "Dansk-Norsk seger",
+      "peace_treaty": "Freden i Köpenhamn"
+    },
+    {
+      "conflict": "Andra bremiska kriget (1665–1666)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Bremen",
+      "result": "Bremisk seger",
+      "peace_treaty": "Traktaten i Habenhausen"
+    },
+    {
+      "conflict": "Skånska kriget (1675–1679)",
+      "belligerent_1": "Sverige Frankrike",
+      "belligerent_2": "Danmark-Norge Brandenburg-Preussen Tysk-romerska riket Nederländerna Spanien Hertigdömet Braunschweig-Lüneburg Furstbiskopsstiftet Münster",
+      "result": "Status quo ante bellum",
+      "peace_treaty": "Freden i Fontainebleau Freden i Lund Freden i Saint-Germain"
+    },
+    {
+      "conflict": "Pfalziska tronföljdskriget (1688–1697)",
+      "belligerent_1": "Nederländerna England Skottland Tysk-romerska riket Spanien Savojen Sverige",
+      "belligerent_2": "Frankrike",
+      "result": "Status quo ante bellum",
+      "peace_treaty": "Freden i Rijswijk"
+    },
+    {
+      "conflict": "Stora nordiska kriget (1700–1721)",
+      "belligerent_1": "Sverige Holstein-Gottorp Hannover Osmanska riket Polen-Litauen Zaporizjakosacker Storbritannien Nederländerna",
+      "belligerent_2": "Ryssland Danmark-Norge Polen-Litauen Kurfurstendömet Sachsen Zaporizjakosacker Preussen Hannover Storbritannien",
+      "result": "Koalitionsseger",
+      "peace_treaty": "Freden i Traventhal Freden i Altranstädt Freden i Stockholm Freden i Frederiksborg Freden i Nystad"
+    },
+    {
+      "conflict": "Hattarnas ryska krig (1741–1743)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Ryssland",
+      "result": "Rysk seger",
+      "peace_treaty": "Freden i Åbo"
+    },
+    {
+      "conflict": "Dalupproret 1743",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Dalkarar",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Pommerska kriget (1757–1762)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Preussen",
+      "result": "Status quo ante bellum",
+      "peace_treaty": "Freden i Hamburg"
+    },
+    {
+      "conflict": "Träffningen vid Ibiza (1780)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Storbritannien",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Gustav III:s ryska krig (1788–1790)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Ryssland",
+      "result": "Svensk seger",
+      "peace_treaty": "Freden i Värälä"
+    },
+    {
+      "conflict": "Svensk-Algeriska kriget 1791-1792",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Algeriet",
+      "result": "Algerisk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Teaterkriget (1788–1789)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark",
+      "result": "Status quo ante bellum",
+      "peace_treaty": "Den danska neutralitetsdeklarationen 1789"
+    },
+    {
+      "conflict": "Barbareskkriget (1801–1805)",
+      "belligerent_1": "Sverige USA",
+      "belligerent_2": "Barbareskstaterna",
+      "result": "Svensk seger",
+      "peace_treaty": ""
+    },
+    {
+      "conflict": "Första Napoleonkriget (1805–1810)",
+      "belligerent_1": "Sverige Storbritannien Preussen",
+      "belligerent_2": "Frankrike",
+      "result": "Fransk seger",
+      "peace_treaty": "Freden i Paris 1810"
+    },
+    {
+      "conflict": "Finska kriget (1808–1809)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Ryssland",
+      "result": "Rysk seger",
+      "peace_treaty": "Freden i Fredrikshamn"
+    },
+    {
+      "conflict": "Dansk-svenska kriget (1808–1809) (1808–1809)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Danmark",
+      "result": "Status quo ante bellum",
+      "peace_treaty": "Freden i Jönköping"
+    },
+    {
+      "conflict": "Kriget mot Storbritannien (1810–1812)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Storbritannien",
+      "result": "Status quo ante bellum",
+      "peace_treaty": "Freden i Örebro"
+    },
+    {
+      "conflict": "Andra Napoleonkriget (1813–1814)",
+      "belligerent_1": "Ryssland Preussen Storbritannien Sverige Spanien Portugal Sicilien Sardinien Österrike Bayern Württemberg Baden Nederländerna Liechtenstein Danmark",
+      "belligerent_2": "Frankrike Hertigdömet Warszawa Kungariket Italien Kungariket Neapel Rhenförbundet Danmark-Norge",
+      "result": "Svensk seger",
+      "peace_treaty": "Freden i Paris Freden i Kiel"
+    },
+    {
+      "conflict": "Fälttåget mot Norge (1814)",
+      "belligerent_1": "Sverige",
+      "belligerent_2": "Norge",
+      "result": "Svensk seger",
+      "peace_treaty": "Konventionen i Moss"
+    }
+  ],
+  "meta": {
+    "title": "Svenska krig - Free Download",
+    "description": "Krig och konflikter som Sverige deltagit i från 1000-talet till 1814 med stridande parter, resultat och fredsavtal. Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska krig | ListBase",
+    "seo_description": "Download Svenska krig — 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_krig"
+    ]
+  }
+}
