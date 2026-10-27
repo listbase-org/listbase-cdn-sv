@@ -1,0 +1,336 @@
+{
+  "id": "sv-banker-nyckeltal",
+  "name": "Banker i Sverige — nyckeltal",
+  "title": "Banker i Sverige — nyckeltal",
+  "description": "Svenska bankaktiebolag, investmentbanker, sparbanker och utländska banker i Sverige: antal kontor, anställda, utlåning, inlåning, eget kapital och balansomslutning (mnkr).",
+  "category": "economy",
+  "source": "https://sv.wikipedia.org/wiki/Bankv%C3%A4sendet_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Bankv%C3%A4sendet_i_Sverige",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "branches",
+      "label": "Branches",
+      "type": "number"
+    },
+    {
+      "key": "employees",
+      "label": "Employees",
+      "type": "number"
+    },
+    {
+      "key": "lending_msek",
+      "label": "Lending Msek",
+      "type": "number"
+    },
+    {
+      "key": "deposits_msek",
+      "label": "Deposits Msek",
+      "type": "number"
+    },
+    {
+      "key": "equity_msek",
+      "label": "Equity Msek",
+      "type": "number"
+    },
+    {
+      "key": "total_assets_msek",
+      "label": "Total Assets Msek",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "Svenska Handelsbanken",
+      "type": "Svenska bankaktiebolag",
+      "branches": 461,
+      "employees": 7086,
+      "lending_msek": 686827,
+      "deposits_msek": 705565,
+      "equity_msek": 72657,
+      "total_assets_msek": 1813261
+    },
+    {
+      "bank": "SEB",
+      "type": "Svenska bankaktiebolag",
+      "branches": 170,
+      "employees": 7653,
+      "lending_msek": 843651,
+      "deposits_msek": 607454,
+      "equity_msek": 71304,
+      "total_assets_msek": 1787744
+    },
+    {
+      "bank": "Nordea",
+      "type": "Svenska bankaktiebolag",
+      "branches": 304,
+      "employees": 7023,
+      "lending_msek": 324584,
+      "deposits_msek": 395595,
+      "equity_msek": 150800,
+      "total_assets_msek": 1259987
+    },
+    {
+      "bank": "Swedbank",
+      "type": "Svenska bankaktiebolag",
+      "branches": 317,
+      "employees": 8165,
+      "lending_msek": 342394,
+      "deposits_msek": 459720,
+      "equity_msek": 62751,
+      "total_assets_msek": 1155178
+    },
+    {
+      "bank": "SBAB Bank",
+      "type": "Svenska bankaktiebolag",
+      "branches": 4,
+      "employees": 419,
+      "lending_msek": 32940,
+      "deposits_msek": 8769,
+      "equity_msek": 7825,
+      "total_assets_msek": 162648
+    },
+    {
+      "bank": "Länsförsäkringar Bank",
+      "type": "Svenska bankaktiebolag",
+      "branches": 125,
+      "employees": 97,
+      "lending_msek": 33400,
+      "deposits_msek": 49766,
+      "equity_msek": 6352,
+      "total_assets_msek": 76832
+    },
+    {
+      "bank": "Skandiabanken",
+      "type": "Svenska bankaktiebolag",
+      "branches": 1,
+      "employees": 827,
+      "lending_msek": 53393,
+      "deposits_msek": 71302,
+      "equity_msek": 2844,
+      "total_assets_msek": 76690
+    },
+    {
+      "bank": "Volvofinans Bank",
+      "type": "Svenska bankaktiebolag",
+      "branches": 1,
+      "employees": 174,
+      "lending_msek": 14638,
+      "deposits_msek": 7098,
+      "equity_msek": 670,
+      "total_assets_msek": 29476
+    },
+    {
+      "bank": "Ikano Bank",
+      "type": "Svenska bankaktiebolag",
+      "branches": 3,
+      "employees": 291,
+      "lending_msek": 11616,
+      "deposits_msek": 12661,
+      "equity_msek": 1802,
+      "total_assets_msek": 19139
+    },
+    {
+      "bank": "Nordnet",
+      "type": "Svenska bankaktiebolag",
+      "branches": 1,
+      "employees": 183,
+      "lending_msek": 4630,
+      "deposits_msek": 12887,
+      "equity_msek": 919,
+      "total_assets_msek": 14684
+    },
+    {
+      "bank": "Carnegie Investment Bank",
+      "type": "Svenska investmentbanker",
+      "branches": 3,
+      "employees": 166,
+      "lending_msek": 1089,
+      "deposits_msek": 3743,
+      "equity_msek": 2639,
+      "total_assets_msek": 8767
+    },
+    {
+      "bank": "Erik Penser Bankaktiebolag",
+      "type": "Svenska investmentbanker",
+      "branches": 1,
+      "employees": 141,
+      "lending_msek": 661,
+      "deposits_msek": 1485,
+      "equity_msek": 293,
+      "total_assets_msek": 2003
+    },
+    {
+      "bank": "Sparbanken Öresund",
+      "type": "Svenska sparbanker",
+      "branches": 35,
+      "employees": 477,
+      "lending_msek": 22237,
+      "deposits_msek": 22356,
+      "equity_msek": 2646,
+      "total_assets_msek": 28158
+    },
+    {
+      "bank": "Sparbanken 1826",
+      "type": "Svenska sparbanker",
+      "branches": 20,
+      "employees": 272,
+      "lending_msek": 12351,
+      "deposits_msek": 14814,
+      "equity_msek": 1379,
+      "total_assets_msek": 17279
+    },
+    {
+      "bank": "Färs & Frosta Sparbank",
+      "type": "Svenska sparbanker",
+      "branches": 18,
+      "employees": 240,
+      "lending_msek": 9870,
+      "deposits_msek": 13018,
+      "equity_msek": 1701,
+      "total_assets_msek": 15012
+    },
+    {
+      "bank": "Sparbanken Nord",
+      "type": "Svenska sparbanker",
+      "branches": 16,
+      "employees": 190,
+      "lending_msek": 11369,
+      "deposits_msek": 11958,
+      "equity_msek": 1156,
+      "total_assets_msek": 13720
+    },
+    {
+      "bank": "Swedbank Sjuhärad",
+      "type": "Svenska sparbanker",
+      "branches": 11,
+      "employees": 185,
+      "lending_msek": 10430,
+      "deposits_msek": 11018,
+      "equity_msek": 1224,
+      "total_assets_msek": 13265
+    },
+    {
+      "bank": "Sörmlands Sparbank",
+      "type": "Svenska sparbanker",
+      "branches": 7,
+      "employees": 180,
+      "lending_msek": 6457,
+      "deposits_msek": 8030,
+      "equity_msek": 1570,
+      "total_assets_msek": 9762
+    },
+    {
+      "bank": "Varbergs Sparbank",
+      "type": "Svenska sparbanker",
+      "branches": 8,
+      "employees": 118,
+      "lending_msek": 7252,
+      "deposits_msek": 7328,
+      "equity_msek": 1767,
+      "total_assets_msek": 9206
+    },
+    {
+      "bank": "Sparbanken Syd",
+      "type": "Svenska sparbanker",
+      "branches": 6,
+      "employees": 144,
+      "lending_msek": 6807,
+      "deposits_msek": 6356,
+      "equity_msek": 1070,
+      "total_assets_msek": 8450
+    },
+    {
+      "bank": "Sparbanken Alingsås",
+      "type": "Svenska sparbanker",
+      "branches": 5,
+      "employees": 93,
+      "lending_msek": 6033,
+      "deposits_msek": 6782,
+      "equity_msek": 1557,
+      "total_assets_msek": 8444
+    },
+    {
+      "bank": "Sparbanken Skaraborg",
+      "type": "Svenska sparbanker",
+      "branches": 5,
+      "employees": 99,
+      "lending_msek": 5352,
+      "deposits_msek": 6003,
+      "equity_msek": 1540,
+      "total_assets_msek": 7998
+    },
+    {
+      "bank": "Danske Bank",
+      "type": "Utländska banker i Sverige",
+      "branches": 46,
+      "employees": 1265,
+      "lending_msek": 291453,
+      "deposits_msek": 137539,
+      "equity_msek": "",
+      "total_assets_msek": 640519
+    },
+    {
+      "bank": "DNB",
+      "type": "Utländska banker i Sverige",
+      "branches": 1,
+      "employees": 288,
+      "lending_msek": 54494,
+      "deposits_msek": 20493,
+      "equity_msek": "",
+      "total_assets_msek": 92226
+    },
+    {
+      "bank": "Banco Santander",
+      "type": "Utländska banker i Sverige",
+      "branches": 2,
+      "employees": 77,
+      "lending_msek": 7616,
+      "deposits_msek": 0,
+      "equity_msek": "",
+      "total_assets_msek": 11574
+    },
+    {
+      "bank": "Crédit Agricole",
+      "type": "Utländska banker i Sverige",
+      "branches": 1,
+      "employees": 45,
+      "lending_msek": 5044,
+      "deposits_msek": 0,
+      "equity_msek": "",
+      "total_assets_msek": 5728
+    },
+    {
+      "bank": "The Royal Bank of Scotland",
+      "type": "Utländska banker i Sverige",
+      "branches": 1,
+      "employees": 71,
+      "lending_msek": 2273,
+      "deposits_msek": 1270,
+      "equity_msek": "",
+      "total_assets_msek": 4336
+    }
+  ],
+  "meta": {
+    "title": "Banker i Sverige — nyckeltal - Free Download",
+    "description": "Svenska bankaktiebolag, investmentbanker, sparbanker och utländska banker i Sverige: antal kontor, anställda, utlåning, inlåning, eget kapital och balansomslutning (mnkr). Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Banker i Sverige — nyckeltal | ListBase",
+    "seo_description": "Download Banker i Sverige — nyckeltal — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Bankv%C3%A4sendet_i_Sverige"
+    ]
+  }
+}

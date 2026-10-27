@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:22.767Z",
-  "total_datasets": 457,
-  "total_records": 2262245,
+  "generated": "2026-10-27T02:32:25.050Z",
+  "total_datasets": 458,
+  "total_records": 2262272,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -331,6 +331,35 @@
         "xlsx": {
           "name": "sv-varldsarv-unesco_SV.xlsx",
           "size": 11931
+        }
+      }
+    },
+    {
+      "id": "sv-banker-nyckeltal",
+      "name": "Banker i Sverige — nyckeltal",
+      "category": "economy",
+      "record_count": 27,
+      "columns": [
+        "bank",
+        "type",
+        "branches",
+        "employees",
+        "lending_msek",
+        "deposits_msek",
+        "equity_msek",
+        "total_assets_msek"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Bankv%C3%A4sendet_i_Sverige",
+      "updated": "2026-10",
+      "size": 8785,
+      "files": {
+        "csv": {
+          "name": "sv-banker-nyckeltal_SV.csv",
+          "size": 2351
+        },
+        "xlsx": {
+          "name": "sv-banker-nyckeltal_SV.xlsx",
+          "size": 8379
         }
       }
     },
