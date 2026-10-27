@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:45.948Z",
-  "total_datasets": 467,
-  "total_records": 2262938,
+  "generated": "2026-10-27T02:32:48.535Z",
+  "total_datasets": 468,
+  "total_records": 2262973,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -4136,6 +4136,31 @@
         "xlsx": {
           "name": "sv-melodifestivalen-arsupplagor_SV.xlsx",
           "size": 13743
+        }
+      }
+    },
+    {
+      "id": "sv-melodifestivalen-flest-deltaganden",
+      "name": "Melodifestivalen — artister med flest deltaganden",
+      "category": "music",
+      "record_count": 35,
+      "columns": [
+        "times",
+        "artist",
+        "years_solo",
+        "years_group"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Melodifestivalen",
+      "updated": "2026-10",
+      "size": 6970,
+      "files": {
+        "csv": {
+          "name": "sv-melodifestivalen-flest-deltaganden_SV.csv",
+          "size": 2420
+        },
+        "xlsx": {
+          "name": "sv-melodifestivalen-flest-deltaganden_SV.xlsx",
+          "size": 8312
         }
       }
     },
