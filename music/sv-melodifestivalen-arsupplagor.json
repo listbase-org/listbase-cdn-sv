@@ -1,0 +1,655 @@
+{
+  "id": "sv-melodifestivalen-arsupplagor",
+  "name": "Melodifestivalen — årsupplagor",
+  "title": "Melodifestivalen — årsupplagor",
+  "description": "Varje upplaga av Melodifestivalen: upplägg, datum, städer och arenor, antal tävlande och inkomna bidrag, programledare och röstningssystem.",
+  "category": "music",
+  "source": "https://sv.wikipedia.org/wiki/Melodifestivalen",
+  "source_url": "https://sv.wikipedia.org/wiki/Melodifestivalen",
+  "updated": "2026-10",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "format",
+      "label": "Format",
+      "type": "string"
+    },
+    {
+      "key": "dates",
+      "label": "Dates",
+      "type": "string"
+    },
+    {
+      "key": "venues",
+      "label": "Venues",
+      "type": "string"
+    },
+    {
+      "key": "entries_submitted",
+      "label": "Entries Submitted",
+      "type": "string"
+    },
+    {
+      "key": "hosts",
+      "label": "Hosts",
+      "type": "string"
+    },
+    {
+      "key": "voting_system",
+      "label": "Voting System",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1959,
+      "format": "8 kvalheat och en final",
+      "dates": "Höst 1958 (SF), 29 januari (final)",
+      "venues": "Cirkus , Stockholm",
+      "entries_submitted": "14H, 8F (?)",
+      "hosts": "?/ ? (H), Thore Ehrling / ? (final)",
+      "voting_system": "Poströster avgjorde semifinalerna, Jurygrupper röstade fram vinnaren."
+    },
+    {
+      "year": 1960,
+      "format": "8 kvalheat, en inför-final &, en final",
+      "dates": "Höst 1959 (SF), 2 februari (final)",
+      "venues": "Cirkus, Stockholm (finalen)",
+      "entries_submitted": "14H, 4F (~1 100)",
+      "hosts": "Thore Ehrling/ ? (H), Jeanette von Heidenstam / Göte Wilhelmson & Thore Ehrling (final)",
+      "voting_system": "Jurygrupper avgjorde både semi- finalerna och finalen. I finalen röstade fyra jurydistrikt fram vinnaren."
+    },
+    {
+      "year": 1961,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "6 februari",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "5 (~550)",
+      "hosts": "Jeanette von Heidenstam/ Göte Wilhelmson & William Lind",
+      "voting_system": "Fyra jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1962,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "13 februari",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "6 (utvalda kompositörer)",
+      "hosts": "Bengt Feldreich / Egon Kjerrman & Göte Wilhelmson",
+      "voting_system": "Poströster bestämde vinnaren."
+    },
+    {
+      "year": 1963,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "16 februari",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "6 (utvalda kompositörer) + 6 (~810)",
+      "hosts": "Sven Lindahl / Göte Wilhelmson & William Lind",
+      "voting_system": "En expertjury på tolv män röstade fram vinnaren. Endast ettan, tvåan och trean redovisades."
+    },
+    {
+      "year": 1965,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "13 februari",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "6 (utvalda kompositörer)",
+      "hosts": "Birgitta Sandstedt / William Lind, Mats Olsson & Hans Wahlgren",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1966,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "29 januari",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "4 (utvalda kompositörer) + 6 (~900)",
+      "hosts": "Sven Lindahl/ William Lind, Mats Olsson & Gert-Ove Andersson",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1967,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "24 februari",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "10 (~1 180)",
+      "hosts": "Maud Husberg / Mats Olsson",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1968,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "9 mars",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "10 (~2 233)",
+      "hosts": "Magnus Banck / Mats Olsson",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1969,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "1 mars",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "10 (~2 402)",
+      "hosts": "Pekka Langer / Claes Rosendahl , Marcus Öster- dahl , Bruno Glenmark , Lars Samuelson , Rune Öfwerman , Mats Olsson & Ivan Renliden",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1971,
+      "format": "5 kvalheat och en final",
+      "dates": "23 januari–20 februari (SF), 27 februari (final)",
+      "venues": "TV-huset, Stockholm",
+      "entries_submitted": "15H, 5F (~1 164)",
+      "hosts": "Lennart Hyland / Putte Wickman & Leif Asp (H), Claes Rosendahl (finalen)",
+      "voting_system": "Poströster avgjorde semifinalerna, Expertjury på fem personer röstade fram vinnaren."
+    },
+    {
+      "year": 1972,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "12 februari",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "10 (~1 000)",
+      "hosts": "Gunilla Marcus / Lars Samuelsson, Mats Olsson, Arthur Greenslade , Marcus Österdahl, Lars Bagge, Monica Dominique",
+      "voting_system": "Expertjury på elva personer röstade fram vinnaren."
+    },
+    {
+      "year": 1973,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "10 februari",
+      "venues": "Studio 1 (TV-huset), Stockholm",
+      "entries_submitted": "10 (utvalda kompositörer)",
+      "hosts": "Alicia Lundberg / Lars Samuelsson, Monica Dominique, Bengt-Arne Wallin , Peter Totth , Mats Olsson",
+      "voting_system": "Expertjury på elva personer röstade fram vinnaren."
+    },
+    {
+      "year": 1974,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "9 februari",
+      "venues": "Studio 1 (TV-huset), Stockholm",
+      "entries_submitted": "10 (utvalda kompositörer)",
+      "hosts": "Johan Sandström / Lars Samuelson, Mats Olsson, Bruno Glenmark, Lars Bagge, Sven-Olof Walldoff",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1975,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "15 februari",
+      "venues": "Studio 1 (TV-huset), Göteborg",
+      "entries_submitted": "10 (utvalda kompositörer)",
+      "hosts": "Karin Falck / Lars Samuelson, Sven-Olof Walldoff , Leif Strand , Bengt Palmers , Bruno Glenmark , Alain Leroux",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1977,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "26 februari",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "10 (~1 103)",
+      "hosts": "Ulf Elfving / Lars Samuelsson, Anders Berglund , Kenneth Staag , Anders Henriksson , Leif Carlquist , Lars Beijbom , Bruno Glenmark",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1978,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "11 februari",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "10 (60 utvalda kompositörer)",
+      "hosts": "Ulf Elfving/ Anders Berglund, Bengt Palmers, Rune Öfwerman , Wlodek Gulgowski , Anders Henriksson, Lars Samuelson",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1979,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "17 februari",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "10 (425)",
+      "hosts": "Ulf Elfving/ Lars Samuelson, Anders Eljas , Anders Berglund, Bruno Glenmark, Bengt Palmers, Wlodek Gulgowski, Mats Olsson, Anders Henriksson",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1980,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "8 mars",
+      "venues": "Studio 1 (TV-huset), Stockholm",
+      "entries_submitted": "10 (~1 000- 3 000)",
+      "hosts": "Bengt Bedrup / Anders Berglund",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1981,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "21 februari",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "5 (utvalda kompositörer)",
+      "hosts": "Janne \"Loffe\" Carlsson / Anders Berglund",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1982,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "27 februari",
+      "venues": "Lisebergshallen , Göteborg",
+      "entries_submitted": "10 (~120)",
+      "hosts": "Fredrik Belfrage / Anders Berglund",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Bägge omröstningarna skedde öppet."
+    },
+    {
+      "year": 1983,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "26 februari",
+      "venues": "Palladium , Malmö",
+      "entries_submitted": "10 (~90)",
+      "hosts": "Bibi Johns / Anders Ekdahl",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1984,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "25 februari",
+      "venues": "Lisebergshallen, Göteborg",
+      "entries_submitted": "10 (?)",
+      "hosts": "Fredrik Belfrage/ Curt-Eric Holmquist",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1985,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "2 mars",
+      "venues": "TV-huset, Malmö",
+      "entries_submitted": "10 (?)",
+      "hosts": "Eva Andersson",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1986,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "22 mars",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "10 (?)",
+      "hosts": "Lennart Swahn & Tommy Engstrand",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1987,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "21 februari",
+      "venues": "Lisebergshallen, Göteborg",
+      "entries_submitted": "12 (~1 502)",
+      "hosts": "Fredrik Belfrage/ Curt-Eric Holmquist",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1988,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "27 februari",
+      "venues": "Malmö stadsteater , Malmö",
+      "entries_submitted": "12 (?)",
+      "hosts": "Bengt Grafström / Anders Berglund",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram sex finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1989,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "11 mars",
+      "venues": "Globen , Stockholm",
+      "entries_submitted": "10 (?)",
+      "hosts": "Yvonne Ryding-Bergquist & John Chrispinsson / Anders Berglund",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1990,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "9 mars",
+      "venues": "Rondo , Göteborg",
+      "entries_submitted": "10 (?)",
+      "hosts": "Carin Hjulström / Curt-Eric Holmquist",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1991,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "31 mars",
+      "venues": "Malmö musikteater , Malmö",
+      "entries_submitted": "10 (?)",
+      "hosts": "Harald Treutiger / Anders Berglund",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1992,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "14 mars",
+      "venues": "Cirkus, Stockholm",
+      "entries_submitted": "10 (?)",
+      "hosts": "Adde Malmberg & Claes Malmberg / Anders Berglund",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1993,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "5 mars",
+      "venues": "Lisebergshallen, Göteborg",
+      "entries_submitted": "10 (1 530)",
+      "hosts": "Triple & Touch ( Lasse Kronér , Göran Rudbo & Ken Wennerholm )/ Curt-Eric Holmquist",
+      "voting_system": "Sju jurydistrikt röstade i första omgången fram fem finalister till en andra röstningsomgång. Därefter fick tittarna avgöra genom telefon- röstning i de sju distrikten."
+    },
+    {
+      "year": 1994,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "12 mars",
+      "venues": "TV-huset, Stockholm",
+      "entries_submitted": "10 (?)",
+      "hosts": "Kattis Ahlström & Sven Melander / Anders Berglund",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1995,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "24 februari",
+      "venues": "Malmö musikteater, Malmö",
+      "entries_submitted": "5 (600) + 5 (inbjudna kompositörer)",
+      "hosts": "Pernilla Månsson / Anders Berglund",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1996,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "22 mars",
+      "venues": "Victoriahallen , Stockholm",
+      "entries_submitted": "5 (1 475) + 5 (inbjudna kompositörer)",
+      "hosts": "Pontus Gårdinger & Siw Malmkvist / Anders Berglund",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1997,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "8 mars",
+      "venues": "Eriksbergshallen , Göteborg",
+      "entries_submitted": "6 (1 223) + 6 (inbjudna kompositörer)",
+      "hosts": "Jan Jingryd / Curt-Eric Holmquist",
+      "voting_system": "Elva jurydistrikt röstade fram vinnaren."
+    },
+    {
+      "year": 1998,
+      "format": "Endast finalkväll (två omgångar)",
+      "dates": "14 mars",
+      "venues": "Malmö musikteater, Malmö",
+      "entries_submitted": "5 (1 121) + 5 (inbjudna kompositörer)",
+      "hosts": "Pernilla Månsson & Magnus Karlsson / Anders Berglund",
+      "voting_system": "Elva jurydistrikt röstade i första omgången fram fem finalister och röstade i den andra omgången fram en slutgiltig vinnare. Endast andra omröstningen skedde öppet."
+    },
+    {
+      "year": 1999,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "27 februari",
+      "venues": "Victoriahallen, Stockholm",
+      "entries_submitted": "10 (1 315)",
+      "hosts": "Anders Lundin & Vendela Kirsebom Thomessen / Anders Berglund",
+      "voting_system": "De elva jurydistrikten delade halva makten med tittarna och gav därmed 473 poäng vardera till finalbidragen."
+    },
+    {
+      "year": 2000,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "10 mars",
+      "venues": "Göteborgsoperan , Göteborg",
+      "entries_submitted": "10 (1 349)",
+      "hosts": "Arja Saijonmaa , Björn Skifs , Carola , Elisabeth Andreassen , Lasse Berghagen , Lasse Holm , Lena Philipsson , Loa Falkman , Lotta Engberg & Tommy Körberg / Curt-Eric Holmquist",
+      "voting_system": "De elva jurydistrikten delade halva makten med tittarna och gav därmed 473 poäng vardera till finalbidragen."
+    },
+    {
+      "year": 2001,
+      "format": "Endast finalkväll (en omgång)",
+      "dates": "23 februari",
+      "venues": "Malmö musikteater, Malmö",
+      "entries_submitted": "10 (1 567)",
+      "hosts": "Josefine Sundström & Henrik Olsson",
+      "voting_system": "De elva jurydistrikten delade halva makten med tittarna och gav därmed 473 poäng vardera till finalbidragen."
+    },
+    {
+      "year": 2002,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "19 januari– 1 mars",
+      "venues": "Tipshallen , Växjö Himmelstalundshallen , Norrköping Nordichallen , Sundsvall Lugnet , Falun TV-huset, Stockholm Globen, Stockholm",
+      "entries_submitted": "32DF (1 830), 10F varav 2VV",
+      "hosts": "Claes Åkeson & Kristin Kaspersen",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes med hjälp av 50% jury- och 50% tittarröster."
+    },
+    {
+      "year": 2003,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "15 februari– 15 mars",
+      "venues": "Tipshallen , Jönköping Scandinavium , Göteborg Arcushallen , Luleå Nordichallen, Sundsvall TV-huset, Stockholm Globen, Stockholm",
+      "entries_submitted": "32DF (2 620), 10F varav 2TV",
+      "hosts": "Mark Levengood med Charlotte Nilsson & Lena Philipsson (DF1) Carola Häggkvist (DF2) Lill-Babs (DF3) Roger Pontare (DF4) Jonas Gardell (finalen) Marianne Rundström & Rickard Olsson (TV) 17",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes med hjälp av 50% jury- och 50% tittarröster."
+    },
+    {
+      "year": 2004,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "21 februari– 20 mars",
+      "venues": "Löfbergs Lila Arena , Karlstad Scandinavium, Göteborg Umeå Arena , Umeå Malmömässan , Malmö Hotel Rival , Stockholm Globen, Stockholm",
+      "entries_submitted": "28DF (3 232) + 4SF (inbjudna kompositörer), 10F varav 2AC",
+      "hosts": "Charlotte Perrelli , Ola Lindholm & Peter Settman (SF & final) Elin \"Grynet\" Ek , Henrik Johnsson & Liza Marklund (AC)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes med hjälp av 50% jury- och 50% tittarröster."
+    },
+    {
+      "year": 2005,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "12 februari– 12 mars",
+      "venues": "Scandinavium, Göteborg Cloetta Center , Linköping Skellefteå Kraft Arena , Skellefteå Växjö Tipshall , Växjö Berns , Stockholm Globen, Stockholm",
+      "entries_submitted": "28DF (3 131) + 4SF (inbjudna kompositörer), 10F varav 2AC",
+      "hosts": "Alexandra Pascalidou & Shan Atci (DF1) Henrik Schyffert & Erik Haag (DF2) Johanna Westman & Markoolio (DF3) Michael Leijnegard & Kayo (DF4) Annika Jankell (AC) Jill Johnson & Mark Levengood (finalen)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes med hjälp av 50% jury- och 50% tittarröster."
+    },
+    {
+      "year": 2006,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "18 februari– 18 mars",
+      "venues": "Ejendals Arena , Leksand Löfbergs Lila Arena, Karlstad Arena Rosenholm , Karlskrona Scandinavium, Göteborg TV-huset, Stockholm Globen, Stockholm",
+      "entries_submitted": "28DF (3 326) + 4SF (inbjudna kompositörer), 10F varav 2AC",
+      "hosts": "Lena Philipsson (SF + final) Pekka Heino , kommentator (DF + final) Carin Hjulström & Henrik Johnsson (AC)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes med hjälp av 50% jury- och 50% tittarröster."
+    },
+    {
+      "year": 200720,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "3 februari– 10 mars",
+      "venues": "Kinnarps Arena , Jönköping Scandinavium, Göteborg Swedbank Arena , Örnsköldsvik Läkerol Arena , Gävle Rosvalla Eventcenter , Nyköping Globen, Stockholm",
+      "entries_submitted": "28DF (3 234) + 4SF (inbjudna kompositörer), 10F varav 2AC",
+      "hosts": "Kristian Luuk",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes med hjälp av 50% jury- och 50% tittarröster."
+    },
+    {
+      "year": 2008,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "9 februari– 16 mars",
+      "venues": "Scandinavium, Göteborg ABB Arena Syd , Västerås Cloetta Center, Linköping Telenor Arena , Karlskrona Arena Arctica , Kiruna Globen, Stockholm",
+      "entries_submitted": "28DF (3 489) + 4SF (inbjudna kompositörer), 10F varav 2AC",
+      "hosts": "Kristian Luuk samt Björn Gustafsson & Nour El Refai",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes med hjälp av 50% jury- och 50% tittarröster."
+    },
+    {
+      "year": 2009,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "7 februari– 14 mars",
+      "venues": "Scandinavium, Göteborg Skellefteå Kraft Arena, Skellefteå Ejendals Arena, Leksand Malmö Arena , Malmö Himmelstalundshallen, Norrköping Globen, Stockholm",
+      "entries_submitted": "28DF (3 440) + 4SF (inbjudna kompositörer), 11F varav 2AC + 1WC",
+      "hosts": "Petra Mede",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes med hjälp av 50% jury- och 50% tittarröster. En internationell jury fick vara med och påverka en elfte finalist av de utslagna i SF och AC."
+    },
+    {
+      "year": 2010,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "6 februari– 13 mars",
+      "venues": "Fjällräven Center , Örnsköldsvik Göransson Arena , Sandviken Scandinavium, Göteborg Malmö Arena, Malmö Conventum Arena , Örebro Globen, Stockholm",
+      "entries_submitted": "27DF (2 614) + 5DF (inbjudna kompositörer) samt ett allmänt wildcard), 10F varav 2AC",
+      "hosts": "Måns Zelmerlöw , Christine Meltzer & Dolph Lundgren Lotta Bouvin Sundberg (webbjokerfinalen)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes med hjälp av 50 procent juryröster och 50 procent tittarröster. Sex av elva jurygrupper bestod av tävlande ESC-länder."
+    },
+    {
+      "year": 2011,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "5 februari– 12 mars",
+      "venues": "Golden Hits, Stockholm (webbjokerfinalen) Coop Arena , Luleå Scandinavium, Göteborg Cloetta Center, Linköping Malmö Arena, Malmö Nordichallen, Sundsvall Globen, Stockholm",
+      "entries_submitted": "15DF (3 408) + 15DF (inbjudna kompositörer) samt 2DF (allmänna wildcards), 10F varav 2AC",
+      "hosts": "Henrik von Zweigbergk (webbjokerfinalen) Marie Serneholt & Rickard Olsson (huvudprogramledare) Elsa Billgren (webbprogramledare)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen/Friends Arena medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes sedan med hjälp av elva europeiska jurygrupper och procentuell telefonröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2012,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "4 februari– 10 mars",
+      "venues": "Vida Arena , Växjö Scandinavium, Göteborg Tegera Arena , Leksand Malmö Arena, Malmö Rosvalla Eventcenter, Nyköping Globen, Stockholm",
+      "entries_submitted": "15DF (2 915) + 16DF (inbjudna kompositörer) samt 1DF (allmänt wildcard), 10F varav 2AC",
+      "hosts": "Sarah Dawn Finer med Gina Dirawi (SF + finalen) & Helena Bergström (SF 1+4 & finalen) Övriga programledare: Nisse Edwall (webbprogramledare) Lotta Bromé (webbjokerfinalen)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen/Friends Arena medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes sedan med hjälp av elva europeiska jurygrupper och procentuell telefonröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2013,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "2 februari– 9 mars",
+      "venues": "Telenor Arena, Karlskrona Scandinavium, Göteborg Skellefteå Kraft Arena, Skellefteå Malmö Arena, Malmö Löfbergs Lila Arena, Karlstad Friends Arena , Stockholm",
+      "entries_submitted": "15DF (1 902) + 15DF (inbjudna kompositörer) samt 2DF (allmänna wildcards), 10F varav 2AC",
+      "hosts": "Danny Saucedo & Gina Dirawi Josefine Sundström (webbprogramledare)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen/Friends Arena medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes sedan med hjälp av elva europeiska jurygrupper och procentuell telefonröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2014,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "1 februari- 8 mars",
+      "venues": "Malmö Arena, Malmö Cloetta Center, Linköping Scandinavium, Göteborg Fjällräven Center, Örnsköldsvik Sparbanken Lidköping Arena , Lidköping Friends Arena, Stockholm",
+      "entries_submitted": "15DF (2 067) + 15DF (inbjudna kompositörer) samt 2DF (allmänna wildcards), 10F, varav 2AC",
+      "hosts": "Anders Jansson & Nour El Refai Clara Henry (webbprogramledare)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Globen/Friends Arena medan trean och fyran fick en Andra chans , där ytterligare två bidrag gick till finalen. Finalen avgjordes sedan med hjälp av elva europeiska jurygrupper och procentuell telefonröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2015,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "7 februari- 14 mars",
+      "venues": "Scandinavium, Göteborg Malmö Arena, Malmö Östersund Arena , Östersund Conventum Arena, Örebro Helsingborg Arena , Helsingborg Friends Arena, Stockholm",
+      "entries_submitted": "13DF (1 733) + 13DF (inbjudna kompositörer) samt 2DF (allmänna wildcards), 12F varav 4AC",
+      "hosts": "Sanna Nielsen & Robin Paulsson Filippa Bark (bisittare)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Friends Arena medan trean och fyran fick en Andra chans , där ytterligare fyra bidrag gick till finalen. Finalen avgjordes sedan med hjälp av elva europeiska jurygrupper och tittarröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2016,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "6 februari- 12 mars",
+      "venues": "Scandinavium, Göteborg Malmö Arena, Malmö Himmelstalundshallen, Norrköping Gavlerinken Arena, Gävle Halmstad Arena , Halmstad Friends Arena, Stockholm",
+      "entries_submitted": "14DF (2 450) + 13DF (inbjudna kompositörer) samt 1DF (joker) , 12F varav 4AC",
+      "hosts": "Gina Dirawi med Petra Mede (DF1) Henrik Schyffert (DF3) Sarah Dawn Finer (DF4) Ola Salo & Peter Jöback (AC) William Spetz (finalen)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Friends Arena medan trean och fyran fick en Andra chans , där ytterligare fyra bidrag gick till finalen. Finalen avgjordes sedan med hjälp av elva europeiska jurygrupper och tittarröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2017,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "4 februari- 11 mars",
+      "venues": "Scandinavium, Göteborg Malmö Arena, Malmö VIDA Arena, Växjö Skellefteå Kraft Arena, Skellefteå Saab Arena, Linköping Friends Arena, Stockholm",
+      "entries_submitted": "14DF (2 478) + 13DF (inbjudna kompositörer) samt 1DF (joker), 12F varav 4AC",
+      "hosts": "Clara Henry , David Lindgren & Hasse Andersson",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Friends Arena medan trean och fyran fick en Andra chans , där ytterligare fyra bidrag gick till finalen. Finalen avgjordes sedan med hjälp av elva europeiska jurygrupper och tittarröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2018,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "3 februari- 10 mars",
+      "venues": "Löfbergs Arena, Karlstad Scandinavium, Göteborg Malmö Arena, Malmö Fjällräven Center, Örnsköldsvik Kristianstad Arena , Kristianstad Friends Arena, Stockholm",
+      "entries_submitted": "14DF (2 324) + 13DF (inbjudna kompositörer) samt 1DF (joker), 12F varav 4AC",
+      "hosts": "David Lindgren Fab Freddie (bisittare)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Friends Arena medan trean och fyran fick en Andra chans , där ytterligare fyra bidrag gick till finalen. Finalen avgjordes sedan med hjälp av elva europeiska jurygrupper och tittarröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2019,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "2 februari- 9 mars",
+      "venues": "Scandinavium, Göteborg Malmö Arena, Malmö Tegera Arena, Leksand Sparbanken Lidköping Arena, Lidköping Nyköpings Arenor, Rosvalla, Nyköping Friends Arena, Stockholm",
+      "entries_submitted": "14DF (2 295) + 13DF (inbjudna kompositörer) samt 1DF (joker), 12F varav 4AC",
+      "hosts": "Sarah Dawn Finer , Kodjo Akolor , Marika Carlsson , Eric Saade",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen i Friends Arena medan trean och fyran fick en Andra chans , där ytterligare fyra bidrag gick till finalen. Finalen avgjordes sedan å ena sidan av åtta europeiska jurygrupper och å andra sidan av tittarnas app- och telefonröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2020,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "1 februari– 7 mars",
+      "venues": "Saab Arena, Linköping Scandinavium, Göteborg Coop Norrbotten Arena, Luleå Malmö Arena, Malmö Stiga Sports Arena , Eskilstuna Friends Arena, Stockholm",
+      "entries_submitted": "14DF (2 545) + 13DF (inbjudna kompositörer) samt 1DF (joker), 12F varav 4AC",
+      "hosts": "Lina Hedlund , Linnea Henriksson & David Sundin",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen medan trean och fyran fick en Andra chans , där ytterligare fyra bidrag gick till finalen. Finalen avgjordes sedan å ena sidan av åtta europeiska jurygrupper och å andra sidan av app- och telefonröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2021,
+      "format": "Fyra deltävlingar, En Andra chans & en final.",
+      "dates": "6 februari– 13 mars",
+      "venues": "Annexet , Stockholm",
+      "entries_submitted": "14DF (2 747) + 13DF (inbjudna kompositörer) samt 1DF (joker), 12F varav 4AC",
+      "hosts": "Christer Björkman med Lena Philipsson (DF1) Oscar Zia & Anis Don Demina (DF2) Jason Diakité (DF3) Per Andersson & Pernilla Wahlgren (DF4) Shirley Clamp (AC) Måns Zelmerlöw & Shima Niavarani (Final)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till finalen medan trean och fyran fick en Andra chans , där ytterligare fyra bidrag gick till finalen. Finalen avgjordes sedan å ena sidan av åtta europeiska jurygrupper och å andra sidan av app- och telefonröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2022,
+      "format": "Fyra deltävlingar, En Semifinal & en final.",
+      "dates": "5 februari– 12 mars",
+      "venues": "Globen, Stockholm Friends Arena, Stockholm",
+      "entries_submitted": "14DF (2 530) + 14DF (inbjudna kompositörer), 12F varav 4SF",
+      "hosts": "Oscar Zia Farah Abadi (backstage)",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till final medan trean och fyran fick en ny chans genom Semifinalen , där ytterligare fyra bidrag gick till finalen. Finalen avgjordes sedan å ena sidan av åtta europeiska jurygrupper och å andra sidan av app- och telefonröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2023,
+      "format": "Fyra deltävlingar, En Semifinal & en final.",
+      "dates": "4 februari– 11 mars",
+      "venues": "Scandinavium, Göteborg Saab Arena, Linköping Sparbanken Arena, Lidköping Malmö Arena, Malmö Hägglunds Arena, Örnsköldsvik Friends Arena, Stockholm",
+      "entries_submitted": "14DF (2 824) + 14DF (inbjudna kompositörer)",
+      "hosts": "Farah Abadi & Jesper Rönndahl",
+      "voting_system": "Tittarna avgjorde deltävlingarna, där ettan och tvåan gick till final medan trean och fyran fick en ny chans genom Semifinalen , där ytterligare fyra bidrag gick till finalen. Finalen avgjordes sedan å ena sidan av åtta europeiska jurygrupper och å andra sidan av app- och telefonröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2024,
+      "format": "Fem deltävlingar, Ett finalkval & en final.",
+      "dates": "3 februari– 9 mars",
+      "venues": "Malmö Arena, Malmö Scandinavium, Göteborg Vida Arena, Växjö Stiga Sports Arena, Eskilstuna Löfbergs Lila Arena, Karlstad Friends Arena, Stockholm",
+      "entries_submitted": "15DF (2 624) + 15DF (inbjudna kompositörer)",
+      "hosts": "Carina Berg",
+      "voting_system": "Tittarna avgjorde fem deltävlingar , där ettan och tvåan gick direkt till final medan trean och fyran fick en ny chans genom Finalkvalet , där ytterligare två bidrag gick till finalen. Finalen avgjordes sedan å ena sidan av internationella jurygrupper och å andra sidan av tittarröstning. Både tittarna och jurygrupperna hade 50 procent makt vardera att utse vinnaren."
+    },
+    {
+      "year": 2025,
+      "format": "Fem deltävlingar, Ett finalkval & en final.",
+      "dates": "1 februari– 8 mars",
+      "venues": "Coop Norrbotten Arena, Luleå Scandinavium, Göteborg ABB Arena, Västerås Malmö Arena, Malmö Husqvarna Garden, Jönköping Strawberry Arena, Stockholm",
+      "entries_submitted": "15DF (2 794) + 15DF (inbjudna kompositörer)",
+      "hosts": "Keyyo & Edvin Törnblom",
+      "voting_system": "Tittarna får i fem deltävlingar och ett finalkval bestämma vilka bidrag som ska gå till final. I varje deltävling röstas två bidrag direkt till final och ett bidrag till finalkvalet där tittarna väljer ut ytterligare två finalister. I finalen delar tittarna makten med internationella jurygrupper."
+    },
+    {
+      "year": 2026,
+      "format": "Fem deltävlingar, Ett finalkval & en final.",
+      "dates": "31 januari– 7 mars",
+      "venues": "SAAB Arena, Linköping Scandinavium, Göteborg Kristianstad Arena, Kristianstad Malmö Arena, Malmö Gärdehov Arena, Sundsvall Strawberry Arena, Stockholm",
+      "entries_submitted": "30DF (3 888)",
+      "hosts": "Gina Dirawi & Hampus Nessvold",
+      "voting_system": "Tittarna får i fem deltävlingar och ett finalkval bestämma vilka bidrag som ska gå till final. I varje deltävling röstas två bidrag direkt till final och ett bidrag till finalkvalet där tittarna väljer ut ytterligare två finalister. I finalen delar tittarna makten med internationella jurygrupper."
+    },
+    {
+      "year": 2027,
+      "format": "Fem deltävlingar, Ett finalkval & en final.",
+      "dates": "6 februari– 13 mars",
+      "venues": "Löfbergs Arena, Karlstad Scandinavium, Göteborg Malmö Arena, Malmö Halmstad Arena, Halmstad Himmelstalundshallen, Norrköping Strawberry Arena, Stockholm",
+      "entries_submitted": "30DF (4 077)",
+      "hosts": "Björn Kjellman & Oscar Zia",
+      "voting_system": "Tittarna får i fem deltävlingar och ett finalkval bestämma vilka bidrag som ska gå till final. I varje deltävling röstas två bidrag direkt till final och ett bidrag till finalkvalet där tittarna väljer ut ytterligare två finalister. I finalen delar tittarna makten med internationella jurygrupper."
+    }
+  ],
+  "meta": {
+    "title": "Melodifestivalen — årsupplagor - Free Download",
+    "description": "Varje upplaga av Melodifestivalen: upplägg, datum, städer och arenor, antal tävlande och inkomna bidrag, programledare och röstningssystem. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Melodifestivalen — årsupplagor | ListBase",
+    "seo_description": "Download Melodifestivalen — årsupplagor — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Melodifestivalen"
+    ]
+  }
+}
