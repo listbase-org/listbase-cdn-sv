@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:29.542Z",
-  "total_datasets": 460,
-  "total_records": 2262410,
+  "generated": "2026-10-27T02:32:31.838Z",
+  "total_datasets": 461,
+  "total_records": 2262730,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -3978,6 +3978,31 @@
         "xlsx": {
           "name": "sv-vardcentraler_SV.xlsx",
           "size": 45035
+        }
+      }
+    },
+    {
+      "id": "sv-falska-vanner-nordiska-sprak",
+      "name": "Falska vänner mellan svenska och övriga nordiska språk",
+      "category": "language",
+      "record_count": 320,
+      "columns": [
+        "nordic_word",
+        "swedish_translation",
+        "similar_swedish_word",
+        "nordic_word_for_swedish_meaning"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_falska_v%C3%A4nner_mellan_svenska_och_%C3%B6vriga_nordiska_spr%C3%A5k",
+      "updated": "2026-10",
+      "size": 65832,
+      "files": {
+        "csv": {
+          "name": "sv-falska-vanner-nordiska-sprak_SV.csv",
+          "size": 20095
+        },
+        "xlsx": {
+          "name": "sv-falska-vanner-nordiska-sprak_SV.xlsx",
+          "size": 21834
         }
       }
     },
