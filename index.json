@@ -1,9 +1,13 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:41.026Z",
-  "total_datasets": 465,
-  "total_records": 2262847,
+  "generated": "2026-10-27T02:32:43.417Z",
+  "total_datasets": 466,
+  "total_records": 2262872,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 9
@@ -86,6 +90,29 @@
     }
   ],
   "datasets": [
+    {
+      "id": "sv-landskapsapplen",
+      "name": "Landskapsäpplen",
+      "category": "agriculture",
+      "record_count": 25,
+      "columns": [
+        "province",
+        "apple_variety"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Landskaps%C3%A4pplen",
+      "updated": "2026-10",
+      "size": 3225,
+      "files": {
+        "csv": {
+          "name": "sv-landskapsapplen_SV.csv",
+          "size": 695
+        },
+        "xlsx": {
+          "name": "sv-landskapsapplen_SV.xlsx",
+          "size": 7346
+        }
+      }
+    },
     {
       "id": "sv-bibliotek",
       "name": "Bibliotek i Sverige",

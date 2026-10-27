@@ -1,0 +1,136 @@
+{
+  "id": "sv-landskapsapplen",
+  "name": "Landskapsäpplen",
+  "title": "Landskapsäpplen",
+  "description": "Varje svenskt landskaps utsedda äppelsort (landskapsäpple).",
+  "category": "agriculture",
+  "source": "https://sv.wikipedia.org/wiki/Landskaps%C3%A4pplen",
+  "source_url": "https://sv.wikipedia.org/wiki/Landskaps%C3%A4pplen",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "apple_variety",
+      "label": "Apple Variety",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province": "Blekinge",
+      "apple_variety": "Melonäpple"
+    },
+    {
+      "province": "Bohuslän",
+      "apple_variety": "Veseäpple"
+    },
+    {
+      "province": "Dalarna",
+      "apple_variety": "Tunaäpple"
+    },
+    {
+      "province": "Dalsland",
+      "apple_variety": "Oranie"
+    },
+    {
+      "province": "Gotland",
+      "apple_variety": "Stenkyrke"
+    },
+    {
+      "province": "Gästrikland",
+      "apple_variety": "Malmbergs gylling"
+    },
+    {
+      "province": "Halland",
+      "apple_variety": "Brunnsäpple"
+    },
+    {
+      "province": "Hälsingland",
+      "apple_variety": "Bergviksäpple"
+    },
+    {
+      "province": "Härjedalen",
+      "apple_variety": "Rött kaneläpple"
+    },
+    {
+      "province": "Jämtland",
+      "apple_variety": "Rödluvan"
+    },
+    {
+      "province": "Lappland",
+      "apple_variety": "Rescue"
+    },
+    {
+      "province": "Medelpad",
+      "apple_variety": "Sundsäpple"
+    },
+    {
+      "province": "Norrbotten",
+      "apple_variety": "Silva"
+    },
+    {
+      "province": "Närke",
+      "apple_variety": "Sickelsjö vinäpple"
+    },
+    {
+      "province": "Skåne",
+      "apple_variety": "Aroma"
+    },
+    {
+      "province": "Småland",
+      "apple_variety": "Hornsberg"
+    },
+    {
+      "province": "Södermanland",
+      "apple_variety": "Åkerö"
+    },
+    {
+      "province": "Uppland",
+      "apple_variety": "P J Bergius"
+    },
+    {
+      "province": "Värmland",
+      "apple_variety": "Stenbock"
+    },
+    {
+      "province": "Västerbotten",
+      "apple_variety": "Transparente blanche"
+    },
+    {
+      "province": "Västergötland",
+      "apple_variety": "Kavlås"
+    },
+    {
+      "province": "Västmanland",
+      "apple_variety": "Fagerö"
+    },
+    {
+      "province": "Ångermanland",
+      "apple_variety": "Kramfors"
+    },
+    {
+      "province": "Öland",
+      "apple_variety": "Ölands kungsäpple"
+    },
+    {
+      "province": "Östergötland",
+      "apple_variety": "Gyllenkroks astrakan"
+    }
+  ],
+  "meta": {
+    "title": "Landskapsäpplen - Free Download",
+    "description": "Varje svenskt landskaps utsedda äppelsort (landskapsäpple). Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Landskapsäpplen | ListBase",
+    "seo_description": "Download Landskapsäpplen — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Landskaps%C3%A4pplen"
+    ]
+  }
+}
