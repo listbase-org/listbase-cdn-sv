@@ -1,0 +1,456 @@
+{
+  "id": "sv-sveriges-justitieministrar",
+  "name": "Sveriges justitieministrar",
+  "title": "Sveriges justitieministrar",
+  "description": "Sveriges justitieministrar sedan 1876 med tillträde, avgång, ämbetstid, parti och regering.",
+  "category": "law",
+  "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_justitieministrar",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_justitieministrar",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "minister",
+      "label": "Minister",
+      "type": "string"
+    },
+    {
+      "key": "took_office",
+      "label": "Took Office",
+      "type": "string"
+    },
+    {
+      "key": "left_office",
+      "label": "Left Office",
+      "type": "string"
+    },
+    {
+      "key": "duration",
+      "label": "Duration",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "minister": "Louis De Geer d.ä. (1818–1896)",
+      "took_office": "20 mars 1876",
+      "left_office": "6 juni 1879",
+      "duration": "3 år och 78 dagar",
+      "party": "Oberoende liberal",
+      "government": "De Geer d.ä. III"
+    },
+    {
+      "minister": "Ludvig Teodor Almqvist (1818–1884)",
+      "took_office": "6 juni 1879",
+      "left_office": "19 april 1880",
+      "duration": "0 år och 318 dagar",
+      "party": "Oberoende liberal",
+      "government": "De Geer d.ä. III"
+    },
+    {
+      "minister": "Nils von Steyern (1839–1899)",
+      "took_office": "19 april 1880",
+      "left_office": "6 februari 1888",
+      "duration": "7 år och 293 dagar",
+      "party": "Partilös",
+      "government": "Posse Thyselius Themptander"
+    },
+    {
+      "minister": "Axel Bergström (1823–1893)",
+      "took_office": "6 februari 1888",
+      "left_office": "28 september 1888",
+      "duration": "0 år och 235 dagar",
+      "party": "Oberoende konservativ",
+      "government": "G. Bildt"
+    },
+    {
+      "minister": "Axel Örbom (1836–1889)",
+      "took_office": "28 september 1888",
+      "left_office": "30 maj 1889 †",
+      "duration": "0 år och 244 dagar",
+      "party": "Oberoende konservativ",
+      "government": "G. Bildt"
+    },
+    {
+      "minister": "August Östergren (1832–1914)",
+      "took_office": "12 juni 1889",
+      "left_office": "5 februari 1896",
+      "duration": "6 år och 238 dagar",
+      "party": "Partilös",
+      "government": "Åkerhielm Boström I"
+    },
+    {
+      "minister": "Ludvig Annerstedt (1836–1904)",
+      "took_office": "5 februari 1896",
+      "left_office": "5 december 1901",
+      "duration": "5 år och 303 dagar",
+      "party": "Partilös",
+      "government": "von Otter"
+    },
+    {
+      "minister": "Hjalmar Hammarskjöld (1862–1953)",
+      "took_office": "5 december 1901",
+      "left_office": "5 juli 1902",
+      "duration": "0 år och 212 dagar",
+      "party": "Oberoende konservativ",
+      "government": "von Otter"
+    },
+    {
+      "minister": "Ossian Berger (1849–1914)",
+      "took_office": "5 juli 1902",
+      "left_office": "2 augusti 1905",
+      "duration": "3 år och 28 dagar",
+      "party": "Lantmannapartiet",
+      "government": "Boström II Ramstedt"
+    },
+    {
+      "minister": "Gustaf Berg (1844–1908)",
+      "took_office": "2 augusti 1905",
+      "left_office": "7 november 1905",
+      "duration": "0 år och 97 dagar",
+      "party": "Protektionistiska partiet",
+      "government": "Lundeberg"
+    },
+    {
+      "minister": "Karl Staaff (1860–1915)",
+      "took_office": "7 november 1905",
+      "left_office": "29 maj 1906",
+      "duration": "0 år och 203 dagar",
+      "party": "Liberala samlingspartiet",
+      "government": "Staaff I"
+    },
+    {
+      "minister": "Gustaf Albert Petersson (1851–1938)",
+      "took_office": "29 maj 1906",
+      "left_office": "7 oktober 1911",
+      "duration": "5 år och 131 dagar",
+      "party": "Allmänna valmansförbundet",
+      "government": "Lindman I"
+    },
+    {
+      "minister": "Gustaf Sandström (1865–1930)",
+      "took_office": "7 oktober 1911",
+      "left_office": "17 februari 1914",
+      "duration": "2 år och 133 dagar",
+      "party": "Liberala samlingspartiet",
+      "government": "Staaff II"
+    },
+    {
+      "minister": "Berndt Hasselrot (1862–1930)",
+      "took_office": "17 februari 1914",
+      "left_office": "30 mars 1917",
+      "duration": "3 år och 41 dagar",
+      "party": "Partilös",
+      "government": "Hammarskjöld"
+    },
+    {
+      "minister": "Steno Stenberg (1870–1940)",
+      "took_office": "30 mars 1917",
+      "left_office": "19 oktober 1917",
+      "duration": "0 år och 203 dagar",
+      "party": "Allmänna valmansförbundet",
+      "government": "Swartz"
+    },
+    {
+      "minister": "Eliel Löfgren (1872–1940)",
+      "took_office": "19 oktober 1917",
+      "left_office": "10 mars 1920",
+      "duration": "2 år och 143 dagar",
+      "party": "Liberala samlingspartiet",
+      "government": "Edén"
+    },
+    {
+      "minister": "Östen Undén (1886–1974)",
+      "took_office": "10 mars 1920",
+      "left_office": "30 juni 1920",
+      "duration": "0 år och 112 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Branting I"
+    },
+    {
+      "minister": "Assar Åkerman (1860–1936)",
+      "took_office": "30 juni 1920",
+      "left_office": "27 oktober 1920",
+      "duration": "0 år och 119 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Branting I"
+    },
+    {
+      "minister": "Birger Ekeberg (1880–1968)",
+      "took_office": "27 oktober 1920",
+      "left_office": "13 oktober 1921",
+      "duration": "0 år och 351 dagar",
+      "party": "Partilös",
+      "government": "De Geer d.y. von Sydow"
+    },
+    {
+      "minister": "Assar Åkerman (1860–1936)",
+      "took_office": "13 oktober 1921",
+      "left_office": "19 april 1923",
+      "duration": "1 år och 188 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Branting II"
+    },
+    {
+      "minister": "Birger Ekeberg (1880–1968)",
+      "took_office": "19 april 1923",
+      "left_office": "18 oktober 1924",
+      "duration": "1 år och 182 dagar",
+      "party": "Partilös",
+      "government": "Trygger"
+    },
+    {
+      "minister": "Torsten Nothin (1884–1972)",
+      "took_office": "18 oktober 1924",
+      "left_office": "7 juni 1926",
+      "duration": "1 år och 232 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Branting III Sandler"
+    },
+    {
+      "minister": "Johan Thyrén (1861–1933)",
+      "took_office": "7 juni 1926",
+      "left_office": "2 oktober 1928",
+      "duration": "2 år och 117 dagar",
+      "party": "Frisinnade folkpartiet",
+      "government": "Ekman I"
+    },
+    {
+      "minister": "Georg Bissmark (1871–1941)",
+      "took_office": "2 oktober 1928",
+      "left_office": "7 juni 1930",
+      "duration": "1 år och 248 dagar",
+      "party": "Allmänna valmansförbundet",
+      "government": "Lindman II"
+    },
+    {
+      "minister": "Natanael Gärde (1880–1968)",
+      "took_office": "7 juni 1930",
+      "left_office": "24 september 1932",
+      "duration": "2 år och 109 dagar",
+      "party": "Oberoende liberal",
+      "government": "Ekman II Hamrin"
+    },
+    {
+      "minister": "Karl Schlyter (1879–1959)",
+      "took_office": "24 september 1932",
+      "left_office": "19 juni 1936",
+      "duration": "3 år och 269 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Hansson I"
+    },
+    {
+      "minister": "Thorwald Bergquist (1899–1972)",
+      "took_office": "19 juni 1936",
+      "left_office": "28 september 1936",
+      "duration": "0 år och 101 dagar",
+      "party": "Partilös",
+      "government": "Pehrsson-Bramstorp"
+    },
+    {
+      "minister": "Karl Gustaf Westman (1876–1944)",
+      "took_office": "28 september 1936",
+      "left_office": "30 augusti 1943",
+      "duration": "6 år och 336 dagar",
+      "party": "Bondeförbundet",
+      "government": "Hansson II Hansson III"
+    },
+    {
+      "minister": "Thorwald Bergquist (1899–1972)",
+      "took_office": "30 augusti 1943",
+      "left_office": "31 juli 1945",
+      "duration": "1 år och 335 dagar",
+      "party": "Folkpartiet",
+      "government": "Hansson III"
+    },
+    {
+      "minister": "Herman Zetterberg (1904–1963)",
+      "took_office": "31 juli 1945",
+      "left_office": "20 september 1957",
+      "duration": "12 år och 51 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Hansson IV Erlander I Erlander II"
+    },
+    {
+      "minister": "Ingvar Lindell (1904–1993)",
+      "took_office": "20 september 1957",
+      "left_office": "1 december 1959",
+      "duration": "2 år och 72 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Erlander II Erlander III"
+    },
+    {
+      "minister": "Herman Kling (1913–1985)",
+      "took_office": "1 december 1959",
+      "left_office": "14 oktober 1969",
+      "duration": "9 år och 317 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Erlander III"
+    },
+    {
+      "minister": "Lennart Geijer (1909–1999)",
+      "took_office": "14 oktober 1969",
+      "left_office": "8 oktober 1976",
+      "duration": "6 år och 360 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Palme I"
+    },
+    {
+      "minister": "Sven Romanus (1906–2005)",
+      "took_office": "8 oktober 1976",
+      "left_office": "12 oktober 1979",
+      "duration": "3 år och 4 dagar",
+      "party": "Partilös",
+      "government": "Fälldin I Ullsten"
+    },
+    {
+      "minister": "Håkan Winberg (1931–2022)",
+      "took_office": "12 oktober 1979",
+      "left_office": "5 maj 1981",
+      "duration": "1 år och 205 dagar",
+      "party": "Moderaterna",
+      "government": "Fälldin II"
+    },
+    {
+      "minister": "Carl Axel Petri (1929–2017)",
+      "took_office": "5 maj 1981",
+      "left_office": "8 oktober 1982",
+      "duration": "1 år och 156 dagar",
+      "party": "Partilös",
+      "government": "Fälldin III"
+    },
+    {
+      "minister": "Ove Rainer (1925–1987)",
+      "took_office": "8 oktober 1982",
+      "left_office": "10 november 1983",
+      "duration": "1 år och 33 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Palme II"
+    },
+    {
+      "minister": "Anna-Greta Leijon (tf.) (1939–2024)",
+      "took_office": "11 november 1983",
+      "left_office": "15 november 1983",
+      "duration": "0 år och 5 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Palme II"
+    },
+    {
+      "minister": "Sten Wickbom (1931–2015)",
+      "took_office": "15 november 1983",
+      "left_office": "19 oktober 1987",
+      "duration": "3 år och 338 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Palme II Carlsson I"
+    },
+    {
+      "minister": "Anna-Greta Leijon (1939–2024)",
+      "took_office": "19 oktober 1987",
+      "left_office": "7 juni 1988",
+      "duration": "0 år och 232 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Carlsson I"
+    },
+    {
+      "minister": "Thage G. Peterson (tf.) (född 1933)",
+      "took_office": "7 juni 1988",
+      "left_office": "30 september 1988",
+      "duration": "0 år och 115 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Carlsson I"
+    },
+    {
+      "minister": "Ingvar Carlsson (tf.) (född 1934)",
+      "took_office": "30 september 1988",
+      "left_office": "4 oktober 1988",
+      "duration": "0 år och 4 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Carlsson I"
+    },
+    {
+      "minister": "Laila Freivalds (född 1942)",
+      "took_office": "4 oktober 1988",
+      "left_office": "4 oktober 1991",
+      "duration": "3 år och 4 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Carlsson I Carlsson II"
+    },
+    {
+      "minister": "Gun Hellsvik (1942–2016)",
+      "took_office": "4 oktober 1991",
+      "left_office": "7 oktober 1994",
+      "duration": "3 år och 3 dagar",
+      "party": "Moderaterna",
+      "government": "C. Bildt"
+    },
+    {
+      "minister": "Laila Freivalds (född 1942)",
+      "took_office": "7 oktober 1994",
+      "left_office": "21 september 2000",
+      "duration": "5 år och 350 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Carlsson III Persson"
+    },
+    {
+      "minister": "Lena Hjelm-Wallén (tf.) (född 1943)",
+      "took_office": "21 september 2000",
+      "left_office": "16 oktober 2000",
+      "duration": "0 år och 25 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Persson"
+    },
+    {
+      "minister": "Thomas Bodström (född 1962)",
+      "took_office": "16 oktober 2000",
+      "left_office": "6 oktober 2006",
+      "duration": "5 år och 355 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Persson"
+    },
+    {
+      "minister": "Beatrice Ask (född 1956)",
+      "took_office": "6 oktober 2006",
+      "left_office": "3 oktober 2014",
+      "duration": "7 år och 362 dagar",
+      "party": "Moderaterna",
+      "government": "Reinfeldt"
+    },
+    {
+      "minister": "Morgan Johansson (född 1970)",
+      "took_office": "3 oktober 2014",
+      "left_office": "18 oktober 2022",
+      "duration": "8 år och 15 dagar",
+      "party": "Socialdemokraterna",
+      "government": "Löfven I Löfven II Löfven III Andersson"
+    },
+    {
+      "minister": "Gunnar Strömmer (född 1972)",
+      "took_office": "18 oktober 2022",
+      "left_office": "nuvarande",
+      "duration": "4 år och 9 dagar",
+      "party": "Moderaterna",
+      "government": "Kristersson"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges justitieministrar - Free Download",
+    "description": "Sveriges justitieministrar sedan 1876 med tillträde, avgång, ämbetstid, parti och regering. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges justitieministrar | ListBase",
+    "seo_description": "Download Sveriges justitieministrar — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_justitieministrar"
+    ]
+  }
+}
