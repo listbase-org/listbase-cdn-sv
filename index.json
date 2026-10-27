@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:32:36.339Z",
-  "total_datasets": 463,
-  "total_records": 2262800,
+  "generated": "2026-10-27T02:32:38.570Z",
+  "total_datasets": 464,
+  "total_records": 2262824,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -10517,6 +10517,32 @@
         "xlsx": {
           "name": "sv-frikyrkor-medlemsantal_SV.xlsx",
           "size": 6918
+        }
+      }
+    },
+    {
+      "id": "sv-invandring-per-ar",
+      "name": "Invandring till Sverige per år",
+      "category": "society",
+      "record_count": 24,
+      "columns": [
+        "year",
+        "total_immigration",
+        "returning_swedish_born",
+        "asylum_seekers",
+        "granted_asylum_or_equivalent"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring",
+      "updated": "2026-10",
+      "size": 6087,
+      "files": {
+        "csv": {
+          "name": "sv-invandring-per-ar_SV.csv",
+          "size": 1044
+        },
+        "xlsx": {
+          "name": "sv-invandring-per-ar_SV.xlsx",
+          "size": 7604
         }
       }
     },

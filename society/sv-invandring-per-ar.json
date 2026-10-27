@@ -1,0 +1,219 @@
+{
+  "id": "sv-invandring-per-ar",
+  "name": "Invandring till Sverige per år",
+  "title": "Invandring till Sverige per år",
+  "description": "Total invandring, återvändande svenskfödda, asylsökande och beviljade asyl per år i Sverige sedan 2000.",
+  "category": "society",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "total_immigration",
+      "label": "Total Immigration",
+      "type": "number"
+    },
+    {
+      "key": "returning_swedish_born",
+      "label": "Returning Swedish Born",
+      "type": "number"
+    },
+    {
+      "key": "asylum_seekers",
+      "label": "Asylum Seekers",
+      "type": "number"
+    },
+    {
+      "key": "granted_asylum_or_equivalent",
+      "label": "Granted Asylum Or Equivalent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2000,
+      "total_immigration": 58659,
+      "returning_swedish_born": 13482,
+      "asylum_seekers": 16303,
+      "granted_asylum_or_equivalent": 10546
+    },
+    {
+      "year": 2001,
+      "total_immigration": 60795,
+      "returning_swedish_born": 13797,
+      "asylum_seekers": 23515,
+      "granted_asylum_or_equivalent": 7941
+    },
+    {
+      "year": 2002,
+      "total_immigration": 64087,
+      "returning_swedish_born": 13266,
+      "asylum_seekers": 33016,
+      "granted_asylum_or_equivalent": 8493
+    },
+    {
+      "year": 2003,
+      "total_immigration": 63795,
+      "returning_swedish_born": 12588,
+      "asylum_seekers": 31355,
+      "granted_asylum_or_equivalent": 6460
+    },
+    {
+      "year": 2004,
+      "total_immigration": 62028,
+      "returning_swedish_born": 11467,
+      "asylum_seekers": 23161,
+      "granted_asylum_or_equivalent": 6140
+    },
+    {
+      "year": 2005,
+      "total_immigration": 65229,
+      "returning_swedish_born": 11066,
+      "asylum_seekers": 17530,
+      "granted_asylum_or_equivalent": 8859
+    },
+    {
+      "year": 2006,
+      "total_immigration": 95750,
+      "returning_swedish_born": 12821,
+      "asylum_seekers": 24322,
+      "granted_asylum_or_equivalent": 25096
+    },
+    {
+      "year": 2007,
+      "total_immigration": 99485,
+      "returning_swedish_born": 12340,
+      "asylum_seekers": 36207,
+      "granted_asylum_or_equivalent": 18414
+    },
+    {
+      "year": 2008,
+      "total_immigration": 101171,
+      "returning_swedish_born": 13388,
+      "asylum_seekers": 24353,
+      "granted_asylum_or_equivalent": 11237
+    },
+    {
+      "year": 2009,
+      "total_immigration": 102280,
+      "returning_swedish_born": 13985,
+      "asylum_seekers": 24194,
+      "granted_asylum_or_equivalent": 11254
+    },
+    {
+      "year": 2010,
+      "total_immigration": 98801,
+      "returning_swedish_born": 14870,
+      "asylum_seekers": 31819,
+      "granted_asylum_or_equivalent": 12105
+    },
+    {
+      "year": 2011,
+      "total_immigration": 96467,
+      "returning_swedish_born": 15582,
+      "asylum_seekers": 29648,
+      "granted_asylum_or_equivalent": 12715
+    },
+    {
+      "year": 2012,
+      "total_immigration": 103059,
+      "returning_swedish_born": 15341,
+      "asylum_seekers": 43887,
+      "granted_asylum_or_equivalent": 17397
+    },
+    {
+      "year": 2013,
+      "total_immigration": 115845,
+      "returning_swedish_born": 15332,
+      "asylum_seekers": 54259,
+      "granted_asylum_or_equivalent": 28949
+    },
+    {
+      "year": 2014,
+      "total_immigration": 126966,
+      "returning_swedish_born": 15194,
+      "asylum_seekers": 81301,
+      "granted_asylum_or_equivalent": 35571
+    },
+    {
+      "year": 2015,
+      "total_immigration": 134240,
+      "returning_swedish_born": 14580,
+      "asylum_seekers": 162877,
+      "granted_asylum_or_equivalent": 36630
+    },
+    {
+      "year": 2016,
+      "total_immigration": 163005,
+      "returning_swedish_born": 15318,
+      "asylum_seekers": 28939,
+      "granted_asylum_or_equivalent": 71562
+    },
+    {
+      "year": 2017,
+      "total_immigration": 144489,
+      "returning_swedish_born": 14428,
+      "asylum_seekers": 25666,
+      "granted_asylum_or_equivalent": 36607
+    },
+    {
+      "year": 2018,
+      "total_immigration": 132602,
+      "returning_swedish_born": 12805,
+      "asylum_seekers": 21502,
+      "granted_asylum_or_equivalent": 25377
+    },
+    {
+      "year": 2019,
+      "total_immigration": 115805,
+      "returning_swedish_born": 11955,
+      "asylum_seekers": 21958,
+      "granted_asylum_or_equivalent": 17502
+    },
+    {
+      "year": 2020,
+      "total_immigration": 82518,
+      "returning_swedish_born": 11660,
+      "asylum_seekers": 12991,
+      "granted_asylum_or_equivalent": 10471
+    },
+    {
+      "year": 2021,
+      "total_immigration": 90631,
+      "returning_swedish_born": 10480,
+      "asylum_seekers": 11425,
+      "granted_asylum_or_equivalent": 11443
+    },
+    {
+      "year": 2022,
+      "total_immigration": 102436,
+      "returning_swedish_born": 9869,
+      "asylum_seekers": 16825,
+      "granted_asylum_or_equivalent": 56622
+    },
+    {
+      "year": 2023,
+      "total_immigration": 94514,
+      "returning_swedish_born": 10583,
+      "asylum_seekers": 12644,
+      "granted_asylum_or_equivalent": 16810
+    }
+  ],
+  "meta": {
+    "title": "Invandring till Sverige per år - Free Download",
+    "description": "Total invandring, återvändande svenskfödda, asylsökande och beviljade asyl per år i Sverige sedan 2000. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Invandring till Sverige per år | ListBase",
+    "seo_description": "Download Invandring till Sverige per år — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_invandring_och_utvandring"
+    ]
+  }
+}
