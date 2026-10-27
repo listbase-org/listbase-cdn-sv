@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:07.986Z",
-  "total_datasets": 476,
-  "total_records": 2263268,
+  "generated": "2026-10-27T02:33:10.344Z",
+  "total_datasets": 477,
+  "total_records": 2263353,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -4232,6 +4232,33 @@
         "xlsx": {
           "name": "sv-svenska-dialektomraden_SV.xlsx",
           "size": 7040
+        }
+      }
+    },
+    {
+      "id": "sv-svenska-homofoner",
+      "name": "Svenska homofoner",
+      "category": "language",
+      "record_count": 85,
+      "columns": [
+        "word_1",
+        "word_2",
+        "word_3",
+        "note_1",
+        "note_2",
+        "note_3"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_homofoner",
+      "updated": "2026-10",
+      "size": 14190,
+      "files": {
+        "csv": {
+          "name": "sv-svenska-homofoner_SV.csv",
+          "size": 2979
+        },
+        "xlsx": {
+          "name": "sv-svenska-homofoner_SV.xlsx",
+          "size": 9602
         }
       }
     },

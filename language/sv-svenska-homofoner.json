@@ -1,0 +1,736 @@
+{
+  "id": "sv-svenska-homofoner",
+  "name": "Svenska homofoner",
+  "title": "Svenska homofoner",
+  "description": "Svenska ord som uttalas lika men stavas olika (homofoner), med förklaringar.",
+  "category": "language",
+  "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_homofoner",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_homofoner",
+  "updated": "2026-10",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "word_1",
+      "label": "Word 1",
+      "type": "string"
+    },
+    {
+      "key": "word_2",
+      "label": "Word 2",
+      "type": "string"
+    },
+    {
+      "key": "word_3",
+      "label": "Word 3",
+      "type": "string"
+    },
+    {
+      "key": "note_1",
+      "label": "Note 1",
+      "type": "string"
+    },
+    {
+      "key": "note_2",
+      "label": "Note 2",
+      "type": "string"
+    },
+    {
+      "key": "note_3",
+      "label": "Note 3",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word_1": "alt",
+      "word_2": "allt",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "beck",
+      "word_2": "bäck",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "beteckning",
+      "word_2": "betäckning",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "bets",
+      "word_2": "betts",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "genitiv av bett",
+      "note_3": ""
+    },
+    {
+      "word_1": "bleck",
+      "word_2": "bläck",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "bygd",
+      "word_2": "byggd",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "bocks",
+      "word_2": "box",
+      "word_3": "",
+      "note_1": "genitiv",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "bår",
+      "word_2": "bor",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "egg",
+      "word_2": "ägg",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "elva",
+      "word_2": "älva",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "facks",
+      "word_2": "fax",
+      "word_3": "",
+      "note_1": "genitiv",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "fals",
+      "word_2": "falls",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "genitiv",
+      "note_3": ""
+    },
+    {
+      "word_1": "fält",
+      "word_2": "fällt",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "supinum av fälla",
+      "note_3": ""
+    },
+    {
+      "word_1": "ficks",
+      "word_2": "fix",
+      "word_3": "",
+      "note_1": "passiv preteritum av få",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "gått",
+      "word_2": "gott",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "hals",
+      "word_2": "halls",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "genitiv",
+      "note_3": ""
+    },
+    {
+      "word_1": "han",
+      "word_2": "hann",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "häller",
+      "word_2": "heller",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "hemma",
+      "word_2": "hämma",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "hetta",
+      "word_2": "hätta",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "håv",
+      "word_2": "hov",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "hör",
+      "word_2": "Höör",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "jord",
+      "word_2": "hjord",
+      "word_3": "gjord",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "hjort",
+      "word_2": "gjort",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "jul",
+      "word_2": "hjul",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "jämt",
+      "word_2": "jämnt",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "Järna",
+      "word_2": "gärna",
+      "word_3": "hjärna",
+      "note_1": "tätort",
+      "note_2": "villigt",
+      "note_3": "organ"
+    },
+    {
+      "word_1": "jäst",
+      "word_2": "gäst",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "kar",
+      "word_2": "karl",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "kast",
+      "word_2": "kasst",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "uselt (slang)",
+      "note_3": ""
+    },
+    {
+      "word_1": "kat",
+      "word_2": "katt",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "djur",
+      "note_3": ""
+    },
+    {
+      "word_1": "klår",
+      "word_2": "klor",
+      "word_3": "",
+      "note_1": "spöar (slang)",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "kål",
+      "word_2": "kol",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "men",
+      "word_2": "män",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "mens",
+      "word_2": "mäns",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "micks",
+      "word_2": "mix",
+      "word_3": "",
+      "note_1": "genitiv",
+      "note_2": "blandning",
+      "note_3": ""
+    },
+    {
+      "word_1": "och",
+      "word_2": "ock",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "packs",
+      "word_2": "pax",
+      "word_3": "",
+      "note_1": "slödders",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "pol",
+      "word_2": "pool",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "puts",
+      "word_2": "putts",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "knuffs",
+      "note_3": ""
+    },
+    {
+      "word_1": "redd",
+      "word_2": "rädd",
+      "word_3": "",
+      "note_1": "perfekt particip av reda",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "rett",
+      "word_2": "rätt",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "rykte",
+      "word_2": "ryckte",
+      "word_3": "",
+      "note_1": "anseende, hörsägen",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "rådda",
+      "word_2": "rodda",
+      "word_3": "",
+      "note_1": "stöka till",
+      "note_2": "ställa upp utrustning, fixa",
+      "note_3": ""
+    },
+    {
+      "word_1": "sats",
+      "word_2": "satts",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "passiv supinum av sätta",
+      "note_3": ""
+    },
+    {
+      "word_1": "saxen",
+      "word_2": "Sachsen",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "sej",
+      "word_2": "sig",
+      "word_3": "säg",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "sen",
+      "word_2": "scen",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "sensor",
+      "word_2": "censor",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "sett",
+      "word_2": "sätt",
+      "word_3": "set",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "sida",
+      "word_2": "seeda",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "sits",
+      "word_2": "sitts",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "passiv presens av sitta",
+      "note_3": ""
+    },
+    {
+      "word_1": "släkt",
+      "word_2": "släckt",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "smält",
+      "word_2": "smällt",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "so",
+      "word_2": "zoo",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "djurpark",
+      "note_3": ""
+    },
+    {
+      "word_1": "spets",
+      "word_2": "spetts",
+      "word_3": "spätts",
+      "note_1": "",
+      "note_2": "genitiv",
+      "note_3": "passiv supinum av späda"
+    },
+    {
+      "word_1": "spett",
+      "word_2": "spätt",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "spex",
+      "word_2": "späcks",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "genitiv",
+      "note_3": ""
+    },
+    {
+      "word_1": "sprits",
+      "word_2": "spritts",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "passiv supinum av sprida",
+      "note_3": ""
+    },
+    {
+      "word_1": "streck",
+      "word_2": "sträck",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "följd; imperativ av sträcka",
+      "note_3": ""
+    },
+    {
+      "word_1": "strecka",
+      "word_2": "sträcka",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "räta ut",
+      "note_3": ""
+    },
+    {
+      "word_1": "svets",
+      "word_2": "svetts",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "genitiv",
+      "note_3": ""
+    },
+    {
+      "word_1": "själv",
+      "word_2": "skälv",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "skälva",
+      "word_2": "själva",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "skeppa",
+      "word_2": "skäppa",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "själ",
+      "word_2": "skäl",
+      "word_3": "stjäl",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "tips",
+      "word_2": "tipps",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "genitiv",
+      "note_3": ""
+    },
+    {
+      "word_1": "tryckt",
+      "word_2": "tryggt",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "tom",
+      "word_2": "tum",
+      "word_3": "Tom",
+      "note_1": "Egennamn",
+      "note_2": "Södra skåne",
+      "note_3": ""
+    },
+    {
+      "word_1": "tops",
+      "word_2": "topps",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "genitiv",
+      "note_3": ""
+    },
+    {
+      "word_1": "tjeck",
+      "word_2": "check",
+      "word_3": "käck",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "tjecks",
+      "word_2": "kex",
+      "word_3": "checks",
+      "note_1": "genitiv",
+      "note_2": "",
+      "note_3": "genitiv"
+    },
+    {
+      "word_1": "tjäll",
+      "word_2": "Kjell",
+      "word_3": "",
+      "note_1": "ringa boning (gammalt)",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "kippa",
+      "word_2": "chippa",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "tjära",
+      "word_2": "kära",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "upplåst",
+      "word_2": "uppblåst",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "vals",
+      "word_2": "valls",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "genitiv",
+      "note_3": ""
+    },
+    {
+      "word_1": "vecka",
+      "word_2": "väcka",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "väcks",
+      "word_2": "väx",
+      "word_3": "",
+      "note_1": "passiv presens av väcka",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "verk",
+      "word_2": "värk",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "verka",
+      "word_2": "värka",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "vette",
+      "word_2": "vätte",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "vice",
+      "word_2": "vise",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "viste",
+      "word_2": "visste",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    },
+    {
+      "word_1": "värd",
+      "word_2": "värld",
+      "word_3": "",
+      "note_1": "",
+      "note_2": "",
+      "note_3": ""
+    }
+  ],
+  "meta": {
+    "title": "Svenska homofoner - Free Download",
+    "description": "Svenska ord som uttalas lika men stavas olika (homofoner), med förklaringar. Contains 85 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska homofoner | ListBase",
+    "seo_description": "Download Svenska homofoner — 85 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 85 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_homofoner"
+    ]
+  }
+}
