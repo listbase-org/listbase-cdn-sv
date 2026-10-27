@@ -1,0 +1,284 @@
+{
+  "id": "sv-sveriges-historiska-befolkning",
+  "name": "Sveriges historiska befolkning",
+  "title": "Sveriges historiska befolkning",
+  "description": "Uppskattad medelfolkmängd i Sverige från stenåldern (4000 f.Kr.) till modern tid.",
+  "category": "history",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_historiska_befolkning",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_historiska_befolkning",
+  "updated": "2026-10",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "average_population",
+      "label": "Average Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": "4000 f.Kr.",
+      "average_population": 10000
+    },
+    {
+      "year": "1",
+      "average_population": 200000
+    },
+    {
+      "year": "1000",
+      "average_population": 400000
+    },
+    {
+      "year": "1300",
+      "average_population": 1100000
+    },
+    {
+      "year": "1413",
+      "average_population": 347000
+    },
+    {
+      "year": "1571",
+      "average_population": 639000
+    },
+    {
+      "year": "1620",
+      "average_population": 854000
+    },
+    {
+      "year": "1631",
+      "average_population": 916722
+    },
+    {
+      "year": "1632",
+      "average_population": 922598
+    },
+    {
+      "year": "1633",
+      "average_population": 922882
+    },
+    {
+      "year": "1634",
+      "average_population": 923605
+    },
+    {
+      "year": "1635",
+      "average_population": 927815
+    },
+    {
+      "year": "1636",
+      "average_population": 934032
+    },
+    {
+      "year": "1637",
+      "average_population": 944073
+    },
+    {
+      "year": "1638",
+      "average_population": 957115
+    },
+    {
+      "year": "1639",
+      "average_population": 971279
+    },
+    {
+      "year": "1640",
+      "average_population": 986047
+    },
+    {
+      "year": "1650",
+      "average_population": 1101319
+    },
+    {
+      "year": "1660",
+      "average_population": 1090786
+    },
+    {
+      "year": "1670",
+      "average_population": 1178383
+    },
+    {
+      "year": "1680",
+      "average_population": 1173487
+    },
+    {
+      "year": "1690",
+      "average_population": 1343644
+    },
+    {
+      "year": "1700",
+      "average_population": 1368171
+    },
+    {
+      "year": "1710",
+      "average_population": 1422676
+    },
+    {
+      "year": "1720",
+      "average_population": 1451917
+    },
+    {
+      "year": "1730",
+      "average_population": 1619739
+    },
+    {
+      "year": "1740",
+      "average_population": 1719696
+    },
+    {
+      "year": "1750",
+      "average_population": 1772683
+    },
+    {
+      "year": "1760",
+      "average_population": 1915532
+    },
+    {
+      "year": "1770",
+      "average_population": 2036524
+    },
+    {
+      "year": "1780",
+      "average_population": 2103904
+    },
+    {
+      "year": "1790",
+      "average_population": 2188347
+    },
+    {
+      "year": "1800",
+      "average_population": 2352143
+    },
+    {
+      "year": "1810",
+      "average_population": 2395226
+    },
+    {
+      "year": "1820",
+      "average_population": 2573210
+    },
+    {
+      "year": "1830",
+      "average_population": 2875580
+    },
+    {
+      "year": "1840",
+      "average_population": 3122631
+    },
+    {
+      "year": "1850",
+      "average_population": 3461852
+    },
+    {
+      "year": "1860",
+      "average_population": 3823562
+    },
+    {
+      "year": "1870",
+      "average_population": 4163638
+    },
+    {
+      "year": "1880",
+      "average_population": 4572280
+    },
+    {
+      "year": "1890",
+      "average_population": 4779692
+    },
+    {
+      "year": "1900",
+      "average_population": 5116884
+    },
+    {
+      "year": "1910",
+      "average_population": 5499374
+    },
+    {
+      "year": "1920",
+      "average_population": 5875693
+    },
+    {
+      "year": "1930",
+      "average_population": 6131126
+    },
+    {
+      "year": "1940",
+      "average_population": 6356350
+    },
+    {
+      "year": "1950",
+      "average_population": 7013950
+    },
+    {
+      "year": "1960",
+      "average_population": 7480374
+    },
+    {
+      "year": "1970",
+      "average_population": 8042657
+    },
+    {
+      "year": "1980",
+      "average_population": 8310470
+    },
+    {
+      "year": "1990",
+      "average_population": 8558774
+    },
+    {
+      "year": "2000",
+      "average_population": 8872103
+    },
+    {
+      "year": "2010",
+      "average_population": 9373379
+    },
+    {
+      "year": "2015",
+      "average_population": 9799186
+    },
+    {
+      "year": "2016",
+      "average_population": 9923085
+    },
+    {
+      "year": "2017",
+      "average_population": 10057698
+    },
+    {
+      "year": "2018",
+      "average_population": 10175214
+    },
+    {
+      "year": "2019",
+      "average_population": 10285453
+    },
+    {
+      "year": "2020",
+      "average_population": 10327589
+    },
+    {
+      "year": "2021",
+      "average_population": 10452326
+    },
+    {
+      "year": "2022",
+      "average_population": 10512820
+    }
+  ],
+  "meta": {
+    "title": "Sveriges historiska befolkning - Free Download",
+    "description": "Uppskattad medelfolkmängd i Sverige från stenåldern (4000 f.Kr.) till modern tid. Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges historiska befolkning | ListBase",
+    "seo_description": "Download Sveriges historiska befolkning — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_historiska_befolkning"
+    ]
+  }
+}

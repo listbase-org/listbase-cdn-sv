@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:22.457Z",
-  "total_datasets": 482,
-  "total_records": 2263645,
+  "generated": "2026-10-27T02:33:24.851Z",
+  "total_datasets": 483,
+  "total_records": 2263707,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -4162,6 +4162,29 @@
         "xlsx": {
           "name": "sv-svenska-krig_SV.xlsx",
           "size": 10850
+        }
+      }
+    },
+    {
+      "id": "sv-sveriges-historiska-befolkning",
+      "name": "Sveriges historiska befolkning",
+      "category": "history",
+      "record_count": 62,
+      "columns": [
+        "year",
+        "average_population"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_historiska_befolkning",
+      "updated": "2026-10",
+      "size": 5737,
+      "files": {
+        "csv": {
+          "name": "sv-sveriges-historiska-befolkning_SV.csv",
+          "size": 1076
+        },
+        "xlsx": {
+          "name": "sv-sveriges-historiska-befolkning_SV.xlsx",
+          "size": 7896
         }
       }
     },
