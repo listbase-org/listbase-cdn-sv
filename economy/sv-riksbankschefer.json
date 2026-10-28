@@ -1,0 +1,92 @@
+{
+  "id": "sv-riksbankschefer",
+  "name": "Sveriges riksbankschefer",
+  "title": "Sveriges riksbankschefer",
+  "description": "Lista över Sveriges riksbankschefer från 1901 till idag med ämbetsperiod.",
+  "category": "economy",
+  "source": "https://sv.wikipedia.org/wiki/Riksbankschef",
+  "source_url": "https://sv.wikipedia.org/wiki/Riksbankschef",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Karl Langenskiöld",
+      "period": "1901–1912"
+    },
+    {
+      "name": "Victor Moll",
+      "period": "1912–1929"
+    },
+    {
+      "name": "Ivar Rooth",
+      "period": "1929–1948"
+    },
+    {
+      "name": "Klas Böök",
+      "period": "1948–1951"
+    },
+    {
+      "name": "Mats Lemne",
+      "period": "1951–1955"
+    },
+    {
+      "name": "Per Åsbrink",
+      "period": "1955–1973"
+    },
+    {
+      "name": "Krister Wickman",
+      "period": "1973–1976"
+    },
+    {
+      "name": "Carl Henrik Nordlander",
+      "period": "1976–1979"
+    },
+    {
+      "name": "Lars Wohlin",
+      "period": "1979–1982"
+    },
+    {
+      "name": "Bengt Dennis",
+      "period": "1982–31 december 1993"
+    },
+    {
+      "name": "Urban Bäckström",
+      "period": "1 januari 1994–31 december 2002"
+    },
+    {
+      "name": "Lars Heikensten",
+      "period": "1 januari 2003–31 december 2005"
+    },
+    {
+      "name": "Stefan Ingves",
+      "period": "1 januari 2006–31 december 2022"
+    },
+    {
+      "name": "Erik Thedéen",
+      "period": "1 januari 2023–"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges riksbankschefer - Free Download",
+    "description": "Lista över Sveriges riksbankschefer från 1901 till idag med ämbetsperiod. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges riksbankschefer | ListBase",
+    "seo_description": "Download Sveriges riksbankschefer — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Riksbankschef"
+    ]
+  }
+}

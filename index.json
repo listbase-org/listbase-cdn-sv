@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-28T02:24:32.849Z",
-  "total_datasets": 495,
-  "total_records": 2264485,
+  "generated": "2026-10-28T02:24:35.317Z",
+  "total_datasets": 496,
+  "total_records": 2264499,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -499,6 +499,29 @@
         "xlsx": {
           "name": "sv-energi-nyckeltal-per-ar_SV.xlsx",
           "size": 7360
+        }
+      }
+    },
+    {
+      "id": "sv-riksbankschefer",
+      "name": "Sveriges riksbankschefer",
+      "category": "economy",
+      "record_count": 14,
+      "columns": [
+        "name",
+        "period"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Riksbankschef",
+      "updated": "2026-10",
+      "size": 2335,
+      "files": {
+        "csv": {
+          "name": "sv-riksbankschefer_SV.csv",
+          "size": 530
+        },
+        "xlsx": {
+          "name": "sv-riksbankschefer_SV.xlsx",
+          "size": 7130
         }
       }
     },
