@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-28T02:24:30.294Z",
-  "total_datasets": 494,
-  "total_records": 2264422,
+  "generated": "2026-10-28T02:24:32.849Z",
+  "total_datasets": 495,
+  "total_records": 2264485,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "entertainment",
@@ -571,6 +571,29 @@
         "xlsx": {
           "name": "sv-skolor_SV.xlsx",
           "size": 147973
+        }
+      }
+    },
+    {
+      "id": "sv-studentkarer",
+      "name": "Studentkårer i Sverige",
+      "category": "education",
+      "record_count": 63,
+      "columns": [
+        "university",
+        "student_union"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_studentkårer_i_Sverige",
+      "updated": "2026-10",
+      "size": 8712,
+      "files": {
+        "csv": {
+          "name": "sv-studentkarer_SV.csv",
+          "size": 3881
+        },
+        "xlsx": {
+          "name": "sv-studentkarer_SV.xlsx",
+          "size": 8461
         }
       }
     },

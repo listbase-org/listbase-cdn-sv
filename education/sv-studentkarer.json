@@ -1,0 +1,288 @@
+{
+  "id": "sv-studentkarer",
+  "name": "Studentkårer i Sverige",
+  "title": "Studentkårer i Sverige",
+  "description": "Lista över studentkårer vid svenska universitet och högskolor.",
+  "category": "education",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_studentkårer_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_studentkårer_i_Sverige",
+  "updated": "2026-10",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "university",
+      "label": "University",
+      "type": "string"
+    },
+    {
+      "key": "student_union",
+      "label": "Student Union",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "university": "Blekinge tekniska högskola",
+      "student_union": "Blekinge Studentkår, (BSK)"
+    },
+    {
+      "university": "Chalmers tekniska högskola",
+      "student_union": "Chalmers studentkår, (ChS)"
+    },
+    {
+      "university": "Göteborgs universitet",
+      "student_union": "Göta studentkår (Göta)"
+    },
+    {
+      "university": "Göteborgs universitet",
+      "student_union": "Handelshögskolans i Göteborg Studentkår (HHGS)"
+    },
+    {
+      "university": "Göteborgs universitet",
+      "student_union": "Konstkåren (Konst)"
+    },
+    {
+      "university": "Göteborgs universitet",
+      "student_union": "Sahlgrenska akademins Studentkår (SAKS)"
+    },
+    {
+      "university": "Handelshögskolan i Stockholm",
+      "student_union": "Handelshögskolans i Stockholm studentkår (engelska : Student Association of the Stockholm School of Economics), grundad 1909"
+    },
+    {
+      "university": "Högskolan Dalarna",
+      "student_union": "Dalarnas studentkår"
+    },
+    {
+      "university": "Högskolan i Borås",
+      "student_union": "Studentkåren i Borås"
+    },
+    {
+      "university": "Högskolan i Gävle",
+      "student_union": "Gefle studentkår"
+    },
+    {
+      "university": "Högskolan i Halmstad",
+      "student_union": "Halmstad studentkår"
+    },
+    {
+      "university": "Högskolan i Jönköping",
+      "student_union": "Jönköpings Studentkår"
+    },
+    {
+      "university": "Högskolan Kristianstad",
+      "student_union": "Kristianstad studentkår"
+    },
+    {
+      "university": "Högskolan på Gotland",
+      "student_union": "Gotlands Studentkår Rindi"
+    },
+    {
+      "university": "Högskolan Väst",
+      "student_union": "Studentkåren vid Högskolan Väst"
+    },
+    {
+      "university": "Johannelunds teologiska högskola",
+      "student_union": "Studentkåren vid Johannelunds teologiska högskola"
+    },
+    {
+      "university": "Karlstads universitet",
+      "student_union": "Karlstad studentkår"
+    },
+    {
+      "university": "Karolinska Institutet",
+      "student_union": "Medicinska Föreningen i Stockholm"
+    },
+    {
+      "university": "Karolinska Institutet",
+      "student_union": "Odontologiska Föreningen"
+    },
+    {
+      "university": "Karolinska Institutet",
+      "student_union": "Sjukgymnasternas Studentkår"
+    },
+    {
+      "university": "Kungliga Tekniska högskolan",
+      "student_union": "Tekniska Högskolans Studentkår (THS)"
+    },
+    {
+      "university": "Linköpings universitet",
+      "student_union": "Consensus - Hälsouniversitetets studentkår"
+    },
+    {
+      "university": "Linköpings universitet",
+      "student_union": "Linköpings teknologers studentkår (LinTeK)"
+    },
+    {
+      "university": "Linköpings universitet",
+      "student_union": "Studentkåren StuFF vid Linköpings universitet (StuFF)"
+    },
+    {
+      "university": "Linnéuniversitetet",
+      "student_union": "Linnéstudenterna"
+    },
+    {
+      "university": "Luleå tekniska universitet",
+      "student_union": "Luleå studentkår"
+    },
+    {
+      "university": "Luleå tekniska universitet",
+      "student_union": "Teknologkåren vid Luleå tekniska universitet"
+    },
+    {
+      "university": "Lunds universitet",
+      "student_union": "Juridiska föreningen i Lund (JF)"
+    },
+    {
+      "university": "Lunds universitet",
+      "student_union": "Lundaekonomernas Studentkår (LE)"
+    },
+    {
+      "university": "Lunds universitet",
+      "student_union": "Lunds Doktorandkår (LDK)"
+    },
+    {
+      "university": "Lunds universitet",
+      "student_union": "Lunds Naturvetarkår (LUNA)"
+    },
+    {
+      "university": "Lunds universitet",
+      "student_union": "Lunds Samhällsvetarkår (SAM)"
+    },
+    {
+      "university": "Lunds universitet",
+      "student_union": "Teknologkåren vid Lunds tekniska högskola (TLTH)"
+    },
+    {
+      "university": "Lunds universitet",
+      "student_union": "Humanistiska och teologiska studentkåren (HTS) (bildad 1 juli 2010)"
+    },
+    {
+      "university": "Lunds universitet",
+      "student_union": "Corpus Medicum (\"Corpus\", CM) (bildad 1 juli 2010)"
+    },
+    {
+      "university": "Lunds universitet",
+      "student_union": "Studentkåren vid Konsthögskolan i Malmö (bildad 1 juli 2010)"
+    },
+    {
+      "university": "Malmö universitet",
+      "student_union": "Odontologiska studentkåren"
+    },
+    {
+      "university": "Malmö universitet",
+      "student_union": "Studentkåren Malmö"
+    },
+    {
+      "university": "Mittuniversitetet",
+      "student_union": "Studentkåren i Sundsvall"
+    },
+    {
+      "university": "Mittuniversitetet",
+      "student_union": "Studentkåren i Östersund"
+    },
+    {
+      "university": "Mälardalens universitet",
+      "student_union": "Mälardalens Studentkår (MDSU)"
+    },
+    {
+      "university": "Stockholms universitet",
+      "student_union": "DISK"
+    },
+    {
+      "university": "Stockholms universitet",
+      "student_union": "Föreningen Ekonomerna"
+    },
+    {
+      "university": "Stockholms universitet",
+      "student_union": "Stockholms Universitets Studentkår"
+    },
+    {
+      "university": "Sveriges lantbruksuniversitet",
+      "student_union": "Alnarps studentkår, ASK"
+    },
+    {
+      "university": "Sveriges lantbruksuniversitet",
+      "student_union": "Hippologernas akademiska studentkår, HAS"
+    },
+    {
+      "university": "Sveriges lantbruksuniversitet",
+      "student_union": "Lantmästarkåren, LMK"
+    },
+    {
+      "university": "Sveriges lantbruksuniversitet",
+      "student_union": "Skara studentkår, SSK"
+    },
+    {
+      "university": "Sveriges lantbruksuniversitet",
+      "student_union": "Skogshögskolans studentkår, SHS (Umeå)"
+    },
+    {
+      "university": "Sveriges lantbruksuniversitet",
+      "student_union": "Skogsmästarskolans studentkår, SMS (Skinnskatteberg)"
+    },
+    {
+      "university": "Sveriges lantbruksuniversitet",
+      "student_union": "Ultuna studentkår, ULS"
+    },
+    {
+      "university": "Sveriges lantbruksuniversitet",
+      "student_union": "Veterinärmedicinska föreningen, VMF"
+    },
+    {
+      "university": "Södertörns högskola",
+      "student_union": "Södertörns högskolas studentkår"
+    },
+    {
+      "university": "Umeå universitet",
+      "student_union": "Medicinska studentkåren vid Umeå universitet, MSU"
+    },
+    {
+      "university": "Umeå universitet",
+      "student_union": "Umeå naturvetar- och teknologkår, NTK"
+    },
+    {
+      "university": "Umeå universitet",
+      "student_union": "Umeå studentkår"
+    },
+    {
+      "university": "Uppsala universitet",
+      "student_union": "Farmacevtiska Studentkåren"
+    },
+    {
+      "university": "Uppsala universitet",
+      "student_union": "Uppsala studentkår, US"
+    },
+    {
+      "university": "Uppsala universitet",
+      "student_union": "Uppsala teknolog- och naturvetarkår, UTN"
+    },
+    {
+      "university": "Uppsala universitet",
+      "student_union": "Föreningen Uppsalaekonomerna, UE"
+    },
+    {
+      "university": "Uppsala universitet",
+      "student_union": "Juridiska Föreningen i Uppsala, JF"
+    },
+    {
+      "university": "Uppsala universitet",
+      "student_union": "Gotlands Studentkår Rindi"
+    },
+    {
+      "university": "Örebro universitet",
+      "student_union": "Örebro studentkår"
+    }
+  ],
+  "meta": {
+    "title": "Studentkårer i Sverige - Free Download",
+    "description": "Lista över studentkårer vid svenska universitet och högskolor. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Studentkårer i Sverige | ListBase",
+    "seo_description": "Download Studentkårer i Sverige — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_studentkårer_i_Sverige"
+    ]
+  }
+}
