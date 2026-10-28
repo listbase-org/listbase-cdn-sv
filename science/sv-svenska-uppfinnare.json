@@ -1,0 +1,806 @@
+{
+  "id": "sv-svenska-uppfinnare",
+  "name": "Svenska uppfinnare och innovatörer",
+  "title": "Svenska uppfinnare och innovatörer",
+  "description": "Lista över svenska uppfinnare och innovatörer med deras uppfinningar och årtal.",
+  "category": "science",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_uppfinnare_och_innovatörer",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_svenska_uppfinnare_och_innovatörer",
+  "updated": "2026-10",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "inventor",
+      "label": "Inventor",
+      "type": "string"
+    },
+    {
+      "key": "invention",
+      "label": "Invention",
+      "type": "string"
+    },
+    {
+      "key": "year_note",
+      "label": "Year Note",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "inventor": "Erika Aittamaa",
+      "invention": "Lovikkavanten",
+      "year_note": "1892"
+    },
+    {
+      "inventor": "Bertil Aldman",
+      "invention": "bakåtvänd bilbarnstol",
+      "year_note": "1963"
+    },
+    {
+      "inventor": "Gunilla Alsiö",
+      "invention": "virtuellt tangentbord",
+      "year_note": "omkring 2000"
+    },
+    {
+      "inventor": "Nils Alwall",
+      "invention": "konstgjord njure",
+      "year_note": "1965"
+    },
+    {
+      "inventor": "Oscar Andersson",
+      "invention": "elljusstaken",
+      "year_note": "1934"
+    },
+    {
+      "inventor": "Pelle Anderson",
+      "invention": "gratisdagstidningen Metro",
+      "year_note": "1995 (tillsammans med Monica Lindstedt, Robert Braunerhielm och Jörgen Widsell)"
+    },
+    {
+      "inventor": "Arne Asplund",
+      "invention": "defibrator-metoden för tillverkning av mekanisk pappersmassa",
+      "year_note": "1930-talet"
+    },
+    {
+      "inventor": "Roderick Barett",
+      "invention": "metod för kylning av elektronisk apparatur",
+      "year_note": "2004 (tillsammans med Anna Borgström)"
+    },
+    {
+      "inventor": "Sven Bergh",
+      "invention": "pyrolysmetod för framställning av skifferolja",
+      "year_note": "1922"
+    },
+    {
+      "inventor": "Torbern Bergman",
+      "invention": "kolsyrning",
+      "year_note": "1775"
+    },
+    {
+      "inventor": "Göte Borgström",
+      "invention": "multiplikatorrullen",
+      "year_note": "1939"
+    },
+    {
+      "inventor": "Erik Bergstrand",
+      "invention": "geodimeter",
+      "year_note": "1947"
+    },
+    {
+      "inventor": "Nils Bohlin",
+      "invention": "säkerhetsbältet med tre punkter",
+      "year_note": "1957 (tillsammans med Per-Olof Weman, Stig Lindgren och Bengt Odelgard)"
+    },
+    {
+      "inventor": "Anna Borgström",
+      "invention": "metod för kylning av elektronisk apparatur",
+      "year_note": "2004 (tillsammans med Roderick Barett)"
+    },
+    {
+      "inventor": "Robert Braunerhielm",
+      "invention": "gratisdagstidningen Metro",
+      "year_note": "1995 (tillsammans med Monica Lindstedt, Pelle Anderson och Jörgen Widsell)"
+    },
+    {
+      "inventor": "Maria Christina Bruhn",
+      "invention": "qvinettkardusen",
+      "year_note": "1774"
+    },
+    {
+      "inventor": "Per-Ingvar Brånemark",
+      "invention": "osseointegration med titanskruv för tandbehandling",
+      "year_note": "1952"
+    },
+    {
+      "inventor": "Arvid Carlsson",
+      "invention": "Levodopa",
+      "year_note": "1958"
+    },
+    {
+      "inventor": "Anders Celsius",
+      "invention": "temperaturskala",
+      "year_note": "1742"
+    },
+    {
+      "inventor": "Carl Johan Cronstedt",
+      "invention": "den moderna kakelugnen",
+      "year_note": "1767"
+    },
+    {
+      "inventor": "Monika Dahlstrand",
+      "invention": "narkosmask för dibarn",
+      "year_note": "1993"
+    },
+    {
+      "inventor": "Gustaf Dalén",
+      "invention": "klippljusapparaten 1905, AGA-massan 1906, solventilen",
+      "year_note": "1907"
+    },
+    {
+      "inventor": "Arvid Damm",
+      "invention": "rotormaskin",
+      "year_note": "1919"
+    },
+    {
+      "inventor": "Tage Arnold Davidsson",
+      "invention": "petskyddade vägguttag",
+      "year_note": "1953"
+    },
+    {
+      "inventor": "Solgun Drevik",
+      "invention": "dambindor",
+      "year_note": "1999–"
+    },
+    {
+      "inventor": "Inge Edler",
+      "invention": "ultraljudbilder",
+      "year_note": "1953 (tillsammans med Carl Hellmuth Hertz)"
+    },
+    {
+      "inventor": "Daniel Ek",
+      "invention": "Spotify",
+      "year_note": "2006 (tillsammans med Martin Lorentzon)"
+    },
+    {
+      "inventor": "Eva Ekeblad",
+      "invention": "potatisstärkelse",
+      "year_note": "1748"
+    },
+    {
+      "inventor": "Carl Daniel Ekman",
+      "invention": "sulfitprocessen",
+      "year_note": "1874"
+    },
+    {
+      "inventor": "Rune Elmqvist",
+      "invention": "pacemakern",
+      "year_note": "1958"
+    },
+    {
+      "inventor": "Carl Gunnar Engström",
+      "invention": "respiratorn",
+      "year_note": "1950"
+    },
+    {
+      "inventor": "Sten Engwall",
+      "invention": "avanti-metoden för borrning med tryckluftsdriven utrustning",
+      "year_note": ", omkring 1960"
+    },
+    {
+      "inventor": "John Ericsson",
+      "invention": "skruv propellern",
+      "year_note": "1836"
+    },
+    {
+      "inventor": "Lars Magnus Ericsson",
+      "invention": "telefonutrustning",
+      "year_note": "1884"
+    },
+    {
+      "inventor": "Ove Fernö",
+      "invention": "nikotintuggummi",
+      "year_note": "1995"
+    },
+    {
+      "inventor": "Christer Fåhraeus",
+      "invention": "läspennan C-pen",
+      "year_note": "1996"
+    },
+    {
+      "inventor": "Iréne Grahn",
+      "invention": "fingerledsstöd för reumatiker",
+      "year_note": "1992"
+    },
+    {
+      "inventor": "Allvar Gullstrand",
+      "invention": "oftalmologisk utrustning",
+      "year_note": "1889"
+    },
+    {
+      "inventor": "Bo Gustavsson",
+      "invention": "färgklämman, stöldskydd för kläder med färgmärkning",
+      "year_note": "1983 (tillsammans med Klas Stoltz och Kjell Stoltz)"
+    },
+    {
+      "inventor": "Jack Gustavsson",
+      "invention": "skidbindning",
+      "year_note": "1985"
+    },
+    {
+      "inventor": "Göran Fredrik Göransson",
+      "invention": "vidareutveckling av Bessemermetoden",
+      "year_note": "1858"
+    },
+    {
+      "inventor": "Jaap Haartsen",
+      "invention": "standard för lokal radiokommunikation, blåtand",
+      "year_note": "1998 (tillsammans med Sven Mattisson och Örjan Johansson)"
+    },
+    {
+      "inventor": "Boris Hagelin",
+      "invention": "krypteringsmaskiner",
+      "year_note": "1930-talet"
+    },
+    {
+      "inventor": "Hanna Hammarström",
+      "invention": "isolerad telefontråd",
+      "year_note": "1883"
+    },
+    {
+      "inventor": "Victor Hasselblad",
+      "invention": "enögd spegelreflexkamera",
+      "year_note": "1948"
+    },
+    {
+      "inventor": "Anneli Hellström",
+      "invention": "nikotinfritt snus",
+      "year_note": "1997"
+    },
+    {
+      "inventor": "Göran Hemdahl",
+      "invention": "AXE -systemet",
+      "year_note": "1970 (tillsammans med Bengt-Gunnar Magnusson)"
+    },
+    {
+      "inventor": "Carl Hellmuth Hertz",
+      "invention": "ultraljudbilder",
+      "year_note": "1953 (tillsammans med Inge Edler)"
+    },
+    {
+      "inventor": "Barbro Hjalmarsson",
+      "invention": "blodprovsvagga",
+      "year_note": "1994"
+    },
+    {
+      "inventor": "Alfred Holm",
+      "invention": "slingramen",
+      "year_note": "1935"
+    },
+    {
+      "inventor": "Åke Hörnell",
+      "invention": "svetshjälm som avskärmar automatiskt",
+      "year_note": "1981"
+    },
+    {
+      "inventor": "Bengt Ilon",
+      "invention": "mecanumhjulet",
+      "year_note": "1973"
+    },
+    {
+      "inventor": "Birgit Johansson",
+      "invention": "båtslip",
+      "year_note": "1980"
+    },
+    {
+      "inventor": "Carl Edvard Johansson",
+      "invention": "passbitar",
+      "year_note": "1894"
+    },
+    {
+      "inventor": "Johan Petter Johansson",
+      "invention": "ställbar rörtång 1889, (skiftnyckeln",
+      "year_note": "1892"
+    },
+    {
+      "inventor": "Örjan Johansson",
+      "invention": "standard för lokal radiokommunikation, blåtand",
+      "year_note": "1998 (tillsammans med Sven Mattisson och Jaap Haartsen)"
+    },
+    {
+      "inventor": "Hans von Kantzow",
+      "invention": "kanthal",
+      "year_note": "1926"
+    },
+    {
+      "inventor": "Axel Karlson",
+      "invention": "Karlsons klister, syntetiskt lim",
+      "year_note": "1920"
+    },
+    {
+      "inventor": "Hans Karlsson",
+      "invention": "rullbältet",
+      "year_note": "1962"
+    },
+    {
+      "inventor": "Magnus Kellström",
+      "invention": "CARB-lagret",
+      "year_note": "1995"
+    },
+    {
+      "inventor": "Ninni Kronberg",
+      "invention": "mjölkpulver",
+      "year_note": "1933"
+    },
+    {
+      "inventor": "Anders Kämpe",
+      "invention": "artificiella diamanten",
+      "year_note": "1953"
+    },
+    {
+      "inventor": "Alexander Lagerman",
+      "invention": "tändstickstillverkningsmaskiner",
+      "year_note": "1873"
+    },
+    {
+      "inventor": "Uno Lamm",
+      "invention": "högspänd likström",
+      "year_note": "1950, (högspänd jonventil)"
+    },
+    {
+      "inventor": "Christina Lampe Önnerud",
+      "invention": "batteri",
+      "year_note": "2005"
+    },
+    {
+      "inventor": "Håkan Lans",
+      "invention": "datorgrafik",
+      "year_note": "1981, (transpondersystem), (applikation till GPS-systemet för positionering) 1991"
+    },
+    {
+      "inventor": "Gustaf de Laval",
+      "invention": "separatorn",
+      "year_note": "1877, ångturbin 1883, aktionsturbin 1888, mjölkmaskinen 1896"
+    },
+    {
+      "inventor": "Lars Leksell",
+      "invention": "gammakniven",
+      "year_note": "1968"
+    },
+    {
+      "inventor": "Lars Liljeryd",
+      "invention": "ljudkomprimering AAC",
+      "year_note": "1997"
+    },
+    {
+      "inventor": "Elis Lindén",
+      "invention": "byggkran/tornkran",
+      "year_note": "1970"
+    },
+    {
+      "inventor": "Karl Gustaf Lindesvärd",
+      "invention": "belysningsteknisk armatur",
+      "year_note": "1934, 1940, 1942, 1944, 1945, 1974"
+    },
+    {
+      "inventor": "Stig Lindgren",
+      "invention": "säkerhetsbältet med tre punkter",
+      "year_note": "1957 (tillsammans med Per-Olof Weman, Bengt Odelgard och Nils Bohlin)"
+    },
+    {
+      "inventor": "Alvar Lindmark",
+      "invention": "bygghiss",
+      "year_note": "1962"
+    },
+    {
+      "inventor": "Bengt Lindoff",
+      "invention": "patent inom 4G- och 5G-teknik",
+      "year_note": "1990-talet"
+    },
+    {
+      "inventor": "Frans Lindqvist",
+      "invention": "fotogenköket Primus",
+      "year_note": "1888"
+    },
+    {
+      "inventor": "Monica Lindstedt",
+      "invention": "gratisdagstidningen Metro",
+      "year_note": "1995 (tillsammans med Pelle Anderson, Robert Braunerhielm och Jörgen Widsell)"
+    },
+    {
+      "inventor": "Birger Ljungström",
+      "invention": "Ljungströmturbinen, dubbelroterande ångturbin",
+      "year_note": "1908"
+    },
+    {
+      "inventor": "Fredrik Ljungström",
+      "invention": "Ljungströmturbinen, roterande luftförvärmaren för bland annat ångturbiner",
+      "year_note": "1908, utvinning av skifferolja 1940"
+    },
+    {
+      "inventor": "Richard Looft",
+      "invention": "grilltändaren Looftlighter",
+      "year_note": "1997"
+    },
+    {
+      "inventor": "Martin Lorentzon",
+      "invention": "Spotify",
+      "year_note": "2006 (tillsammans med Daniel Ek)"
+    },
+    {
+      "inventor": "Göran Lundahl",
+      "invention": "djupfrysning",
+      "year_note": "1961 (tillsammans med Per-Oskar Persson)"
+    },
+    {
+      "inventor": "Birger Lundberg",
+      "invention": "baklastare",
+      "year_note": "1951 (tillsammans med Göran Lundberg)"
+    },
+    {
+      "inventor": "Göran Lundberg",
+      "invention": "baklastare",
+      "year_note": "1951 (tillsammans med Birger Lundberg)"
+    },
+    {
+      "inventor": "Leif Lundblad",
+      "invention": "sedelutmatning",
+      "year_note": "1974"
+    },
+    {
+      "inventor": "Bengt Lundqvist",
+      "invention": "Xylocain för lokalbedövning",
+      "year_note": "1941 (tillsammans med Nils Löfgren)"
+    },
+    {
+      "inventor": "Janne Lundström",
+      "invention": "säkerhetständsticka",
+      "year_note": "1885"
+    },
+    {
+      "inventor": "Ralph Lysell",
+      "invention": "integrerad telefonlur, Ericofonen",
+      "year_note": "1940–1956 (tillsammans med Gösta Thames)"
+    },
+    {
+      "inventor": "Alf Lysholm",
+      "invention": "jetmotorn",
+      "year_note": "1932"
+    },
+    {
+      "inventor": "Nils Löfgren",
+      "invention": "Xylocain för lokalbedövning",
+      "year_note": "1941 (tillsammans med Bengt Lundqvist)"
+    },
+    {
+      "inventor": "René Malaise",
+      "invention": "malaisefälla",
+      "year_note": "1934"
+    },
+    {
+      "inventor": "Bengt-Gunnar Magnusson",
+      "invention": "AXE -växeln",
+      "year_note": "1970 (tillsammans med Göran Hemdahl)"
+    },
+    {
+      "inventor": "Åsa Magnusson",
+      "invention": "uppblåsningsbar livboj",
+      "year_note": "2010"
+    },
+    {
+      "inventor": "Sven Mattisson",
+      "invention": "standard för lokal radiokommunikation, blåtand",
+      "year_note": "1998 (tillsammans med Jaap Haartsen och Örjan Johansson)"
+    },
+    {
+      "inventor": "Carl Munters",
+      "invention": "kylskåp utan rörliga delar",
+      "year_note": "1921 (tillsammans med Baltzar von Platen)"
+    },
+    {
+      "inventor": "Magnus Niell",
+      "invention": "Ticka-kameran",
+      "year_note": "1903"
+    },
+    {
+      "inventor": "Greta Nilsson",
+      "invention": "den djupfrysta smörgåsen: renklämman",
+      "year_note": "1971"
+    },
+    {
+      "inventor": "Alfred Nobel",
+      "invention": "fungerande tändhatt 1884, (dynamiten",
+      "year_note": "1865, Spränggelatin 1875, nobelkrut 1884"
+    },
+    {
+      "inventor": "Åke Nordin",
+      "invention": "ramryggsäcken och termotältet",
+      "year_note": "1950"
+    },
+    {
+      "inventor": "Carl Norell",
+      "invention": "liksidig brandslangskoppling \"Ideal\"",
+      "year_note": "1896, (anordning vid brandsignalanläggningar) 1922"
+    },
+    {
+      "inventor": "Harald Notini",
+      "invention": "belysningsteknisk armatur",
+      "year_note": "1935, 1938, 1940"
+    },
+    {
+      "inventor": "Carl Nyberg",
+      "invention": "blåslampan",
+      "year_note": "1882"
+    },
+    {
+      "inventor": "Bengt Odelgard",
+      "invention": "säkerhetsbältet med tre punkter",
+      "year_note": "1957 (tillsammans med Per-Olof Weman, Stig Lindgren och Nils Bohlin)"
+    },
+    {
+      "inventor": "Willgodt Odhner",
+      "invention": "räknesnurran",
+      "year_note": "1878"
+    },
+    {
+      "inventor": "Laila Ohlgren",
+      "invention": "den gröna uppringningsknappen på mobiltelefoner",
+      "year_note": "1979"
+    },
+    {
+      "inventor": "Kenneth Palmestål",
+      "invention": "IQtherm programmerbar termostat 1988, SoundRacer elektroniskt motorljud 2008, CabiBUS säker Robotaxi 2018",
+      "year_note": ""
+    },
+    {
+      "inventor": "Gustaf Erik Pasch",
+      "invention": "säkerhetständstickan",
+      "year_note": "1844"
+    },
+    {
+      "inventor": "Per-Oskar Persson",
+      "invention": "djupfrysning på fluidiserande bädd",
+      "year_note": "1961 (tillsammans med Göran Lundahl)"
+    },
+    {
+      "inventor": "Jerker Porath",
+      "invention": "gelfiltrering",
+      "year_note": "1957"
+    },
+    {
+      "inventor": "Baltzar von Platen",
+      "invention": "1898-1984",
+      "year_note": "(kylskåp utan rörliga delar) 1921 (tillsammans med Carl Munters)"
+    },
+    {
+      "inventor": "Christopher Polhem",
+      "invention": "Polhemsknuten",
+      "year_note": "1690"
+    },
+    {
+      "inventor": "Jerker Porath",
+      "invention": "gelfiltrering",
+      "year_note": "1957"
+    },
+    {
+      "inventor": "Johan Richter",
+      "invention": "kontinuerlig blekning av papper och kontinuerlig kokning av pappersmassa. 750 patent",
+      "year_note": "1930-talet"
+    },
+    {
+      "inventor": "Harry Roberts",
+      "invention": "julmust",
+      "year_note": "omkring 1910"
+    },
+    {
+      "inventor": "Maria Romell",
+      "invention": "hudsalva, värmeisolerat matkärl",
+      "year_note": "början av 1900-talet"
+    },
+    {
+      "inventor": "Johannes Ruths",
+      "invention": "vaporackumulatorn",
+      "year_note": "1913"
+    },
+    {
+      "inventor": "Ylva Ryngebo",
+      "invention": "märksystem för kroppsröntgen",
+      "year_note": "2004"
+    },
+    {
+      "inventor": "Mia Seipel",
+      "invention": "amningskläder",
+      "year_note": "1999"
+    },
+    {
+      "inventor": "Åke Senning",
+      "invention": "hjärt-lungmaskinen",
+      "year_note": "1952"
+    },
+    {
+      "inventor": "Sven Erik Sjöstrand",
+      "invention": "magsårsläkemedlet Losec",
+      "year_note": "1979/1988 (tillsammans med Ivan Östholm)"
+    },
+    {
+      "inventor": "Gideon Sundbäck",
+      "invention": "blixtlåset",
+      "year_note": "1910"
+    },
+    {
+      "inventor": "Sven Sandberg",
+      "invention": "självlåsande bakläm för lastbilar",
+      "year_note": "1965"
+    },
+    {
+      "inventor": "Vera Stejskal",
+      "invention": "Melisa-testet",
+      "year_note": "Början av 1990-talet"
+    },
+    {
+      "inventor": "Kjell Stoltz färgklämman, ett stöldskydd för kläder med färgmärkning) 1983",
+      "invention": "tillsammans med Klas Stoltz och Bo Gustavsson",
+      "year_note": ""
+    },
+    {
+      "inventor": "Klas Stoltz färgklämman, ett stöldskydd för kläder med färgmärkning) 1983",
+      "invention": "tillsammans med Kjell Stoltz och Bo Gustavsson",
+      "year_note": ""
+    },
+    {
+      "inventor": "Göran Sundqvist",
+      "invention": "rörligt dataspel",
+      "year_note": "1960"
+    },
+    {
+      "inventor": "Alexander Samuelson",
+      "invention": "Coca Cola -flaskan",
+      "year_note": "1915"
+    },
+    {
+      "inventor": "Eric Sundin",
+      "invention": "lastbilskran",
+      "year_note": "1946"
+    },
+    {
+      "inventor": "Nanna Svartz",
+      "invention": "reumatismläkemedlet Salazopyrin",
+      "year_note": "1940"
+    },
+    {
+      "inventor": "The Svedberg",
+      "invention": "ultracentrifugen",
+      "year_note": "1925"
+    },
+    {
+      "inventor": "Axel Svedlund",
+      "invention": "gengasaggregat baserat på träkol",
+      "year_note": "omkring 1932"
+    },
+    {
+      "inventor": "Anna Svensson",
+      "invention": "Byggnadsintegrerad solcell i takpanna",
+      "year_note": "2015"
+    },
+    {
+      "inventor": "Gösta Thames",
+      "invention": "integrerad telefonlur, Ericofonen",
+      "year_note": "1940–1956 (tillsammans med Ralph Lysell)"
+    },
+    {
+      "inventor": "Walborg Thorsell",
+      "invention": "myggmedel",
+      "year_note": "2000"
+    },
+    {
+      "inventor": "Oswald Thorsman",
+      "invention": "färgkodad plugg i nylon",
+      "year_note": "1957"
+    },
+    {
+      "inventor": "Sten Gustaf Thulin",
+      "invention": "plastpåsen",
+      "year_note": "Omkring 1960"
+    },
+    {
+      "inventor": "Mathias Uhlén",
+      "invention": "karta över mänskligt protein",
+      "year_note": "2003"
+    },
+    {
+      "inventor": "Johan Ullman",
+      "invention": "Handsfreeheadset för mobiltelefoner, UllmanMouse m.fl",
+      "year_note": ""
+    },
+    {
+      "inventor": "Vilhelm Unge",
+      "invention": "lufttorped",
+      "year_note": "1896"
+    },
+    {
+      "inventor": "Petra Wadström",
+      "invention": "operationsbysthållare, vattenrenare",
+      "year_note": "2003"
+    },
+    {
+      "inventor": "Martin von Wahrendorff",
+      "invention": "bakladdningsmekanism till kanoner",
+      "year_note": "1837"
+    },
+    {
+      "inventor": "Sven Wallander",
+      "invention": "sopnedkast",
+      "year_note": "1930"
+    },
+    {
+      "inventor": "Erik Wallenberg",
+      "invention": "mjölktetran",
+      "year_note": "1944"
+    },
+    {
+      "inventor": "Per-Olof Weman",
+      "invention": "säkerhetsbältet med tre punkter",
+      "year_note": "1957 (tillsammans med Nils Bohlin, Stig Lindgren och Bengt Odelgard)"
+    },
+    {
+      "inventor": "Axel Wenner-Gren",
+      "invention": "marknadsföringsmetod för dammsugare",
+      "year_note": "1912"
+    },
+    {
+      "inventor": "Jörgen Widsell",
+      "invention": "gratisdagstidningen Metro",
+      "year_note": "1995 (tillsammans med Monica Lindstedt, Pelle Anderson och Robert Braunerhielm)"
+    },
+    {
+      "inventor": "Aina Wifalk",
+      "invention": "manuped, rollator",
+      "year_note": "mitten av 1960-talet"
+    },
+    {
+      "inventor": "Anders Wilhelmson",
+      "invention": "PeePoo, engångstoalett",
+      "year_note": "2005"
+    },
+    {
+      "inventor": "Sven Wingquist",
+      "invention": "sfäriskt självinställande kullager",
+      "year_note": "1906"
+    },
+    {
+      "inventor": "Fabian Casimir Wrede",
+      "invention": "den moderna kakelugnen",
+      "year_note": "1767"
+    },
+    {
+      "inventor": "Niklas Zennström",
+      "invention": "Skype",
+      "year_note": "2003"
+    },
+    {
+      "inventor": "Bertil Åberg",
+      "invention": "tillväxthormonet Genotropin",
+      "year_note": "1987"
+    },
+    {
+      "inventor": "Björn Örtenheim",
+      "invention": "hybridbilen",
+      "year_note": ""
+    },
+    {
+      "inventor": "Ivan Östholm",
+      "invention": "magsårsläkemedlet Losec",
+      "year_note": "1977/1988 (tillsammans med Sven Erik Sjöstrand)"
+    }
+  ],
+  "meta": {
+    "title": "Svenska uppfinnare och innovatörer - Free Download",
+    "description": "Lista över svenska uppfinnare och innovatörer med deras uppfinningar och årtal. Contains 153 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska uppfinnare och innovatörer | ListBase",
+    "seo_description": "Download Svenska uppfinnare och innovatörer — 153 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 153 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_svenska_uppfinnare_och_innovatörer"
+    ]
+  }
+}

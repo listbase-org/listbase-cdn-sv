@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-28T02:24:35.317Z",
-  "total_datasets": 496,
-  "total_records": 2264499,
+  "generated": "2026-10-28T02:24:58.845Z",
+  "total_datasets": 497,
+  "total_records": 2264652,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -11065,6 +11065,30 @@
         "xlsx": {
           "name": "sv-svenska-nobelpristagare_SV.xlsx",
           "size": 10006
+        }
+      }
+    },
+    {
+      "id": "sv-svenska-uppfinnare",
+      "name": "Svenska uppfinnare och innovatörer",
+      "category": "science",
+      "record_count": 153,
+      "columns": [
+        "inventor",
+        "invention",
+        "year_note"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_uppfinnare_och_innovatörer",
+      "updated": "2026-10",
+      "size": 22341,
+      "files": {
+        "csv": {
+          "name": "sv-svenska-uppfinnare_SV.csv",
+          "size": 10028
+        },
+        "xlsx": {
+          "name": "sv-svenska-uppfinnare_SV.xlsx",
+          "size": 13492
         }
       }
     },
