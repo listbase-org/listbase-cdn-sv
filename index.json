@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-27T02:33:47.495Z",
-  "total_datasets": 492,
-  "total_records": 2264299,
+  "generated": "2026-10-28T02:24:27.785Z",
+  "total_datasets": 493,
+  "total_records": 2264347,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -4393,6 +4393,29 @@
         "xlsx": {
           "name": "sv-sveriges-justitieministrar_SV.xlsx",
           "size": 9983
+        }
+      }
+    },
+    {
+      "id": "sv-tingsratter-orter-per-lan",
+      "name": "Sveriges tingsrätter – orter per län",
+      "category": "law",
+      "record_count": 48,
+      "columns": [
+        "county",
+        "seat"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Tingsrätt",
+      "updated": "2026-10",
+      "size": 4885,
+      "files": {
+        "csv": {
+          "name": "sv-tingsratter-orter-per-lan_SV.csv",
+          "size": 1523
+        },
+        "xlsx": {
+          "name": "sv-tingsratter-orter-per-lan_SV.xlsx",
+          "size": 7666
         }
       }
     },
