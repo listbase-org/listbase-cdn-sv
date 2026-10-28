@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-28T02:24:27.785Z",
-  "total_datasets": 493,
-  "total_records": 2264347,
+  "generated": "2026-10-28T02:24:30.294Z",
+  "total_datasets": 494,
+  "total_records": 2264422,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -4092,6 +4092,30 @@
         "xlsx": {
           "name": "sv-coronalexikon_SV.xlsx",
           "size": 17083
+        }
+      }
+    },
+    {
+      "id": "sv-sanatorier",
+      "name": "Sanatorier i Sverige",
+      "category": "health",
+      "record_count": 75,
+      "columns": [
+        "name",
+        "county",
+        "opened"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_sanatorier_i_Sverige",
+      "updated": "2026-10",
+      "size": 10974,
+      "files": {
+        "csv": {
+          "name": "sv-sanatorier_SV.csv",
+          "size": 5188
+        },
+        "xlsx": {
+          "name": "sv-sanatorier_SV.xlsx",
+          "size": 9344
         }
       }
     },

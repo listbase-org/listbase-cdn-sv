@@ -1,0 +1,416 @@
+{
+  "id": "sv-sanatorier",
+  "name": "Sanatorier i Sverige",
+  "title": "Sanatorier i Sverige",
+  "description": "Lista över historiska sanatorier i Sverige per län, med invigningsår där det är känt.",
+  "category": "health",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_sanatorier_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_sanatorier_i_Sverige",
+  "updated": "2026-10",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "opened",
+      "label": "Opened",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Hamra sanatorium",
+      "county": "Stockholms län",
+      "opened": 1900
+    },
+    {
+      "name": "Saltsjöbadens sanatorium, kurhotell",
+      "county": "Stockholms län",
+      "opened": 1895
+    },
+    {
+      "name": "Stockholms stads sanatorium (Söderby sjukhus), Salem",
+      "county": "Stockholms län",
+      "opened": 1903
+    },
+    {
+      "name": "Stockholms läns sanatorium (Uttrans sjukhus), Botkyrka landskommun",
+      "county": "Stockholms län",
+      "opened": 1923
+    },
+    {
+      "name": "Tullinge barnsanatorium",
+      "county": "Stockholms län",
+      "opened": 1900
+    },
+    {
+      "name": "Wårby sanatorium, nämns i arkivet för Söderby sjukhus; syftar troligen på att Vårby Gårds mangårdsbyggnad använts som vilohem för tuberkulospatienter",
+      "county": "Stockholms län",
+      "opened": ""
+    },
+    {
+      "name": "Uppsala läns sanatorium, Vattholma",
+      "county": "Uppsala län",
+      "opened": 1906
+    },
+    {
+      "name": "Centralsanatoriet för Uppsala län vid Akademiska sjukhusett, Uppsala",
+      "county": "Uppsala län",
+      "opened": 1937
+    },
+    {
+      "name": "Löts sanatorium, Strängnäs",
+      "county": "Södermanlands län",
+      "opened": 1914
+    },
+    {
+      "name": "Kolmårdssanatoriet, Krokek",
+      "county": "Östergötlands län",
+      "opened": 1918
+    },
+    {
+      "name": "Platensgatans Barnsanatorium, Linköping",
+      "county": "Östergötlands län",
+      "opened": ""
+    },
+    {
+      "name": "Stratomta sanatorium, Törnevalla socken",
+      "county": "Östergötlands län",
+      "opened": 1907
+    },
+    {
+      "name": "Hässleby sanatorium, Mariannelund, jubileumssanatorium",
+      "county": "Jönköpings län",
+      "opened": 1901
+    },
+    {
+      "name": "Romanäs sanatorium, Tranås",
+      "county": "Jönköpings län",
+      "opened": 1907
+    },
+    {
+      "name": "Sävsjö sanatorium",
+      "county": "Jönköpings län",
+      "opened": 1907
+    },
+    {
+      "name": "Eksjö sanatorium",
+      "county": "Jönköpings län",
+      "opened": 1915
+    },
+    {
+      "name": "Kronobergs läns sanatorium (Lugnets sanatorium), Växjö",
+      "county": "Kronobergs län",
+      "opened": 1914
+    },
+    {
+      "name": "Ryds sanatorium, Tingsryds kommun, kurhotell (1893, eventuellt tidigare)",
+      "county": "Kronobergs län",
+      "opened": ""
+    },
+    {
+      "name": "Målilla sanatorium, Målilla",
+      "county": "Kalmar län",
+      "opened": 1915
+    },
+    {
+      "name": "Follingbo sanatorium",
+      "county": "Gotlands län",
+      "opened": 1910
+    },
+    {
+      "name": "Blekinge läns sanatorium, Fur, Karlskrona kommun",
+      "county": "Blekinge län",
+      "opened": 1909
+    },
+    {
+      "name": "Broby sanatorium",
+      "county": "Skåne län",
+      "opened": 1912
+    },
+    {
+      "name": "Kronprinsessan Victorias kustsanatorium för skrofulösa barn, Vejbystrand",
+      "county": "Skåne län",
+      "opened": 1903
+    },
+    {
+      "name": "Kungshults sanatorium, Helsingborgs stads sanatorium",
+      "county": "Skåne län",
+      "opened": 1910
+    },
+    {
+      "name": "Ljungsäters sjukhus, Ljunghusen",
+      "county": "Skåne län",
+      "opened": 1921
+    },
+    {
+      "name": "Orups sanatorium, Malmöhus läns och Malmö stads sanatorium, Höör",
+      "county": "Skåne län",
+      "opened": 1915
+    },
+    {
+      "name": "Tyringe badanstalt och sanatorium, Hässleholms kommun",
+      "county": "Skåne län",
+      "opened": 1905
+    },
+    {
+      "name": "Kustsanatoriet Apelviken, Varberg",
+      "county": "Hallands län",
+      "opened": 1904
+    },
+    {
+      "name": "Spenshults sanatorium, Halmstad, jubileumssanatorium",
+      "county": "Hallands län",
+      "opened": 1913
+    },
+    {
+      "name": "Sundsholms sanatorium, Mahult, Breared, Halmstad",
+      "county": "Hallands län",
+      "opened": 1907
+    },
+    {
+      "name": "Fagereds sanatorium, Lia, Falkenbergs kommun",
+      "county": "Hallands län",
+      "opened": 1914
+    },
+    {
+      "name": "Bolltorps Sanatorium, Alingsås",
+      "county": "Västra Götalands län",
+      "opened": 1917
+    },
+    {
+      "name": "Dalbobergens sanatorium, Vänersborg",
+      "county": "Västra Götalands län",
+      "opened": 1914
+    },
+    {
+      "name": "Hultafors sanatorium, Hultafors, kurhotell",
+      "county": "Västra Götalands län",
+      "opened": 1908
+    },
+    {
+      "name": "Kroppefjälls sanatorium, Dals Rostock",
+      "county": "Västra Götalands län",
+      "opened": 1911
+    },
+    {
+      "name": "Mössebergs kurort, Falköping",
+      "county": "Västra Götalands län",
+      "opened": 1867
+    },
+    {
+      "name": "Renströmska sjukhuset, Göteborg",
+      "county": "Västra Götalands län",
+      "opened": 1913
+    },
+    {
+      "name": "Rävlanda barnsanatorium, Härryda",
+      "county": "Västra Götalands län",
+      "opened": 1917
+    },
+    {
+      "name": "Sjö-Gunnarsbo sanatorium, Ulricehamns kommun",
+      "county": "Västra Götalands län",
+      "opened": 1916
+    },
+    {
+      "name": "Stora Ekebergs sanatorium, Axvall",
+      "county": "Västra Götalands län",
+      "opened": 1918
+    },
+    {
+      "name": "Styrsö kustsjukhus, Styrsö, Göteborgs kommun",
+      "county": "Västra Götalands län",
+      "opened": 1908
+    },
+    {
+      "name": "Svenshögens sanatorium, Stenungsund",
+      "county": "Västra Götalands län",
+      "opened": 1908
+    },
+    {
+      "name": "Ulricehamns sanatorium, Ulricehamn, kurhotell",
+      "county": "Västra Götalands län",
+      "opened": 1886
+    },
+    {
+      "name": "Västeråsens sanatorium, Borås (1910-12)",
+      "county": "Västra Götalands län",
+      "opened": ""
+    },
+    {
+      "name": "Eda sanatorium, vid Charlottenberg, kurhotell",
+      "county": "Värmlands län",
+      "opened": 1892
+    },
+    {
+      "name": "Kristinehamns bygdesanatorium, Kristinehamn",
+      "county": "Värmlands län",
+      "opened": ""
+    },
+    {
+      "name": "Säffle bygdesanatorium, Säffle",
+      "county": "Värmlands län",
+      "opened": ""
+    },
+    {
+      "name": "Värmlands läns sanatorium, Arvika",
+      "county": "Värmlands län",
+      "opened": 1912
+    },
+    {
+      "name": "Adolfsbergs sanatorium",
+      "county": "Örebro län",
+      "opened": 1912
+    },
+    {
+      "name": "Garphytte sanatorium",
+      "county": "Örebro län",
+      "opened": 1913
+    },
+    {
+      "name": "Hålahults sanatorium, Ervalla, jubileumssanatorium",
+      "county": "Örebro län",
+      "opened": 1900
+    },
+    {
+      "name": "Högåsens herrgård",
+      "county": "Örebro län",
+      "opened": 1905
+    },
+    {
+      "name": "Kopparberg",
+      "county": "Örebro län",
+      "opened": ""
+    },
+    {
+      "name": "Lindesberg",
+      "county": "Örebro län",
+      "opened": ""
+    },
+    {
+      "name": "Västmanlands läns sanatorium (Skogsfjällets sanatorium), Västerås",
+      "county": "Västmanlands län",
+      "opened": ""
+    },
+    {
+      "name": "Ludvika Sockens sanatorium (1910-1915)",
+      "county": "Dalarnas län",
+      "opened": ""
+    },
+    {
+      "name": "Högbo sanatorium, Falun",
+      "county": "Dalarnas län",
+      "opened": 1910
+    },
+    {
+      "name": "Tjärnans barnsanatorium (Kronprinsessans Margaretas vårdanstalt för tuberkulösa barn), Hedemora",
+      "county": "Dalarnas län",
+      "opened": 1909
+    },
+    {
+      "name": "Bergebo sanatorium, Domnarvet",
+      "county": "Dalarnas län",
+      "opened": 1907
+    },
+    {
+      "name": "Bäcka sanatorium, Orsa",
+      "county": "Dalarnas län",
+      "opened": ""
+    },
+    {
+      "name": "Solbackens sanatorium, Hedemora",
+      "county": "Dalarnas län",
+      "opened": ""
+    },
+    {
+      "name": "Folkarbo bygdesanatorium, Krylbo",
+      "county": "Dalarnas län",
+      "opened": ""
+    },
+    {
+      "name": "Fredrikskulles sjukhem, Sandviken",
+      "county": "Gävleborgs län",
+      "opened": 1905
+    },
+    {
+      "name": "Glössbo barnsanatorium, Glössbo, Bollnäs kommun",
+      "county": "Gävleborgs län",
+      "opened": ""
+    },
+    {
+      "name": "Gävleborgs läns sanatorium (Moheds sanatorium), Söderhamn",
+      "county": "Gävleborgs län",
+      "opened": 1914
+    },
+    {
+      "name": "Jonas Selggrens sanatorium, Strömsbro, Gävle",
+      "county": "Gävleborgs län",
+      "opened": 1910
+    },
+    {
+      "name": "Västernorrlands läns sanatorium, Sköns landskommun",
+      "county": "Västernorrlands län",
+      "opened": ""
+    },
+    {
+      "name": "Österåsens sanatorium, Sollefteå, jubileumssanatorium",
+      "county": "Västernorrlands län",
+      "opened": 1901
+    },
+    {
+      "name": "Mörsils sanatorium",
+      "county": "Jämtlands län",
+      "opened": 1891
+    },
+    {
+      "name": "Sollidens sanatorium, Östersund",
+      "county": "Jämtlands län",
+      "opened": ""
+    },
+    {
+      "name": "Hede sanatorium",
+      "county": "Jämtlands län",
+      "opened": ""
+    },
+    {
+      "name": "Strömsunds sanatorium",
+      "county": "Jämtlands län",
+      "opened": ""
+    },
+    {
+      "name": "Hällnäs sanatorium Vindeln",
+      "county": "Västerbottens län",
+      "opened": 1926
+    },
+    {
+      "name": "Antnäs sanatorium, Luleå kommun",
+      "county": "Norrbottens län",
+      "opened": 1906
+    },
+    {
+      "name": "Sandträsk sanatorium (Norrbottens läns sanatorium), Bodens kommun",
+      "county": "Norrbottens län",
+      "opened": 1908
+    }
+  ],
+  "meta": {
+    "title": "Sanatorier i Sverige - Free Download",
+    "description": "Lista över historiska sanatorier i Sverige per län, med invigningsår där det är känt. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sanatorier i Sverige | ListBase",
+    "seo_description": "Download Sanatorier i Sverige — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_sanatorier_i_Sverige"
+    ]
+  }
+}
