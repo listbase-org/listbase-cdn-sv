@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-28T02:24:58.845Z",
-  "total_datasets": 497,
-  "total_records": 2264652,
+  "generated": "2026-10-29T02:21:59.709Z",
+  "total_datasets": 498,
+  "total_records": 2264728,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -4210,6 +4210,34 @@
         "xlsx": {
           "name": "sv-vardcentraler_SV.xlsx",
           "size": 45035
+        }
+      }
+    },
+    {
+      "id": "sv-arkebiskopar-uppsala",
+      "name": "Ärkebiskopar i Uppsala",
+      "category": "history",
+      "record_count": 76,
+      "columns": [
+        "namn",
+        "fodd",
+        "tilltrade",
+        "avgang",
+        "dod",
+        "anmarkning",
+        "arhundrade"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_biskopar_i_Uppsala_stift",
+      "updated": "2026-10",
+      "size": 25096,
+      "files": {
+        "csv": {
+          "name": "sv-arkebiskopar-uppsala_SV.csv",
+          "size": 13121
+        },
+        "xlsx": {
+          "name": "sv-arkebiskopar-uppsala_SV.xlsx",
+          "size": 13324
         }
       }
     },
