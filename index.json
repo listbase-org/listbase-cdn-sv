@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-29T02:22:05.094Z",
-  "total_datasets": 500,
-  "total_records": 2264985,
+  "generated": "2026-10-29T02:22:07.472Z",
+  "total_datasets": 501,
+  "total_records": 2265052,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -4516,6 +4516,29 @@
         "xlsx": {
           "name": "sv-svenska-homofoner_SV.xlsx",
           "size": 9602
+        }
+      }
+    },
+    {
+      "id": "sv-justitieombudsman",
+      "name": "Sveriges justitieombudsmän",
+      "category": "law",
+      "record_count": 67,
+      "columns": [
+        "period",
+        "namn"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_justitieombudsmän_i_Sverige",
+      "updated": "2026-10",
+      "size": 6434,
+      "files": {
+        "csv": {
+          "name": "sv-justitieombudsman_SV.csv",
+          "size": 2207
+        },
+        "xlsx": {
+          "name": "sv-justitieombudsman_SV.xlsx",
+          "size": 8588
         }
       }
     },
