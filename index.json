@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-29T02:21:59.709Z",
-  "total_datasets": 498,
-  "total_records": 2264728,
+  "generated": "2026-10-29T02:22:02.714Z",
+  "total_datasets": 499,
+  "total_records": 2264822,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -499,6 +499,35 @@
         "xlsx": {
           "name": "sv-energi-nyckeltal-per-ar_SV.xlsx",
           "size": 7360
+        }
+      }
+    },
+    {
+      "id": "sv-finansministrar",
+      "name": "Sveriges finansministrar",
+      "category": "economy",
+      "record_count": 94,
+      "columns": [
+        "namn",
+        "fodelse",
+        "tilltrade",
+        "frantrade",
+        "dod",
+        "politisk_tillhorighet",
+        "regering",
+        "ambete"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_finansminister",
+      "updated": "2026-10",
+      "size": 34355,
+      "files": {
+        "csv": {
+          "name": "sv-finansministrar_SV.csv",
+          "size": 16837
+        },
+        "xlsx": {
+          "name": "sv-finansministrar_SV.xlsx",
+          "size": 12745
         }
       }
     },
