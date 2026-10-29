@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-29T02:22:02.714Z",
-  "total_datasets": 499,
-  "total_records": 2264822,
+  "generated": "2026-10-29T02:22:05.094Z",
+  "total_datasets": 500,
+  "total_records": 2264985,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -575,6 +575,29 @@
         "xlsx": {
           "name": "sv-yrken_SV.xlsx",
           "size": 299148
+        }
+      }
+    },
+    {
+      "id": "sv-folkhogskolor",
+      "name": "Folkhögskolor i Sverige",
+      "category": "education",
+      "record_count": 163,
+      "columns": [
+        "namn",
+        "anmarkning"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_folkhögskolor_i_Sverige",
+      "updated": "2026-10",
+      "size": 14661,
+      "files": {
+        "csv": {
+          "name": "sv-folkhogskolor_SV.csv",
+          "size": 5553
+        },
+        "xlsx": {
+          "name": "sv-folkhogskolor_SV.xlsx",
+          "size": 10037
         }
       }
     },
