@@ -1,0 +1,76 @@
+{
+  "id": "sv-riksaklagare",
+  "name": "Sveriges riksåklagare",
+  "title": "Sveriges riksåklagare",
+  "description": "Lista över Sveriges riksåklagare sedan ämbetet inrättades 1948, med ämbetsperiod.",
+  "category": "law",
+  "source": "https://sv.wikipedia.org/wiki/Riksåklagare",
+  "source_url": "https://sv.wikipedia.org/wiki/Riksåklagare",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "period": "1948–1960",
+      "namn": "Maths Heuman"
+    },
+    {
+      "period": "1960–1966",
+      "namn": "Karl Emanuel Walberg"
+    },
+    {
+      "period": "1966–1978",
+      "namn": "Holger Romander"
+    },
+    {
+      "period": "1978–1989",
+      "namn": "Magnus Sjöberg"
+    },
+    {
+      "period": "1989–1994",
+      "namn": "Torsten Jonsson"
+    },
+    {
+      "period": "1994–2004",
+      "namn": "Klas Bergenstrand"
+    },
+    {
+      "period": "2004–2008",
+      "namn": "Fredrik Wersäll"
+    },
+    {
+      "period": "2008–2018",
+      "namn": "Anders Perklev"
+    },
+    {
+      "period": "2018–2023",
+      "namn": "Petra Lundh"
+    },
+    {
+      "period": "2023– ",
+      "namn": "Katarina Johansson Welin"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges riksåklagare - Free Download",
+    "description": "Lista över Sveriges riksåklagare sedan ämbetet inrättades 1948, med ämbetsperiod. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges riksåklagare | ListBase",
+    "seo_description": "Download Sveriges riksåklagare — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Riksåklagare"
+    ]
+  }
+}
