@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-30T02:18:39.049Z",
-  "total_datasets": 503,
-  "total_records": 2265096,
+  "generated": "2026-10-30T02:18:47.407Z",
+  "total_datasets": 504,
+  "total_records": 2265158,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -4691,6 +4691,30 @@
         "xlsx": {
           "name": "sv-melodifestivalen-flest-deltaganden_SV.xlsx",
           "size": 8312
+        }
+      }
+    },
+    {
+      "id": "sv-svensktoppen-arets-melodier",
+      "name": "Årets svensktoppsmelodier",
+      "category": "music",
+      "record_count": 62,
+      "columns": [
+        "year",
+        "title",
+        "artist"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Svensktoppen",
+      "updated": "2026-10",
+      "size": 7816,
+      "files": {
+        "csv": {
+          "name": "sv-svensktoppen-arets-melodier_SV.csv",
+          "size": 2902
+        },
+        "xlsx": {
+          "name": "sv-svensktoppen-arets-melodier_SV.xlsx",
+          "size": 9091
         }
       }
     },

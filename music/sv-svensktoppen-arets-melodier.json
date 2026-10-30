@@ -1,0 +1,351 @@
+{
+  "id": "sv-svensktoppen-arets-melodier",
+  "name": "Årets svensktoppsmelodier",
+  "title": "Årets svensktoppsmelodier",
+  "description": "Den mest framgångsrika låten på Svensktoppen för varje år sedan 1962, med titel och artist",
+  "category": "music",
+  "source": "https://sv.wikipedia.org/wiki/Svensktoppen",
+  "source_url": "https://sv.wikipedia.org/wiki/Svensktoppen",
+  "updated": "2026-10",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1962,
+      "title": "Regniga natt",
+      "artist": "Anna-Lena Löfgren"
+    },
+    {
+      "year": 1963,
+      "title": "Spel-Olles gånglåt",
+      "artist": "Trio me' Bumba"
+    },
+    {
+      "year": 1964,
+      "title": "Trettifyran",
+      "artist": "Per Myrberg"
+    },
+    {
+      "year": 1965,
+      "title": "Mest av allt",
+      "artist": "Gunnar Wiklund"
+    },
+    {
+      "year": 1966,
+      "title": "En sommardröm",
+      "artist": "Östen Warnerbring"
+    },
+    {
+      "year": 1967,
+      "title": "En sång en gång för längesen",
+      "artist": "Jan Malmsjö"
+    },
+    {
+      "year": 1968,
+      "title": "Vi ska gå hand i hand",
+      "artist": "Gunnar Wiklund"
+    },
+    {
+      "year": 1969,
+      "title": "Man ska leva för varandra",
+      "artist": "Trio me' Bumba"
+    },
+    {
+      "year": 1970,
+      "title": "En enkel sång om frihet",
+      "artist": "Lasse Berghagen"
+    },
+    {
+      "year": 1971,
+      "title": "Är det konstigt att man längtar bort nån gång",
+      "artist": "Lena Andersson"
+    },
+    {
+      "year": 1972,
+      "title": "Änglamark",
+      "artist": "Sven-Bertil Taube"
+    },
+    {
+      "year": 1973,
+      "title": "Omkring tiggarn från Luossa",
+      "artist": "Hootenanny Singers"
+    },
+    {
+      "year": 1974,
+      "title": "Waterloo",
+      "artist": "Abba"
+    },
+    {
+      "year": 1975,
+      "title": "Du gav bara löften",
+      "artist": "Vikingarna"
+    },
+    {
+      "year": 1976,
+      "title": "Fernando",
+      "artist": "Anni-Frid Lyngstad"
+    },
+    {
+      "year": 1977,
+      "title": "Roslagens vind",
+      "artist": "Kjell Hansson"
+    },
+    {
+      "year": 1978,
+      "title": "Låt inte din skugga falla här",
+      "artist": "Ann-Louise Hanson"
+    },
+    {
+      "year": 1979,
+      "title": "Djingis Khan",
+      "artist": "Vikingarna"
+    },
+    {
+      "year": 1980,
+      "title": "Sången skall klinga",
+      "artist": "Kikki Danielsson"
+    },
+    {
+      "year": 1981,
+      "title": "Santa Maria",
+      "artist": "Sten & Stanley / Sten Nilsson"
+    },
+    {
+      "year": 1982,
+      "title": "Dag efter dag",
+      "artist": "Chips"
+    },
+    {
+      "year": 1985,
+      "title": "Svindlande affärer",
+      "artist": "Pernilla Wahlgren"
+    },
+    {
+      "year": 1986,
+      "title": "Dover-Calais",
+      "artist": "Style"
+    },
+    {
+      "year": 1987,
+      "title": "Som stormen river öppet hav",
+      "artist": "Susanne Alfvengren & Mikael Rickfors"
+    },
+    {
+      "year": 1988,
+      "title": "Allt som jag känner",
+      "artist": "Tommy Nilsson & Tone Norum"
+    },
+    {
+      "year": 1989,
+      "title": "De sista ljuva åren",
+      "artist": "Lasse Stefanz & Christina Lindberg"
+    },
+    {
+      "year": 1990,
+      "title": "Hon har blommor i sitt hår",
+      "artist": "Anders Glenmark"
+    },
+    {
+      "year": 1991,
+      "title": "Vem får följa dig hem?",
+      "artist": "Shanes"
+    },
+    {
+      "year": 1992,
+      "title": "Två mörka ögon",
+      "artist": "Sven-Ingvars"
+    },
+    {
+      "year": 1993,
+      "title": "We Are All the Winners",
+      "artist": "Nick Borgens orkester"
+    },
+    {
+      "year": 1994,
+      "title": "Öppna din dörr",
+      "artist": "Tommy Nilsson"
+    },
+    {
+      "year": 1995,
+      "title": "Se på mig",
+      "artist": "Jan Johansen"
+    },
+    {
+      "year": 1996,
+      "title": "Till min kära",
+      "artist": "Streaplers"
+    },
+    {
+      "year": 1997,
+      "title": "Guldet blev till sand",
+      "artist": "Peter Jöback"
+    },
+    {
+      "year": 1998,
+      "title": "Guldet blev till sand",
+      "artist": "Peter Jöback"
+    },
+    {
+      "year": 1999,
+      "title": "Farväl till släkt och vänner",
+      "artist": "Björn Afzelius"
+    },
+    {
+      "year": 2000,
+      "title": "Här kommer kärleken",
+      "artist": "Idolerna"
+    },
+    {
+      "year": 2001,
+      "title": "Av längtan till dig",
+      "artist": "Åsa Jinder & CajsaStina Åkerström"
+    },
+    {
+      "year": 2002,
+      "title": "Kom och ta mig",
+      "artist": "Brandsta City Släckers"
+    },
+    {
+      "year": 2003,
+      "title": "Här kommer alla känslorna (på en och samma gång)",
+      "artist": "Per Gessle"
+    },
+    {
+      "year": 2004,
+      "title": "Håll mitt hjärta",
+      "artist": "Björn Skifs"
+    },
+    {
+      "year": 2005,
+      "title": "Du är min man",
+      "artist": "Benny Anderssons Orkester med Helen Sjöholm"
+    },
+    {
+      "year": 2006,
+      "title": "Du är min man",
+      "artist": "Benny Anderssons Orkester med Helen Sjöholm"
+    },
+    {
+      "year": 2007,
+      "title": "För att du finns",
+      "artist": "Sonja Aldén"
+    },
+    {
+      "year": 2008,
+      "title": "Empty Room",
+      "artist": "Sanna Nielsen"
+    },
+    {
+      "year": 2009,
+      "title": "Om du lämnade mig nu",
+      "artist": "Lars Winnerbäck & Miss Li"
+    },
+    {
+      "year": 2010,
+      "title": "I Did It for Love",
+      "artist": "Jessica Andersson"
+    },
+    {
+      "year": 2011,
+      "title": "I Did It for Love",
+      "artist": "Jessica Andersson"
+    },
+    {
+      "year": 2012,
+      "title": "Some Die Young",
+      "artist": "Laleh"
+    },
+    {
+      "year": 2013,
+      "title": "Strövtåg i hembygden",
+      "artist": "Mando Diao"
+    },
+    {
+      "year": 2014,
+      "title": "Strövtåg i hembygden",
+      "artist": "Mando Diao"
+    },
+    {
+      "year": 2015,
+      "title": "Strövtåg i hembygden",
+      "artist": "Mando Diao"
+    },
+    {
+      "year": 2016,
+      "title": "Ett sista glas",
+      "artist": "Miriam Bryant"
+    },
+    {
+      "year": 2017,
+      "title": "Hold on",
+      "artist": "Nano"
+    },
+    {
+      "year": 2018,
+      "title": "Fireworks",
+      "artist": "First Aid Kit"
+    },
+    {
+      "year": 2019,
+      "title": "Tillfälligheter",
+      "artist": "Veronica Maggio"
+    },
+    {
+      "year": 2020,
+      "title": "Svag",
+      "artist": "Victor Leksell"
+    },
+    {
+      "year": 2021,
+      "title": "Tystnar i luren",
+      "artist": "Miriam Bryant & Victor Leksell"
+    },
+    {
+      "year": 2022,
+      "title": "X",
+      "artist": "Miss Li"
+    },
+    {
+      "year": 2023,
+      "title": "Tattoo",
+      "artist": "Loreen"
+    },
+    {
+      "year": 2024,
+      "title": "Misstag",
+      "artist": "Miss Li"
+    },
+    {
+      "year": 2025,
+      "title": "Svagare än jag",
+      "artist": "Ida-Lova"
+    }
+  ],
+  "meta": {
+    "title": "Årets svensktoppsmelodier - Free Download",
+    "description": "Den mest framgångsrika låten på Svensktoppen för varje år sedan 1962, med titel och artist Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Årets svensktoppsmelodier | ListBase",
+    "seo_description": "Download Årets svensktoppsmelodier — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Svensktoppen"
+    ]
+  }
+}
