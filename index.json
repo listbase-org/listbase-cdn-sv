@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-30T02:19:02.175Z",
-  "total_datasets": 506,
-  "total_records": 2265238,
+  "generated": "2026-10-30T02:19:08.923Z",
+  "total_datasets": 507,
+  "total_records": 2265295,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -4612,6 +4612,30 @@
         "xlsx": {
           "name": "sv-tingsratter-orter-per-lan_SV.xlsx",
           "size": 7666
+        }
+      }
+    },
+    {
+      "id": "sv-jenny-lind-stipendiater",
+      "name": "Jenny Lind-stipendiater",
+      "category": "music",
+      "record_count": 57,
+      "columns": [
+        "year",
+        "name",
+        "hometown"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Jenny_Lind-stipendiet",
+      "updated": "2026-10",
+      "size": 6780,
+      "files": {
+        "csv": {
+          "name": "sv-jenny-lind-stipendiater_SV.csv",
+          "size": 2144
+        },
+        "xlsx": {
+          "name": "sv-jenny-lind-stipendiater_SV.xlsx",
+          "size": 8567
         }
       }
     },
