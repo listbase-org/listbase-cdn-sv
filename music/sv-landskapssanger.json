@@ -1,0 +1,289 @@
+{
+  "id": "sv-landskapssanger",
+  "name": "Svenska landskapssånger",
+  "title": "Svenska landskapssånger",
+  "description": "Landskapssånger för Sveriges landskap med titel, inledningsrad, textförfattare och kompositör",
+  "category": "music",
+  "source": "https://sv.wikipedia.org/wiki/Svenska_landskapssånger",
+  "source_url": "https://sv.wikipedia.org/wiki/Svenska_landskapssånger",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "first_line",
+      "label": "First Line",
+      "type": "string"
+    },
+    {
+      "key": "lyricist",
+      "label": "Lyricist",
+      "type": "string"
+    },
+    {
+      "key": "composer",
+      "label": "Composer",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province": "Blekinge",
+      "title": "Min Blekingsbygd",
+      "first_line": "Min Blekingsbygd",
+      "lyricist": "Johan Henrik Frithiof Strömmerstedt",
+      "composer": "Torsten Wall"
+    },
+    {
+      "province": "Bohuslän",
+      "title": "Bohusvisan",
+      "first_line": "I Bohuslän det gamla",
+      "lyricist": "Fredrik Nycander",
+      "composer": "Henrik Jansson"
+    },
+    {
+      "province": "Bohuslän",
+      "title": "Bohusläns sång",
+      "first_line": "De kala klipporna",
+      "lyricist": "Edvard Evers",
+      "composer": "Karl Collan"
+    },
+    {
+      "province": "Bohuslän",
+      "title": "Inbjudan till Bohuslän",
+      "first_line": "Som blågrå dyning bohusberget rullar",
+      "lyricist": "Evert Taube",
+      "composer": "Evert Taube (1943)"
+    },
+    {
+      "province": "Dalarna",
+      "title": "Dalkarlasång",
+      "first_line": "Jag vet ett land långt upp i höga Nord",
+      "lyricist": "Gustaf Nyblæus",
+      "composer": "Otto Lindblad"
+    },
+    {
+      "province": "Dalarna",
+      "title": "Om sommaren sköna",
+      "first_line": "Om sommaren sköna",
+      "lyricist": "Andreas Wallenius",
+      "composer": "Folkmelodi"
+    },
+    {
+      "province": "Dalsland",
+      "title": "Dalsland",
+      "first_line": "Såg du ett land",
+      "lyricist": "F.O. Myrén",
+      "composer": "F.O. Myrén"
+    },
+    {
+      "province": "Gotland",
+      "title": "Gottland",
+      "first_line": "Höstsol leker på Östersjön",
+      "lyricist": "Hjalmar Procopé",
+      "composer": "Malin Holmström-Ingers"
+    },
+    {
+      "province": "Gotland",
+      "title": "Sång till Gotland [ källa behövs ]",
+      "first_line": "",
+      "lyricist": "",
+      "composer": ""
+    },
+    {
+      "province": "Gotland",
+      "title": "Nordrets raukar, stup och hällar",
+      "first_line": "Gotland fosterö i Norden",
+      "lyricist": "Gösta Storm",
+      "composer": "August Fredin"
+    },
+    {
+      "province": "Gästrikland",
+      "title": "Gästrikesången [ källa behövs ]",
+      "first_line": "",
+      "lyricist": "",
+      "composer": ""
+    },
+    {
+      "province": "Halland",
+      "title": "Hallandssången",
+      "first_line": "Vår kust nu ligger fager",
+      "lyricist": "E. Svensson",
+      "composer": "Oscar Bengtson-Bergenhed"
+    },
+    {
+      "province": "Halland",
+      "title": "Hallandssången [ källa behövs ]",
+      "first_line": "Vinden och vågen ha danat vårt Halland",
+      "lyricist": "Walter Höijer",
+      "composer": "Sven Welin"
+    },
+    {
+      "province": "Hälsingland",
+      "title": "Sång till Hälsingland",
+      "first_line": "Såg du det landet",
+      "lyricist": "Arthur Engberg",
+      "composer": "Folkmelodi"
+    },
+    {
+      "province": "Härjedalen",
+      "title": "Härjedalssången [ källa behövs ]",
+      "first_line": "Det sveper från saviga skogar en il",
+      "lyricist": "Per Nilsson-Tannér",
+      "composer": "Carl Rogberg"
+    },
+    {
+      "province": "Jämtland",
+      "title": "Jämtlandssången a",
+      "first_line": "Så tåga vi tillsammans bort (svenska)",
+      "lyricist": "Wilhelm Peterson-Berger",
+      "composer": "Gammal jämtländsk brudlåt"
+    },
+    {
+      "province": "Jämtland",
+      "title": "Jamtlandssången",
+      "first_line": "Mæ går på stigom ( Jämtska )",
+      "lyricist": "Per-Gunnar Norman Bo Oscarsson",
+      "composer": "Gammal jämtländsk brudlåt"
+    },
+    {
+      "province": "Medelpad",
+      "title": "Hymn till Medelpad [ källa behövs ]",
+      "first_line": "Här, här vid älv, vid sjö och hav",
+      "lyricist": "Ali Nordgren",
+      "composer": "Theofil Lindström"
+    },
+    {
+      "province": "Närke",
+      "title": "Till Närke",
+      "first_line": "De mörka bergen draga sin ring",
+      "lyricist": "R. G. Gustavsson",
+      "composer": "Adolf Andrén"
+    },
+    {
+      "province": "Närke",
+      "title": "Sång till Närke",
+      "first_line": "Vi hälsa dig Närke, vår älskade hembygd!",
+      "lyricist": "Albert Johansson",
+      "composer": "Sven Welin"
+    },
+    {
+      "province": "Skåne",
+      "title": "Hembygden",
+      "first_line": "Här är den bygden",
+      "lyricist": "Nils Hildestrand",
+      "composer": "Felix Körling"
+    },
+    {
+      "province": "Skåne",
+      "title": "Det är ett 'yndigt' land",
+      "first_line": "Det är ett 'yndigt' land",
+      "lyricist": "O.P Sturzenbecker (ca 1850)",
+      "composer": ""
+    },
+    {
+      "province": "Skåne",
+      "title": "Sång till Skåne",
+      "first_line": "Vackra hembygd, du som vilar",
+      "lyricist": "Nils Hansson (cirka 1900)",
+      "composer": "Cid Smedberg [ källa behövs ] alternativt Gunnar Wennerberg ( Här är gudagott att vara )"
+    },
+    {
+      "province": "Småland",
+      "title": "Smålandssången",
+      "first_line": "Röd lyser stugan",
+      "lyricist": "Linnéa Andrén (senast 1912 )",
+      "composer": "Ivar Widéen"
+    },
+    {
+      "province": "Södermanland",
+      "title": "Känner du landet",
+      "first_line": "Känner du landet, det härliga rika",
+      "lyricist": "Bernhard Elis Malmström",
+      "composer": "Knut Hamnström"
+    },
+    {
+      "province": "Uppland",
+      "title": "Upplandssången",
+      "first_line": "Här ligger landet",
+      "lyricist": "Olof Thunman",
+      "composer": "Oscar Solén"
+    },
+    {
+      "province": "Värmland",
+      "title": "Värmlandsvisan",
+      "first_line": "Ack Värmeland, du sköna",
+      "lyricist": "Vers 1: Anders Fryxell (1822) [ källa behövs ] vers 2–3: Fredrik August Dahlgren (1846) [ källa behövs ] Eller 4 versar.",
+      "composer": "Svensk folkmelodi"
+    },
+    {
+      "province": "Västerbotten",
+      "title": "Västerbotten",
+      "first_line": "Känner du landet, det stora och tysta",
+      "lyricist": "Vers 1: Jörgen Block Vers 2–4: Zolo Stärner",
+      "composer": "C. O. Forsmark"
+    },
+    {
+      "province": "Västergötland",
+      "title": "Hymn till Västergötland",
+      "first_line": "Jag hälsar dig, Västgöta rike",
+      "lyricist": "Paul Nilsson",
+      "composer": "Ivar Widéen"
+    },
+    {
+      "province": "Västmanland",
+      "title": "Västmanlandsången",
+      "first_line": "Jag ser fädernas bygd",
+      "lyricist": "A. Grane",
+      "composer": "I Fröier"
+    },
+    {
+      "province": "Ångermanland",
+      "title": "Ångermanlandssången",
+      "first_line": "Fäderneärvda bygd som vart bruten",
+      "lyricist": "Albert Viksten",
+      "composer": "A. J. Högberg"
+    },
+    {
+      "province": "Ångermanland",
+      "title": "Ångermanland",
+      "first_line": "Små röda stugor på branta nipor",
+      "lyricist": "Anders Österling",
+      "composer": ""
+    },
+    {
+      "province": "Öland",
+      "title": "Ölandssången",
+      "first_line": "Här är fagra sommarlandet",
+      "lyricist": "Sven Erik Sjöholm",
+      "composer": "B. Anrep-Nordin"
+    },
+    {
+      "province": "Östergötland",
+      "title": "Östgötasång",
+      "first_line": "Så grant står Östergyllen",
+      "lyricist": "Sten Granlund",
+      "composer": "Gunnar Norlén"
+    }
+  ],
+  "meta": {
+    "title": "Svenska landskapssånger - Free Download",
+    "description": "Landskapssånger för Sveriges landskap med titel, inledningsrad, textförfattare och kompositör Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska landskapssånger | ListBase",
+    "seo_description": "Download Svenska landskapssånger — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Svenska_landskapssånger"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-29T02:22:10.087Z",
-  "total_datasets": 502,
-  "total_records": 2265062,
+  "generated": "2026-10-30T02:18:39.049Z",
+  "total_datasets": 503,
+  "total_records": 2265096,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -4612,6 +4612,32 @@
         "xlsx": {
           "name": "sv-tingsratter-orter-per-lan_SV.xlsx",
           "size": 7666
+        }
+      }
+    },
+    {
+      "id": "sv-landskapssanger",
+      "name": "Svenska landskapssånger",
+      "category": "music",
+      "record_count": 34,
+      "columns": [
+        "province",
+        "title",
+        "first_line",
+        "lyricist",
+        "composer"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Svenska_landskapssånger",
+      "updated": "2026-10",
+      "size": 8747,
+      "files": {
+        "csv": {
+          "name": "sv-landskapssanger_SV.csv",
+          "size": 3645
+        },
+        "xlsx": {
+          "name": "sv-landskapssanger_SV.xlsx",
+          "size": 9177
         }
       }
     },
