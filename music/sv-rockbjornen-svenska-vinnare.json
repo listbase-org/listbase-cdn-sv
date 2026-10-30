@@ -1,0 +1,424 @@
+{
+  "id": "sv-rockbjornen-svenska-vinnare",
+  "name": "Rockbjörnen – svenska vinnare per år",
+  "title": "Rockbjörnen – svenska vinnare per år",
+  "description": "Vinnare av Aftonbladets musikpris Rockbjörnen i de svenska kategorierna (grupp, manlig och kvinnlig artist, album, låt) sedan 1979",
+  "category": "music",
+  "source": "https://sv.wikipedia.org/wiki/Rockbjörnen",
+  "source_url": "https://sv.wikipedia.org/wiki/Rockbjörnen",
+  "updated": "2026-10",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "male_artist",
+      "label": "Male Artist",
+      "type": "string"
+    },
+    {
+      "key": "female_artist",
+      "label": "Female Artist",
+      "type": "string"
+    },
+    {
+      "key": "album",
+      "label": "Album",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1979,
+      "group": "Wizex",
+      "male_artist": "Ulf Lundell",
+      "female_artist": "—",
+      "album": "Ripp Rapp av Ulf Lundell",
+      "song": "—"
+    },
+    {
+      "year": 1980,
+      "group": "Noice",
+      "male_artist": "Ulf Lundell",
+      "female_artist": "Liza Öhman",
+      "album": "Palsternacka av Dag Vag",
+      "song": "—"
+    },
+    {
+      "year": 1981,
+      "group": "Freestyle",
+      "male_artist": "Mikael Rickfors",
+      "female_artist": "Eva Dahlgren",
+      "album": "Kärlek & Uppror av Ebba Grön",
+      "song": "—"
+    },
+    {
+      "year": 1982,
+      "group": "Gyllene Tider",
+      "male_artist": "Ulf Lundell",
+      "female_artist": "Anni-Frid Lyngstad",
+      "album": "Kär och galen av Ulf Lundell",
+      "song": "—"
+    },
+    {
+      "year": 1983,
+      "group": "Raj Montana Band",
+      "male_artist": "Magnus Uggla",
+      "female_artist": "Agnetha Fältskog",
+      "album": "Välkommen till folkhemmet av Magnus Uggla",
+      "song": "—"
+    },
+    {
+      "year": 1984,
+      "group": "Ratata",
+      "male_artist": "Dan Hylander",
+      "female_artist": "Eva Dahlgren",
+      "album": "Chess av Björn Ulvaeus , Benny Andersson och Tim Rice",
+      "song": "—"
+    },
+    {
+      "year": 1985,
+      "group": "Imperiet",
+      "male_artist": "Joakim Thåström",
+      "female_artist": "Anne-Lie Rydé",
+      "album": "Blå himlen blues av Imperiet",
+      "song": "—"
+    },
+    {
+      "year": 1986,
+      "group": "Europe",
+      "male_artist": "Magnus Uggla",
+      "female_artist": "Marie Fredriksson",
+      "album": "Den döende dandyn av Magnus Uggla",
+      "song": "—"
+    },
+    {
+      "year": 1987,
+      "group": "Ratata",
+      "male_artist": "Orup",
+      "female_artist": "Marie Fredriksson",
+      "album": "Efter stormen av Marie Fredriksson",
+      "song": "—"
+    },
+    {
+      "year": 1988,
+      "group": "Roxette",
+      "male_artist": "Tommy Nilsson",
+      "female_artist": "Marie Fredriksson",
+      "album": "Look Sharp! av Roxette",
+      "song": "—"
+    },
+    {
+      "year": 1989,
+      "group": "Roxette",
+      "male_artist": "Orup",
+      "female_artist": "Marie Fredriksson",
+      "album": "35-åringen av Magnus Uggla",
+      "song": "—"
+    },
+    {
+      "year": 1990,
+      "group": "Creeps",
+      "male_artist": "Niklas Strömstedt",
+      "female_artist": "Titiyo",
+      "album": "Tillfälligheternas spel av Tomas Ledin",
+      "song": "—"
+    },
+    {
+      "year": 1991,
+      "group": "Roxette",
+      "male_artist": "Tomas Ledin",
+      "female_artist": "Eva Dahlgren",
+      "album": "Joyride av Roxette",
+      "song": "—"
+    },
+    {
+      "year": 1992,
+      "group": "Roxette",
+      "male_artist": "Mauro Scocco",
+      "female_artist": "Lisa Nilsson",
+      "album": "Himlen runt hörnet av Lisa Nilsson",
+      "song": "Himlen runt hörnet av Lisa Nilsson"
+    },
+    {
+      "year": 1993,
+      "group": "Atomic Swing",
+      "male_artist": "Magnus Uggla",
+      "female_artist": "Louise Hoffsten",
+      "album": "Alla får påsar av Magnus Uggla",
+      "song": "Lilla fågel blå av Staffan Hellstrand"
+    },
+    {
+      "year": 1994,
+      "group": "Nordman",
+      "male_artist": "Uno Svenningsson",
+      "female_artist": "Lisa Ekdahl",
+      "album": "Nordman av Nordman",
+      "song": "Vandraren av Nordman"
+    },
+    {
+      "year": 1995,
+      "group": "Just D",
+      "male_artist": "Olle Ljungström",
+      "female_artist": "Robyn",
+      "album": "Ingenmansland av Nordman",
+      "song": "Fiskarna i haven av Idde Schultz"
+    },
+    {
+      "year": 1996,
+      "group": "Jumper",
+      "male_artist": "E-Type",
+      "female_artist": "Dilba",
+      "album": "Verkligen av Kent",
+      "song": "Gå & fiska! av Gyllene Tider"
+    },
+    {
+      "year": 1997,
+      "group": "Kent",
+      "male_artist": "Eagle Eye Cherry",
+      "female_artist": "Cajsalisa Ejemyr",
+      "album": "Isola av Kent",
+      "song": "Save Tonight av Eagle-Eye Cherry"
+    },
+    {
+      "year": 1998,
+      "group": "The Cardigans",
+      "male_artist": "E-Type",
+      "female_artist": "Emilia Rydberg",
+      "album": "Gran Turismo av The Cardigans",
+      "song": "Big Big World av Emilia Rydberg"
+    },
+    {
+      "year": 1999,
+      "group": "Kent",
+      "male_artist": "Orup",
+      "female_artist": "Robyn",
+      "album": "Det är ni som e dom konstiga, det är jag som e normal av Thåström",
+      "song": "Musik Non Stop av Kent"
+    },
+    {
+      "year": 2000,
+      "group": "The Ark",
+      "male_artist": "Håkan Hellström",
+      "female_artist": "Feven",
+      "album": "Känn ingen sorg för mig Göteborg av Håkan Hellström",
+      "song": "Hiphopper av Thomas Rusiak feat. Teddybears Sthlm"
+    },
+    {
+      "year": 2001,
+      "group": "Lambretta",
+      "male_artist": "Håkan Hellström",
+      "female_artist": "Lisa Miskovsky",
+      "album": "Tillbaks på ruta 1 av Patrik Isaksson",
+      "song": "Come Along av Titiyo"
+    },
+    {
+      "year": 2002,
+      "group": "Kent",
+      "male_artist": "Håkan Hellström",
+      "female_artist": "Robyn",
+      "album": "Vapen & ammunition av Kent",
+      "song": "Kom Igen Lena! av Håkan Hellström"
+    },
+    {
+      "year": 2003,
+      "group": "Kent",
+      "male_artist": "Per Gessle",
+      "female_artist": "Lisa Miskovsky",
+      "album": "Mazarin av Per Gessle",
+      "song": "Här kommer alla känslorna (på en och samma gång) av Per Gessle"
+    },
+    {
+      "year": 2004,
+      "group": "Gyllene Tider",
+      "male_artist": "Lars Winnerbäck",
+      "female_artist": "Lena Philipsson",
+      "album": "Finn 5 fel! av Gyllene Tider",
+      "song": "Walk Idiot Walk av The Hives"
+    },
+    {
+      "year": 2005,
+      "group": "Bodies Without Organs",
+      "male_artist": "Darin",
+      "female_artist": "Laleh",
+      "album": "Du & jag döden av Kent",
+      "song": "Alla vill till himmelen men ingen vill dö av Timbuktu"
+    },
+    {
+      "year": 2006,
+      "group": "BWO",
+      "male_artist": "Lars Winnerbäck",
+      "female_artist": "Lisa Miskovsky",
+      "album": "Changes av Lisa Miskovsky",
+      "song": "7milakliv av Martin Stenmarck"
+    },
+    {
+      "year": 2007,
+      "group": "Sahara Hotnights",
+      "male_artist": "Lars Winnerbäck",
+      "female_artist": "Sonja Aldén",
+      "album": "Tillbaka till samtiden av Kent",
+      "song": "Om du lämnade mig nu av Lars Winnerbäck & Miss Li"
+    },
+    {
+      "year": 2008,
+      "group": "Takida",
+      "male_artist": "Lars Winnerbäck",
+      "female_artist": "Amanda Jenssen",
+      "album": "För sent för edelweiss av Håkan Hellström",
+      "song": "Feelgood av Ola"
+    },
+    {
+      "year": 2010,
+      "group": "Kent",
+      "male_artist": "Lars Winnerbäck",
+      "female_artist": "Robyn",
+      "album": "—",
+      "song": "Från och med du av Oskar Linnros"
+    },
+    {
+      "year": 2011,
+      "group": "The Ark",
+      "male_artist": "Håkan Hellström",
+      "female_artist": "Veronica Maggio",
+      "album": "—",
+      "song": "Jag kommer av Veronica Maggio"
+    },
+    {
+      "year": 2012,
+      "group": "Den Svenska Björnstammen",
+      "male_artist": "Timbuktu",
+      "female_artist": "Loreen",
+      "album": "—",
+      "song": "Euphoria av Loreen"
+    },
+    {
+      "year": 2013,
+      "group": "Mando Diao",
+      "male_artist": "Håkan Hellström",
+      "female_artist": "Zara Larsson",
+      "album": "—",
+      "song": "Det kommer aldrig va över för mig av Håkan Hellström"
+    },
+    {
+      "year": 2014,
+      "group": "The Fooo Conspiracy",
+      "male_artist": "Håkan Hellström",
+      "female_artist": "Zara Larsson",
+      "album": "—",
+      "song": "Hela huset av Veronica Maggio"
+    },
+    {
+      "year": 2015,
+      "group": "The Fooo Conspiracy",
+      "male_artist": "Måns Zelmerlöw",
+      "female_artist": "Zara Larsson",
+      "album": "—",
+      "song": "Heroes av Måns Zelmerlöw"
+    },
+    {
+      "year": 2016,
+      "group": "The Fooo Conspiracy",
+      "male_artist": "Håkan Hellström",
+      "female_artist": "Miriam Bryant",
+      "album": "—",
+      "song": "Ett sista glas av Miriam Bryant"
+    },
+    {
+      "year": 2017,
+      "group": "Kent",
+      "male_artist": "Håkan Hellström",
+      "female_artist": "Zara Larsson",
+      "album": "—",
+      "song": "Only You av Zara Larsson"
+    },
+    {
+      "year": 2018,
+      "group": "Hov1",
+      "male_artist": "Benjamin Ingrosso",
+      "female_artist": "Zara Larsson",
+      "album": "—",
+      "song": "Without You av Avicii"
+    },
+    {
+      "year": 2019,
+      "group": "Hov1",
+      "male_artist": "Benjamin Ingrosso",
+      "female_artist": "Molly Sandén",
+      "album": "—",
+      "song": "SOS av Avicii"
+    },
+    {
+      "year": 2020,
+      "group": "Mando Diao",
+      "male_artist": "Victor Leksell",
+      "female_artist": "Molly Sandén",
+      "album": "—",
+      "song": "Svag av Victor Leksell"
+    },
+    {
+      "year": 2021,
+      "group": "Smith & Tell",
+      "male_artist": "Benjamin Ingrosso",
+      "female_artist": "Molly Sandén",
+      "album": "—",
+      "song": "Allt det vackra av Benjamin Ingrosso"
+    },
+    {
+      "year": 2022,
+      "group": "Abba",
+      "male_artist": "Benjamin Ingrosso",
+      "female_artist": "Miss Li",
+      "album": "—",
+      "song": "Hold me closer av Cornelia Jakobs"
+    },
+    {
+      "year": 2023,
+      "group": "Hooja",
+      "male_artist": "Benjamin Ingrosso",
+      "female_artist": "Miss Li",
+      "album": "—",
+      "song": "Banan, melon, kiwi och citron av Hooja"
+    },
+    {
+      "year": 2024,
+      "group": "Marcus & Martinus",
+      "male_artist": "Benjamin Ingrosso",
+      "female_artist": "Zara Larsson",
+      "album": "—",
+      "song": "Red light av Omar Rudberg"
+    },
+    {
+      "year": 2025,
+      "group": "KAJ",
+      "male_artist": "Omar Rudberg",
+      "female_artist": "Zara Larsson",
+      "album": "–",
+      "song": "I’m Not a Boy av Omar Rudberg"
+    }
+  ],
+  "meta": {
+    "title": "Rockbjörnen – svenska vinnare per år - Free Download",
+    "description": "Vinnare av Aftonbladets musikpris Rockbjörnen i de svenska kategorierna (grupp, manlig och kvinnlig artist, album, låt) sedan 1979 Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rockbjörnen – svenska vinnare per år | ListBase",
+    "seo_description": "Download Rockbjörnen – svenska vinnare per år — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Rockbjörnen"
+    ]
+  }
+}
