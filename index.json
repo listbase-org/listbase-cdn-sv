@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-30T02:18:54.424Z",
-  "total_datasets": 505,
-  "total_records": 2265204,
+  "generated": "2026-10-30T02:19:02.175Z",
+  "total_datasets": 506,
+  "total_records": 2265238,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -4691,6 +4691,29 @@
         "xlsx": {
           "name": "sv-melodifestivalen-flest-deltaganden_SV.xlsx",
           "size": 8312
+        }
+      }
+    },
+    {
+      "id": "sv-polarpriset",
+      "name": "Polarpriset – pristagare",
+      "category": "music",
+      "record_count": 34,
+      "columns": [
+        "year",
+        "laureates"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Polarpriset",
+      "updated": "2026-10",
+      "size": 4425,
+      "files": {
+        "csv": {
+          "name": "sv-polarpriset_SV.csv",
+          "size": 1607
+        },
+        "xlsx": {
+          "name": "sv-polarpriset_SV.xlsx",
+          "size": 7995
         }
       }
     },
