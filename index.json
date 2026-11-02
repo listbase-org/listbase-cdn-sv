@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-02T02:35:49.743Z",
-  "total_datasets": 509,
-  "total_records": 2265534,
+  "generated": "2026-11-02T02:35:56.989Z",
+  "total_datasets": 510,
+  "total_records": 2265663,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -528,6 +528,29 @@
         "xlsx": {
           "name": "sv-finansministrar_SV.xlsx",
           "size": 12745
+        }
+      }
+    },
+    {
+      "id": "sv-hovleverantorer",
+      "name": "Kungliga hovleverantörer i Sverige",
+      "category": "economy",
+      "record_count": 129,
+      "columns": [
+        "hovleverantor",
+        "anmarkning"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_hovleverantörer",
+      "updated": "2026-11",
+      "size": 12500,
+      "files": {
+        "csv": {
+          "name": "sv-hovleverantorer_SV.csv",
+          "size": 3763
+        },
+        "xlsx": {
+          "name": "sv-hovleverantorer_SV.xlsx",
+          "size": 10008
         }
       }
     },
