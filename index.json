@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-02T02:35:41.415Z",
-  "total_datasets": 508,
-  "total_records": 2265514,
+  "generated": "2026-11-02T02:35:49.743Z",
+  "total_datasets": 509,
+  "total_records": 2265534,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "music",
@@ -4539,6 +4539,31 @@
         "xlsx": {
           "name": "sv-svenska-homofoner_SV.xlsx",
           "size": 9602
+        }
+      }
+    },
+    {
+      "id": "sv-generaldirektorer-kriminalvarden",
+      "name": "Generaldirektörer för Kriminalvården",
+      "category": "law",
+      "record_count": 20,
+      "columns": [
+        "period",
+        "generaldirektor",
+        "myndighet",
+        "anmarkning"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Kriminalvården",
+      "updated": "2026-11",
+      "size": 4933,
+      "files": {
+        "csv": {
+          "name": "sv-generaldirektorer-kriminalvarden_SV.csv",
+          "size": 1404
+        },
+        "xlsx": {
+          "name": "sv-generaldirektorer-kriminalvarden_SV.xlsx",
+          "size": 7633
         }
       }
     },
