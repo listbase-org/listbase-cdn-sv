@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-10-30T02:19:08.923Z",
-  "total_datasets": 507,
-  "total_records": 2265295,
+  "generated": "2026-11-02T02:35:41.415Z",
+  "total_datasets": 508,
+  "total_records": 2265514,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -4391,6 +4391,29 @@
         "xlsx": {
           "name": "sv-falska-vanner-nordiska-sprak_SV.xlsx",
           "size": 21834
+        }
+      }
+    },
+    {
+      "id": "sv-franska-uttryck",
+      "name": "Franska uttryck i svenska språket",
+      "category": "language",
+      "record_count": 219,
+      "columns": [
+        "uttryck",
+        "betydelse"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_franska_uttryck_i_svenska_språket",
+      "updated": "2026-11",
+      "size": 34549,
+      "files": {
+        "csv": {
+          "name": "sv-franska-uttryck_SV.csv",
+          "size": 22144
+        },
+        "xlsx": {
+          "name": "sv-franska-uttryck_SV.xlsx",
+          "size": 19459
         }
       }
     },
