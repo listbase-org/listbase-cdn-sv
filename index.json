@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-02T02:35:56.989Z",
-  "total_datasets": 510,
-  "total_records": 2265663,
+  "generated": "2026-11-02T02:36:03.311Z",
+  "total_datasets": 511,
+  "total_records": 2265730,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -4313,6 +4313,34 @@
         "xlsx": {
           "name": "sv-arkebiskopar-uppsala_SV.xlsx",
           "size": 13324
+        }
+      }
+    },
+    {
+      "id": "sv-regentgemaler",
+      "name": "Sveriges regentgemåler (drottningar och prinsgemåler)",
+      "category": "history",
+      "record_count": 67,
+      "columns": [
+        "namn",
+        "gift_med",
+        "fodelse",
+        "giftermal",
+        "blev_regentgemal",
+        "upphorde_vara_regentgemal",
+        "dod"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_Sveriges_regentgemåler",
+      "updated": "2026-11",
+      "size": 22154,
+      "files": {
+        "csv": {
+          "name": "sv-regentgemaler_SV.csv",
+          "size": 9376
+        },
+        "xlsx": {
+          "name": "sv-regentgemaler_SV.xlsx",
+          "size": 11648
         }
       }
     },

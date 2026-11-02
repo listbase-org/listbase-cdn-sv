@@ -1,0 +1,664 @@
+{
+  "id": "sv-regentgemaler",
+  "name": "Sveriges regentgemåler (drottningar och prinsgemåler)",
+  "title": "Sveriges regentgemåler (drottningar och prinsgemåler)",
+  "description": "Lista över Sveriges regentgemåler från vikingatiden till idag: namn, make/maka, födelse, giftermål, när de blev och upphörde att vara regentgemål samt död.",
+  "category": "history",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_Sveriges_regentgemåler",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_Sveriges_regentgemåler",
+  "updated": "2026-11",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "gift_med",
+      "label": "Gift Med",
+      "type": "string"
+    },
+    {
+      "key": "fodelse",
+      "label": "Fodelse",
+      "type": "string"
+    },
+    {
+      "key": "giftermal",
+      "label": "Giftermal",
+      "type": "string"
+    },
+    {
+      "key": "blev_regentgemal",
+      "label": "Blev Regentgemal",
+      "type": "string"
+    },
+    {
+      "key": "upphorde_vara_regentgemal",
+      "label": "Upphorde Vara Regentgemal",
+      "type": "string"
+    },
+    {
+      "key": "dod",
+      "label": "Dod",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "namn": "Sigrid Storråda",
+      "gift_med": "Erik Segersäll",
+      "fodelse": "Cirka 960",
+      "giftermal": "970-talet?",
+      "blev_regentgemal": "970-talet?",
+      "upphorde_vara_regentgemal": "980-talet/990-talet? skilsmässa",
+      "dod": "1020?"
+    },
+    {
+      "namn": "Swiatoslawa av Polen",
+      "gift_med": "Erik Segersäll",
+      "fodelse": "Cirka 968?",
+      "giftermal": "980-talet/990-talet?",
+      "blev_regentgemal": "980-talet/990-talet?",
+      "upphorde_vara_regentgemal": "995 makens död",
+      "dod": "1014?"
+    },
+    {
+      "namn": "Estrid",
+      "gift_med": "Olof Skötkonung",
+      "fodelse": "979",
+      "giftermal": "Cirka 1000?",
+      "blev_regentgemal": "Cirka 1000?",
+      "upphorde_vara_regentgemal": "1022 makens död",
+      "dod": "1035"
+    },
+    {
+      "namn": "Gunhild",
+      "gift_med": "Anund Jakob",
+      "fodelse": "Cirka 1010",
+      "giftermal": "?",
+      "blev_regentgemal": "1022 makens trontillträde",
+      "upphorde_vara_regentgemal": "1050 makens död",
+      "dod": "1060"
+    },
+    {
+      "namn": "Astrid Nialsdotter",
+      "gift_med": "Emund den gamle",
+      "fodelse": "?",
+      "giftermal": "Cirka 1040?",
+      "blev_regentgemal": "1050 makens trontillträde",
+      "upphorde_vara_regentgemal": "1060?",
+      "dod": "1060?"
+    },
+    {
+      "namn": "Helena",
+      "gift_med": "Inge den äldre",
+      "fodelse": "1065",
+      "giftermal": "?",
+      "blev_regentgemal": "1079 / 1080 makens trontillträde",
+      "upphorde_vara_regentgemal": "1105 makens död",
+      "dod": "1140"
+    },
+    {
+      "namn": "Ingegerd Haraldsdotter",
+      "gift_med": "Filip",
+      "fodelse": "1046",
+      "giftermal": "Cirka 1095 eller 1096",
+      "blev_regentgemal": "1105 makens trontillträde",
+      "upphorde_vara_regentgemal": "1118 makens död",
+      "dod": "1120"
+    },
+    {
+      "namn": "Möjligen Ragnhild",
+      "gift_med": "Inge den yngre",
+      "fodelse": "1075",
+      "giftermal": "?",
+      "blev_regentgemal": "1105 / 1110 makens trontillträde",
+      "upphorde_vara_regentgemal": "1117",
+      "dod": "1117"
+    },
+    {
+      "namn": "Ulvhild Håkansdotter",
+      "gift_med": "Inge den yngre",
+      "fodelse": "1095",
+      "giftermal": "1117",
+      "blev_regentgemal": "1117",
+      "upphorde_vara_regentgemal": "1125 makens död",
+      "dod": ""
+    },
+    {
+      "namn": "Rikissa av Polen",
+      "gift_med": "Magnus den starke",
+      "fodelse": "12 april 1106",
+      "giftermal": "1127",
+      "blev_regentgemal": "1127",
+      "upphorde_vara_regentgemal": "1130 makens avsättning",
+      "dod": ""
+    },
+    {
+      "namn": "Ulvhild Håkansdotter",
+      "gift_med": "Sverker den äldre",
+      "fodelse": "",
+      "giftermal": "1134",
+      "blev_regentgemal": "1134",
+      "upphorde_vara_regentgemal": "1148",
+      "dod": "1148"
+    },
+    {
+      "namn": "Rikissa av Polen",
+      "gift_med": "Sverker den äldre",
+      "fodelse": "",
+      "giftermal": "1148",
+      "blev_regentgemal": "1148",
+      "upphorde_vara_regentgemal": "1150-talet",
+      "dod": "1150-talet"
+    },
+    {
+      "namn": "Kristina Björnsdotter",
+      "gift_med": "Erik den helige",
+      "fodelse": "1120-talet",
+      "giftermal": "1149 eller 1150",
+      "blev_regentgemal": "1156 makens trontillträde",
+      "upphorde_vara_regentgemal": "18 maj 1160 makens död",
+      "dod": "1170"
+    },
+    {
+      "namn": "Birgitta Haraldsdotter",
+      "gift_med": "Magnus Henriksson",
+      "fodelse": "1130",
+      "giftermal": "?",
+      "blev_regentgemal": "1160 makens trontillträde",
+      "upphorde_vara_regentgemal": "1161 makens död",
+      "dod": "1209"
+    },
+    {
+      "namn": "Kristina Stigsdotter Hvide",
+      "gift_med": "Karl Sverkersson",
+      "fodelse": "1145",
+      "giftermal": "1164",
+      "blev_regentgemal": "1164",
+      "upphorde_vara_regentgemal": "12 april 1167 makens död",
+      "dod": "1200"
+    },
+    {
+      "namn": "Till namnet okänd",
+      "gift_med": "Knut Eriksson",
+      "fodelse": "Cirka 1145",
+      "giftermal": "1160",
+      "blev_regentgemal": "12 april 1167 makens trontillträde",
+      "upphorde_vara_regentgemal": "1193 gick i kloster",
+      "dod": "Efter 1193"
+    },
+    {
+      "namn": "Benedikta Ebbesdotter",
+      "gift_med": "Sverker den yngre",
+      "fodelse": "1160-talet",
+      "giftermal": "Cirka 1185",
+      "blev_regentgemal": "1195 / 1196 makens trontillträde",
+      "upphorde_vara_regentgemal": "1199 / 1200",
+      "dod": "1199 / 1200"
+    },
+    {
+      "namn": "Ingegärd Birgersdotter",
+      "gift_med": "Sverker den yngre",
+      "fodelse": "1180",
+      "giftermal": "1200",
+      "blev_regentgemal": "1200",
+      "upphorde_vara_regentgemal": "31 januari 1208 makens avsättning",
+      "dod": "7 april 1230?"
+    },
+    {
+      "namn": "Rikissa av Danmark",
+      "gift_med": "Erik Knutsson",
+      "fodelse": "1190 eller 1191",
+      "giftermal": "1210",
+      "blev_regentgemal": "1210",
+      "upphorde_vara_regentgemal": "10 april 1216 makens död",
+      "dod": "8 maj 1220"
+    },
+    {
+      "namn": "Troligen okänd kvinna av Bjälboätten",
+      "gift_med": "Knut Långe",
+      "fodelse": "Okänt",
+      "giftermal": "Okänt",
+      "blev_regentgemal": "Tidigast 1229 (makens trontillträde)",
+      "upphorde_vara_regentgemal": "Senast 1234 (makens död)",
+      "dod": "Okänt"
+    },
+    {
+      "namn": "Katarina Sunesdotter",
+      "gift_med": "Erik den läspe och halte",
+      "fodelse": "1215",
+      "giftermal": "Cirka 1243 eller 1244",
+      "blev_regentgemal": "Cirka 1243 eller 1244",
+      "upphorde_vara_regentgemal": "2 februari 1250 makens död",
+      "dod": "Början av 1250-talet"
+    },
+    {
+      "namn": "Sofia Eriksdotter",
+      "gift_med": "Valdemar Birgersson",
+      "fodelse": "1241",
+      "giftermal": "1260",
+      "blev_regentgemal": "1260",
+      "upphorde_vara_regentgemal": "22 juli 1275 makens avsättning",
+      "dod": "1286"
+    },
+    {
+      "namn": "Helvig av Holstein",
+      "gift_med": "Magnus Ladulås",
+      "fodelse": "1250-talet",
+      "giftermal": "11 november 1276",
+      "blev_regentgemal": "11 november 1276",
+      "upphorde_vara_regentgemal": "18 december 1290 makens död",
+      "dod": "Cirka 1324?"
+    },
+    {
+      "namn": "Märta av Danmark",
+      "gift_med": "Birger Magnusson",
+      "fodelse": "1277",
+      "giftermal": "November 1298",
+      "blev_regentgemal": "November 1298",
+      "upphorde_vara_regentgemal": "Mars eller april 1318 makens avsättning",
+      "dod": "3 oktober 1341"
+    },
+    {
+      "namn": "Blanka av Namur",
+      "gift_med": "Magnus Eriksson",
+      "fodelse": "1320",
+      "giftermal": "Oktober eller början av november 1335",
+      "blev_regentgemal": "Oktober eller början av november 1335",
+      "upphorde_vara_regentgemal": "1363",
+      "dod": "1363"
+    },
+    {
+      "namn": "Beatrix av Bayern",
+      "gift_med": "Erik Magnusson",
+      "fodelse": "?",
+      "giftermal": "1355 eller 1356",
+      "blev_regentgemal": "17 oktober 1356 makens utropande till kung",
+      "upphorde_vara_regentgemal": "20 juni 1359 makens död",
+      "dod": "25 december 1359"
+    },
+    {
+      "namn": "Margareta Valdemarsdotter av Danmark",
+      "gift_med": "Håkan Magnusson",
+      "fodelse": "Våren 1353",
+      "giftermal": "9 april 1363",
+      "blev_regentgemal": "9 april 1363",
+      "upphorde_vara_regentgemal": "15 februari 1364 makens avsättning",
+      "dod": "28 oktober 1412"
+    },
+    {
+      "namn": "Rikardis av Schwerin",
+      "gift_med": "Albrekt av Mecklenburg",
+      "fodelse": "1348",
+      "giftermal": "1365",
+      "blev_regentgemal": "1365",
+      "upphorde_vara_regentgemal": "Mellan 23 april och 11 juni 1377",
+      "dod": "Mellan 23 april och 11 juni 1377"
+    },
+    {
+      "namn": "Filippa av England",
+      "gift_med": "Erik av Pommern",
+      "fodelse": "4 juni 1394",
+      "giftermal": "26 oktober 1406",
+      "blev_regentgemal": "26 oktober 1406",
+      "upphorde_vara_regentgemal": "5 januari 1430",
+      "dod": "5 januari 1430"
+    },
+    {
+      "namn": "Katarina Karlsdotter",
+      "gift_med": "Karl Knutsson",
+      "fodelse": "1418",
+      "giftermal": "5 oktober 1438",
+      "blev_regentgemal": "17 oktober 1438 makens tillträde som riksföreståndare",
+      "upphorde_vara_regentgemal": "Hösten 1440 makens abdikation som riksföreståndare",
+      "dod": ""
+    },
+    {
+      "namn": "Dorotea av Brandenburg",
+      "gift_med": "Kristofer av Bayern",
+      "fodelse": "1430",
+      "giftermal": "10 september 1445",
+      "blev_regentgemal": "10 september 1445",
+      "upphorde_vara_regentgemal": "6 januari 1448 makens död",
+      "dod": ""
+    },
+    {
+      "namn": "Märta Lydekadotter Stralendorp",
+      "gift_med": "Bengt Jönsson (Oxenstierna)",
+      "fodelse": "?",
+      "giftermal": "1437",
+      "blev_regentgemal": "Januari 1448 makens val till riksföreståndare",
+      "upphorde_vara_regentgemal": "20 juni 1448 makens abdikation som riksföreståndare",
+      "dod": "?"
+    },
+    {
+      "namn": "Katarina Karlsdotter Sture",
+      "gift_med": "Nils Jönsson (Oxenstierna)",
+      "fodelse": "?",
+      "giftermal": "?",
+      "blev_regentgemal": "Januari 1448 makens val till riksföreståndare",
+      "upphorde_vara_regentgemal": "20 juni 1448 makens abdikation som riksföreståndare",
+      "dod": "?"
+    },
+    {
+      "namn": "Katarina Karlsdotter",
+      "gift_med": "Karl Knutsson",
+      "fodelse": "",
+      "giftermal": "5 oktober 1438",
+      "blev_regentgemal": "20 juni 1448 makens trontillträde",
+      "upphorde_vara_regentgemal": "7 september 1450",
+      "dod": "7 september 1450"
+    },
+    {
+      "namn": "Dorotea av Brandenburg",
+      "gift_med": "Kristian I",
+      "fodelse": "",
+      "giftermal": "26 oktober 1449",
+      "blev_regentgemal": "23 juni 1457 makens trontillträde",
+      "upphorde_vara_regentgemal": "23 juni 1464 makens avsättning",
+      "dod": "10 november 1495"
+    },
+    {
+      "namn": "Elin Gustavsdotter",
+      "gift_med": "Erik Axelsson",
+      "fodelse": "?",
+      "giftermal": "September 1466",
+      "blev_regentgemal": "18 oktober 1466 makens val till riksföreståndare",
+      "upphorde_vara_regentgemal": "12 november 1467 makens abdikation som riksföreståndare",
+      "dod": "1495"
+    },
+    {
+      "namn": "Kristina Abrahamsdotter",
+      "gift_med": "Karl Knutsson",
+      "fodelse": "1432",
+      "giftermal": "April eller maj 1470",
+      "blev_regentgemal": "April eller maj 1470",
+      "upphorde_vara_regentgemal": "15 maj 1470 makens död",
+      "dod": "1492"
+    },
+    {
+      "namn": "Ingeborg Åkesdotter",
+      "gift_med": "Sten Sture den äldre",
+      "fodelse": "1440-talet",
+      "giftermal": "1467",
+      "blev_regentgemal": "1 juni 1470 makens val till riksföreståndare",
+      "upphorde_vara_regentgemal": "6 oktober 1497 makens abdikation som riksföreståndare",
+      "dod": ""
+    },
+    {
+      "namn": "Kristina av Sachsen",
+      "gift_med": "Hans",
+      "fodelse": "24 december 1461",
+      "giftermal": "6 september 1478",
+      "blev_regentgemal": "6 oktober 1497 makens trontillträde",
+      "upphorde_vara_regentgemal": "Augusti 1501 makens avsättning",
+      "dod": "8 december 1521"
+    },
+    {
+      "namn": "Ingeborg Åkesdotter",
+      "gift_med": "Sten Sture den äldre",
+      "fodelse": "",
+      "giftermal": "1467",
+      "blev_regentgemal": "12 november 1501 makens val till riksföreståndare",
+      "upphorde_vara_regentgemal": "14 december 1503 makens död",
+      "dod": "1507"
+    },
+    {
+      "namn": "Mette Ivarsdotter",
+      "gift_med": "Svante Nilsson",
+      "fodelse": "1465",
+      "giftermal": "17 november 1504",
+      "blev_regentgemal": "17 november 1504",
+      "upphorde_vara_regentgemal": "31 december 1511 eller 2 januari 1512 makens död",
+      "dod": "1530-talet"
+    },
+    {
+      "namn": "Kristina Nilsdotter",
+      "gift_med": "Sten Sture den yngre",
+      "fodelse": "1494",
+      "giftermal": "16 november 1511",
+      "blev_regentgemal": "23 juli 1512 makens val till riksföreståndare",
+      "upphorde_vara_regentgemal": "3 februari 1520 makens död",
+      "dod": "5 januari 1559"
+    },
+    {
+      "namn": "Elisabet av Österrike",
+      "gift_med": "Kristian II",
+      "fodelse": "18 juli 1501",
+      "giftermal": "12 augusti 1515",
+      "blev_regentgemal": "1 november 1520 makens trontillträde",
+      "upphorde_vara_regentgemal": "23 augusti 1521 makens avsättning",
+      "dod": "19 januari 1526"
+    },
+    {
+      "namn": "Katarina av Sachsen-Lauenburg",
+      "gift_med": "Gustav Vasa",
+      "fodelse": "24 september 1513",
+      "giftermal": "24 september 1531",
+      "blev_regentgemal": "24 september 1531",
+      "upphorde_vara_regentgemal": "23 september 1535",
+      "dod": "23 september 1535"
+    },
+    {
+      "namn": "Margareta Eriksdotter",
+      "gift_med": "Gustav Vasa",
+      "fodelse": "1 januari 1516",
+      "giftermal": "1 oktober 1536",
+      "blev_regentgemal": "1 oktober 1536",
+      "upphorde_vara_regentgemal": "26 augusti 1551",
+      "dod": "26 augusti 1551"
+    },
+    {
+      "namn": "Katarina Stenbock",
+      "gift_med": "Gustav Vasa",
+      "fodelse": "22 juli 1535",
+      "giftermal": "22 augusti 1552",
+      "blev_regentgemal": "22 augusti 1552",
+      "upphorde_vara_regentgemal": "29 september 1560 makens död",
+      "dod": "13 december 1621"
+    },
+    {
+      "namn": "Karin Månsdotter",
+      "gift_med": "Erik XIV",
+      "fodelse": "6 november 1550",
+      "giftermal": "13 juli 1567 inofficiellt i hemlighet 4 juli 1568 officiellt",
+      "blev_regentgemal": "13 juli 1567 inofficiellt i hemlighet 4 juli 1568 officiellt",
+      "upphorde_vara_regentgemal": "29 september 1568 makens avsättning",
+      "dod": "13 september 1612"
+    },
+    {
+      "namn": "Katarina Jagellonica",
+      "gift_med": "Johan III",
+      "fodelse": "1 september 1526",
+      "giftermal": "4 oktober 1562",
+      "blev_regentgemal": "30 september 1568 makens trontillträde",
+      "upphorde_vara_regentgemal": "16 september 1583",
+      "dod": "16 september 1583"
+    },
+    {
+      "namn": "Gunilla Johansdotter",
+      "gift_med": "Johan III",
+      "fodelse": "25 juni 1568",
+      "giftermal": "21 februari 1585",
+      "blev_regentgemal": "21 februari 1585",
+      "upphorde_vara_regentgemal": "17 november 1592 makens död",
+      "dod": "19 juli 1597"
+    },
+    {
+      "namn": "Anna av Österrike",
+      "gift_med": "Sigismund",
+      "fodelse": "16 augusti 1573",
+      "giftermal": "21 maj 1592",
+      "blev_regentgemal": "17 november 1592 makens trontillträde",
+      "upphorde_vara_regentgemal": "31 januari 1598",
+      "dod": "31 januari 1598"
+    },
+    {
+      "namn": "Kristina av Holstein-Gottorp",
+      "gift_med": "Karl IX",
+      "fodelse": "12 april 1573",
+      "giftermal": "8 juli 1592",
+      "blev_regentgemal": "24 juli 1599 makens tillträde som riksföreståndare",
+      "upphorde_vara_regentgemal": "30 oktober 1611 makens död",
+      "dod": "8 december 1625"
+    },
+    {
+      "namn": "Maria Eleonora av Brandenburg",
+      "gift_med": "Gustav II Adolf",
+      "fodelse": "11 november 1599",
+      "giftermal": "25 november 1620",
+      "blev_regentgemal": "25 november 1620",
+      "upphorde_vara_regentgemal": "6 november 1632 makens död",
+      "dod": "18 mars 1655"
+    },
+    {
+      "namn": "Hedvig Eleonora av Holstein-Gottorp",
+      "gift_med": "Karl X Gustav",
+      "fodelse": "23 oktober 1636",
+      "giftermal": "24 oktober 1654",
+      "blev_regentgemal": "24 oktober 1654",
+      "upphorde_vara_regentgemal": "13 februari 1660 makens död",
+      "dod": "24 november 1715"
+    },
+    {
+      "namn": "Ulrika Eleonora den äldre",
+      "gift_med": "Karl XI",
+      "fodelse": "11 september 1656",
+      "giftermal": "6 maj 1680",
+      "blev_regentgemal": "6 maj 1680",
+      "upphorde_vara_regentgemal": "26 juli 1693",
+      "dod": "26 juli 1693"
+    },
+    {
+      "namn": "Fredrik av Hessen–Kassel",
+      "gift_med": "Ulrika Eleonora den yngre",
+      "fodelse": "18 april 1676",
+      "giftermal": "24 mars 1715",
+      "blev_regentgemal": "5 december 1718 makans trontillträde",
+      "upphorde_vara_regentgemal": "29 februari 1720 makans abdikation",
+      "dod": "25 mars 1751"
+    },
+    {
+      "namn": "Ulrika Eleonora den yngre",
+      "gift_med": "Fredrik I",
+      "fodelse": "23 januari 1688",
+      "giftermal": "24 mars 1715",
+      "blev_regentgemal": "24 mars 1720 makens trontillträde",
+      "upphorde_vara_regentgemal": "24 november 1741",
+      "dod": "24 november 1741"
+    },
+    {
+      "namn": "Lovisa Ulrika av Preussen",
+      "gift_med": "Adolf Fredrik",
+      "fodelse": "24 juli 1720",
+      "giftermal": "18 augusti 1744",
+      "blev_regentgemal": "25 mars 1751 makens trontillträde",
+      "upphorde_vara_regentgemal": "12 februari 1771 makens död",
+      "dod": "16 juli 1782"
+    },
+    {
+      "namn": "Sofia Magdalena av Danmark",
+      "gift_med": "Gustav III",
+      "fodelse": "3 juli 1746",
+      "giftermal": "4 november 1766",
+      "blev_regentgemal": "12 februari 1771 makens trontillträde",
+      "upphorde_vara_regentgemal": "29 mars 1792 makens död",
+      "dod": "21 augusti 1813"
+    },
+    {
+      "namn": "Fredrika Dorotea Vilhelmina av Baden",
+      "gift_med": "Gustav IV Adolf",
+      "fodelse": "12 mars 1781",
+      "giftermal": "31 oktober 1797",
+      "blev_regentgemal": "31 oktober 1797",
+      "upphorde_vara_regentgemal": "29 mars 1809 makens abdikation",
+      "dod": "25 september 1826"
+    },
+    {
+      "namn": "Hedvig Elisabet Charlotta av Holstein-Gottorp",
+      "gift_med": "Karl XIII",
+      "fodelse": "22 mars 1759",
+      "giftermal": "7 juli 1774",
+      "blev_regentgemal": "13 mars 1809 makens tillträde som riksföreståndare",
+      "upphorde_vara_regentgemal": "5 februari 1818 makens död",
+      "dod": "20 juni 1818"
+    },
+    {
+      "namn": "Desideria",
+      "gift_med": "Karl XIV Johan",
+      "fodelse": "8 november 1777",
+      "giftermal": "17 augusti 1798",
+      "blev_regentgemal": "5 februari 1818 makens trontillträde",
+      "upphorde_vara_regentgemal": "8 mars 1844 makens död",
+      "dod": "17 december 1860"
+    },
+    {
+      "namn": "Josefina av Leuchtenberg",
+      "gift_med": "Oscar I",
+      "fodelse": "14 mars 1807",
+      "giftermal": "19 juni 1823",
+      "blev_regentgemal": "8 mars 1844 makens trontillträde",
+      "upphorde_vara_regentgemal": "8 juli 1859 makens död",
+      "dod": "7 juni 1876"
+    },
+    {
+      "namn": "Lovisa av Nederländerna",
+      "gift_med": "Karl XV",
+      "fodelse": "5 augusti 1828",
+      "giftermal": "19 juni 1850",
+      "blev_regentgemal": "8 juli 1859 makens trontillträde",
+      "upphorde_vara_regentgemal": "30 mars 1871",
+      "dod": "30 mars 1871"
+    },
+    {
+      "namn": "Sofia av Nassau",
+      "gift_med": "Oscar II",
+      "fodelse": "9 juli 1836",
+      "giftermal": "6 juni 1857",
+      "blev_regentgemal": "18 september 1872 makens trontillträde",
+      "upphorde_vara_regentgemal": "8 december 1907 makens död",
+      "dod": "30 december 1913"
+    },
+    {
+      "namn": "Victoria av Baden",
+      "gift_med": "Gustaf V",
+      "fodelse": "7 augusti 1862",
+      "giftermal": "20 september 1881",
+      "blev_regentgemal": "8 december 1907 makens trontillträde",
+      "upphorde_vara_regentgemal": "4 april 1930",
+      "dod": "4 april 1930"
+    },
+    {
+      "namn": "Louise av Battenberg",
+      "gift_med": "Gustaf VI Adolf",
+      "fodelse": "13 juli 1889",
+      "giftermal": "3 november 1923",
+      "blev_regentgemal": "29 oktober 1950 makens trontillträde",
+      "upphorde_vara_regentgemal": "7 mars 1965",
+      "dod": "7 mars 1965"
+    },
+    {
+      "namn": "Silvia Renate Sommerlath",
+      "gift_med": "Carl XVI Gustaf",
+      "fodelse": "23 december 1943",
+      "giftermal": "19 juni 1976",
+      "blev_regentgemal": "19 juni 1976",
+      "upphorde_vara_regentgemal": "",
+      "dod": ""
+    }
+  ],
+  "meta": {
+    "title": "Sveriges regentgemåler (drottningar och prinsgemåler) - Free Download",
+    "description": "Lista över Sveriges regentgemåler från vikingatiden till idag: namn, make/maka, födelse, giftermål, när de blev och upphörde att vara regentgemål samt död. Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges regentgemåler (drottningar och prinsgemåler) | ListBase",
+    "seo_description": "Download Sveriges regentgemåler (drottningar och prinsgemåler) — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_Sveriges_regentgemåler"
+    ]
+  }
+}
