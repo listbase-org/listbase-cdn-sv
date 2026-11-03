@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-02T02:36:03.311Z",
-  "total_datasets": 511,
-  "total_records": 2265730,
+  "generated": "2026-11-03T02:29:44.979Z",
+  "total_datasets": 512,
+  "total_records": 2265777,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -4313,6 +4313,30 @@
         "xlsx": {
           "name": "sv-arkebiskopar-uppsala_SV.xlsx",
           "size": 13324
+        }
+      }
+    },
+    {
+      "id": "sv-kravaller",
+      "name": "Kravaller och upplopp i Sverige",
+      "category": "history",
+      "record_count": 47,
+      "columns": [
+        "handelse",
+        "arhundrade",
+        "ar"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_kravaller_i_Sverige",
+      "updated": "2026-11",
+      "size": 7276,
+      "files": {
+        "csv": {
+          "name": "sv-kravaller_SV.csv",
+          "size": 2934
+        },
+        "xlsx": {
+          "name": "sv-kravaller_SV.xlsx",
+          "size": 8508
         }
       }
     },
