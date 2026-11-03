@@ -1,0 +1,856 @@
+{
+  "id": "sv-mest-sedda-filmer-pa-bio",
+  "name": "Mest sedda filmerna på bio i Sverige",
+  "title": "Mest sedda filmerna på bio i Sverige",
+  "description": "De 100 mest sedda filmerna på svenska biografer genom tiderna med antal biobesök, år, produktionsland och regissör.",
+  "category": "entertainment",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_mest_sedda_filmer_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_mest_sedda_filmer_i_Sverige",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "rankning",
+      "label": "Rankning",
+      "type": "number"
+    },
+    {
+      "key": "filmtitel",
+      "label": "Filmtitel",
+      "type": "string"
+    },
+    {
+      "key": "biobesok",
+      "label": "Biobesok",
+      "type": "number"
+    },
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "produktionsland",
+      "label": "Produktionsland",
+      "type": "string"
+    },
+    {
+      "key": "regissor",
+      "label": "Regissor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rankning": 1,
+      "filmtitel": "Djungelboken",
+      "biobesok": 4509373,
+      "ar": 1968,
+      "produktionsland": "USA",
+      "regissor": "Wolfgang Reitherman"
+    },
+    {
+      "rankning": 2,
+      "filmtitel": "Sound of Music",
+      "biobesok": 3443458,
+      "ar": 1965,
+      "produktionsland": "USA",
+      "regissor": "Robert Wise"
+    },
+    {
+      "rankning": 3,
+      "filmtitel": "Titanic",
+      "biobesok": 2235533,
+      "ar": 1997,
+      "produktionsland": "USA",
+      "regissor": "James Cameron"
+    },
+    {
+      "rankning": 4,
+      "filmtitel": "Sällskapsresan",
+      "biobesok": 2038785,
+      "ar": 1980,
+      "produktionsland": "Sverige",
+      "regissor": "Lasse Åberg"
+    },
+    {
+      "rankning": 5,
+      "filmtitel": "Lejonkungen",
+      "biobesok": 2025470,
+      "ar": 1994,
+      "produktionsland": "USA",
+      "regissor": "Rob Minkoff, Roger Allers"
+    },
+    {
+      "rankning": 6,
+      "filmtitel": "Sagan om ringen",
+      "biobesok": 1942799,
+      "ar": 2001,
+      "produktionsland": "USA",
+      "regissor": "Peter Jackson"
+    },
+    {
+      "rankning": 7,
+      "filmtitel": "Tjejen som visste för mycket",
+      "biobesok": 1938114,
+      "ar": 1978,
+      "produktionsland": "USA",
+      "regissor": "Collin Higgins"
+    },
+    {
+      "rankning": 8,
+      "filmtitel": "Åskbollen",
+      "biobesok": 1924422,
+      "ar": 1965,
+      "produktionsland": "Storbritannien",
+      "regissor": "Terence Young"
+    },
+    {
+      "rankning": 9,
+      "filmtitel": "Mamma Mia!",
+      "biobesok": 1905581,
+      "ar": 2008,
+      "produktionsland": "USA",
+      "regissor": "Phyllida Lloyd"
+    },
+    {
+      "rankning": 10,
+      "filmtitel": "Doktor Zjivago",
+      "biobesok": 1869504,
+      "ar": 1965,
+      "produktionsland": "USA",
+      "regissor": "David Lean"
+    },
+    {
+      "rankning": 11,
+      "filmtitel": "Sagan om konungens återkomst",
+      "biobesok": 1836772,
+      "ar": 2003,
+      "produktionsland": "USA",
+      "regissor": "Peter Jackson"
+    },
+    {
+      "rankning": 12,
+      "filmtitel": "Sagan om de två tornen",
+      "biobesok": 1827026,
+      "ar": 2002,
+      "produktionsland": "USA",
+      "regissor": "Peter Jackson"
+    },
+    {
+      "rankning": 13,
+      "filmtitel": "Att angöra en brygga",
+      "biobesok": 1806323,
+      "ar": 1965,
+      "produktionsland": "Sverige",
+      "regissor": "Tage Danielsson"
+    },
+    {
+      "rankning": 14,
+      "filmtitel": "Aristocats",
+      "biobesok": 1771771,
+      "ar": 1971,
+      "produktionsland": "USA",
+      "regissor": "Wolfgang Reitherman"
+    },
+    {
+      "rankning": 15,
+      "filmtitel": "Emil i Lönneberga",
+      "biobesok": 1761557,
+      "ar": 1971,
+      "produktionsland": "Sverige",
+      "regissor": "Olle Hellbom"
+    },
+    {
+      "rankning": 16,
+      "filmtitel": "En man som heter Ove",
+      "biobesok": 1715093,
+      "ar": 2015,
+      "produktionsland": "Sverige",
+      "regissor": "Hannes Holm"
+    },
+    {
+      "rankning": 17,
+      "filmtitel": "Ronja Rövardotter",
+      "biobesok": 1646225,
+      "ar": 1984,
+      "produktionsland": "Sverige",
+      "regissor": "Tage Danielsson"
+    },
+    {
+      "rankning": 18,
+      "filmtitel": "Utvandrarna",
+      "biobesok": 1572047,
+      "ar": 1971,
+      "produktionsland": "Sverige",
+      "regissor": "Jan Troell"
+    },
+    {
+      "rankning": 19,
+      "filmtitel": "Hundraåringen som klev ut genom fönstret och försvann",
+      "biobesok": 1567632,
+      "ar": 2013,
+      "produktionsland": "Sverige",
+      "regissor": "Felix Herngren"
+    },
+    {
+      "rankning": 20,
+      "filmtitel": "Tjorven och Skrållan",
+      "biobesok": 1546078,
+      "ar": 1965,
+      "produktionsland": "Sverige",
+      "regissor": "Olle Hellbom"
+    },
+    {
+      "rankning": 21,
+      "filmtitel": "Pippi Långstrump på de sju haven",
+      "biobesok": 1543549,
+      "ar": 1970,
+      "produktionsland": "Sverige",
+      "regissor": "Olle Hellbom"
+    },
+    {
+      "rankning": 22,
+      "filmtitel": "Sällskapsresan II – Snowroller",
+      "biobesok": 1538958,
+      "ar": 1985,
+      "produktionsland": "Sverige",
+      "regissor": "Lasse Åberg"
+    },
+    {
+      "rankning": 23,
+      "filmtitel": "Picassos äventyr",
+      "biobesok": 1534239,
+      "ar": 1978,
+      "produktionsland": "Sverige",
+      "regissor": "Tage Danielsson"
+    },
+    {
+      "rankning": 24,
+      "filmtitel": "Den ofrivillige golfaren",
+      "biobesok": 1525347,
+      "ar": 1991,
+      "produktionsland": "Sverige",
+      "regissor": "Lasse Åberg"
+    },
+    {
+      "rankning": 25,
+      "filmtitel": "Mazurka på sängkanten",
+      "biobesok": 1520895,
+      "ar": 1970,
+      "produktionsland": "Danmark",
+      "regissor": "John Hilbard"
+    },
+    {
+      "rankning": 26,
+      "filmtitel": "SOS – en segelsällskapsresa",
+      "biobesok": 1502064,
+      "ar": 1988,
+      "produktionsland": "Sverige",
+      "regissor": "Lasse Åberg"
+    },
+    {
+      "rankning": 27,
+      "filmtitel": "Avatar",
+      "biobesok": 1482367,
+      "ar": 2009,
+      "produktionsland": "USA",
+      "regissor": "James Cameron"
+    },
+    {
+      "rankning": 28,
+      "filmtitel": "Örnnästet",
+      "biobesok": 1449966,
+      "ar": 1968,
+      "produktionsland": "Storbritannien",
+      "regissor": "Brian G. Hutton"
+    },
+    {
+      "rankning": 29,
+      "filmtitel": "Repmånad",
+      "biobesok": 1445278,
+      "ar": 1979,
+      "produktionsland": "Sverige",
+      "regissor": "Lasse Åberg"
+    },
+    {
+      "rankning": 30,
+      "filmtitel": "Så som i himmelen",
+      "biobesok": 1434280,
+      "ar": 2004,
+      "produktionsland": "Sverige",
+      "regissor": "Kay Pollak"
+    },
+    {
+      "rankning": 31,
+      "filmtitel": "Äppelkriget",
+      "biobesok": 1403157,
+      "ar": 1971,
+      "produktionsland": "Sverige",
+      "regissor": "Tage Danielsson"
+    },
+    {
+      "rankning": 32,
+      "filmtitel": "Goldfinger",
+      "biobesok": 1386761,
+      "ar": 1965,
+      "produktionsland": "Storbritannien",
+      "regissor": "Guy Hamilton"
+    },
+    {
+      "rankning": 33,
+      "filmtitel": "Pretty Woman",
+      "biobesok": 1380906,
+      "ar": 1990,
+      "produktionsland": "USA",
+      "regissor": "Garry Marshall"
+    },
+    {
+      "rankning": 34,
+      "filmtitel": "Hajen",
+      "biobesok": 1375530,
+      "ar": 1975,
+      "produktionsland": "USA",
+      "regissor": "Steven Spielberg"
+    },
+    {
+      "rankning": 35,
+      "filmtitel": "Jag är nyfiken – en film i gult",
+      "biobesok": 1329721,
+      "ar": 1967,
+      "produktionsland": "Sverige",
+      "regissor": "Vilgot Sjöman"
+    },
+    {
+      "rankning": 36,
+      "filmtitel": "Star Wars: The Force Awakens",
+      "biobesok": 1315228,
+      "ar": 2015,
+      "produktionsland": "USA",
+      "regissor": "J.J. Abrams"
+    },
+    {
+      "rankning": 37,
+      "filmtitel": "Go’dag yxskaft?",
+      "biobesok": 1300617,
+      "ar": 1972,
+      "produktionsland": "USA",
+      "regissor": "Peter Bogdanovich"
+    },
+    {
+      "rankning": 38,
+      "filmtitel": "Kellys hjältar",
+      "biobesok": 1299426,
+      "ar": 1970,
+      "produktionsland": "USA",
+      "regissor": "Brian G. Hutton"
+    },
+    {
+      "rankning": 39,
+      "filmtitel": "Man lever bara två gånger",
+      "biobesok": 1272779,
+      "ar": 1967,
+      "produktionsland": "Storbritannien",
+      "regissor": "Lewis Gilbert"
+    },
+    {
+      "rankning": 40,
+      "filmtitel": "Jakten på den försvunna skatten",
+      "biobesok": 1271416,
+      "ar": 1981,
+      "produktionsland": "USA",
+      "regissor": "Steven Spielberg"
+    },
+    {
+      "rankning": 41,
+      "filmtitel": "E.T. the Extra-Terrestrial",
+      "biobesok": 1266552,
+      "ar": 1982,
+      "produktionsland": "USA",
+      "regissor": "Steven Spielberg"
+    },
+    {
+      "rankning": 42,
+      "filmtitel": "Grease",
+      "biobesok": 1249195,
+      "ar": 1978,
+      "produktionsland": "USA",
+      "regissor": "Randal Kleiser"
+    },
+    {
+      "rankning": 43,
+      "filmtitel": "Soldier Blue",
+      "biobesok": 1245183,
+      "ar": 1970,
+      "produktionsland": "USA",
+      "regissor": "Ralph Nelson"
+    },
+    {
+      "rankning": 44,
+      "filmtitel": "Män som hatar kvinnor",
+      "biobesok": 1217856,
+      "ar": 2009,
+      "produktionsland": "Sverige",
+      "regissor": "Niels Arden Oplev"
+    },
+    {
+      "rankning": 45,
+      "filmtitel": "Sista natten med gänget",
+      "biobesok": 1206272,
+      "ar": 1973,
+      "produktionsland": "USA",
+      "regissor": "George Lucas"
+    },
+    {
+      "rankning": 46,
+      "filmtitel": "Fanny och Alexander",
+      "biobesok": 1205708,
+      "ar": 1983,
+      "produktionsland": "Sverige",
+      "regissor": "Ingmar Bergman"
+    },
+    {
+      "rankning": 47,
+      "filmtitel": "Skönheten och odjuret",
+      "biobesok": 1188619,
+      "ar": 1992,
+      "produktionsland": "USA",
+      "regissor": "Gary Trousdale, Kirk Wise"
+    },
+    {
+      "rankning": 48,
+      "filmtitel": "En ding, ding, ding, ding värld",
+      "biobesok": 1172900,
+      "ar": 1964,
+      "produktionsland": "USA",
+      "regissor": "Stanley Kramer"
+    },
+    {
+      "rankning": 49,
+      "filmtitel": "Släpp fångarne loss – det är vår!",
+      "biobesok": 1168987,
+      "ar": 1975,
+      "produktionsland": "Sverige",
+      "regissor": "Tage Danielsson"
+    },
+    {
+      "rankning": 50,
+      "filmtitel": "Solsidan",
+      "biobesok": 1168552,
+      "ar": 2017,
+      "produktionsland": "Sverige",
+      "regissor": "Felix Herngren, Måns Herngren"
+    },
+    {
+      "rankning": 51,
+      "filmtitel": "Crocodile Dundee – en storviltjägare i New York",
+      "biobesok": 1167948,
+      "ar": 1987,
+      "produktionsland": "Australien",
+      "regissor": "Peter Faiman"
+    },
+    {
+      "rankning": 52,
+      "filmtitel": "Blåsningen",
+      "biobesok": 1164861,
+      "ar": 1974,
+      "produktionsland": "USA",
+      "regissor": "George Roy Hill"
+    },
+    {
+      "rankning": 53,
+      "filmtitel": "Göta kanal",
+      "biobesok": 1159580,
+      "ar": 1981,
+      "produktionsland": "Sverige",
+      "regissor": "Hans Iveberg"
+    },
+    {
+      "rankning": 54,
+      "filmtitel": "Änglagård",
+      "biobesok": 1139701,
+      "ar": 1992,
+      "produktionsland": "Sverige",
+      "regissor": "Colin Nutley"
+    },
+    {
+      "rankning": 55,
+      "filmtitel": "Harry Potter och de vises sten",
+      "biobesok": 1139233,
+      "ar": 2001,
+      "produktionsland": "Storbritannien",
+      "regissor": "Chris Columbus"
+    },
+    {
+      "rankning": 56,
+      "filmtitel": "Pirates of the Caribbean: Död mans kista",
+      "biobesok": 1137751,
+      "ar": 2006,
+      "produktionsland": "USA",
+      "regissor": "Gore Verbinski"
+    },
+    {
+      "rankning": 57,
+      "filmtitel": "Octopussy",
+      "biobesok": 1129889,
+      "ar": 1983,
+      "produktionsland": "Storbritannien",
+      "regissor": "John Glen"
+    },
+    {
+      "rankning": 58,
+      "filmtitel": "Ur kärlekens språk",
+      "biobesok": 1127970,
+      "ar": 1969,
+      "produktionsland": "Sverige",
+      "regissor": "Torgny Wickman"
+    },
+    {
+      "rankning": 59,
+      "filmtitel": "Dansar med vargar",
+      "biobesok": 1126834,
+      "ar": 1991,
+      "produktionsland": "USA",
+      "regissor": "Kevin Costner"
+    },
+    {
+      "rankning": 60,
+      "filmtitel": "Lejonkungen",
+      "biobesok": 1122533,
+      "ar": 2019,
+      "produktionsland": "USA",
+      "regissor": "Jon Favreau"
+    },
+    {
+      "rankning": 61,
+      "filmtitel": "Tjorven och Mysak",
+      "biobesok": 1119436,
+      "ar": 1966,
+      "produktionsland": "Sverige",
+      "regissor": "Olle Hellbom"
+    },
+    {
+      "rankning": 62,
+      "filmtitel": "På rymmen med Pippi Långstrump",
+      "biobesok": 1117252,
+      "ar": 1970,
+      "produktionsland": "Sverige",
+      "regissor": "Olle Hellbom"
+    },
+    {
+      "rankning": 63,
+      "filmtitel": "Amadeus",
+      "biobesok": 1110549,
+      "ar": 1984,
+      "produktionsland": "USA",
+      "regissor": "Miloš Forman"
+    },
+    {
+      "rankning": 64,
+      "filmtitel": "Oh, vilket party!",
+      "biobesok": 1108768,
+      "ar": 1969,
+      "produktionsland": "USA",
+      "regissor": "Blake Edwards"
+    },
+    {
+      "rankning": 65,
+      "filmtitel": "Hobbit: En oväntad resa",
+      "biobesok": 1102327,
+      "ar": 2012,
+      "produktionsland": "USA",
+      "regissor": "Peter Jackson"
+    },
+    {
+      "rankning": 66,
+      "filmtitel": "Emil och griseknoen",
+      "biobesok": 1099020,
+      "ar": 1973,
+      "produktionsland": "Sverige",
+      "regissor": "Olle Hellbom"
+    },
+    {
+      "rankning": 67,
+      "filmtitel": "Robin Hood: Prince of Thieves",
+      "biobesok": 1098457,
+      "ar": 1991,
+      "produktionsland": "USA",
+      "regissor": "Kevin Reynolds"
+    },
+    {
+      "rankning": 68,
+      "filmtitel": "Fyra bröllop och en begravning",
+      "biobesok": 1087350,
+      "ar": 1994,
+      "produktionsland": "Storbritannien",
+      "regissor": "Mike Newell"
+    },
+    {
+      "rankning": 69,
+      "filmtitel": "Indiana Jones och de fördömdas tempel",
+      "biobesok": 1081610,
+      "ar": 1984,
+      "produktionsland": "USA",
+      "regissor": "Steven Spielberg"
+    },
+    {
+      "rankning": 70,
+      "filmtitel": "Skyfall",
+      "biobesok": 1076125,
+      "ar": 2012,
+      "produktionsland": "Storbritannien",
+      "regissor": "Sam Mendes"
+    },
+    {
+      "rankning": 71,
+      "filmtitel": "Stjärnornas krig",
+      "biobesok": 1072837,
+      "ar": 1977,
+      "produktionsland": "USA",
+      "regissor": "George Lucas"
+    },
+    {
+      "rankning": 72,
+      "filmtitel": "Mamma Mia! Here We Go Again",
+      "biobesok": 1071778,
+      "ar": 2018,
+      "produktionsland": "USA",
+      "regissor": "Ol Parker"
+    },
+    {
+      "rankning": 73,
+      "filmtitel": "Leva och låta dö",
+      "biobesok": 1065798,
+      "ar": 1973,
+      "produktionsland": "Storbritannien",
+      "regissor": "Guy Hamilton"
+    },
+    {
+      "rankning": 74,
+      "filmtitel": "Papillon",
+      "biobesok": 1063575,
+      "ar": 1974,
+      "produktionsland": "Frankrike",
+      "regissor": "Franklin J. Schaffner"
+    },
+    {
+      "rankning": 75,
+      "filmtitel": "Aladdin",
+      "biobesok": 1063115,
+      "ar": 1992,
+      "produktionsland": "USA",
+      "regissor": "John Musker, Ron Clements"
+    },
+    {
+      "rankning": 76,
+      "filmtitel": "Hitta Nemo",
+      "biobesok": 1059433,
+      "ar": 2003,
+      "produktionsland": "USA",
+      "regissor": "Andrew Stanton, Lee Unkrich"
+    },
+    {
+      "rankning": 77,
+      "filmtitel": "Frost 2",
+      "biobesok": 1059310,
+      "ar": 2019,
+      "produktionsland": "USA",
+      "regissor": "Chris Buck, Jennifer Lee"
+    },
+    {
+      "rankning": 78,
+      "filmtitel": "Polisskolan",
+      "biobesok": 1058735,
+      "ar": 1984,
+      "produktionsland": "USA",
+      "regissor": "Hugh Wilson"
+    },
+    {
+      "rankning": 79,
+      "filmtitel": "Varning för Jönssonligan",
+      "biobesok": 1057189,
+      "ar": 1981,
+      "produktionsland": "Sverige",
+      "regissor": "Jonas Cornell"
+    },
+    {
+      "rankning": 80,
+      "filmtitel": "Tarzan",
+      "biobesok": 1049308,
+      "ar": 1999,
+      "produktionsland": "USA",
+      "regissor": "Chris Buck, Kevin Lima"
+    },
+    {
+      "rankning": 81,
+      "filmtitel": "Jurassic Park",
+      "biobesok": 1049147,
+      "ar": 1993,
+      "produktionsland": "USA",
+      "regissor": "Steven Spielberg"
+    },
+    {
+      "rankning": 82,
+      "filmtitel": "Den lilla sjöjungfrun",
+      "biobesok": 1040837,
+      "ar": 1990,
+      "produktionsland": "USA",
+      "regissor": "John Musker, Ron Clements"
+    },
+    {
+      "rankning": 83,
+      "filmtitel": "En officer och gentleman",
+      "biobesok": 1039421,
+      "ar": 1982,
+      "produktionsland": "USA",
+      "regissor": "Taylor Hackford"
+    },
+    {
+      "rankning": 84,
+      "filmtitel": "Rain Man",
+      "biobesok": 1036110,
+      "ar": 1989,
+      "produktionsland": "USA",
+      "regissor": "Barry Levinson"
+    },
+    {
+      "rankning": 85,
+      "filmtitel": "Forrest Gump",
+      "biobesok": 1035972,
+      "ar": 1994,
+      "produktionsland": "USA",
+      "regissor": "Robert Zemeckis"
+    },
+    {
+      "rankning": 86,
+      "filmtitel": "Flickan som lekte med elden",
+      "biobesok": 1031169,
+      "ar": 2009,
+      "produktionsland": "Sverige",
+      "regissor": "Daniel Alfredson"
+    },
+    {
+      "rankning": 87,
+      "filmtitel": "Hobbit: Smaugs ödemark",
+      "biobesok": 1025377,
+      "ar": 2013,
+      "produktionsland": "USA",
+      "regissor": "Peter Jackson"
+    },
+    {
+      "rankning": 88,
+      "filmtitel": "Arn – Tempelriddaren",
+      "biobesok": 1023664,
+      "ar": 2007,
+      "produktionsland": "Sverige",
+      "regissor": "Peter Flinth"
+    },
+    {
+      "rankning": 89,
+      "filmtitel": "Kanonerna på Navarone",
+      "biobesok": 1020478,
+      "ar": 1961,
+      "produktionsland": "Storbritannien",
+      "regissor": "J. Lee Thompson"
+    },
+    {
+      "rankning": 90,
+      "filmtitel": "Bullitt",
+      "biobesok": 1018245,
+      "ar": 1968,
+      "produktionsland": "USA",
+      "regissor": "Peter Yates"
+    },
+    {
+      "rankning": 91,
+      "filmtitel": "M*A*S*H",
+      "biobesok": 1001453,
+      "ar": 1970,
+      "produktionsland": "USA",
+      "regissor": "Robert Altman"
+    },
+    {
+      "rankning": 92,
+      "filmtitel": "Berättelsen om Narnia: Häxan och lejonet",
+      "biobesok": 997350,
+      "ar": 2005,
+      "produktionsland": "USA",
+      "regissor": "Andrew Adamson"
+    },
+    {
+      "rankning": 93,
+      "filmtitel": "Älskade spion",
+      "biobesok": 989223,
+      "ar": 1977,
+      "produktionsland": "Storbritannien",
+      "regissor": "Lewis Gilbert"
+    },
+    {
+      "rankning": 94,
+      "filmtitel": "Änglagård – andra sommaren",
+      "biobesok": 985716,
+      "ar": 1994,
+      "produktionsland": "Sverige",
+      "regissor": "Colin Nutley"
+    },
+    {
+      "rankning": 95,
+      "filmtitel": "Dom kallar mej Trinity - djävulens högra hand",
+      "biobesok": 981443,
+      "ar": 1971,
+      "produktionsland": "Italien",
+      "regissor": "E.B. Clucher"
+    },
+    {
+      "rankning": 96,
+      "filmtitel": "Jönssonligan på Mallorca",
+      "biobesok": 979251,
+      "ar": 1989,
+      "produktionsland": "Sverige",
+      "regissor": "Mikael Ekman"
+    },
+    {
+      "rankning": 97,
+      "filmtitel": "Dessa fantastiska män i sina flygande maskiner",
+      "biobesok": 978783,
+      "ar": 1965,
+      "produktionsland": "Storbritannien",
+      "regissor": "Ken Annakin"
+    },
+    {
+      "rankning": 98,
+      "filmtitel": "Gasen i botten, Herbie",
+      "biobesok": 977845,
+      "ar": 1968,
+      "produktionsland": "USA",
+      "regissor": "Robert Stevenson"
+    },
+    {
+      "rankning": 99,
+      "filmtitel": "Grabben i graven bredvid",
+      "biobesok": 976090,
+      "ar": 2002,
+      "produktionsland": "Sverige",
+      "regissor": "Kjell Sundvall"
+    },
+    {
+      "rankning": 100,
+      "filmtitel": "Hobbit: Femhäraslaget",
+      "biobesok": 975001,
+      "ar": 2014,
+      "produktionsland": "USA",
+      "regissor": "Peter Jackson"
+    }
+  ],
+  "meta": {
+    "title": "Mest sedda filmerna på bio i Sverige - Free Download",
+    "description": "De 100 mest sedda filmerna på svenska biografer genom tiderna med antal biobesök, år, produktionsland och regissör. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mest sedda filmerna på bio i Sverige | ListBase",
+    "seo_description": "Download Mest sedda filmerna på bio i Sverige — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_mest_sedda_filmer_i_Sverige"
+    ]
+  }
+}

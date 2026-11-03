@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-03T02:30:00.513Z",
-  "total_datasets": 514,
-  "total_records": 2265959,
+  "generated": "2026-11-03T02:30:07.778Z",
+  "total_datasets": 515,
+  "total_records": 2266059,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "environment",
@@ -747,6 +747,33 @@
         "xlsx": {
           "name": "sv-guldbaggegalor_SV.xlsx",
           "size": 9456
+        }
+      }
+    },
+    {
+      "id": "sv-mest-sedda-filmer-pa-bio",
+      "name": "Mest sedda filmerna på bio i Sverige",
+      "category": "entertainment",
+      "record_count": 100,
+      "columns": [
+        "rankning",
+        "filmtitel",
+        "biobesok",
+        "ar",
+        "produktionsland",
+        "regissor"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_mest_sedda_filmer_i_Sverige",
+      "updated": "2026-11",
+      "size": 21119,
+      "files": {
+        "csv": {
+          "name": "sv-mest-sedda-filmer-pa-bio_SV.csv",
+          "size": 7166
+        },
+        "xlsx": {
+          "name": "sv-mest-sedda-filmer-pa-bio_SV.xlsx",
+          "size": 12356
         }
       }
     },
