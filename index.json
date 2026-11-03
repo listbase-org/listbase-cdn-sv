@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-03T02:30:15.290Z",
-  "total_datasets": 516,
-  "total_records": 2266099,
+  "generated": "2026-11-03T02:30:23.039Z",
+  "total_datasets": 517,
+  "total_records": 2266139,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -574,6 +574,29 @@
         "xlsx": {
           "name": "sv-riksbankschefer_SV.xlsx",
           "size": 7130
+        }
+      }
+    },
+    {
+      "id": "sv-statliga-foretag",
+      "name": "Statliga företag i Sverige",
+      "category": "economy",
+      "record_count": 40,
+      "columns": [
+        "foretag",
+        "kategori"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_statliga_företag_i_Sverige",
+      "updated": "2026-11",
+      "size": 6141,
+      "files": {
+        "csv": {
+          "name": "sv-statliga-foretag_SV.csv",
+          "size": 2913
+        },
+        "xlsx": {
+          "name": "sv-statliga-foretag_SV.xlsx",
+          "size": 7551
         }
       }
     },
