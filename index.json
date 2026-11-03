@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-03T02:30:07.778Z",
-  "total_datasets": 515,
-  "total_records": 2266059,
+  "generated": "2026-11-03T02:30:15.290Z",
+  "total_datasets": 516,
+  "total_records": 2266099,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -1802,6 +1802,29 @@
         "xlsx": {
           "name": "sv-oljekraftverk_SV.xlsx",
           "size": 8373
+        }
+      }
+    },
+    {
+      "id": "sv-sparbanker",
+      "name": "Svenska sparbanker",
+      "category": "finance",
+      "record_count": 40,
+      "columns": [
+        "sparbank",
+        "landskap"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_sparbanker",
+      "updated": "2026-11",
+      "size": 4629,
+      "files": {
+        "csv": {
+          "name": "sv-sparbanker_SV.csv",
+          "size": 1428
+        },
+        "xlsx": {
+          "name": "sv-sparbanker_SV.xlsx",
+          "size": 7625
         }
       }
     },
