@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-03T02:29:44.979Z",
-  "total_datasets": 512,
-  "total_records": 2265777,
+  "generated": "2026-11-03T02:29:53.226Z",
+  "total_datasets": 513,
+  "total_records": 2265934,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -4337,6 +4337,34 @@
         "xlsx": {
           "name": "sv-kravaller_SV.xlsx",
           "size": 8508
+        }
+      }
+    },
+    {
+      "id": "sv-kulturmarkta-bruksfartyg",
+      "name": "Kulturmärkta bruksfartyg i Sverige",
+      "category": "history",
+      "record_count": 157,
+      "columns": [
+        "namn",
+        "signal",
+        "ursprunglig_funktion",
+        "byggar",
+        "varv",
+        "hemmahamn",
+        "material"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_kulturmärkta_bruksfartyg_i_Sverige",
+      "updated": "2026-11",
+      "size": 40548,
+      "files": {
+        "csv": {
+          "name": "sv-kulturmarkta-bruksfartyg_SV.csv",
+          "size": 16047
+        },
+        "xlsx": {
+          "name": "sv-kulturmarkta-bruksfartyg_SV.xlsx",
+          "size": 16306
         }
       }
     },

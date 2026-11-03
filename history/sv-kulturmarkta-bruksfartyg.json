@@ -1,0 +1,1474 @@
+{
+  "id": "sv-kulturmarkta-bruksfartyg",
+  "name": "Kulturmärkta bruksfartyg i Sverige",
+  "title": "Kulturmärkta bruksfartyg i Sverige",
+  "description": "Fartyg som kulturmärkts av Statens maritima och transporthistoriska museer: signal, ursprunglig funktion, byggår, varv, hemmahamn och material.",
+  "category": "history",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_kulturmärkta_bruksfartyg_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_kulturmärkta_bruksfartyg_i_Sverige",
+  "updated": "2026-11",
+  "record_count": 157,
+  "columns": [
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "signal",
+      "label": "Signal",
+      "type": "string"
+    },
+    {
+      "key": "ursprunglig_funktion",
+      "label": "Ursprunglig Funktion",
+      "type": "string"
+    },
+    {
+      "key": "byggar",
+      "label": "Byggar",
+      "type": "number"
+    },
+    {
+      "key": "varv",
+      "label": "Varv",
+      "type": "string"
+    },
+    {
+      "key": "hemmahamn",
+      "label": "Hemmahamn",
+      "type": "string"
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "namn": "Agnes",
+      "signal": "SHOK",
+      "ursprunglig_funktion": "Frakt",
+      "byggar": 1914,
+      "varv": "",
+      "hemmahamn": "Stockholm",
+      "material": "Ek och furu"
+    },
+    {
+      "namn": "Alma af Stafre",
+      "signal": "SFC 2879",
+      "ursprunglig_funktion": "Ångfartyg",
+      "byggar": 1873,
+      "varv": "W. Lindbergs Varvs- och Verkstads AB Stockholm",
+      "hemmahamn": "Stavre",
+      "material": "Stål"
+    },
+    {
+      "namn": "Amalia",
+      "signal": "SEIF",
+      "ursprunglig_funktion": "Segelfartyg, galeas",
+      "byggar": 1899,
+      "varv": "Vikens varv Viken",
+      "hemmahamn": "Nynäshamn",
+      "material": "Ek"
+    },
+    {
+      "namn": "Amber",
+      "signal": "SJTD",
+      "ursprunglig_funktion": "Segelfartyg, galeas",
+      "byggar": 1911,
+      "varv": "Vikens varv Viken",
+      "hemmahamn": "Beckholmen, Stockholm",
+      "material": "Ek och furu"
+    },
+    {
+      "namn": "Angantyr",
+      "signal": "SDCI",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1909,
+      "varv": "Motala verkstad Motala",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Asta av Smögen",
+      "signal": "SHJO",
+      "ursprunglig_funktion": "Fiskefartyg",
+      "byggar": 1916,
+      "varv": "Ringens varv Marstrand",
+      "hemmahamn": "Smögen",
+      "material": "Ek och furu"
+    },
+    {
+      "namn": "Baltic star",
+      "signal": "SIAU",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1953,
+      "varv": "Finnboda Varv Nacka kommun",
+      "hemmahamn": "Sundsvall",
+      "material": "Stål"
+    },
+    {
+      "namn": "Bellman",
+      "signal": "SFDR",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1938,
+      "varv": "Flottsund Uppsala",
+      "hemmahamn": "Stockholm",
+      "material": "Mahogny"
+    },
+    {
+      "namn": "Belone",
+      "signal": "SKGU",
+      "ursprunglig_funktion": "Fiskefartyg, forskningsfartyg",
+      "byggar": 1943,
+      "varv": "Hälleviksstrands Varv & Slip Hälleviksstrand",
+      "hemmahamn": "Fiskebäckskil",
+      "material": "Ek på ekspant"
+    },
+    {
+      "namn": "Björkfjärden",
+      "signal": "SGEO",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1925,
+      "varv": "Eriksbergs Mekaniska Verkstad Göteborg",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Björnen",
+      "signal": "SGHD",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1953,
+      "varv": "Kockums Malmö",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Blidösund",
+      "signal": "SDKG",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1911,
+      "varv": "Eriksbergs Mekaniska Verkstad Göteborg",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Bohuslän",
+      "signal": "SDKM",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1914,
+      "varv": "Eriksbergs Mekaniska Verkstad Göteborg",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Bore",
+      "signal": "SENI",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1903,
+      "varv": "Motala verkstad Motala",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Borgvik",
+      "signal": "SGFU",
+      "ursprunglig_funktion": "Motorfartyg",
+      "byggar": 1875,
+      "varv": "Eriksbergs Mekaniska Verkstad Göteborg",
+      "hemmahamn": "Edane",
+      "material": "Järn/stål"
+    },
+    {
+      "namn": "Boxholm II",
+      "signal": "SGKR",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1904,
+      "varv": "Ljunggrens Verkstads AB Kristianstad",
+      "hemmahamn": "Tranås",
+      "material": "Stål"
+    },
+    {
+      "namn": "Bris Femöre af Wenersborg",
+      "signal": "SELJ",
+      "ursprunglig_funktion": "Segelfartyg, galeas",
+      "byggar": 1910,
+      "varv": "C.O. Christanssons Varv Strömstad",
+      "hemmahamn": "Oxelösund",
+      "material": "Ek och furu på kravell"
+    },
+    {
+      "namn": "Capella",
+      "signal": "SBNV",
+      "ursprunglig_funktion": "Torrlastfartyg",
+      "byggar": 1929,
+      "varv": "Kalmar varv Kalmar",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Constantia",
+      "signal": "SJOE",
+      "ursprunglig_funktion": "Segelfartyg, tvåmastad skonare",
+      "byggar": 1908,
+      "varv": "Niels Hansens Værft Marstal, Danmark",
+      "hemmahamn": "Solna",
+      "material": "Ek och bok"
+    },
+    {
+      "namn": "Dellen",
+      "signal": "Saknar signal",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1861,
+      "varv": "W. Lindbergs Varvs- och Verkstads AB Stockholm",
+      "hemmahamn": "Moviken",
+      "material": "Stål"
+    },
+    {
+      "namn": "Deodar",
+      "signal": "SDUW",
+      "ursprunglig_funktion": "Segelfartyg, ketch",
+      "byggar": 1911,
+      "varv": "Robert Jackman's Shipyard Brixham, Storbritannien",
+      "hemmahamn": "Stockholm",
+      "material": "Ek"
+    },
+    {
+      "namn": "Diana",
+      "signal": "SDRU",
+      "ursprunglig_funktion": "Passagerarfartyg.",
+      "byggar": 1931,
+      "varv": "Finnboda varv Nacka kommun",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Taxibåten Diana",
+      "signal": "SFB 5549",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1964,
+      "varv": "Fisksätra varv Nacka kommun",
+      "hemmahamn": "Stockholm",
+      "material": "Plast"
+    },
+    {
+      "namn": "Djurgården 3",
+      "signal": "SDTK",
+      "ursprunglig_funktion": "Ångfärja",
+      "byggar": 1897,
+      "varv": "Brodins varv Gävle",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Domnarfvet",
+      "signal": "SKYT",
+      "ursprunglig_funktion": "Varpbåt och bogserbåt",
+      "byggar": 1863,
+      "varv": "Södra varvet Stockholm",
+      "hemmahamn": "Borlänge",
+      "material": "Stål"
+    },
+    {
+      "namn": "Drottningholm",
+      "signal": "SHCO",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1909,
+      "varv": "Motala Verkstad Motala",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Dynäs II",
+      "signal": "SIDR",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1910,
+      "varv": "Hernösands Verkstads & Varfs AB Härnösand",
+      "hemmahamn": "Svanö",
+      "material": "Stål"
+    },
+    {
+      "namn": "Edit",
+      "signal": "SHGL",
+      "ursprunglig_funktion": "Fiskebåt",
+      "byggar": 1932,
+      "varv": "Joggesö Karlshamn",
+      "hemmahamn": "Vägga Fiskehamn, Karlshamn",
+      "material": "Ek och fur"
+    },
+    {
+      "namn": "Ejdern",
+      "signal": "SDVM",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1880,
+      "varv": "Göteborgs Mekaniska Verkstad Göteborg",
+      "hemmahamn": "Södertälje",
+      "material": "Stål"
+    },
+    {
+      "namn": "Ekefjord",
+      "signal": "SKAD",
+      "ursprunglig_funktion": "Fiskefartyg",
+      "byggar": 1961,
+      "varv": "Rönnängs varv Rönnäng",
+      "hemmahamn": "Rönnäng",
+      "material": "Ek på ekspant"
+    },
+    {
+      "namn": "Elba",
+      "signal": "SDVU",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1897,
+      "varv": "Brodins varv Gävle",
+      "hemmahamn": "Västerås",
+      "material": "Järn"
+    },
+    {
+      "namn": "Elfkungen",
+      "signal": "SGLO",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1875,
+      "varv": "Bergsunds varv Stockholm",
+      "hemmahamn": "Trollhättan",
+      "material": "Stål"
+    },
+    {
+      "namn": "Ellen",
+      "signal": "SIDM",
+      "ursprunglig_funktion": "Segelfartyg, tvåmastad skonare",
+      "byggar": 1898,
+      "varv": "C. Bom Thurö, Danmark",
+      "hemmahamn": "Stockholm",
+      "material": "Ek"
+    },
+    {
+      "namn": "Emma",
+      "signal": "SHTR",
+      "ursprunglig_funktion": "Segelfartyg, galeas",
+      "byggar": 1900,
+      "varv": "Landskrona Nya Warf AB Landskrona",
+      "hemmahamn": "Stockholm",
+      "material": "Furu på ek"
+    },
+    {
+      "namn": "Engelbrekt",
+      "signal": "SEVZ",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1866,
+      "varv": "Lindholmens varv Göteborg",
+      "hemmahamn": "Leksand",
+      "material": "Stål"
+    },
+    {
+      "namn": "Enköping",
+      "signal": "SEKG",
+      "ursprunglig_funktion": "Motorfartyg",
+      "byggar": 1868,
+      "varv": "Oskarshamns varv Oskarshamn",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Esab IV",
+      "signal": "SKAQ",
+      "ursprunglig_funktion": "Verkstadsbåt och bogserbåt",
+      "byggar": 1920,
+      "varv": "ESAB Göteborg",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Flora",
+      "signal": "SIVC",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1897,
+      "varv": "Kristinehamns Mekaniska Werkstad Kristinehamn",
+      "hemmahamn": "Nynäshamn",
+      "material": "Stål"
+    },
+    {
+      "namn": "Flottisten",
+      "signal": "SIYR",
+      "ursprunglig_funktion": "Varpbåt och bogserbåt",
+      "byggar": 1890,
+      "varv": "Hernösands Verkstads & Varfs AB Härnösand",
+      "hemmahamn": "Rättvik",
+      "material": "Stål"
+    },
+    {
+      "namn": "Freja af Fryken",
+      "signal": "SHJI",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1869,
+      "varv": "Motala Verkstad Motala",
+      "hemmahamn": "Fryksta",
+      "material": "Stål"
+    },
+    {
+      "namn": "Fritz",
+      "signal": "SGPW",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1908,
+      "varv": "Lundby mekaniska verkstad Göteborg",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Fryken",
+      "signal": "SDIE",
+      "ursprunglig_funktion": "Lastfartyg",
+      "byggar": 1938,
+      "varv": "Aalborg Værft Ålborg, Danmark",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Färjan 4",
+      "signal": "SEID",
+      "ursprunglig_funktion": "Ångfärja",
+      "byggar": 1920,
+      "varv": "Motala Verkstad Motala",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Gerda",
+      "signal": "SFC 4960",
+      "ursprunglig_funktion": "Ångslup för passagerartrafik",
+      "byggar": 1865,
+      "varv": "Lindholmens varv Göteborg",
+      "hemmahamn": "Eskilstuna",
+      "material": "Stål"
+    },
+    {
+      "namn": "Gerdt",
+      "signal": "SFC 5110",
+      "ursprunglig_funktion": "Varpbåt och bogserbåt",
+      "byggar": 1904,
+      "varv": "Hernösands Verkstads & Varfs AB Härnösand",
+      "hemmahamn": "Leksand",
+      "material": "Stål"
+    },
+    {
+      "namn": "Gratitude",
+      "signal": "SDIG",
+      "ursprunglig_funktion": "Segelfartyg, ketch",
+      "byggar": "1903.",
+      "varv": "Kitto & Son Portleven, Storbritannien",
+      "hemmahamn": "Göteborg",
+      "material": "Ek"
+    },
+    {
+      "namn": "Gunhild af Lidingö",
+      "signal": "SIPM",
+      "ursprunglig_funktion": "Segelfartyg",
+      "byggar": 1905,
+      "varv": "Sjötorps varv Sjötorp",
+      "hemmahamn": "Stockholm",
+      "material": "Ek och furu på kravell"
+    },
+    {
+      "namn": "Gustaf Wasa",
+      "signal": "SENR",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1876,
+      "varv": "Stockholm, Stora Varvet Stockholm",
+      "hemmahamn": "Leksand",
+      "material": "Stål"
+    },
+    {
+      "namn": "Hamnfärjan II",
+      "signal": "SFB-7121",
+      "ursprunglig_funktion": "Färja",
+      "byggar": 1948,
+      "varv": "Gösta Johanssons varv Kungsviken, Marstrand",
+      "hemmahamn": "Marstrand",
+      "material": "Ek"
+    },
+    {
+      "namn": "Harge",
+      "signal": "SLU 77",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1907,
+      "varv": "C J Wennbergs Mekaniska Verkstad Karlstad",
+      "hemmahamn": "Karlstad",
+      "material": "Stål"
+    },
+    {
+      "namn": "Harry",
+      "signal": "SGVU",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1887,
+      "varv": "AB Atlas Gävle",
+      "hemmahamn": "Lysekil",
+      "material": "Stål"
+    },
+    {
+      "namn": "Hebe",
+      "signal": "SFB 7528",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1876,
+      "varv": "W. Lindbergs Varvs- och Verkstads AB Stockholm",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Heimdal",
+      "signal": "SGRD",
+      "ursprunglig_funktion": "Lotsbåt",
+      "byggar": 1932,
+      "varv": "Ringens varv, Marstrand",
+      "hemmahamn": "Smögen",
+      "material": "Ek och teak"
+    },
+    {
+      "namn": "Helene",
+      "signal": "SITM",
+      "ursprunglig_funktion": "Segelfartyg, galeas.",
+      "byggar": 1916,
+      "varv": "Ystads Skeppsvarv Ystad",
+      "hemmahamn": "Ystad",
+      "material": "Ek och furu på kravell"
+    },
+    {
+      "namn": "Helmi",
+      "signal": "SLJV",
+      "ursprunglig_funktion": "Segelfartyg, sandkil, jaktrigg",
+      "byggar": 1880,
+      "varv": "Erik Andersson Svartlöga",
+      "hemmahamn": "Blidö",
+      "material": "Trä"
+    },
+    {
+      "namn": "Herbert",
+      "signal": "SFC 2748",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1905,
+      "varv": "Eriksbergs Mekaniska Verkstad Göteborg",
+      "hemmahamn": "Alingsås",
+      "material": "Stål"
+    },
+    {
+      "namn": "Herkules",
+      "signal": "SLHO",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1939,
+      "varv": "Öresundsvarvet Landskrona",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Hulda",
+      "signal": "SIVW",
+      "ursprunglig_funktion": "Segelfartyg, tvåmastad skonare",
+      "byggar": 1905,
+      "varv": "Sjötorps varv Sjötorp",
+      "hemmahamn": "Drottningholm",
+      "material": "Ek och furu på kravell"
+    },
+    {
+      "namn": "Ilse",
+      "signal": "TJB 532",
+      "ursprunglig_funktion": "Tjänstebåt, gaffelriggad koster",
+      "byggar": 1908,
+      "varv": "Jesper Andersson & H Hanssons varv Göteborg",
+      "hemmahamn": "Fjällbacka",
+      "material": "Ek"
+    },
+    {
+      "namn": "Ingo",
+      "signal": "SIXW",
+      "ursprunglig_funktion": "Segelfartyg, tremastad skonare",
+      "byggar": 1922,
+      "varv": "Sjötorps varv Sjötorp",
+      "hemmahamn": "Göteborg",
+      "material": "Ek och furu"
+    },
+    {
+      "namn": "Isbrytaren Bore",
+      "signal": "SELA",
+      "ursprunglig_funktion": "Isbrytare",
+      "byggar": 1894,
+      "varv": "Kockums Malmö",
+      "hemmahamn": "Malmö",
+      "material": "Stål"
+    },
+    {
+      "namn": "Isolda",
+      "signal": "SMBE",
+      "ursprunglig_funktion": "Segelfartyg, tremastad skonare",
+      "byggar": 1902,
+      "varv": "Lödöse varv Lilla Edet",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "John Jennings",
+      "signal": "SHMA",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1920,
+      "varv": "C J Wennbergs Mekaniska Verkstad Karlstad",
+      "hemmahamn": "Kalmar",
+      "material": "Stål"
+    },
+    {
+      "namn": "Juno",
+      "signal": "SFCD",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1874,
+      "varv": "Motala Verkstad Motala",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Justus",
+      "signal": "SEVI",
+      "ursprunglig_funktion": "Segelfartyg, sjöräddningskryssare",
+      "byggar": 1920,
+      "varv": "Fridhems varv Lysekil",
+      "hemmahamn": "Visby",
+      "material": "Ek"
+    },
+    {
+      "namn": "Jägaren",
+      "signal": "SBAQ",
+      "ursprunglig_funktion": "Patrullbåt",
+      "byggar": 1972,
+      "varv": "Bergens Mekaniske Verksteder Norge",
+      "hemmahamn": "Gålö, Stockholm",
+      "material": "Stål & plastlaminat (bl a däckshus)"
+    },
+    {
+      "namn": "Kalmarsund",
+      "signal": "SCAR",
+      "ursprunglig_funktion": "Minutläggare",
+      "byggar": 1953,
+      "varv": "Stockholms örlogsvarv Stockholm",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Kalmarsund VIII",
+      "signal": "SMCN",
+      "ursprunglig_funktion": "Bilfärja",
+      "byggar": 1963,
+      "varv": "Kalmar varv Kalmar",
+      "hemmahamn": "Färjestaden",
+      "material": "Stål"
+    },
+    {
+      "namn": "Klara Marie",
+      "signal": "SDQV",
+      "ursprunglig_funktion": "Segelfartyg, tvåmastad skonare",
+      "byggar": 1884,
+      "varv": "Rönne Bornholm",
+      "hemmahamn": "Skillinge",
+      "material": "Ek"
+    },
+    {
+      "namn": "Korsön",
+      "signal": "SGAR",
+      "ursprunglig_funktion": "Motorfartyg",
+      "byggar": 1939,
+      "varv": "Landskrona",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Kuriren",
+      "signal": "SJLT",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1874,
+      "varv": "Göteborgs Mekaniska Verkstad Göteborg",
+      "hemmahamn": "Smedjebacken",
+      "material": "Stål"
+    },
+    {
+      "namn": "Kvartsita",
+      "signal": "SLOY",
+      "ursprunglig_funktion": "Segelfartyg, tvåmastad skonare",
+      "byggar": 1945,
+      "varv": "Holms varv Råå",
+      "hemmahamn": "Grundsund",
+      "material": "Ek och furu"
+    },
+    {
+      "namn": "Laban",
+      "signal": "Saknar signal",
+      "ursprunglig_funktion": "Tjänstebåt",
+      "byggar": 1958,
+      "varv": "Dockstavarvet Kramfors",
+      "hemmahamn": "Lysekil",
+      "material": "Trä, ek"
+    },
+    {
+      "namn": "Libra af Stockholm",
+      "signal": "SLJQ",
+      "ursprunglig_funktion": "Motorseglare",
+      "byggar": 1934,
+      "varv": "Karlstads varv Karlstad",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Linnéa",
+      "signal": "SJEO",
+      "ursprunglig_funktion": "Segelfartyg, tvåmastad skonare",
+      "byggar": 1915,
+      "varv": "Sjötorps varv Sjötorp",
+      "hemmahamn": "Gamleby",
+      "material": "Ek och furu på kravell"
+    },
+    {
+      "namn": "Lord Nelson",
+      "signal": "SJEW",
+      "ursprunglig_funktion": "Segelfartyg, ketch",
+      "byggar": 1885,
+      "varv": "Smith & Stephanson Grimsby, Storbritannien",
+      "hemmahamn": "Strömstad",
+      "material": "Ek"
+    },
+    {
+      "namn": "M20",
+      "signal": "SBZM",
+      "ursprunglig_funktion": "Minsvepare",
+      "byggar": 1941,
+      "varv": "Neglingevarvet Saltsjöbaden",
+      "hemmahamn": "Stockholm",
+      "material": "Skrov av hondurasmahogny, däckshus av aluminium"
+    },
+    {
+      "namn": "M21-Saga",
+      "signal": "SBZO",
+      "ursprunglig_funktion": "Minsvepare",
+      "byggar": 1941,
+      "varv": "Norrköpings varv Norrköping",
+      "hemmahamn": "Stockholm",
+      "material": "Mahogny på stålspant, ek i köl och akterstäv"
+    },
+    {
+      "namn": "Malmö",
+      "signal": "SMYL",
+      "ursprunglig_funktion": "Tjänstefartyg",
+      "byggar": 1943,
+      "varv": "Helsingborgs varv Helsingborg",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Mariana",
+      "signal": "SFB 6783",
+      "ursprunglig_funktion": "tidigare tullkryssare",
+      "byggar": 1924,
+      "varv": "Bröderna Larssons varv Kristinehamn",
+      "hemmahamn": "Årstaviken, Stockholm",
+      "material": "Mahogny"
+    },
+    {
+      "namn": "Marianne",
+      "signal": "SFLK",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1897,
+      "varv": "Eriksbergs Mekaniska Verkstad Göteborg",
+      "hemmahamn": "Gullspång",
+      "material": "Stål"
+    },
+    {
+      "namn": "Mariefred",
+      "signal": "SFLE",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1903,
+      "varv": "Södra Varvet Stockholm",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Marieholm",
+      "signal": "SCBG",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1934,
+      "varv": "Odense Staalskibsværft Odense, Danmark",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Mina",
+      "signal": "SJIU",
+      "ursprunglig_funktion": "Segelfartyg, galeas",
+      "byggar": 1876,
+      "varv": "Byggd på Fågelö gård Torsö",
+      "hemmahamn": "Lidköping",
+      "material": "Ek och furu"
+    },
+    {
+      "namn": "Motala Express",
+      "signal": "SFOD",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1895,
+      "varv": "Jönköpings Mekaniska Verkstad Jönköping",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Munter",
+      "signal": "SFC 9698",
+      "ursprunglig_funktion": "Ångslup",
+      "byggar": 1879,
+      "varv": "Lidköpings Mekaniska Verkstad Lidköping",
+      "hemmahamn": "Vrena",
+      "material": "Stål"
+    },
+    {
+      "namn": "Mälaren",
+      "signal": "SMNO",
+      "ursprunglig_funktion": "Fiskefartyg",
+      "byggar": 1943,
+      "varv": "Knippla skeppsvarv Källö-Knippla",
+      "hemmahamn": "Stockholm",
+      "material": "Ek"
+    },
+    {
+      "namn": "Mälarö",
+      "signal": "SFB 5339",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1922,
+      "varv": "Thorskogs varv Lilla Edet",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Nalle",
+      "signal": "SMUO",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1923,
+      "varv": "Oskarshamns mekaniska verkstad Oskarshamn",
+      "hemmahamn": "Oskarshamn",
+      "material": "Stål"
+    },
+    {
+      "namn": "Nordvåg",
+      "signal": "SKRM",
+      "ursprunglig_funktion": "Fiskefartyg",
+      "byggar": 1962,
+      "varv": "Bröderna Olssons Båtvarv Skredsvik",
+      "hemmahamn": "Träslövsläge",
+      "material": "Ek och furu på kravell"
+    },
+    {
+      "namn": "Norrskär",
+      "signal": "SGFD",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1910,
+      "varv": "Eriksbergs Mekaniska Verkstad Göteborg",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Norrtelje",
+      "signal": "SFUD",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1899,
+      "varv": "Södra Varvet Stockholm",
+      "hemmahamn": "Norrtälje",
+      "material": "Stål"
+    },
+    {
+      "namn": "Old Spero",
+      "signal": "SFIH",
+      "ursprunglig_funktion": "Motorfartyg",
+      "byggar": 1949,
+      "varv": "Rönnängsvarv Rönnäng",
+      "hemmahamn": "Stockholm",
+      "material": "Ek"
+    },
+    {
+      "namn": "Olof Trätälja",
+      "signal": "SFWE",
+      "ursprunglig_funktion": "Lastmotorfartyg",
+      "byggar": 1879,
+      "varv": "Thorskogs Mekaniska Verkstad Lilla Edet",
+      "hemmahamn": "Kalmar",
+      "material": "Stål"
+    },
+    {
+      "namn": "Orion",
+      "signal": "SMYF",
+      "ursprunglig_funktion": "Tjänstefartyg",
+      "byggar": 1929,
+      "varv": "Helsingborgs Varv Helsingborg",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Paddan 4",
+      "signal": "SFQD",
+      "ursprunglig_funktion": "Sightseeingbåt",
+      "byggar": 1947,
+      "varv": "Sjötorps varv Sjötorp",
+      "hemmahamn": "Göteborg",
+      "material": "ek, fur, lärk, stålspant"
+    },
+    {
+      "namn": "Pamela",
+      "signal": "SHGR",
+      "ursprunglig_funktion": "Fiskefartyg, fraktfartyg",
+      "byggar": 1916,
+      "varv": "Bröderna Olssons Båtvarv Skredsvik",
+      "hemmahamn": "Ekenäs",
+      "material": "Ek och furu"
+    },
+    {
+      "namn": "Polstjärnan",
+      "signal": "SMVR",
+      "ursprunglig_funktion": "Tjänstefartyg",
+      "byggar": 1929,
+      "varv": "Lindholmens varv Göteborg",
+      "hemmahamn": "Karlstad",
+      "material": "Stål"
+    },
+    {
+      "namn": "Primus",
+      "signal": "SJKQ",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1875,
+      "varv": "W. Lindbergs Varvs- och Verkstads AB Stockholm",
+      "hemmahamn": "Sundsvall",
+      "material": "Stål"
+    },
+    {
+      "namn": "Rex",
+      "signal": "SJIH",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1902,
+      "varv": "Thorskogs Mekaniska Verkstad Lilla Edet",
+      "hemmahamn": "Torshälla",
+      "material": "Stål"
+    },
+    {
+      "namn": "Robert",
+      "signal": "SLU 36",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1866,
+      "varv": "Bergsunds Varv Stockholm",
+      "hemmahamn": "Södertälje",
+      "material": "Stål"
+    },
+    {
+      "namn": "Rolf",
+      "signal": "SJOM",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1904,
+      "varv": "Thorskogs Mekaniska Verkstad Lilla Edet",
+      "hemmahamn": "Säffle",
+      "material": "Stål"
+    },
+    {
+      "namn": "Runn",
+      "signal": "SFB-7732",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1908,
+      "varv": "C. J. Wennbergs mekaniska verkstad Karlstad",
+      "hemmahamn": "Smedjebacken",
+      "material": "Stålskrov, salongsöverbyggnad i trä"
+    },
+    {
+      "namn": "Rödlöga",
+      "signal": "SFTX",
+      "ursprunglig_funktion": "Passagerfartyg",
+      "byggar": 1951,
+      "varv": "Gustavsson & Anderssons varv Lidingö",
+      "hemmahamn": "Österskär, Åkersberga",
+      "material": "Lättmetall"
+    },
+    {
+      "namn": "S:t Erik af Göteborg",
+      "signal": "SGFI",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1881,
+      "varv": "Lindholmens varv Göteborg",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Sandö",
+      "signal": "LL158",
+      "ursprunglig_funktion": "Fiskefartyg",
+      "byggar": 1948,
+      "varv": "Rönnängs varv Rönnäng",
+      "hemmahamn": "Grundsund",
+      "material": "Trä"
+    },
+    {
+      "namn": "Sankt Erik",
+      "signal": "SHRA",
+      "ursprunglig_funktion": "Isbrytare",
+      "byggar": 1915,
+      "varv": "Finnboda varv Stockholm",
+      "hemmahamn": "Stockholm",
+      "material": "Stål och järn"
+    },
+    {
+      "namn": "Sarpen",
+      "signal": "SILJ",
+      "ursprunglig_funktion": "Segelfartyg, galeas",
+      "byggar": 1892,
+      "varv": "Nykøbing Falster Danmark",
+      "hemmahamn": "Simrishamn",
+      "material": "Ek och furu på kravell"
+    },
+    {
+      "namn": "Sigvard",
+      "signal": "254",
+      "ursprunglig_funktion": "Motorvarpbåt",
+      "byggar": 1955,
+      "varv": "Lidwall & Söner Leksand",
+      "hemmahamn": "Leksand",
+      "material": "Stål"
+    },
+    {
+      "namn": "Siljan",
+      "signal": "SGLX",
+      "ursprunglig_funktion": "Varpbåt",
+      "byggar": 1868,
+      "varv": "W. Lindbergs Varvs- och Verkstads AB Stockholm",
+      "hemmahamn": "Insjön",
+      "material": "Stål"
+    },
+    {
+      "namn": "Singapore",
+      "signal": "SEXO",
+      "ursprunglig_funktion": "Fiskefartyg",
+      "byggar": 1961,
+      "varv": "Farsunds Träskibsbyggeri Farsund, Norge",
+      "hemmahamn": "Stockholm",
+      "material": "Ek"
+    },
+    {
+      "namn": "Sjöfröken",
+      "signal": "SDLW",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1875,
+      "varv": "Motala verkstad Motala",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Soten",
+      "signal": "SGYE",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1915,
+      "varv": "Wennbergs Mekaniska Verkstad Karlstad",
+      "hemmahamn": "Smögen",
+      "material": "Stål"
+    },
+    {
+      "namn": "Spica (T121)",
+      "signal": "SHBF",
+      "ursprunglig_funktion": "Torpedbåt",
+      "byggar": 1966,
+      "varv": "Götaverken Göteborg",
+      "hemmahamn": "Gålö",
+      "material": "Skrov och däck av stål, överbyggnader av aluminium"
+    },
+    {
+      "namn": "Sprängaren",
+      "signal": "SIMV",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1918,
+      "varv": "Motala Verkstad Motala",
+      "hemmahamn": "Gålö",
+      "material": "Stål"
+    },
+    {
+      "namn": "Stegeholm",
+      "signal": "SFB-5899",
+      "ursprunglig_funktion": "Sightseeingbåt",
+      "byggar": 1950,
+      "varv": "Rosättra Båtvarv Norrtälje",
+      "hemmahamn": "Stockholm",
+      "material": "Mahogny"
+    },
+    {
+      "namn": "Stockholm av Göteborg",
+      "signal": "SMYP",
+      "ursprunglig_funktion": "Tjänstefartyg",
+      "byggar": 1953,
+      "varv": "Helsingborgs varv Helsingborg",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Stormprincess",
+      "signal": "SHAO",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1908,
+      "varv": "Wilhelmsbergs Mekaniska Verkstad Göteborg",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Storskär",
+      "signal": "SGPD",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1908,
+      "varv": "Lindholmens Mekaniska Verkstad Göteborg",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Strand",
+      "signal": "SJID",
+      "ursprunglig_funktion": "Ångbogserare",
+      "byggar": 1890,
+      "varv": "Bolinders Stockholm",
+      "hemmahamn": "Motala",
+      "material": "Stål"
+    },
+    {
+      "namn": "Sunbeam",
+      "signal": "SDCA",
+      "ursprunglig_funktion": "Segelfartyg, ketch",
+      "byggar": 1905,
+      "varv": "Lowestoft Storbritannien",
+      "hemmahamn": "Stockholm",
+      "material": "Ek och furu"
+    },
+    {
+      "namn": "Sunnan",
+      "signal": "SIAG",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1968,
+      "varv": "Marimatic Östhammar",
+      "hemmahamn": "Stockholm",
+      "material": "Lättmetall"
+    },
+    {
+      "namn": "Svanen West",
+      "signal": "SFNZ",
+      "ursprunglig_funktion": "Fiskefartyg",
+      "byggar": 1950,
+      "varv": "Holms varv Råå",
+      "hemmahamn": "Marstrand",
+      "material": "Ek och bok"
+    },
+    {
+      "namn": "Svanevik",
+      "signal": "SFXO",
+      "ursprunglig_funktion": "Segelfartyg, galjot",
+      "byggar": 1914,
+      "varv": "Jac Smit Sappemeer Nederländerna",
+      "hemmahamn": "Stockholm",
+      "material": "Stål på klink"
+    },
+    {
+      "namn": "Svanö",
+      "signal": "SFC 5663",
+      "ursprunglig_funktion": "Passagerarslup, bogserbåt",
+      "byggar": 1885,
+      "varv": "Atlas Varvet Gävle",
+      "hemmahamn": "Lännersta, Nacka",
+      "material": "Järn"
+    },
+    {
+      "namn": "Sven",
+      "signal": "SJPD",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1897,
+      "varv": "Götaverken Göteborg",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "T26",
+      "signal": "SLPC",
+      "ursprunglig_funktion": "Motortorpedbåt",
+      "byggar": 1942,
+      "varv": "Kockums Malmö",
+      "hemmahamn": "Gålö",
+      "material": "Stål och aluminium"
+    },
+    {
+      "namn": "T38",
+      "signal": "SLXD",
+      "ursprunglig_funktion": "Motortorpedbåt",
+      "byggar": 1951,
+      "varv": "Kockums Malmö",
+      "hemmahamn": "Karlskrona",
+      "material": "Stål och aluminiumplåt"
+    },
+    {
+      "namn": "T46",
+      "signal": "SMAX",
+      "ursprunglig_funktion": "Motortorpedbåt",
+      "byggar": 1957,
+      "varv": "Kockums Malmö",
+      "hemmahamn": "Gålö",
+      "material": "Stål och aluminium"
+    },
+    {
+      "namn": "T56",
+      "signal": "SLWM",
+      "ursprunglig_funktion": "Motortorpedbåt",
+      "byggar": 1957,
+      "varv": "Stockholms örlogsvarv Stockholm",
+      "hemmahamn": "Gålö",
+      "material": "Stål"
+    },
+    {
+      "namn": "Tingvalla",
+      "signal": "SFRH",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1920,
+      "varv": "C J Wennbergs Mekaniska Verkstad Karlstad",
+      "hemmahamn": "Karlstad",
+      "material": "Stål"
+    },
+    {
+      "namn": "Trafik",
+      "signal": "SGYK",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1892,
+      "varv": "Bergsunds Mekaniska Verkstad Stockholm",
+      "hemmahamn": "Hjo",
+      "material": "Stål"
+    },
+    {
+      "namn": "Tranan",
+      "signal": "SFYW",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1935,
+      "varv": "Helsingør Jernskibs- og Maskinbyggeri Helsingör",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Tv 12",
+      "signal": "Saknar signal",
+      "ursprunglig_funktion": "Tjänstefartyg, tullkryssare",
+      "byggar": 1924,
+      "varv": "Lundin och Johanssons varv (Önnereds varv) Göteborg",
+      "hemmahamn": "Svanesund",
+      "material": "Mahogny, ek och fur"
+    },
+    {
+      "namn": "Tärnan af Karlstad",
+      "signal": "SHIQ",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1896,
+      "varv": "Karlstads Mekaniska Verkstad Karlstad",
+      "hemmahamn": "Strömsund",
+      "material": "Stål"
+    },
+    {
+      "namn": "Tärnan av Waxholm",
+      "signal": "SDHE",
+      "ursprunglig_funktion": "Passagerarångslup",
+      "byggar": 1901,
+      "varv": "Södra Varvet Stockholm",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Vega",
+      "signal": "SKQG",
+      "ursprunglig_funktion": "Segelfartyg, tremastad skonare",
+      "byggar": 1909,
+      "varv": "Vikens varv Viken",
+      "hemmahamn": "Gamleby",
+      "material": "Ek och furu på kravell"
+    },
+    {
+      "namn": "Vertrouwen",
+      "signal": "SKCI",
+      "ursprunglig_funktion": "Segelfartyg, tjalk",
+      "byggar": 1910,
+      "varv": "A. Smith, Groningen Nederländerna",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Westkust",
+      "signal": "SHGI",
+      "ursprunglig_funktion": "Segelfartyg, tremastad skonare",
+      "byggar": 1932,
+      "varv": "Sjötorps varv Sjötorp",
+      "hemmahamn": "Edshultshall",
+      "material": "Ek och furu"
+    },
+    {
+      "namn": "Vinö",
+      "signal": "ON 108/VK 108",
+      "ursprunglig_funktion": "Fiske- och transportbåt",
+      "byggar": 1950,
+      "varv": "bröderna Kellgrens båtbyggeri på Vinö Oskarshamns kommun",
+      "hemmahamn": "Stockholm",
+      "material": "Ek"
+    },
+    {
+      "namn": "Wilhelm Tham",
+      "signal": "SHIG",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1912,
+      "varv": "Motala Verkstad Motala",
+      "hemmahamn": "Göteborg",
+      "material": "Stål"
+    },
+    {
+      "namn": "Västan",
+      "signal": "SFUK",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1900,
+      "varv": "Motala Verkstad Motala",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Ymer",
+      "signal": "Saknar signal",
+      "ursprunglig_funktion": "Lotsbåt",
+      "byggar": 1934,
+      "varv": "Östhammars båtvarv Östhammar",
+      "hemmahamn": "Härnösand",
+      "material": "Ek på stålspant"
+    },
+    {
+      "namn": "Ystad (T142)",
+      "signal": "SCLV",
+      "ursprunglig_funktion": "Torpedbåt/Robotbåt",
+      "byggar": 1976,
+      "varv": "Karlskronavarvet Karlskrona",
+      "hemmahamn": "Gålö, Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Årås",
+      "signal": "Saknar signal",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1917,
+      "varv": "Thorskogs varv Lilla Edet",
+      "hemmahamn": "Askersund",
+      "material": "Stål"
+    },
+    {
+      "namn": "Örnen",
+      "signal": "SKOT",
+      "ursprunglig_funktion": "Bogserbåt",
+      "byggar": 1903,
+      "varv": "Lundby mekaniska verkstad Göteborg",
+      "hemmahamn": "Västerås",
+      "material": "Stål"
+    },
+    {
+      "namn": "Östa",
+      "signal": "SJFE",
+      "ursprunglig_funktion": "Varpbåt och bogserbåt",
+      "byggar": 1898,
+      "varv": "Gefle Varv Gävle",
+      "hemmahamn": "Åkersberga",
+      "material": "Stål"
+    },
+    {
+      "namn": "Östanå I",
+      "signal": "SHND",
+      "ursprunglig_funktion": "Motorfartyg",
+      "byggar": 1906,
+      "varv": "Bergsunds varv Stockholm",
+      "hemmahamn": "Stockholm",
+      "material": "Stål"
+    },
+    {
+      "namn": "Östersund",
+      "signal": "SHNM",
+      "ursprunglig_funktion": "Passagerarångfartyg",
+      "byggar": 1874,
+      "varv": "Oskarshamns mekaniska verkstad Oskarshamn",
+      "hemmahamn": "Östersund",
+      "material": "Stål"
+    },
+    {
+      "namn": "Af Grebbestad",
+      "signal": "SFVW",
+      "ursprunglig_funktion": "Flodspruta",
+      "byggar": 1880,
+      "varv": "Ljusne mekaniska verkstad",
+      "hemmahamn": "Köpenhamn",
+      "material": "Stål"
+    },
+    {
+      "namn": "Hawila",
+      "signal": "SLFU",
+      "ursprunglig_funktion": "Segelfartyg",
+      "byggar": 1935,
+      "varv": "Lindstøl varv, Risør Norge",
+      "hemmahamn": "Holbæk, Danmark",
+      "material": "Ek och furu"
+    },
+    {
+      "namn": "Hoppet af Saltvik",
+      "signal": "SKVI",
+      "ursprunglig_funktion": "Segelfartyg",
+      "byggar": "1926-27",
+      "varv": "Spithamn, Estland",
+      "hemmahamn": "Haapsalu, Estland",
+      "material": "fur och lärk"
+    },
+    {
+      "namn": "Marion",
+      "signal": "SFKG/10415/LL 325",
+      "ursprunglig_funktion": "Fiskefartyg",
+      "byggar": 1963,
+      "varv": "Löfallstrand, Hardangerfjord, Norge",
+      "hemmahamn": "Kungshamn",
+      "material": "ek"
+    },
+    {
+      "namn": "Selma af Djurgården",
+      "signal": "13462",
+      "ursprunglig_funktion": "Sjöräddningskryssare",
+      "byggar": 1959,
+      "varv": "Djurgårdsvarvet Stockholm",
+      "hemmahamn": "",
+      "material": "Stål"
+    },
+    {
+      "namn": "Thomée",
+      "signal": "SGVM",
+      "ursprunglig_funktion": "Passagerarfartyg",
+      "byggar": 1875,
+      "varv": "Motala verkstad monterad vid Revsundssjön",
+      "hemmahamn": "Östersund",
+      "material": "Stål"
+    },
+    {
+      "namn": "Tunia",
+      "signal": "SERI",
+      "ursprunglig_funktion": "Fraktfartyg",
+      "byggar": 1906,
+      "varv": "Ekensbergs varv Stockholm",
+      "hemmahamn": "Södertälje",
+      "material": "Stål"
+    },
+    {
+      "namn": "Virgo",
+      "signal": "SFHL",
+      "ursprunglig_funktion": "Fiskefartyg",
+      "byggar": 1926,
+      "varv": "Bröderna Olssons Båtvarv Skredsvik",
+      "hemmahamn": "Strömstad",
+      "material": "Ek"
+    }
+  ],
+  "meta": {
+    "title": "Kulturmärkta bruksfartyg i Sverige - Free Download",
+    "description": "Fartyg som kulturmärkts av Statens maritima och transporthistoriska museer: signal, ursprunglig funktion, byggår, varv, hemmahamn och material. Contains 157 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kulturmärkta bruksfartyg i Sverige | ListBase",
+    "seo_description": "Download Kulturmärkta bruksfartyg i Sverige — 157 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 157 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_kulturmärkta_bruksfartyg_i_Sverige"
+    ]
+  }
+}
