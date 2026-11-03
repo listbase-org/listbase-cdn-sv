@@ -1,0 +1,196 @@
+{
+  "id": "sv-landskapsratter",
+  "name": "Landskapsrätter i Sverige",
+  "title": "Landskapsrätter i Sverige",
+  "description": "Sveriges landskapsrätter per landskap enligt Sveriges Kökschefers Förening (1999), enligt Ica och enligt andra källor.",
+  "category": "food",
+  "source": "https://sv.wikipedia.org/wiki/Landskapsrätter_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Landskapsrätter_i_Sverige",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "landskap",
+      "label": "Landskap",
+      "type": "string"
+    },
+    {
+      "key": "landskapsratt_skf_1999",
+      "label": "Landskapsratt Skf 1999",
+      "type": "string"
+    },
+    {
+      "key": "landskapsratt_ica",
+      "label": "Landskapsratt Ica",
+      "type": "string"
+    },
+    {
+      "key": "landskapsratt_andra",
+      "label": "Landskapsratt Andra",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "landskap": "Blekinge",
+      "landskapsratt_skf_1999": "Ålsoppa",
+      "landskapsratt_ica": "Sjömansbiff",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Bohuslän",
+      "landskapsratt_skf_1999": "Makrillsoppa",
+      "landskapsratt_ica": "Äggost",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Dalarna",
+      "landskapsratt_skf_1999": "Älgfärsbiffar med örtstuvad majrova, lingon och kantareller på stomptallrik",
+      "landskapsratt_ica": "Rårakor med fläsk",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Dalsland",
+      "landskapsratt_skf_1999": "Gäddfärsbiffar med örtgräddfilsås",
+      "landskapsratt_ica": "Äppelkaka från Åmål",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Gotland",
+      "landskapsratt_skf_1999": "Marinerad lammstek med säsongens grönsaker",
+      "landskapsratt_ica": "Saffranspannkaka",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Gästrikland",
+      "landskapsratt_skf_1999": "Senaps gratinerad strömming, grynkaka, tunnbrödsstips och lingon chutney",
+      "landskapsratt_ica": "Sotare med färskpotatis",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Halland",
+      "landskapsratt_skf_1999": "Cheddarbakad Halmstadslax med pepparkokta rotfrukter och dillsky",
+      "landskapsratt_ica": "Långkål med skinka",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Hälsingland",
+      "landskapsratt_skf_1999": "Älgfärsjärpar med pärgröt, fläsk, korngryn och rotsaker",
+      "landskapsratt_ica": "Hälsingeostkaka",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Härjedalen",
+      "landskapsratt_skf_1999": "Ugnstekt, örtfylld fjällröding med flötgröt och ragu på toppmurklor, sparris och svartrot",
+      "landskapsratt_ica": "Röding med flötgröt",
+      "landskapsratt_andra": "Stekt röding. Framröstad genom Matakademien i Jämtland och Härjedalen."
+    },
+    {
+      "landskap": "Jämtland",
+      "landskapsratt_skf_1999": "Bouillabaisse på röding med syrade rotfrukter, serverat med getostfilbunke i tunnbrödskåsa",
+      "landskapsratt_ica": "Älgstek med murklor",
+      "landskapsratt_andra": "Älggryta. Framröstad genom Matakademien i Jämtland och Härjedalen."
+    },
+    {
+      "landskap": "Lappland",
+      "landskapsratt_skf_1999": "Ugnstekta ripbröst med svart vinbärssås, selleripuré och små paltpotatisar",
+      "landskapsratt_ica": "Suovas pirko",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Medelpad",
+      "landskapsratt_skf_1999": "Harsadel med potatis och Karl Johansvamppuré, rårörda porstranbär och enbärssås",
+      "landskapsratt_ica": "Tjälknöl",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Norrbotten",
+      "landskapsratt_skf_1999": "Kokt, rimmad älgbringa med pepparrotsås och pressgurka",
+      "landskapsratt_ica": "Pitepalt",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Närke",
+      "landskapsratt_skf_1999": "Cajsa Wargs hjälmargös med trattkantareller, bacon och gräslökssås",
+      "landskapsratt_ica": "Skomakarlåda",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Skåne",
+      "landskapsratt_skf_1999": "Brännesnuda",
+      "landskapsratt_ica": "Äggakaka",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Småland",
+      "landskapsratt_skf_1999": "Ost gratinerad gösfilé med potatismos",
+      "landskapsratt_ica": "Småländsk ostkaka",
+      "landskapsratt_andra": "Isterband. Ostkaka. Utsedd av Region Matkultur Småland"
+    },
+    {
+      "landskap": "Södermanland",
+      "landskapsratt_skf_1999": "Stekt pomerans - och nejlikeinlagd strömming med kumminkryddat knäckebröd",
+      "landskapsratt_ica": "Sorundatårta",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Uppland",
+      "landskapsratt_skf_1999": "Uppländsk husmanskost",
+      "landskapsratt_ica": "Ångbåtsbiff",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Värmland",
+      "landskapsratt_skf_1999": "Inbakad älgfärsbiff med trattkantareller och potatiskaka",
+      "landskapsratt_ica": "Nävgröt med fläsk och lingon",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Västerbotten",
+      "landskapsratt_skf_1999": "Älg wallenbergare med västerbottnisk potatiskaka och syltade kantareller",
+      "landskapsratt_ica": "Västerbottenpaj",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Västergötland",
+      "landskapsratt_skf_1999": "Fläskfilé med kantarell - och kålrabbisås",
+      "landskapsratt_ica": "Grynkorv med stuvade bönor",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Västmanland",
+      "landskapsratt_skf_1999": "Halstrad, lättgravad gösfilé på skogssvamp och gurktagliatelle med pepparrots crèmefraiche och tomat vinägrett",
+      "landskapsratt_ica": "Mälar gös med pepparrot",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Ångermanland",
+      "landskapsratt_skf_1999": "Örtmarinerad skeppsmalen lax med makalös fruktsås",
+      "landskapsratt_ica": "Surströmmingsklämma",
+      "landskapsratt_andra": ""
+    },
+    {
+      "landskap": "Öland",
+      "landskapsratt_skf_1999": "Laxkroppkakor med dillgrädde",
+      "landskapsratt_ica": "Öländska kroppkakor",
+      "landskapsratt_andra": "Lufsa (enligt Raggmunksakademien)"
+    },
+    {
+      "landskap": "Östergötland",
+      "landskapsratt_skf_1999": "Östgötsk grönärtsoppa med nässelbröd",
+      "landskapsratt_ica": "Raggmunk med lingon",
+      "landskapsratt_andra": "Raggmunk. Utsedd av Regional matkultur i Östergötland"
+    }
+  ],
+  "meta": {
+    "title": "Landskapsrätter i Sverige - Free Download",
+    "description": "Sveriges landskapsrätter per landskap enligt Sveriges Kökschefers Förening (1999), enligt Ica och enligt andra källor. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Landskapsrätter i Sverige | ListBase",
+    "seo_description": "Download Landskapsrätter i Sverige — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Landskapsrätter_i_Sverige"
+    ]
+  }
+}

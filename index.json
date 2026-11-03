@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-03T02:29:53.226Z",
-  "total_datasets": 513,
-  "total_records": 2265934,
+  "generated": "2026-11-03T02:30:00.513Z",
+  "total_datasets": 514,
+  "total_records": 2265959,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -1824,6 +1824,31 @@
         "xlsx": {
           "name": "sv-bagerier_SV.xlsx",
           "size": 28767
+        }
+      }
+    },
+    {
+      "id": "sv-landskapsratter",
+      "name": "Landskapsrätter i Sverige",
+      "category": "food",
+      "record_count": 25,
+      "columns": [
+        "landskap",
+        "landskapsratt_skf_1999",
+        "landskapsratt_ica",
+        "landskapsratt_andra"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Landskapsrätter_i_Sverige",
+      "updated": "2026-11",
+      "size": 7337,
+      "files": {
+        "csv": {
+          "name": "sv-landskapsratter_SV.csv",
+          "size": 2766
+        },
+        "xlsx": {
+          "name": "sv-landskapsratter_SV.xlsx",
+          "size": 8507
         }
       }
     },
