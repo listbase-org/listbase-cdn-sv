@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-04T02:28:16.868Z",
-  "total_datasets": 520,
-  "total_records": 2266562,
+  "generated": "2026-11-04T02:28:38.941Z",
+  "total_datasets": 521,
+  "total_records": 2266574,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -11612,6 +11612,31 @@
         "xlsx": {
           "name": "sv-regso_SV.xlsx",
           "size": 118423
+        }
+      }
+    },
+    {
+      "id": "sv-stralningsincidenter",
+      "name": "Strålningsincidenter i Sverige",
+      "category": "science",
+      "record_count": 12,
+      "columns": [
+        "datum",
+        "anlaggning",
+        "beskrivning",
+        "klassning"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_strålningsincidenter_i_Sverige",
+      "updated": "2026-11",
+      "size": 5824,
+      "files": {
+        "csv": {
+          "name": "sv-stralningsincidenter_SV.csv",
+          "size": 3056
+        },
+        "xlsx": {
+          "name": "sv-stralningsincidenter_SV.xlsx",
+          "size": 8419
         }
       }
     },

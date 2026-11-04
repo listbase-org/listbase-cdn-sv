@@ -1,0 +1,118 @@
+{
+  "id": "sv-stralningsincidenter",
+  "name": "Strålningsincidenter i Sverige",
+  "title": "Strålningsincidenter i Sverige",
+  "description": "Kronologisk lista över kända strålnings- och kärnteknikincidenter vid svenska anläggningar som kärnkraftverk, forskningsanläggningar och sjukhus, med kort beskrivning.",
+  "category": "science",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_strålningsincidenter_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_strålningsincidenter_i_Sverige",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "datum",
+      "label": "Datum",
+      "type": "date"
+    },
+    {
+      "key": "anlaggning",
+      "label": "Anlaggning",
+      "type": "string"
+    },
+    {
+      "key": "beskrivning",
+      "label": "Beskrivning",
+      "type": "string"
+    },
+    {
+      "key": "klassning",
+      "label": "Klassning",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "datum": "2002-01-02",
+      "anlaggning": "Studsvik",
+      "beskrivning": "Studsvik Nuclear AB skickade tre stycken 37 mm höga kapslar med pellets av den radioaktiva isotopen iridium-192 i en strålskyddad behållare typ 2835 A 27 december 2001. Kapslarna innehöll ungefär 1000 stycken pellets med en totalvikt på 21,5 gram. Behållaren 2835 A är cylindrisk med diameter 43 cm, höjd 54 cm och väger 126 kg. Materialet skulle användas av ett företag i Louisiana som fotograferar svetsfogar i metallkonstruktioner. En av kapslarna öppnades och pellets kom ut från behållarens strålningsbarriär. Detta upptäcktes vid ankomsten till en lastterminal i New Orleans den andra januari 2002.",
+      "klassning": "INES 3"
+    },
+    {
+      "datum": "2017-09-21",
+      "anlaggning": "Studsvik",
+      "beskrivning": "Brandlarm gick igång och inergengas sprutats in i cellerna där man arbetar med använd kärnbränsle vilket gjorde att den kontaminerade luften i cellerna kom ut i serviceutrymmet, transporthallen och manipulatorlokalen samt labben.",
+      "klassning": "INES 2"
+    },
+    {
+      "datum": "2016",
+      "anlaggning": "Norrlands universitetssjukhus",
+      "beskrivning": "Cyklotron var i drift med öppen bunkerdörr.",
+      "klassning": "INES 2"
+    },
+    {
+      "datum": "2010-12-03",
+      "anlaggning": "Aitikgruvan",
+      "beskrivning": "Flera personer utsattes för strålning vid felsökning och reparation av en röntgenutrustning som används för att analysera metallhalten i malm.",
+      "klassning": "INES 2"
+    },
+    {
+      "datum": "2006-07-25",
+      "anlaggning": "Forsmark 1",
+      "beskrivning": "Efter en kortslutning i ett yttre ställverk som ansluter anläggningen till det nationella stamnätet. Kortslutningen gjorde att Forsmark 1:s automatiska säkerhetssystem snabbstoppade och stängde ner reaktorn. Vid händelsen påverkades utrustning som är viktig för säkerheten så att den inte fungerade som avsett.",
+      "klassning": "INES 2"
+    },
+    {
+      "datum": "1999-05-25",
+      "anlaggning": "Barsebäck 2",
+      "beskrivning": "Vid provning av sötvattenskylningens två kanaler stängdes båda kanalerna av och sötvattenskylningen upphörde tillfälligt.",
+      "klassning": "INES 2"
+    },
+    {
+      "datum": "1997-09-27",
+      "anlaggning": "Ringhals 4",
+      "beskrivning": "Två ventiler till reaktorinneslutningens strilsystem var felaktigt stängda vid igångsättning efter bränslestavbyte. Strilsystemet ska hålla nere trycket i reaktorinneslutningen vid haveri.",
+      "klassning": "INES 2"
+    },
+    {
+      "datum": "1996-11-01",
+      "anlaggning": "Oskarshamn 2",
+      "beskrivning": "Efter bränslebyte var två reservpumpar för fyllning av kylvatten vid ett haveri utan ström.",
+      "klassning": "INES 2"
+    },
+    {
+      "datum": "1995-10-19",
+      "anlaggning": "Studsvik R2-0",
+      "beskrivning": "En person utsattes för allt för hög strålningsnivå vid forskningsreaktorn.",
+      "klassning": "INES 2"
+    },
+    {
+      "datum": "1994-10-03",
+      "anlaggning": "Ringhals 2",
+      "beskrivning": "Efter ett snabbstopp upptäcktes att säkerhetsventilerna i huvudångledningarna inte öppnade vid förväntat tryck. Testmetoden för ventilerna innan montering var inte applicerbara till drift och därför visade ventilerna på rektorerna 3 och 4 samma brist. Ventilerna fungerade så tillvida att de öppnade vid ett tryck under konstruktionstrycket.",
+      "klassning": "INES 2"
+    },
+    {
+      "datum": "1992-07-28",
+      "anlaggning": "Barsebäck 2",
+      "beskrivning": "Den så kallade silhändelsen. En säkerhetsventil öppnade efter en återuppstart. Därför startade nödkylsystemet. Ångan från säkerhetsventilen spolade bort isolering som täppte igen filtren till nödkylsystemets pumpar.",
+      "klassning": "INES 2"
+    },
+    {
+      "datum": "1987-07-24",
+      "anlaggning": "Oskarshamn 3",
+      "beskrivning": "Lokala kritiska mätningar påbörjade utan att snabbstoppssystemet var driftklart.",
+      "klassning": "INES 2"
+    }
+  ],
+  "meta": {
+    "title": "Strålningsincidenter i Sverige - Free Download",
+    "description": "Kronologisk lista över kända strålnings- och kärnteknikincidenter vid svenska anläggningar som kärnkraftverk, forskningsanläggningar och sjukhus, med kort beskrivning. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Strålningsincidenter i Sverige | ListBase",
+    "seo_description": "Download Strålningsincidenter i Sverige — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_strålningsincidenter_i_Sverige"
+    ]
+  }
+}
