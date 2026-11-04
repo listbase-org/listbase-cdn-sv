@@ -1,0 +1,233 @@
+{
+  "id": "sv-sjukvardsregioner",
+  "name": "Sveriges sjukvårdsregioner",
+  "title": "Sveriges sjukvårdsregioner",
+  "description": "De sex sjukvårdsregionerna i Sverige med ingående regioner, län och kommuner samt regionsjukhus (universitetssjukhus) i respektive sjukvårdsregion.",
+  "category": "health",
+  "source": "https://sv.wikipedia.org/wiki/Sjukvårdsregion",
+  "source_url": "https://sv.wikipedia.org/wiki/Sjukvårdsregion",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "sjukvardsregion",
+      "label": "Sjukvardsregion",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "lan",
+      "label": "Lan",
+      "type": "string"
+    },
+    {
+      "key": "kommuner",
+      "label": "Kommuner",
+      "type": "string"
+    },
+    {
+      "key": "regionsjukhus",
+      "label": "Regionsjukhus",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sjukvardsregion": "Norra sjukvårdsregionen",
+      "region": "Region Norrbotten",
+      "lan": "Norrbottens län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Norrlands Universitetssjukhus (Umeå)"
+    },
+    {
+      "sjukvardsregion": "Norra sjukvårdsregionen",
+      "region": "Region Jämtland Härjedalen",
+      "lan": "Jämtlands län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Norrlands Universitetssjukhus (Umeå)"
+    },
+    {
+      "sjukvardsregion": "Norra sjukvårdsregionen",
+      "region": "Region Västerbotten",
+      "lan": "Västerbottens län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Norrlands Universitetssjukhus (Umeå)"
+    },
+    {
+      "sjukvardsregion": "Norra sjukvårdsregionen",
+      "region": "Region Västernorrland",
+      "lan": "Västernorrlands län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Norrlands Universitetssjukhus (Umeå)"
+    },
+    {
+      "sjukvardsregion": "Sjukvårdsregion Mellansverige",
+      "region": "Region Gävleborg",
+      "lan": "Gävleborgs län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Akademiska sjukhuset (Uppsala); Universitetssjukhuset (Örebro)"
+    },
+    {
+      "sjukvardsregion": "Sjukvårdsregion Mellansverige",
+      "region": "Region Dalarna",
+      "lan": "Dalarnas län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Akademiska sjukhuset (Uppsala); Universitetssjukhuset (Örebro)"
+    },
+    {
+      "sjukvardsregion": "Sjukvårdsregion Mellansverige",
+      "region": "Region Uppsala",
+      "lan": "Uppsala län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Akademiska sjukhuset (Uppsala); Universitetssjukhuset (Örebro)"
+    },
+    {
+      "sjukvardsregion": "Sjukvårdsregion Mellansverige",
+      "region": "Region Värmland",
+      "lan": "Värmlands län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Akademiska sjukhuset (Uppsala); Universitetssjukhuset (Örebro)"
+    },
+    {
+      "sjukvardsregion": "Sjukvårdsregion Mellansverige",
+      "region": "Region Örebro län",
+      "lan": "Örebro län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Akademiska sjukhuset (Uppsala); Universitetssjukhuset (Örebro)"
+    },
+    {
+      "sjukvardsregion": "Sjukvårdsregion Mellansverige",
+      "region": "Region Västmanland",
+      "lan": "Västmanlands län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Akademiska sjukhuset (Uppsala); Universitetssjukhuset (Örebro)"
+    },
+    {
+      "sjukvardsregion": "Sjukvårdsregion Mellansverige",
+      "region": "Region Sörmland",
+      "lan": "Södermanlands län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Akademiska sjukhuset (Uppsala); Universitetssjukhuset (Örebro)"
+    },
+    {
+      "sjukvardsregion": "Stockholms sjukvårdsregion",
+      "region": "Region Stockholm",
+      "lan": "Stockholms län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Karolinska Universitetssjukhuset (Stockholm)"
+    },
+    {
+      "sjukvardsregion": "Stockholms sjukvårdsregion",
+      "region": "Region Gotland",
+      "lan": "Gotlands län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Karolinska Universitetssjukhuset (Stockholm)"
+    },
+    {
+      "sjukvardsregion": "Sydöstra sjukvårdsregionen",
+      "region": "Region Östergötland",
+      "lan": "Östergötlands län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Universitetssjukhuset (Linköping)"
+    },
+    {
+      "sjukvardsregion": "Sydöstra sjukvårdsregionen",
+      "region": "Region Jönköpings län",
+      "lan": "Jönköpings län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Universitetssjukhuset (Linköping)"
+    },
+    {
+      "sjukvardsregion": "Sydöstra sjukvårdsregionen",
+      "region": "Region Kalmar län",
+      "lan": "Kalmar län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Universitetssjukhuset (Linköping)"
+    },
+    {
+      "sjukvardsregion": "Västra sjukvårdsregionen",
+      "region": "Västra Götalandsregionen",
+      "lan": "Västra Götalands län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Sahlgrenska Universitetssjukhuset (Göteborg)"
+    },
+    {
+      "sjukvardsregion": "Västra sjukvårdsregionen",
+      "region": "Region Halland",
+      "lan": "Hallands län (Norra delen)",
+      "kommuner": "Kungsbacka kommun",
+      "regionsjukhus": "Sahlgrenska Universitetssjukhuset (Göteborg)"
+    },
+    {
+      "sjukvardsregion": "Västra sjukvårdsregionen",
+      "region": "Region Halland",
+      "lan": "Hallands län (Norra delen)",
+      "kommuner": "Varbergs kommun",
+      "regionsjukhus": "Sahlgrenska Universitetssjukhuset (Göteborg)"
+    },
+    {
+      "sjukvardsregion": "Västra sjukvårdsregionen",
+      "region": "Region Halland",
+      "lan": "Hallands län (Norra delen)",
+      "kommuner": "Falkenbergs kommun",
+      "regionsjukhus": "Sahlgrenska Universitetssjukhuset (Göteborg)"
+    },
+    {
+      "sjukvardsregion": "Södra sjukvårdsregionen",
+      "region": "Region Halland",
+      "lan": "Hallands län (Södra delen)",
+      "kommuner": "Halmstad kommun",
+      "regionsjukhus": "Skånes universitetssjukhus (Lund); Skånes universitetssjukhus (Malmö)"
+    },
+    {
+      "sjukvardsregion": "Södra sjukvårdsregionen",
+      "region": "Region Halland",
+      "lan": "Hallands län (Södra delen)",
+      "kommuner": "Hylte kommun",
+      "regionsjukhus": "Skånes universitetssjukhus (Lund); Skånes universitetssjukhus (Malmö)"
+    },
+    {
+      "sjukvardsregion": "Södra sjukvårdsregionen",
+      "region": "Region Halland",
+      "lan": "Hallands län (Södra delen)",
+      "kommuner": "Laholms kommun",
+      "regionsjukhus": "Skånes universitetssjukhus (Lund); Skånes universitetssjukhus (Malmö)"
+    },
+    {
+      "sjukvardsregion": "Södra sjukvårdsregionen",
+      "region": "Region Blekinge",
+      "lan": "Blekinge län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Skånes universitetssjukhus (Lund); Skånes universitetssjukhus (Malmö)"
+    },
+    {
+      "sjukvardsregion": "Södra sjukvårdsregionen",
+      "region": "Region Kronoberg",
+      "lan": "Kronobergs län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Skånes universitetssjukhus (Lund); Skånes universitetssjukhus (Malmö)"
+    },
+    {
+      "sjukvardsregion": "Södra sjukvårdsregionen",
+      "region": "Region Skåne",
+      "lan": "Skåne län",
+      "kommuner": "Samtliga kommuner",
+      "regionsjukhus": "Skånes universitetssjukhus (Lund); Skånes universitetssjukhus (Malmö)"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges sjukvårdsregioner - Free Download",
+    "description": "De sex sjukvårdsregionerna i Sverige med ingående regioner, län och kommuner samt regionsjukhus (universitetssjukhus) i respektive sjukvårdsregion. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges sjukvårdsregioner | ListBase",
+    "seo_description": "Download Sveriges sjukvårdsregioner — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sjukvårdsregion"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-04T02:28:10.462Z",
-  "total_datasets": 519,
-  "total_records": 2266536,
+  "generated": "2026-11-04T02:28:16.868Z",
+  "total_datasets": 520,
+  "total_records": 2266562,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -4359,6 +4359,32 @@
         "xlsx": {
           "name": "sv-sjukhus_SV.xlsx",
           "size": 14091
+        }
+      }
+    },
+    {
+      "id": "sv-sjukvardsregioner",
+      "name": "Sveriges sjukvårdsregioner",
+      "category": "health",
+      "record_count": 26,
+      "columns": [
+        "sjukvardsregion",
+        "region",
+        "lan",
+        "kommuner",
+        "regionsjukhus"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sjukvårdsregion",
+      "updated": "2026-11",
+      "size": 8418,
+      "files": {
+        "csv": {
+          "name": "sv-sjukvardsregioner_SV.csv",
+          "size": 3900
+        },
+        "xlsx": {
+          "name": "sv-sjukvardsregioner_SV.xlsx",
+          "size": 7778
         }
       }
     },
