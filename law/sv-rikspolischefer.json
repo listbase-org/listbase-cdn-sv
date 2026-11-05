@@ -1,0 +1,100 @@
+{
+  "id": "sv-rikspolischefer",
+  "name": "Sveriges rikspolischefer",
+  "title": "Sveriges rikspolischefer",
+  "description": "Sveriges rikspolischefer sedan 1964 (Rikspolisstyrelsen och Polismyndigheten), med titel och tjänstgöringsperiod.",
+  "category": "law",
+  "source": "https://sv.wikipedia.org/wiki/Rikspolischef",
+  "source_url": "https://sv.wikipedia.org/wiki/Rikspolischef",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "titel",
+      "label": "Titel",
+      "type": "string"
+    },
+    {
+      "key": "tilltradde",
+      "label": "Tilltradde",
+      "type": "string"
+    },
+    {
+      "key": "avgick",
+      "label": "Avgick",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "namn": "Carl Persson",
+      "titel": "Jurist (domare och ämbetsman)",
+      "tilltradde": "1 juli 1964",
+      "avgick": "31 mars 1978"
+    },
+    {
+      "nr": 2,
+      "namn": "Holger Romander",
+      "titel": "Jurist (domare och ämbetsman)",
+      "tilltradde": "1 april 1978",
+      "avgick": "31 december 1987"
+    },
+    {
+      "nr": 3,
+      "namn": "Nils Erik Åhmansson",
+      "titel": "Polischef och jurist",
+      "tilltradde": "1 januari 1988",
+      "avgick": "19 oktober 1988"
+    },
+    {
+      "nr": 4,
+      "namn": "Björn Eriksson",
+      "titel": "Civilekonom (ämbetsman)",
+      "tilltradde": "20 oktober 1988",
+      "avgick": "28 februari 1996"
+    },
+    {
+      "nr": 5,
+      "namn": "Sten Heckscher",
+      "titel": "Jurist (domare, statsråd och ämbetsman)",
+      "tilltradde": "1 mars 1996",
+      "avgick": "31 december 2004"
+    },
+    {
+      "nr": 6,
+      "namn": "Stefan Strömberg",
+      "titel": "Jurist (domare och ämbetsman)",
+      "tilltradde": "1 januari 2005",
+      "avgick": "31 december 2007"
+    },
+    {
+      "nr": 7,
+      "namn": "Bengt Svenson",
+      "titel": "Polischef och jurist",
+      "tilltradde": "1 januari 2008",
+      "avgick": "31 december 2014"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges rikspolischefer - Free Download",
+    "description": "Sveriges rikspolischefer sedan 1964 (Rikspolisstyrelsen och Polismyndigheten), med titel och tjänstgöringsperiod. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges rikspolischefer | ListBase",
+    "seo_description": "Download Sveriges rikspolischefer — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Rikspolischef"
+    ]
+  }
+}
