@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-04T02:28:38.941Z",
-  "total_datasets": 521,
-  "total_records": 2266574,
+  "generated": "2026-11-05T02:25:34.126Z",
+  "total_datasets": 522,
+  "total_records": 2266816,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -668,6 +668,34 @@
         "xlsx": {
           "name": "sv-forskolor_SV.xlsx",
           "size": 140035
+        }
+      }
+    },
+    {
+      "id": "sv-rektorer-lunds-universitet",
+      "name": "Rektorer för Lunds universitet",
+      "category": "education",
+      "record_count": 242,
+      "columns": [
+        "namn",
+        "fodd",
+        "mandatperiod",
+        "dod",
+        "amne",
+        "anmarkning",
+        "period"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_rektorer_för_Lunds_universitet",
+      "updated": "2026-11",
+      "size": 78471,
+      "files": {
+        "csv": {
+          "name": "sv-rektorer-lunds-universitet_SV.csv",
+          "size": 44700
+        },
+        "xlsx": {
+          "name": "sv-rektorer-lunds-universitet_SV.xlsx",
+          "size": 21433
         }
       }
     },
