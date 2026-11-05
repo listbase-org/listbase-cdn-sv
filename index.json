@@ -1,12 +1,12 @@
 {
   "lang": "sv",
-  "generated": "2026-11-05T02:25:54.470Z",
-  "total_datasets": 525,
-  "total_records": 2266906,
+  "generated": "2026-11-05T02:33:26.523Z",
+  "total_datasets": 526,
+  "total_records": 2266954,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -102,6 +102,35 @@
     }
   ],
   "datasets": [
+    {
+      "id": "sv-jordbruks-och-landsbygdsministrar",
+      "name": "Sveriges jordbruksministrar och landsbygdsministrar",
+      "category": "agriculture",
+      "record_count": 48,
+      "columns": [
+        "namn",
+        "fodd",
+        "tilltrade",
+        "frantrade",
+        "dod",
+        "parti",
+        "regering",
+        "ambete"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_landsbygdsminister",
+      "updated": "2026-11",
+      "size": 17517,
+      "files": {
+        "csv": {
+          "name": "sv-jordbruks-och-landsbygdsministrar_SV.csv",
+          "size": 8479
+        },
+        "xlsx": {
+          "name": "sv-jordbruks-och-landsbygdsministrar_SV.xlsx",
+          "size": 10527
+        }
+      }
+    },
     {
       "id": "sv-landskapsapplen",
       "name": "Landskapsäpplen",

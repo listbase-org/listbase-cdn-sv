@@ -1,0 +1,546 @@
+{
+  "id": "sv-jordbruks-och-landsbygdsministrar",
+  "name": "Sveriges jordbruksministrar och landsbygdsministrar",
+  "title": "Sveriges jordbruksministrar och landsbygdsministrar",
+  "description": "Sveriges jordbruksministrar från 1900 och landsbygdsministrar från 2010, med tillträde, frånträde, parti och regering.",
+  "category": "agriculture",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_landsbygdsminister",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_landsbygdsminister",
+  "updated": "2026-11",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "fodd",
+      "label": "Fodd",
+      "type": "string"
+    },
+    {
+      "key": "tilltrade",
+      "label": "Tilltrade",
+      "type": "string"
+    },
+    {
+      "key": "frantrade",
+      "label": "Frantrade",
+      "type": "string"
+    },
+    {
+      "key": "dod",
+      "label": "Dod",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "regering",
+      "label": "Regering",
+      "type": "string"
+    },
+    {
+      "key": "ambete",
+      "label": "Ambete",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "namn": "Theodor Odelberg",
+      "fodd": "21 december 1847",
+      "tilltrade": "31 mars 1900",
+      "frantrade": "2 augusti 1905",
+      "dod": "15 februari 1938",
+      "parti": "Protektionistiska partiet",
+      "regering": "Boström I, von Otter, Boström II, Ramstedt",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Alfred Petersson",
+      "fodd": "25 juni 1860 i Söderåkra i Torsås i Småland",
+      "tilltrade": "2 augusti 1905",
+      "frantrade": "7 november 1905",
+      "dod": "",
+      "parti": "Högerpartiet",
+      "regering": "Lundeberg",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Gösta Tamm",
+      "fodd": "15 april 1866 i Films socken i Östhammar i Uppland",
+      "tilltrade": "7 november 1905",
+      "frantrade": "29 maj 1906",
+      "dod": "13 juli 1931 i Stockholm",
+      "parti": "Oberoende liberal",
+      "regering": "Staaff I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Alfred Petersson",
+      "fodd": "",
+      "tilltrade": "29 maj 1906",
+      "frantrade": "17 mars 1909",
+      "dod": "",
+      "parti": "Högerpartiet",
+      "regering": "Lindman I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Oscar Nylander",
+      "fodd": "4 december 1853 i Tranemo i Västergötland",
+      "tilltrade": "17 mars 1909",
+      "frantrade": "7 oktober 1911",
+      "dod": "26 december 1920 i Revesjö socken i Svenljunga kommun i Västergötland",
+      "parti": "Högerpartiet",
+      "regering": "Lindman I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Alfred Petersson",
+      "fodd": "",
+      "tilltrade": "7 oktober 1911",
+      "frantrade": "17 februari 1914",
+      "dod": "",
+      "parti": "Oberoende liberal",
+      "regering": "Staaff II",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Johan Beck-Friis",
+      "fodd": "25 januari 1862 i Stockholm",
+      "tilltrade": "17 februari 1914",
+      "frantrade": "30 mars 1917",
+      "dod": "6 juli 1929",
+      "parti": "Opolitisk",
+      "regering": "Hammarskjöld",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Knut Dahlberg",
+      "fodd": "23 maj 1877 i Malmö i Skåne",
+      "tilltrade": "30 mars 1917",
+      "frantrade": "19 oktober 1917",
+      "dod": "10 februari 1949",
+      "parti": "Högerpartiet",
+      "regering": "Swartz",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Alfred Petersson",
+      "fodd": "",
+      "tilltrade": "19 oktober 1917",
+      "frantrade": "10 mars 1920",
+      "dod": "11 oktober 1920 i Söderåkra i Torsås i Småland",
+      "parti": "Oberoende liberal",
+      "regering": "Edén",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Olof Nilsson",
+      "fodd": "6 juli 1863 i Tånga i Välinge i Skåne",
+      "tilltrade": "10 mars 1920",
+      "frantrade": "27 oktober 1920",
+      "dod": "9 juni 1928",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Nils Hansson",
+      "fodd": "8 mars 1867 i Djurslöv i Staffanstorp i Skåne",
+      "tilltrade": "27 oktober 1920",
+      "frantrade": "13 oktober 1921",
+      "dod": "19 mars 1945",
+      "parti": "Opolitisk",
+      "regering": "De Geer d.y., von Sydow",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Sven Linders",
+      "fodd": "14 februari 1873 i Nevishög i Staffanstorp i Skåne",
+      "tilltrade": "13 oktober 1921",
+      "frantrade": "19 april 1923",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting II",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "David Pettersson",
+      "fodd": "9 december 1866 i Kumla socken i Mjölby kommun i Östergötland",
+      "tilltrade": "19 april 1923",
+      "frantrade": "18 oktober 1924",
+      "dod": "11 juni 1957 i Bjälbo i Skänninge i Östergötland",
+      "parti": "Högerpartiet",
+      "regering": "Trygger",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Sven Linders",
+      "fodd": "",
+      "tilltrade": "18 oktober 1924",
+      "frantrade": "7 juni 1926",
+      "dod": "16 december 1932",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting III, Sandler",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Paul Hellström",
+      "fodd": "8 januari 1866 i Umeå i Västerbotten",
+      "tilltrade": "7 juni 1926",
+      "frantrade": "3 juli 1927",
+      "dod": "3 juli 1927",
+      "parti": "Frisinnade folkpartiet",
+      "regering": "Ekman I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Bo von Stockenström",
+      "fodd": "26 januari 1887 i Stockholm",
+      "tilltrade": "12 juli 1927",
+      "frantrade": "2 oktober 1928",
+      "dod": "",
+      "parti": "Frisinnade folkpartiet",
+      "regering": "Ekman I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Johan Bernhard Johansson",
+      "fodd": "23 september 1877 i Torups landskommun i Halland",
+      "tilltrade": "2 oktober 1928",
+      "frantrade": "7 juni 1930",
+      "dod": "4 september 1949",
+      "parti": "Högerpartiet",
+      "regering": "Lindman II",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Bo von Stockenström",
+      "fodd": "",
+      "tilltrade": "7 juni 1930",
+      "frantrade": "24 september 1932",
+      "dod": "31 mars 1962 i Daga församling i Gnesta i Södermanland",
+      "parti": "Frisinnade folkpartiet",
+      "regering": "Ekman II",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Per Edvin Sköld",
+      "fodd": "25 maj 1891 i Svedala i Skåne",
+      "tilltrade": "24 september 1932",
+      "frantrade": "19 juni 1936",
+      "dod": "13 september 1972 i Norra Rörum i Höör i Skåne",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Axel Pehrsson-Bramstorp",
+      "fodd": "19 augusti 1883 i Öja utanför Ystad i Skåne",
+      "tilltrade": "19 juni 1936",
+      "frantrade": "31 juli 1945",
+      "dod": "19 februari 1954 i Lilla Isie i Skåne",
+      "parti": "Bondeförbundet",
+      "regering": "Pehrsson-Bramstorp, Hansson II, Hansson III",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Per Edvin Sköld",
+      "fodd": "",
+      "tilltrade": "31 juli 1945",
+      "frantrade": "29 oktober 1948",
+      "dod": "13 september 1972 i Norra Rörum i Höör i Skåne",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson IV, Erlander I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Gunnar Sträng",
+      "fodd": "23 december 1906 i Järfälla i Uppland",
+      "tilltrade": "30 oktober 1948",
+      "frantrade": "1 oktober 1951",
+      "dod": "7 mars 1992 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Sam B. Norup",
+      "fodd": "19 maj 1896 i Knislinge i Östra Göinge härad i Skåne",
+      "tilltrade": "1 oktober 1951",
+      "frantrade": "1 februari 1957",
+      "dod": "5 juli 1973 i Knislinge i Östra Göinge i Skåne",
+      "parti": "Bondeförbundet",
+      "regering": "Erlander II",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Bernhard Näsgård",
+      "fodd": "16 april 1891 i Österfärnebo i Sandviken i Gästrikland",
+      "tilltrade": "1 februari 1957",
+      "frantrade": "8 juli 1957",
+      "dod": "8 juli 1957",
+      "parti": "Bondeförbundet",
+      "regering": "Erlander II",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Nils G. Hansson",
+      "fodd": "14 mars 1902 i Skegrie i Trelleborg i Skåne",
+      "tilltrade": "29 juli 1957",
+      "frantrade": "31 oktober 1957",
+      "dod": "2 februari 1981 i Skegrie i Trelleborg i Skåne",
+      "parti": "Bondeförbundet",
+      "regering": "Erlander II",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Gösta Netzén",
+      "fodd": "30 januari 1908 i Valbo i Gävle kommun i Gästrikland",
+      "tilltrade": "31 oktober 1957",
+      "frantrade": "24 november 1961",
+      "dod": "20 juni 1984 i Ystad i Skåne",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander III",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Eric Holmqvist",
+      "fodd": "2 februari 1917 i Svalöv i Skåne",
+      "tilltrade": "25 november 1961",
+      "frantrade": "24 januari 1969",
+      "dod": "5 juni 2009",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander III",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Ingemund Bengtsson",
+      "fodd": "30 januari 1919 i Veddige i Varberg i Halland",
+      "tilltrade": "25 januari 1969",
+      "frantrade": "2 november 1973",
+      "dod": "12 april 2000 i Varberg i Halland",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander III, Palme I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Svante Lundkvist",
+      "fodd": "20 juli 1919 i Eskilstuna i Södermanland",
+      "tilltrade": "3 november 1973",
+      "frantrade": "8 oktober 1976",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Anders Dahlgren",
+      "fodd": "23 december 1925 i Östra Ed i Valdemarsvik i Småland",
+      "tilltrade": "8 oktober 1976",
+      "frantrade": "18 oktober 1978",
+      "dod": "",
+      "parti": "Centerpartiet",
+      "regering": "Fälldin I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Eric Enlund",
+      "fodd": "9 april 1918 i Enåkers socken i Heby i Uppland",
+      "tilltrade": "18 oktober 1978",
+      "frantrade": "12 oktober 1979",
+      "dod": "17 mars 2011 i Tärnsjö i Heby i Uppland",
+      "parti": "Folkpartiet",
+      "regering": "Ullsten",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Anders Dahlgren",
+      "fodd": "",
+      "tilltrade": "12 oktober 1979",
+      "frantrade": "4 oktober 1982",
+      "dod": "24 mars 1986 i Valdemarsvik i Småland",
+      "parti": "Centerpartiet",
+      "regering": "Fälldin II, Fälldin III",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Claes Elmstedt",
+      "fodd": "31 mars 1928 i Ronneby i Blekinge",
+      "tilltrade": "4 oktober 1982",
+      "frantrade": "8 oktober 1982",
+      "dod": "14 februari 2018",
+      "parti": "Centerpartiet",
+      "regering": "Fälldin III",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Svante Lundkvist",
+      "fodd": "",
+      "tilltrade": "8 oktober 1982",
+      "frantrade": "9 oktober 1986",
+      "dod": "9 juli 1991 i Eskilstuna i Södermanland",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme II, Carlsson I",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Mats Hellström",
+      "fodd": "12 januari 1942 i Stockholm",
+      "tilltrade": "10 oktober 1986",
+      "frantrade": "4 oktober 1991",
+      "dod": "24 maj 2026 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson I, Carlsson II",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Karl Erik Olsson",
+      "fodd": "23 februari 1938 i Helsingborg i Skåne",
+      "tilltrade": "4 oktober 1991",
+      "frantrade": "7 oktober 1994",
+      "dod": "23 januari 2021 i Sösdala",
+      "parti": "Centerpartiet",
+      "regering": "C. Bildt",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Margareta Winberg",
+      "fodd": "13 augusti 1947 i Sjuntorp i Västergötland",
+      "tilltrade": "7 oktober 1994",
+      "frantrade": "22 mars 1996",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson III",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Annika Åhnberg",
+      "fodd": "7 november 1949 i Ulricehamn i Västergötland",
+      "tilltrade": "22 mars 1996",
+      "frantrade": "7 oktober 1998",
+      "dod": "18 juni 2025 i Ingelstorps distrikt i Ystads kommun",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Margareta Winberg",
+      "fodd": "",
+      "tilltrade": "7 oktober 1998",
+      "frantrade": "21 oktober 2002",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Ann-Christin Nykvist",
+      "fodd": "4 april 1948 i Stockholm",
+      "tilltrade": "21 oktober 2002",
+      "frantrade": "6 oktober 2006",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Eskil Erlandsson",
+      "fodd": "25 januari 1957 i Torpa i Ljungby kommun i Småland",
+      "tilltrade": "6 oktober 2006",
+      "frantrade": "5 oktober 2010",
+      "dod": "",
+      "parti": "Centerpartiet",
+      "regering": "Reinfeldt",
+      "ambete": "Jordbruksministrar"
+    },
+    {
+      "namn": "Eskil Erlandsson",
+      "fodd": "25 januari 1957 i Torpa i Ljungby kommun i Småland",
+      "tilltrade": "5 oktober 2010",
+      "frantrade": "3 oktober 2014",
+      "dod": "",
+      "parti": "Centerpartiet",
+      "regering": "Reinfeldt",
+      "ambete": "Landsbygdsministrar"
+    },
+    {
+      "namn": "Sven-Erik Bucht",
+      "fodd": "28 december 1954",
+      "tilltrade": "3 oktober 2014",
+      "frantrade": "21 januari 2019",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven I",
+      "ambete": "Landsbygdsministrar"
+    },
+    {
+      "namn": "Jennie Nilsson",
+      "fodd": "25 januari 1972",
+      "tilltrade": "21 januari 2019",
+      "frantrade": "30 juni 2021",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven II",
+      "ambete": "Landsbygdsministrar"
+    },
+    {
+      "namn": "Ibrahim Baylan (t.f.)",
+      "fodd": "15 mars 1972",
+      "tilltrade": "30 juni 2021",
+      "frantrade": "9 juli 2021",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven II",
+      "ambete": "Landsbygdsministrar"
+    },
+    {
+      "namn": "Frågorna övertogs av näringsministern i Regeringen Löfven III och ämbetet utgick.",
+      "fodd": "Frågorna övertogs av näringsministern i Regeringen Löfven III och ämbetet utgick.",
+      "tilltrade": "Frågorna övertogs av näringsministern i Regeringen Löfven III och ämbetet utgick.",
+      "frantrade": "Frågorna övertogs av näringsministern i Regeringen Löfven III och ämbetet utgick.",
+      "dod": "Frågorna övertogs av näringsministern i Regeringen Löfven III och ämbetet utgick.",
+      "parti": "Frågorna övertogs av näringsministern i Regeringen Löfven III och ämbetet utgick.",
+      "regering": "Frågorna övertogs av näringsministern i Regeringen Löfven III och ämbetet utgick.",
+      "ambete": "Landsbygdsministrar"
+    },
+    {
+      "namn": "Anna-Caren Sätherberg",
+      "fodd": "5 oktober 1964",
+      "tilltrade": "30 november 2021",
+      "frantrade": "18 oktober 2022",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Andersson",
+      "ambete": "Landsbygdsministrar"
+    },
+    {
+      "namn": "Peter Kullgren",
+      "fodd": "17 maj 1981",
+      "tilltrade": "18 oktober 2022",
+      "frantrade": "",
+      "dod": "",
+      "parti": "Kristdemokraterna",
+      "regering": "Kristersson",
+      "ambete": "Landsbygdsministrar"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges jordbruksministrar och landsbygdsministrar - Free Download",
+    "description": "Sveriges jordbruksministrar från 1900 och landsbygdsministrar från 2010, med tillträde, frånträde, parti och regering. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges jordbruksministrar och landsbygdsministrar | ListBase",
+    "seo_description": "Download Sveriges jordbruksministrar och landsbygdsministrar — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_landsbygdsminister"
+    ]
+  }
+}
