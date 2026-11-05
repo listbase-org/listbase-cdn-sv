@@ -1,0 +1,432 @@
+{
+  "id": "sv-socialministrar",
+  "name": "Sveriges socialministrar",
+  "title": "Sveriges socialministrar",
+  "description": "Lista över Sveriges socialministrar sedan Socialdepartementets inrättande 1920, med ämbetsperiod, parti och regering.",
+  "category": "health",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_socialminister",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_socialminister",
+  "updated": "2026-11",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "levnadsar",
+      "label": "Levnadsar",
+      "type": "string"
+    },
+    {
+      "key": "tilltrade",
+      "label": "Tilltrade",
+      "type": "string"
+    },
+    {
+      "key": "frantrade",
+      "label": "Frantrade",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "regering",
+      "label": "Regering",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "namn": "Bernhard Eriksson",
+      "levnadsar": "1878–1952",
+      "tilltrade": "1 juli 1920",
+      "frantrade": "27 oktober 1920",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting I S"
+    },
+    {
+      "namn": "Henning Elmquist",
+      "levnadsar": "1871–1933",
+      "tilltrade": "27 oktober 1920",
+      "frantrade": "13 oktober 1921",
+      "parti": "Opolitisk",
+      "regering": "De Geer d.y."
+    },
+    {
+      "namn": "Henning Elmquist",
+      "levnadsar": "1871–1933",
+      "tilltrade": "27 oktober 1920",
+      "frantrade": "13 oktober 1921",
+      "parti": "Opolitisk",
+      "regering": "von Sydow"
+    },
+    {
+      "namn": "Herman Lindqvist",
+      "levnadsar": "1863–1932",
+      "tilltrade": "13 oktober 1921",
+      "frantrade": "19 april 1923",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting II S"
+    },
+    {
+      "namn": "Gösta Malm",
+      "levnadsar": "1873–1965",
+      "tilltrade": "19 april 1923",
+      "frantrade": "18 oktober 1924",
+      "parti": "Opolitisk",
+      "regering": "Trygger N"
+    },
+    {
+      "namn": "Gustav Möller",
+      "levnadsar": "1884–1970",
+      "tilltrade": "18 oktober 1924",
+      "frantrade": "7 juni 1926",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting III S"
+    },
+    {
+      "namn": "Gustav Möller",
+      "levnadsar": "1884–1970",
+      "tilltrade": "18 oktober 1924",
+      "frantrade": "7 juni 1926",
+      "parti": "Socialdemokraterna",
+      "regering": "Sandler S"
+    },
+    {
+      "namn": "Jakob Pettersson",
+      "levnadsar": "1866–1957",
+      "tilltrade": "7 juni 1926",
+      "frantrade": "2 oktober 1928",
+      "parti": "Oberoende liberal",
+      "regering": "Ekman I FF – L"
+    },
+    {
+      "namn": "Sven Lübeck",
+      "levnadsar": "1877–1941",
+      "tilltrade": "2 oktober 1928",
+      "frantrade": "7 juni 1930",
+      "parti": "Allmänna valmansförbundet",
+      "regering": "Lindman II AvF"
+    },
+    {
+      "namn": "Sam Larsson",
+      "levnadsar": "1883–1945",
+      "tilltrade": "7 juni 1930",
+      "frantrade": "24 september 1932",
+      "parti": "Frisinnade folkpartiet",
+      "regering": "Ekman II FF"
+    },
+    {
+      "namn": "Sam Larsson",
+      "levnadsar": "1883–1945",
+      "tilltrade": "7 juni 1930",
+      "frantrade": "24 september 1932",
+      "parti": "Frisinnade folkpartiet",
+      "regering": "Hamrin FF"
+    },
+    {
+      "namn": "Gustav Möller",
+      "levnadsar": "1884–1970",
+      "tilltrade": "24 september 1932",
+      "frantrade": "19 juni 1936",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson I S"
+    },
+    {
+      "namn": "Gerhard Strindlund",
+      "levnadsar": "1890–1957",
+      "tilltrade": "19 juni 1936",
+      "frantrade": "28 september 1936",
+      "parti": "Bondeförbundet",
+      "regering": "Pehrsson-Bramstorp BF"
+    },
+    {
+      "namn": "Gustav Möller",
+      "levnadsar": "1884–1970",
+      "tilltrade": "28 september 1936",
+      "frantrade": "16 december 1938",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson II S – BF"
+    },
+    {
+      "namn": "Albert Forslund",
+      "levnadsar": "1881–1957",
+      "tilltrade": "16 december 1938",
+      "frantrade": "13 december 1939",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson II S – BF"
+    },
+    {
+      "namn": "Gustav Möller",
+      "levnadsar": "1884–1970",
+      "tilltrade": "13 december 1939",
+      "frantrade": "1 oktober 1951",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson III S – BF – H – FP"
+    },
+    {
+      "namn": "Gustav Möller",
+      "levnadsar": "1884–1970",
+      "tilltrade": "13 december 1939",
+      "frantrade": "1 oktober 1951",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson IV S"
+    },
+    {
+      "namn": "Gustav Möller",
+      "levnadsar": "1884–1970",
+      "tilltrade": "13 december 1939",
+      "frantrade": "1 oktober 1951",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander I S"
+    },
+    {
+      "namn": "Gunnar Sträng",
+      "levnadsar": "1906–1992",
+      "tilltrade": "1 oktober 1951",
+      "frantrade": "12 september 1955",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander II S – BF"
+    },
+    {
+      "namn": "John Ericsson",
+      "levnadsar": "1907–1977",
+      "tilltrade": "12 september 1955",
+      "frantrade": "22 mars 1957",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander II S – BF"
+    },
+    {
+      "namn": "Torsten Nilsson",
+      "levnadsar": "1905–1997",
+      "tilltrade": "22 mars 1957",
+      "frantrade": "19 september 1962",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander II S – BF"
+    },
+    {
+      "namn": "Torsten Nilsson",
+      "levnadsar": "1905–1997",
+      "tilltrade": "22 mars 1957",
+      "frantrade": "19 september 1962",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander III S"
+    },
+    {
+      "namn": "Sven Aspling",
+      "levnadsar": "1912–2000",
+      "tilltrade": "19 september 1962",
+      "frantrade": "8 oktober 1976",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander III S"
+    },
+    {
+      "namn": "Sven Aspling",
+      "levnadsar": "1912–2000",
+      "tilltrade": "19 september 1962",
+      "frantrade": "8 oktober 1976",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme I S"
+    },
+    {
+      "namn": "Rune Gustavsson",
+      "levnadsar": "1920–2002",
+      "tilltrade": "8 oktober 1976",
+      "frantrade": "18 oktober 1978",
+      "parti": "Centerpartiet",
+      "regering": "Fälldin I C – M – FP"
+    },
+    {
+      "namn": "Gabriel Romanus",
+      "levnadsar": "1939–",
+      "tilltrade": "18 oktober 1978",
+      "frantrade": "12 oktober 1979",
+      "parti": "Folkpartiet",
+      "regering": "Ullsten FP"
+    },
+    {
+      "namn": "Karin Söder",
+      "levnadsar": "1928–2015",
+      "tilltrade": "12 oktober 1979",
+      "frantrade": "8 oktober 1982",
+      "parti": "Centerpartiet",
+      "regering": "Fälldin II C – M – FP"
+    },
+    {
+      "namn": "Karin Söder",
+      "levnadsar": "1928–2015",
+      "tilltrade": "12 oktober 1979",
+      "frantrade": "8 oktober 1982",
+      "parti": "Centerpartiet",
+      "regering": "Fälldin III C – FP"
+    },
+    {
+      "namn": "Sten Andersson",
+      "levnadsar": "1923–2006",
+      "tilltrade": "8 oktober 1982",
+      "frantrade": "16 oktober 1985",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme II S"
+    },
+    {
+      "namn": "Gertrud Sigurdsen",
+      "levnadsar": "1923–2015",
+      "tilltrade": "16 oktober 1985",
+      "frantrade": "29 januari 1989",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme II S Carlsson I S"
+    },
+    {
+      "namn": "Sven Hulterström",
+      "levnadsar": "1938–",
+      "tilltrade": "29 januari 1989",
+      "frantrade": "11 januari 1990",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson I S"
+    },
+    {
+      "namn": "Ingela Thalén",
+      "levnadsar": "1943–",
+      "tilltrade": "12 januari 1990",
+      "frantrade": "4 oktober 1991",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson I S Carlsson II S"
+    },
+    {
+      "namn": "Ingela Thalén",
+      "levnadsar": "1943–",
+      "tilltrade": "12 januari 1990",
+      "frantrade": "4 oktober 1991",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson I S Carlsson II S"
+    },
+    {
+      "namn": "Bengt Westerberg",
+      "levnadsar": "1943–",
+      "tilltrade": "4 oktober 1991",
+      "frantrade": "7 oktober 1994",
+      "parti": "Folkpartiet",
+      "regering": "Carl Bildt M – C – FP – KD"
+    },
+    {
+      "namn": "Ingela Thalén",
+      "levnadsar": "1943–",
+      "tilltrade": "7 oktober 1994",
+      "frantrade": "22 mars 1996",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson III S"
+    },
+    {
+      "namn": "Margot Wallström",
+      "levnadsar": "1954–",
+      "tilltrade": "22 mars 1996",
+      "frantrade": "7 oktober 1998",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson S"
+    },
+    {
+      "namn": "Anders Sundström",
+      "levnadsar": "1952–",
+      "tilltrade": "7 oktober 1998",
+      "frantrade": "26 oktober 1998",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson S"
+    },
+    {
+      "namn": "Maj-Inger Klingvall",
+      "levnadsar": "1946–",
+      "tilltrade": "26 oktober 1998",
+      "frantrade": "16 november 1998",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson S"
+    },
+    {
+      "namn": "Lars Engqvist",
+      "levnadsar": "1945–",
+      "tilltrade": "16 november 1998",
+      "frantrade": "1 oktober 2004",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson S"
+    },
+    {
+      "namn": "Berit Andnor",
+      "levnadsar": "1954–",
+      "tilltrade": "1 oktober 2004",
+      "frantrade": "6 oktober 2006",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson S"
+    },
+    {
+      "namn": "Göran Hägglund",
+      "levnadsar": "1959–",
+      "tilltrade": "6 oktober 2006",
+      "frantrade": "3 oktober 2014",
+      "parti": "Kristdemokraterna",
+      "regering": "Reinfeldt M – C – FP – KD"
+    },
+    {
+      "namn": "Annika Strandhäll (1975–) Titulerad socialförsäkringsminister till 27 juli 2017, därefter socialminister.",
+      "levnadsar": "",
+      "tilltrade": "3 oktober 2014",
+      "frantrade": "21 januari 2019",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven I S – MP"
+    },
+    {
+      "namn": "Lena Hallengren",
+      "levnadsar": "1973–",
+      "tilltrade": "21 januari 2019",
+      "frantrade": "6 oktober 2022",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven II S – MP"
+    },
+    {
+      "namn": "Lena Hallengren",
+      "levnadsar": "1973–",
+      "tilltrade": "21 januari 2019",
+      "frantrade": "6 oktober 2022",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven III S – MP"
+    },
+    {
+      "namn": "Lena Hallengren",
+      "levnadsar": "1973–",
+      "tilltrade": "21 januari 2019",
+      "frantrade": "6 oktober 2022",
+      "parti": "Socialdemokraterna",
+      "regering": "Andersson S"
+    },
+    {
+      "namn": "Ardalan Shekarabi",
+      "levnadsar": "1978–",
+      "tilltrade": "6 oktober 2022",
+      "frantrade": "18 oktober 2022",
+      "parti": "Socialdemokraterna",
+      "regering": "Andersson S"
+    },
+    {
+      "namn": "Jakob Forssmed",
+      "levnadsar": "1974–",
+      "tilltrade": "18 oktober 2022",
+      "frantrade": "",
+      "parti": "Kristdemokraterna",
+      "regering": "Kristersson M – KD – L"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges socialministrar - Free Download",
+    "description": "Lista över Sveriges socialministrar sedan Socialdepartementets inrättande 1920, med ämbetsperiod, parti och regering. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges socialministrar | ListBase",
+    "seo_description": "Download Sveriges socialministrar — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_socialminister"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-05T02:25:40.444Z",
-  "total_datasets": 523,
-  "total_records": 2266823,
+  "generated": "2026-11-05T02:25:46.810Z",
+  "total_datasets": 524,
+  "total_records": 2266870,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -4413,6 +4413,33 @@
         "xlsx": {
           "name": "sv-sjukvardsregioner_SV.xlsx",
           "size": 7778
+        }
+      }
+    },
+    {
+      "id": "sv-socialministrar",
+      "name": "Sveriges socialministrar",
+      "category": "health",
+      "record_count": 47,
+      "columns": [
+        "namn",
+        "levnadsar",
+        "tilltrade",
+        "frantrade",
+        "parti",
+        "regering"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_socialminister",
+      "updated": "2026-11",
+      "size": 12379,
+      "files": {
+        "csv": {
+          "name": "sv-socialministrar_SV.csv",
+          "size": 5029
+        },
+        "xlsx": {
+          "name": "sv-socialministrar_SV.xlsx",
+          "size": 9157
         }
       }
     },
