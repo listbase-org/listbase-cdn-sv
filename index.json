@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-05T02:25:46.810Z",
-  "total_datasets": 524,
-  "total_records": 2266870,
+  "generated": "2026-11-05T02:25:54.470Z",
+  "total_datasets": 525,
+  "total_records": 2266906,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -2047,6 +2047,30 @@
         "xlsx": {
           "name": "sv-storsta-livsmedelsforetag_SV.xlsx",
           "size": 7481
+        }
+      }
+    },
+    {
+      "id": "sv-svenska-drycker",
+      "name": "Svenska drycker",
+      "category": "food",
+      "record_count": 36,
+      "columns": [
+        "dryck",
+        "kategori",
+        "beskrivning"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_drycker",
+      "updated": "2026-11",
+      "size": 9231,
+      "files": {
+        "csv": {
+          "name": "sv-svenska-drycker_SV.csv",
+          "size": 5315
+        },
+        "xlsx": {
+          "name": "sv-svenska-drycker_SV.xlsx",
+          "size": 9423
         }
       }
     },

@@ -1,0 +1,221 @@
+{
+  "id": "sv-svenska-drycker",
+  "name": "Svenska drycker",
+  "title": "Svenska drycker",
+  "description": "Traditionella och moderna svenska drycker – spritdrycker, lågalkoholhaltiga drycker, varma drycker, saft och svenska läskedrycker – med kort beskrivning.",
+  "category": "food",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_drycker",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_svenska_drycker",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "dryck",
+      "label": "Dryck",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "beskrivning",
+      "label": "Beskrivning",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dryck": "Akvavit",
+      "kategori": "Alkoholhaltiga drycker",
+      "beskrivning": "kryddat brännvin smaksatt med minst en av kryddorna kummin och dill."
+    },
+    {
+      "dryck": "Brännvin",
+      "kategori": "Alkoholhaltiga drycker",
+      "beskrivning": "en destillerad spritdryck ofta gjord av säd eller potatis."
+    },
+    {
+      "dryck": "Punsch",
+      "kategori": "Alkoholhaltiga drycker",
+      "beskrivning": "en söt spritdryck baserad på arrak."
+    },
+    {
+      "dryck": "Bultöl",
+      "kategori": "Traditionella drycker med låg alkoholhalt",
+      "beskrivning": "en primitiv form av mäsk, inte sällan framställd av enbart raffinerat socker, bakjäst och vatten som får jäsa."
+    },
+    {
+      "dryck": "Gotlandsdricka",
+      "kategori": "Traditionella drycker med låg alkoholhalt",
+      "beskrivning": "på gotländska, dricke (i bestämd form dricku), är en gotländsk hemtillverkad, jäst, alkoholhaltig dryck som närmast påminner om färsköl."
+    },
+    {
+      "dryck": "Mjöd",
+      "kategori": "Traditionella drycker med låg alkoholhalt",
+      "beskrivning": "även kallat honungsvin, en alkoholhaltig dryck som får sin alkoholhalt genom jäsning med hjälp av honung."
+    },
+    {
+      "dryck": "Mumma",
+      "kategori": "Traditionella drycker med låg alkoholhalt",
+      "beskrivning": "en gammal juldricka som är populär att bjuda på till julbordet."
+    },
+    {
+      "dryck": "Solvin",
+      "kategori": "Traditionella drycker med låg alkoholhalt",
+      "beskrivning": "vin gjort av enbart svarta vinbär och socker. Man fyller en flaska med saften från krossade bär och tillsätter sockerbitar varje dag från skörden till Lucia."
+    },
+    {
+      "dryck": "Svagdricka",
+      "kategori": "Traditionella drycker med låg alkoholhalt",
+      "beskrivning": "traditionell, i regel överjäst, söt maltdryck med låg alkoholhalt."
+    },
+    {
+      "dryck": "Glögg",
+      "kategori": "Varma drycker",
+      "beskrivning": "en varm (alkoholhaltig) dryck, ordet glögg kommer av det äldre ordet glödg, bildat av verbet glödga."
+    },
+    {
+      "dryck": "Kaffekask, kaffegök, kask eller gök",
+      "kategori": "Varma drycker",
+      "beskrivning": "en blandning av kaffe och brännvin eller cognac."
+    },
+    {
+      "dryck": "Fläderblomssaft (eller Hyllesaft i Skåne)",
+      "kategori": "Saft",
+      "beskrivning": "är saft gjord på blommor från växten äkta fläder, socker, citron och vatten. Citronsyra tillsätts för en syrligare smak."
+    },
+    {
+      "dryck": "Lingondricka",
+      "kategori": "Saft",
+      "beskrivning": "saft gjord på lingon. Hållbarheten på lingondricka är inte beroende av konserveringsmedel som för andra bärdrycker, då lingon innehåller bensoesyra."
+    },
+    {
+      "dryck": "Must (ex. Äppelmust)",
+      "kategori": "Saft",
+      "beskrivning": "dryck som består av utpressad saft från bär eller frukt och som har hindrats jäsa."
+    },
+    {
+      "dryck": "Svartvinbärssaft",
+      "kategori": "Saft",
+      "beskrivning": "saft gjord av de mycket C-vitaminrika bären från svartvinbärsbusken."
+    },
+    {
+      "dryck": "Enbärsdricka",
+      "kategori": "Svenska läsksorter",
+      "beskrivning": "en kolsyrad läskedryck med mustliknande karaktär som baserar sig på enbär."
+    },
+    {
+      "dryck": "Fruktsoda",
+      "kategori": "Svenska läsksorter",
+      "beskrivning": "en klassisk svensk läskedryck. Den är färglös och påminner med sin citron - eller limesmak om 7Up och Sprite."
+    },
+    {
+      "dryck": "Hallonsoda",
+      "kategori": "Svenska läsksorter",
+      "beskrivning": "en röd-rosafärgad läskedryck med hallonsmak. Tillverkas bl.a. av Spendrups."
+    },
+    {
+      "dryck": "Julmust, Påskmust etc",
+      "kategori": "Svenska läsksorter",
+      "beskrivning": "svartfärgad läske dryck med mustig och bubblig smak. Essensen till merparten av all must som produceras tillverkas av Roberts AB i Örebro."
+    },
+    {
+      "dryck": "Päronsoda",
+      "kategori": "Svenska läsksorter",
+      "beskrivning": "en läskedryck med smak av päron. Tillverkas av flera olika bryggerier, bl. a. Carlsberg (Apotekarnes päronsoda), Spendrups (\"Klassiker\") och Kopparbergs Bryggeri."
+    },
+    {
+      "dryck": "Sockerdricka",
+      "kategori": "Svenska läsksorter",
+      "beskrivning": "klassisk svensk läskedryck som började tillverkas på 1800-talet och som numera innehåller kolsyrat vatten, socker och citronsyra."
+    },
+    {
+      "dryck": "Champis",
+      "kategori": "Svenska läskvarumärken",
+      "beskrivning": "skapades av Robert Roberts 1918. Receptet är hemligt. Drycken marknadsförs av Spendrups."
+    },
+    {
+      "dryck": "Cuba Cola",
+      "kategori": "Svenska läskvarumärken",
+      "beskrivning": "Sveriges äldsta colasort, lanserad 1953. Ägs av Spendrups AB Sedan 2020"
+    },
+    {
+      "dryck": "Godtemplaredricka (efter godtemplare)",
+      "kategori": "Svenska läskvarumärken",
+      "beskrivning": "en alkoholfri dryck med flädersmak. Varumärket ägs av IOGT-NTO och tillverkas av Herrljunga Drycker."
+    },
+    {
+      "dryck": "Jaffa",
+      "kategori": "Svenska läskvarumärken",
+      "beskrivning": "en läskedryck med smak av apelsin. Marknadsförs av Spendrups."
+    },
+    {
+      "dryck": "Loranga",
+      "kategori": "Svenska läskvarumärken",
+      "beskrivning": "dryck med apelsinsmak, jämförbar med Fanta. Tillverkas av Krönleins bryggeri i Halmstad och Vasa Bryggeri."
+    },
+    {
+      "dryck": "Portello",
+      "kategori": "Svenska läskvarumärken",
+      "beskrivning": "en klassisk dryck i Norrland med en karamellaktig smak som har sitt ursprung i Malmbergets bryggeri på 1920-talet."
+    },
+    {
+      "dryck": "Pommac",
+      "kategori": "Svenska läskvarumärken",
+      "beskrivning": "en svensk läskedryck som funnits sedan 1919. Receptet är hemligt men sägs innehålla omkring 25 fruktsorter, tillverkas av Carlsberg."
+    },
+    {
+      "dryck": "Trocadero",
+      "kategori": "Svenska läskvarumärken",
+      "beskrivning": "lanserades i Sverige 1953 av bryggeriet Saturnus AB. Den speciella smaken är ett resultat av blandningen apelsin och äpple."
+    },
+    {
+      "dryck": "XL Cola",
+      "kategori": "Svenska läskvarumärken",
+      "beskrivning": "svenskt svar på Coca-Cola som tillverkades av Falcon och TILL-bryggerierna. Nedlagd kring 2000."
+    },
+    {
+      "dryck": "Zingo",
+      "kategori": "Svenska läskvarumärken",
+      "beskrivning": "en läskedryck med apelsinsmak som lanserades av Apotekarnes 1962. Med den berömda sloganen \"Försvinnande god\" påkommen av Odert von Schoulz så blev Zingo snabbt en stor säljare. Namnet har ev. inte något att göra med boxaren Ingo Johansson, men enligt den separata Wikipediaartikeln förhåller det sig dock så."
+    },
+    {
+      "dryck": "Mer",
+      "kategori": "Populära icke kolsyrade varumärken",
+      "beskrivning": "en dryck med fruktsmak, ägd av The Coca Cola Company sedan 1997 (tidigare Falcon)."
+    },
+    {
+      "dryck": "Festis",
+      "kategori": "Populära icke kolsyrade varumärken",
+      "beskrivning": "en icke kolsyrad läskedryck, marknadsförs av Carlsberg."
+    },
+    {
+      "dryck": "Pucko",
+      "kategori": "Populära icke kolsyrade varumärken",
+      "beskrivning": "choklad dryck som lanserades av Arla 1954."
+    },
+    {
+      "dryck": "Jokk",
+      "kategori": "Populära icke kolsyrade varumärken",
+      "beskrivning": "bärdryck som tillverkas av Norrmejerier."
+    },
+    {
+      "dryck": "Björksav",
+      "kategori": "Övrigt",
+      "beskrivning": "den drickbara saven utvunnen ur björkträd. Savtappning är en gammal svensk tradition."
+    }
+  ],
+  "meta": {
+    "title": "Svenska drycker - Free Download",
+    "description": "Traditionella och moderna svenska drycker – spritdrycker, lågalkoholhaltiga drycker, varma drycker, saft och svenska läskedrycker – med kort beskrivning. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska drycker | ListBase",
+    "seo_description": "Download Svenska drycker — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_svenska_drycker"
+    ]
+  }
+}
