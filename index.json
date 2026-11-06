@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-06T02:32:25.954Z",
-  "total_datasets": 531,
-  "total_records": 2267444,
+  "generated": "2026-11-06T02:32:35.595Z",
+  "total_datasets": 532,
+  "total_records": 2267548,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 42
+      "dataset_count": 43
     },
     {
       "id": "units",
@@ -13731,6 +13731,32 @@
         "xlsx": {
           "name": "sv-kronoberg-unlocode_SV.xlsx",
           "size": 11830
+        }
+      }
+    },
+    {
+      "id": "sv-nedlagda-jarnvagar",
+      "name": "Nedlagda svenska järnvägar",
+      "category": "transport",
+      "record_count": 104,
+      "columns": [
+        "namn",
+        "kod",
+        "sparvidd_mm",
+        "nedlagd",
+        "ovrig_info"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_nedlagda_svenska_järnvägar",
+      "updated": "2026-11",
+      "size": 19364,
+      "files": {
+        "csv": {
+          "name": "sv-nedlagda-jarnvagar_SV.csv",
+          "size": 7417
+        },
+        "xlsx": {
+          "name": "sv-nedlagda-jarnvagar_SV.xlsx",
+          "size": 11221
         }
       }
     },

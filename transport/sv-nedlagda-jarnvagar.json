@@ -1,0 +1,779 @@
+{
+  "id": "sv-nedlagda-jarnvagar",
+  "name": "Nedlagda svenska järnvägar",
+  "title": "Nedlagda svenska järnvägar",
+  "description": "Lista över nedlagda järnvägar i Sverige med kod, spårvidd och nedläggningsår.",
+  "category": "transport",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_nedlagda_svenska_järnvägar",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_nedlagda_svenska_järnvägar",
+  "updated": "2026-11",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "kod",
+      "label": "Kod",
+      "type": "string"
+    },
+    {
+      "key": "sparvidd_mm",
+      "label": "Sparvidd Mm",
+      "type": "number"
+    },
+    {
+      "key": "nedlagd",
+      "label": "Nedlagd",
+      "type": "number"
+    },
+    {
+      "key": "ovrig_info",
+      "label": "Ovrig Info",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "namn": "Anneberg–Ormaryds Järnväg",
+      "kod": "AOJ",
+      "sparvidd_mm": 600,
+      "nedlagd": "1935",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Askersund–Skyllberg–Lerbäcks Järnväg",
+      "kod": "ASLJ",
+      "sparvidd_mm": 891,
+      "nedlagd": "1955",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Borgholm–Böda Järnväg",
+      "kod": "BBJ",
+      "sparvidd_mm": 891,
+      "nedlagd": "1961",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Borås–Ulricehamns Järnväg",
+      "kod": "BUJ",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1986",
+      "ovrig_info": "med senare förlängning till Jönköping."
+    },
+    {
+      "namn": "Bredsjö–Degerfors Järnväg",
+      "kod": "BDJ",
+      "sparvidd_mm": 802,
+      "nedlagd": "1950-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Bredsjö–Grängens Järnväg",
+      "kod": "BGJ",
+      "sparvidd_mm": 802,
+      "nedlagd": "1950-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Bredåkra–Tingsryds Järnväg",
+      "kod": "BTJ",
+      "sparvidd_mm": 1067,
+      "nedlagd": "1969",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Byvalla–Långshyttans Järnväg",
+      "kod": "BLJ",
+      "sparvidd_mm": 891,
+      "nedlagd": "1964",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Bånghammar–Klotens Järnväg",
+      "kod": "BKJ",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1934",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Börringe–Östratorps Järnväg",
+      "kod": "BÖJ",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1974",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Dal–Västra Värmlands Järnväg",
+      "kod": "DVVJ",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1986",
+      "ovrig_info": "på sträckan Bengtsfors – Arvika (spår med dressintrafik finns kvar Bengtsfors–Kyrkerud nära Årjäng)"
+    },
+    {
+      "namn": "Dala–Ockelbo–Norrsundets Järnväg",
+      "kod": "DONJ",
+      "sparvidd_mm": 891,
+      "nedlagd": "1971",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Dalkarlsbergs Järnväg",
+      "kod": "–",
+      "sparvidd_mm": 802,
+      "nedlagd": "1907",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Dannemora–Hargs Järnväg",
+      "kod": "DHJ",
+      "sparvidd_mm": 891,
+      "nedlagd": "1970",
+      "ovrig_info": "Knaby–Ramhäll; Risinge–Norvällen; Lövstabruk–Normon"
+    },
+    {
+      "namn": "Dellenbanan",
+      "kod": "–",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1995",
+      "ovrig_info": "Ljusdal – Hudiksvall"
+    },
+    {
+      "namn": "Eksjö–Österbymo Järnväg",
+      "kod": "EÖJ",
+      "sparvidd_mm": 891,
+      "nedlagd": "1968",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Eslöv–Hörby Järnväg",
+      "kod": "EHJ",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1967",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Falkenbergs Järnväg",
+      "kod": "FJ",
+      "sparvidd_mm": 891,
+      "nedlagd": "1961",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Falköping – Landeryd / Västra Centralbanan",
+      "kod": "–",
+      "sparvidd_mm": 1435,
+      "nedlagd": "2022",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Falun–Rättvik–Mora Järnväg",
+      "kod": "FRMJ",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1966",
+      "ovrig_info": "Senare en del av Gefle–Dala Jernvägs huvudlinje på sträckan Grycksbo – Rättvik"
+    },
+    {
+      "namn": "Falun–Västerdalarnes Järnväg",
+      "kod": "FVJ",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1960",
+      "ovrig_info": "på sträckan Falun – Repbäcken. Repbäcken– Björbo är idag en del av Västerdalbanan."
+    },
+    {
+      "namn": "Faringe–Gimo Järnväg",
+      "kod": "FGJ",
+      "sparvidd_mm": 891,
+      "nedlagd": "1970",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Fegen–Ätrans Järnväg",
+      "kod": "FÄJ",
+      "sparvidd_mm": 0,
+      "nedlagd": "1961",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Gotlands Järnväg",
+      "kod": "GJ",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Gruvgården–Fors Järnväg",
+      "kod": "GFJ",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1966",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Gärds Härads Järnväg",
+      "kod": "GJ",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1980-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Göteborg–Särö Järnväg / Säröbanan",
+      "kod": "GSJ",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1965",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Halmstad–Bolmens Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1067,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Hedebanan",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1960-talet",
+      "ovrig_info": "Sveg – Hede"
+    },
+    {
+      "namn": "Hjo–Stenstorps Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Hvetlanda–Målilla Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1980-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Hvetlanda–Sävsjö Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1970-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Hällefors–Fredriksbergs Järnvägar",
+      "kod": "",
+      "sparvidd_mm": 802,
+      "nedlagd": "1970-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Hönshylte–Kvarnamåla Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1067,
+      "nedlagd": "1970-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Höör–Hörby Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1920-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Jädraås–Ockelbo Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1970-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Järnvägslinjen Kattarp – Höganäs",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1990-talet",
+      "ovrig_info": "Del av Skåne–Hallands Järnväg."
+    },
+    {
+      "namn": "Järnvägslinjen Reftele–Gislaved",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Jörn–Arvidsjaur",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1990-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Kalmar–Torsås Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Karlsborgsbanan",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1990-talet",
+      "ovrig_info": "Viss godstrafik Skövde–Tibro fram till 2003."
+    },
+    {
+      "namn": "Karlshamn–Vislanda Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1067,
+      "nedlagd": "1970-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Karlshamn–Vislanda–Bolmens Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1067,
+      "nedlagd": "1970-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Kimstad–Norrköpings Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Kinds Härads Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1902",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Klintehamn–Roma Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1950-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Klippan–Röstånga Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1980-talet",
+      "ovrig_info": "med senare förlängning till Eslöv."
+    },
+    {
+      "namn": "Köping–Uttersberg–Riddarhyttans Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1093,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Latorpsbruk–Garphyttans industribana",
+      "kod": "",
+      "sparvidd_mm": 600,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Ljungbyholm–Karlslunda Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Lund–Bjärreds Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1930-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Lund–Revinge Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1930-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Lund–Trelleborgs Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Malma–Haggårdens Järnväg",
+      "kod": "",
+      "sparvidd_mm": 600,
+      "nedlagd": "1950-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Matfors–Vattjoms Järnväg",
+      "kod": "",
+      "sparvidd_mm": "1067/1435",
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Mellersta Östergötlands Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": "Linköping–Fågelsta; Linköping–Ringstorp; Fornåsa–Motala; Klockrike–Borensberg"
+    },
+    {
+      "namn": "Mjölby–Hästholmens Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1990-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Möllebanan",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Nora Bergslags Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1990-talet",
+      "ovrig_info": "delar återstår som Nora Bergslags Veteran-Jernväg"
+    },
+    {
+      "namn": "Nora–Ervalla Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1960-talet",
+      "ovrig_info": "återstår som Nora Bergslags Veteran-Jernväg"
+    },
+    {
+      "namn": "Nora–Karlskoga Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1980-talet",
+      "ovrig_info": "mindre delar återstår som Nora Bergslags Veteran-Jernväg"
+    },
+    {
+      "namn": "Norra Hälsinglands Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": "Vattrångsby–Hudiksvall"
+    },
+    {
+      "namn": "Norra Södermanlands Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1990-talet",
+      "ovrig_info": "större delen återstår"
+    },
+    {
+      "namn": "Norra Östergötlands Järnvägar, Pålsboda – Örebro",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1980-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Norrköping–Söderköping–Vikbolandets Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Norsholm–Västervik–Hultsfreds Järnvägar",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1980-talet",
+      "ovrig_info": "på sträckan Norsholm – Åtvidaberg"
+    },
+    {
+      "namn": "Nättraby–Alnaryd–Elmeboda Järnväg",
+      "kod": "",
+      "sparvidd_mm": 600,
+      "nedlagd": "1940-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Ronehamn–Hemse Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1910-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Ruda–Oskarshamns Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1970-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Ruda–Älghults Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Sala–Gysinge–Gävle Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1990-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Skara–Timmersdala Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1940-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Skövde–Axvalls Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Slite–Roma Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1950-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Stavsjö Järnväg",
+      "kod": "",
+      "sparvidd_mm": 600,
+      "nedlagd": "1930-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Stockholm–Västerås–Bergslagens Järnvägar",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1960-talet",
+      "ovrig_info": "linjeavsnitt Tillberga – Ramnäs och Ludvika – Björbo. Namnen på banorna som tillhört SWB har skiftat genom åren; Kolbäck –Ramnäs–Ludvika heter idag Bergslagspendeln."
+    },
+    {
+      "namn": "Storå–Stråssa Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1980-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Striberg–Grängens Järnväg",
+      "kod": "",
+      "sparvidd_mm": 802,
+      "nedlagd": "1970-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Svartåbanan / Örebro–Svartå Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1980-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Sydvästra Gotlands Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1950-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Södra Ölands Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Trelleborg–Rydsgårds Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1980-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Trollhättan–Nossebro Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Uddevalla–Lelångens Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Uppsala–Enköpings Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1980-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Vadstena–Fågelsta Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1970-talet",
+      "ovrig_info": "senare en del av Mellersta Östergötlands Järnväg"
+    },
+    {
+      "namn": "Varberg–Ätrans Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Vellinge–Skanör–Falsterbo Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1970-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Vikern–Möckelns Järnväg",
+      "kod": "",
+      "sparvidd_mm": 802,
+      "nedlagd": "1907",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Vintjärn–Lilla Björnmossens Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1970-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Visby–Visborgsslätt–Bjärs Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1940-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Väderstad–Skänninge–Bränninge Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1950-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Västergötland–Göteborgs Järnvägar, Västgötabanan",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1980-talet",
+      "ovrig_info": "två korta museibanor kvar, i övrigt upprivet"
+    },
+    {
+      "namn": "Västra Klagstorp–Tygelsjö Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Växjö–Tingsryds Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1067,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Växjö–Åseda–Hultsfreds Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1980-talet",
+      "ovrig_info": "upprivet Växjö–Åseda, turisttrafik och dressintrafik på delar av kvarvarande sträcka."
+    },
+    {
+      "namn": "Ystad–Brösarps Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1970-talet",
+      "ovrig_info": "Se även Skånska Järnvägar."
+    },
+    {
+      "namn": "Ystad–Skivarps Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1910-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Åg–Vintjärns Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1940-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Ängelholm–Klippans Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1950-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Ölands Järnvägar",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Örebro–Svartå Järnväg / Svartåbanan",
+      "kod": "",
+      "sparvidd_mm": 1435,
+      "nedlagd": "1980-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Östra Blekinge Järnväg",
+      "kod": "",
+      "sparvidd_mm": 1067,
+      "nedlagd": "1960-talet",
+      "ovrig_info": ""
+    },
+    {
+      "namn": "Östra Värends Järnväg",
+      "kod": "",
+      "sparvidd_mm": 891,
+      "nedlagd": "1980-talet",
+      "ovrig_info": ""
+    }
+  ],
+  "meta": {
+    "title": "Nedlagda svenska järnvägar - Free Download",
+    "description": "Lista över nedlagda järnvägar i Sverige med kod, spårvidd och nedläggningsår. Contains 104 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nedlagda svenska järnvägar | ListBase",
+    "seo_description": "Download Nedlagda svenska järnvägar — 104 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 104 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_nedlagda_svenska_järnvägar"
+    ]
+  }
+}
