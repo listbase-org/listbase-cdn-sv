@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-06T02:32:08.855Z",
-  "total_datasets": 529,
-  "total_records": 2267084,
+  "generated": "2026-11-06T02:32:17.019Z",
+  "total_datasets": 530,
+  "total_records": 2267166,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -4756,6 +4756,29 @@
         "xlsx": {
           "name": "sv-sveriges-regenter_SV.xlsx",
           "size": 15248
+        }
+      }
+    },
+    {
+      "id": "sv-bokstavsfrekvens",
+      "name": "Bokstavsfrekvens i svenska",
+      "category": "language",
+      "record_count": 82,
+      "columns": [
+        "bokstav",
+        "frekvens_procent"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Bokstavsfrekvens",
+      "updated": "2026-11",
+      "size": 6717,
+      "files": {
+        "csv": {
+          "name": "sv-bokstavsfrekvens_SV.csv",
+          "size": 860
+        },
+        "xlsx": {
+          "name": "sv-bokstavsfrekvens_SV.xlsx",
+          "size": 8028
         }
       }
     },

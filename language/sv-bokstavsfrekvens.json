@@ -1,0 +1,364 @@
+{
+  "id": "sv-bokstavsfrekvens",
+  "name": "Bokstavsfrekvens i svenska",
+  "title": "Bokstavsfrekvens i svenska",
+  "description": "Relativ frekvens (%) för bokstäver i svenska språket.",
+  "category": "language",
+  "source": "https://sv.wikipedia.org/wiki/Bokstavsfrekvens",
+  "source_url": "https://sv.wikipedia.org/wiki/Bokstavsfrekvens",
+  "updated": "2026-11",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "bokstav",
+      "label": "Bokstav",
+      "type": "string"
+    },
+    {
+      "key": "frekvens_procent",
+      "label": "Frekvens Procent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bokstav": "a",
+      "frekvens_procent": "9.383"
+    },
+    {
+      "bokstav": "b",
+      "frekvens_procent": "1.535"
+    },
+    {
+      "bokstav": "c",
+      "frekvens_procent": "1.486"
+    },
+    {
+      "bokstav": "d",
+      "frekvens_procent": "4.702"
+    },
+    {
+      "bokstav": "e",
+      "frekvens_procent": "10.149"
+    },
+    {
+      "bokstav": "f",
+      "frekvens_procent": "2.027"
+    },
+    {
+      "bokstav": "g",
+      "frekvens_procent": "2.862"
+    },
+    {
+      "bokstav": "h",
+      "frekvens_procent": "2.090"
+    },
+    {
+      "bokstav": "i",
+      "frekvens_procent": "5.817"
+    },
+    {
+      "bokstav": "j",
+      "frekvens_procent": "0.614"
+    },
+    {
+      "bokstav": "k",
+      "frekvens_procent": "3.140"
+    },
+    {
+      "bokstav": "l",
+      "frekvens_procent": "5.275"
+    },
+    {
+      "bokstav": "m",
+      "frekvens_procent": "3.471"
+    },
+    {
+      "bokstav": "n",
+      "frekvens_procent": "8.542"
+    },
+    {
+      "bokstav": "o",
+      "frekvens_procent": "4.482"
+    },
+    {
+      "bokstav": "p",
+      "frekvens_procent": "1.839"
+    },
+    {
+      "bokstav": "q",
+      "frekvens_procent": "0.020"
+    },
+    {
+      "bokstav": "r",
+      "frekvens_procent": "8.431"
+    },
+    {
+      "bokstav": "s",
+      "frekvens_procent": "6.590"
+    },
+    {
+      "bokstav": "t",
+      "frekvens_procent": "7.691"
+    },
+    {
+      "bokstav": "u",
+      "frekvens_procent": "1.919"
+    },
+    {
+      "bokstav": "v",
+      "frekvens_procent": "2.415"
+    },
+    {
+      "bokstav": "w",
+      "frekvens_procent": "0.142"
+    },
+    {
+      "bokstav": "x",
+      "frekvens_procent": "0.159"
+    },
+    {
+      "bokstav": "y",
+      "frekvens_procent": "0.708"
+    },
+    {
+      "bokstav": "z",
+      "frekvens_procent": "0.070"
+    },
+    {
+      "bokstav": "å",
+      "frekvens_procent": "1.338"
+    },
+    {
+      "bokstav": "ä",
+      "frekvens_procent": "1.797"
+    },
+    {
+      "bokstav": "ö",
+      "frekvens_procent": "1.305"
+    },
+    {
+      "bokstav": "à",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "â",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "á",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ã",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ą",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "æ",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "œ",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ç",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ĉ",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ć",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "č",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ď",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ð",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "è",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "é",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ê",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ë",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ę",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ě",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ĝ",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ğ",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ĥ",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "î",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ì",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "í",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ï",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ı",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ĵ",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ł",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ñ",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ń",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ň",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ò",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ô",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ó",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ø",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ř",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ŝ",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ş",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ś",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "š",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ß",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ť",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "þ",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ù",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ú",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ŭ",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ü",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ů",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ý",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ź",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ż",
+      "frekvens_procent": "0"
+    },
+    {
+      "bokstav": "ž",
+      "frekvens_procent": "0"
+    }
+  ],
+  "meta": {
+    "title": "Bokstavsfrekvens i svenska - Free Download",
+    "description": "Relativ frekvens (%) för bokstäver i svenska språket. Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bokstavsfrekvens i svenska | ListBase",
+    "seo_description": "Download Bokstavsfrekvens i svenska — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Bokstavsfrekvens"
+    ]
+  }
+}
