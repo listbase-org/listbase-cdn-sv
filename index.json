@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-06T02:31:59.793Z",
-  "total_datasets": 528,
-  "total_records": 2267069,
+  "generated": "2026-11-06T02:32:08.855Z",
+  "total_datasets": 529,
+  "total_records": 2267084,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "economy",
@@ -301,6 +301,34 @@
         "xlsx": {
           "name": "sv-kloster_SV.xlsx",
           "size": 10885
+        }
+      }
+    },
+    {
+      "id": "sv-kulturministrar",
+      "name": "Sveriges kulturministrar",
+      "category": "culture",
+      "record_count": 15,
+      "columns": [
+        "namn",
+        "fodelse",
+        "tilltrade",
+        "frantrade",
+        "dod",
+        "parti",
+        "regering"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_kulturminister",
+      "updated": "2026-11",
+      "size": 5512,
+      "files": {
+        "csv": {
+          "name": "sv-kulturministrar_SV.csv",
+          "size": 1885
+        },
+        "xlsx": {
+          "name": "sv-kulturministrar_SV.xlsx",
+          "size": 7779
         }
       }
     },

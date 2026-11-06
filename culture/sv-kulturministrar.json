@@ -1,0 +1,196 @@
+{
+  "id": "sv-kulturministrar",
+  "name": "Sveriges kulturministrar",
+  "title": "Sveriges kulturministrar",
+  "description": "Lista över Sveriges kulturministrar med tillträde, frånträde, parti och regering.",
+  "category": "culture",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_kulturminister",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_kulturminister",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "fodelse",
+      "label": "Fodelse",
+      "type": "string"
+    },
+    {
+      "key": "tilltrade",
+      "label": "Tilltrade",
+      "type": "string"
+    },
+    {
+      "key": "frantrade",
+      "label": "Frantrade",
+      "type": "string"
+    },
+    {
+      "key": "dod",
+      "label": "Dod",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "regering",
+      "label": "Regering",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "namn": "Bengt Göransson",
+      "fodelse": "25 juni 1932 i Stockholm",
+      "tilltrade": "8 oktober 1982",
+      "frantrade": "4 oktober 1991",
+      "dod": "16 juni 2021",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme II"
+    },
+    {
+      "namn": "Bengt Göransson",
+      "fodelse": "25 juni 1932 i Stockholm",
+      "tilltrade": "8 oktober 1982",
+      "frantrade": "4 oktober 1991",
+      "dod": "16 juni 2021",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson I"
+    },
+    {
+      "namn": "Bengt Göransson",
+      "fodelse": "25 juni 1932 i Stockholm",
+      "tilltrade": "8 oktober 1982",
+      "frantrade": "4 oktober 1991",
+      "dod": "16 juni 2021",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson II"
+    },
+    {
+      "namn": "Birgit Friggebo",
+      "fodelse": "25 december 1941 i Falköping",
+      "tilltrade": "4 oktober 1991",
+      "frantrade": "7 oktober 1994",
+      "dod": "",
+      "parti": "Folkpartiet",
+      "regering": "C. Bildt"
+    },
+    {
+      "namn": "Margot Wallström",
+      "fodelse": "28 september 1954 i Kåge i Västerbotten",
+      "tilltrade": "7 oktober 1994",
+      "frantrade": "22 mars 1996",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson III"
+    },
+    {
+      "namn": "Marita Ulvskog",
+      "fodelse": "4 september 1951 i Luleå",
+      "tilltrade": "22 mars 1996",
+      "frantrade": "13 september 2004",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "namn": "Pär Nuder",
+      "fodelse": "27 februari 1963 i Täby i Uppland",
+      "tilltrade": "13 september 2004",
+      "frantrade": "1 november 2004",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "namn": "Leif Pagrotsky",
+      "fodelse": "20 oktober 1951 i Göteborg",
+      "tilltrade": "1 november 2004",
+      "frantrade": "6 oktober 2006",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "namn": "Cecilia Stegö Chilò",
+      "fodelse": "25 mars 1959 i Linköping",
+      "tilltrade": "6 oktober 2006",
+      "frantrade": "16 oktober 2006",
+      "dod": "15 februari 2025",
+      "parti": "Moderaterna",
+      "regering": "Reinfeldt"
+    },
+    {
+      "namn": "Lars Leijonborg",
+      "fodelse": "21 november 1949 i Täby i Uppland",
+      "tilltrade": "16 oktober 2006",
+      "frantrade": "24 oktober 2006",
+      "dod": "",
+      "parti": "Folkpartiet",
+      "regering": "Reinfeldt"
+    },
+    {
+      "namn": "Lena Adelsohn Liljeroth",
+      "fodelse": "24 november 1955 i Stockholm",
+      "tilltrade": "24 oktober 2006",
+      "frantrade": "2 oktober 2014",
+      "dod": "",
+      "parti": "Moderaterna",
+      "regering": "Reinfeldt"
+    },
+    {
+      "namn": "Alice Bah Kuhnke",
+      "fodelse": "21 december 1971 i Malmö",
+      "tilltrade": "3 oktober 2014",
+      "frantrade": "21 januari 2019",
+      "dod": "",
+      "parti": "Miljöpartiet",
+      "regering": "Löfven I"
+    },
+    {
+      "namn": "Amanda Lind",
+      "fodelse": "2 augusti 1980 i Uppsala",
+      "tilltrade": "21 januari 2019",
+      "frantrade": "30 november 2021",
+      "dod": "",
+      "parti": "Miljöpartiet",
+      "regering": "Löfven II Löfven III"
+    },
+    {
+      "namn": "Jeanette Gustafsdotter",
+      "fodelse": "24 december 1965 i Göteborg",
+      "tilltrade": "30 november 2021",
+      "frantrade": "18 oktober 2022",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Andersson"
+    },
+    {
+      "namn": "Parisa Liljestrand",
+      "fodelse": "15 mars 1983 i Iran",
+      "tilltrade": "18 oktober 2022",
+      "frantrade": "",
+      "dod": "",
+      "parti": "Moderaterna",
+      "regering": "Kristersson"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges kulturministrar - Free Download",
+    "description": "Lista över Sveriges kulturministrar med tillträde, frånträde, parti och regering. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges kulturministrar | ListBase",
+    "seo_description": "Download Sveriges kulturministrar — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_kulturminister"
+    ]
+  }
+}
