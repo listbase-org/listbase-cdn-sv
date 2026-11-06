@@ -1,0 +1,304 @@
+{
+  "id": "sv-nationalparker",
+  "name": "Nationalparker i Sverige",
+  "title": "Nationalparker i Sverige",
+  "description": "Lista över Sveriges nationalparker med beslutsår, areal, län och motivering.",
+  "category": "environment",
+  "source": "https://sv.wikipedia.org/wiki/Nationalparker_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Nationalparker_i_Sverige",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "park",
+      "label": "Park",
+      "type": "string"
+    },
+    {
+      "key": "beslutsar",
+      "label": "Beslutsar",
+      "type": "number"
+    },
+    {
+      "key": "areal_ha",
+      "label": "Areal Ha",
+      "type": "number"
+    },
+    {
+      "key": "nummer",
+      "label": "Nummer",
+      "type": "number"
+    },
+    {
+      "key": "lan",
+      "label": "Lan",
+      "type": "string"
+    },
+    {
+      "key": "motivering",
+      "label": "Motivering",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "park": "Abisko",
+      "beslutsar": 1909,
+      "areal_ha": 7700,
+      "nummer": 2,
+      "lan": "BD",
+      "motivering": "bevara ett högnordiskt fjällandskap i dess naturliga tillstånd"
+    },
+    {
+      "park": "Garphyttan",
+      "beslutsar": 1909,
+      "areal_ha": 111,
+      "nummer": 17,
+      "lan": "T",
+      "motivering": "bevara ett äldre odlingslandskap i väsentligen oförändrat skick"
+    },
+    {
+      "park": "Gotska Sandön",
+      "beslutsar": 1909,
+      "areal_ha": 4490,
+      "nummer": 28,
+      "lan": "I",
+      "motivering": "bevara ön i dess naturliga tillstånd"
+    },
+    {
+      "park": "Hamra",
+      "beslutsar": 1909,
+      "areal_ha": 1383,
+      "nummer": 14,
+      "lan": "X",
+      "motivering": "bevara områdets naturmiljö i väsentligen orört skick och värna ostörda naturupplevelser inom ett avsnitt bergkullslätt med urskogsartad skog,blandmyrkomplex och andra våtmarkstyper samt ett vattendrag med opåverkad hydrologi"
+    },
+    {
+      "park": "Pieljekaise",
+      "beslutsar": 1909,
+      "areal_ha": 15340,
+      "nummer": 7,
+      "lan": "BD",
+      "motivering": "bevara ett område med fjällbjörkskog i dess naturliga tillstånd"
+    },
+    {
+      "park": "Sarek",
+      "beslutsar": 1909,
+      "areal_ha": 197000,
+      "nummer": 5,
+      "lan": "BD",
+      "motivering": "bevara ett utpräglat högfjällandskap i dess naturliga tillstånd"
+    },
+    {
+      "park": "Stora Sjöfallet",
+      "beslutsar": 1909,
+      "areal_ha": 127800,
+      "nummer": 3,
+      "lan": "BD",
+      "motivering": "bevara ett högnordiskt fjällandskap i dess naturliga tillstånd"
+    },
+    {
+      "park": "Sonfjället",
+      "beslutsar": 1909,
+      "areal_ha": 10300,
+      "nummer": 11,
+      "lan": "Z",
+      "motivering": "bevara ett skogs- och fjällområde i de södra fjälltrakterna i dess naturliga tillstånd"
+    },
+    {
+      "park": "Ängsö",
+      "beslutsar": 1909,
+      "areal_ha": 195,
+      "nummer": 16,
+      "lan": "A",
+      "motivering": "bevara ett äldre odlingslandskap i väsentligen oförändrat skick"
+    },
+    {
+      "park": "Dalby Söderskog",
+      "beslutsar": 1918,
+      "areal_ha": 36,
+      "nummer": 26,
+      "lan": "M",
+      "motivering": "bevara vad som då beskrevs som en sydsvensk lövskog"
+    },
+    {
+      "park": "Vadvetjåkka",
+      "beslutsar": 1920,
+      "areal_ha": 2630,
+      "nummer": 1,
+      "lan": "BD",
+      "motivering": "bevara ett högnordiskt fjällandskap i dess naturliga tillstånd"
+    },
+    {
+      "park": "Blå Jungfrun",
+      "beslutsar": 1926,
+      "areal_ha": 198,
+      "nummer": 24,
+      "lan": "H",
+      "motivering": "bevara ön i dess naturliga tillstånd"
+    },
+    {
+      "park": "Norra Kvill",
+      "beslutsar": 1927,
+      "areal_ha": 114,
+      "nummer": 22,
+      "lan": "H",
+      "motivering": "i den sydsvenska barrskogsregionen bevara ett område med urskogsartad barrskog i dess naturliga tillstånd och för fri utveckling mot urskog"
+    },
+    {
+      "park": "Nämdöskärgårdens nationalpark",
+      "beslutsar": 2025,
+      "areal_ha": 25300,
+      "nummer": 31,
+      "lan": "A",
+      "motivering": "Att bevara ett representativt och variationsrikt havs- och skärgårdslandskap i Östersjön i väsentligen oförändrat skick."
+    },
+    {
+      "park": "Töfsingdalen",
+      "beslutsar": 1930,
+      "areal_ha": 1615,
+      "nummer": 12,
+      "lan": "W",
+      "motivering": "bevara ett blockmarks- och barrskogsområde i de södra fjälltrakterna i dess naturliga tillstånd"
+    },
+    {
+      "park": "Muddus",
+      "beslutsar": 1942,
+      "areal_ha": 49340,
+      "nummer": 6,
+      "lan": "BD",
+      "motivering": "bevara ett skogs- och myrlandskap i dess naturliga tillstånd"
+    },
+    {
+      "park": "Padjelanta",
+      "beslutsar": 1962,
+      "areal_ha": 198400,
+      "nummer": 4,
+      "lan": "BD",
+      "motivering": "bevara ett på sjöar och vidsträckta hedar rikt fjällandskap i dess naturliga tillstånd"
+    },
+    {
+      "park": "Store Mosse",
+      "beslutsar": 1982,
+      "areal_ha": 7850,
+      "nummer": 23,
+      "lan": "F",
+      "motivering": "bevara Sydsveriges största sammanhängande myrområde i väsentligen oförändrat skick, där sjö och myr med växtlighet och djurliv skall få utvecklas fritt"
+    },
+    {
+      "park": "Tiveden",
+      "beslutsar": 1983,
+      "areal_ha": 2000,
+      "nummer": 21,
+      "lan": "O, T",
+      "motivering": "bevara ett sammanhängande skogs-, sjö- och sprickdalslandskap i orört skick och att därvid skogen skall få utvecklas mot urskog"
+    },
+    {
+      "park": "Skuleskogen",
+      "beslutsar": 1984,
+      "areal_ha": 2360,
+      "nummer": 10,
+      "lan": "Y",
+      "motivering": "bevara ett starkt kuperat kustanknutet skogs-, hällmarks- och sprickdalslandskap i orört skick, där växtlighet och djurliv får utvecklas fritt"
+    },
+    {
+      "park": "Stenshuvud",
+      "beslutsar": 1986,
+      "areal_ha": 390,
+      "nummer": 27,
+      "lan": "M",
+      "motivering": "bevara ett storslaget naturområde med stora geologiska och biologiska skyddsvärden och som är av stor betydelse för det rörliga friluftslivet"
+    },
+    {
+      "park": "Björnlandet",
+      "beslutsar": 1991,
+      "areal_ha": 2369,
+      "nummer": 9,
+      "lan": "AC",
+      "motivering": "bevara ett värdefullt berg- och urskogsområde"
+    },
+    {
+      "park": "Djurö",
+      "beslutsar": 1991,
+      "areal_ha": 2400,
+      "nummer": 20,
+      "lan": "O",
+      "motivering": "bevara ett skärgårdslandskap i Vänern i väsentligen oförändrat skick"
+    },
+    {
+      "park": "Tyresta",
+      "beslutsar": 1993,
+      "areal_ha": 1964,
+      "nummer": 18,
+      "lan": "A",
+      "motivering": "bevara ett representativt sprickdalslandskap med omfattande urskogar och värdefull natur i övrigt"
+    },
+    {
+      "park": "Haparanda skärgård",
+      "beslutsar": 1995,
+      "areal_ha": 6000,
+      "nummer": 8,
+      "lan": "BD",
+      "motivering": "bevara ett unikt skärgårdslandskap i väsentligen orört skick"
+    },
+    {
+      "park": "Tresticklan",
+      "beslutsar": 1996,
+      "areal_ha": 2897,
+      "nummer": 19,
+      "lan": "O",
+      "motivering": "bevara ett sprickdalslandskap av ödemarkskaraktär med omfattande naturskogar med en låg grad av kulturpåverkan"
+    },
+    {
+      "park": "Färnebofjärden",
+      "beslutsar": 1998,
+      "areal_ha": 10100,
+      "nummer": 15,
+      "lan": "C, X, W, U",
+      "motivering": "bevara ett unikt älvlandskap med omgivande värdefulla skogar och våtmarker i väsentligen orört skick"
+    },
+    {
+      "park": "Söderåsen",
+      "beslutsar": 2001,
+      "areal_ha": 1625,
+      "nummer": 25,
+      "lan": "M",
+      "motivering": "bevara ett större sammanhängande område av det sydsvenska horstlandskapet i väsentligen oförändrat skick"
+    },
+    {
+      "park": "Fulufjället",
+      "beslutsar": 2002,
+      "areal_ha": 38500,
+      "nummer": 13,
+      "lan": "W",
+      "motivering": "bevara ett sydligt fjällområde med särpräglad vegetation och stora naturvärden i väsentligen oförändrat skick"
+    },
+    {
+      "park": "Kosterhavet",
+      "beslutsar": 2009,
+      "areal_ha": 38878,
+      "nummer": 29,
+      "lan": "O",
+      "motivering": "bevara ett särpräglat och artrikt havs- och skärgårdsområde samt angränsande landområden i väsentligen oförändrat skick"
+    },
+    {
+      "park": "Åsnen",
+      "beslutsar": 2018,
+      "areal_ha": 1873,
+      "nummer": 30,
+      "lan": "G",
+      "motivering": "bevara ett representativt, variationsrikt och biologiskt värdefullt sydsvenskt skogs- och sjölandskap där växt- och djurlivet i stor utsträckning är orört."
+    }
+  ],
+  "meta": {
+    "title": "Nationalparker i Sverige - Free Download",
+    "description": "Lista över Sveriges nationalparker med beslutsår, areal, län och motivering. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nationalparker i Sverige | ListBase",
+    "seo_description": "Download Nationalparker i Sverige — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Nationalparker_i_Sverige"
+    ]
+  }
+}

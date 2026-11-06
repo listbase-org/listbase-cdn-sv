@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-05T02:33:26.523Z",
-  "total_datasets": 526,
-  "total_records": 2266954,
+  "generated": "2026-11-06T02:31:49.709Z",
+  "total_datasets": 527,
+  "total_records": 2266985,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "finance",
@@ -1648,6 +1648,33 @@
         "xlsx": {
           "name": "sv-mattenheter-temperature_SV.xlsx",
           "size": 7019
+        }
+      }
+    },
+    {
+      "id": "sv-nationalparker",
+      "name": "Nationalparker i Sverige",
+      "category": "environment",
+      "record_count": 31,
+      "columns": [
+        "park",
+        "beslutsar",
+        "areal_ha",
+        "nummer",
+        "lan",
+        "motivering"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Nationalparker_i_Sverige",
+      "updated": "2026-11",
+      "size": 9379,
+      "files": {
+        "csv": {
+          "name": "sv-nationalparker_SV.csv",
+          "size": 4370
+        },
+        "xlsx": {
+          "name": "sv-nationalparker_SV.xlsx",
+          "size": 9002
         }
       }
     },
