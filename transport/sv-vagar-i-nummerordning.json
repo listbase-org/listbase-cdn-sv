@@ -1,0 +1,1431 @@
+{
+  "id": "sv-vagar-i-nummerordning",
+  "name": "Svenska vägar i nummerordning",
+  "title": "Svenska vägar i nummerordning",
+  "description": "Lista över europavägar, riksvägar och länsvägar i Sverige med sträckning.",
+  "category": "transport",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_vägar_i_nummerordning",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_svenska_vägar_i_nummerordning",
+  "updated": "2026-11",
+  "record_count": 278,
+  "columns": [
+    {
+      "key": "vag",
+      "label": "Vag",
+      "type": "string"
+    },
+    {
+      "key": "strackning",
+      "label": "Strackning",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "vag": "E4",
+      "strackning": "Helsingborg - Jönköping - Stockholm - Uppsala - Gävle - Sundsvall - Umeå - Haparanda (- Torneå)",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "E6",
+      "strackning": "(Kirkenes -) norska gränsen - Uddevalla - Göteborg - Helsingborg - Malmö - Trelleborg",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "E10",
+      "strackning": "Luleå - Gällivare - Kiruna - Riksgränsen (- Lofoten)",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "E12",
+      "strackning": "(Helsingfors -) Holmsund - Umeå - Lycksele - Storuman - norska gränsen (- Mo i Rana)",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "E14",
+      "strackning": "Sundsvall - Östersund - Åre - norska gränsen (- Trondheim)",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "E16",
+      "strackning": "(Londonderry -) norska gränsen - Torsby - Malung - Borlänge - Falun - Gävle",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "E18",
+      "strackning": "(Craigavon -) norska gränsen - Karlstad - Örebro - Västerås - Stockholm - Norrtälje - Kapellskär (- Sankt Petersburg)",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "E20",
+      "strackning": "(Shannon Airport -) Öresundsbron - Malmö - Göteborg - Örebro - Eskilstuna - Stockholm (- Sankt Petersburg)",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "E22",
+      "strackning": "(Holyhead -) Trelleborg - Malmö - Kalmar - Oskarshamn - Norrköping (- Isjim, Ryssland)",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "E45",
+      "strackning": "(Gela -) Göteborg - Grums - Mora - Östersund - Arvidsjaur - Gällivare - Karesuando (- Alta)",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "E65",
+      "strackning": "Malmö - Ystad (- Kreta)",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "E265",
+      "strackning": "Kapellskär (- Tallinn)",
+      "kategori": "Europavägar E4 - E65"
+    },
+    {
+      "vag": "Riksväg 9",
+      "strackning": "Trelleborg - Ystad - Simrishamn - Brösarp (Kristianstad)",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 11",
+      "strackning": "Malmö - Simrishamn",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 13",
+      "strackning": "Ystad - Höör - Ängelholm",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 15",
+      "strackning": "Halmstad - Markaryd - Osby - Olofström - Karlshamn",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 17",
+      "strackning": "Landskrona - Eslöv - Fogdarp (Hörby)",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 19",
+      "strackning": "Ystad - Tomelilla - Brösarp - Kristianstad - Osby",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 21",
+      "strackning": "Kristianstad - Hässleholm - Åstorp (Helsingborg)",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 23",
+      "strackning": "Malmö - Växjö - Linköping",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 24",
+      "strackning": "(Halmstad) Mellbystrand - Hässleholm",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 25",
+      "strackning": "Halmstad - Växjö - Kalmar",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 26",
+      "strackning": "Halmstad - Gislaved - Jönköping - Mariestad - Kristinehamn - Mora",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 27",
+      "strackning": "Karlskrona - Ronneby - Växjö - Värnamo - Borås - Göteborg",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 28",
+      "strackning": "Karlskrona - Vägershult (Vetlanda)",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 29",
+      "strackning": "Karlshamn - Tingsryd - Växjö",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 30",
+      "strackning": "Växjö - Jönköping",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 31",
+      "strackning": "Kalmar - Nybro - Vetlanda - Nässjö - Jönköping",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 32",
+      "strackning": "Vetlanda - Mjölby - Motala",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 34",
+      "strackning": "Kalmar - Vimmerby - Linköping - Motala",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 35",
+      "strackning": "Västervik - Linköping",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 37",
+      "strackning": "Växjö - Oskarshamn",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 40",
+      "strackning": "Göteborg - Borås - Jönköping - Nässjö - Västervik",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 41",
+      "strackning": "Varberg - Borås",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 42",
+      "strackning": "Borås - Trollhättan",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 44",
+      "strackning": "Uddevalla - Lidköping - Götene",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 46",
+      "strackning": "Ulricehamn - Skövde",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 47",
+      "strackning": "Oskarshamn - Jönköping - Falköping - Grästorp - Trollhättan",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 49",
+      "strackning": "Lidköping - Skara - Skövde - Askersund",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 50",
+      "strackning": "Jönköping - Ödeshög - Mjölby - Motala - Örebro - Falun - Alfta - Bollnäs - Söderhamn",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 51",
+      "strackning": "Norrköping - Örebro",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 52",
+      "strackning": "Nyköping - Katrineholm - Örebro",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 53",
+      "strackning": "Oxelösund - Nyköping - Malmköping - Eskilstuna",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 55",
+      "strackning": "Norrköping - Katrineholm - Strängnäs - Enköping - Uppsala",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 56",
+      "strackning": "Norrköping - Katrineholm - Kungsör - Västerås - Sala - Heby - Gävle",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 57",
+      "strackning": "Katrineholm - Södertälje",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 61",
+      "strackning": "Karlstad - Arvika - Morokulien",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 62",
+      "strackning": "Karlstad - Långflon - norska gränsen",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 63",
+      "strackning": "Karlstad - Kopparberg (Ludvika)",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 66",
+      "strackning": "Västerås - Fagersta - Ludvika - Björbo - Vansbro - Malung - Sälen - norska gränsen",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 68",
+      "strackning": "Örebro - Lindesberg - Fagersta - Avesta - Storvik - Gävle",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 69",
+      "strackning": "Fagersta - Norberg - Hedemora - Falun - Rättvik",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 70",
+      "strackning": "Enköping - Sala - Avesta - Borlänge - Mora - Älvdalen - Idre - norska gränsen",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 72",
+      "strackning": "Uppsala - Sala",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 73",
+      "strackning": "Stockholm - Haninge - Nynäshamn",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 75",
+      "strackning": "(Södra länken) E4 / E20 Västberga - Årsta - Länsväg 222 Nacka",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 76",
+      "strackning": "Norrtälje - Östhammar - Älvkarleby - Gävle",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 77",
+      "strackning": "Norrtälje - Knivsta (Uppsala)",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 83",
+      "strackning": "Tönnebro - Bollnäs - Järvsö - Ljusdal - Ånge",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 84",
+      "strackning": "Hudiksvall - Ljusdal - Sveg - Funäsdalen - norska gränsen",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 86",
+      "strackning": "Sundsvall - Bispgården",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 87",
+      "strackning": "Östersund - Sollefteå",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 90",
+      "strackning": "Härnösand - Sollefteå - Åsele - Vilhelmina",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 92",
+      "strackning": "Umeå - Åsele - Dorotea",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 94",
+      "strackning": "Luleå - Antnäs - Älvsbyn - Arvidsjaur",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 95",
+      "strackning": "Skellefteå - Boliden - Arvidsjaur - Arjeplog - Kuoletisjaure - norska gränsen",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 97",
+      "strackning": "Luleå - Boden - Jokkmokk",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 98",
+      "strackning": "Överkalix - Övertorneå",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Riksväg 99",
+      "strackning": "Haparanda - Övertorneå - Pajala - Karesuando",
+      "kategori": "Riksvägar 9–99"
+    },
+    {
+      "vag": "Länsväg 100",
+      "strackning": "Skanör med Falsterbo - Vellinge",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 101",
+      "strackning": "Malmö - Anderslöv - Mossbystrand",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 102",
+      "strackning": "Skurup - Veberöd - Dalby - Lund",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 103",
+      "strackning": "Lund - Lomma",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 104",
+      "strackning": "Saxtorp - Kävlinge - Gårdstånga - Sjöbo",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 105",
+      "strackning": "Båstad - Ängelholm",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 106",
+      "strackning": "Teckomatorp - Svalöv - Kågeröd",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 107",
+      "strackning": "Ängelholm - Åstorp - Bjuv",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 108",
+      "strackning": "Trelleborg - Svedala - Lund - Kävlinge - Ljungbyhed - Åsljunga",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 109",
+      "strackning": "Ask - Kågeröd - Billesholm",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 110",
+      "strackning": "Saxtorp - Asmundtorp - Bjuv - Hyllinge",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 111",
+      "strackning": "Helsingborg - Höganäs - Mölle",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 112",
+      "strackning": "Åstorp - Höganäs",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 113",
+      "strackning": "Gårdstånga - Eslöv - Stockamöllan",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 114",
+      "strackning": "Munka-Ljungby - Örkelljunga",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 115",
+      "strackning": "Våxtorp - Torekov",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 116",
+      "strackning": "Bromölla - Olofström - Ryd",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 117",
+      "strackning": "Hässleholm - Markaryd",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 118",
+      "strackning": "Olseröd - Åhus - Kristianstad - Bjärlöv",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 119",
+      "strackning": "Hässleholm - Ryd",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 120",
+      "strackning": "Strömsnäsbruk - Älmhult - Tingsryd - Emmaboda - Nybro",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 121",
+      "strackning": "Lönsboda - Älmhult",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 122",
+      "strackning": "Karlskrona - Rödeby - Ingelstad - Växjö",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 123",
+      "strackning": "Sölvesborg - Nogersund",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 124",
+      "strackning": "Ljungby - Liatorp",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 125",
+      "strackning": "Kalmar - Lindsdal - Fagerhult - Vetlanda",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 126",
+      "strackning": "Karlshamn - Ryd - Alvesta - Lammhult",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 127",
+      "strackning": "Värnamo - Vrigstad - Vetlanda",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 128",
+      "strackning": "Sävsjö - Eksjö",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 129",
+      "strackning": "Hultsfred - Mariannelund",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 130",
+      "strackning": "Söderåkra - Torsås",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 131",
+      "strackning": "Tranås - Österbymo",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 132",
+      "strackning": "Huskvarna - Aneby",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 133",
+      "strackning": "Gränna - Tranås",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 134",
+      "strackning": "Eksjö - Kisa - Åtvidaberg",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 135",
+      "strackning": "Gamleby - Bränntorp - Kisa",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 136",
+      "strackning": "Ottenby - Färjestaden - Borgholm - Byxelkrok - Nabbelund",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 137",
+      "strackning": "(Ölandsleden) Kalmar - Ölandsbron - Färjestaden",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 140",
+      "strackning": "Visby - Klintehamn - Fidenäs",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 141",
+      "strackning": "Klintehamn - Hemse",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 142",
+      "strackning": "Visby - Hemse - Fidenäs - Burgsvik",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 143",
+      "strackning": "Visby - Roma - Ljugarn",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 144",
+      "strackning": "Länsväg 143 Ljugarn - Hemse",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 146",
+      "strackning": "Slite - Boge - Ala Länsväg 143",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 147",
+      "strackning": "Visby - Slite - Lärbro",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 148",
+      "strackning": "Visby - Fårösund",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 149",
+      "strackning": "Visby - Kappelshamn - Lärbro",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 150",
+      "strackning": "Falkenberg - Torup",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 151",
+      "strackning": "Värnamo - Gnosjö",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 152",
+      "strackning": "Bredaryd - Skillingaryd",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 153",
+      "strackning": "Varberg - Ullared - Smålandsstenar - Bredaryd - Värnamo",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 154",
+      "strackning": "Falkenberg - Ullared - Hillared - Borås",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 155",
+      "strackning": "Göteborg - Öckerö",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 156",
+      "strackning": "Härryda - Kinna - Tranemo - Norra Unnaryd",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 157",
+      "strackning": "Ulricehamn - Limmared",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 158",
+      "strackning": "Göteborg - Särö - Kungsbacka",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 160",
+      "strackning": "Lanesund - Henån - Varekil - Stenungsund - Stora Höga",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 161",
+      "strackning": "Uddevalla - Lysekil",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 162",
+      "strackning": "Munkedal - Lysekil",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 163",
+      "strackning": "Dingle - Fjällbacka - Grebbestad - Bullarebygden och Smeberg",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 164",
+      "strackning": "Åmål - Billingsfors - Dals-Ed - Skee - Strömstad",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 165",
+      "strackning": "Dingle - Hällevadsholm - Holtet - norska gränsen",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 166",
+      "strackning": "Mellerud - Dals-Ed",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 167",
+      "strackning": "Lilla Edet - Ljungskile",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 168",
+      "strackning": "Kungälv - Marstrand",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 169",
+      "strackning": "Myggenäs - Rönnäng",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 170",
+      "strackning": "Från E6 till norra Stenungsund",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 171",
+      "strackning": "Hallinden - Hunnebostrand",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 172",
+      "strackning": "Uddevalla - Bengtsfors - Arvika",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 173",
+      "strackning": "Frändefors - Färgelanda",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 174",
+      "strackning": "Dingle - Smögen",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 175",
+      "strackning": "Säffle - Arvika",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 176",
+      "strackning": "Strömstad - Värmlandsbro",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 177",
+      "strackning": "Årjäng - Vännacka - Åmotfors",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 178",
+      "strackning": "Varekil - Ellös",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 180",
+      "strackning": "(Trollhättan) - Anten - Alingsås - Borås",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 181",
+      "strackning": "Vårgårda - Falköping",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 182",
+      "strackning": "Ulricehamn - Timmele - Vårgårda",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 183",
+      "strackning": "Fristad - Herrljunga",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 184",
+      "strackning": "Falköping - Skara - Lidköping",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 185",
+      "strackning": "Bottnaryd - Mullsjö",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 186",
+      "strackning": "Grästorp - Nossebro - Lekåsa",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 187",
+      "strackning": "Lidköping - Vara",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 190",
+      "strackning": "Hjällbo - Gråbo - Sollebrunn - Nossebro",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 193",
+      "strackning": "Falköping - Tidaholm - Hjo",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 194",
+      "strackning": "Skövde - Hjo",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 195",
+      "strackning": "Jönköping - Hjo - Karlsborg",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 200",
+      "strackning": "Otterbäcken - Hova - Skövde",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 201",
+      "strackning": "Mariestad - Hjo",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 202",
+      "strackning": "Mariestad - Hultet",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 204",
+      "strackning": "Gullspång - Vintrosa - Lanna",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 205",
+      "strackning": "Askersund - Laxå - Karlskoga - Hällefors",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 206",
+      "strackning": "Mantorp - Skänninge – Vadstena",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 207",
+      "strackning": "Örebro - Odensbacken",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 209",
+      "strackning": "Norrköping - Arkösund",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 210",
+      "strackning": "Norsholm - Söderköping - Tyrislöt",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 211",
+      "strackning": "Borensberg - Hjortkvarn",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 212",
+      "strackning": "Valdemarsvik - Gryt",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 213",
+      "strackning": "Björsholm – Loftahammar",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 214",
+      "strackning": "Eskilstuna - Läppe",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 215",
+      "strackning": "Finspång - Norsholm",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 216",
+      "strackning": "Gammelsta - Dämbol",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 218",
+      "strackning": "Från E4 - Vagnhärad - Trosa",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 219",
+      "strackning": "Länsväg 223 / Nyköping - Sjösa - Studsvik - Vagnhärad",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 221",
+      "strackning": "Riksväg 52 Bettna - Riksväg 55 Flen f.d. Riksväg 58",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 222",
+      "strackning": "Riksväg 75 Stockholm - Stavsnäs",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 223",
+      "strackning": "E4 Nyköping - Björnlunda - Läggesta E20 - Mariefred",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 224",
+      "strackning": "E4 Lästringe kyrka - Gnesta (Sigtunarondellen) Riksväg 57",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 225",
+      "strackning": "E4 Södertälje - Ösmo Riksväg 73",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 226",
+      "strackning": "Riksväg 75 Årsta – Huddinge - Vårsta Länsväg 225",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 227",
+      "strackning": "Riksväg 73 Handen - Dalarö",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 228",
+      "strackning": "Länsväg 222 Nacka - Saltsjöbaden",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 229",
+      "strackning": "Örby - Tyresö",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 230",
+      "strackning": "E20 Eskilstuna - Alberga",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 233",
+      "strackning": "Kopparberg - Ramnäs Riksväg 66",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 236",
+      "strackning": "Karlstad - Skoghall",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 237",
+      "strackning": "Karlskoga - Storfors",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 238",
+      "strackning": "Riksväg 61 Brunskog - Västra Ämtervik E45",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 239",
+      "strackning": "Riksväg 62 Ekshärad - Torsby E45",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 240",
+      "strackning": "E18 Väse – Molkom Riksväg 63 - Hagfors",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 241",
+      "strackning": "E45 Sunne - Munkfors Riksväg 62",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 243",
+      "strackning": "Åtorp - Degerfors – Karlskoga – Nora",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 244",
+      "strackning": "Hällefors - Nora Riksväg 50 Riksväg 68",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 245",
+      "strackning": "Ludvika - Fredriksberg - Hagfors - Uddeholm",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 246",
+      "strackning": "Filipstad - Hagfors",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 249",
+      "strackning": "Arboga - Lindesberg Riksväg 50 Riksväg 68",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 250",
+      "strackning": "E20 Kungsör - Köping - Fagersta Riksväg 66 Riksväg 68",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 252",
+      "strackning": "Kvicksund - Ramnäs",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 254",
+      "strackning": "Riksväg 72 Heby - Fjärdhundra Riksväg 70",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 255",
+      "strackning": "Uppsala - Märsta",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 256",
+      "strackning": "Sala - Norberg",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 257",
+      "strackning": "Länsväg 225 Rosenhill - Västerhaninge Riksväg 73",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 258",
+      "strackning": "Hågelbyleden: E4 Alby - Tumba Länsväg 226",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 259",
+      "strackning": "Botkyrkaleden: E4 Fittja Haninge Riksväg 73",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 260",
+      "strackning": "Stockholm – Nacka - Handen",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 261",
+      "strackning": "Stockholm (Brommaplan) - Ekerö",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 262",
+      "strackning": "Häggvik - Danderyd",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 263",
+      "strackning": "Märsta - Skölsta (Enköping)",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 264",
+      "strackning": "Arninge - Vallentuna",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 265",
+      "strackning": "Häggvik - Rosenkälla",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 267",
+      "strackning": "Stäket - Rotebro",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 268",
+      "strackning": "Upplands Väsby - Brottby",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 269",
+      "strackning": "Bro – Håtunaholm (Skokloster)",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 270",
+      "strackning": "Hedemora - Ängelsfors (Hofors)",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 271",
+      "strackning": "Västertorp – Farsta - Trångsund",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 272",
+      "strackning": "Uppsala - Gysinge - Sandviken - Ockelbo - Sibo (- Bollnäs) Riksväg 83",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 273",
+      "strackning": "Märsta / Arlandastad - Arlanda - Almunge - Alunda",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 274",
+      "strackning": "Arninge – Vaxholm - Ålstäket (Gustavsberg)",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 275",
+      "strackning": "Stockholm - Vällingby – Sollentuna",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 276",
+      "strackning": "Rosenkälla - Åkersberga - Norrtälje",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 277",
+      "strackning": "Stockholm - Lidingö",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 278",
+      "strackning": "Norrtälje - Furusund",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 279",
+      "strackning": "Ulvsunda - Helenelund",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 280",
+      "strackning": "E18 Söderhall - Rimbo - Ekensborg Riksväg 76",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 282",
+      "strackning": "Uppsala - Edsbro",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 283",
+      "strackning": "Riksväg 76 Svanberga - Grisslehamn",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 288",
+      "strackning": "Uppsala - Östhammar Riksväg 76",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 290",
+      "strackning": "Uppsala - Forsmark",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 291",
+      "strackning": "Mehedeby - Älvkarleby Riksväg 76",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 292",
+      "strackning": "Söderfors - Tierp - Österbybruk - Harg Riksväg 76",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 293",
+      "strackning": "Falun - Norr Amsberg",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 296",
+      "strackning": "(E45) Orsa - Voxna - Los - Ytterhogdal (E45)",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 301",
+      "strackning": "Alfta - Edsbyn - Rättvik",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 302",
+      "strackning": "Kungsgården - Medskog",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 303",
+      "strackning": "Ockelbo - Hagsta",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 305",
+      "strackning": "Delsbo - Hassela - Stöde",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 307",
+      "strackning": "Jättendal - Hassela",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 310",
+      "strackning": "(E45) Västbacka - Los - Korskrogen (Riksväg 84)",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 311",
+      "strackning": "Sälen - Särna - Tännäs",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 314",
+      "strackning": "Ytterhogdal - Kölsillre",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 315",
+      "strackning": "Hedlanda - Östavall",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 316",
+      "strackning": "Klövsjö - Åsarna",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 320",
+      "strackning": "Kovland - Kälarne",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 321",
+      "strackning": "Svenstavik - Mattmar (Åre)",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 322",
+      "strackning": "Staa (Åre) - Skalstugan - norska gränsen",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 323",
+      "strackning": "Bräcke - Hammarstrand",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 330",
+      "strackning": "Indal - Bergeforsen",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 331",
+      "strackning": "Bergeforsen - Backe",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 332",
+      "strackning": "Lunde - Gallsätter",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 333",
+      "strackning": "Bollstabruk - Sandslån",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 334",
+      "strackning": "Lugnvik - Överlännäs",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 335",
+      "strackning": "Sollefteå - Örnsköldsvik",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 336",
+      "strackning": "Järpen - Kall - norska gränsen",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 339",
+      "strackning": "Krokom - Föllinge - Strömsund",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 340",
+      "strackning": "Krokom - Valsjöbyn - norska gränsen",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 342",
+      "strackning": "Strömsund - Gäddede - norska gränsen",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 344",
+      "strackning": "Lillholmsjö - Föllinge - Hammerdal - Selsviken",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 345",
+      "strackning": "Strömsund - Ramsele",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 346",
+      "strackning": "Hoting - Junsele",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 348",
+      "strackning": "Örnsköldsvik - Hälla (Åsele)",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 352",
+      "strackning": "Örnsköldsvik - Fredrika",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 353",
+      "strackning": "Nordmaling - Bjurholm - Lycksele",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 356",
+      "strackning": "Älvsbyn - Boden - Niemisel - Morjärv",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 360",
+      "strackning": "Lycksele - Vilhelmina",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 363",
+      "strackning": "Umeå - Vindeln - Rusksele - Sorsele - Ammarnäs",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 364",
+      "strackning": "Umeå - Botsmark - Burträsk - Skellefteå",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 365",
+      "strackning": "Åsele - Lycksele - Glommersträsk",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 370",
+      "strackning": "Boliden - Malå - Holmfors",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 372",
+      "strackning": "Skellefteå - Skelleftehamn",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 373",
+      "strackning": "Piteå - Abborrträsk (Arvidsjaur)",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 374",
+      "strackning": "Piteå - Älvsbyn - Ottostorp (Jokkmokk)",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 383",
+      "strackning": "Börjelslandet - Boden",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 392",
+      "strackning": "Överkalix - Korpilombolo - Pajala",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 394",
+      "strackning": "Gällivare - Tärendö - Pajala",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 395",
+      "strackning": "Pajala - Junosuando - Vittangi",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 398",
+      "strackning": "Sangis - Hedenäset",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 402",
+      "strackning": "Riksväg 99 - Pello - finska gränsen",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 403",
+      "strackning": "Pajala - Kaunisjoensuu - finska gränsen",
+      "kategori": "Länsvägar 100–404"
+    },
+    {
+      "vag": "Länsväg 404",
+      "strackning": "Muodoslompolo - Muoniovaara - finska gränsen",
+      "kategori": "Länsvägar 100–404"
+    }
+  ],
+  "meta": {
+    "title": "Svenska vägar i nummerordning - Free Download",
+    "description": "Lista över europavägar, riksvägar och länsvägar i Sverige med sträckning. Contains 278 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska vägar i nummerordning | ListBase",
+    "seo_description": "Download Svenska vägar i nummerordning — 278 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 278 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_svenska_vägar_i_nummerordning"
+    ]
+  }
+}

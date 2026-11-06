@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-06T02:32:17.019Z",
-  "total_datasets": 530,
-  "total_records": 2267166,
+  "generated": "2026-11-06T02:32:25.954Z",
+  "total_datasets": 531,
+  "total_records": 2267444,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 41
+      "dataset_count": 42
     },
     {
       "id": "units",
@@ -14344,6 +14344,30 @@
         "xlsx": {
           "name": "sv-uppsala-unlocode_SV.xlsx",
           "size": 11378
+        }
+      }
+    },
+    {
+      "id": "sv-vagar-i-nummerordning",
+      "name": "Svenska vägar i nummerordning",
+      "category": "transport",
+      "record_count": 278,
+      "columns": [
+        "vag",
+        "strackning",
+        "kategori"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_vägar_i_nummerordning",
+      "updated": "2026-11",
+      "size": 40909,
+      "files": {
+        "csv": {
+          "name": "sv-vagar-i-nummerordning_SV.csv",
+          "size": 21157
+        },
+        "xlsx": {
+          "name": "sv-vagar-i-nummerordning_SV.xlsx",
+          "size": 16099
         }
       }
     },
