@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-06T02:31:49.709Z",
-  "total_datasets": 527,
-  "total_records": 2266985,
+  "generated": "2026-11-06T02:31:59.793Z",
+  "total_datasets": 528,
+  "total_records": 2267069,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 24
+      "dataset_count": 25
     },
     {
       "id": "reference",
@@ -5949,6 +5949,35 @@
         "xlsx": {
           "name": "sv-utlandsmyndigheter_SV.xlsx",
           "size": 32630
+        }
+      }
+    },
+    {
+      "id": "sv-utrikesministrar",
+      "name": "Sveriges utrikesministrar",
+      "category": "politics",
+      "record_count": 84,
+      "columns": [
+        "namn",
+        "fodelse",
+        "tilltrade",
+        "frantrade",
+        "dod",
+        "parti",
+        "regering",
+        "period"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_utrikesminister",
+      "updated": "2026-11",
+      "size": 28483,
+      "files": {
+        "csv": {
+          "name": "sv-utrikesministrar_SV.csv",
+          "size": 14061
+        },
+        "xlsx": {
+          "name": "sv-utrikesministrar_SV.xlsx",
+          "size": 12235
         }
       }
     },

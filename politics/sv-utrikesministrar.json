@@ -1,0 +1,906 @@
+{
+  "id": "sv-utrikesministrar",
+  "name": "Sveriges utrikesministrar",
+  "title": "Sveriges utrikesministrar",
+  "description": "Lista över Sveriges utrikesministrar med tillträde, frånträde, politisk tillhörighet och regering.",
+  "category": "politics",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_utrikesminister",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_utrikesminister",
+  "updated": "2026-11",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "fodelse",
+      "label": "Fodelse",
+      "type": "string"
+    },
+    {
+      "key": "tilltrade",
+      "label": "Tilltrade",
+      "type": "string"
+    },
+    {
+      "key": "frantrade",
+      "label": "Frantrade",
+      "type": "string"
+    },
+    {
+      "key": "dod",
+      "label": "Dod",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "regering",
+      "label": "Regering",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "namn": "Lars von Engeström",
+      "fodelse": "24 december 1751 i Stockholm",
+      "tilltrade": "9 juni 1809",
+      "frantrade": "8 juni 1824",
+      "dod": "19 augusti 1826 i Polen",
+      "parti": "Opolitisk",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Gustaf af Wetterstedt",
+      "fodelse": "29 december 1776 i Vasa i Österbotten, Finland",
+      "tilltrade": "8 juni 1824",
+      "frantrade": "15 maj 1837",
+      "dod": "15 maj 1837",
+      "parti": "Opolitisk",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Adolf Göran Mörner",
+      "fodelse": "27 juli 1773 i Espelunda i Närke",
+      "tilltrade": "15 maj 1837",
+      "frantrade": "30 januari 1838",
+      "dod": "30 januari 1838",
+      "parti": "Mannerheimska partiet",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Gustaf Algernon Stierneld",
+      "fodelse": "12 juli 1791 i Stockholm",
+      "tilltrade": "30 januari 1838",
+      "frantrade": "I praktiken 5 september 1840 Formellt 11 juli 1842",
+      "dod": "14 november 1868",
+      "parti": "Opolitisk",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Albrecht Elof Ihre",
+      "fodelse": "6 oktober 1797 i Stockholm",
+      "tilltrade": "5 september 1840",
+      "frantrade": "29 december 1842",
+      "dod": "9 augusti 1877 på Ekebyhovs slott i Ekerö utanför Stockholm",
+      "parti": "Opolitisk",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Albrecht Elof Ihre",
+      "fodelse": "6 oktober 1797 i Stockholm",
+      "tilltrade": "29 december 1842",
+      "frantrade": "10 april 1848",
+      "dod": "9 augusti 1877 på Ekebyhovs slott i Ekerö utanför Stockholm",
+      "parti": "Opolitisk",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Gustaf Algernon Stierneld",
+      "fodelse": "",
+      "tilltrade": "10 april 1848",
+      "frantrade": "8 september 1856",
+      "dod": "14 november 1868 i Stockholm",
+      "parti": "Opolitisk",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Elias Lagerheim",
+      "fodelse": "18 augusti 1791 på Ågesta i Huddinge",
+      "tilltrade": "8 september 1856",
+      "frantrade": "16 mars 1858",
+      "dod": "17 september 1864 i Nykvarn i Turinge i Södermanland",
+      "parti": "Opolitisk",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Ludvig Manderström",
+      "fodelse": "22 januari 1806 i Stockholm",
+      "tilltrade": "16 mars 1858",
+      "frantrade": "4 juni 1868",
+      "dod": "18 augusti 1873 i Köln",
+      "parti": "Opolitisk",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Carl Wachtmeister",
+      "fodelse": "21 april 1823 i Stockholm",
+      "tilltrade": "4 juni 1868",
+      "frantrade": "14 oktober 1871 i Stockholm",
+      "dod": "14 oktober 1871 i Stockholm",
+      "parti": "Opolitisk",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Baltzar von Platen",
+      "fodelse": "16 april 1804 i Vänersnäs i Vänersborg",
+      "tilltrade": "10 november 1871",
+      "frantrade": "17 december 1872",
+      "dod": "20 mars 1875 i Stockholm",
+      "parti": "Oberoende liberal",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Oscar Björnstjerna",
+      "fodelse": "6 mars 1819 i Stockholm",
+      "tilltrade": "17 december 1872",
+      "frantrade": "20 mars 1876",
+      "dod": "2 september 1905 i Stockholm",
+      "parti": "Opolitisk",
+      "regering": "",
+      "period": "Utrikesstatsministrar 1809–1876"
+    },
+    {
+      "namn": "Oscar Björnstjerna",
+      "fodelse": "6 mars 1819 i Stockholm",
+      "tilltrade": "20 mars 1876",
+      "frantrade": "19 april 1880",
+      "dod": "2 september 1905 i Stockholm",
+      "parti": "Oberoende konservativ",
+      "regering": "De Geer d.ä. III",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Carl Fredrik Hochschild",
+      "fodelse": "13 september 1831 i Köpenhamn",
+      "tilltrade": "27 april 1880",
+      "frantrade": "25 september 1885",
+      "dod": "12 september 1898",
+      "parti": "Opolitisk",
+      "regering": "Posse",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Carl Fredrik Hochschild",
+      "fodelse": "13 september 1831 i Köpenhamn",
+      "tilltrade": "27 april 1880",
+      "frantrade": "25 september 1885",
+      "dod": "12 september 1898",
+      "parti": "Opolitisk",
+      "regering": "Thyselius",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Carl Fredrik Hochschild",
+      "fodelse": "13 september 1831 i Köpenhamn",
+      "tilltrade": "27 april 1880",
+      "frantrade": "25 september 1885",
+      "dod": "12 september 1898",
+      "parti": "Opolitisk",
+      "regering": "Themptander",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Albert Ehrensvärd d.ä.",
+      "fodelse": "10 januari 1821 i Björkö socken i Vetlanda",
+      "tilltrade": "25 september 1885",
+      "frantrade": "12 juni 1889",
+      "dod": "31 januari 1901 på Tosterups slott i Tomelilla i Skåne",
+      "parti": "Opolitisk",
+      "regering": "Themptander",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Albert Ehrensvärd d.ä.",
+      "fodelse": "10 januari 1821 i Björkö socken i Vetlanda",
+      "tilltrade": "25 september 1885",
+      "frantrade": "12 juni 1889",
+      "dod": "31 januari 1901 på Tosterups slott i Tomelilla i Skåne",
+      "parti": "Opolitisk",
+      "regering": "G. Bildt",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Gustaf Åkerhielm",
+      "fodelse": "24 juni 1833 i Stockholm",
+      "tilltrade": "12 juni 1889",
+      "frantrade": "12 oktober 1889",
+      "dod": "2 april 1900 i Stockholm",
+      "parti": "Protektionistiska partiet",
+      "regering": "G. Bildt",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Carl Lewenhaupt",
+      "fodelse": "19 mars 1835 på Herrevadsklosters slott i Skåne",
+      "tilltrade": "12 oktober 1889",
+      "frantrade": "1 juni 1895",
+      "dod": "10 december 1906 i Helsingborg i Skåne",
+      "parti": "Opolitisk",
+      "regering": "Åkerhielm",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Carl Lewenhaupt",
+      "fodelse": "19 mars 1835 på Herrevadsklosters slott i Skåne",
+      "tilltrade": "12 oktober 1889",
+      "frantrade": "1 juni 1895",
+      "dod": "10 december 1906 i Helsingborg i Skåne",
+      "parti": "Opolitisk",
+      "regering": "Boström I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Ludvig Douglas",
+      "fodelse": "24 november 1849 i Zürich",
+      "tilltrade": "1 juni 1895",
+      "frantrade": "13 oktober 1899",
+      "dod": "20 juli 1916 i Lysekil i Bohuslän",
+      "parti": "Oberoende konservativ",
+      "regering": "Boström I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Alfred Lagerheim",
+      "fodelse": "4 oktober 1843 i Köpenhamn",
+      "tilltrade": "20 december 1899",
+      "frantrade": "7 december 1904",
+      "dod": "23 maj 1924",
+      "parti": "Lantmannapartiet",
+      "regering": "Boström I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Alfred Lagerheim",
+      "fodelse": "4 oktober 1843 i Köpenhamn",
+      "tilltrade": "20 december 1899",
+      "frantrade": "7 december 1904",
+      "dod": "23 maj 1924",
+      "parti": "Lantmannapartiet",
+      "regering": "von Otter",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Alfred Lagerheim",
+      "fodelse": "4 oktober 1843 i Köpenhamn",
+      "tilltrade": "20 december 1899",
+      "frantrade": "7 december 1904",
+      "dod": "23 maj 1924",
+      "parti": "Lantmannapartiet",
+      "regering": "Boström II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "August Gyldenstolpe",
+      "fodelse": "22 juli 1849 i Stockholm",
+      "tilltrade": "22 december 1904",
+      "frantrade": "2 augusti 1905",
+      "dod": "30 juni 1928",
+      "parti": "Opolitisk",
+      "regering": "Boström II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "August Gyldenstolpe",
+      "fodelse": "22 juli 1849 i Stockholm",
+      "tilltrade": "22 december 1904",
+      "frantrade": "2 augusti 1905",
+      "dod": "30 juni 1928",
+      "parti": "Opolitisk",
+      "regering": "Ramstedt",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Fredrik Wachtmeister",
+      "fodelse": "10 februari 1855",
+      "tilltrade": "2 augusti 1905",
+      "frantrade": "7 november 1905",
+      "dod": "6 september 1919",
+      "parti": "Protektionistiska partiet",
+      "regering": "Lundeberg",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Eric Trolle",
+      "fodelse": "23 september 1863",
+      "tilltrade": "7 november 1905",
+      "frantrade": "17 mars 1909",
+      "dod": "21 april 1934",
+      "parti": "Opolitisk",
+      "regering": "Staaff I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Eric Trolle",
+      "fodelse": "23 september 1863",
+      "tilltrade": "7 november 1905",
+      "frantrade": "17 mars 1909",
+      "dod": "21 april 1934",
+      "parti": "Opolitisk",
+      "regering": "Lindman I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Arvid Taube",
+      "fodelse": "19 januari 1853 i Låssa socken i Uppland",
+      "tilltrade": "30 april 1909",
+      "frantrade": "7 oktober 1911",
+      "dod": "14 oktober 1916",
+      "parti": "Allmänna valmansförbundet",
+      "regering": "Lindman I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Albert Ehrensvärd d.y.",
+      "fodelse": "9 maj 1867 i Göteborg",
+      "tilltrade": "7 oktober 1911",
+      "frantrade": "17 februari 1914",
+      "dod": "6 mars 1940 i Lund i Skåne",
+      "parti": "Liberala samlingspartiet",
+      "regering": "Staaff II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Knut Agathon Wallenberg",
+      "fodelse": "19 maj 1853 i Stockholm",
+      "tilltrade": "17 februari 1914",
+      "frantrade": "30 mars 1917",
+      "dod": "1 juni 1938 i Stockholm",
+      "parti": "Nationella partiet",
+      "regering": "Hammarskjöld",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Arvid Lindman",
+      "fodelse": "19 september 1862 på Österby bruk i Films socken i Uppland",
+      "tilltrade": "30 mars 1917",
+      "frantrade": "19 oktober 1917",
+      "dod": "9 december 1936 på flygplatsen Croydon Airport i London",
+      "parti": "Allmänna valmansförbundet",
+      "regering": "Swartz",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Johannes Hellner",
+      "fodelse": "22 april 1866 i Svedala i Skåne",
+      "tilltrade": "19 oktober 1917",
+      "frantrade": "10 mars 1920",
+      "dod": "19 februari 1947 i Stockholm",
+      "parti": "Liberala samlingspartiet",
+      "regering": "Edén",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Erik Palmstierna",
+      "fodelse": "10 november 1877 i Stockholm",
+      "tilltrade": "10 mars 1920",
+      "frantrade": "27 oktober 1920",
+      "dod": "22 oktober 1959 i Florens i Italien",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Herman Wrangel",
+      "fodelse": "13 augusti 1857 i Stockholm",
+      "tilltrade": "27 oktober 1920",
+      "frantrade": "13 oktober 1921",
+      "dod": "9 oktober 1934",
+      "parti": "Opolitisk",
+      "regering": "De Geer d.y.",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Herman Wrangel",
+      "fodelse": "13 augusti 1857 i Stockholm",
+      "tilltrade": "27 oktober 1920",
+      "frantrade": "13 oktober 1921",
+      "dod": "9 oktober 1934",
+      "parti": "Opolitisk",
+      "regering": "von Sydow",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Hjalmar Branting",
+      "fodelse": "23 november 1860 i Stockholm",
+      "tilltrade": "13 oktober 1921",
+      "frantrade": "19 april 1923",
+      "dod": "24 februari 1925 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Carl Hederstierna",
+      "fodelse": "1 december 1861 i Höreda i Småland",
+      "tilltrade": "19 april 1923",
+      "frantrade": "11 november 1923",
+      "dod": "17 november 1928",
+      "parti": "Allmänna valmansförbundet",
+      "regering": "Trygger",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Erik Marks von Würtemberg",
+      "fodelse": "11 maj 1861 i Björnlunda i Södermanland",
+      "tilltrade": "11 november 1923",
+      "frantrade": "18 oktober 1924",
+      "dod": "22 juli 1937",
+      "parti": "Allmänna valmansförbundet",
+      "regering": "Trygger",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Östen Undén",
+      "fodelse": "25 augusti 1886 i Karlstad",
+      "tilltrade": "18 oktober 1924",
+      "frantrade": "7 juni 1926",
+      "dod": "14 januari 1974",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting III",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Östen Undén",
+      "fodelse": "25 augusti 1886 i Karlstad",
+      "tilltrade": "18 oktober 1924",
+      "frantrade": "7 juni 1926",
+      "dod": "14 januari 1974",
+      "parti": "Socialdemokraterna",
+      "regering": "Sandler",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Eliel Löfgren",
+      "fodelse": "15 mars 1872 i Öjebyn i Piteå",
+      "tilltrade": "7 juni 1926",
+      "frantrade": "2 oktober 1928",
+      "dod": "8 april 1940 i Stockholm",
+      "parti": "Sveriges liberala parti",
+      "regering": "Ekman I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Ernst Trygger",
+      "fodelse": "27 oktober 1857 i Stockholm",
+      "tilltrade": "2 oktober 1928",
+      "frantrade": "7 juni 1930",
+      "dod": "23 september 1943 i Stockholm",
+      "parti": "Nationella partiet",
+      "regering": "Lindman II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Fredrik Ramel",
+      "fodelse": "9 december 1872 i Malmö",
+      "tilltrade": "7 juni 1930",
+      "frantrade": "24 september 1932",
+      "dod": "30 oktober 1947 i Fridhem, Malmö",
+      "parti": "Oberoende liberal",
+      "regering": "Ekman II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Fredrik Ramel",
+      "fodelse": "9 december 1872 i Malmö",
+      "tilltrade": "7 juni 1930",
+      "frantrade": "24 september 1932",
+      "dod": "30 oktober 1947 i Fridhem, Malmö",
+      "parti": "Oberoende liberal",
+      "regering": "Hamrin",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Rickard Sandler",
+      "fodelse": "29 januari 1884 i Torsåker i Ångermanland",
+      "tilltrade": "24 september 1932",
+      "frantrade": "19 juni 1936",
+      "dod": "12 november 1964",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Karl Gustaf Westman",
+      "fodelse": "18 augusti 1876 i Göteborg",
+      "tilltrade": "19 juni 1936",
+      "frantrade": "28 september 1936",
+      "dod": "24 januari 1944 i Stockholm",
+      "parti": "Bondeförbundet",
+      "regering": "Pehrsson-Bramstorp",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Rickard Sandler",
+      "fodelse": "",
+      "tilltrade": "28 september 1936",
+      "frantrade": "13 december 1939",
+      "dod": "12 november 1964 i Solna",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Christian Günther",
+      "fodelse": "5 december 1886 i Stockholm",
+      "tilltrade": "13 december 1939",
+      "frantrade": "31 juli 1945",
+      "dod": "6 mars 1966",
+      "parti": "Opolitisk",
+      "regering": "Hansson III",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Östen Undén",
+      "fodelse": "",
+      "tilltrade": "31 juli 1945",
+      "frantrade": "19 september 1962",
+      "dod": "14 januari 1974 i Bromma i Uppland",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson IV",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Östen Undén",
+      "fodelse": "",
+      "tilltrade": "31 juli 1945",
+      "frantrade": "19 september 1962",
+      "dod": "14 januari 1974 i Bromma i Uppland",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Östen Undén",
+      "fodelse": "",
+      "tilltrade": "31 juli 1945",
+      "frantrade": "19 september 1962",
+      "dod": "14 januari 1974 i Bromma i Uppland",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Östen Undén",
+      "fodelse": "",
+      "tilltrade": "31 juli 1945",
+      "frantrade": "19 september 1962",
+      "dod": "14 januari 1974 i Bromma i Uppland",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander III",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Torsten Nilsson",
+      "fodelse": "1 april 1905 i Nevishög i Staffanstorp i Skåne",
+      "tilltrade": "19 september 1962",
+      "frantrade": "30 juni 1971",
+      "dod": "14 december 1997 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander III",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Torsten Nilsson",
+      "fodelse": "1 april 1905 i Nevishög i Staffanstorp i Skåne",
+      "tilltrade": "19 september 1962",
+      "frantrade": "30 juni 1971",
+      "dod": "14 december 1997 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Krister Wickman",
+      "fodelse": "13 april 1924 i Stockholm",
+      "tilltrade": "30 juni 1971",
+      "frantrade": "3 november 1973",
+      "dod": "10 september 1993 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Sven Andersson",
+      "fodelse": "5 april 1910 i Göteborg",
+      "tilltrade": "3 november 1973",
+      "frantrade": "8 oktober 1976",
+      "dod": "21 september 1987 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Karin Söder",
+      "fodelse": "30 november 1928 i Kil i Värmland",
+      "tilltrade": "8 oktober 1976",
+      "frantrade": "18 oktober 1978",
+      "dod": "19 december 2015 i Täby, Stockholms län",
+      "parti": "Centerpartiet",
+      "regering": "Fälldin I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Hans Blix",
+      "fodelse": "28 juni 1928 i Uppsala",
+      "tilltrade": "18 oktober 1978",
+      "frantrade": "12 oktober 1979",
+      "dod": "",
+      "parti": "Folkpartiet",
+      "regering": "Ullsten",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Ola Ullsten",
+      "fodelse": "23 juni 1931 i Umeå",
+      "tilltrade": "12 oktober 1979",
+      "frantrade": "8 oktober 1982",
+      "dod": "28 maj 2018",
+      "parti": "Folkpartiet",
+      "regering": "Fälldin II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Ola Ullsten",
+      "fodelse": "23 juni 1931 i Umeå",
+      "tilltrade": "12 oktober 1979",
+      "frantrade": "8 oktober 1982",
+      "dod": "28 maj 2018",
+      "parti": "Folkpartiet",
+      "regering": "Fälldin III",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Lennart Bodström",
+      "fodelse": "10 april 1928 i Göteborg",
+      "tilltrade": "8 oktober 1982",
+      "frantrade": "17 oktober 1985",
+      "dod": "30 april 2015",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Sten Andersson",
+      "fodelse": "20 april 1923 i Stockholm",
+      "tilltrade": "17 oktober 1985",
+      "frantrade": "4 oktober 1991",
+      "dod": "16 september 2006 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Sten Andersson",
+      "fodelse": "20 april 1923 i Stockholm",
+      "tilltrade": "17 oktober 1985",
+      "frantrade": "4 oktober 1991",
+      "dod": "16 september 2006 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Sten Andersson",
+      "fodelse": "20 april 1923 i Stockholm",
+      "tilltrade": "17 oktober 1985",
+      "frantrade": "4 oktober 1991",
+      "dod": "16 september 2006 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Margaretha af Ugglas",
+      "fodelse": "5 januari 1939 i Stockholm",
+      "tilltrade": "4 oktober 1991",
+      "frantrade": "7 oktober 1994",
+      "dod": "10 maj 2026",
+      "parti": "Moderaterna",
+      "regering": "C. Bildt",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Lena Hjelm-Wallén",
+      "fodelse": "14 januari 1943 i Sala",
+      "tilltrade": "7 oktober 1994",
+      "frantrade": "7 oktober 1998",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson III",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Lena Hjelm-Wallén",
+      "fodelse": "14 januari 1943 i Sala",
+      "tilltrade": "7 oktober 1994",
+      "frantrade": "7 oktober 1998",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Anna Lindh",
+      "fodelse": "19 juni 1957 i Enskede i Stockholm",
+      "tilltrade": "7 oktober 1998",
+      "frantrade": "11 september 2003 i Stockholm (mördad)",
+      "dod": "11 september 2003 i Stockholm (mördad)",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Jan O. Karlsson",
+      "fodelse": "1 juni 1939 i Stockholm",
+      "tilltrade": "11 september 2003",
+      "frantrade": "10 oktober 2003",
+      "dod": "19 september 2016 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Laila Freivalds",
+      "fodelse": "22 juni 1942 i Riga i Lettland",
+      "tilltrade": "10 oktober 2003",
+      "frantrade": "21 mars 2006",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Bosse Ringholm",
+      "fodelse": "18 augusti 1942 i Falköping",
+      "tilltrade": "21 mars 2006",
+      "frantrade": "27 mars 2006",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Carin Jämtin",
+      "fodelse": "3 augusti 1964 i Stockholm",
+      "tilltrade": "27 mars 2006",
+      "frantrade": "24 april 2006",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Jan Eliasson",
+      "fodelse": "17 september 1940 i Göteborg",
+      "tilltrade": "24 april 2006",
+      "frantrade": "6 oktober 2006",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Carl Bildt",
+      "fodelse": "15 juli 1949 i Halmstad",
+      "tilltrade": "6 oktober 2006",
+      "frantrade": "3 oktober 2014",
+      "dod": "",
+      "parti": "Moderaterna",
+      "regering": "Reinfeldt",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Margot Wallström",
+      "fodelse": "24 september 1954 i Kåge",
+      "tilltrade": "3 oktober 2014",
+      "frantrade": "10 september 2019",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven I",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Margot Wallström",
+      "fodelse": "24 september 1954 i Kåge",
+      "tilltrade": "3 oktober 2014",
+      "frantrade": "10 september 2019",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Ann Linde",
+      "fodelse": "4 december 1961 i Helsingborg",
+      "tilltrade": "10 september 2019",
+      "frantrade": "18 oktober 2022",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven II",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Ann Linde",
+      "fodelse": "4 december 1961 i Helsingborg",
+      "tilltrade": "10 september 2019",
+      "frantrade": "18 oktober 2022",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven III",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Ann Linde",
+      "fodelse": "4 december 1961 i Helsingborg",
+      "tilltrade": "10 september 2019",
+      "frantrade": "18 oktober 2022",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Andersson",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Tobias Billström",
+      "fodelse": "27 december 1973 i Malmö",
+      "tilltrade": "18 oktober 2022",
+      "frantrade": "10 september 2024",
+      "dod": "",
+      "parti": "Moderaterna",
+      "regering": "Kristersson",
+      "period": "Utrikesministrar 1876–"
+    },
+    {
+      "namn": "Maria Malmer Stenergard",
+      "fodelse": "23 mars 1981 i Kristianstad",
+      "tilltrade": "10 september 2024",
+      "frantrade": "",
+      "dod": "",
+      "parti": "Moderaterna",
+      "regering": "Kristersson",
+      "period": "Utrikesministrar 1876–"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges utrikesministrar - Free Download",
+    "description": "Lista över Sveriges utrikesministrar med tillträde, frånträde, politisk tillhörighet och regering. Contains 84 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges utrikesministrar | ListBase",
+    "seo_description": "Download Sveriges utrikesministrar — 84 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 84 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_utrikesminister"
+    ]
+  }
+}
