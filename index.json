@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-06T02:32:35.595Z",
-  "total_datasets": 532,
-  "total_records": 2267548,
+  "generated": "2026-11-09T02:25:33.039Z",
+  "total_datasets": 533,
+  "total_records": 2267636,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -678,6 +678,35 @@
         "xlsx": {
           "name": "sv-yrken_SV.xlsx",
           "size": 299148
+        }
+      }
+    },
+    {
+      "id": "sv-ecklesiastik-och-utbildningsministrar",
+      "name": "Sveriges ecklesiastikministrar och utbildningsministrar",
+      "category": "education",
+      "record_count": 88,
+      "columns": [
+        "namn",
+        "fodelse",
+        "tilltrade",
+        "frantrade",
+        "dod",
+        "politisk_tillhorighet",
+        "regering",
+        "ambete"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_utbildningsminister",
+      "updated": "2026-11",
+      "size": 31457,
+      "files": {
+        "csv": {
+          "name": "sv-ecklesiastik-och-utbildningsministrar_SV.csv",
+          "size": 14721
+        },
+        "xlsx": {
+          "name": "sv-ecklesiastik-och-utbildningsministrar_SV.xlsx",
+          "size": 12547
         }
       }
     },
