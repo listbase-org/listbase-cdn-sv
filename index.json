@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-09T02:25:33.039Z",
-  "total_datasets": 533,
-  "total_records": 2267636,
+  "generated": "2026-11-09T02:25:42.555Z",
+  "total_datasets": 534,
+  "total_records": 2267664,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -1966,6 +1966,30 @@
         "xlsx": {
           "name": "sv-oljekraftverk_SV.xlsx",
           "size": 8373
+        }
+      }
+    },
+    {
+      "id": "sv-omxs30-forandringar",
+      "name": "OMXS30 — förändringar i indexets sammansättning",
+      "category": "finance",
+      "record_count": 28,
+      "columns": [
+        "datum",
+        "inkluderade_aktier",
+        "exkluderade_aktier"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/OMXS30",
+      "updated": "2026-11",
+      "size": 5280,
+      "files": {
+        "csv": {
+          "name": "sv-omxs30-forandringar_SV.csv",
+          "size": 1410
+        },
+        "xlsx": {
+          "name": "sv-omxs30-forandringar_SV.xlsx",
+          "size": 7785
         }
       }
     },

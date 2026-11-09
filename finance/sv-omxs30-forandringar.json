@@ -1,0 +1,181 @@
+{
+  "id": "sv-omxs30-forandringar",
+  "name": "OMXS30 — förändringar i indexets sammansättning",
+  "title": "OMXS30 — förändringar i indexets sammansättning",
+  "description": "Datum då aktier inkluderats i eller exkluderats från Stockholmsbörsens index OMXS30 sedan år 2000.",
+  "category": "finance",
+  "source": "https://sv.wikipedia.org/wiki/OMXS30",
+  "source_url": "https://sv.wikipedia.org/wiki/OMXS30",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "datum",
+      "label": "Datum",
+      "type": "date"
+    },
+    {
+      "key": "inkluderade_aktier",
+      "label": "Inkluderade Aktier",
+      "type": "string"
+    },
+    {
+      "key": "exkluderade_aktier",
+      "label": "Exkluderade Aktier",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "datum": "2000-01-03",
+      "inkluderade_aktier": "Icon Medialab, Securitas B, WM-data B",
+      "exkluderade_aktier": "Scania B, Stora Enso A"
+    },
+    {
+      "datum": "2000-05-11",
+      "inkluderade_aktier": "Sandvik",
+      "exkluderade_aktier": "Sandvik A, Sandvik B"
+    },
+    {
+      "datum": "2000-06-13",
+      "inkluderade_aktier": "Telia",
+      "exkluderade_aktier": ""
+    },
+    {
+      "datum": "2000-07-03",
+      "inkluderade_aktier": "Framfab",
+      "exkluderade_aktier": ""
+    },
+    {
+      "datum": "2001-01-02",
+      "inkluderade_aktier": "Assa Abloy",
+      "exkluderade_aktier": "Kinnevik B, Trelleborg B"
+    },
+    {
+      "datum": "2001-07-02",
+      "inkluderade_aktier": "Eniro, Europolitan Vodafone",
+      "exkluderade_aktier": "Framfab, Icon Medialab"
+    },
+    {
+      "datum": "2003-01-02",
+      "inkluderade_aktier": "Alfa Laval, Swedish Match",
+      "exkluderade_aktier": "Pharmacia & Upjohn, WM-data B"
+    },
+    {
+      "datum": "2003-07-01",
+      "inkluderade_aktier": "Drott B",
+      "exkluderade_aktier": "Europolitan Vodafone"
+    },
+    {
+      "datum": "2006-07-03",
+      "inkluderade_aktier": "Boliden, Vostok Nafta Ltd",
+      "exkluderade_aktier": "Fabege B, Old Mutual"
+    },
+    {
+      "datum": "2007-01-02",
+      "inkluderade_aktier": "Scania B",
+      "exkluderade_aktier": "Holmen B"
+    },
+    {
+      "datum": "2007-07-02",
+      "inkluderade_aktier": "SSAB A",
+      "exkluderade_aktier": "Stora Enso R"
+    },
+    {
+      "datum": "2008-01-02",
+      "inkluderade_aktier": "Lundin Petroleum",
+      "exkluderade_aktier": "Autoliv SDB"
+    },
+    {
+      "datum": "2009-01-02",
+      "inkluderade_aktier": "",
+      "exkluderade_aktier": "Vostok Gas Ltd"
+    },
+    {
+      "datum": "2009-07-01",
+      "inkluderade_aktier": "Getinge B, Modern Times Group B",
+      "exkluderade_aktier": "Eniro"
+    },
+    {
+      "datum": "2014-06-05",
+      "inkluderade_aktier": "",
+      "exkluderade_aktier": "Scania B"
+    },
+    {
+      "datum": "2014-07-01",
+      "inkluderade_aktier": "Kinnevik B",
+      "exkluderade_aktier": ""
+    },
+    {
+      "datum": "2016-01-04",
+      "inkluderade_aktier": "Fingerprint Cards B",
+      "exkluderade_aktier": "Modern Times Group B"
+    },
+    {
+      "datum": "2017-01-02",
+      "inkluderade_aktier": "Autoliv SDB",
+      "exkluderade_aktier": "Nokia Oyj"
+    },
+    {
+      "datum": "2017-06-12",
+      "inkluderade_aktier": "Essity B",
+      "exkluderade_aktier": ""
+    },
+    {
+      "datum": "2018-01-02",
+      "inkluderade_aktier": "",
+      "exkluderade_aktier": "Lundin Petroleum"
+    },
+    {
+      "datum": "2018-07-02",
+      "inkluderade_aktier": "Hexagon B",
+      "exkluderade_aktier": "Fingerprint Cards B"
+    },
+    {
+      "datum": "2021-01-04",
+      "inkluderade_aktier": "Evolution",
+      "exkluderade_aktier": "SSAB A"
+    },
+    {
+      "datum": "2021-07-01",
+      "inkluderade_aktier": "Sinch",
+      "exkluderade_aktier": "Securitas B"
+    },
+    {
+      "datum": "2022-07-01",
+      "inkluderade_aktier": "Samhällsbyggnadsbolaget i Norden B",
+      "exkluderade_aktier": "Skanska B"
+    },
+    {
+      "datum": "2022-11-18",
+      "inkluderade_aktier": "",
+      "exkluderade_aktier": "Swedish Match"
+    },
+    {
+      "datum": "2023-01-02",
+      "inkluderade_aktier": "Nibe Industrier B",
+      "exkluderade_aktier": ""
+    },
+    {
+      "datum": "2024-07-01",
+      "inkluderade_aktier": "Saab B",
+      "exkluderade_aktier": "Autoliv SDB"
+    },
+    {
+      "datum": "2025-07-01",
+      "inkluderade_aktier": "Addtech B, Epiroc A, EQT, Industrivärden C, Lifco B, Skanska B",
+      "exkluderade_aktier": "Atlas Copco B, Electrolux B, Getinge B, Kinnevik B, Samhällsbyggnadsbolaget i Norden B, Sinch"
+    }
+  ],
+  "meta": {
+    "title": "OMXS30 — förändringar i indexets sammansättning - Free Download",
+    "description": "Datum då aktier inkluderats i eller exkluderats från Stockholmsbörsens index OMXS30 sedan år 2000. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "OMXS30 — förändringar i indexets sammansättning | ListBase",
+    "seo_description": "Download OMXS30 — förändringar i indexets sammansättning — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/OMXS30"
+    ]
+  }
+}
