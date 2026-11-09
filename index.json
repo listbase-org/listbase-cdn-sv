@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-09T02:25:42.555Z",
-  "total_datasets": 534,
-  "total_records": 2267664,
+  "generated": "2026-11-09T02:25:52.124Z",
+  "total_datasets": 535,
+  "total_records": 2267694,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -1990,6 +1990,30 @@
         "xlsx": {
           "name": "sv-omxs30-forandringar_SV.xlsx",
           "size": 7785
+        }
+      }
+    },
+    {
+      "id": "sv-omxs30-sammansattning",
+      "name": "OMXS30 — ingående aktier",
+      "category": "finance",
+      "record_count": 30,
+      "columns": [
+        "aktie",
+        "kortnamn",
+        "gics_sektor"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/OMXS30",
+      "updated": "2026-11",
+      "size": 4431,
+      "files": {
+        "csv": {
+          "name": "sv-omxs30-sammansattning_SV.csv",
+          "size": 1029
+        },
+        "xlsx": {
+          "name": "sv-omxs30-sammansattning_SV.xlsx",
+          "size": 7607
         }
       }
     },

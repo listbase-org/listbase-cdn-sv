@@ -1,0 +1,191 @@
+{
+  "id": "sv-omxs30-sammansattning",
+  "name": "OMXS30 — ingående aktier",
+  "title": "OMXS30 — ingående aktier",
+  "description": "De 30 mest omsatta aktierna på Stockholmsbörsen som ingår i index OMXS30, med kortnamn och GICS-sektor.",
+  "category": "finance",
+  "source": "https://sv.wikipedia.org/wiki/OMXS30",
+  "source_url": "https://sv.wikipedia.org/wiki/OMXS30",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "aktie",
+      "label": "Aktie",
+      "type": "string"
+    },
+    {
+      "key": "kortnamn",
+      "label": "Kortnamn",
+      "type": "string"
+    },
+    {
+      "key": "gics_sektor",
+      "label": "Gics Sektor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "aktie": "ABB Ltd",
+      "kortnamn": "ABB",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "Addtech B",
+      "kortnamn": "ADDT B",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "Alfa Laval",
+      "kortnamn": "ALFA",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "Assa Abloy B",
+      "kortnamn": "ASSA B",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "AstraZeneca",
+      "kortnamn": "AZN",
+      "gics_sektor": "Hälsovård"
+    },
+    {
+      "aktie": "Atlas Copco A",
+      "kortnamn": "ATCO A",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "Boliden",
+      "kortnamn": "BOL",
+      "gics_sektor": "Material"
+    },
+    {
+      "aktie": "Epiroc A",
+      "kortnamn": "EPI A",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "EQT",
+      "kortnamn": "EQT",
+      "gics_sektor": "Finans"
+    },
+    {
+      "aktie": "Ericsson B",
+      "kortnamn": "ERIC B",
+      "gics_sektor": "Informationsteknik"
+    },
+    {
+      "aktie": "Essity B",
+      "kortnamn": "ESSITY B",
+      "gics_sektor": "Dagligvaror"
+    },
+    {
+      "aktie": "Evolution",
+      "kortnamn": "EVO",
+      "gics_sektor": "Sällanköpsvaror"
+    },
+    {
+      "aktie": "Handelsbanken A",
+      "kortnamn": "SHB A",
+      "gics_sektor": "Finans"
+    },
+    {
+      "aktie": "Hennes & Mauritz B",
+      "kortnamn": "HM B",
+      "gics_sektor": "Sällanköpsvaror"
+    },
+    {
+      "aktie": "Hexagon B",
+      "kortnamn": "HEXA B",
+      "gics_sektor": "Informationsteknik"
+    },
+    {
+      "aktie": "Industrivärden C",
+      "kortnamn": "INDU C",
+      "gics_sektor": "Finans"
+    },
+    {
+      "aktie": "Investor B",
+      "kortnamn": "INVE B",
+      "gics_sektor": "Finans"
+    },
+    {
+      "aktie": "Lifco B",
+      "kortnamn": "LIFCO B",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "Nibe Industrier B",
+      "kortnamn": "NIBE B",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "Nordea Bank Abp",
+      "kortnamn": "NDA SE",
+      "gics_sektor": "Finans"
+    },
+    {
+      "aktie": "Saab B",
+      "kortnamn": "SAAB B",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "Sandvik",
+      "kortnamn": "SAND",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "SCA B",
+      "kortnamn": "SCA B",
+      "gics_sektor": "Material"
+    },
+    {
+      "aktie": "SEB A",
+      "kortnamn": "SEB A",
+      "gics_sektor": "Finans"
+    },
+    {
+      "aktie": "Skanska B",
+      "kortnamn": "SKA B",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "SKF B",
+      "kortnamn": "SKF B",
+      "gics_sektor": "Industri"
+    },
+    {
+      "aktie": "Swedbank A",
+      "kortnamn": "SWED A",
+      "gics_sektor": "Finans"
+    },
+    {
+      "aktie": "Tele2 B",
+      "kortnamn": "TEL2 B",
+      "gics_sektor": "Telekommunikation"
+    },
+    {
+      "aktie": "Telia",
+      "kortnamn": "TELIA",
+      "gics_sektor": "Telekommunikation"
+    },
+    {
+      "aktie": "Volvo B",
+      "kortnamn": "VOLV B",
+      "gics_sektor": "Industri"
+    }
+  ],
+  "meta": {
+    "title": "OMXS30 — ingående aktier - Free Download",
+    "description": "De 30 mest omsatta aktierna på Stockholmsbörsen som ingår i index OMXS30, med kortnamn och GICS-sektor. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "OMXS30 — ingående aktier | ListBase",
+    "seo_description": "Download OMXS30 — ingående aktier — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/OMXS30"
+    ]
+  }
+}
