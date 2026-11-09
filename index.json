@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-09T02:26:02.192Z",
-  "total_datasets": 536,
-  "total_records": 2267792,
+  "generated": "2026-11-09T02:26:10.702Z",
+  "total_datasets": 537,
+  "total_records": 2267806,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -804,6 +804,35 @@
         "xlsx": {
           "name": "sv-rektorer-lunds-universitet_SV.xlsx",
           "size": 21433
+        }
+      }
+    },
+    {
+      "id": "sv-skolministrar",
+      "name": "Sveriges skolministrar",
+      "category": "education",
+      "record_count": 14,
+      "columns": [
+        "nr",
+        "skolminister",
+        "titel",
+        "tilltradde",
+        "avgick",
+        "varaktighet",
+        "parti",
+        "regering"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_skolminister",
+      "updated": "2026-11",
+      "size": 6111,
+      "files": {
+        "csv": {
+          "name": "sv-skolministrar_SV.csv",
+          "size": 2177
+        },
+        "xlsx": {
+          "name": "sv-skolministrar_SV.xlsx",
+          "size": 8009
         }
       }
     },

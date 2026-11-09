@@ -1,0 +1,206 @@
+{
+  "id": "sv-skolministrar",
+  "name": "Sveriges skolministrar",
+  "title": "Sveriges skolministrar",
+  "description": "Sveriges skolministrar sedan 1974 med titel, tillträde, avgång, ämbetstid, parti och regering.",
+  "category": "education",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_skolminister",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_skolminister",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "skolminister",
+      "label": "Skolminister",
+      "type": "string"
+    },
+    {
+      "key": "titel",
+      "label": "Titel",
+      "type": "string"
+    },
+    {
+      "key": "tilltradde",
+      "label": "Tilltradde",
+      "type": "string"
+    },
+    {
+      "key": "avgick",
+      "label": "Avgick",
+      "type": "string"
+    },
+    {
+      "key": "varaktighet",
+      "label": "Varaktighet",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "regering",
+      "label": "Regering",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": "1",
+      "skolminister": "Lena Hjelm-Wallén (född 1943)",
+      "titel": "Skolminister",
+      "tilltradde": "4 januari 1974",
+      "avgick": "8 oktober 1976",
+      "varaktighet": "2 år och 278 dagar",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme I S"
+    },
+    {
+      "nr": "2",
+      "skolminister": "Britt Mogård (1922–2012)",
+      "titel": "Skolminister",
+      "tilltradde": "8 oktober 1976",
+      "avgick": "18 oktober 1978",
+      "varaktighet": "2 år och 10 dagar",
+      "parti": "Moderaterna",
+      "regering": "Fälldin I C – M – FP"
+    },
+    {
+      "nr": "3",
+      "skolminister": "Birgit Rodhe (1915–1998)",
+      "titel": "Skolminister",
+      "tilltradde": "18 oktober 1978",
+      "avgick": "12 oktober 1979",
+      "varaktighet": "0 år och 359 dagar",
+      "parti": "Folkpartiet",
+      "regering": "Ullsten FP"
+    },
+    {
+      "nr": "(2)",
+      "skolminister": "Britt Mogård (1922–2012)",
+      "titel": "Skolminister",
+      "tilltradde": "12 oktober 1979",
+      "avgick": "5 maj 1981",
+      "varaktighet": "1 år och 205 dagar",
+      "parti": "Moderaterna",
+      "regering": "Fälldin II C – M – FP"
+    },
+    {
+      "nr": "4",
+      "skolminister": "Ulla Tillander (1931–1994)",
+      "titel": "Skol- och ungdomsminister",
+      "tilltradde": "22 maj 1981",
+      "avgick": "8 oktober 1982",
+      "varaktighet": "1 år och 139 dagar",
+      "parti": "Centerpartiet",
+      "regering": "Fälldin III C – FP"
+    },
+    {
+      "nr": "5",
+      "skolminister": "Bengt Göransson (1932–2021)",
+      "titel": "Skol- och kulturminister",
+      "tilltradde": "8 oktober 1982",
+      "avgick": "29 januari 1989",
+      "varaktighet": "6 år och 113 dagar",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme II S Carlsson I S"
+    },
+    {
+      "nr": "6",
+      "skolminister": "Göran Persson (född 1949)",
+      "titel": "Skolminister",
+      "tilltradde": "29 januari 1989",
+      "avgick": "4 oktober 1991",
+      "varaktighet": "2 år och 248 dagar",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson I S Carlsson II S"
+    },
+    {
+      "nr": "7",
+      "skolminister": "Beatrice Ask (född 1956)",
+      "titel": "Skolminister",
+      "tilltradde": "4 oktober 1991",
+      "avgick": "7 oktober 1994",
+      "varaktighet": "3 år och 3 dagar",
+      "parti": "Moderaterna",
+      "regering": "Carl Bildt M – FP – C – KD"
+    },
+    {
+      "nr": "8",
+      "skolminister": "Ylva Johansson (född 1964)",
+      "titel": "Skolminister",
+      "tilltradde": "7 oktober 1994",
+      "avgick": "6 oktober 1998",
+      "varaktighet": "3 år och 364 dagar",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson III S Persson S"
+    },
+    {
+      "nr": "9",
+      "skolminister": "Ingegerd Wärnersson (född 1947)",
+      "titel": "Skolminister",
+      "tilltradde": "7 oktober 1998",
+      "avgick": "31 januari 2002",
+      "varaktighet": "3 år och 116 dagar",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson S"
+    },
+    {
+      "nr": "10",
+      "skolminister": "Ibrahim Baylan (född 1972)",
+      "titel": "Skolminister",
+      "tilltradde": "1 november 2004",
+      "avgick": "6 oktober 2006",
+      "varaktighet": "1 år och 339 dagar",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson S"
+    },
+    {
+      "nr": "11",
+      "skolminister": "Jan Björklund (född 1962)",
+      "titel": "Skolminister",
+      "tilltradde": "6 oktober 2006",
+      "avgick": "10 september 2007",
+      "varaktighet": "0 år och 341 dagar",
+      "parti": "Folkpartiet",
+      "regering": "Reinfeldt M – C – FP – KD"
+    },
+    {
+      "nr": "12",
+      "skolminister": "Lina Axelsson Kihlblom (född 1970)",
+      "titel": "Skolminister",
+      "tilltradde": "30 november 2021",
+      "avgick": "18 oktober 2022",
+      "varaktighet": "0 år och 322 dagar",
+      "parti": "Socialdemokraterna",
+      "regering": "Andersson S"
+    },
+    {
+      "nr": "13",
+      "skolminister": "Lotta Edholm (född 1965)",
+      "titel": "Skolminister",
+      "tilltradde": "18 oktober 2022",
+      "avgick": "28 juni 2025",
+      "varaktighet": "2 år och 253 dagar",
+      "parti": "Liberalerna",
+      "regering": "Kristersson M – KD – L"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges skolministrar - Free Download",
+    "description": "Sveriges skolministrar sedan 1974 med titel, tillträde, avgång, ämbetstid, parti och regering. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges skolministrar | ListBase",
+    "seo_description": "Download Sveriges skolministrar — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_skolminister"
+    ]
+  }
+}
