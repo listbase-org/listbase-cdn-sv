@@ -1,12 +1,12 @@
 {
   "lang": "sv",
-  "generated": "2026-11-09T02:25:52.124Z",
-  "total_datasets": 535,
-  "total_records": 2267694,
+  "generated": "2026-11-09T02:26:02.192Z",
+  "total_datasets": 536,
+  "total_records": 2267792,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -151,6 +151,28 @@
         "xlsx": {
           "name": "sv-landskapsapplen_SV.xlsx",
           "size": 7346
+        }
+      }
+    },
+    {
+      "id": "sv-paronsorter",
+      "name": "Päronsorter",
+      "category": "agriculture",
+      "record_count": 98,
+      "columns": [
+        "sort"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_päronsorter",
+      "updated": "2026-11",
+      "size": 5619,
+      "files": {
+        "csv": {
+          "name": "sv-paronsorter_SV.csv",
+          "size": 1768
+        },
+        "xlsx": {
+          "name": "sv-paronsorter_SV.xlsx",
+          "size": 8302
         }
       }
     },
