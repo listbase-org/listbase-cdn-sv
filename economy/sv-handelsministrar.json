@@ -1,0 +1,496 @@
+{
+  "id": "sv-handelsministrar",
+  "name": "Sveriges handelsministrar",
+  "title": "Sveriges handelsministrar",
+  "description": "Sveriges handelsministrar och utrikeshandelsministrar sedan 1920 med levnadsår, titel, tillträde, avgång, parti och regering.",
+  "category": "economy",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_handelsminister",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_handelsminister",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "levnadsar",
+      "label": "Levnadsar",
+      "type": "string"
+    },
+    {
+      "key": "titel",
+      "label": "Titel",
+      "type": "string"
+    },
+    {
+      "key": "tilltradde",
+      "label": "Tilltradde",
+      "type": "string"
+    },
+    {
+      "key": "avgick",
+      "label": "Avgick",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "regering",
+      "label": "Regering",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "namn": "Fredrik Wilhelm Thorsson",
+      "levnadsar": "1865–1925",
+      "titel": "handelsminister",
+      "tilltradde": "1 juli 1920",
+      "avgick": "27 oktober 1920",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting I"
+    },
+    {
+      "nr": 2,
+      "namn": "Gösta Malm",
+      "levnadsar": "1873–1965",
+      "titel": "handelsminister",
+      "tilltradde": "27 oktober 1920",
+      "avgick": "13 oktober 1921",
+      "parti": "Partilös",
+      "regering": "De Geer d.y. von Sydow"
+    },
+    {
+      "nr": 3,
+      "namn": "Carl Svensson",
+      "levnadsar": "1879–1938",
+      "titel": "handelsminister",
+      "tilltradde": "13 oktober 1921",
+      "avgick": "19 april 1923",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting II"
+    },
+    {
+      "nr": 4,
+      "namn": "Nils Wohlin",
+      "levnadsar": "1881–1948",
+      "titel": "handelsminister",
+      "tilltradde": "19 april 1923",
+      "avgick": "18 oktober 1924",
+      "parti": "Partilös",
+      "regering": "Trygger"
+    },
+    {
+      "nr": 5,
+      "namn": "Rickard Sandler",
+      "levnadsar": "1884–1964",
+      "titel": "handelsminister",
+      "tilltradde": "18 oktober 1924",
+      "avgick": "27 februari 1925",
+      "parti": "Socialdemokraterna",
+      "regering": "Branting III Sandler"
+    },
+    {
+      "nr": 6,
+      "namn": "Carl Svensson",
+      "levnadsar": "1879–1938",
+      "titel": "handelsminister",
+      "tilltradde": "27 februari 1925",
+      "avgick": "7 juni 1926",
+      "parti": "Socialdemokraterna",
+      "regering": "Sandler"
+    },
+    {
+      "nr": 7,
+      "namn": "Felix Hamrin",
+      "levnadsar": "1875–1937",
+      "titel": "handelsminister",
+      "tilltradde": "2 juni 1926",
+      "avgick": "2 oktober 1928",
+      "parti": "Frisinnade folkpartiet",
+      "regering": "Ekman I"
+    },
+    {
+      "nr": 8,
+      "namn": "Vilhelm Lundvik",
+      "levnadsar": "1883–1969",
+      "titel": "handelsminister",
+      "tilltradde": "2 oktober 1928",
+      "avgick": "7 juni 1930",
+      "parti": "Allmänna valmansförbundet",
+      "regering": "Lindman II"
+    },
+    {
+      "nr": 9,
+      "namn": "David Hansén",
+      "levnadsar": "1880–1957",
+      "titel": "handelsminister",
+      "tilltradde": "7 juni 1930",
+      "avgick": "24 september 1932",
+      "parti": "Frisinnade folkpartiet",
+      "regering": "Ekman II Hamrin"
+    },
+    {
+      "nr": 10,
+      "namn": "Fritjof Ekman",
+      "levnadsar": "1888–1952",
+      "titel": "handelsminister",
+      "tilltradde": "24 september 1932",
+      "avgick": "19 juni 1936",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson I"
+    },
+    {
+      "nr": 11,
+      "namn": "Elof Ericsson",
+      "levnadsar": "1887–1961",
+      "titel": "handelsminister",
+      "tilltradde": "19 juni 1936",
+      "avgick": "28 september 1936",
+      "parti": "Partilös",
+      "regering": "Pehrsson-Bramstorp"
+    },
+    {
+      "nr": 12,
+      "namn": "Per Edvin Sköld",
+      "levnadsar": "1891–1972",
+      "titel": "handelsminister",
+      "tilltradde": "28 september 1936",
+      "avgick": "16 december 1938",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson II"
+    },
+    {
+      "nr": 13,
+      "namn": "Gustav Möller",
+      "levnadsar": "1884–1970",
+      "titel": "handelsminister",
+      "tilltradde": "16 december 1938",
+      "avgick": "13 december 1939",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson II"
+    },
+    {
+      "nr": 14,
+      "namn": "Fritiof Domö",
+      "levnadsar": "1889–1961",
+      "titel": "handelsminister",
+      "tilltradde": "13 december 1939",
+      "avgick": "7 mars 1941",
+      "parti": "Högerpartiet",
+      "regering": "Hansson III"
+    },
+    {
+      "nr": 15,
+      "namn": "Herman Eriksson",
+      "levnadsar": "1892–1949",
+      "titel": "handelsminister",
+      "tilltradde": "7 mars 1941",
+      "avgick": "30 september 1944",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson III"
+    },
+    {
+      "nr": 16,
+      "namn": "Bertil Ohlin",
+      "levnadsar": "1899–1979",
+      "titel": "handelsminister",
+      "tilltradde": "30 september 1944",
+      "avgick": "31 juli 1945",
+      "parti": "Folkpartiet",
+      "regering": "Hansson III"
+    },
+    {
+      "nr": 17,
+      "namn": "Gunnar Myrdal",
+      "levnadsar": "1898–1987",
+      "titel": "handelsminister",
+      "tilltradde": "31 juli 1945",
+      "avgick": "11 april 1947",
+      "parti": "Socialdemokraterna",
+      "regering": "Hansson IV Erlander I"
+    },
+    {
+      "nr": 18,
+      "namn": "Axel Gjöres",
+      "levnadsar": "1889–1979",
+      "titel": "handelsminister",
+      "tilltradde": "24 maj 1947",
+      "avgick": "24 september 1948",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander I"
+    },
+    {
+      "nr": 19,
+      "namn": "John Ericsson",
+      "levnadsar": "1907–1977",
+      "titel": "handelsminister",
+      "tilltradde": "28 oktober 1948",
+      "avgick": "12 september 1955",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander I Erlander II"
+    },
+    {
+      "nr": 20,
+      "namn": "Gunnar Lange",
+      "levnadsar": "1909–1976",
+      "titel": "handelsminister",
+      "tilltradde": "12 september 1955",
+      "avgick": "9 oktober 1970",
+      "parti": "Socialdemokraterna",
+      "regering": "Erlander II Erlander III Palme I"
+    },
+    {
+      "nr": 21,
+      "namn": "Kjell-Olof Feldt",
+      "levnadsar": "1931–2025",
+      "titel": "handelsminister",
+      "tilltradde": "9 oktober 1970",
+      "avgick": "9 november 1975",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme I"
+    },
+    {
+      "nr": 22,
+      "namn": "Carl Lidbom",
+      "levnadsar": "1926–2004",
+      "titel": "handelsminister",
+      "tilltradde": "10 november 1975",
+      "avgick": "8 oktober 1976",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme I"
+    },
+    {
+      "nr": 23,
+      "namn": "Staffan Burenstam Linder",
+      "levnadsar": "1931–2000",
+      "titel": "handelsminister",
+      "tilltradde": "8 oktober 1976",
+      "avgick": "18 oktober 1978",
+      "parti": "Moderaterna",
+      "regering": "Fälldin I"
+    },
+    {
+      "nr": 24,
+      "namn": "Hadar Cars",
+      "levnadsar": "född 1933",
+      "titel": "handelsminister",
+      "tilltradde": "18 oktober 1978",
+      "avgick": "12 oktober 1979",
+      "parti": "Folkpartiet",
+      "regering": "Ullsten"
+    },
+    {
+      "nr": 25,
+      "namn": "Staffan Burenstam Linder",
+      "levnadsar": "1931–2000",
+      "titel": "handelsminister",
+      "tilltradde": "12 oktober 1979",
+      "avgick": "5 maj 1981",
+      "parti": "Moderaterna",
+      "regering": "Fälldin II"
+    },
+    {
+      "nr": 26,
+      "namn": "Jan-Erik Wikström",
+      "levnadsar": "tf.) (1932–2024",
+      "titel": "handelsminister",
+      "tilltradde": "5 maj 1981",
+      "avgick": "22 maj 1981",
+      "parti": "Folkpartiet",
+      "regering": "Fälldin II"
+    },
+    {
+      "nr": 27,
+      "namn": "Björn Molin",
+      "levnadsar": "1932–2024",
+      "titel": "handelsminister",
+      "tilltradde": "22 maj 1981",
+      "avgick": "8 oktober 1982",
+      "parti": "Folkpartiet",
+      "regering": "Fälldin III"
+    },
+    {
+      "nr": 28,
+      "namn": "Lennart Bodström",
+      "levnadsar": "1928–2015",
+      "titel": "handelsminister",
+      "tilltradde": "8 oktober",
+      "avgick": "31 december 1982",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme II"
+    },
+    {
+      "nr": 29,
+      "namn": "Mats Hellström",
+      "levnadsar": "1942–2026",
+      "titel": "utrikeshandelsminister",
+      "tilltradde": "11 januari 1983",
+      "avgick": "9 oktober 1986",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme II Carlsson I"
+    },
+    {
+      "nr": 30,
+      "namn": "Anita Gradin",
+      "levnadsar": "1933–2022",
+      "titel": "utrikeshandelsminister",
+      "tilltradde": "10 oktober 1986",
+      "avgick": "4 oktober 1991",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson I Carlsson II"
+    },
+    {
+      "nr": 31,
+      "namn": "Ulf Dinkelspiel",
+      "levnadsar": "1939–2017",
+      "titel": "utrikeshandelsminister",
+      "tilltradde": "4 oktober 1991",
+      "avgick": "7 oktober 1994",
+      "parti": "Moderaterna",
+      "regering": "Carl Bildt"
+    },
+    {
+      "nr": 32,
+      "namn": "Mats Hellström",
+      "levnadsar": "1942–2026",
+      "titel": "utrikeshandelsminister",
+      "tilltradde": "7 oktober 1994",
+      "avgick": "22 mars 1996",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson III"
+    },
+    {
+      "nr": 33,
+      "namn": "Björn von Sydow",
+      "levnadsar": "född 1945",
+      "titel": "handelsminister",
+      "tilltradde": "22 mars 1996",
+      "avgick": "31 januari 1997",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "nr": 34,
+      "namn": "Leif Pagrotsky",
+      "levnadsar": "född 1951",
+      "titel": "1997–2002 handelsminister 2002–2004 näringsminister",
+      "tilltradde": "1 februari 1997",
+      "avgick": "31 oktober 2004",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "nr": 35,
+      "namn": "Thomas Östros",
+      "levnadsar": "född 1965",
+      "titel": "näringsminister",
+      "tilltradde": "1 november 2004",
+      "avgick": "6 oktober 2006",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "nr": 36,
+      "namn": "Maria Borelius",
+      "levnadsar": "född 1960",
+      "titel": "handelsminister",
+      "tilltradde": "6 oktober 2006",
+      "avgick": "14 oktober 2006",
+      "parti": "Moderaterna",
+      "regering": "Reinfeldt"
+    },
+    {
+      "nr": 37,
+      "namn": "Sten Tolgfors",
+      "levnadsar": "född 1966",
+      "titel": "handelsminister",
+      "tilltradde": "24 oktober 2006",
+      "avgick": "12 september 2007",
+      "parti": "Moderaterna",
+      "regering": "Reinfeldt"
+    },
+    {
+      "nr": 38,
+      "namn": "Ewa Björling",
+      "levnadsar": "född 1961",
+      "titel": "handelsminister",
+      "tilltradde": "12 september 2007",
+      "avgick": "3 oktober 2014",
+      "parti": "Moderaterna",
+      "regering": "Reinfeldt"
+    },
+    {
+      "nr": 39,
+      "namn": "Mikael Damberg",
+      "levnadsar": "född 1971",
+      "titel": "näringsminister",
+      "tilltradde": "3 oktober 2014",
+      "avgick": "25 maj 2016",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven I"
+    },
+    {
+      "nr": 40,
+      "namn": "Ann Linde",
+      "levnadsar": "född 1961",
+      "titel": "2016-2019 EU- och handelsminister 2019 Utrikeshandelsminister",
+      "tilltradde": "25 maj 2016",
+      "avgick": "10 september 2019",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven I Löfven II"
+    },
+    {
+      "nr": 41,
+      "namn": "Anna Hallberg",
+      "levnadsar": "född 1963",
+      "titel": "Utrikeshandelsminister",
+      "tilltradde": "10 september 2019",
+      "avgick": "18 oktober 2022",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven II Löfven III Andersson"
+    },
+    {
+      "nr": 42,
+      "namn": "Johan Forssell",
+      "levnadsar": "född 1979",
+      "titel": "Bistånds- och utrikeshandelsminister",
+      "tilltradde": "18 oktober 2022",
+      "avgick": "10 september 2024",
+      "parti": "Moderaterna",
+      "regering": "Kristersson"
+    },
+    {
+      "nr": 43,
+      "namn": "Benjamin Dousa",
+      "levnadsar": "född 1992",
+      "titel": "Bistånds- och utrikeshandelsminister",
+      "tilltradde": "10 september 2024",
+      "avgick": "Nuvarande",
+      "parti": "Moderaterna",
+      "regering": "Kristersson"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges handelsministrar - Free Download",
+    "description": "Sveriges handelsministrar och utrikeshandelsministrar sedan 1920 med levnadsår, titel, tillträde, avgång, parti och regering. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges handelsministrar | ListBase",
+    "seo_description": "Download Sveriges handelsministrar — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_handelsminister"
+    ]
+  }
+}

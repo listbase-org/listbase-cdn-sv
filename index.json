@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-10T02:27:53.618Z",
-  "total_datasets": 540,
-  "total_records": 2271063,
+  "generated": "2026-11-10T02:43:59.587Z",
+  "total_datasets": 541,
+  "total_records": 2271106,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -631,6 +631,35 @@
         "xlsx": {
           "name": "sv-finansministrar_SV.xlsx",
           "size": 12745
+        }
+      }
+    },
+    {
+      "id": "sv-handelsministrar",
+      "name": "Sveriges handelsministrar",
+      "category": "economy",
+      "record_count": 43,
+      "columns": [
+        "nr",
+        "namn",
+        "levnadsar",
+        "titel",
+        "tilltradde",
+        "avgick",
+        "parti",
+        "regering"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_handelsminister",
+      "updated": "2026-11",
+      "size": 13614,
+      "files": {
+        "csv": {
+          "name": "sv-handelsministrar_SV.csv",
+          "size": 5508
+        },
+        "xlsx": {
+          "name": "sv-handelsministrar_SV.xlsx",
+          "size": 9710
         }
       }
     },
