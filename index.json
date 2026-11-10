@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-10T02:27:37.660Z",
-  "total_datasets": 538,
-  "total_records": 2267867,
+  "generated": "2026-11-10T02:27:46.026Z",
+  "total_datasets": 539,
+  "total_records": 2271043,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -11979,6 +11979,30 @@
         "xlsx": {
           "name": "sv-forskningsinstitut_SV.xlsx",
           "size": 10127
+        }
+      }
+    },
+    {
+      "id": "sv-ledamoter-kungliga-vetenskapsakademien",
+      "name": "Ledamöter av Kungliga Vetenskapsakademien sedan 1739",
+      "category": "science",
+      "record_count": 3176,
+      "columns": [
+        "nr",
+        "namn",
+        "invald_period"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_ledamöter_av_Kungliga_Vetenskapsakademien",
+      "updated": "2026-11",
+      "size": 334745,
+      "files": {
+        "csv": {
+          "name": "sv-ledamoter-kungliga-vetenskapsakademien_SV.csv",
+          "size": 135967
+        },
+        "xlsx": {
+          "name": "sv-ledamoter-kungliga-vetenskapsakademien_SV.xlsx",
+          "size": 91725
         }
       }
     },
