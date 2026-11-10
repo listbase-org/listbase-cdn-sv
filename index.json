@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-10T02:27:46.026Z",
-  "total_datasets": 539,
-  "total_records": 2271043,
+  "generated": "2026-11-10T02:27:53.618Z",
+  "total_datasets": 540,
+  "total_records": 2271063,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -5054,6 +5054,30 @@
         "xlsx": {
           "name": "sv-svenska-akademiens-ledamoter_SV.xlsx",
           "size": 7810
+        }
+      }
+    },
+    {
+      "id": "sv-svenska-akademiens-standiga-sekreterare",
+      "name": "Svenska Akademiens ständiga sekreterare",
+      "category": "language",
+      "record_count": 20,
+      "columns": [
+        "namn",
+        "period",
+        "stol"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_Svenska_Akademiens_ständige_sekreterare",
+      "updated": "2026-11",
+      "size": 3448,
+      "files": {
+        "csv": {
+          "name": "sv-svenska-akademiens-standiga-sekreterare_SV.csv",
+          "size": 782
+        },
+        "xlsx": {
+          "name": "sv-svenska-akademiens-standiga-sekreterare_SV.xlsx",
+          "size": 7413
         }
       }
     },
