@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-09T02:26:10.702Z",
-  "total_datasets": 537,
-  "total_records": 2267806,
+  "generated": "2026-11-10T02:27:37.660Z",
+  "total_datasets": 538,
+  "total_records": 2267867,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -521,6 +521,30 @@
         "xlsx": {
           "name": "sv-varldsarv-unesco_SV.xlsx",
           "size": 11931
+        }
+      }
+    },
+    {
+      "id": "sv-aldsta-foretag",
+      "name": "Sveriges äldsta företag",
+      "category": "economy",
+      "record_count": 61,
+      "columns": [
+        "grundat_ar",
+        "nuvarande_namn",
+        "kommentar"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_Sveriges_äldsta_företag",
+      "updated": "2026-11",
+      "size": 10116,
+      "files": {
+        "csv": {
+          "name": "sv-aldsta-foretag_SV.csv",
+          "size": 4023
+        },
+        "xlsx": {
+          "name": "sv-aldsta-foretag_SV.xlsx",
+          "size": 9577
         }
       }
     },

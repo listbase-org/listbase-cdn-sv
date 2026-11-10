@@ -1,0 +1,346 @@
+{
+  "id": "sv-aldsta-foretag",
+  "name": "Sveriges äldsta företag",
+  "title": "Sveriges äldsta företag",
+  "description": "Lista över Sveriges äldsta fortfarande (eller nyligen) verksamma företag med grundandeår, nuvarande namn och kommentarer.",
+  "category": "economy",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_Sveriges_äldsta_företag",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_Sveriges_äldsta_företag",
+  "updated": "2026-11",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "grundat_ar",
+      "label": "Grundat Ar",
+      "type": "string"
+    },
+    {
+      "key": "nuvarande_namn",
+      "label": "Nuvarande Namn",
+      "type": "string"
+    },
+    {
+      "key": "kommentar",
+      "label": "Kommentar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "grundat_ar": "Före 1288",
+      "nuvarande_namn": "Stora AB",
+      "kommentar": "Världens äldsta aktiebolag. Sedan 1998 del av Stora Enso."
+    },
+    {
+      "grundat_ar": 1346,
+      "nuvarande_namn": "Skyllbergs bruk",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1545,
+      "nuvarande_namn": "Wedevåg Tools",
+      "kommentar": "Sveriges äldsta järnmanufakturföretag. Konkurs 2022."
+    },
+    {
+      "grundat_ar": 1550,
+      "nuvarande_namn": "Borggårds Bruk",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1552,
+      "nuvarande_namn": "Åkers Krutbruk Protection AB",
+      "kommentar": "Likviderat 2021"
+    },
+    {
+      "grundat_ar": 1569,
+      "nuvarande_namn": "Berte Qvarn",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1573,
+      "nuvarande_namn": "Klippans bruk",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1580,
+      "nuvarande_namn": "Åkers Sweden",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1590,
+      "nuvarande_namn": "Ramnäs Bruk",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1607,
+      "nuvarande_namn": "Skultuna Messingsbruk",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1609,
+      "nuvarande_namn": "Holmen",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1636,
+      "nuvarande_namn": "Posten",
+      "kommentar": "Föregångare till Posten var Postverket, ett statligt affärsverk. Ingår idag i den svensk-danska koncernen Postnord."
+    },
+    {
+      "grundat_ar": 1655,
+      "nuvarande_namn": "Ankarsrum Electric Motors AB",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1666,
+      "nuvarande_namn": "Sporrong",
+      "kommentar": "Skjutspjällsventiler"
+    },
+    {
+      "grundat_ar": 1666,
+      "nuvarande_namn": "Stavsjö Bruk",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1675,
+      "nuvarande_namn": "Lesjöfors AB",
+      "kommentar": "Producerar fjädrar och banddetaljer."
+    },
+    {
+      "grundat_ar": 1682,
+      "nuvarande_namn": "Häfla Bruks AB",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1685,
+      "nuvarande_namn": "Iggesunds Bruk",
+      "kommentar": "Ingår i skogskoncernen Holmen AB."
+    },
+    {
+      "grundat_ar": 1689,
+      "nuvarande_namn": "Husqvarna AB",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1720,
+      "nuvarande_namn": "Uddeholms Bolag",
+      "kommentar": "Idag Uddeholms AB, med anor från Sunnemo bruk (1640)."
+    },
+    {
+      "grundat_ar": 1735,
+      "nuvarande_namn": "GDL AB",
+      "kommentar": "Grundat som Gamla Dragarelaget. Helsingborgs äldsta (fortfarande verksamma) företag."
+    },
+    {
+      "grundat_ar": 1740,
+      "nuvarande_namn": "Grycksbo Paper",
+      "kommentar": "Tidigare Grycksbo Pappersbruks AB"
+    },
+    {
+      "grundat_ar": 1740,
+      "nuvarande_namn": "Limmareds glasbruk",
+      "kommentar": "Sveriges äldsta glasbruk."
+    },
+    {
+      "grundat_ar": 1742,
+      "nuvarande_namn": "Kosta glasbruk",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1746,
+      "nuvarande_namn": "Brandkontoret",
+      "kommentar": "Försäkringsbolag specialiserat på fastighetsförsäkringar i Stockholm."
+    },
+    {
+      "grundat_ar": 1762,
+      "nuvarande_namn": "Olofsfors AB",
+      "kommentar": "Företag inom stålindustrin i Nordmaling."
+    },
+    {
+      "grundat_ar": 1797,
+      "nuvarande_namn": "Höganäs AB",
+      "kommentar": "Grundat som stenkolsverk."
+    },
+    {
+      "grundat_ar": 1802,
+      "nuvarande_namn": "Ekman & Co AB",
+      "kommentar": "Ekman är idag världsledande marknadsplats för pappersmassa, papper med mera."
+    },
+    {
+      "grundat_ar": 1803,
+      "nuvarande_namn": "Hembla",
+      "kommentar": "Tidigare D.Carnegie & Co. Porterbryggeri och sockerbruk. Det blev senare basen i Svenska Sockerfabriks AB. Bolaget fortsatte med fastigheter och är numera finansföretag och bank."
+    },
+    {
+      "grundat_ar": 1804,
+      "nuvarande_namn": "Alstermo bruk",
+      "kommentar": "Grundat som handpappersbruk."
+    },
+    {
+      "grundat_ar": 1810,
+      "nuvarande_namn": "Reijmyre glasbruk",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1822,
+      "nuvarande_namn": "Motala Verkstad",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1822,
+      "nuvarande_namn": "P.A. Norstedt & Söner",
+      "kommentar": "Sveriges äldsta bokförlag."
+    },
+    {
+      "grundat_ar": 1824,
+      "nuvarande_namn": "Killbergs",
+      "kommentar": "Killbergs bokhandel, Helsingborg"
+    },
+    {
+      "grundat_ar": 1832,
+      "nuvarande_namn": "Quidings bokhandel, Växjö",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1837,
+      "nuvarande_namn": "Albert Bonniers Förlag",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1847,
+      "nuvarande_namn": "Ahlmark Lines",
+      "kommentar": "Sveriges äldsta rederi."
+    },
+    {
+      "grundat_ar": 1855,
+      "nuvarande_namn": "Skandia",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1856,
+      "nuvarande_namn": "Åbro Bryggeri",
+      "kommentar": "Sveriges äldsta bryggeri."
+    },
+    {
+      "grundat_ar": 1857,
+      "nuvarande_namn": "AB Gustaf Kähr",
+      "kommentar": "Även kallad Kährs."
+    },
+    {
+      "grundat_ar": 1857,
+      "nuvarande_namn": "Svanströms",
+      "kommentar": "Sveriges äldsta kontorsvaruföretag."
+    },
+    {
+      "grundat_ar": 1861,
+      "nuvarande_namn": "Sifvert Skruv AB",
+      "kommentar": "Specialist inom fästelement."
+    },
+    {
+      "grundat_ar": 1862,
+      "nuvarande_namn": "Sandvik AB",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1864,
+      "nuvarande_namn": "Orica Sweden AB",
+      "kommentar": "Dåvarande Nitroglycerin Aktiebolaget (Senare Nitro Nobel AB, Dyno Nobel AB) grundades 1864 av Alfred Nobel och är numer en del av den globala koncernen Orica."
+    },
+    {
+      "grundat_ar": 1866,
+      "nuvarande_namn": "Aktiebolaget för varubelåning",
+      "kommentar": "Ett av Sveriges äldsta Pantbanksföretag. Startades år 1866 av J.A. Jansson och är idag ägt av en stiftelse med samma namn."
+    },
+    {
+      "grundat_ar": 1870,
+      "nuvarande_namn": "F O Peterson & Söner",
+      "kommentar": "Sveriges äldsta byggföretag."
+    },
+    {
+      "grundat_ar": 1871,
+      "nuvarande_namn": "Kron International AB",
+      "kommentar": "Sveriges äldsta borstbinderi. Startade under namnet Stockholms Borstbinderi AB."
+    },
+    {
+      "grundat_ar": 1873,
+      "nuvarande_namn": "Atlas Copco AB",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1874,
+      "nuvarande_namn": "Kågströms Repslageri AB",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1880,
+      "nuvarande_namn": "S.A Wetterlings manufaktur AB",
+      "kommentar": "Tillverkning av yxor."
+    },
+    {
+      "grundat_ar": 1881,
+      "nuvarande_namn": "J.E. Lindbom AB",
+      "kommentar": "Företaget bildades 1881, registrerat 1947."
+    },
+    {
+      "grundat_ar": 1883,
+      "nuvarande_namn": "Sjölins Smide",
+      "kommentar": "Företaget grundades 1883 och är fortfarande verksamt inom stålbyggnadskonstruktioner."
+    },
+    {
+      "grundat_ar": 1884,
+      "nuvarande_namn": "AB Karlskrona Lampfabrik",
+      "kommentar": "Sveriges första lampfabrik. Ägs och drivs fortfarande av familjen Skantze."
+    },
+    {
+      "grundat_ar": 1886,
+      "nuvarande_namn": "Skrombergaverken",
+      "kommentar": "Tidigare Skromberga stenkols- och lerindustri AB. Kakel- och klinkertillverkare bildat i skånska Ekeby, numera känt som Höganäs Kakel."
+    },
+    {
+      "grundat_ar": 1887,
+      "nuvarande_namn": "Uppsala Stadsbud",
+      "kommentar": ""
+    },
+    {
+      "grundat_ar": 1887,
+      "nuvarande_namn": "Andersson & Julle Plåt AB",
+      "kommentar": "Köpings äldsta företag"
+    },
+    {
+      "grundat_ar": 1888,
+      "nuvarande_namn": "Neovici AB",
+      "kommentar": "Sveriges äldsta automatiseringsbolag, startade som en kvarn."
+    },
+    {
+      "grundat_ar": 1895,
+      "nuvarande_namn": "Östanåsågen AB",
+      "kommentar": "Tidigare Östanå Ångsåg, Ovanåkers kommun. Ingår numera i Rundvirke industrier."
+    },
+    {
+      "grundat_ar": 1895,
+      "nuvarande_namn": "AFRY",
+      "kommentar": "tidigare ÅF AB och AB Ångpanneföreningen."
+    },
+    {
+      "grundat_ar": 1891,
+      "nuvarande_namn": "Bergstrands kafferosteri",
+      "kommentar": "Kafferosteri beläget i Göteborg."
+    },
+    {
+      "grundat_ar": 1899,
+      "nuvarande_namn": "Engelska tapetmagasinet",
+      "kommentar": "Företaget grundades 1899 på Västra Hamngatan i Göteborg."
+    }
+  ],
+  "meta": {
+    "title": "Sveriges äldsta företag - Free Download",
+    "description": "Lista över Sveriges äldsta fortfarande (eller nyligen) verksamma företag med grundandeår, nuvarande namn och kommentarer. Contains 61 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges äldsta företag | ListBase",
+    "seo_description": "Download Sveriges äldsta företag — 61 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 61 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_Sveriges_äldsta_företag"
+    ]
+  }
+}
