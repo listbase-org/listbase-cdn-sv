@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-10T02:43:59.587Z",
-  "total_datasets": 541,
-  "total_records": 2271106,
+  "generated": "2026-11-10T02:57:21.885Z",
+  "total_datasets": 542,
+  "total_records": 2271243,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 25
+      "dataset_count": 26
     },
     {
       "id": "reference",
@@ -5643,6 +5643,35 @@
         "xlsx": {
           "name": "sv-enkammarriksdagen-ledamoter_SV.xlsx",
           "size": 251317
+        }
+      }
+    },
+    {
+      "id": "sv-forsvarsministrar",
+      "name": "Sveriges försvarsministrar (och tidigare krigs- och sjöministrar)",
+      "category": "politics",
+      "record_count": 137,
+      "columns": [
+        "ambete",
+        "namn",
+        "fodelse",
+        "tilltrade",
+        "frantrade",
+        "dod",
+        "politisk_tillhorighet",
+        "regering"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_försvarsminister",
+      "updated": "2026-11",
+      "size": 51993,
+      "files": {
+        "csv": {
+          "name": "sv-forsvarsministrar_SV.csv",
+          "size": 26987
+        },
+        "xlsx": {
+          "name": "sv-forsvarsministrar_SV.xlsx",
+          "size": 15022
         }
       }
     },
