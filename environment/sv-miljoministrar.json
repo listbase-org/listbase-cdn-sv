@@ -1,0 +1,246 @@
+{
+  "id": "sv-miljoministrar",
+  "name": "Sveriges miljöministrar",
+  "title": "Sveriges miljöministrar",
+  "description": "Sveriges miljöministrar (inklusive klimat- och miljöministrar) sedan 1985 med födelse, tillträde, frånträde, parti och regering.",
+  "category": "environment",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_miljöminister",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_miljöminister",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "fodelse",
+      "label": "Fodelse",
+      "type": "string"
+    },
+    {
+      "key": "tilltrade",
+      "label": "Tilltrade",
+      "type": "string"
+    },
+    {
+      "key": "anmarkning",
+      "label": "Anmarkning",
+      "type": "string"
+    },
+    {
+      "key": "frantrade",
+      "label": "Frantrade",
+      "type": "string"
+    },
+    {
+      "key": "dod",
+      "label": "Dod",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "regering",
+      "label": "Regering",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "namn": "Ingvar Carlsson",
+      "fodelse": "9 november 1934 i Caroli församling i Borås i Västergötland",
+      "tilltrade": "7 oktober 1985",
+      "anmarkning": "(samordnings- och miljöminister)",
+      "frantrade": "28 februari 1986",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme II"
+    },
+    {
+      "namn": "Birgitta Dahl",
+      "fodelse": "20 september 1937 i Råda i Västergötland",
+      "tilltrade": "12 mars 1986",
+      "anmarkning": "(miljö- och energiminister) (1 januari 1987) (från 27 februari 1990 miljöminister)",
+      "frantrade": "4 oktober 1991",
+      "dod": "26 november 2024",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson I, Carlsson II"
+    },
+    {
+      "namn": "Olof Johansson",
+      "fodelse": "31 juli 1937 i Ljungby (Kalmar län) i Småland",
+      "tilltrade": "4 oktober 1991",
+      "anmarkning": "(miljö- och naturresursminister från 1 december 1991)",
+      "frantrade": "16 juni 1994",
+      "dod": "",
+      "parti": "Centerpartiet",
+      "regering": "C. Bildt"
+    },
+    {
+      "namn": "Görel Thurdin",
+      "fodelse": "26 maj 1942",
+      "tilltrade": "16 juni 1994",
+      "anmarkning": "(miljö- och naturresursminister)",
+      "frantrade": "2 oktober 1994",
+      "dod": "",
+      "parti": "Centerpartiet",
+      "regering": "C. Bildt"
+    },
+    {
+      "namn": "Karl Erik Olsson",
+      "fodelse": "23 februari 1938 i Helsingborg i Skåne",
+      "tilltrade": "2 oktober 1994",
+      "anmarkning": "(miljö- och naturresursminister)",
+      "frantrade": "7 oktober 1994",
+      "dod": "23 januari 2021 i Sösdala",
+      "parti": "Centerpartiet",
+      "regering": "C. Bildt"
+    },
+    {
+      "namn": "Anna Lindh",
+      "fodelse": "19 juni 1957 i Enskede i Stockholm",
+      "tilltrade": "7 oktober 1994",
+      "anmarkning": "(miljö- och naturresursminister till 31 december 1994)",
+      "frantrade": "7 oktober 1998",
+      "dod": "11 september 2003 i Stockholm (mördad)",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson III, Persson"
+    },
+    {
+      "namn": "Kjell Larsson",
+      "fodelse": "26 mars 1943 i Lundby i Göteborg",
+      "tilltrade": "7 oktober 1998",
+      "anmarkning": "",
+      "frantrade": "21 oktober 2002",
+      "dod": "21 december 2002 i Stockholm",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "namn": "Lena Sommestad",
+      "fodelse": "3 april 1957 i Börje socken i Uppsala i Uppland",
+      "tilltrade": "21 oktober 2002",
+      "anmarkning": "(21 oktober 2004 ♦)",
+      "frantrade": "6 oktober 2006",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "namn": "Andreas Carlgren",
+      "fodelse": "8 juli 1958 i Västra Ryd i Upplands-Bro i Uppland",
+      "tilltrade": "6 oktober 2006",
+      "anmarkning": "",
+      "frantrade": "29 september 2011",
+      "dod": "",
+      "parti": "Centerpartiet",
+      "regering": "Reinfeldt"
+    },
+    {
+      "namn": "Lena Ek",
+      "fodelse": "16 januari 1958 i Mönsterås i Småland",
+      "tilltrade": "29 september 2011",
+      "anmarkning": "",
+      "frantrade": "3 oktober 2014",
+      "dod": "",
+      "parti": "Centerpartiet",
+      "regering": "Reinfeldt"
+    },
+    {
+      "namn": "Åsa Romson",
+      "fodelse": "22 mars 1972 i Salems församling i Stockholms län",
+      "tilltrade": "3 oktober 2014",
+      "anmarkning": "(klimat- och miljöminister)",
+      "frantrade": "25 maj 2016",
+      "dod": "",
+      "parti": "Miljöpartiet de Gröna",
+      "regering": "Löfven I"
+    },
+    {
+      "namn": "Karolina Skog",
+      "fodelse": "30 mars 1976 i Åhus i Skåne län",
+      "tilltrade": "25 maj 2016",
+      "anmarkning": "",
+      "frantrade": "21 januari 2019",
+      "dod": "",
+      "parti": "Miljöpartiet de Gröna",
+      "regering": "Löfven I"
+    },
+    {
+      "namn": "Isabella Lövin",
+      "fodelse": "3 februari 1963 i Helsingborg i Skåne län",
+      "tilltrade": "21 januari 2019",
+      "anmarkning": "(klimat- och miljöminister)",
+      "frantrade": "5 februari 2021",
+      "dod": "",
+      "parti": "Miljöpartiet de Gröna",
+      "regering": "Löfven II"
+    },
+    {
+      "namn": "Per Bolund",
+      "fodelse": "3 juli 1971 i Hässelby i Stockholms län",
+      "tilltrade": "5 februari 2021",
+      "anmarkning": "(klimat- och miljöminister)",
+      "frantrade": "30 november 2021",
+      "dod": "",
+      "parti": "Miljöpartiet de Gröna",
+      "regering": "Löfven II, Löfven III"
+    },
+    {
+      "namn": "Annika Strandhäll",
+      "fodelse": "30 april 1975 i Göteborg i Västra Götalands län",
+      "tilltrade": "30 november 2021",
+      "anmarkning": "(miljö- och klimatminister)",
+      "frantrade": "18 oktober 2022",
+      "dod": "",
+      "parti": "Socialdemokraterna",
+      "regering": "Andersson"
+    },
+    {
+      "namn": "Romina Pourmokhtari",
+      "fodelse": "12 november 1995 i Sundbyberg i Stockholms län",
+      "tilltrade": "18 oktober 2022",
+      "anmarkning": "(klimat- och miljöminister)",
+      "frantrade": "2 mars 2026 (gick på föräldraledighet)",
+      "dod": "",
+      "parti": "Liberalerna",
+      "regering": "Kristersson"
+    },
+    {
+      "namn": "Johan Britz",
+      "fodelse": "19 juli 1975 i Högalids församling i Stockholms län",
+      "tilltrade": "2 mars 2026",
+      "anmarkning": "(arbetsmarknadsminister och vikarierande klimat- och miljöminister)",
+      "frantrade": "15 juni 2026",
+      "dod": "",
+      "parti": "Liberalerna",
+      "regering": "Kristersson"
+    },
+    {
+      "namn": "Romina Pourmokhtari",
+      "fodelse": "12 november 1995 i Sundbyberg i Stockholms län",
+      "tilltrade": "15 juni 2026",
+      "anmarkning": "(tillbaka från föräldraledighet) (klimat- och miljöminister)",
+      "frantrade": "",
+      "dod": "",
+      "parti": "Liberalerna",
+      "regering": "Kristersson"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges miljöministrar - Free Download",
+    "description": "Sveriges miljöministrar (inklusive klimat- och miljöministrar) sedan 1985 med födelse, tillträde, frånträde, parti och regering. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges miljöministrar | ListBase",
+    "seo_description": "Download Sveriges miljöministrar — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_miljöminister"
+    ]
+  }
+}

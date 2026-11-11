@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-11T02:14:15.277Z",
-  "total_datasets": 544,
-  "total_records": 2271299,
+  "generated": "2026-11-11T02:14:22.821Z",
+  "total_datasets": 545,
+  "total_records": 2271317,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "finance",
@@ -1837,6 +1837,35 @@
         "xlsx": {
           "name": "sv-mattenheter-temperature_SV.xlsx",
           "size": 7019
+        }
+      }
+    },
+    {
+      "id": "sv-miljoministrar",
+      "name": "Sveriges miljöministrar",
+      "category": "environment",
+      "record_count": 18,
+      "columns": [
+        "namn",
+        "fodelse",
+        "tilltrade",
+        "anmarkning",
+        "frantrade",
+        "dod",
+        "parti",
+        "regering"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_miljöminister",
+      "updated": "2026-11",
+      "size": 7837,
+      "files": {
+        "csv": {
+          "name": "sv-miljoministrar_SV.csv",
+          "size": 3250
+        },
+        "xlsx": {
+          "name": "sv-miljoministrar_SV.xlsx",
+          "size": 8429
         }
       }
     },
