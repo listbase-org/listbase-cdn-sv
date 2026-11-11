@@ -1,0 +1,223 @@
+{
+  "id": "sv-energiministrar",
+  "name": "Sveriges energiministrar",
+  "title": "Sveriges energiministrar",
+  "description": "Sveriges energiministrar sedan 1976 med levnadsår, tillträde, avgång, parti och regering.",
+  "category": "environment",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_energiminister",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_energiminister",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "levnadsar",
+      "label": "Levnadsar",
+      "type": "string"
+    },
+    {
+      "key": "tilltradde",
+      "label": "Tilltradde",
+      "type": "string"
+    },
+    {
+      "key": "avgick",
+      "label": "Avgick",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "regering",
+      "label": "Regering",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "namn": "Olof Johansson",
+      "levnadsar": "född 1937",
+      "tilltradde": "8 oktober 1976",
+      "avgick": "18 oktober 1978",
+      "parti": "Centerpartiet",
+      "regering": "Fälldin I"
+    },
+    {
+      "nr": 2,
+      "namn": "Carl Tham",
+      "levnadsar": "född 1939",
+      "tilltradde": "18 oktober 1978",
+      "avgick": "12 oktober 1979",
+      "parti": "Folkpartiet",
+      "regering": "Ullsten"
+    },
+    {
+      "nr": 3,
+      "namn": "Carl Axel Petri",
+      "levnadsar": "1929–2017",
+      "tilltradde": "6 november 1979",
+      "avgick": "22 maj 1981",
+      "parti": "Partilös",
+      "regering": "Fälldin II"
+    },
+    {
+      "nr": 4,
+      "namn": "Ingemar Eliasson",
+      "levnadsar": "född 1939",
+      "tilltradde": "22 maj 1981",
+      "avgick": "8 oktober 1982",
+      "parti": "Folkpartiet",
+      "regering": "Fälldin III"
+    },
+    {
+      "nr": 5,
+      "namn": "Birgitta Dahl",
+      "levnadsar": "1937–2024",
+      "tilltradde": "8 oktober 1982",
+      "avgick": "12 januari 1990",
+      "parti": "Socialdemokraterna",
+      "regering": "Palme II Carlsson I"
+    },
+    {
+      "nr": 6,
+      "namn": "Rune Molin",
+      "levnadsar": "1931–2011",
+      "tilltradde": "12 januari 1990",
+      "avgick": "4 oktober 1991",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson I Carlsson II"
+    },
+    {
+      "nr": 7,
+      "namn": "Per Westerberg",
+      "levnadsar": "född 1951",
+      "tilltradde": "4 oktober 1991",
+      "avgick": "7 oktober 1994",
+      "parti": "Moderaterna",
+      "regering": "Bildt"
+    },
+    {
+      "nr": 8,
+      "namn": "Jörgen Andersson",
+      "levnadsar": "född 1946",
+      "tilltradde": "7 oktober 1994",
+      "avgick": "22 mars 1996",
+      "parti": "Socialdemokraterna",
+      "regering": "Carlsson III"
+    },
+    {
+      "nr": 9,
+      "namn": "Anders Sundström",
+      "levnadsar": "född 1952",
+      "tilltradde": "22 mars 1996",
+      "avgick": "7 oktober 1998",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "nr": 10,
+      "namn": "Björn Rosengren",
+      "levnadsar": "född 1942",
+      "tilltradde": "7 oktober 1998",
+      "avgick": "15 oktober 2002",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "nr": 11,
+      "namn": "Leif Pagrotsky",
+      "levnadsar": "född 1951",
+      "tilltradde": "21 oktober 2002",
+      "avgick": "21 oktober 2004",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "nr": 12,
+      "namn": "Mona Sahlin",
+      "levnadsar": "född 1957",
+      "tilltradde": "21 oktober 2004",
+      "avgick": "6 oktober 2006",
+      "parti": "Socialdemokraterna",
+      "regering": "Persson"
+    },
+    {
+      "nr": 13,
+      "namn": "Maud Olofsson",
+      "levnadsar": "född 1955",
+      "tilltradde": "6 oktober 2006",
+      "avgick": "29 september 2011",
+      "parti": "Centerpartiet",
+      "regering": "Reinfeldt"
+    },
+    {
+      "nr": 14,
+      "namn": "Anna-Karin Hatt",
+      "levnadsar": "född 1972",
+      "tilltradde": "29 september 2011",
+      "avgick": "3 oktober 2014",
+      "parti": "Centerpartiet",
+      "regering": "Reinfeldt"
+    },
+    {
+      "nr": 15,
+      "namn": "Ibrahim Baylan",
+      "levnadsar": "född 1972",
+      "tilltradde": "3 oktober 2014",
+      "avgick": "21 januari 2019",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven I"
+    },
+    {
+      "nr": 16,
+      "namn": "Anders Ygeman",
+      "levnadsar": "född 1970",
+      "tilltradde": "21 januari 2019",
+      "avgick": "30 november 2021",
+      "parti": "Socialdemokraterna",
+      "regering": "Löfven II Löfven III"
+    },
+    {
+      "nr": 17,
+      "namn": "Khashayar Farmanbar",
+      "levnadsar": "född 1976",
+      "tilltradde": "30 november 2021",
+      "avgick": "18 oktober 2022",
+      "parti": "Socialdemokraterna",
+      "regering": "Andersson"
+    },
+    {
+      "nr": 18,
+      "namn": "Ebba Busch",
+      "levnadsar": "född 1987",
+      "tilltradde": "18 oktober 2022",
+      "avgick": "Innehar ämbetet",
+      "parti": "Kristdemokraterna",
+      "regering": "Kristersson"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges energiministrar - Free Download",
+    "description": "Sveriges energiministrar sedan 1976 med levnadsår, tillträde, avgång, parti och regering. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges energiministrar | ListBase",
+    "seo_description": "Download Sveriges energiministrar — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_energiminister"
+    ]
+  }
+}

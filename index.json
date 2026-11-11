@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-10T02:57:21.885Z",
-  "total_datasets": 542,
-  "total_records": 2271243,
+  "generated": "2026-11-11T02:14:06.329Z",
+  "total_datasets": 543,
+  "total_records": 2271261,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "finance",
@@ -1632,6 +1632,34 @@
         "xlsx": {
           "name": "sv-biokraftverk_SV.xlsx",
           "size": 10980
+        }
+      }
+    },
+    {
+      "id": "sv-energiministrar",
+      "name": "Sveriges energiministrar",
+      "category": "environment",
+      "record_count": 18,
+      "columns": [
+        "nr",
+        "namn",
+        "levnadsar",
+        "tilltradde",
+        "avgick",
+        "parti",
+        "regering"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_energiminister",
+      "updated": "2026-11",
+      "size": 5890,
+      "files": {
+        "csv": {
+          "name": "sv-energiministrar_SV.csv",
+          "size": 1898
+        },
+        "xlsx": {
+          "name": "sv-energiministrar_SV.xlsx",
+          "size": 7928
         }
       }
     },
