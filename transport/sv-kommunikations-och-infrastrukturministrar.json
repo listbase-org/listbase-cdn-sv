@@ -1,0 +1,489 @@
+{
+  "id": "sv-kommunikations-och-infrastrukturministrar",
+  "name": "Sveriges kommunikations- och infrastrukturministrar",
+  "title": "Sveriges kommunikations- och infrastrukturministrar",
+  "description": "Sveriges kommunikationsministrar (chefer för Kommunikationsdepartementet 1920–2002) och infrastrukturministrar sedan 2002 med parti, departement och regering.",
+  "category": "transport",
+  "source": "https://sv.wikipedia.org/wiki/Sveriges_infrastrukturminister",
+  "source_url": "https://sv.wikipedia.org/wiki/Sveriges_infrastrukturminister",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "levnadsar",
+      "label": "Levnadsar",
+      "type": "string"
+    },
+    {
+      "key": "fran",
+      "label": "Fran",
+      "type": "string"
+    },
+    {
+      "key": "till",
+      "label": "Till",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "departement",
+      "label": "Departement",
+      "type": "string"
+    },
+    {
+      "key": "regering",
+      "label": "Regering",
+      "type": "string"
+    },
+    {
+      "key": "ambete",
+      "label": "Ambete",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nr": 1,
+      "namn": "Carl Svensson",
+      "levnadsar": "1879–1938",
+      "fran": "1 juli 1920",
+      "till": "27 oktober 1920",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Branting I",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 2,
+      "namn": "Walter Murray",
+      "levnadsar": "1871–1957",
+      "fran": "27 oktober 1920",
+      "till": "13 oktober 1921",
+      "parti": "Partilös",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "De Geer d.y. von Sydow",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 3,
+      "namn": "Anders Örne",
+      "levnadsar": "1881–1956",
+      "fran": "13 oktober 1921",
+      "till": "19 april 1923",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Branting II",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 4,
+      "namn": "Sven Lübeck",
+      "levnadsar": "1877–1941",
+      "fran": "19 april 1923",
+      "till": "18 oktober 1924",
+      "parti": "Allmänna valmansförbundet",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Trygger",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 5,
+      "namn": "Viktor Larsson",
+      "levnadsar": "1869–1950",
+      "fran": "18 oktober 1924",
+      "till": "7 juni 1926",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Branting III Sandler",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 6,
+      "namn": "Carl Meurling",
+      "levnadsar": "1876–1963",
+      "fran": "7 juni 1926",
+      "till": "2 oktober 1928",
+      "parti": "Partilös",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Ekman I",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 7,
+      "namn": "Theodor Borell",
+      "levnadsar": "1869–1944",
+      "fran": "2 oktober 1928",
+      "till": "7 juni 1930",
+      "parti": "Allmänna valmansförbundet",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Lindman II",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 8,
+      "namn": "Ola Jeppsson",
+      "levnadsar": "1887–1941",
+      "fran": "7 juni 1930",
+      "till": "24 september 1932",
+      "parti": "Frisinnade folkpartiet",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Ekman II Hamrin",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 9,
+      "namn": "Henning Leo",
+      "levnadsar": "1885–1953",
+      "fran": "24 september 1932",
+      "till": "19 juni 1936",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Hansson I",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 10,
+      "namn": "Arthur Heiding",
+      "levnadsar": "1883–1973",
+      "fran": "19 juni 1936",
+      "till": "28 september 1936",
+      "parti": "Bondeförbundet",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Pehrsson-Bramstorp",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 11,
+      "namn": "Albert Forslund",
+      "levnadsar": "1881–1954",
+      "fran": "28 september 1936",
+      "till": "16 december 1938",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Hansson II",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 12,
+      "namn": "Gerhard Strindlund",
+      "levnadsar": "1890–1957",
+      "fran": "16 december 1938",
+      "till": "13 december 1939",
+      "parti": "Bondeförbundet",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Hansson II",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 13,
+      "namn": "Gustaf Andersson",
+      "levnadsar": "1884–1961",
+      "fran": "13 december 1939",
+      "till": "30 september 1944",
+      "parti": "Folkpartiet",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Hansson III",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 14,
+      "namn": "Fritiof Domö",
+      "levnadsar": "1889–1961",
+      "fran": "30 september 1944",
+      "till": "31 juli 1945",
+      "parti": "Högerpartiet",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Hansson III",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 15,
+      "namn": "Torsten Nilsson",
+      "levnadsar": "1905–1997",
+      "fran": "31 juli 1945",
+      "till": "1 oktober 1951",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Hansson IV Erlander I",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 16,
+      "namn": "Sven Andersson",
+      "levnadsar": "1910–1987",
+      "fran": "1 oktober 1951",
+      "till": "22 mars 1957",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Erlander II",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 17,
+      "namn": "Sture Henriksson",
+      "levnadsar": "1917–1957",
+      "fran": "22 mars 1957",
+      "till": "22 april 1957 †",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Erlander II",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 18,
+      "namn": "Gösta Skoglund",
+      "levnadsar": "1903–1988",
+      "fran": "26 april 1957",
+      "till": "25 november 1965",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Erlander II Erlander III",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 19,
+      "namn": "Olof Palme",
+      "levnadsar": "1927–1986",
+      "fran": "25 november 1965",
+      "till": "28 september 1967",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Erlander III",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 20,
+      "namn": "Svante Lundkvist",
+      "levnadsar": "1919–1991",
+      "fran": "29 september 1967",
+      "till": "30 juni 1969",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Erlander III",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 21,
+      "namn": "Bengt Norling",
+      "levnadsar": "1925–2002",
+      "fran": "1 juli 1969",
+      "till": "8 oktober 1976",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Erlander III Palme I",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 22,
+      "namn": "Bo Turesson",
+      "levnadsar": "1914–1997",
+      "fran": "8 oktober 1976",
+      "till": "18 oktober 1978",
+      "parti": "Moderaterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Fälldin I",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 23,
+      "namn": "Anitha Bondestam",
+      "levnadsar": "född 1941",
+      "fran": "18 oktober 1978",
+      "till": "12 oktober 1979",
+      "parti": "Folkpartiet",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Ullsten",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 24,
+      "namn": "Ulf Adelsohn",
+      "levnadsar": "född 1941",
+      "fran": "12 oktober 1979",
+      "till": "5 maj 1981",
+      "parti": "Moderaterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Fälldin II",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 25,
+      "namn": "Claes Elmstedt",
+      "levnadsar": "1928–2018",
+      "fran": "22 maj 1981",
+      "till": "8 oktober 1982",
+      "parti": "Centerpartiet",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Fälldin III",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 26,
+      "namn": "Curt Boström",
+      "levnadsar": "1926–2014",
+      "fran": "8 oktober 1982",
+      "till": "30 juni 1985",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Palme II",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 27,
+      "namn": "Roine Carlsson",
+      "levnadsar": "1937–2020",
+      "fran": "1 juli 1985",
+      "till": "17 oktober 1985",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Palme II",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 28,
+      "namn": "Sven Hulterström",
+      "levnadsar": "född 1938",
+      "fran": "18 oktober 1985",
+      "till": "29 januari 1989",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Palme II Carlsson I",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 29,
+      "namn": "Georg Andersson",
+      "levnadsar": "född 1936",
+      "fran": "30 januari 1989",
+      "till": "4 oktober 1991",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Carlsson I Carlsson II",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 30,
+      "namn": "Mats Odell",
+      "levnadsar": "född 1947",
+      "fran": "4 oktober 1991",
+      "till": "7 oktober 1994",
+      "parti": "Kristdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Carl Bildt",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 31,
+      "namn": "Ines Uusmann",
+      "levnadsar": "född 1948",
+      "fran": "7 oktober 1994",
+      "till": "7 oktober 1998",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Carlsson III Persson",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 32,
+      "namn": "Björn Rosengren",
+      "levnadsar": "född 1942",
+      "fran": "7 oktober 1998",
+      "till": "16 oktober 2002",
+      "parti": "Socialdemokraterna",
+      "departement": "Kommunikationsdepartementet",
+      "regering": "Persson",
+      "ambete": "kommunikationsminister"
+    },
+    {
+      "nr": 1,
+      "namn": "Ulrica Messing",
+      "levnadsar": "född 1968",
+      "fran": "16 oktober 2002",
+      "till": "6 oktober 2006",
+      "parti": "Socialdemokraterna",
+      "departement": "Näringsdepartementet",
+      "regering": "Persson",
+      "ambete": "infrastrukturminister"
+    },
+    {
+      "nr": 2,
+      "namn": "Åsa Torstensson",
+      "levnadsar": "född 1958",
+      "fran": "6 oktober 2006",
+      "till": "5 oktober 2010",
+      "parti": "Centerpartiet",
+      "departement": "Näringsdepartementet",
+      "regering": "Reinfeldt",
+      "ambete": "infrastrukturminister"
+    },
+    {
+      "nr": 3,
+      "namn": "Catharina Elmsäter-Svärd",
+      "levnadsar": "född 1965",
+      "fran": "5 oktober 2010",
+      "till": "2 oktober 2014",
+      "parti": "Moderaterna",
+      "departement": "Näringsdepartementet",
+      "regering": "Reinfeldt",
+      "ambete": "infrastrukturminister"
+    },
+    {
+      "nr": 4,
+      "namn": "Anna Johansson",
+      "levnadsar": "född 1971",
+      "fran": "3 oktober 2014",
+      "till": "27 juli 2017",
+      "parti": "Socialdemokraterna",
+      "departement": "Näringsdepartementet",
+      "regering": "Löfven I",
+      "ambete": "infrastrukturminister"
+    },
+    {
+      "nr": 5,
+      "namn": "Tomas Eneroth",
+      "levnadsar": "född 1966",
+      "fran": "27 juli 2017",
+      "till": "18 oktober 2022",
+      "parti": "Socialdemokraterna",
+      "departement": "Näringsdepartementet (2017–2019) Infrastrukturdepartementet (2019–2022)",
+      "regering": "Löfven I Löfven II Löfven III Andersson",
+      "ambete": "infrastrukturminister"
+    },
+    {
+      "nr": 6,
+      "namn": "Andreas Carlson",
+      "levnadsar": "född 1987",
+      "fran": "18 oktober 2022",
+      "till": "nuvarande",
+      "parti": "Kristdemokraterna",
+      "departement": "Landsbygds- och infrastrukturdepartementet",
+      "regering": "Kristersson",
+      "ambete": "infrastrukturminister"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges kommunikations- och infrastrukturministrar - Free Download",
+    "description": "Sveriges kommunikationsministrar (chefer för Kommunikationsdepartementet 1920–2002) och infrastrukturministrar sedan 2002 med parti, departement och regering. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges kommunikations- och infrastrukturministrar | ListBase",
+    "seo_description": "Download Sveriges kommunikations- och infrastrukturministrar — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Sveriges_infrastrukturminister"
+    ]
+  }
+}

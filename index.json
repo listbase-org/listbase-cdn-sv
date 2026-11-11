@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-11T02:14:06.329Z",
-  "total_datasets": 543,
-  "total_records": 2271261,
+  "generated": "2026-11-11T02:14:15.277Z",
+  "total_datasets": 544,
+  "total_records": 2271299,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 43
+      "dataset_count": 44
     },
     {
       "id": "units",
@@ -13972,6 +13972,36 @@
         "xlsx": {
           "name": "sv-kalmar-unlocode_SV.xlsx",
           "size": 15040
+        }
+      }
+    },
+    {
+      "id": "sv-kommunikations-och-infrastrukturministrar",
+      "name": "Sveriges kommunikations- och infrastrukturministrar",
+      "category": "transport",
+      "record_count": 38,
+      "columns": [
+        "nr",
+        "namn",
+        "levnadsar",
+        "fran",
+        "till",
+        "parti",
+        "departement",
+        "regering",
+        "ambete"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Sveriges_infrastrukturminister",
+      "updated": "2026-11",
+      "size": 14460,
+      "files": {
+        "csv": {
+          "name": "sv-kommunikations-och-infrastrukturministrar_SV.csv",
+          "size": 6205
+        },
+        "xlsx": {
+          "name": "sv-kommunikations-och-infrastrukturministrar_SV.xlsx",
+          "size": 9592
         }
       }
     },
