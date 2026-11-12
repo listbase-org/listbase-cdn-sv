@@ -1,0 +1,178 @@
+{
+  "id": "sv-malmgruvor-i-drift",
+  "name": "Svenska malmgruvor i drift",
+  "title": "Svenska malmgruvor i drift",
+  "description": "Malmgruvor i drift i Sverige med företag, mineraliseringstyp, etableringsår, utvunna metaller, malmregion och plats.",
+  "category": "economy",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_malmgruvor_i_drift",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_svenska_malmgruvor_i_drift",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "mineralization",
+      "label": "Mineralization",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "string"
+    },
+    {
+      "key": "metals",
+      "label": "Metals",
+      "type": "string"
+    },
+    {
+      "key": "ore_region",
+      "label": "Ore Region",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Kirunagruvan",
+      "company": "LKAB",
+      "mineralization": "Järnoxid",
+      "established": "1860-talet",
+      "metals": "Järn",
+      "ore_region": "Norrbotten",
+      "location": "Kirunavaara, Kiruna"
+    },
+    {
+      "name": "Leveäniemi",
+      "company": "LKAB",
+      "mineralization": "Järnoxid",
+      "established": "1964-1983 återstart 2012",
+      "metals": "Järn",
+      "ore_region": "Norrbotten",
+      "location": "Svappavaara"
+    },
+    {
+      "name": "Malmberget",
+      "company": "LKAB",
+      "mineralization": "Järnoxid",
+      "established": "1820-talet",
+      "metals": "järn",
+      "ore_region": "Norrbotten",
+      "location": "Malmberget"
+    },
+    {
+      "name": "Kaunisvaaragruvan",
+      "company": "Kaunis Iron",
+      "mineralization": "Järnoxid",
+      "established": "2012-2014 återstart 2018",
+      "metals": "järn",
+      "ore_region": "Norrbotten",
+      "location": "Kaunisvaara, Pajala"
+    },
+    {
+      "name": "Aitikgruvan",
+      "company": "Boliden AB",
+      "mineralization": "Sulfid, ädelmetall",
+      "established": "1968",
+      "metals": "guld, koppar, silver",
+      "ore_region": "Norrbotten",
+      "location": "Gällivare"
+    },
+    {
+      "name": "Kristinebergsgruvan",
+      "company": "Boliden AB",
+      "mineralization": "Sulfid",
+      "established": "1940",
+      "metals": "bly, guld, koppar, silver, zink",
+      "ore_region": "Skelleftefältet",
+      "location": "Kristineberg"
+    },
+    {
+      "name": "Renströmsgruvan",
+      "company": "Boliden AB",
+      "mineralization": "Sulfid",
+      "established": "1948",
+      "metals": "bly, guld, koppar, silver, zink",
+      "ore_region": "Skelleftefältet",
+      "location": "Renström"
+    },
+    {
+      "name": "Kankbergsgruvan",
+      "company": "Boliden AB",
+      "mineralization": "Ädelmetall",
+      "established": "2012",
+      "metals": "bly, guld, koppar, silver, zink",
+      "ore_region": "Skelleftefältet",
+      "location": "Jörns distrikt, Skellefteå kommun"
+    },
+    {
+      "name": "Björkdalsgruvan",
+      "company": "Mandalay Resources",
+      "mineralization": "Ädelmetall",
+      "established": "1989",
+      "metals": "guld, koppar, silver",
+      "ore_region": "Skelleftefältet",
+      "location": "Sandfors"
+    },
+    {
+      "name": "Fäbodtjärnsgruvan",
+      "company": "Botnia Exploration",
+      "mineralization": "Ädelmetall",
+      "established": "2024",
+      "metals": "guld, silver",
+      "ore_region": "Skelleftefältet",
+      "location": "Lycksele kommun"
+    },
+    {
+      "name": "Garpenbergs gruva",
+      "company": "Boliden AB",
+      "mineralization": "Sulfid",
+      "established": "1200-talet",
+      "metals": "bly, guld, koppar, silver, zink",
+      "ore_region": "Bergslagen",
+      "location": "Garpenberg"
+    },
+    {
+      "name": "Lovisagruvan",
+      "company": "Lovisagruvan AB",
+      "mineralization": "Sulfid",
+      "established": "1993 återstart 2004",
+      "metals": "bly, silver, zink",
+      "ore_region": "Bergslagen",
+      "location": "Stråssa"
+    },
+    {
+      "name": "Zinkgruvan",
+      "company": "Boliden AB",
+      "mineralization": "Sulfid",
+      "established": "1700-talet",
+      "metals": "bly, koppar, silver, zink",
+      "ore_region": "Bergslagen",
+      "location": "Zinkgruvan"
+    }
+  ],
+  "meta": {
+    "title": "Svenska malmgruvor i drift - Free Download",
+    "description": "Malmgruvor i drift i Sverige med företag, mineraliseringstyp, etableringsår, utvunna metaller, malmregion och plats. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska malmgruvor i drift | ListBase",
+    "seo_description": "Download Svenska malmgruvor i drift — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_svenska_malmgruvor_i_drift"
+    ]
+  }
+}

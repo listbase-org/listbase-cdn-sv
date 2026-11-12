@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-12T02:13:32.600Z",
-  "total_datasets": 546,
-  "total_records": 2271358,
+  "generated": "2026-11-12T02:13:40.880Z",
+  "total_datasets": 547,
+  "total_records": 2271371,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "education",
@@ -683,6 +683,34 @@
         "xlsx": {
           "name": "sv-hovleverantorer_SV.xlsx",
           "size": 10008
+        }
+      }
+    },
+    {
+      "id": "sv-malmgruvor-i-drift",
+      "name": "Svenska malmgruvor i drift",
+      "category": "economy",
+      "record_count": 13,
+      "columns": [
+        "name",
+        "company",
+        "mineralization",
+        "established",
+        "metals",
+        "ore_region",
+        "location"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_malmgruvor_i_drift",
+      "updated": "2026-11",
+      "size": 5194,
+      "files": {
+        "csv": {
+          "name": "sv-malmgruvor-i-drift_SV.csv",
+          "size": 1501
+        },
+        "xlsx": {
+          "name": "sv-malmgruvor-i-drift_SV.xlsx",
+          "size": 7646
         }
       }
     },
