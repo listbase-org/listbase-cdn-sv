@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-12T02:14:20.757Z",
-  "total_datasets": 548,
-  "total_records": 2271426,
+  "generated": "2026-11-12T02:14:29.706Z",
+  "total_datasets": 549,
+  "total_records": 2271469,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -12425,6 +12425,33 @@
         "xlsx": {
           "name": "sv-sociala-inrattningar_SV.xlsx",
           "size": 45798
+        }
+      }
+    },
+    {
+      "id": "sv-superhundraaringar",
+      "name": "Svenska superhundraåringar",
+      "category": "society",
+      "record_count": 43,
+      "columns": [
+        "rank",
+        "name",
+        "sex",
+        "born",
+        "died",
+        "age"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_superhundraåringar",
+      "updated": "2026-11",
+      "size": 9418,
+      "files": {
+        "csv": {
+          "name": "sv-superhundraaringar_SV.csv",
+          "size": 3599
+        },
+        "xlsx": {
+          "name": "sv-superhundraaringar_SV.xlsx",
+          "size": 9163
         }
       }
     },
