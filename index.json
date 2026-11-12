@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-11T02:14:22.821Z",
-  "total_datasets": 545,
-  "total_records": 2271317,
+  "generated": "2026-11-12T02:13:32.600Z",
+  "total_datasets": 546,
+  "total_records": 2271358,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -4838,6 +4838,32 @@
         "xlsx": {
           "name": "sv-arkebiskopar-uppsala_SV.xlsx",
           "size": 13324
+        }
+      }
+    },
+    {
+      "id": "sv-freder",
+      "name": "Svenska fredsfördrag",
+      "category": "history",
+      "record_count": 41,
+      "columns": [
+        "year",
+        "peace",
+        "between",
+        "after",
+        "comment"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_freder",
+      "updated": "2026-11",
+      "size": 8797,
+      "files": {
+        "csv": {
+          "name": "sv-freder_SV.csv",
+          "size": 3419
+        },
+        "xlsx": {
+          "name": "sv-freder_SV.xlsx",
+          "size": 8681
         }
       }
     },

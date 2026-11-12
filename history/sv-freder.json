@@ -1,0 +1,338 @@
+{
+  "id": "sv-freder",
+  "name": "Svenska fredsfördrag",
+  "title": "Svenska fredsfördrag",
+  "description": "Fredsfördrag som Sverige ingått från 1323 och framåt, med motpart, föregående krig och kommentar.",
+  "category": "history",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_freder",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_svenska_freder",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "peace",
+      "label": "Peace",
+      "type": "string"
+    },
+    {
+      "key": "between",
+      "label": "Between",
+      "type": "string"
+    },
+    {
+      "key": "after",
+      "label": "After",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1323",
+      "peace": "Nöteborgstraktaten",
+      "between": "Sverige och Novgorod",
+      "after": "",
+      "comment": "Sv östgräns till 1595"
+    },
+    {
+      "year": "1497",
+      "peace": "Freden i Novgorod",
+      "between": "Sverige och Ryssland",
+      "after": "Stora ryska kriget",
+      "comment": "Det krig under vilket Viborgska smällen utspelade sig"
+    },
+    {
+      "year": "1524",
+      "peace": "Malmö recess",
+      "between": "Sverige och Danmark",
+      "after": "Befrielsekriget",
+      "comment": ""
+    },
+    {
+      "year": "1557",
+      "peace": "Freden i Novgorod",
+      "between": "Sverige och Ryssland",
+      "after": "Stora ryska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1570",
+      "peace": "Freden i Stettin",
+      "between": "Sverige och Danmark",
+      "after": "Nordiska sjuårskriget",
+      "comment": "Älvsborgs första lösen"
+    },
+    {
+      "year": "1595",
+      "peace": "Freden i Teusina",
+      "between": "Sverige och Ryssland",
+      "after": "Nordiska tjugofemårskriget",
+      "comment": ""
+    },
+    {
+      "year": "1613",
+      "peace": "Freden i Knäred",
+      "between": "Sverige och Danmark",
+      "after": "Kalmarkriget",
+      "comment": "Älvsborgs andra lösen"
+    },
+    {
+      "year": "1617",
+      "peace": "Freden i Stolbova",
+      "between": "Sverige och Ryssland",
+      "after": "Ingermanländska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1629",
+      "peace": "Stilleståndet i Altmark",
+      "between": "Sverige och Polen",
+      "after": "Andra polska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1645",
+      "peace": "Freden i Brömsebro",
+      "between": "Sverige och Danmark-Norge",
+      "after": "Torstensons krig",
+      "comment": ""
+    },
+    {
+      "year": "1648",
+      "peace": "Westfaliska freden",
+      "between": "flera stater",
+      "after": "Trettioåriga kriget",
+      "comment": ""
+    },
+    {
+      "year": "1658",
+      "peace": "Freden i Roskilde",
+      "between": "Sverige och Danmark-Norge",
+      "after": "Karl X Gustavs första danska krig",
+      "comment": "bröts samma år"
+    },
+    {
+      "year": "1660",
+      "peace": "Freden i Oliwa",
+      "between": "Sverige och Polen-Tyskland-Brandenburg",
+      "after": "Karl X Gustavs polska krig",
+      "comment": ""
+    },
+    {
+      "year": "1660",
+      "peace": "Freden i Köpenhamn",
+      "between": "Sverige och Danmark-Norge",
+      "after": "Karl X Gustavs andra danska krig",
+      "comment": ""
+    },
+    {
+      "year": "1661",
+      "peace": "Freden i Kardis",
+      "between": "Sverige och Ryssland",
+      "after": "Karl X Gustavs ryska krig",
+      "comment": ""
+    },
+    {
+      "year": "1679",
+      "peace": "Första freden i Nijmegen",
+      "between": "Sverige och Tysk-romerska riket",
+      "after": "",
+      "comment": ""
+    },
+    {
+      "year": "1679",
+      "peace": "Freden i Celle",
+      "between": "Sverige och furstarna av huset Lüneburg",
+      "after": "",
+      "comment": ""
+    },
+    {
+      "year": "1679",
+      "peace": "Andra freden i Nijmegen",
+      "between": "Sverige och Münster",
+      "after": "",
+      "comment": ""
+    },
+    {
+      "year": "1679",
+      "peace": "Freden i S:t Germain",
+      "between": "Sverige och Brandenburg",
+      "after": "",
+      "comment": ""
+    },
+    {
+      "year": "1679",
+      "peace": "Freden i Fontainebleau",
+      "between": "Sverige och Danmark",
+      "after": "Skånska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1679",
+      "peace": "Freden i Lund",
+      "between": "Sverige och Danmark",
+      "after": "Skånska kriget",
+      "comment": "bekräftade Freden i Fontainebleau"
+    },
+    {
+      "year": "1679",
+      "peace": "Tredje freden i Nijmegen",
+      "between": "Sverige och Nederländerna",
+      "after": "",
+      "comment": ""
+    },
+    {
+      "year": "1700",
+      "peace": "Freden i Traventhal",
+      "between": "Sverige och Danmark",
+      "after": "Stora nordiska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1705",
+      "peace": "Freden i Warszawa",
+      "between": "Sverige och Polen",
+      "after": "Stora nordiska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1706",
+      "peace": "Freden i Altranstädt",
+      "between": "Sverige-Polen och Sachsen",
+      "after": "Stora nordiska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1719",
+      "peace": "Första freden i Stockholm",
+      "between": "Sverige och Hannover",
+      "after": "Stora nordiska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1720",
+      "peace": "Andra freden i Stockholm",
+      "between": "Sverige och Preussen",
+      "after": "Stora nordiska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1720",
+      "peace": "Tredje freden i Stockholm / Freden i Frederiksborg",
+      "between": "Sverige och Danmark",
+      "after": "Stora nordiska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1721",
+      "peace": "Freden i Nystad",
+      "between": "Sverige och Ryssland",
+      "after": "Stora nordiska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1728",
+      "peace": "Deklarationen med Sachsen",
+      "between": "Sverige och Sachsen",
+      "after": "Stora nordiska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1732",
+      "peace": "Deklarationen med Polen",
+      "between": "Sverige och Polen",
+      "after": "Stora nordiska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1743",
+      "peace": "Freden i Åbo",
+      "between": "Sverige och Ryssland",
+      "after": "Hattarnas ryska krig",
+      "comment": ""
+    },
+    {
+      "year": "1762",
+      "peace": "Freden i Hamburg",
+      "between": "Sverige och Preussen",
+      "after": "Pommerska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1790",
+      "peace": "Freden i Värälä",
+      "between": "Sverige och Ryssland",
+      "after": "Gustav III:s ryska krig",
+      "comment": ""
+    },
+    {
+      "year": "1809",
+      "peace": "Freden i Fredrikshamn",
+      "between": "Sverige och Ryssland",
+      "after": "Finska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1809",
+      "peace": "Freden i Jönköping",
+      "between": "Sverige och Danmark",
+      "after": "Dansk-svenska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1810",
+      "peace": "Freden i Paris 1810",
+      "between": "Sverige och Frankrike",
+      "after": "Svensk-franska kriget",
+      "comment": ""
+    },
+    {
+      "year": "1812",
+      "peace": "Freden i Örebro",
+      "between": "Sverige och England",
+      "after": "Kriget mot Storbritannien",
+      "comment": ""
+    },
+    {
+      "year": "1814",
+      "peace": "Freden i Kiel",
+      "between": "Sverige och Danmark",
+      "after": "Andra Napoleonkriget",
+      "comment": ""
+    },
+    {
+      "year": "1814",
+      "peace": "Freden i Paris 1814",
+      "between": "Sverige-England-Ryssland-Österrike m.fl. och Frankrike",
+      "after": "Andra Napoleonkriget",
+      "comment": ""
+    },
+    {
+      "year": "1814",
+      "peace": "Konventionen i Moss",
+      "between": "Sverige och Norge",
+      "after": "Fälttåget mot Norge",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Svenska fredsfördrag - Free Download",
+    "description": "Fredsfördrag som Sverige ingått från 1323 och framåt, med motpart, föregående krig och kommentar. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska fredsfördrag | ListBase",
+    "seo_description": "Download Svenska fredsfördrag — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_svenska_freder"
+    ]
+  }
+}
