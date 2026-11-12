@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-12T02:14:29.706Z",
-  "total_datasets": 549,
-  "total_records": 2271469,
+  "generated": "2026-11-12T02:14:39.599Z",
+  "total_datasets": 550,
+  "total_records": 2271505,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "law",
@@ -5292,6 +5292,30 @@
         "xlsx": {
           "name": "sv-svenska-homofoner_SV.xlsx",
           "size": 9602
+        }
+      }
+    },
+    {
+      "id": "sv-teleskopord",
+      "name": "Svenska teleskopord",
+      "category": "language",
+      "record_count": 36,
+      "columns": [
+        "word",
+        "formed_from",
+        "note"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_teleskopord",
+      "updated": "2026-11",
+      "size": 4996,
+      "files": {
+        "csv": {
+          "name": "sv-teleskopord_SV.csv",
+          "size": 1385
+        },
+        "xlsx": {
+          "name": "sv-teleskopord_SV.xlsx",
+          "size": 7832
         }
       }
     },
