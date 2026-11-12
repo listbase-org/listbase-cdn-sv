@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-12T02:13:40.880Z",
-  "total_datasets": 547,
-  "total_records": 2271371,
+  "generated": "2026-11-12T02:14:20.757Z",
+  "total_datasets": 548,
+  "total_records": 2271426,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "food",
@@ -2203,6 +2203,30 @@
         "xlsx": {
           "name": "sv-omxs30-sammansattning_SV.xlsx",
           "size": 7607
+        }
+      }
+    },
+    {
+      "id": "sv-skatter",
+      "name": "Svenska skatter",
+      "category": "finance",
+      "record_count": 55,
+      "columns": [
+        "name",
+        "note",
+        "group"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_skatter",
+      "updated": "2026-11",
+      "size": 7323,
+      "files": {
+        "csv": {
+          "name": "sv-skatter_SV.csv",
+          "size": 2881
+        },
+        "xlsx": {
+          "name": "sv-skatter_SV.xlsx",
+          "size": 8402
         }
       }
     },

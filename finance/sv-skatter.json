@@ -1,0 +1,316 @@
+{
+  "id": "sv-skatter",
+  "name": "Svenska skatter",
+  "title": "Svenska skatter",
+  "description": "Lista över skatter, punktskatter, historiska skatter och avgifter i Sverige.",
+  "category": "finance",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_skatter",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_svenska_skatter",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Kommunal inkomstskatt, kommunalskatt",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Statlig inkomstskatt",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Arbetsgivaravgifter",
+      "note": "Delvis avgift, delvis skatt. Se Allmän löneavgift. För höga inkomster, i praktiken en ren skatt.",
+      "group": "Skatter"
+    },
+    {
+      "name": "Avkastningsskatt på individuellt pensionssparande",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Avkastningsskatt på investeringssparkonton",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Bensinskatt",
+      "note": "Se energiskatt och koldioxidskatt",
+      "group": "Skatter"
+    },
+    {
+      "name": "Beskattning av valutakursreserv",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Beskattning av viss privatinförsel av tobaksvaror och alkoholdrycker",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Bolagsskatt",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Dieselskatt",
+      "note": "Se energiskatt och koldioxidskatt, under punktskatter nedan",
+      "group": "Skatter"
+    },
+    {
+      "name": "Fastighetsskatt, statlig, gäller vissa fastigheter",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Fastighetsavgift, kommunal, gäller de flesta bostäder",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Lagfartsavgift proportionell omsättningsskatt kallad avgift",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Fordonsskatt",
+      "note": "del av vägtrafikskatt, se nedan",
+      "group": "Skatter"
+    },
+    {
+      "name": "Förmånsskatt",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Kassettskatt",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Kupongskatt",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Mervärdesskatt",
+      "note": "moms",
+      "group": "Skatter"
+    },
+    {
+      "name": "Realisationsvinstskatt",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "SINK skatt, särskild inkomstskatt för utomlands bosatta",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Sjömansskatt",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Spelskatt",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Skatt på ränta på skogskontomedel m.m.",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Stämpelskatt vid inskrivningsmyndigheter",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Särskild löneskatt på pensionskostnader",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Särskild löneskatt på vissa förvärvsinkomster",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "TV-avgift",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Vägtrafikskatt (SFS 2006:227) Fordonsskatt (del av vägtrafikskatt) Saluvagnsskatt (del av vägtrafikskatt) Trängselskatt",
+      "note": "",
+      "group": "Skatter"
+    },
+    {
+      "name": "Alkoholskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Avfallsskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Bekämpningsmedelsskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Energiskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Flygskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Gödselmedelsskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Koldioxidskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Kärnkraftsskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Lotteriskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Naturgrusskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Reklamskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Skatt på vinstsparande m.m.",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Spelskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Svavelskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Särskild premieskatt för grupplivförsäkring",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Tobaksskatt",
+      "note": "",
+      "group": "Punktskatter"
+    },
+    {
+      "name": "Lyxskatt",
+      "note": "",
+      "group": "Historiska skatter"
+    },
+    {
+      "name": "Punschskatt just punsch var tidigare föremål för punktskatt redovisad med stämpelmärken",
+      "note": "",
+      "group": "Historiska skatter"
+    },
+    {
+      "name": "Statlig Förmögenhetsskatt",
+      "note": "avskaffad 2007",
+      "group": "Historiska skatter"
+    },
+    {
+      "name": "Statlig Fastighetsskatt",
+      "note": "avskaffad 2008, ersatt med kommunal Fastighetsavgift",
+      "group": "Historiska skatter"
+    },
+    {
+      "name": "Arvsskatt",
+      "note": "avskaffad 2005",
+      "group": "Historiska skatter"
+    },
+    {
+      "name": "Gåvoskatt",
+      "note": "avskaffad 2004",
+      "group": "Historiska skatter"
+    },
+    {
+      "name": "Värnskatt",
+      "note": "avskaffad 2020",
+      "group": "Historiska skatter"
+    },
+    {
+      "name": "Allmän pensionsavgift",
+      "note": "",
+      "group": "Avgifter"
+    },
+    {
+      "name": "Egenavgifter",
+      "note": "",
+      "group": "Avgifter"
+    },
+    {
+      "name": "Kyrkoavgift/Avgift till registrerat trossamfund",
+      "note": "",
+      "group": "Avgifter"
+    },
+    {
+      "name": "Registerhållningsavgift",
+      "note": "",
+      "group": "Avgifter"
+    }
+  ],
+  "meta": {
+    "title": "Svenska skatter - Free Download",
+    "description": "Lista över skatter, punktskatter, historiska skatter och avgifter i Sverige. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska skatter | ListBase",
+    "seo_description": "Download Svenska skatter — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_svenska_skatter"
+    ]
+  }
+}
