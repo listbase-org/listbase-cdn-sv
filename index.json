@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-12T02:14:39.599Z",
-  "total_datasets": 550,
-  "total_records": 2271505,
+  "generated": "2026-11-13T02:29:38.307Z",
+  "total_datasets": 551,
+  "total_records": 2272473,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -4713,6 +4713,33 @@
         "xlsx": {
           "name": "sv-apotek_SV.xlsx",
           "size": 31506
+        }
+      }
+    },
+    {
+      "id": "sv-aterstaende-medellivslangd-30-ar-lan-utbildning",
+      "name": "Återstående medellivslängd vid 30 år efter län och utbildningsnivå",
+      "category": "health",
+      "record_count": 968,
+      "columns": [
+        "region",
+        "utbildningsniva",
+        "period",
+        "aterstaende_ar_samtliga",
+        "aterstaende_ar_man",
+        "aterstaende_ar_kvinnor"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0701/LivslUtbLan/",
+      "updated": "2026-11",
+      "size": 237835,
+      "files": {
+        "csv": {
+          "name": "sv-aterstaende-medellivslangd-30-ar-lan-utbildning_SV.csv",
+          "size": 78665
+        },
+        "xlsx": {
+          "name": "sv-aterstaende-medellivslangd-30-ar-lan-utbildning_SV.xlsx",
+          "size": 35007
         }
       }
     },
