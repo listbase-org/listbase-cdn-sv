@@ -1,0 +1,562 @@
+{
+  "id": "sv-livsmedelsforsaljning-efter-varugrupp",
+  "name": "Livsmedelsförsäljning i Sverige efter varugrupp",
+  "title": "Livsmedelsförsäljning i Sverige efter varugrupp",
+  "description": "Försäljning (inkl. moms, miljoner kronor i löpande priser) av livsmedel och drycker inom handeln i Sverige efter varugrupp enligt COICOP, 2023–2025 (SCB).",
+  "category": "food",
+  "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HA__HA0103__HA0103A/LivsNN/",
+  "source_url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HA__HA0103__HA0103A/LivsNN/",
+  "updated": "2026-11",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "coicop",
+      "label": "Coicop",
+      "type": "number"
+    },
+    {
+      "key": "varugrupp",
+      "label": "Varugrupp",
+      "type": "string"
+    },
+    {
+      "key": "forsaljning_mnkr_2023",
+      "label": "Forsaljning Mnkr 2023",
+      "type": "number"
+    },
+    {
+      "key": "forsaljning_mnkr_2024",
+      "label": "Forsaljning Mnkr 2024",
+      "type": "number"
+    },
+    {
+      "key": "forsaljning_mnkr_2025",
+      "label": "Forsaljning Mnkr 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "coicop": "01.1",
+      "varugrupp": "livsmedel",
+      "forsaljning_mnkr_2023": 298063,
+      "forsaljning_mnkr_2024": 308468,
+      "forsaljning_mnkr_2025": 331318
+    },
+    {
+      "coicop": "01.1.1",
+      "varugrupp": "spannmål och spannmålsprodukter",
+      "forsaljning_mnkr_2023": 43075,
+      "forsaljning_mnkr_2024": 45607,
+      "forsaljning_mnkr_2025": 47541
+    },
+    {
+      "coicop": "01.1.1.1",
+      "varugrupp": "spannmål",
+      "forsaljning_mnkr_2023": 1697,
+      "forsaljning_mnkr_2024": 1888,
+      "forsaljning_mnkr_2025": 1887
+    },
+    {
+      "coicop": "01.1.1.2",
+      "varugrupp": "mjöl av spannmål",
+      "forsaljning_mnkr_2023": 744,
+      "forsaljning_mnkr_2024": 813,
+      "forsaljning_mnkr_2025": 779
+    },
+    {
+      "coicop": "01.1.1.3",
+      "varugrupp": "bröd och bagerivaror",
+      "forsaljning_mnkr_2023": 31396,
+      "forsaljning_mnkr_2024": 32563,
+      "forsaljning_mnkr_2025": 34271
+    },
+    {
+      "coicop": "01.1.1.4",
+      "varugrupp": "frukostflingor",
+      "forsaljning_mnkr_2023": 2361,
+      "forsaljning_mnkr_2024": 2567,
+      "forsaljning_mnkr_2025": 2623
+    },
+    {
+      "coicop": "01.1.1.5",
+      "varugrupp": "makaroner, nudlar, couscous och liknande pastaprodukter",
+      "forsaljning_mnkr_2023": 2856,
+      "forsaljning_mnkr_2024": 3164,
+      "forsaljning_mnkr_2025": 3234
+    },
+    {
+      "coicop": "01.1.1.9",
+      "varugrupp": "andra malda spannmålsprodukter",
+      "forsaljning_mnkr_2023": 4021,
+      "forsaljning_mnkr_2024": 4613,
+      "forsaljning_mnkr_2025": 4747
+    },
+    {
+      "coicop": "01.1.2",
+      "varugrupp": "kött",
+      "forsaljning_mnkr_2023": 49635,
+      "forsaljning_mnkr_2024": 49980,
+      "forsaljning_mnkr_2025": 54048
+    },
+    {
+      "coicop": "01.1.2.2",
+      "varugrupp": "kött, färskt, kylt eller fryst",
+      "forsaljning_mnkr_2023": 21372,
+      "forsaljning_mnkr_2024": 21788,
+      "forsaljning_mnkr_2025": 23760
+    },
+    {
+      "coicop": "01.1.2.3",
+      "varugrupp": "kött, torkat, saltat, i saltlake eller rökt",
+      "forsaljning_mnkr_2023": 11431,
+      "forsaljning_mnkr_2024": 10716,
+      "forsaljning_mnkr_2025": 11377
+    },
+    {
+      "coicop": "01.1.2.4-5",
+      "varugrupp": "beredningar av kött och inälvsmat",
+      "forsaljning_mnkr_2023": 16832,
+      "forsaljning_mnkr_2024": 17476,
+      "forsaljning_mnkr_2025": 18911
+    },
+    {
+      "coicop": "01.1.3",
+      "varugrupp": "fisk och skaldjur",
+      "forsaljning_mnkr_2023": 14534,
+      "forsaljning_mnkr_2024": 13599,
+      "forsaljning_mnkr_2025": 13936
+    },
+    {
+      "coicop": "01.1.3.1-3+7",
+      "varugrupp": "fisk",
+      "forsaljning_mnkr_2023": 11513,
+      "forsaljning_mnkr_2024": 10886,
+      "forsaljning_mnkr_2025": 11205
+    },
+    {
+      "coicop": "01.1.3.4-6",
+      "varugrupp": "skaldjur",
+      "forsaljning_mnkr_2023": 3022,
+      "forsaljning_mnkr_2024": 2713,
+      "forsaljning_mnkr_2025": 2732
+    },
+    {
+      "coicop": "01.1.4",
+      "varugrupp": "mjölk, andra mejeriprodukter och ägg",
+      "forsaljning_mnkr_2023": 49276,
+      "forsaljning_mnkr_2024": 52694,
+      "forsaljning_mnkr_2025": 57788
+    },
+    {
+      "coicop": "01.1.4.2",
+      "varugrupp": "mjölk",
+      "forsaljning_mnkr_2023": 8419,
+      "forsaljning_mnkr_2024": 9181,
+      "forsaljning_mnkr_2025": 9823
+    },
+    {
+      "coicop": "01.1.4.3",
+      "varugrupp": "annan mjölk och grädde",
+      "forsaljning_mnkr_2023": 4059,
+      "forsaljning_mnkr_2024": 4631,
+      "forsaljning_mnkr_2025": 5137
+    },
+    {
+      "coicop": "01.1.4.4",
+      "varugrupp": "växtbaserad dryck",
+      "forsaljning_mnkr_2023": 1183,
+      "forsaljning_mnkr_2024": 1194,
+      "forsaljning_mnkr_2025": 1186
+    },
+    {
+      "coicop": "01.1.4.5",
+      "varugrupp": "ost",
+      "forsaljning_mnkr_2023": 19490,
+      "forsaljning_mnkr_2024": 20938,
+      "forsaljning_mnkr_2025": 23164
+    },
+    {
+      "coicop": "01.1.4.6",
+      "varugrupp": "yoghurt och liknande produkter",
+      "forsaljning_mnkr_2023": 11043,
+      "forsaljning_mnkr_2024": 12276,
+      "forsaljning_mnkr_2025": 13720
+    },
+    {
+      "coicop": "01.1.4.7",
+      "varugrupp": "mjölkbaserade efterrätter och drycker",
+      "forsaljning_mnkr_2023": 237,
+      "forsaljning_mnkr_2024": 277,
+      "forsaljning_mnkr_2025": 296
+    },
+    {
+      "coicop": "01.1.4.8",
+      "varugrupp": "ägg",
+      "forsaljning_mnkr_2023": 4846,
+      "forsaljning_mnkr_2024": 4196,
+      "forsaljning_mnkr_2025": 4461
+    },
+    {
+      "coicop": "01.1.5",
+      "varugrupp": "oljor och fetter",
+      "forsaljning_mnkr_2023": 9275,
+      "forsaljning_mnkr_2024": 10221,
+      "forsaljning_mnkr_2025": 10986
+    },
+    {
+      "coicop": "01.1.5.1",
+      "varugrupp": "vegetabiliska oljor",
+      "forsaljning_mnkr_2023": 2138,
+      "forsaljning_mnkr_2024": 2511,
+      "forsaljning_mnkr_2025": 2368
+    },
+    {
+      "coicop": "01.1.5.2",
+      "varugrupp": "smör och andra oljor och fetter framställda av mjölk",
+      "forsaljning_mnkr_2023": 5518,
+      "forsaljning_mnkr_2024": 6200,
+      "forsaljning_mnkr_2025": 7085
+    },
+    {
+      "coicop": "01.1.5.3",
+      "varugrupp": "margarin och liknande produkter",
+      "forsaljning_mnkr_2023": 1614,
+      "forsaljning_mnkr_2024": 1504,
+      "forsaljning_mnkr_2025": 1527
+    },
+    {
+      "coicop": "01.1.5.9",
+      "varugrupp": "andra animaliska oljor och fetter",
+      "forsaljning_mnkr_2023": 4,
+      "forsaljning_mnkr_2024": 6,
+      "forsaljning_mnkr_2025": 7
+    },
+    {
+      "coicop": "01.1.6",
+      "varugrupp": "frukter och nötter",
+      "forsaljning_mnkr_2023": 24353,
+      "forsaljning_mnkr_2024": 23423,
+      "forsaljning_mnkr_2025": 26644
+    },
+    {
+      "coicop": "01.1.6.1",
+      "varugrupp": "dadlar, fikon och tropiska frukter, färska",
+      "forsaljning_mnkr_2023": 5798,
+      "forsaljning_mnkr_2024": 5504,
+      "forsaljning_mnkr_2025": 6127
+    },
+    {
+      "coicop": "01.1.6.2",
+      "varugrupp": "citrusfrukter, färska",
+      "forsaljning_mnkr_2023": 3554,
+      "forsaljning_mnkr_2024": 3410,
+      "forsaljning_mnkr_2025": 3751
+    },
+    {
+      "coicop": "01.1.6.3",
+      "varugrupp": "stenfrukter och kärnfrukter, färska",
+      "forsaljning_mnkr_2023": 3965,
+      "forsaljning_mnkr_2024": 3695,
+      "forsaljning_mnkr_2025": 4114
+    },
+    {
+      "coicop": "01.1.6.4",
+      "varugrupp": "bär, färska",
+      "forsaljning_mnkr_2023": 2594,
+      "forsaljning_mnkr_2024": 2083,
+      "forsaljning_mnkr_2025": 2542
+    },
+    {
+      "coicop": "01.1.6.5",
+      "varugrupp": "andra frukter, färska",
+      "forsaljning_mnkr_2023": 2862,
+      "forsaljning_mnkr_2024": 2833,
+      "forsaljning_mnkr_2025": 3383
+    },
+    {
+      "coicop": "01.1.6.6",
+      "varugrupp": "frukter, frysta",
+      "forsaljning_mnkr_2023": 1016,
+      "forsaljning_mnkr_2024": 1082,
+      "forsaljning_mnkr_2025": 1355
+    },
+    {
+      "coicop": "01.1.6.7",
+      "varugrupp": "frukter, torkade och dehydratiserade",
+      "forsaljning_mnkr_2023": 979,
+      "forsaljning_mnkr_2024": 1175,
+      "forsaljning_mnkr_2025": 1492
+    },
+    {
+      "coicop": "01.1.6.8-9",
+      "varugrupp": "nötter, frukt- och nötberedningar",
+      "forsaljning_mnkr_2023": 3585,
+      "forsaljning_mnkr_2024": 3642,
+      "forsaljning_mnkr_2025": 3879
+    },
+    {
+      "coicop": "01.1.7",
+      "varugrupp": "grönsaker, rotfrukter och baljväxter",
+      "forsaljning_mnkr_2023": 33083,
+      "forsaljning_mnkr_2024": 34548,
+      "forsaljning_mnkr_2025": 35985
+    },
+    {
+      "coicop": "01.1.7.1",
+      "varugrupp": "blad- eller stjälkgrönsaker, färska eller kylda",
+      "forsaljning_mnkr_2023": 4383,
+      "forsaljning_mnkr_2024": 4309,
+      "forsaljning_mnkr_2025": 4428
+    },
+    {
+      "coicop": "01.1.7.2",
+      "varugrupp": "fruktbildande grönsaker, färska eller kylda",
+      "forsaljning_mnkr_2023": 8503,
+      "forsaljning_mnkr_2024": 8260,
+      "forsaljning_mnkr_2025": 9102
+    },
+    {
+      "coicop": "01.1.7.3",
+      "varugrupp": "gröna baljväxter, färska eller kylda",
+      "forsaljning_mnkr_2023": 176,
+      "forsaljning_mnkr_2024": 184,
+      "forsaljning_mnkr_2025": 181
+    },
+    {
+      "coicop": "01.1.7.4",
+      "varugrupp": "andra grönsaker, färska eller kylda",
+      "forsaljning_mnkr_2023": 4221,
+      "forsaljning_mnkr_2024": 4293,
+      "forsaljning_mnkr_2025": 4192
+    },
+    {
+      "coicop": "01.1.7.5",
+      "varugrupp": "rotknölar, mjölbananer och kokbananer, färska eller kylda",
+      "forsaljning_mnkr_2023": 2852,
+      "forsaljning_mnkr_2024": 3200,
+      "forsaljning_mnkr_2025": 3219
+    },
+    {
+      "coicop": "01.1.7.6",
+      "varugrupp": "ärtor och bönor",
+      "forsaljning_mnkr_2023": 154,
+      "forsaljning_mnkr_2024": 153,
+      "forsaljning_mnkr_2025": 155
+    },
+    {
+      "coicop": "01.1.7.7",
+      "varugrupp": "andra grönsaker, rotknölar, torkade och dehydratiserade",
+      "forsaljning_mnkr_2023": 193,
+      "forsaljning_mnkr_2024": 217,
+      "forsaljning_mnkr_2025": 225
+    },
+    {
+      "coicop": "01.1.7.8",
+      "varugrupp": "grönsaker, rotknölar, frysta",
+      "forsaljning_mnkr_2023": 1131,
+      "forsaljning_mnkr_2024": 1244,
+      "forsaljning_mnkr_2025": 1244
+    },
+    {
+      "coicop": "01.1.7.9",
+      "varugrupp": "konserverade eller processade grönsaker",
+      "forsaljning_mnkr_2023": 11471,
+      "forsaljning_mnkr_2024": 12686,
+      "forsaljning_mnkr_2025": 13238
+    },
+    {
+      "coicop": "01.1.8",
+      "varugrupp": "socker, konfektyr och efterrätter",
+      "forsaljning_mnkr_2023": 42456,
+      "forsaljning_mnkr_2024": 44583,
+      "forsaljning_mnkr_2025": 48337
+    },
+    {
+      "coicop": "01.1.8.1",
+      "varugrupp": "socker",
+      "forsaljning_mnkr_2023": 780,
+      "forsaljning_mnkr_2024": 996,
+      "forsaljning_mnkr_2025": 838
+    },
+    {
+      "coicop": "01.1.8.2",
+      "varugrupp": "sirap och andra sötningsmedel",
+      "forsaljning_mnkr_2023": 189,
+      "forsaljning_mnkr_2024": 207,
+      "forsaljning_mnkr_2025": 217
+    },
+    {
+      "coicop": "01.1.8.3",
+      "varugrupp": "sylter, marmelader, fruktgeléer, fruktmos, fruktpastor och honung",
+      "forsaljning_mnkr_2023": 2127,
+      "forsaljning_mnkr_2024": 2380,
+      "forsaljning_mnkr_2025": 2529
+    },
+    {
+      "coicop": "01.1.8.4",
+      "varugrupp": "nötmos, nötsmör och nötpasta",
+      "forsaljning_mnkr_2023": 476,
+      "forsaljning_mnkr_2024": 518,
+      "forsaljning_mnkr_2025": 599
+    },
+    {
+      "coicop": "01.1.8.5",
+      "varugrupp": "choklad, kakao och kakaobaserade livsmedel",
+      "forsaljning_mnkr_2023": 7519,
+      "forsaljning_mnkr_2024": 8754,
+      "forsaljning_mnkr_2025": 9777
+    },
+    {
+      "coicop": "01.1.8.6",
+      "varugrupp": "is, glass och sorbet",
+      "forsaljning_mnkr_2023": 9642,
+      "forsaljning_mnkr_2024": 10453,
+      "forsaljning_mnkr_2025": 11295
+    },
+    {
+      "coicop": "01.1.8.9",
+      "varugrupp": "diverse övriga sockerkonfektyrer och efterrätter",
+      "forsaljning_mnkr_2023": 21724,
+      "forsaljning_mnkr_2024": 21277,
+      "forsaljning_mnkr_2025": 23083
+    },
+    {
+      "coicop": "01.1.9",
+      "varugrupp": "färdigmat och andra livsmedelsprodukter",
+      "forsaljning_mnkr_2023": 32376,
+      "forsaljning_mnkr_2024": 33814,
+      "forsaljning_mnkr_2025": 36053
+    },
+    {
+      "coicop": "01.1.9.1",
+      "varugrupp": "färdigmat",
+      "forsaljning_mnkr_2023": 17407,
+      "forsaljning_mnkr_2024": 17406,
+      "forsaljning_mnkr_2025": 18547
+    },
+    {
+      "coicop": "01.1.9.2",
+      "varugrupp": "barnmat",
+      "forsaljning_mnkr_2023": 1708,
+      "forsaljning_mnkr_2024": 1776,
+      "forsaljning_mnkr_2025": 1818
+    },
+    {
+      "coicop": "01.1.9.3",
+      "varugrupp": "salt, smaksättare och såser",
+      "forsaljning_mnkr_2023": 7708,
+      "forsaljning_mnkr_2024": 8708,
+      "forsaljning_mnkr_2025": 9250
+    },
+    {
+      "coicop": "01.1.9.4",
+      "varugrupp": "kryddor, kryddväxter och frön",
+      "forsaljning_mnkr_2023": 3534,
+      "forsaljning_mnkr_2024": 3672,
+      "forsaljning_mnkr_2025": 3908
+    },
+    {
+      "coicop": "01.1.9.9",
+      "varugrupp": "övriga livsmedel",
+      "forsaljning_mnkr_2023": 2018,
+      "forsaljning_mnkr_2024": 2253,
+      "forsaljning_mnkr_2025": 2530
+    },
+    {
+      "coicop": "01.2",
+      "varugrupp": "alkoholfria drycker",
+      "forsaljning_mnkr_2023": 36693,
+      "forsaljning_mnkr_2024": 41039,
+      "forsaljning_mnkr_2025": 45610
+    },
+    {
+      "coicop": "01.2.1.0",
+      "varugrupp": "frukt- och grönsaksjuicer",
+      "forsaljning_mnkr_2023": 4945,
+      "forsaljning_mnkr_2024": 5455,
+      "forsaljning_mnkr_2025": 5604
+    },
+    {
+      "coicop": "01.2.2.0",
+      "varugrupp": "kaffe och kaffesurrogat",
+      "forsaljning_mnkr_2023": 9370,
+      "forsaljning_mnkr_2024": 10056,
+      "forsaljning_mnkr_2025": 11962
+    },
+    {
+      "coicop": "01.2.3.0",
+      "varugrupp": "te",
+      "forsaljning_mnkr_2023": 1129,
+      "forsaljning_mnkr_2024": 1206,
+      "forsaljning_mnkr_2025": 1255
+    },
+    {
+      "coicop": "01.2.5.0",
+      "varugrupp": "vatten",
+      "forsaljning_mnkr_2023": 724,
+      "forsaljning_mnkr_2024": 758,
+      "forsaljning_mnkr_2025": 874
+    },
+    {
+      "coicop": "01.2.6.0",
+      "varugrupp": "läskedrycker",
+      "forsaljning_mnkr_2023": 11786,
+      "forsaljning_mnkr_2024": 13104,
+      "forsaljning_mnkr_2025": 14180
+    },
+    {
+      "coicop": "01.2.9.0",
+      "varugrupp": "andra alkoholfria drycker",
+      "forsaljning_mnkr_2023": 8740,
+      "forsaljning_mnkr_2024": 10459,
+      "forsaljning_mnkr_2025": 11735
+    },
+    {
+      "coicop": "02.1",
+      "varugrupp": "alkoholhaltiga drycker",
+      "forsaljning_mnkr_2023": 50993,
+      "forsaljning_mnkr_2024": 52273,
+      "forsaljning_mnkr_2025": 53353
+    },
+    {
+      "coicop": "02.1.1.0",
+      "varugrupp": "spritdrycker",
+      "forsaljning_mnkr_2023": 9945,
+      "forsaljning_mnkr_2024": 10054,
+      "forsaljning_mnkr_2025": 10110
+    },
+    {
+      "coicop": "02.1.2",
+      "varugrupp": "vin",
+      "forsaljning_mnkr_2023": 26548,
+      "forsaljning_mnkr_2024": 27023,
+      "forsaljning_mnkr_2025": 27520
+    },
+    {
+      "coicop": "02.1.2.1-2",
+      "varugrupp": "vin från druvor och andra råvaror",
+      "forsaljning_mnkr_2023": 26548,
+      "forsaljning_mnkr_2024": 27023,
+      "forsaljning_mnkr_2025": 27520
+    },
+    {
+      "coicop": "02.1.3.0",
+      "varugrupp": "öl",
+      "forsaljning_mnkr_2023": 14501,
+      "forsaljning_mnkr_2024": 15196,
+      "forsaljning_mnkr_2025": 15723
+    }
+  ],
+  "meta": {
+    "title": "Livsmedelsförsäljning i Sverige efter varugrupp - Free Download",
+    "description": "Försäljning (inkl. moms, miljoner kronor i löpande priser) av livsmedel och drycker inom handeln i Sverige efter varugrupp enligt COICOP, 2023–2025 (SCB). Contains 73 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Livsmedelsförsäljning i Sverige efter varugrupp | ListBase",
+    "seo_description": "Download Livsmedelsförsäljning i Sverige efter varugrupp — 73 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 73 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HA__HA0103__HA0103A/LivsNN/"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-13T02:29:38.307Z",
-  "total_datasets": 551,
-  "total_records": 2272473,
+  "generated": "2026-11-13T02:29:50.407Z",
+  "total_datasets": 552,
+  "total_records": 2272546,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -2324,6 +2324,32 @@
         "xlsx": {
           "name": "sv-landskapsratter_SV.xlsx",
           "size": 8507
+        }
+      }
+    },
+    {
+      "id": "sv-livsmedelsforsaljning-efter-varugrupp",
+      "name": "Livsmedelsförsäljning i Sverige efter varugrupp",
+      "category": "food",
+      "record_count": 73,
+      "columns": [
+        "coicop",
+        "varugrupp",
+        "forsaljning_mnkr_2023",
+        "forsaljning_mnkr_2024",
+        "forsaljning_mnkr_2025"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HA__HA0103__HA0103A/LivsNN/",
+      "updated": "2026-11",
+      "size": 16638,
+      "files": {
+        "csv": {
+          "name": "sv-livsmedelsforsaljning-efter-varugrupp_SV.csv",
+          "size": 4591
+        },
+        "xlsx": {
+          "name": "sv-livsmedelsforsaljning-efter-varugrupp_SV.xlsx",
+          "size": 9972
         }
       }
     },
