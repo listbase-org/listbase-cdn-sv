@@ -1,0 +1,6688 @@
+{
+  "id": "sv-skordar-efter-groda",
+  "name": "Skördar i Sverige efter gröda sedan 1965",
+  "title": "Skördar i Sverige efter gröda sedan 1965",
+  "description": "Hektarskörd (kg per hektar) och totalskörd (ton) för spannmål, trindsäd, oljeväxter, potatis, sockerbetor och slåttervall i hela riket, årligen från 1965 (Jordbruksverket/SCB).",
+  "category": "agriculture",
+  "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__JO__JO0601/SkordarL2/",
+  "source_url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__JO__JO0601/SkordarL2/",
+  "updated": "2026-11",
+  "record_count": 1107,
+  "columns": [
+    {
+      "key": "groda",
+      "label": "Groda",
+      "type": "string"
+    },
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "hektarskord_kg_per_ha",
+      "label": "Hektarskord Kg Per Ha",
+      "type": "number"
+    },
+    {
+      "key": "totalskord_ton",
+      "label": "Totalskord Ton",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "groda": "blandsäd",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 2740,
+      "totalskord_ton": 396990
+    },
+    {
+      "groda": "havre",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 2930,
+      "totalskord_ton": 1299960
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 2550,
+      "totalskord_ton": 142590
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 1790,
+      "totalskord_ton": 30120
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 3800,
+      "totalskord_ton": 857230
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 24030,
+      "totalskord_ton": 1542430
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 28620,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "råg",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 2800,
+      "totalskord_ton": 169650
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 3580,
+      "totalskord_ton": 2387670
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 4680,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 1090,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 32110,
+      "totalskord_ton": 1339860
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 2990,
+      "totalskord_ton": 1387950
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 1360,
+      "totalskord_ton": 18900
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 920,
+      "totalskord_ton": 2820
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1965,
+      "hektarskord_kg_per_ha": 3080,
+      "totalskord_ton": 182090
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 2240,
+      "totalskord_ton": 259530
+    },
+    {
+      "groda": "havre",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 2450,
+      "totalskord_ton": 1120610
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 2000,
+      "totalskord_ton": 47980
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 1460,
+      "totalskord_ton": 12450
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 3120,
+      "totalskord_ton": 407910
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 25250,
+      "totalskord_ton": 1339690
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 25460,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "råg",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 2190,
+      "totalskord_ton": 83080
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 3200,
+      "totalskord_ton": 2820790
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 4130,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 940,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 34760,
+      "totalskord_ton": 1433890
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 2420,
+      "totalskord_ton": 1362180
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 1470,
+      "totalskord_ton": 19920
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 1040,
+      "totalskord_ton": 4150
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1966,
+      "hektarskord_kg_per_ha": 2630,
+      "totalskord_ton": 165940
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 2660,
+      "totalskord_ton": 251690
+    },
+    {
+      "groda": "havre",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 2980,
+      "totalskord_ton": 1355280
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 2860,
+      "totalskord_ton": 148170
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 2080,
+      "totalskord_ton": 38040
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 4570,
+      "totalskord_ton": 926490
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 24520,
+      "totalskord_ton": 1398310
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 29560,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "råg",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 3150,
+      "totalskord_ton": 188450
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 3860,
+      "totalskord_ton": 2408970
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 4870,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 1010,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 43600,
+      "totalskord_ton": 1797740
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 2860,
+      "totalskord_ton": 1518490
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 1550,
+      "totalskord_ton": 28080
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 1200,
+      "totalskord_ton": 7070
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1967,
+      "hektarskord_kg_per_ha": 3330,
+      "totalskord_ton": 170980
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 2870,
+      "totalskord_ton": 254570
+    },
+    {
+      "groda": "havre",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 3180,
+      "totalskord_ton": 1538010
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 2600,
+      "totalskord_ton": 156130
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 1780,
+      "totalskord_ton": 32900
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 4370,
+      "totalskord_ton": 859640
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 24470,
+      "totalskord_ton": 1486160
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 30820,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "råg",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 3010,
+      "totalskord_ton": 203010
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 3750,
+      "totalskord_ton": 2969390
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 4890,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 1140,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 48380,
+      "totalskord_ton": 1981540
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 3100,
+      "totalskord_ton": 1724370
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 1750,
+      "totalskord_ton": 39320
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 1180,
+      "totalskord_ton": 8560
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1968,
+      "hektarskord_kg_per_ha": 3520,
+      "totalskord_ton": 182700
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 2210,
+      "totalskord_ton": 171950
+    },
+    {
+      "groda": "havre",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 2300,
+      "totalskord_ton": 1096390
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 2220,
+      "totalskord_ton": 139730
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 1560,
+      "totalskord_ton": 24040
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 3460,
+      "totalskord_ton": 764860
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 17150,
+      "totalskord_ton": 931160
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 19480,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "råg",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 2510,
+      "totalskord_ton": 176410
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 3110,
+      "totalskord_ton": 2358800
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 3860,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 740,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 37040,
+      "totalskord_ton": 1470300
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 2590,
+      "totalskord_ton": 1529390
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 930,
+      "totalskord_ton": 17020
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 860,
+      "totalskord_ton": 6720
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1969,
+      "hektarskord_kg_per_ha": 2800,
+      "totalskord_ton": 125030
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 2680,
+      "totalskord_ton": 203110
+    },
+    {
+      "groda": "havre",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 3210,
+      "totalskord_ton": 1636820
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 2050,
+      "totalskord_ton": 98710
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 1520,
+      "totalskord_ton": 19940
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 3640,
+      "totalskord_ton": 814940
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 26610,
+      "totalskord_ton": 1490160
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 31810,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "råg",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 2810,
+      "totalskord_ton": 218790
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 3100,
+      "totalskord_ton": 2307260
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 4200,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 1100,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 39520,
+      "totalskord_ton": 1560520
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 3030,
+      "totalskord_ton": 1848310
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 1750,
+      "totalskord_ton": 42350
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 1420,
+      "totalskord_ton": 12200
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1970,
+      "hektarskord_kg_per_ha": 2950,
+      "totalskord_ton": 119220
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 2530,
+      "totalskord_ton": 195850
+    },
+    {
+      "groda": "havre",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 3450,
+      "totalskord_ton": 1812460
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 2220,
+      "totalskord_ton": 104120
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 1650,
+      "totalskord_ton": 24490
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 3970,
+      "totalskord_ton": 812400
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 24560,
+      "totalskord_ton": 1241680
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 26590,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "råg",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 3620,
+      "totalskord_ton": 292730
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 3390,
+      "totalskord_ton": 2459540
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 4590,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 1200,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 42520,
+      "totalskord_ton": 1706260
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 3260,
+      "totalskord_ton": 1970000
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 2000,
+      "totalskord_ton": 66650
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 1490,
+      "totalskord_ton": 33380
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1971,
+      "hektarskord_kg_per_ha": 3730,
+      "totalskord_ton": 152610
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 2850,
+      "totalskord_ton": 186610
+    },
+    {
+      "groda": "havre",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 3160,
+      "totalskord_ton": 1582130
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 2640,
+      "totalskord_ton": 111410
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 1980,
+      "totalskord_ton": 45740
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 4310,
+      "totalskord_ton": 972450
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 24440,
+      "totalskord_ton": 784970
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 29970,
+      "totalskord_ton": 351690
+    },
+    {
+      "groda": "råg",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 3340,
+      "totalskord_ton": 352830
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 4100,
+      "totalskord_ton": 2830920
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 5460,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 1360,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 43100,
+      "totalskord_ton": 1783120
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 3140,
+      "totalskord_ton": 1828440
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 1700,
+      "totalskord_ton": 81700
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 1420,
+      "totalskord_ton": 56400
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1972,
+      "hektarskord_kg_per_ha": 3450,
+      "totalskord_ton": 144500
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 2210,
+      "totalskord_ton": 157670
+    },
+    {
+      "groda": "havre",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 2480,
+      "totalskord_ton": 1174220
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 2420,
+      "totalskord_ton": 113140
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 1860,
+      "totalskord_ton": 58110
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 4630,
+      "totalskord_ton": 1141240
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 22070,
+      "totalskord_ton": 728810
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 18420,
+      "totalskord_ton": 217710
+    },
+    {
+      "groda": "råg",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 3350,
+      "totalskord_ton": 312150
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 3950,
+      "totalskord_ton": 2628930
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 5250,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 1300,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 43020,
+      "totalskord_ton": 1781470
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 2860,
+      "totalskord_ton": 1716160
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 1630,
+      "totalskord_ton": 85690
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 1180,
+      "totalskord_ton": 48240
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1973,
+      "hektarskord_kg_per_ha": 3520,
+      "totalskord_ton": 155430
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 3410,
+      "totalskord_ton": 241610
+    },
+    {
+      "groda": "havre",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 3780,
+      "totalskord_ton": 1637050
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 2790,
+      "totalskord_ton": 121800
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 1840,
+      "totalskord_ton": 37900
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 5360,
+      "totalskord_ton": 1515260
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 25530,
+      "totalskord_ton": 884460
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 31420,
+      "totalskord_ton": 372230
+    },
+    {
+      "groda": "råg",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 3950,
+      "totalskord_ton": 424360
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 3060,
+      "totalskord_ton": 2088300
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 4430,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 1370,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 46210,
+      "totalskord_ton": 2140470
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 3920,
+      "totalskord_ton": 2328760
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 1740,
+      "totalskord_ton": 93370
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 1610,
+      "totalskord_ton": 63400
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1974,
+      "hektarskord_kg_per_ha": 4680,
+      "totalskord_ton": 256990
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 2470,
+      "totalskord_ton": 162710
+    },
+    {
+      "groda": "havre",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 2830,
+      "totalskord_ton": 1305510
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 2380,
+      "totalskord_ton": 114270
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 1910,
+      "totalskord_ton": 46620
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 5030,
+      "totalskord_ton": 1138350
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 18450,
+      "totalskord_ton": 561660
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 23560,
+      "totalskord_ton": 275250
+    },
+    {
+      "groda": "råg",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 3340,
+      "totalskord_ton": 318460
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 3520,
+      "totalskord_ton": 2314900
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 4580,
+      "totalskord_ton": 3023660
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 1070,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 38080,
+      "totalskord_ton": 1991530
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 3120,
+      "totalskord_ton": 1880700
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 1420,
+      "totalskord_ton": 67350
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 1310,
+      "totalskord_ton": 66020
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1975,
+      "hektarskord_kg_per_ha": 4010,
+      "totalskord_ton": 299370
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 2600,
+      "totalskord_ton": 163090
+    },
+    {
+      "groda": "havre",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 2750,
+      "totalskord_ton": 1236750
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 2510,
+      "totalskord_ton": 92740
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 1890,
+      "totalskord_ton": 54270
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 4580,
+      "totalskord_ton": 1519960
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 22370,
+      "totalskord_ton": 754730
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 25770,
+      "totalskord_ton": 303530
+    },
+    {
+      "groda": "råg",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 3450,
+      "totalskord_ton": 419190
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 3800,
+      "totalskord_ton": 2476500
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 4660,
+      "totalskord_ton": 3035940
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 860,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 39060,
+      "totalskord_ton": 2076590
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 3250,
+      "totalskord_ton": 1804320
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 1300,
+      "totalskord_ton": 45770
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 1320,
+      "totalskord_ton": 58390
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1976,
+      "hektarskord_kg_per_ha": 3590,
+      "totalskord_ton": 224160
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 2630,
+      "totalskord_ton": 150870
+    },
+    {
+      "groda": "havre",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 3060,
+      "totalskord_ton": 1399790
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 2500,
+      "totalskord_ton": 121320
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 1840,
+      "totalskord_ton": 27640
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 4110,
+      "totalskord_ton": 1304240
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 24760,
+      "totalskord_ton": 879690
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 33480,
+      "totalskord_ton": 398950
+    },
+    {
+      "groda": "råg",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 3010,
+      "totalskord_ton": 331080
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 3420,
+      "totalskord_ton": 2217360
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 4840,
+      "totalskord_ton": 3139570
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 1430,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 41300,
+      "totalskord_ton": 2199160
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 3250,
+      "totalskord_ton": 1943210
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 1620,
+      "totalskord_ton": 51610
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 1440,
+      "totalskord_ton": 40240
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1977,
+      "hektarskord_kg_per_ha": 3530,
+      "totalskord_ton": 200390
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 2930,
+      "totalskord_ton": 167740
+    },
+    {
+      "groda": "havre",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 3380,
+      "totalskord_ton": 1532340
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 2530,
+      "totalskord_ton": 122630
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 1780,
+      "totalskord_ton": 27390
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 4610,
+      "totalskord_ton": 1038180
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 27680,
+      "totalskord_ton": 897260
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 35920,
+      "totalskord_ton": 441280
+    },
+    {
+      "groda": "råg",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 3670,
+      "totalskord_ton": 290180
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 3550,
+      "totalskord_ton": 2343640
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 5090,
+      "totalskord_ton": 3371070
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 1540,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 43210,
+      "totalskord_ton": 2246860
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 3570,
+      "totalskord_ton": 2406110
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 1680,
+      "totalskord_ton": 76170
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 1520,
+      "totalskord_ton": 68940
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1978,
+      "hektarskord_kg_per_ha": 3860,
+      "totalskord_ton": 236880
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 2700,
+      "totalskord_ton": 145960
+    },
+    {
+      "groda": "havre",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 3300,
+      "totalskord_ton": 1506350
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 2110,
+      "totalskord_ton": 81200
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 1640,
+      "totalskord_ton": 27300
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 4440,
+      "totalskord_ton": 776790
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 28050,
+      "totalskord_ton": 835750
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 38020,
+      "totalskord_ton": 448470
+    },
+    {
+      "groda": "råg",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 3290,
+      "totalskord_ton": 189890
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 3540,
+      "totalskord_ton": 2359780
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 5240,
+      "totalskord_ton": 3492860
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 1700,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 42850,
+      "totalskord_ton": 2206190
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 3290,
+      "totalskord_ton": 2318260
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 1670,
+      "totalskord_ton": 74140
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 1480,
+      "totalskord_ton": 85070
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1979,
+      "hektarskord_kg_per_ha": 3560,
+      "totalskord_ton": 241280
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 2830,
+      "totalskord_ton": 155540
+    },
+    {
+      "groda": "havre",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 3430,
+      "totalskord_ton": 1548470
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 2270,
+      "totalskord_ton": 113590
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 740,
+      "totalskord_ton": 3550
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 4140,
+      "totalskord_ton": 973880
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 25580,
+      "totalskord_ton": 719240
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 32680,
+      "totalskord_ton": 364610
+    },
+    {
+      "groda": "råg",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 3370,
+      "totalskord_ton": 220290
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 3500,
+      "totalskord_ton": 2349500
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 5140,
+      "totalskord_ton": 3449970
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 1640,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 44900,
+      "totalskord_ton": 2257250
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 3310,
+      "totalskord_ton": 2146680
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 1570,
+      "totalskord_ton": 72210
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 1400,
+      "totalskord_ton": 101630
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1980,
+      "hektarskord_kg_per_ha": 3930,
+      "totalskord_ton": 205560
+    },
+    {
+      "groda": "havre",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 3780,
+      "totalskord_ton": 1794470
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 2160,
+      "totalskord_ton": 81980
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 390,
+      "totalskord_ton": 1080
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 4790,
+      "totalskord_ton": 727720
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 28730,
+      "totalskord_ton": 833870
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 35340,
+      "totalskord_ton": 371990
+    },
+    {
+      "groda": "råg",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 3520,
+      "totalskord_ton": 175280
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 3760,
+      "totalskord_ton": 3612490
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 5390,
+      "totalskord_ton": 3612490
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 1630,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 47900,
+      "totalskord_ton": 2483780
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 3560,
+      "totalskord_ton": 2423150
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 1840,
+      "totalskord_ton": 103420
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 1500,
+      "totalskord_ton": 101090
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1981,
+      "hektarskord_kg_per_ha": 4580,
+      "totalskord_ton": 326200
+    },
+    {
+      "groda": "havre",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 3440,
+      "totalskord_ton": 1643470
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 2840,
+      "totalskord_ton": 126890
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 2110,
+      "totalskord_ton": 8340
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 5420,
+      "totalskord_ton": 1171830
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 25290,
+      "totalskord_ton": 735380
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 30010,
+      "totalskord_ton": 300780
+    },
+    {
+      "groda": "råg",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 3830,
+      "totalskord_ton": 206560
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 3860,
+      "totalskord_ton": 2603490
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 5320,
+      "totalskord_ton": 3588210
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 1460,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 45930,
+      "totalskord_ton": 2431250
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 3700,
+      "totalskord_ton": 2350540
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 1810,
+      "totalskord_ton": 102960
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 1550,
+      "totalskord_ton": 94420
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1982,
+      "hektarskord_kg_per_ha": 4520,
+      "totalskord_ton": 301250
+    },
+    {
+      "groda": "havre",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 3100,
+      "totalskord_ton": 1253740
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 2870,
+      "totalskord_ton": 140310
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 1950,
+      "totalskord_ton": 7390
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 5240,
+      "totalskord_ton": 1430680
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 22360,
+      "totalskord_ton": 650810
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 28810,
+      "totalskord_ton": 288040
+    },
+    {
+      "groda": "råg",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 3760,
+      "totalskord_ton": 232300
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 4350,
+      "totalskord_ton": 2895440
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 5720,
+      "totalskord_ton": 3807370
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 1370,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 36820,
+      "totalskord_ton": 1921500
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 3230,
+      "totalskord_ton": 2002810
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 1750,
+      "totalskord_ton": 99720
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 1510,
+      "totalskord_ton": 88510
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1983,
+      "hektarskord_kg_per_ha": 4340,
+      "totalskord_ton": 270560
+    },
+    {
+      "groda": "havre",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 4400,
+      "totalskord_ton": 1881890
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 2840,
+      "totalskord_ton": 111180
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 1720,
+      "totalskord_ton": 900
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 5860,
+      "totalskord_ton": 1335200
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 32020,
+      "totalskord_ton": 812670
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 38510,
+      "totalskord_ton": 376210
+    },
+    {
+      "groda": "råg",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 3950,
+      "totalskord_ton": 243620
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 3980,
+      "totalskord_ton": 2654570
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 5780,
+      "totalskord_ton": 3850790
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 1800,
+      "totalskord_ton": 1196210
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 48310,
+      "totalskord_ton": 2507860
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 4200,
+      "totalskord_ton": 2701160
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 1900,
+      "totalskord_ton": 123240
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 1740,
+      "totalskord_ton": 108620
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1984,
+      "hektarskord_kg_per_ha": 4770,
+      "totalskord_ton": 419850
+    },
+    {
+      "groda": "havre",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 3710,
+      "totalskord_ton": 1648510
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 2880,
+      "totalskord_ton": 151110
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 1870,
+      "totalskord_ton": 3790
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 5020,
+      "totalskord_ton": 909300
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 31940,
+      "totalskord_ton": 791100
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 39050,
+      "totalskord_ton": 379740
+    },
+    {
+      "groda": "råg",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 3380,
+      "totalskord_ton": 154880
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 3440,
+      "totalskord_ton": 2241960
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 5290,
+      "totalskord_ton": 3440700
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 1850,
+      "totalskord_ton": 1198740
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 41900,
+      "totalskord_ton": 2156340
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 3420,
+      "totalskord_ton": 2282350
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 1740,
+      "totalskord_ton": 81910
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 1410,
+      "totalskord_ton": 97310
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1985,
+      "hektarskord_kg_per_ha": 4300,
+      "totalskord_ton": 413040
+    },
+    {
+      "groda": "havre",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 3220,
+      "totalskord_ton": 1468920
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 2690,
+      "totalskord_ton": 102680
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 1910,
+      "totalskord_ton": 5800
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 5960,
+      "totalskord_ton": 1221730
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 33650,
+      "totalskord_ton": 822500
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 38680,
+      "totalskord_ton": 285030
+    },
+    {
+      "groda": "råg",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 3950,
+      "totalskord_ton": 152700
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 3470,
+      "totalskord_ton": 2235910
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 5160,
+      "totalskord_ton": 3324230
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 1700,
+      "totalskord_ton": 1088310
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 42700,
+      "totalskord_ton": 2187300
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 3590,
+      "totalskord_ton": 2299940
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 1880,
+      "totalskord_ton": 120310
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 1590,
+      "totalskord_ton": 107830
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1986,
+      "hektarskord_kg_per_ha": 4640,
+      "totalskord_ton": 488650
+    },
+    {
+      "groda": "havre",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 3580,
+      "totalskord_ton": 1423260
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 2230,
+      "totalskord_ton": 109640
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 1490,
+      "totalskord_ton": 2530
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 5060,
+      "totalskord_ton": 1111130
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 24210,
+      "totalskord_ton": 622200
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 34030,
+      "totalskord_ton": 335490
+    },
+    {
+      "groda": "råg",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 3380,
+      "totalskord_ton": 135600
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 4030,
+      "totalskord_ton": 2628160
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 5750,
+      "totalskord_ton": 3747200
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 1730,
+      "totalskord_ton": 1119030
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 33000,
+      "totalskord_ton": 1698750
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 3460,
+      "totalskord_ton": 1885220
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 1350,
+      "totalskord_ton": 83050
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 1290,
+      "totalskord_ton": 71790
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1987,
+      "hektarskord_kg_per_ha": 4050,
+      "totalskord_ton": 428560
+    },
+    {
+      "groda": "havre",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 3090,
+      "totalskord_ton": 1314800
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 2610,
+      "totalskord_ton": 95210
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 1790,
+      "totalskord_ton": 7790
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 5440,
+      "totalskord_ton": 955000
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 32680,
+      "totalskord_ton": 882600
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 42080,
+      "totalskord_ton": 400220
+    },
+    {
+      "groda": "råg",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 3780,
+      "totalskord_ton": 126200
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 3450,
+      "totalskord_ton": 2327150
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 5490,
+      "totalskord_ton": 3703310
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 2050,
+      "totalskord_ton": 1376160
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 47900,
+      "totalskord_ton": 2438580
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 3420,
+      "totalskord_ton": 1856900
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 1710,
+      "totalskord_ton": 98580
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 1300,
+      "totalskord_ton": 62560
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1988,
+      "hektarskord_kg_per_ha": 4340,
+      "totalskord_ton": 325500
+    },
+    {
+      "groda": "havre",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 3500,
+      "totalskord_ton": 1438400
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 3290,
+      "totalskord_ton": 227720
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 2000,
+      "totalskord_ton": 16120
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 6370,
+      "totalskord_ton": 1558100
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 33100,
+      "totalskord_ton": 804700
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 40060,
+      "totalskord_ton": 374700
+    },
+    {
+      "groda": "råg",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 4660,
+      "totalskord_ton": 315400
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 3740,
+      "totalskord_ton": 2546080
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 5680,
+      "totalskord_ton": 3861120
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 1940,
+      "totalskord_ton": 1315040
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 52300,
+      "totalskord_ton": 2653900
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 3880,
+      "totalskord_ton": 1848300
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 1630,
+      "totalskord_ton": 82160
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 1460,
+      "totalskord_ton": 53690
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1989,
+      "hektarskord_kg_per_ha": 4550,
+      "totalskord_ton": 172400
+    },
+    {
+      "groda": "havre",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 4260,
+      "totalskord_ton": 1565800
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 2910,
+      "totalskord_ton": 240790
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 1770,
+      "totalskord_ton": 14440
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 6480,
+      "totalskord_ton": 2070400
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 33060,
+      "totalskord_ton": 834200
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 40090,
+      "totalskord_ton": 351900
+    },
+    {
+      "groda": "råg",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 4690,
+      "totalskord_ton": 330800
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 3940,
+      "totalskord_ton": 2752330
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 6250,
+      "totalskord_ton": 4357870
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 2310,
+      "totalskord_ton": 1605620
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 55800,
+      "totalskord_ton": 2775500
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 4490,
+      "totalskord_ton": 2097900
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 1820,
+      "totalskord_ton": 77950
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 1590,
+      "totalskord_ton": 46910
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1990,
+      "hektarskord_kg_per_ha": 5160,
+      "totalskord_ton": 146400
+    },
+    {
+      "groda": "havre",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 4080,
+      "totalskord_ton": 1409500
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 2340,
+      "totalskord_ton": 171800
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 1340,
+      "totalskord_ton": 9700
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 5940,
+      "totalskord_ton": 1309200
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 27600,
+      "totalskord_ton": 730900
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 34130,
+      "totalskord_ton": 298200
+    },
+    {
+      "groda": "råg",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 3900,
+      "totalskord_ton": 163000
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 4120,
+      "totalskord_ton": 2772030
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 5950,
+      "totalskord_ton": 3997150
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 1820,
+      "totalskord_ton": 1225110
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 43200,
+      "totalskord_ton": 1627700
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 4090,
+      "totalskord_ton": 1912800
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 1270,
+      "totalskord_ton": 48900
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 1140,
+      "totalskord_ton": 29400
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1991,
+      "hektarskord_kg_per_ha": 4780,
+      "totalskord_ton": 154500
+    },
+    {
+      "groda": "havre",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 2330,
+      "totalskord_ton": 797100
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 2680,
+      "totalskord_ton": 127900
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 1600,
+      "totalskord_ton": 3400
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 5530,
+      "totalskord_ton": 1265100
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 32850,
+      "totalskord_ton": 950600
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 34390,
+      "totalskord_ton": 302300
+    },
+    {
+      "groda": "råg",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 4030,
+      "totalskord_ton": 134300
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 3220,
+      "totalskord_ton": 2207990
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 5020,
+      "totalskord_ton": 3436860
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 1800,
+      "totalskord_ton": 1228870
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 45100,
+      "totalskord_ton": 2136000
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 2890,
+      "totalskord_ton": 1245800
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 1690,
+      "totalskord_ton": 86200
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 1510,
+      "totalskord_ton": 38300
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1992,
+      "hektarskord_kg_per_ha": 3520,
+      "totalskord_ton": 124800
+    },
+    {
+      "groda": "havre",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": 4230,
+      "totalskord_ton": 1279700
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": "",
+      "totalskord_ton": 197400
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": "",
+      "totalskord_ton": 2700
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": 5920,
+      "totalskord_ton": 1566500
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": 36870,
+      "totalskord_ton": 975900
+    },
+    {
+      "groda": "råg",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": 5060,
+      "totalskord_ton": 227300
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": 3440,
+      "totalskord_ton": 2422420
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": 49600,
+      "totalskord_ton": 2534800
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": 4160,
+      "totalskord_ton": 1651100
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": "",
+      "totalskord_ton": 87600
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": "",
+      "totalskord_ton": 30000
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1993,
+      "hektarskord_kg_per_ha": 5040,
+      "totalskord_ton": 159500
+    },
+    {
+      "groda": "havre",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": 3020,
+      "totalskord_ton": 979100
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": "",
+      "totalskord_ton": 100000
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": "",
+      "totalskord_ton": 1000
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": 5570,
+      "totalskord_ton": 1156600
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": 30430,
+      "totalskord_ton": 762800
+    },
+    {
+      "groda": "råg",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": 4500,
+      "totalskord_ton": 171400
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": 3640,
+      "totalskord_ton": 2635090
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": 44100,
+      "totalskord_ton": 2349800
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": 3660,
+      "totalskord_ton": 1641600
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": "",
+      "totalskord_ton": 69000
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": "",
+      "totalskord_ton": 25000
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1994,
+      "hektarskord_kg_per_ha": 4450,
+      "totalskord_ton": 172700
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 2510,
+      "totalskord_ton": 66700
+    },
+    {
+      "groda": "havre",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 3440,
+      "totalskord_ton": 935700
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 5310,
+      "totalskord_ton": 136300
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 2300,
+      "totalskord_ton": 129100
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": "",
+      "totalskord_ton": 2000
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 5070,
+      "totalskord_ton": 221300
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 6190,
+      "totalskord_ton": 1347200
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 31280,
+      "totalskord_ton": 791500
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 38330,
+      "totalskord_ton": 282300
+    },
+    {
+      "groda": "råg",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 5250,
+      "totalskord_ton": 204000
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 3820,
+      "totalskord_ton": 2820300
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 43600,
+      "totalskord_ton": 2478500
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 3910,
+      "totalskord_ton": 1635600
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 1570,
+      "totalskord_ton": 36600
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 1200,
+      "totalskord_ton": 28400
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1995,
+      "hektarskord_kg_per_ha": 4920,
+      "totalskord_ton": 188600
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 3900,
+      "totalskord_ton": 130900
+    },
+    {
+      "groda": "havre",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 4270,
+      "totalskord_ton": 1185800
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 4530,
+      "totalskord_ton": 98100
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 2290,
+      "totalskord_ton": 49900
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": "",
+      "totalskord_ton": 1000
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 5120,
+      "totalskord_ton": 309300
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 6200,
+      "totalskord_ton": 1772900
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 33210,
+      "totalskord_ton": 853200
+    },
+    {
+      "groda": "oljelin",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 1340,
+      "totalskord_ton": 9900
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 38370,
+      "totalskord_ton": 347700
+    },
+    {
+      "groda": "råg",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 4980,
+      "totalskord_ton": 163800
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 3790,
+      "totalskord_ton": 2809940
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 41100,
+      "totalskord_ton": 2430000
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 4550,
+      "totalskord_ton": 1990700
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 2200,
+      "totalskord_ton": 41800
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 1680,
+      "totalskord_ton": 40200
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 5610,
+      "totalskord_ton": 233400
+    },
+    {
+      "groda": "ärter",
+      "ar": 1996,
+      "hektarskord_kg_per_ha": 3850,
+      "totalskord_ton": 68300
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 3660,
+      "totalskord_ton": 108520
+    },
+    {
+      "groda": "havre",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 4070,
+      "totalskord_ton": 1259480
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 4910,
+      "totalskord_ton": 73530
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 2300,
+      "totalskord_ton": 52600
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 1510,
+      "totalskord_ton": 2600
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 4860,
+      "totalskord_ton": 317070
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 6140,
+      "totalskord_ton": 1801200
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 35640,
+      "totalskord_ton": 874300
+    },
+    {
+      "groda": "oljelin",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 1280,
+      "totalskord_ton": 12200
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 37420,
+      "totalskord_ton": 339800
+    },
+    {
+      "groda": "råg",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 4750,
+      "totalskord_ton": 137090
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 3620,
+      "totalskord_ton": 2674340
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 44200,
+      "totalskord_ton": 2639100
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 4340,
+      "totalskord_ton": 1988510
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 1840,
+      "totalskord_ton": 35800
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 1540,
+      "totalskord_ton": 30000
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 5290,
+      "totalskord_ton": 231080
+    },
+    {
+      "groda": "ärter",
+      "ar": 1997,
+      "hektarskord_kg_per_ha": 3490,
+      "totalskord_ton": 114300
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 2890,
+      "totalskord_ton": 77780
+    },
+    {
+      "groda": "havre",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 3610,
+      "totalskord_ton": 1122990
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 5300,
+      "totalskord_ton": 84410
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 2990,
+      "totalskord_ton": 69300
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 1630,
+      "totalskord_ton": 2400
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 4550,
+      "totalskord_ton": 303830
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 5670,
+      "totalskord_ton": 2036740
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 34720,
+      "totalskord_ton": 792500
+    },
+    {
+      "groda": "oljelin",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 420,
+      "totalskord_ton": 6400
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 47440,
+      "totalskord_ton": 406400
+    },
+    {
+      "groda": "råg",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 4590,
+      "totalskord_ton": 158630
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 43400,
+      "totalskord_ton": 2570800
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 3690,
+      "totalskord_ton": 1582880
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 1950,
+      "totalskord_ton": 32500
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 1460,
+      "totalskord_ton": 19300
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 4760,
+      "totalskord_ton": 185810
+    },
+    {
+      "groda": "ärter",
+      "ar": 1998,
+      "hektarskord_kg_per_ha": 1780,
+      "totalskord_ton": 87700
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 2790,
+      "totalskord_ton": 92120
+    },
+    {
+      "groda": "havre",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 3410,
+      "totalskord_ton": 1042830
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 4870,
+      "totalskord_ton": 57920
+    },
+    {
+      "groda": "höstraps",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 2860,
+      "totalskord_ton": 56200
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 1880,
+      "totalskord_ton": 2300
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 4670,
+      "totalskord_ton": 152410
+    },
+    {
+      "groda": "höstvete",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 6250,
+      "totalskord_ton": 1310380
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 28820,
+      "totalskord_ton": 675200
+    },
+    {
+      "groda": "oljelin",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 950,
+      "totalskord_ton": 32500
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 37620,
+      "totalskord_ton": 315600
+    },
+    {
+      "groda": "råg",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 4730,
+      "totalskord_ton": 116030
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 46400,
+      "totalskord_ton": 2752600
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 3780,
+      "totalskord_ton": 1773040
+    },
+    {
+      "groda": "vårraps",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 2040,
+      "totalskord_ton": 63800
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 1670,
+      "totalskord_ton": 39800
+    },
+    {
+      "groda": "vårvete",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 5000,
+      "totalskord_ton": 329230
+    },
+    {
+      "groda": "ärter",
+      "ar": 1999,
+      "hektarskord_kg_per_ha": 2720,
+      "totalskord_ton": 81800
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 3430,
+      "totalskord_ton": 109020
+    },
+    {
+      "groda": "havre",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 3910,
+      "totalskord_ton": 1137720
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 5030,
+      "totalskord_ton": 59990
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 3250,
+      "totalskord_ton": 80900
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 1750,
+      "totalskord_ton": 2400
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 4550,
+      "totalskord_ton": 185120
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 6030,
+      "totalskord_ton": 2129450
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 26720,
+      "totalskord_ton": 654400
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 770,
+      "totalskord_ton": 7900
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 38700,
+      "totalskord_ton": 325700
+    },
+    {
+      "groda": "råg",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 5370,
+      "totalskord_ton": 185120
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 46900,
+      "totalskord_ton": 2602200
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 3920,
+      "totalskord_ton": 1555400
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 2010,
+      "totalskord_ton": 23100
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 1550,
+      "totalskord_ton": 15100
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 5040,
+      "totalskord_ton": 242550
+    },
+    {
+      "groda": "ärter",
+      "ar": 2000,
+      "hektarskord_kg_per_ha": 2660,
+      "totalskord_ton": 67400
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 3190,
+      "totalskord_ton": 84600
+    },
+    {
+      "groda": "havre",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 3510,
+      "totalskord_ton": 952490
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 5210,
+      "totalskord_ton": 45960
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 3100,
+      "totalskord_ton": 61700
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 1460,
+      "totalskord_ton": 1200
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 4360,
+      "totalskord_ton": 172470
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 5970,
+      "totalskord_ton": 2112840
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 26160,
+      "totalskord_ton": 621900
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 780,
+      "totalskord_ton": 3300
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 35820,
+      "totalskord_ton": 303100
+    },
+    {
+      "groda": "råg",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 5210,
+      "totalskord_ton": 177910
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 48500,
+      "totalskord_ton": 2659400
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 4090,
+      "totalskord_ton": 1577050
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 1980,
+      "totalskord_ton": 26900
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 1550,
+      "totalskord_ton": 16200
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 4600,
+      "totalskord_ton": 204690
+    },
+    {
+      "groda": "ärter",
+      "ar": 2001,
+      "hektarskord_kg_per_ha": 2860,
+      "totalskord_ton": 76300
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 3540,
+      "totalskord_ton": 92020
+    },
+    {
+      "groda": "havre",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 4050,
+      "totalskord_ton": 1166970
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 5330,
+      "totalskord_ton": 26880
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 2910,
+      "totalskord_ton": 90900
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 1760,
+      "totalskord_ton": 3300
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 5480,
+      "totalskord_ton": 167430
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 6390,
+      "totalskord_ton": 1823150
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 26470,
+      "totalskord_ton": 612500
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 1700,
+      "totalskord_ton": 5200
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 35050,
+      "totalskord_ton": 301100
+    },
+    {
+      "groda": "råg",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 5270,
+      "totalskord_ton": 126710
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 2990,
+      "totalskord_ton": 2285400
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 4380,
+      "totalskord_ton": 3350020
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 1390,
+      "totalskord_ton": 1064630
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 48600,
+      "totalskord_ton": 2664300
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 4290,
+      "totalskord_ton": 1730340
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 2110,
+      "totalskord_ton": 46300
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 1510,
+      "totalskord_ton": 18700
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 4900,
+      "totalskord_ton": 264880
+    },
+    {
+      "groda": "ärter",
+      "ar": 2002,
+      "hektarskord_kg_per_ha": 3130,
+      "totalskord_ton": 84400
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 3470,
+      "totalskord_ton": 96470
+    },
+    {
+      "groda": "havre",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 3960,
+      "totalskord_ton": 1089480
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 4550,
+      "totalskord_ton": 28660
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 2860,
+      "totalskord_ton": 66700
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 1490,
+      "totalskord_ton": 1200
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 4580,
+      "totalskord_ton": 202720
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 5560,
+      "totalskord_ton": 2025370
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 25580,
+      "totalskord_ton": 560800
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 1850,
+      "totalskord_ton": 6900
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 34380,
+      "totalskord_ton": 296300
+    },
+    {
+      "groda": "råg",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 4860,
+      "totalskord_ton": 116730
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 2760,
+      "totalskord_ton": 2113220
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 4180,
+      "totalskord_ton": 3195040
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 1420,
+      "totalskord_ton": 1081830
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 49600,
+      "totalskord_ton": 2484400
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 4190,
+      "totalskord_ton": 1499660
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 1920,
+      "totalskord_ton": 51100
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 1360,
+      "totalskord_ton": 10500
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 4900,
+      "totalskord_ton": 230780
+    },
+    {
+      "groda": "ärter",
+      "ar": 2003,
+      "hektarskord_kg_per_ha": 3270,
+      "totalskord_ton": 79100
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 3640,
+      "totalskord_ton": 74700
+    },
+    {
+      "groda": "havre",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 4120,
+      "totalskord_ton": 925300
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 5610,
+      "totalskord_ton": 29500
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 3430,
+      "totalskord_ton": 128600
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 2230,
+      "totalskord_ton": 2800
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 5200,
+      "totalskord_ton": 270200
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 6180,
+      "totalskord_ton": 2159400
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 27610,
+      "totalskord_ton": 635300
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 2020,
+      "totalskord_ton": 11600
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 39720,
+      "totalskord_ton": 343800
+    },
+    {
+      "groda": "råg",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 5510,
+      "totalskord_ton": 133400
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 2750,
+      "totalskord_ton": 2071890
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 4180,
+      "totalskord_ton": 3159810
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 1440,
+      "totalskord_ton": 1087920
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 48000,
+      "totalskord_ton": 2287100
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 4300,
+      "totalskord_ton": 1662400
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 2240,
+      "totalskord_ton": 82300
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 1660,
+      "totalskord_ton": 13800
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 4740,
+      "totalskord_ton": 252900
+    },
+    {
+      "groda": "ärter",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 3300,
+      "totalskord_ton": 88000
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2004,
+      "hektarskord_kg_per_ha": 2260,
+      "totalskord_ton": 12400
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 3450,
+      "totalskord_ton": 80800
+    },
+    {
+      "groda": "havre",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 3870,
+      "totalskord_ton": 746300
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 5800,
+      "totalskord_ton": 31000
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 3230,
+      "totalskord_ton": 113100
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 1880,
+      "totalskord_ton": 2700
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 5420,
+      "totalskord_ton": 271500
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 6630,
+      "totalskord_ton": 1957000
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 28200,
+      "totalskord_ton": 622700
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 1600,
+      "totalskord_ton": 15700
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 38770,
+      "totalskord_ton": 324600
+    },
+    {
+      "groda": "råg",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 5270,
+      "totalskord_ton": 112300
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 2780,
+      "totalskord_ton": 2233120
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 4040,
+      "totalskord_ton": 3252660
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 1270,
+      "totalskord_ton": 1019450
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 48400,
+      "totalskord_ton": 2381200
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 4260,
+      "totalskord_ton": 1561900
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 1890,
+      "totalskord_ton": 72700
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 1370,
+      "totalskord_ton": 9700
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 4910,
+      "totalskord_ton": 289800
+    },
+    {
+      "groda": "ärter",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 2710,
+      "totalskord_ton": 65400
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2005,
+      "hektarskord_kg_per_ha": 2320,
+      "totalskord_ton": 14900
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 2720,
+      "totalskord_ton": 54700
+    },
+    {
+      "groda": "havre",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 3170,
+      "totalskord_ton": 624400
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 4750,
+      "totalskord_ton": 26900
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 3190,
+      "totalskord_ton": 151700
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 1520,
+      "totalskord_ton": 1700
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 4670,
+      "totalskord_ton": 255900
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 5660,
+      "totalskord_ton": 1795200
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 25990,
+      "totalskord_ton": 525300
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 1370,
+      "totalskord_ton": 11900
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 31690,
+      "totalskord_ton": 252500
+    },
+    {
+      "groda": "råg",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 4990,
+      "totalskord_ton": 115400
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 2480,
+      "totalskord_ton": 2024880
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 3720,
+      "totalskord_ton": 3033220
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 1240,
+      "totalskord_ton": 1008350
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 49600,
+      "totalskord_ton": 2189000
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 3600,
+      "totalskord_ton": 1083700
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 1700,
+      "totalskord_ton": 59700
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 1170,
+      "totalskord_ton": 7300
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 4030,
+      "totalskord_ton": 172200
+    },
+    {
+      "groda": "ärter",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 2630,
+      "totalskord_ton": 50800
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2006,
+      "hektarskord_kg_per_ha": 2130,
+      "totalskord_ton": 13000
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 3180,
+      "totalskord_ton": 59400
+    },
+    {
+      "groda": "havre",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 4370,
+      "totalskord_ton": 889800
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 5320,
+      "totalskord_ton": 44000
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 3040,
+      "totalskord_ton": 153100
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 1740,
+      "totalskord_ton": 1900
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 5160,
+      "totalskord_ton": 276100
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 6460,
+      "totalskord_ton": 2087800
+    },
+    {
+      "groda": "majs",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 5860,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 26300,
+      "totalskord_ton": 534700
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 1560,
+      "totalskord_ton": 6700
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 31660,
+      "totalskord_ton": 254300
+    },
+    {
+      "groda": "råg",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 5580,
+      "totalskord_ton": 137600
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 2730,
+      "totalskord_ton": 2271870
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 4180,
+      "totalskord_ton": 3468840
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 1440,
+      "totalskord_ton": 1196970
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 52600,
+      "totalskord_ton": 2137700
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 4460,
+      "totalskord_ton": 1395000
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 1910,
+      "totalskord_ton": 63000
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 1330,
+      "totalskord_ton": 4400
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 4470,
+      "totalskord_ton": 167900
+    },
+    {
+      "groda": "ärter",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 2850,
+      "totalskord_ton": 38000
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2007,
+      "hektarskord_kg_per_ha": 2100,
+      "totalskord_ton": 11300
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 3080,
+      "totalskord_ton": 58300
+    },
+    {
+      "groda": "havre",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 3680,
+      "totalskord_ton": 820000
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 5640,
+      "totalskord_ton": 58400
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 3340,
+      "totalskord_ton": 206300
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 1720,
+      "totalskord_ton": 1400
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 5600,
+      "totalskord_ton": 274100
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 6440,
+      "totalskord_ton": 2004600
+    },
+    {
+      "groda": "majs",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 6490,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 28490,
+      "totalskord_ton": 558200
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 1520,
+      "totalskord_ton": 5400
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 40440,
+      "totalskord_ton": 295000
+    },
+    {
+      "groda": "råg",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 6140,
+      "totalskord_ton": 168800
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 2230,
+      "totalskord_ton": 1942290
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 3950,
+      "totalskord_ton": 3436610
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 1720,
+      "totalskord_ton": 1494320
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 53700,
+      "totalskord_ton": 1974900
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 4150,
+      "totalskord_ton": 1613200
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 1980,
+      "totalskord_ton": 48200
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 1440,
+      "totalskord_ton": 3500
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 4030,
+      "totalskord_ton": 197600
+    },
+    {
+      "groda": "ärter",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 2720,
+      "totalskord_ton": 29100
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2008,
+      "hektarskord_kg_per_ha": 2190,
+      "totalskord_ton": 13700
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 3480,
+      "totalskord_ton": 67800
+    },
+    {
+      "groda": "havre",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 4000,
+      "totalskord_ton": 744200
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 5570,
+      "totalskord_ton": 101100
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 3540,
+      "totalskord_ton": 240300
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 4750,
+      "totalskord_ton": 252700
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 6310,
+      "totalskord_ton": 2060100
+    },
+    {
+      "groda": "majs",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 6400,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 28850,
+      "totalskord_ton": 568500
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 1900,
+      "totalskord_ton": 18900
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 39900,
+      "totalskord_ton": 289400
+    },
+    {
+      "groda": "råg",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 5960,
+      "totalskord_ton": 218400
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 2770,
+      "totalskord_ton": 2460160
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 4530,
+      "totalskord_ton": 4024700
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 1760,
+      "totalskord_ton": 1564540
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 60500,
+      "totalskord_ton": 2405800
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 4600,
+      "totalskord_ton": 1579800
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 1880,
+      "totalskord_ton": 54900
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 1320,
+      "totalskord_ton": 2800
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 4570,
+      "totalskord_ton": 217800
+    },
+    {
+      "groda": "ärter",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 3000,
+      "totalskord_ton": 48900
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2009,
+      "hektarskord_kg_per_ha": 3280,
+      "totalskord_ton": 26100
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 2990,
+      "totalskord_ton": 68600
+    },
+    {
+      "groda": "havre",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 3530,
+      "totalskord_ton": 559300
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 4640,
+      "totalskord_ton": 81200
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 3090,
+      "totalskord_ton": 222100
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 1840,
+      "totalskord_ton": 900
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 4420,
+      "totalskord_ton": 158700
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 5660,
+      "totalskord_ton": 1873100
+    },
+    {
+      "groda": "majs",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 5610,
+      "totalskord_ton": ""
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 27360,
+      "totalskord_ton": 542900
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 1250,
+      "totalskord_ton": 23600
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 37140,
+      "totalskord_ton": 273400
+    },
+    {
+      "groda": "råg",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 4870,
+      "totalskord_ton": 117600
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 2880,
+      "totalskord_ton": 2574140
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 4690,
+      "totalskord_ton": 4201390
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 1820,
+      "totalskord_ton": 1627250
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 52100,
+      "totalskord_ton": 1976200
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 3930,
+      "totalskord_ton": 1151100
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 1520,
+      "totalskord_ton": 54100
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 1130,
+      "totalskord_ton": 2500
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 4070,
+      "totalskord_ton": 269900
+    },
+    {
+      "groda": "ärter",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 2390,
+      "totalskord_ton": 54000
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2010,
+      "hektarskord_kg_per_ha": 2380,
+      "totalskord_ton": 31100
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 3060,
+      "totalskord_ton": 68900
+    },
+    {
+      "groda": "havre",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 3940,
+      "totalskord_ton": 692000
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 4600,
+      "totalskord_ton": 65200
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 3070,
+      "totalskord_ton": 173500
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 4460,
+      "totalskord_ton": 107200
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 5630,
+      "totalskord_ton": 1965800
+    },
+    {
+      "groda": "majs",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 8020,
+      "totalskord_ton": 16000
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 29130,
+      "totalskord_ton": 584000
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 1570,
+      "totalskord_ton": 23000
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 39130,
+      "totalskord_ton": 298000
+    },
+    {
+      "groda": "råg",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 5290,
+      "totalskord_ton": 126500
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 2560,
+      "totalskord_ton": 2342760
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 4210,
+      "totalskord_ton": 3863550
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 1650,
+      "totalskord_ton": 1520700
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 62900,
+      "totalskord_ton": 2493200
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 4350,
+      "totalskord_ton": 1343900
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 2050,
+      "totalskord_ton": 74000
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 1340,
+      "totalskord_ton": 2300
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 3980,
+      "totalskord_ton": 260900
+    },
+    {
+      "groda": "ärter",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 2690,
+      "totalskord_ton": 42800
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2011,
+      "hektarskord_kg_per_ha": 3330,
+      "totalskord_ton": 53000
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 2980,
+      "totalskord_ton": 53400
+    },
+    {
+      "groda": "havre",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 3820,
+      "totalskord_ton": 731200
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 6600,
+      "totalskord_ton": 60300
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 3700,
+      "totalskord_ton": 228800
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 1650,
+      "totalskord_ton": 1300
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 5920,
+      "totalskord_ton": 140400
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 6820,
+      "totalskord_ton": 1933800
+    },
+    {
+      "groda": "majs",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 6290,
+      "totalskord_ton": 14600
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 29370,
+      "totalskord_ton": 549400
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 1410,
+      "totalskord_ton": 12400
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 42540,
+      "totalskord_ton": 256000
+    },
+    {
+      "groda": "råg",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 6360,
+      "totalskord_ton": 139900
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 2920,
+      "totalskord_ton": 2609630
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 4440,
+      "totalskord_ton": 3967500
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 1520,
+      "totalskord_ton": 1357880
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 59300,
+      "totalskord_ton": 2314200
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 4560,
+      "totalskord_ton": 1641400
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 1960,
+      "totalskord_ton": 89000
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 1370,
+      "totalskord_ton": 2800
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 4290,
+      "totalskord_ton": 355500
+    },
+    {
+      "groda": "ärter",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 2730,
+      "totalskord_ton": 35100
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2012,
+      "hektarskord_kg_per_ha": 3240,
+      "totalskord_ton": 58200
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 3740,
+      "totalskord_ton": 71300
+    },
+    {
+      "groda": "havre",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 4370,
+      "totalskord_ton": 851500
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 5750,
+      "totalskord_ton": 78100
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 3230,
+      "totalskord_ton": 231400
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 4880,
+      "totalskord_ton": 111700
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 6310,
+      "totalskord_ton": 1319000
+    },
+    {
+      "groda": "majs",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 5990,
+      "totalskord_ton": 7400
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 30980,
+      "totalskord_ton": 551700
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 1990,
+      "totalskord_ton": 9600
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 41930,
+      "totalskord_ton": 254400
+    },
+    {
+      "groda": "råg",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 5680,
+      "totalskord_ton": 142000
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 2610,
+      "totalskord_ton": 2377660
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 4140,
+      "totalskord_ton": 3784640
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 1540,
+      "totalskord_ton": 1406980
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 64200,
+      "totalskord_ton": 2326200
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 4980,
+      "totalskord_ton": 1862000
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 1890,
+      "totalskord_ton": 96100
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 1370,
+      "totalskord_ton": 3700
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 4800,
+      "totalskord_ton": 549600
+    },
+    {
+      "groda": "ärter",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 3340,
+      "totalskord_ton": 40800
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2013,
+      "hektarskord_kg_per_ha": 3510,
+      "totalskord_ton": 61300
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 3180,
+      "totalskord_ton": 48900
+    },
+    {
+      "groda": "havre",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 4170,
+      "totalskord_ton": 665900
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 6430,
+      "totalskord_ton": 85800
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 3730,
+      "totalskord_ton": 296600
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 1700,
+      "totalskord_ton": 1300
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 5930,
+      "totalskord_ton": 226400
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 7250,
+      "totalskord_ton": 2750800
+    },
+    {
+      "groda": "majs",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 7400,
+      "totalskord_ton": 7100
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 31270,
+      "totalskord_ton": 551600
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 1680,
+      "totalskord_ton": 11000
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 44040,
+      "totalskord_ton": 270500
+    },
+    {
+      "groda": "råg",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 6450,
+      "totalskord_ton": 173600
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 2920,
+      "totalskord_ton": 2566960
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 4970,
+      "totalskord_ton": 4362790
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 2050,
+      "totalskord_ton": 1795830
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 73500,
+      "totalskord_ton": 2517800
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 4710,
+      "totalskord_ton": 1488400
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 1820,
+      "totalskord_ton": 26100
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 1070,
+      "totalskord_ton": 1400
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 4530,
+      "totalskord_ton": 335600
+    },
+    {
+      "groda": "ärter",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 3220,
+      "totalskord_ton": 46500
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2014,
+      "hektarskord_kg_per_ha": 3240,
+      "totalskord_ton": 61100
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 3560,
+      "totalskord_ton": 52000
+    },
+    {
+      "groda": "havre",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 4610,
+      "totalskord_ton": 744700
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 6180,
+      "totalskord_ton": 96100
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 3940,
+      "totalskord_ton": 347300
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 1870,
+      "totalskord_ton": 1600
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 6010,
+      "totalskord_ton": 231300
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 7570,
+      "totalskord_ton": 2984800
+    },
+    {
+      "groda": "majs",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 5760,
+      "totalskord_ton": 6400
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 31530,
+      "totalskord_ton": 525200
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 1960,
+      "totalskord_ton": 13900
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 42960,
+      "totalskord_ton": 277300
+    },
+    {
+      "groda": "råg",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 6340,
+      "totalskord_ton": 149200
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 3200,
+      "totalskord_ton": 2760430
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 5210,
+      "totalskord_ton": 4494140
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 2010,
+      "totalskord_ton": 1733710
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 60800,
+      "totalskord_ton": 1178300
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 5200,
+      "totalskord_ton": 1576200
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 2040,
+      "totalskord_ton": 9200
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 1240,
+      "totalskord_ton": 1200
+    },
+    {
+      "groda": "vårrågvete",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 3640,
+      "totalskord_ton": 12500
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 5000,
+      "totalskord_ton": 315600
+    },
+    {
+      "groda": "ärter",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 3710,
+      "totalskord_ton": 83100
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2015,
+      "hektarskord_kg_per_ha": 3960,
+      "totalskord_ton": 99100
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 3730,
+      "totalskord_ton": 55400
+    },
+    {
+      "groda": "havre",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 4450,
+      "totalskord_ton": 771500
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 5780,
+      "totalskord_ton": 110300
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 3000,
+      "totalskord_ton": 250200
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 1520,
+      "totalskord_ton": 1500
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 5410,
+      "totalskord_ton": 148700
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 6680,
+      "totalskord_ton": 2502100
+    },
+    {
+      "groda": "majs",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 8030,
+      "totalskord_ton": 13800
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 31810,
+      "totalskord_ton": 551500
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 1990,
+      "totalskord_ton": 16800
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 45060,
+      "totalskord_ton": 309800
+    },
+    {
+      "groda": "råg",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 6120,
+      "totalskord_ton": 101600
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 2940,
+      "totalskord_ton": 2367890
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 4910,
+      "totalskord_ton": 3952640
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 1970,
+      "totalskord_ton": 1584750
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 65000,
+      "totalskord_ton": 1988000
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 4760,
+      "totalskord_ton": 1427600
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 2090,
+      "totalskord_ton": 15500
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 1220,
+      "totalskord_ton": 1300
+    },
+    {
+      "groda": "vårrågvete",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 3770,
+      "totalskord_ton": 10000
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 4540,
+      "totalskord_ton": 339500
+    },
+    {
+      "groda": "ärter",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 3680,
+      "totalskord_ton": 92700
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2016,
+      "hektarskord_kg_per_ha": 3520,
+      "totalskord_ton": 103900
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 3450,
+      "totalskord_ton": 41100
+    },
+    {
+      "groda": "havre",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 4490,
+      "totalskord_ton": 676400
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 6420,
+      "totalskord_ton": 123100
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 3430,
+      "totalskord_ton": 361300
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 1390,
+      "totalskord_ton": 1400
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 5970,
+      "totalskord_ton": 150300
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 7360,
+      "totalskord_ton": 3000000
+    },
+    {
+      "groda": "majs",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 7330,
+      "totalskord_ton": 8800
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 30840,
+      "totalskord_ton": 527000
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 1720,
+      "totalskord_ton": 7800
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 43530,
+      "totalskord_ton": 325500
+    },
+    {
+      "groda": "råg",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 6660,
+      "totalskord_ton": 141800
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 3060,
+      "totalskord_ton": 2443630
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 5110,
+      "totalskord_ton": 4074130
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 2040,
+      "totalskord_ton": 1630500
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 63200,
+      "totalskord_ton": 1963500
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 5210,
+      "totalskord_ton": 1512100
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 1960,
+      "totalskord_ton": 13000
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 1420,
+      "totalskord_ton": 1600
+    },
+    {
+      "groda": "vårrågvete",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 3490,
+      "totalskord_ton": 6200
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 4640,
+      "totalskord_ton": 298600
+    },
+    {
+      "groda": "ärter",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 3450,
+      "totalskord_ton": 82200
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2017,
+      "hektarskord_kg_per_ha": 3590,
+      "totalskord_ton": 109400
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 2280,
+      "totalskord_ton": 22200
+    },
+    {
+      "groda": "havre",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 2570,
+      "totalskord_ton": 363500
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 3770,
+      "totalskord_ton": 54500
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 2340,
+      "totalskord_ton": 202700
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 870,
+      "totalskord_ton": 600
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 4020,
+      "totalskord_ton": 64200
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 4790,
+      "totalskord_ton": 1399900
+    },
+    {
+      "groda": "majs",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 4180,
+      "totalskord_ton": 4600
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 28080,
+      "totalskord_ton": 449100
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 1110,
+      "totalskord_ton": 4000
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 34570,
+      "totalskord_ton": 273900
+    },
+    {
+      "groda": "råg",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 4510,
+      "totalskord_ton": 88200
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 2200,
+      "totalskord_ton": 1920500
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 3770,
+      "totalskord_ton": 3286400
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 1570,
+      "totalskord_ton": 1365900
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 55300,
+      "totalskord_ton": 1698400
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 3000,
+      "totalskord_ton": 1039900
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 1470,
+      "totalskord_ton": 13200
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 1070,
+      "totalskord_ton": 1200
+    },
+    {
+      "groda": "vårrågvete",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 2430,
+      "totalskord_ton": 2700
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 2760,
+      "totalskord_ton": 220400
+    },
+    {
+      "groda": "ärter",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 2260,
+      "totalskord_ton": 48900
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2018,
+      "hektarskord_kg_per_ha": 1330,
+      "totalskord_ton": 34800
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 3440,
+      "totalskord_ton": 42300
+    },
+    {
+      "groda": "havre",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 4760,
+      "totalskord_ton": 671200
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 6830,
+      "totalskord_ton": 140400
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 3740,
+      "totalskord_ton": 372800
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 1220,
+      "totalskord_ton": 1400
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 6440,
+      "totalskord_ton": 174800
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 7730,
+      "totalskord_ton": 3262800
+    },
+    {
+      "groda": "majs",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 6960,
+      "totalskord_ton": 11300
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 32980,
+      "totalskord_ton": 537000
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 1960,
+      "totalskord_ton": 4300
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 42080,
+      "totalskord_ton": 309900
+    },
+    {
+      "groda": "råg",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 6760,
+      "totalskord_ton": 221300
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 3280,
+      "totalskord_ton": 2831700
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 5240,
+      "totalskord_ton": 4515200
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 1950,
+      "totalskord_ton": 1683500
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 74000,
+      "totalskord_ton": 2028900
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 5180,
+      "totalskord_ton": 1406100
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 1740,
+      "totalskord_ton": 6200
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 990,
+      "totalskord_ton": 1100
+    },
+    {
+      "groda": "vårrågvete",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 4130,
+      "totalskord_ton": 3500
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 4520,
+      "totalskord_ton": 214000
+    },
+    {
+      "groda": "ärter",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 3380,
+      "totalskord_ton": 69300
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2019,
+      "hektarskord_kg_per_ha": 3310,
+      "totalskord_ton": 60200
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 3800,
+      "totalskord_ton": 49900
+    },
+    {
+      "groda": "havre",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 4530,
+      "totalskord_ton": 807600
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 6540,
+      "totalskord_ton": 133600
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 3560,
+      "totalskord_ton": 327700
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 1700,
+      "totalskord_ton": 1600
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 6120,
+      "totalskord_ton": 162200
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 7450,
+      "totalskord_ton": 2990200
+    },
+    {
+      "groda": "majs",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 6770,
+      "totalskord_ton": 12500
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 33260,
+      "totalskord_ton": 536600
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 1600,
+      "totalskord_ton": 3600
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 42900,
+      "totalskord_ton": 340600
+    },
+    {
+      "groda": "råg",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 6200,
+      "totalskord_ton": 189600
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 2940,
+      "totalskord_ton": 2460900
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 5090,
+      "totalskord_ton": 4267000
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 2160,
+      "totalskord_ton": 1806100
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 68000,
+      "totalskord_ton": 2027100
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 5070,
+      "totalskord_ton": 1379900
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 2170,
+      "totalskord_ton": 9000
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 1050,
+      "totalskord_ton": 1000
+    },
+    {
+      "groda": "vårrågvete",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 3840,
+      "totalskord_ton": 4900
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 4670,
+      "totalskord_ton": 224100
+    },
+    {
+      "groda": "ärter",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 3330,
+      "totalskord_ton": 72800
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2020,
+      "hektarskord_kg_per_ha": 2970,
+      "totalskord_ton": 58400
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 2760,
+      "totalskord_ton": 28200
+    },
+    {
+      "groda": "havre",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 3310,
+      "totalskord_ton": 551200
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 5570,
+      "totalskord_ton": 125800
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 3380,
+      "totalskord_ton": 328100
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 1390,
+      "totalskord_ton": 1600
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 5280,
+      "totalskord_ton": 148600
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 6600,
+      "totalskord_ton": 2877700
+    },
+    {
+      "groda": "majs",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 8520,
+      "totalskord_ton": 14900
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 30620,
+      "totalskord_ton": 457400
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 1490,
+      "totalskord_ton": 5500
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 41840,
+      "totalskord_ton": 368600
+    },
+    {
+      "groda": "råg",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 5710,
+      "totalskord_ton": 144500
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 3170,
+      "totalskord_ton": 2598100
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 5240,
+      "totalskord_ton": 4303600
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 2080,
+      "totalskord_ton": 1705500
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 71500,
+      "totalskord_ton": 2046600
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 3770,
+      "totalskord_ton": 934600
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 1920,
+      "totalskord_ton": 12500
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 1020,
+      "totalskord_ton": 1300
+    },
+    {
+      "groda": "vårrågvete",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 3100,
+      "totalskord_ton": 4700
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 3510,
+      "totalskord_ton": 150100
+    },
+    {
+      "groda": "ärter",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 2540,
+      "totalskord_ton": 55900
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2021,
+      "hektarskord_kg_per_ha": 2410,
+      "totalskord_ton": 48800
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 3810,
+      "totalskord_ton": 46300
+    },
+    {
+      "groda": "havre",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 4780,
+      "totalskord_ton": 734800
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 6150,
+      "totalskord_ton": 130200
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 3510,
+      "totalskord_ton": 387600
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 1110,
+      "totalskord_ton": 500
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 5750,
+      "totalskord_ton": 154800
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 7220,
+      "totalskord_ton": 3018000
+    },
+    {
+      "groda": "majs",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 6920,
+      "totalskord_ton": 12200
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 33520,
+      "totalskord_ton": 499900
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 1710,
+      "totalskord_ton": 8700
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 41460,
+      "totalskord_ton": 352300
+    },
+    {
+      "groda": "råg",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 6230,
+      "totalskord_ton": 129200
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 3070,
+      "totalskord_ton": 2576300
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 4820,
+      "totalskord_ton": 4041500
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 1750,
+      "totalskord_ton": 1465200
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 64700,
+      "totalskord_ton": 1892500
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 5440,
+      "totalskord_ton": 1379300
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 2540,
+      "totalskord_ton": 36900
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 1240,
+      "totalskord_ton": 2500
+    },
+    {
+      "groda": "vårrågvete",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 4530,
+      "totalskord_ton": 7700
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 4810,
+      "totalskord_ton": 210700
+    },
+    {
+      "groda": "ärter",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 3610,
+      "totalskord_ton": 86000
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2022,
+      "hektarskord_kg_per_ha": 3550,
+      "totalskord_ton": 78600
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 2660,
+      "totalskord_ton": 17500
+    },
+    {
+      "groda": "havre",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 2950,
+      "totalskord_ton": 411500
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 5180,
+      "totalskord_ton": 98100
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 2560,
+      "totalskord_ton": 277300
+    },
+    {
+      "groda": "höstrybs",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 1140,
+      "totalskord_ton": 600
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 4230,
+      "totalskord_ton": 115400
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 5750,
+      "totalskord_ton": 2635900
+    },
+    {
+      "groda": "majs",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 7960,
+      "totalskord_ton": 15700
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 31750,
+      "totalskord_ton": 458900
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 1110,
+      "totalskord_ton": 4000
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 43660,
+      "totalskord_ton": 351000
+    },
+    {
+      "groda": "råg",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 5210,
+      "totalskord_ton": 139400
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 2130,
+      "totalskord_ton": 1768700
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 4750,
+      "totalskord_ton": 3945900
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 2620,
+      "totalskord_ton": 2177200
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 60400,
+      "totalskord_ton": 1743600
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 3150,
+      "totalskord_ton": 757400
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 2120,
+      "totalskord_ton": 25700
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 1030,
+      "totalskord_ton": 1200
+    },
+    {
+      "groda": "vårrågvete",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 2580,
+      "totalskord_ton": 4800
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 2710,
+      "totalskord_ton": 132300
+    },
+    {
+      "groda": "ärter",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 2050,
+      "totalskord_ton": 54900
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2023,
+      "hektarskord_kg_per_ha": 2420,
+      "totalskord_ton": 48300
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 3230,
+      "totalskord_ton": 37000
+    },
+    {
+      "groda": "havre",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 3950,
+      "totalskord_ton": 622500
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 5610,
+      "totalskord_ton": 111000
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 3190,
+      "totalskord_ton": 239300
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 5280,
+      "totalskord_ton": 117600
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 6540,
+      "totalskord_ton": 2708400
+    },
+    {
+      "groda": "majs",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 6760,
+      "totalskord_ton": 15500
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 32900,
+      "totalskord_ton": 476500
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 1840,
+      "totalskord_ton": 4000
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 44400,
+      "totalskord_ton": 404000
+    },
+    {
+      "groda": "råg",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 5660,
+      "totalskord_ton": 155500
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 3130,
+      "totalskord_ton": 2603600
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 5610,
+      "totalskord_ton": 4666800
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 2480,
+      "totalskord_ton": 2063200
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 74400,
+      "totalskord_ton": 2119000
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 4360,
+      "totalskord_ton": 1152900
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 2400,
+      "totalskord_ton": 42800
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 1170,
+      "totalskord_ton": 1500
+    },
+    {
+      "groda": "vårrågvete",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 3410,
+      "totalskord_ton": 7100
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 3630,
+      "totalskord_ton": 222200
+    },
+    {
+      "groda": "ärter",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 2890,
+      "totalskord_ton": 74000
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2024,
+      "hektarskord_kg_per_ha": 3190,
+      "totalskord_ton": 51700
+    },
+    {
+      "groda": "blandsäd",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 3970,
+      "totalskord_ton": 34200
+    },
+    {
+      "groda": "havre",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 4890,
+      "totalskord_ton": 718600
+    },
+    {
+      "groda": "höstkorn",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 6970,
+      "totalskord_ton": 151600
+    },
+    {
+      "groda": "höstraps",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 3810,
+      "totalskord_ton": 363500
+    },
+    {
+      "groda": "höstrågvete",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 6010,
+      "totalskord_ton": 189800
+    },
+    {
+      "groda": "höstvete",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 7610,
+      "totalskord_ton": 3581800
+    },
+    {
+      "groda": "majs",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 7280,
+      "totalskord_ton": 17800
+    },
+    {
+      "groda": "matpotatis",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 35130,
+      "totalskord_ton": 546000
+    },
+    {
+      "groda": "oljelin",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 2020,
+      "totalskord_ton": 4200
+    },
+    {
+      "groda": "potatis för stärkelse",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 43130,
+      "totalskord_ton": 454600
+    },
+    {
+      "groda": "råg",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 6310,
+      "totalskord_ton": 183600
+    },
+    {
+      "groda": "slåttervall, första skörd",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 3030,
+      "totalskord_ton": 2537800
+    },
+    {
+      "groda": "slåttervall, totalt",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 5310,
+      "totalskord_ton": 4442300
+    },
+    {
+      "groda": "slåttervall, återväxt",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 2280,
+      "totalskord_ton": 1904500
+    },
+    {
+      "groda": "sockerbetor",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 80100,
+      "totalskord_ton": 2036900
+    },
+    {
+      "groda": "vårkorn",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 5690,
+      "totalskord_ton": 1308100
+    },
+    {
+      "groda": "vårraps",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 2460,
+      "totalskord_ton": 35900
+    },
+    {
+      "groda": "vårrybs",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 1270,
+      "totalskord_ton": 1100
+    },
+    {
+      "groda": "vårrågvete",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 4290,
+      "totalskord_ton": 9300
+    },
+    {
+      "groda": "vårvete",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 4700,
+      "totalskord_ton": 243100
+    },
+    {
+      "groda": "ärter",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 3640,
+      "totalskord_ton": 85000
+    },
+    {
+      "groda": "åkerbönor",
+      "ar": 2025,
+      "hektarskord_kg_per_ha": 3780,
+      "totalskord_ton": 56600
+    }
+  ],
+  "meta": {
+    "title": "Skördar i Sverige efter gröda sedan 1965 - Free Download",
+    "description": "Hektarskörd (kg per hektar) och totalskörd (ton) för spannmål, trindsäd, oljeväxter, potatis, sockerbetor och slåttervall i hela riket, årligen från 1965 (Jordbruksverket/SCB). Contains 1107 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Skördar i Sverige efter gröda sedan 1965 | ListBase",
+    "seo_description": "Download Skördar i Sverige efter gröda sedan 1965 — 1107 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1107 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__JO__JO0601/SkordarL2/"
+    ]
+  }
+}

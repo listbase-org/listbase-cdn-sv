@@ -1,12 +1,12 @@
 {
   "lang": "sv",
-  "generated": "2026-11-13T02:29:50.407Z",
-  "total_datasets": 552,
-  "total_records": 2272546,
+  "generated": "2026-11-13T02:30:00.737Z",
+  "total_datasets": 553,
+  "total_records": 2273653,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -199,6 +199,31 @@
         "xlsx": {
           "name": "sv-renskotsel-statistik_SV.xlsx",
           "size": 6956
+        }
+      }
+    },
+    {
+      "id": "sv-skordar-efter-groda",
+      "name": "Skördar i Sverige efter gröda sedan 1965",
+      "category": "agriculture",
+      "record_count": 1107,
+      "columns": [
+        "groda",
+        "ar",
+        "hektarskord_kg_per_ha",
+        "totalskord_ton"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__JO__JO0601/SkordarL2/",
+      "updated": "2026-11",
+      "size": 144925,
+      "files": {
+        "csv": {
+          "name": "sv-skordar-efter-groda_SV.csv",
+          "size": 41190
+        },
+        "xlsx": {
+          "name": "sv-skordar-efter-groda_SV.xlsx",
+          "size": 31011
         }
       }
     },
