@@ -1,0 +1,2830 @@
+{
+  "id": "sv-statliga-fou-anslag-efter-socioekonomiskt-mal",
+  "name": "Statliga budgetanslag för forskning och utveckling efter samhällsmål",
+  "title": "Statliga budgetanslag för forskning och utveckling efter samhällsmål",
+  "description": "Statens budgetanslag för FoU i miljoner kronor fördelade på socioekonomiska mål enligt NABS 2007 (miljö, energi, hälsa, rymd, försvar m.m.) per år sedan 2011, från SCB.",
+  "category": "science",
+  "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__UF__UF0306__UF0306A/GBARDDepNABS/",
+  "source_url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__UF__UF0306__UF0306A/GBARDDepNABS/",
+  "updated": "2026-11",
+  "record_count": 464,
+  "columns": [
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "malkod",
+      "label": "Malkod",
+      "type": "string"
+    },
+    {
+      "key": "socioekonomiskt_mal",
+      "label": "Socioekonomiskt Mal",
+      "type": "string"
+    },
+    {
+      "key": "fou_anslag_mnkr",
+      "label": "Fou Anslag Mnkr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ar": 2011,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 202
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 563
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 97
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 1339
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1524
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 656
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 395
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 466
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 51
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 69
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 763
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 12708
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 2514
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 1847
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 4931
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 578
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 1765
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 829
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 244
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 7439
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 1727
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 1723
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 1410
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 102
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 704
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 276
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 1496
+    },
+    {
+      "ar": 2011,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 2260
+    },
+    {
+      "ar": 2011,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 28531
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 174
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 604
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 642
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 1412
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1537
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 614
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 389
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 506
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 53
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 72
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 866
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 14950
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 2796
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 3121
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 5208
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 573
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 1999
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 930
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 322
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 6398
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 1654
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 851
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 1412
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 27
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 659
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 298
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 1497
+    },
+    {
+      "ar": 2012,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 2510
+    },
+    {
+      "ar": 2012,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 30727
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 118
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 656
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 590
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 1559
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1252
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 822
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 547
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 458
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 50
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 42
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 756
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 15663
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 2813
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 3278
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 5453
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 622
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2069
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 932
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 495
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 6996
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 1802
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 959
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 1503
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 27
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 766
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 389
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 1549
+    },
+    {
+      "ar": 2013,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 1261
+    },
+    {
+      "ar": 2013,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 30770
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 115
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 632
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 571
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 1611
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1389
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 892
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 550
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 489
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 55
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 46
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 855
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 16370
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 2947
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 3410
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 5766
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 628
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2181
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 1036
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 403
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 8063
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 1916
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 1017
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 1598
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 29
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 814
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 364
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 2325
+    },
+    {
+      "ar": 2014,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 1234
+    },
+    {
+      "ar": 2014,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 32871
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 314
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 490
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 272
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 1645
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1341
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 1209
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 684
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 436
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 65
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 73
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 757
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 16578
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 4036
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 2527
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 6074
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 679
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2246
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 1002
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 10
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 8160
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 2723
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 732
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 2020
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 359
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 1185
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 404
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 737
+    },
+    {
+      "ar": 2015,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 1108
+    },
+    {
+      "ar": 2015,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 33132
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 325
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 535
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 280
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 1801
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1559
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 1284
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 755
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 491
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 91
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 80
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 785
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 17173
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 4183
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 2656
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 6223
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 713
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2338
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 1044
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 16
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 8056
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 2695
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 747
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 2029
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 298
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 1165
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 422
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 701
+    },
+    {
+      "ar": 2016,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 1175
+    },
+    {
+      "ar": 2016,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 34389
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 420
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 501
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 329
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 1738
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1582
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 1211
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 797
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 465
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 194
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 43
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 1919
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 17398
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 3869
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 2697
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 6422
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 1043
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2345
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 1006
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 16
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 8330
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 3010
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 700
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 2400
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 35
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 1084
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 396
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 705
+    },
+    {
+      "ar": 2017,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 785
+    },
+    {
+      "ar": 2017,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 35711
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 424
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 482
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 339
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 1708
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1637
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 1234
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 830
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 439
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 203
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 68
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 1012
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 18217
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 4008
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 2795
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 6663
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 1095
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2559
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 1074
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 23
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 8759
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 3149
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 722
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 2535
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 36
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 1105
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 412
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 800
+    },
+    {
+      "ar": 2018,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 861
+    },
+    {
+      "ar": 2018,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 36212
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 413
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 648
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 360
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 1647
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1569
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 1635
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 888
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 483
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 204
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 69
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 1021
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 18425
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 4263
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 2744
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 6647
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 1066
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2471
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 1200
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 33
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 8612
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 2555
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 656
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 2183
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 30
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2080
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 400
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 708
+    },
+    {
+      "ar": 2019,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 1045
+    },
+    {
+      "ar": 2019,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 37017
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 471
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 681
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 416
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 1754
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1713
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 1659
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 867
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 515
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 201
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 69
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 979
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 19468
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 4513
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 2974
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 6964
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 1098
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2624
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 1263
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 33
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 8706
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 2549
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 655
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 2174
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 30
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2088
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 402
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 808
+    },
+    {
+      "ar": 2020,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 969
+    },
+    {
+      "ar": 2020,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 38466
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 788
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 985
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 338
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 2283
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1600
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 996
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 1053
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 808
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 271
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 51
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 1063
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 21190
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 4587
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 2975
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 6139
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 1181
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 3179
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 1867
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 1263
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 10329
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 3503
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 897
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 2841
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 61
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 1321
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 558
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 1148
+    },
+    {
+      "ar": 2021,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 938
+    },
+    {
+      "ar": 2021,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 42693
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 801
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 1076
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 347
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 2455
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 1771
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 1300
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 1154
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 836
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 364
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 81
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 1028
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 20922
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 4867
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 3190
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 6357
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 1178
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 3368
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 1962
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 0
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 10320
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 3660
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 1709
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 2873
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 63
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 1449
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 567
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": 0
+    },
+    {
+      "ar": 2022,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 1057
+    },
+    {
+      "ar": 2022,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 43512
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 545
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 1114
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 1167
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 2031
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 2648
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 835
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 3270
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 567
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 383
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 119
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 575
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 19361
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 5259
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 3105
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 4438
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 1238
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 3492
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 1828
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": ""
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 10844
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 3653
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 2077
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 2688
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 70
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 1828
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 527
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": ""
+    },
+    {
+      "ar": 2023,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 1403
+    },
+    {
+      "ar": 2023,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 44861
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 536
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 1116
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 1105
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 2101
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 2779
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 858
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 3301
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 561
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 369
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 128
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 593
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 20002
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 5433
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 3217
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 4576
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 1284
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 3605
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 1887
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": ""
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 11437
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 3883
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 2174
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 2851
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 69
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 1913
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 548
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": ""
+    },
+    {
+      "ar": 2024,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 1644
+    },
+    {
+      "ar": 2024,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 46530
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 558
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 1145
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 1145
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 2194
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 2776
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 888
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 3390
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 598
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 367
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 128
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 615
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 21048
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 5697
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 3383
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 4802
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 1358
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 3807
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 2002
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": ""
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 11996
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 4084
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 2242
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 3012
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 72
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2014
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 571
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": ""
+    },
+    {
+      "ar": 2025,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 1978
+    },
+    {
+      "ar": 2025,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 48827
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS01",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av jorden",
+      "fou_anslag_mnkr": 588
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS02",
+      "socioekonomiskt_mal": "Miljö",
+      "fou_anslag_mnkr": 1171
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS03",
+      "socioekonomiskt_mal": "Utforskande och utnyttjande av rymden",
+      "fou_anslag_mnkr": 1252
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS04",
+      "socioekonomiskt_mal": "Transport, telekommunikationer och annan infrastruktur",
+      "fou_anslag_mnkr": 2233
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS05",
+      "socioekonomiskt_mal": "Energi",
+      "fou_anslag_mnkr": 2281
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS06",
+      "socioekonomiskt_mal": "Industriell produktion och teknik",
+      "fou_anslag_mnkr": 983
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS07",
+      "socioekonomiskt_mal": "Hälsa",
+      "fou_anslag_mnkr": 3491
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS08",
+      "socioekonomiskt_mal": "Jordruk",
+      "fou_anslag_mnkr": 610
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS09",
+      "socioekonomiskt_mal": "Utbildning",
+      "fou_anslag_mnkr": 324
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS10",
+      "socioekonomiskt_mal": "Kultur, rekreation, religion och massmedia",
+      "fou_anslag_mnkr": 131
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS11",
+      "socioekonomiskt_mal": "Politiska och sociala system, strukturer och processer",
+      "fou_anslag_mnkr": 624
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS12",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 21581
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS121",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 5848
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS122",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 3558
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS123",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 4907
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS124",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 1388
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS125",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 3858
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS126",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 2020
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS12X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": ""
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS13",
+      "socioekonomiskt_mal": "Allmän vetenskaplig utveckling: FoU finansierat av andra anslag än statliga ramanslag till universitet och högskolor",
+      "fou_anslag_mnkr": 11711
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS131",
+      "socioekonomiskt_mal": "därav FoU inom naturvetenskap",
+      "fou_anslag_mnkr": 3960
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS132",
+      "socioekonomiskt_mal": "därav FoU inom teknik",
+      "fou_anslag_mnkr": 2172
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS133",
+      "socioekonomiskt_mal": "därav FoU inom medicin och hälsovetenskap",
+      "fou_anslag_mnkr": 2910
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS134",
+      "socioekonomiskt_mal": "därav FoU inom lantbruksvetenskap och veterinärmedicin",
+      "fou_anslag_mnkr": 72
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS135",
+      "socioekonomiskt_mal": "därav FoU inom samhällsvetenskap",
+      "fou_anslag_mnkr": 2043
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS136",
+      "socioekonomiskt_mal": "därav FoU inom humanoria och konst",
+      "fou_anslag_mnkr": 554
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS13X",
+      "socioekonomiskt_mal": "därav FoU som inte är fördelat på forskningsämnesområde",
+      "fou_anslag_mnkr": ""
+    },
+    {
+      "ar": 2026,
+      "malkod": "NABS14",
+      "socioekonomiskt_mal": "Försvar",
+      "fou_anslag_mnkr": 2370
+    },
+    {
+      "ar": 2026,
+      "malkod": "TOTAL",
+      "socioekonomiskt_mal": "Totala statliga budgetanslag för FoU",
+      "fou_anslag_mnkr": 49349
+    }
+  ],
+  "meta": {
+    "title": "Statliga budgetanslag för forskning och utveckling efter samhällsmål - Free Download",
+    "description": "Statens budgetanslag för FoU i miljoner kronor fördelade på socioekonomiska mål enligt NABS 2007 (miljö, energi, hälsa, rymd, försvar m.m.) per år sedan 2011, från SCB. Contains 464 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Statliga budgetanslag för forskning och utveckling efter samhällsmål | ListBase",
+    "seo_description": "Download Statliga budgetanslag för forskning och utveckling efter samhällsmål — 464 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 464 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__UF__UF0306__UF0306A/GBARDDepNABS/"
+    ]
+  }
+}

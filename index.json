@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-14T02:24:51.802Z",
-  "total_datasets": 555,
-  "total_records": 2273935,
+  "generated": "2026-11-14T02:25:02.656Z",
+  "total_datasets": 556,
+  "total_records": 2274399,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -12434,6 +12434,31 @@
         "xlsx": {
           "name": "sv-regso_SV.xlsx",
           "size": 118423
+        }
+      }
+    },
+    {
+      "id": "sv-statliga-fou-anslag-efter-socioekonomiskt-mal",
+      "name": "Statliga budgetanslag för forskning och utveckling efter samhällsmål",
+      "category": "science",
+      "record_count": 464,
+      "columns": [
+        "ar",
+        "malkod",
+        "socioekonomiskt_mal",
+        "fou_anslag_mnkr"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__UF__UF0306__UF0306A/GBARDDepNABS/",
+      "updated": "2026-11",
+      "size": 75625,
+      "files": {
+        "csv": {
+          "name": "sv-statliga-fou-anslag-efter-socioekonomiskt-mal_SV.csv",
+          "size": 30019
+        },
+        "xlsx": {
+          "name": "sv-statliga-fou-anslag-efter-socioekonomiskt-mal_SV.xlsx",
+          "size": 16882
         }
       }
     },
