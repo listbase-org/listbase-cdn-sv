@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-13T02:30:00.737Z",
-  "total_datasets": 553,
-  "total_records": 2273653,
+  "generated": "2026-11-14T02:24:40.269Z",
+  "total_datasets": 554,
+  "total_records": 2273873,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -12298,6 +12298,37 @@
         "xlsx": {
           "name": "sv-forskningsinstitut_SV.xlsx",
           "size": 10127
+        }
+      }
+    },
+    {
+      "id": "sv-fou-utgifter-per-lan",
+      "name": "Utgifter för forskning och utveckling per län",
+      "category": "science",
+      "record_count": 220,
+      "columns": [
+        "ar",
+        "region",
+        "samtliga_sektorer_mnkr",
+        "foretagssektorn_mnkr",
+        "offentliga_sektorn_mnkr",
+        "statliga_myndigheter_mnkr",
+        "regioner_mnkr",
+        "kommuner_mnkr",
+        "universitet_hogskolor_mnkr",
+        "privata_icke_vinstdrivande_mnkr"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__UF__UF0301__UF0301A/FoUuSvreg/",
+      "updated": "2026-11",
+      "size": 80737,
+      "files": {
+        "csv": {
+          "name": "sv-fou-utgifter-per-lan_SV.csv",
+          "size": 15241
+        },
+        "xlsx": {
+          "name": "sv-fou-utgifter-per-lan_SV.xlsx",
+          "size": 17749
         }
       }
     },
