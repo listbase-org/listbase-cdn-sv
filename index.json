@@ -1,12 +1,12 @@
 {
   "lang": "sv",
-  "generated": "2026-11-14T02:24:40.269Z",
-  "total_datasets": 554,
-  "total_records": 2273873,
+  "generated": "2026-11-14T02:24:51.802Z",
+  "total_datasets": 555,
+  "total_records": 2273935,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -102,6 +102,61 @@
     }
   ],
   "datasets": [
+    {
+      "id": "sv-husdjur-i-sverige-1866-2007",
+      "name": "Antal husdjur i Sverige 1866–2007",
+      "category": "agriculture",
+      "record_count": 62,
+      "columns": [
+        "ar",
+        "kor_for_mjolkproduktion",
+        "kor_for_upppfodning_av_kalvar",
+        "kor",
+        "summa_kor",
+        "oxar",
+        "tjurar",
+        "ungnot_under_2_ar_och_kalvar",
+        "kvigor_tjurar_och_stutar_1ar_och_darover",
+        "kalvar_under_1_ar",
+        "summa_notkreatur",
+        "tackor_och_baggar",
+        "lamm",
+        "summa_far",
+        "galtar",
+        "suggor",
+        "suggor_och_galtar",
+        "summa_suggor_och_galtar",
+        "ovriga_svin_3_manader_och_darover",
+        "ovriga_svin_under_3_manader",
+        "ovriga_svin_20_kg_och_darover",
+        "ovriga_svin_under_20_kg",
+        "ovriga_svin",
+        "summa_ovriga_svin",
+        "summa_svin",
+        "hons",
+        "kycklingar_av_varpras",
+        "slaktkycklingar",
+        "hastar_totalt",
+        "hastar_pa_jordbruksforetag",
+        "getter_avelshonor",
+        "killingar",
+        "summa_getter",
+        "kalkoner"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__JO__JO1901__JO1901D/Kap4T01/",
+      "updated": "2026-11",
+      "size": 72874,
+      "files": {
+        "csv": {
+          "name": "sv-husdjur-i-sverige-1866-2007_SV.csv",
+          "size": 13708
+        },
+        "xlsx": {
+          "name": "sv-husdjur-i-sverige-1866-2007_SV.xlsx",
+          "size": 18062
+        }
+      }
+    },
     {
       "id": "sv-jordbruks-och-landsbygdsministrar",
       "name": "Sveriges jordbruksministrar och landsbygdsministrar",
