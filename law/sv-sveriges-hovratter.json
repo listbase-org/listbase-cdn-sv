@@ -1,0 +1,71 @@
+{
+  "id": "sv-sveriges-hovratter",
+  "name": "Sveriges hovrätter",
+  "title": "Sveriges hovrätter",
+  "description": "Sveriges sex hovrätter (överrätter för tingsrätterna) med grundandeår och säte.",
+  "category": "law",
+  "source": "https://sv.wikipedia.org/wiki/Hovrätt",
+  "source_url": "https://sv.wikipedia.org/wiki/Hovrätt",
+  "updated": "2026-11",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "hovratt",
+      "label": "Hovratt",
+      "type": "string"
+    },
+    {
+      "key": "grundad",
+      "label": "Grundad",
+      "type": "number"
+    },
+    {
+      "key": "sate",
+      "label": "Sate",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hovratt": "Svea hovrätt",
+      "grundad": 1614,
+      "sate": "Stockholm"
+    },
+    {
+      "hovratt": "Göta hovrätt",
+      "grundad": 1634,
+      "sate": "Jönköping"
+    },
+    {
+      "hovratt": "Hovrätten över Skåne och Blekinge",
+      "grundad": 1821,
+      "sate": "Malmö"
+    },
+    {
+      "hovratt": "Hovrätten för Västra Sverige",
+      "grundad": 1948,
+      "sate": "Göteborg"
+    },
+    {
+      "hovratt": "Hovrätten för Nedre Norrland",
+      "grundad": 1948,
+      "sate": "Sundsvall"
+    },
+    {
+      "hovratt": "Hovrätten för Övre Norrland",
+      "grundad": 1936,
+      "sate": "Umeå"
+    }
+  ],
+  "meta": {
+    "title": "Sveriges hovrätter - Free Download",
+    "description": "Sveriges sex hovrätter (överrätter för tingsrätterna) med grundandeår och säte. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sveriges hovrätter | ListBase",
+    "seo_description": "Download Sveriges hovrätter — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Hovrätt"
+    ]
+  }
+}

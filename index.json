@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-15T02:51:02.690Z",
-  "total_datasets": 557,
-  "total_records": 2274442,
+  "generated": "2026-11-15T02:51:14.957Z",
+  "total_datasets": 558,
+  "total_records": 2274448,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -5572,6 +5572,30 @@
         "xlsx": {
           "name": "sv-rikspolischefer_SV.xlsx",
           "size": 7152
+        }
+      }
+    },
+    {
+      "id": "sv-sveriges-hovratter",
+      "name": "Sveriges hovrätter",
+      "category": "law",
+      "record_count": 6,
+      "columns": [
+        "hovratt",
+        "grundad",
+        "sate"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Hovrätt",
+      "updated": "2026-11",
+      "size": 1917,
+      "files": {
+        "csv": {
+          "name": "sv-sveriges-hovratter_SV.csv",
+          "size": 310
+        },
+        "xlsx": {
+          "name": "sv-sveriges-hovratter_SV.xlsx",
+          "size": 6905
         }
       }
     },
