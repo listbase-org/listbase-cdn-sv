@@ -1,0 +1,496 @@
+{
+  "id": "sv-riksdagens-talman-sedan-1867",
+  "name": "Riksdagens talmän sedan 1867",
+  "title": "Riksdagens talmän sedan 1867",
+  "description": "Talmän i Första kammaren, Andra kammaren och enkammarriksdagen från 1867 till i dag: namn, levnadsår, ämbetsperiod, parti och valkrets.",
+  "category": "politics",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_talmän_i_Sveriges_riksdag",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_talmän_i_Sveriges_riksdag",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "kammare",
+      "label": "Kammare",
+      "type": "string"
+    },
+    {
+      "key": "nr",
+      "label": "Nr",
+      "type": "number"
+    },
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "levnadsar",
+      "label": "Levnadsar",
+      "type": "string"
+    },
+    {
+      "key": "tilltradde",
+      "label": "Tilltradde",
+      "type": "number"
+    },
+    {
+      "key": "avgick",
+      "label": "Avgick",
+      "type": "number"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "valkrets",
+      "label": "Valkrets",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kammare": "Första kammaren",
+      "nr": 1,
+      "namn": "Gustaf Lagerbjelke",
+      "levnadsar": "1817–1895",
+      "tilltradde": "1867",
+      "avgick": "1876",
+      "parti": "Partilös",
+      "valkrets": "Södermanlands län"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 2,
+      "namn": "Henning Hamilton",
+      "levnadsar": "1814–1886",
+      "tilltradde": "1877",
+      "avgick": "1877",
+      "parti": "Partilös",
+      "valkrets": "Södermanlands län"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 3,
+      "namn": "Anton Niklas Sundberg",
+      "levnadsar": "1818–1900",
+      "tilltradde": "1878",
+      "avgick": "1880",
+      "parti": "Partilös",
+      "valkrets": "Göteborgs och Bohus län"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 4,
+      "namn": "Gustaf Lagerbjelke",
+      "levnadsar": "1817–1895",
+      "tilltradde": "1881",
+      "avgick": "1891",
+      "parti": "Partilös",
+      "valkrets": "Södermanlands län"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 5,
+      "namn": "Pehr von Ehrenheim",
+      "levnadsar": "1823–1918",
+      "tilltradde": "1891",
+      "avgick": "1895",
+      "parti": "Protektionistiska partiet",
+      "valkrets": "Uppsala län"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 6,
+      "namn": "Gustaf Sparre",
+      "levnadsar": "1834–1914",
+      "tilltradde": "1896",
+      "avgick": "1908",
+      "parti": "Partilös",
+      "valkrets": "Västernorrlands län"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 7,
+      "namn": "Christian Lundeberg",
+      "levnadsar": "1842–1911",
+      "tilltradde": "1909",
+      "avgick": "1911 †",
+      "parti": "Förenade högerpartiet",
+      "valkrets": "Gävleborgs län"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 8,
+      "namn": "Ivar Afzelius",
+      "levnadsar": "1848–1921",
+      "tilltradde": "1912",
+      "avgick": "1915",
+      "parti": "Nationella partiet",
+      "valkrets": "Stockholms stad"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 9,
+      "namn": "Hugo Hamilton",
+      "levnadsar": "1849–1928",
+      "tilltradde": "1916",
+      "avgick": "1928 †",
+      "parti": "Partilös",
+      "valkrets": "Älvsborgs län"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 10,
+      "namn": "Axel Vennersten",
+      "levnadsar": "1863–1948",
+      "tilltradde": "1928",
+      "avgick": "1936",
+      "parti": "Nationella partiet",
+      "valkrets": "Älvsborgs län"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 11,
+      "namn": "Johan Nilsson",
+      "levnadsar": "1873–1963",
+      "tilltradde": "1937",
+      "avgick": "1955",
+      "parti": "Högerpartiet",
+      "valkrets": "Blekinge län och Kristianstads län"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 12,
+      "namn": "John Bergvall",
+      "levnadsar": "1892–1959",
+      "tilltradde": "1956",
+      "avgick": "1959 †",
+      "parti": "Folkpartiet",
+      "valkrets": "Stockholms stad"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 13,
+      "namn": "Gustaf Valfrid Sundelin",
+      "levnadsar": "1890–1970",
+      "tilltradde": "1959",
+      "avgick": "1964",
+      "parti": "Folkpartiet",
+      "valkrets": "Örebro län"
+    },
+    {
+      "kammare": "Första kammaren",
+      "nr": 14,
+      "namn": "Erik Boheman",
+      "levnadsar": "1895–1979",
+      "tilltradde": "1965",
+      "avgick": "1970",
+      "parti": "Folkpartiet",
+      "valkrets": "Göteborgs stad"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 1,
+      "namn": "Anton Niklas Sundberg",
+      "levnadsar": "1818–1900",
+      "tilltradde": "1867",
+      "avgick": "1872",
+      "parti": "Partilös",
+      "valkrets": "Karlstad och Filipstad"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 2,
+      "namn": "Gustaf Ferdinand Asker",
+      "levnadsar": "1812–1897",
+      "tilltradde": "1873",
+      "avgick": "1875",
+      "parti": "Partilös",
+      "valkrets": "Gävle"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 3,
+      "namn": "Arvid Posse",
+      "levnadsar": "1820–1901",
+      "tilltradde": "1876",
+      "avgick": "1880",
+      "parti": "Lantmannapartiet",
+      "valkrets": "Herrestads och Ljunits härader"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 4,
+      "namn": "Olof Wijk den yngre",
+      "levnadsar": "1833–1901",
+      "tilltradde": "1881",
+      "avgick": "1890",
+      "parti": "Partilös",
+      "valkrets": "Göteborgs stad"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 5,
+      "namn": "Gustaf Ryding",
+      "levnadsar": "1833–1901",
+      "tilltradde": "1891",
+      "avgick": "1891",
+      "parti": "Partilös",
+      "valkrets": "Härnösands, Umeå och Skellefteå"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 6,
+      "namn": "Carl Herslow",
+      "levnadsar": "1836–1933",
+      "tilltradde": "1892",
+      "avgick": "1893",
+      "parti": "Centern",
+      "valkrets": "Malmö stad"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 7,
+      "namn": "Robert De la Gardie",
+      "levnadsar": "1823–1916",
+      "tilltradde": "1894",
+      "avgick": "1902",
+      "parti": "Partilös",
+      "valkrets": "Linköpings stad"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 8,
+      "namn": "Axel Swartling",
+      "levnadsar": "1840–1918",
+      "tilltradde": "1903",
+      "avgick": "1912",
+      "parti": "Lantmannapartiet",
+      "valkrets": "Norrköping"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 9,
+      "namn": "Carl Carlson Bonde",
+      "levnadsar": "1850–1913",
+      "tilltradde": "1913",
+      "avgick": "1913 †",
+      "parti": "Liberala samlingspartiet",
+      "valkrets": "Södermanlands läns södra"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 10,
+      "namn": "Johan Widén",
+      "levnadsar": "1856–1933",
+      "tilltradde": "1914",
+      "avgick": "1917",
+      "parti": "Partilös",
+      "valkrets": "Jämtlands läns södra"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 11,
+      "namn": "Daniel Persson",
+      "levnadsar": "1850–1918",
+      "tilltradde": "1918",
+      "avgick": "1918",
+      "parti": "Liberala samlingspartiet",
+      "valkrets": "Kopparbergs läns norra"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 12,
+      "namn": "Herman Lindqvist",
+      "levnadsar": "1863–1932",
+      "tilltradde": "1918",
+      "avgick": "1921",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Stockholms stads första"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 13,
+      "namn": "Viktor Larsson",
+      "levnadsar": "1869–1950",
+      "tilltradde": "1922",
+      "avgick": "1923",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Västmanlands län"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 14,
+      "namn": "Herman Lindqvist",
+      "levnadsar": "1863–1932",
+      "tilltradde": "1924",
+      "avgick": "1927",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Stockholms stad"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 15,
+      "namn": "Bernhard Eriksson",
+      "levnadsar": "1878–1952",
+      "tilltradde": "1928",
+      "avgick": "1932",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Kopparbergs län"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 16,
+      "namn": "August Sävström",
+      "levnadsar": "1879–1960",
+      "tilltradde": "1933",
+      "avgick": "1952",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Gävleborgs län"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 17,
+      "namn": "Gustaf Nilsson",
+      "levnadsar": "1900–1977",
+      "tilltradde": "1953",
+      "avgick": "1957",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Värmlands län"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 18,
+      "namn": "Patrik Svensson",
+      "levnadsar": "1895–1960",
+      "tilltradde": "10 januari 1958",
+      "avgick": "17 juli 1960 †",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Älvsborgs läns norra"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 19,
+      "namn": "Fridolf Thapper",
+      "levnadsar": "1899–1974",
+      "tilltradde": "1960",
+      "avgick": "1968",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Östergötlands län"
+    },
+    {
+      "kammare": "Andra kammaren",
+      "nr": 20,
+      "namn": "Henry Allard",
+      "levnadsar": "1911–1996",
+      "tilltradde": "1969",
+      "avgick": "1970",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Örebro län"
+    },
+    {
+      "kammare": "Enkammarriksdagen",
+      "nr": 1,
+      "namn": "Henry Allard",
+      "levnadsar": "1911–1996",
+      "tilltradde": "15 januari 1971",
+      "avgick": "1 oktober 1979",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Örebro län"
+    },
+    {
+      "kammare": "Enkammarriksdagen",
+      "nr": 2,
+      "namn": "Ingemund Bengtsson",
+      "levnadsar": "1919–2000",
+      "tilltradde": "1 oktober 1979",
+      "avgick": "3 oktober 1988",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Hallands län"
+    },
+    {
+      "kammare": "Enkammarriksdagen",
+      "nr": 3,
+      "namn": "Thage G. Peterson",
+      "levnadsar": "född 1933",
+      "tilltradde": "3 oktober 1988",
+      "avgick": "30 september 1991",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Stockholms län"
+    },
+    {
+      "kammare": "Enkammarriksdagen",
+      "nr": 4,
+      "namn": "Ingegerd Troedsson",
+      "levnadsar": "1929–2012",
+      "tilltradde": "30 september 1991",
+      "avgick": "3 oktober 1994",
+      "parti": "Moderaterna",
+      "valkrets": "Uppsala län"
+    },
+    {
+      "kammare": "Enkammarriksdagen",
+      "nr": 5,
+      "namn": "Birgitta Dahl",
+      "levnadsar": "1937–2024",
+      "tilltradde": "3 oktober 1994",
+      "avgick": "30 september 2002",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Uppsala län"
+    },
+    {
+      "kammare": "Enkammarriksdagen",
+      "nr": 6,
+      "namn": "Björn von Sydow",
+      "levnadsar": "född 1945",
+      "tilltradde": "30 september 2002",
+      "avgick": "2 oktober 2006",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Stockholms län"
+    },
+    {
+      "kammare": "Enkammarriksdagen",
+      "nr": 7,
+      "namn": "Per Westerberg",
+      "levnadsar": "född 1951",
+      "tilltradde": "2 oktober 2006",
+      "avgick": "29 september 2014",
+      "parti": "Moderaterna",
+      "valkrets": "Södermanlands län"
+    },
+    {
+      "kammare": "Enkammarriksdagen",
+      "nr": 8,
+      "namn": "Urban Ahlin",
+      "levnadsar": "född 1964",
+      "tilltradde": "29 september 2014",
+      "avgick": "24 september 2018",
+      "parti": "Socialdemokraterna",
+      "valkrets": "Västra Götalands läns östra"
+    },
+    {
+      "kammare": "Enkammarriksdagen",
+      "nr": 9,
+      "namn": "Andreas Norlén",
+      "levnadsar": "född 1973",
+      "tilltradde": "24 september 2018",
+      "avgick": "nuvarande",
+      "parti": "Moderaterna",
+      "valkrets": "Östergötlands län"
+    }
+  ],
+  "meta": {
+    "title": "Riksdagens talmän sedan 1867 - Free Download",
+    "description": "Talmän i Första kammaren, Andra kammaren och enkammarriksdagen från 1867 till i dag: namn, levnadsår, ämbetsperiod, parti och valkrets. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Riksdagens talmän sedan 1867 | ListBase",
+    "seo_description": "Download Riksdagens talmän sedan 1867 — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_talmän_i_Sveriges_riksdag"
+    ]
+  }
+}

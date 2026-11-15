@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-14T02:25:02.656Z",
-  "total_datasets": 556,
-  "total_records": 2274399,
+  "generated": "2026-11-15T02:51:02.690Z",
+  "total_datasets": 557,
+  "total_records": 2274442,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 26
+      "dataset_count": 27
     },
     {
       "id": "reference",
@@ -6310,6 +6310,35 @@
         "xlsx": {
           "name": "sv-partier-utanfor-riksdagen_SV.xlsx",
           "size": 8491
+        }
+      }
+    },
+    {
+      "id": "sv-riksdagens-talman-sedan-1867",
+      "name": "Riksdagens talmän sedan 1867",
+      "category": "politics",
+      "record_count": 43,
+      "columns": [
+        "kammare",
+        "nr",
+        "namn",
+        "levnadsar",
+        "tilltradde",
+        "avgick",
+        "parti",
+        "valkrets"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_talmän_i_Sveriges_riksdag",
+      "updated": "2026-11",
+      "size": 13248,
+      "files": {
+        "csv": {
+          "name": "sv-riksdagens-talman-sedan-1867_SV.csv",
+          "size": 4955
+        },
+        "xlsx": {
+          "name": "sv-riksdagens-talman-sedan-1867_SV.xlsx",
+          "size": 9632
         }
       }
     },
