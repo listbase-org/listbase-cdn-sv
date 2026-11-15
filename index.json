@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-15T02:51:14.957Z",
-  "total_datasets": 558,
-  "total_records": 2274448,
+  "generated": "2026-11-15T02:52:09.863Z",
+  "total_datasets": 559,
+  "total_records": 2274536,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -12618,6 +12618,31 @@
         "xlsx": {
           "name": "sv-befolkningsrorelser-per-ar_SV.xlsx",
           "size": 13460
+        }
+      }
+    },
+    {
+      "id": "sv-fardigstallda-lagenheter-nybyggda-hus",
+      "name": "Färdigställda lägenheter i nybyggda hus i Sverige sedan 1938",
+      "category": "society",
+      "record_count": 88,
+      "columns": [
+        "ar",
+        "flerbostadshus",
+        "smahus",
+        "totalt"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BO__BO0101__BO0101A/LghReHustypAr/",
+      "updated": "2026-11",
+      "size": 11318,
+      "files": {
+        "csv": {
+          "name": "sv-fardigstallda-lagenheter-nybyggda-hus_SV.csv",
+          "size": 2745
+        },
+        "xlsx": {
+          "name": "sv-fardigstallda-lagenheter-nybyggda-hus_SV.xlsx",
+          "size": 9047
         }
       }
     },

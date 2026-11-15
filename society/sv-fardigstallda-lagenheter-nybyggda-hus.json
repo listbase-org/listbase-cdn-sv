@@ -1,0 +1,574 @@
+{
+  "id": "sv-fardigstallda-lagenheter-nybyggda-hus",
+  "name": "Färdigställda lägenheter i nybyggda hus i Sverige sedan 1938",
+  "title": "Färdigställda lägenheter i nybyggda hus i Sverige sedan 1938",
+  "description": "Antal färdigställda lägenheter i nybyggda hus i hela riket per år sedan 1938, uppdelat på flerbostadshus och småhus. Källa: SCB, Statistikdatabasen (BO0101).",
+  "category": "society",
+  "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BO__BO0101__BO0101A/LghReHustypAr/",
+  "source_url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BO__BO0101__BO0101A/LghReHustypAr/",
+  "updated": "2026-11",
+  "record_count": 88,
+  "columns": [
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "flerbostadshus",
+      "label": "Flerbostadshus",
+      "type": "number"
+    },
+    {
+      "key": "smahus",
+      "label": "Smahus",
+      "type": "number"
+    },
+    {
+      "key": "totalt",
+      "label": "Totalt",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ar": 1938,
+      "flerbostadshus": 33500,
+      "smahus": 20000,
+      "totalt": 53500
+    },
+    {
+      "ar": 1939,
+      "flerbostadshus": 37000,
+      "smahus": 22000,
+      "totalt": 59000
+    },
+    {
+      "ar": 1940,
+      "flerbostadshus": 16300,
+      "smahus": 9700,
+      "totalt": 26000
+    },
+    {
+      "ar": 1941,
+      "flerbostadshus": 10700,
+      "smahus": 6300,
+      "totalt": 17000
+    },
+    {
+      "ar": 1942,
+      "flerbostadshus": 18500,
+      "smahus": 11000,
+      "totalt": 29500
+    },
+    {
+      "ar": 1943,
+      "flerbostadshus": 24800,
+      "smahus": 14700,
+      "totalt": 39500
+    },
+    {
+      "ar": 1944,
+      "flerbostadshus": 28200,
+      "smahus": 16800,
+      "totalt": 45000
+    },
+    {
+      "ar": 1945,
+      "flerbostadshus": 31000,
+      "smahus": 18500,
+      "totalt": 49500
+    },
+    {
+      "ar": 1946,
+      "flerbostadshus": 36400,
+      "smahus": 21600,
+      "totalt": 58000
+    },
+    {
+      "ar": 1947,
+      "flerbostadshus": 36400,
+      "smahus": 21600,
+      "totalt": 58000
+    },
+    {
+      "ar": 1948,
+      "flerbostadshus": 30100,
+      "smahus": 17900,
+      "totalt": 48000
+    },
+    {
+      "ar": 1949,
+      "flerbostadshus": 30621,
+      "smahus": 10930,
+      "totalt": 41551
+    },
+    {
+      "ar": 1950,
+      "flerbostadshus": 31811,
+      "smahus": 12124,
+      "totalt": 43935
+    },
+    {
+      "ar": 1951,
+      "flerbostadshus": 28982,
+      "smahus": 10802,
+      "totalt": 39784
+    },
+    {
+      "ar": 1952,
+      "flerbostadshus": 36385,
+      "smahus": 8351,
+      "totalt": 44736
+    },
+    {
+      "ar": 1953,
+      "flerbostadshus": 42377,
+      "smahus": 9534,
+      "totalt": 51911
+    },
+    {
+      "ar": 1954,
+      "flerbostadshus": 45713,
+      "smahus": 12500,
+      "totalt": 58213
+    },
+    {
+      "ar": 1955,
+      "flerbostadshus": 41456,
+      "smahus": 15514,
+      "totalt": 56970
+    },
+    {
+      "ar": 1956,
+      "flerbostadshus": 41891,
+      "smahus": 15015,
+      "totalt": 56906
+    },
+    {
+      "ar": 1957,
+      "flerbostadshus": 47335,
+      "smahus": 17120,
+      "totalt": 64455
+    },
+    {
+      "ar": 1958,
+      "flerbostadshus": 44841,
+      "smahus": 17384,
+      "totalt": 62225
+    },
+    {
+      "ar": 1959,
+      "flerbostadshus": 51372,
+      "smahus": 17946,
+      "totalt": 69318
+    },
+    {
+      "ar": 1960,
+      "flerbostadshus": 50959,
+      "smahus": 17334,
+      "totalt": 68293
+    },
+    {
+      "ar": 1961,
+      "flerbostadshus": 53342,
+      "smahus": 20436,
+      "totalt": 73778
+    },
+    {
+      "ar": 1962,
+      "flerbostadshus": 53565,
+      "smahus": 21559,
+      "totalt": 75124
+    },
+    {
+      "ar": 1963,
+      "flerbostadshus": 58223,
+      "smahus": 23182,
+      "totalt": 81405
+    },
+    {
+      "ar": 1964,
+      "flerbostadshus": 60416,
+      "smahus": 26751,
+      "totalt": 87167
+    },
+    {
+      "ar": 1965,
+      "flerbostadshus": 69268,
+      "smahus": 27575,
+      "totalt": 96843
+    },
+    {
+      "ar": 1966,
+      "flerbostadshus": 62240,
+      "smahus": 27121,
+      "totalt": 89361
+    },
+    {
+      "ar": 1967,
+      "flerbostadshus": 71908,
+      "smahus": 28305,
+      "totalt": 100213
+    },
+    {
+      "ar": 1968,
+      "flerbostadshus": 77578,
+      "smahus": 28656,
+      "totalt": 106234
+    },
+    {
+      "ar": 1969,
+      "flerbostadshus": 77356,
+      "smahus": 31699,
+      "totalt": 109055
+    },
+    {
+      "ar": 1970,
+      "flerbostadshus": 75226,
+      "smahus": 34617,
+      "totalt": 109843
+    },
+    {
+      "ar": 1971,
+      "flerbostadshus": 75243,
+      "smahus": 31945,
+      "totalt": 107188
+    },
+    {
+      "ar": 1972,
+      "flerbostadshus": 66911,
+      "smahus": 37135,
+      "totalt": 104046
+    },
+    {
+      "ar": 1973,
+      "flerbostadshus": 53732,
+      "smahus": 43752,
+      "totalt": 97484
+    },
+    {
+      "ar": 1974,
+      "flerbostadshus": 38769,
+      "smahus": 46542,
+      "totalt": 85311
+    },
+    {
+      "ar": 1975,
+      "flerbostadshus": 27442,
+      "smahus": 47057,
+      "totalt": 74499
+    },
+    {
+      "ar": 1976,
+      "flerbostadshus": 15671,
+      "smahus": 40141,
+      "totalt": 55812
+    },
+    {
+      "ar": 1977,
+      "flerbostadshus": 14128,
+      "smahus": 40750,
+      "totalt": 54878
+    },
+    {
+      "ar": 1978,
+      "flerbostadshus": 13573,
+      "smahus": 40169,
+      "totalt": 53742
+    },
+    {
+      "ar": 1979,
+      "flerbostadshus": 15613,
+      "smahus": 39878,
+      "totalt": 55491
+    },
+    {
+      "ar": 1980,
+      "flerbostadshus": 15902,
+      "smahus": 35536,
+      "totalt": 51438
+    },
+    {
+      "ar": 1981,
+      "flerbostadshus": 17601,
+      "smahus": 33996,
+      "totalt": 51597
+    },
+    {
+      "ar": 1982,
+      "flerbostadshus": 18325,
+      "smahus": 26783,
+      "totalt": 45108
+    },
+    {
+      "ar": 1983,
+      "flerbostadshus": 20221,
+      "smahus": 23143,
+      "totalt": 43364
+    },
+    {
+      "ar": 1984,
+      "flerbostadshus": 17085,
+      "smahus": 17903,
+      "totalt": 34988
+    },
+    {
+      "ar": 1985,
+      "flerbostadshus": 17124,
+      "smahus": 15808,
+      "totalt": 32932
+    },
+    {
+      "ar": 1986,
+      "flerbostadshus": 15274,
+      "smahus": 13517,
+      "totalt": 28791
+    },
+    {
+      "ar": 1987,
+      "flerbostadshus": 15739,
+      "smahus": 15146,
+      "totalt": 30885
+    },
+    {
+      "ar": 1988,
+      "flerbostadshus": 21094,
+      "smahus": 19481,
+      "totalt": 40575
+    },
+    {
+      "ar": 1989,
+      "flerbostadshus": 27376,
+      "smahus": 23028,
+      "totalt": 50404
+    },
+    {
+      "ar": 1990,
+      "flerbostadshus": 33746,
+      "smahus": 24701,
+      "totalt": 58447
+    },
+    {
+      "ar": 1991,
+      "flerbostadshus": 38201,
+      "smahus": 28685,
+      "totalt": 66886
+    },
+    {
+      "ar": 1992,
+      "flerbostadshus": 37787,
+      "smahus": 19532,
+      "totalt": 57319
+    },
+    {
+      "ar": 1993,
+      "flerbostadshus": 25688,
+      "smahus": 9400,
+      "totalt": 35088
+    },
+    {
+      "ar": 1994,
+      "flerbostadshus": 16384,
+      "smahus": 5246,
+      "totalt": 21630
+    },
+    {
+      "ar": 1995,
+      "flerbostadshus": 8952,
+      "smahus": 3726,
+      "totalt": 12678
+    },
+    {
+      "ar": 1996,
+      "flerbostadshus": 9390,
+      "smahus": 3695,
+      "totalt": 13085
+    },
+    {
+      "ar": 1997,
+      "flerbostadshus": 9139,
+      "smahus": 3868,
+      "totalt": 13007
+    },
+    {
+      "ar": 1998,
+      "flerbostadshus": 7179,
+      "smahus": 4280,
+      "totalt": 11459
+    },
+    {
+      "ar": 1999,
+      "flerbostadshus": 6651,
+      "smahus": 5061,
+      "totalt": 11712
+    },
+    {
+      "ar": 2000,
+      "flerbostadshus": 7405,
+      "smahus": 5579,
+      "totalt": 12984
+    },
+    {
+      "ar": 2001,
+      "flerbostadshus": 7527,
+      "smahus": 7884,
+      "totalt": 15411
+    },
+    {
+      "ar": 2002,
+      "flerbostadshus": 12714,
+      "smahus": 7227,
+      "totalt": 19941
+    },
+    {
+      "ar": 2003,
+      "flerbostadshus": 11843,
+      "smahus": 8143,
+      "totalt": 19986
+    },
+    {
+      "ar": 2004,
+      "flerbostadshus": 13705,
+      "smahus": 11578,
+      "totalt": 25283
+    },
+    {
+      "ar": 2005,
+      "flerbostadshus": 12992,
+      "smahus": 10076,
+      "totalt": 23068
+    },
+    {
+      "ar": 2006,
+      "flerbostadshus": 18796,
+      "smahus": 11036,
+      "totalt": 29832
+    },
+    {
+      "ar": 2007,
+      "flerbostadshus": 18444,
+      "smahus": 12083,
+      "totalt": 30527
+    },
+    {
+      "ar": 2008,
+      "flerbostadshus": 19949,
+      "smahus": 12072,
+      "totalt": 32021
+    },
+    {
+      "ar": 2009,
+      "flerbostadshus": 14447,
+      "smahus": 8374,
+      "totalt": 22821
+    },
+    {
+      "ar": 2010,
+      "flerbostadshus": 10625,
+      "smahus": 8875,
+      "totalt": 19500
+    },
+    {
+      "ar": 2011,
+      "flerbostadshus": 12587,
+      "smahus": 7477,
+      "totalt": 20064
+    },
+    {
+      "ar": 2012,
+      "flerbostadshus": 16657,
+      "smahus": 9336,
+      "totalt": 25993
+    },
+    {
+      "ar": 2013,
+      "flerbostadshus": 20663,
+      "smahus": 8562,
+      "totalt": 29225
+    },
+    {
+      "ar": 2014,
+      "flerbostadshus": 20754,
+      "smahus": 8410,
+      "totalt": 29164
+    },
+    {
+      "ar": 2015,
+      "flerbostadshus": 25565,
+      "smahus": 9038,
+      "totalt": 34603
+    },
+    {
+      "ar": 2016,
+      "flerbostadshus": 31030,
+      "smahus": 11411,
+      "totalt": 42441
+    },
+    {
+      "ar": 2017,
+      "flerbostadshus": 35783,
+      "smahus": 12444,
+      "totalt": 48227
+    },
+    {
+      "ar": 2018,
+      "flerbostadshus": 42844,
+      "smahus": 12032,
+      "totalt": 54876
+    },
+    {
+      "ar": 2019,
+      "flerbostadshus": 45446,
+      "smahus": 10213,
+      "totalt": 55659
+    },
+    {
+      "ar": 2020,
+      "flerbostadshus": 38906,
+      "smahus": 11573,
+      "totalt": 50479
+    },
+    {
+      "ar": 2021,
+      "flerbostadshus": 39705,
+      "smahus": 10384,
+      "totalt": 50089
+    },
+    {
+      "ar": 2022,
+      "flerbostadshus": 41258,
+      "smahus": 12760,
+      "totalt": 54018
+    },
+    {
+      "ar": 2023,
+      "flerbostadshus": 53383,
+      "smahus": 12212,
+      "totalt": 65595
+    },
+    {
+      "ar": 2024,
+      "flerbostadshus": 38851,
+      "smahus": 6624,
+      "totalt": 45475
+    },
+    {
+      "ar": 2025,
+      "flerbostadshus": 25792,
+      "smahus": 5567,
+      "totalt": 31359
+    }
+  ],
+  "meta": {
+    "title": "Färdigställda lägenheter i nybyggda hus i Sverige sedan 1938 - Free Download",
+    "description": "Antal färdigställda lägenheter i nybyggda hus i hela riket per år sedan 1938, uppdelat på flerbostadshus och småhus. Källa: SCB, Statistikdatabasen (BO0101). Contains 88 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Färdigställda lägenheter i nybyggda hus i Sverige sedan 1938 | ListBase",
+    "seo_description": "Download Färdigställda lägenheter i nybyggda hus i Sverige sedan 1938 — 88 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 88 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BO__BO0101__BO0101A/LghReHustypAr/"
+    ]
+  }
+}
