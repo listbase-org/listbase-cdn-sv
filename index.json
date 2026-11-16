@@ -1,12 +1,12 @@
 {
   "lang": "sv",
-  "generated": "2026-11-16T02:25:28.756Z",
-  "total_datasets": 560,
-  "total_records": 2274592,
+  "generated": "2026-11-16T02:25:39.565Z",
+  "total_datasets": 561,
+  "total_records": 2274600,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -154,6 +154,33 @@
         "xlsx": {
           "name": "sv-husdjur-i-sverige-1866-2007_SV.xlsx",
           "size": 18062
+        }
+      }
+    },
+    {
+      "id": "sv-husdjur-per-riksomrade-2023",
+      "name": "Husdjur i jordbruket per riksområde (2023)",
+      "category": "agriculture",
+      "record_count": 8,
+      "columns": [
+        "riksomrade",
+        "nuts_kod",
+        "notkreatur",
+        "grisar",
+        "far",
+        "fjaderfa"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/ef_lsk_main/default/table",
+      "updated": "2026-11",
+      "size": 3321,
+      "files": {
+        "csv": {
+          "name": "sv-husdjur-per-riksomrade-2023_SV.csv",
+          "size": 541
+        },
+        "xlsx": {
+          "name": "sv-husdjur-per-riksomrade-2023_SV.xlsx",
+          "size": 7168
         }
       }
     },

@@ -1,0 +1,120 @@
+{
+  "id": "sv-husdjur-per-riksomrade-2023",
+  "name": "Husdjur i jordbruket per riksområde (2023)",
+  "title": "Husdjur i jordbruket per riksområde (2023)",
+  "description": "Antal nötkreatur, grisar, får och fjäderfä på jordbruksföretagen i Sveriges riksområden (NUTS 2) enligt lantbruksstrukturundersökningen 2023, Eurostat.",
+  "category": "agriculture",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/ef_lsk_main/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/ef_lsk_main/default/table",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "riksomrade",
+      "label": "Riksomrade",
+      "type": "string"
+    },
+    {
+      "key": "nuts_kod",
+      "label": "Nuts Kod",
+      "type": "string"
+    },
+    {
+      "key": "notkreatur",
+      "label": "Notkreatur",
+      "type": "number"
+    },
+    {
+      "key": "grisar",
+      "label": "Grisar",
+      "type": "number"
+    },
+    {
+      "key": "far",
+      "label": "Far",
+      "type": "number"
+    },
+    {
+      "key": "fjaderfa",
+      "label": "Fjaderfa",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "notkreatur": 15600,
+      "grisar": 12090,
+      "far": 15410,
+      "fjaderfa": 35090
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "notkreatur": 238360,
+      "grisar": 262180,
+      "far": 97580,
+      "fjaderfa": 9050620
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "notkreatur": 389330,
+      "grisar": 115680,
+      "far": 137020,
+      "fjaderfa": 5933700
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "notkreatur": 233790,
+      "grisar": 424090,
+      "far": 69600,
+      "fjaderfa": 5105420
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "notkreatur": 341700,
+      "grisar": 400570,
+      "far": 91480,
+      "fjaderfa": 5330860
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "notkreatur": 118730,
+      "grisar": 55360,
+      "far": 44310,
+      "fjaderfa": 228360
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "notkreatur": 56510,
+      "grisar": 4520,
+      "far": 15380,
+      "fjaderfa": 79620
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "notkreatur": 50470,
+      "grisar": 29030,
+      "far": 15290,
+      "fjaderfa": 128320
+    }
+  ],
+  "meta": {
+    "title": "Husdjur i jordbruket per riksområde (2023) - Free Download",
+    "description": "Antal nötkreatur, grisar, får och fjäderfä på jordbruksföretagen i Sveriges riksområden (NUTS 2) enligt lantbruksstrukturundersökningen 2023, Eurostat. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Husdjur i jordbruket per riksområde (2023) | ListBase",
+    "seo_description": "Download Husdjur i jordbruket per riksområde (2023) — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/ef_lsk_main/default/table"
+    ]
+  }
+}
