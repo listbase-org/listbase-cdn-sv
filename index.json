@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-15T02:52:09.863Z",
-  "total_datasets": 559,
-  "total_records": 2274536,
+  "generated": "2026-11-16T02:25:28.756Z",
+  "total_datasets": 560,
+  "total_records": 2274592,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -13658,6 +13658,33 @@
         "xlsx": {
           "name": "sv-gastgiverier_SV.xlsx",
           "size": 22704
+        }
+      }
+    },
+    {
+      "id": "sv-gastnatter-per-riksomrade",
+      "name": "Gästnätter per riksområde (2019–2025)",
+      "category": "tourism",
+      "record_count": 56,
+      "columns": [
+        "riksomrade",
+        "nuts_kod",
+        "ar",
+        "gastnatter_totalt",
+        "gastnatter_svenska",
+        "gastnatter_utlandska"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+      "updated": "2026-11",
+      "size": 13568,
+      "files": {
+        "csv": {
+          "name": "sv-gastnatter-per-riksomrade_SV.csv",
+          "size": 3569
+        },
+        "xlsx": {
+          "name": "sv-gastnatter-per-riksomrade_SV.xlsx",
+          "size": 8987
         }
       }
     },

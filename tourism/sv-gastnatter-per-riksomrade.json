@@ -1,0 +1,504 @@
+{
+  "id": "sv-gastnatter-per-riksomrade",
+  "name": "Gästnätter per riksområde (2019–2025)",
+  "title": "Gästnätter per riksområde (2019–2025)",
+  "description": "Antal gästnätter på hotell, stugbyar, vandrarhem och campingplatser i Sveriges riksområden, totalt samt för svenska och utländska gäster, Eurostat.",
+  "category": "tourism",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "updated": "2026-11",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "riksomrade",
+      "label": "Riksomrade",
+      "type": "string"
+    },
+    {
+      "key": "nuts_kod",
+      "label": "Nuts Kod",
+      "type": "string"
+    },
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "gastnatter_totalt",
+      "label": "Gastnatter Totalt",
+      "type": "number"
+    },
+    {
+      "key": "gastnatter_svenska",
+      "label": "Gastnatter Svenska",
+      "type": "number"
+    },
+    {
+      "key": "gastnatter_utlandska",
+      "label": "Gastnatter Utlandska",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2019,
+      "gastnatter_totalt": 15256827,
+      "gastnatter_svenska": 9813116,
+      "gastnatter_utlandska": 5443711
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2019,
+      "gastnatter_totalt": 6347483,
+      "gastnatter_svenska": 5412437,
+      "gastnatter_utlandska": 935046
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2019,
+      "gastnatter_totalt": 6250283,
+      "gastnatter_svenska": 5080451,
+      "gastnatter_utlandska": 1169832
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2019,
+      "gastnatter_totalt": 7284133,
+      "gastnatter_svenska": 5504807,
+      "gastnatter_utlandska": 1779326
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2019,
+      "gastnatter_totalt": 13087686,
+      "gastnatter_svenska": 9834768,
+      "gastnatter_utlandska": 3252918
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2019,
+      "gastnatter_totalt": 7056383,
+      "gastnatter_svenska": 5643456,
+      "gastnatter_utlandska": 1412927
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2019,
+      "gastnatter_totalt": 3401041,
+      "gastnatter_svenska": 2753574,
+      "gastnatter_utlandska": 647467
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2019,
+      "gastnatter_totalt": 4491445,
+      "gastnatter_svenska": 3152438,
+      "gastnatter_utlandska": 1339007
+    },
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2020,
+      "gastnatter_totalt": 6869584,
+      "gastnatter_svenska": 5367628,
+      "gastnatter_utlandska": 1501956
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2020,
+      "gastnatter_totalt": 4649510,
+      "gastnatter_svenska": 4350730,
+      "gastnatter_utlandska": 298780
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2020,
+      "gastnatter_totalt": 4514784,
+      "gastnatter_svenska": 4215686,
+      "gastnatter_utlandska": 299098
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2020,
+      "gastnatter_totalt": 5096202,
+      "gastnatter_svenska": 4506865,
+      "gastnatter_utlandska": 589337
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2020,
+      "gastnatter_totalt": 8234006,
+      "gastnatter_svenska": 7522762,
+      "gastnatter_utlandska": 711244
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2020,
+      "gastnatter_totalt": 4907745,
+      "gastnatter_svenska": 4568463,
+      "gastnatter_utlandska": 339282
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2020,
+      "gastnatter_totalt": 2589773,
+      "gastnatter_svenska": 2397810,
+      "gastnatter_utlandska": 191963
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2020,
+      "gastnatter_totalt": 2942957,
+      "gastnatter_svenska": 2440092,
+      "gastnatter_utlandska": 502865
+    },
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2021,
+      "gastnatter_totalt": 9196608,
+      "gastnatter_svenska": 7317680,
+      "gastnatter_utlandska": 1878928
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2021,
+      "gastnatter_totalt": 5509091,
+      "gastnatter_svenska": 5070641,
+      "gastnatter_utlandska": 438450
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2021,
+      "gastnatter_totalt": 6090489,
+      "gastnatter_svenska": 5443250,
+      "gastnatter_utlandska": 647239
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2021,
+      "gastnatter_totalt": 6142260,
+      "gastnatter_svenska": 5234247,
+      "gastnatter_utlandska": 908013
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2021,
+      "gastnatter_totalt": 10655999,
+      "gastnatter_svenska": 9477069,
+      "gastnatter_utlandska": 1178930
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2021,
+      "gastnatter_totalt": 5644980,
+      "gastnatter_svenska": 5110656,
+      "gastnatter_utlandska": 534324
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2021,
+      "gastnatter_totalt": 3147438,
+      "gastnatter_svenska": 2868728,
+      "gastnatter_utlandska": 278710
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2021,
+      "gastnatter_totalt": 3657755,
+      "gastnatter_svenska": 3009905,
+      "gastnatter_utlandska": 647850
+    },
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2022,
+      "gastnatter_totalt": 14307916,
+      "gastnatter_svenska": 10013964,
+      "gastnatter_utlandska": 4293952
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2022,
+      "gastnatter_totalt": 6517707,
+      "gastnatter_svenska": 5736298,
+      "gastnatter_utlandska": 781409
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2022,
+      "gastnatter_totalt": 6725296,
+      "gastnatter_svenska": 5531313,
+      "gastnatter_utlandska": 1193983
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2022,
+      "gastnatter_totalt": 7368209,
+      "gastnatter_svenska": 5802468,
+      "gastnatter_utlandska": 1565741
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2022,
+      "gastnatter_totalt": 13415183,
+      "gastnatter_svenska": 10550713,
+      "gastnatter_utlandska": 2864470
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2022,
+      "gastnatter_totalt": 6576727,
+      "gastnatter_svenska": 5319582,
+      "gastnatter_utlandska": 1257145
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2022,
+      "gastnatter_totalt": 3353904,
+      "gastnatter_svenska": 2800721,
+      "gastnatter_utlandska": 553183
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2022,
+      "gastnatter_totalt": 4660617,
+      "gastnatter_svenska": 3203085,
+      "gastnatter_utlandska": 1457532
+    },
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2023,
+      "gastnatter_totalt": 15117410,
+      "gastnatter_svenska": 10041556,
+      "gastnatter_utlandska": 5075854
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2023,
+      "gastnatter_totalt": 6607298,
+      "gastnatter_svenska": 5744527,
+      "gastnatter_utlandska": 862771
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2023,
+      "gastnatter_totalt": 6660507,
+      "gastnatter_svenska": 5347082,
+      "gastnatter_utlandska": 1313425
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2023,
+      "gastnatter_totalt": 7616440,
+      "gastnatter_svenska": 5751468,
+      "gastnatter_utlandska": 1864972
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2023,
+      "gastnatter_totalt": 13734809,
+      "gastnatter_svenska": 10484283,
+      "gastnatter_utlandska": 3250526
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2023,
+      "gastnatter_totalt": 6296563,
+      "gastnatter_svenska": 5034900,
+      "gastnatter_utlandska": 1261663
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2023,
+      "gastnatter_totalt": 3201806,
+      "gastnatter_svenska": 2639075,
+      "gastnatter_utlandska": 562731
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2023,
+      "gastnatter_totalt": 4661286,
+      "gastnatter_svenska": 3273186,
+      "gastnatter_utlandska": 1388100
+    },
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2024,
+      "gastnatter_totalt": 15307719,
+      "gastnatter_svenska": 9757424,
+      "gastnatter_utlandska": 5550295
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2024,
+      "gastnatter_totalt": 6519661,
+      "gastnatter_svenska": 5549952,
+      "gastnatter_utlandska": 969709
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2024,
+      "gastnatter_totalt": 6671800,
+      "gastnatter_svenska": 5272214,
+      "gastnatter_utlandska": 1399586
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2024,
+      "gastnatter_totalt": 7650205,
+      "gastnatter_svenska": 5581341,
+      "gastnatter_utlandska": 2068864
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2024,
+      "gastnatter_totalt": 13771355,
+      "gastnatter_svenska": 10092584,
+      "gastnatter_utlandska": 3678771
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2024,
+      "gastnatter_totalt": 6337918,
+      "gastnatter_svenska": 4928307,
+      "gastnatter_utlandska": 1409611
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2024,
+      "gastnatter_totalt": 3093100,
+      "gastnatter_svenska": 2502380,
+      "gastnatter_utlandska": 590720
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2024,
+      "gastnatter_totalt": 4764327,
+      "gastnatter_svenska": 3268531,
+      "gastnatter_utlandska": 1495796
+    },
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2025,
+      "gastnatter_totalt": 15753490,
+      "gastnatter_svenska": 10091584,
+      "gastnatter_utlandska": 5661906
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2025,
+      "gastnatter_totalt": 6639454,
+      "gastnatter_svenska": 5676761,
+      "gastnatter_utlandska": 962693
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2025,
+      "gastnatter_totalt": 6679365,
+      "gastnatter_svenska": 5316783,
+      "gastnatter_utlandska": 1362582
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2025,
+      "gastnatter_totalt": 7805921,
+      "gastnatter_svenska": 5673098,
+      "gastnatter_utlandska": 2132823
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2025,
+      "gastnatter_totalt": 14404110,
+      "gastnatter_svenska": 10568551,
+      "gastnatter_utlandska": 3835559
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2025,
+      "gastnatter_totalt": 6419662,
+      "gastnatter_svenska": 4995799,
+      "gastnatter_utlandska": 1423863
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2025,
+      "gastnatter_totalt": 3196659,
+      "gastnatter_svenska": 2594753,
+      "gastnatter_utlandska": 601906
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2025,
+      "gastnatter_totalt": 4713007,
+      "gastnatter_svenska": 3271019,
+      "gastnatter_utlandska": 1441988
+    }
+  ],
+  "meta": {
+    "title": "Gästnätter per riksområde (2019–2025) - Free Download",
+    "description": "Antal gästnätter på hotell, stugbyar, vandrarhem och campingplatser i Sveriges riksområden, totalt samt för svenska och utländska gäster, Eurostat. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gästnätter per riksområde (2019–2025) | ListBase",
+    "seo_description": "Download Gästnätter per riksområde (2019–2025) — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table"
+    ]
+  }
+}
