@@ -1,0 +1,440 @@
+{
+  "id": "sv-medellivslangd-vid-fodelsen-per-riksomrade",
+  "name": "Medellivslängd vid födelsen per riksområde (2019–2024)",
+  "title": "Medellivslängd vid födelsen per riksområde (2019–2024)",
+  "description": "Förväntad medellivslängd vid födelsen (år) i Sveriges riksområden, totalt, män och kvinnor, Eurostat.",
+  "category": "health",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+  "updated": "2026-11",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "riksomrade",
+      "label": "Riksomrade",
+      "type": "string"
+    },
+    {
+      "key": "nuts_kod",
+      "label": "Nuts Kod",
+      "type": "string"
+    },
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "totalt",
+      "label": "Totalt",
+      "type": "number"
+    },
+    {
+      "key": "man",
+      "label": "Man",
+      "type": "number"
+    },
+    {
+      "key": "kvinnor",
+      "label": "Kvinnor",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2019,
+      "totalt": 83.8,
+      "man": 81.9,
+      "kvinnor": 85.5
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2019,
+      "totalt": 82.9,
+      "man": 81.2,
+      "kvinnor": 84.6
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2019,
+      "totalt": 83.5,
+      "man": 81.8,
+      "kvinnor": 85.1
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2019,
+      "totalt": 83,
+      "man": 81.5,
+      "kvinnor": 84.5
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2019,
+      "totalt": 83,
+      "man": 81.4,
+      "kvinnor": 84.6
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2019,
+      "totalt": 82.6,
+      "man": 80.7,
+      "kvinnor": 84.5
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2019,
+      "totalt": 82,
+      "man": 80.3,
+      "kvinnor": 83.8
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2019,
+      "totalt": 82.1,
+      "man": 80.5,
+      "kvinnor": 83.7
+    },
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2020,
+      "totalt": 82.4,
+      "man": 80.3,
+      "kvinnor": 84.5
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2020,
+      "totalt": 82.3,
+      "man": 80.6,
+      "kvinnor": 84.1
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2020,
+      "totalt": 82.6,
+      "man": 80.6,
+      "kvinnor": 84.6
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2020,
+      "totalt": 82.6,
+      "man": 81,
+      "kvinnor": 84.3
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2020,
+      "totalt": 82.7,
+      "man": 80.9,
+      "kvinnor": 84.5
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2020,
+      "totalt": 82.2,
+      "man": 80.3,
+      "kvinnor": 84.2
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2020,
+      "totalt": 81.4,
+      "man": 79.7,
+      "kvinnor": 83.3
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2020,
+      "totalt": 82.1,
+      "man": 80.5,
+      "kvinnor": 83.8
+    },
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2021,
+      "totalt": 83.9,
+      "man": 81.9,
+      "kvinnor": 85.8
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2021,
+      "totalt": 82.9,
+      "man": 81.2,
+      "kvinnor": 84.6
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2021,
+      "totalt": 83.4,
+      "man": 81.8,
+      "kvinnor": 85.1
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2021,
+      "totalt": 82.8,
+      "man": 80.9,
+      "kvinnor": 84.8
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2021,
+      "totalt": 83,
+      "man": 81.4,
+      "kvinnor": 84.7
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2021,
+      "totalt": 82.4,
+      "man": 80.4,
+      "kvinnor": 84.4
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2021,
+      "totalt": 82.1,
+      "man": 80.2,
+      "kvinnor": 84.2
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2021,
+      "totalt": 82.2,
+      "man": 80.5,
+      "kvinnor": 84
+    },
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2022,
+      "totalt": 83.9,
+      "man": 82.1,
+      "kvinnor": 85.5
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2022,
+      "totalt": 82.8,
+      "man": 81.1,
+      "kvinnor": 84.6
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2022,
+      "totalt": 83.4,
+      "man": 81.5,
+      "kvinnor": 85.3
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2022,
+      "totalt": 82.7,
+      "man": 81,
+      "kvinnor": 84.4
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2022,
+      "totalt": 83.2,
+      "man": 81.5,
+      "kvinnor": 84.9
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2022,
+      "totalt": 82.6,
+      "man": 81,
+      "kvinnor": 84.2
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2022,
+      "totalt": 82.1,
+      "man": 80.6,
+      "kvinnor": 83.7
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2022,
+      "totalt": 82.2,
+      "man": 80.7,
+      "kvinnor": 83.8
+    },
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2023,
+      "totalt": 84.2,
+      "man": 82.6,
+      "kvinnor": 85.8
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2023,
+      "totalt": 83.1,
+      "man": 81.4,
+      "kvinnor": 84.8
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2023,
+      "totalt": 83.5,
+      "man": 81.9,
+      "kvinnor": 85.1
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2023,
+      "totalt": 82.9,
+      "man": 81.2,
+      "kvinnor": 84.7
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2023,
+      "totalt": 83.3,
+      "man": 81.6,
+      "kvinnor": 84.9
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2023,
+      "totalt": 82.7,
+      "man": 81,
+      "kvinnor": 84.4
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2023,
+      "totalt": 82.2,
+      "man": 80.6,
+      "kvinnor": 83.8
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2023,
+      "totalt": 82.2,
+      "man": 80.5,
+      "kvinnor": 84.1
+    },
+    {
+      "riksomrade": "Stockholm",
+      "nuts_kod": "SE11",
+      "ar": 2024,
+      "totalt": 85,
+      "man": 83.5,
+      "kvinnor": 86.3
+    },
+    {
+      "riksomrade": "Östra Mellansverige",
+      "nuts_kod": "SE12",
+      "ar": 2024,
+      "totalt": 83.7,
+      "man": 82.1,
+      "kvinnor": 85.2
+    },
+    {
+      "riksomrade": "Småland med öarna",
+      "nuts_kod": "SE21",
+      "ar": 2024,
+      "totalt": 84,
+      "man": 82.6,
+      "kvinnor": 85.5
+    },
+    {
+      "riksomrade": "Sydsverige",
+      "nuts_kod": "SE22",
+      "ar": 2024,
+      "totalt": 83.7,
+      "man": 82.3,
+      "kvinnor": 85
+    },
+    {
+      "riksomrade": "Västsverige",
+      "nuts_kod": "SE23",
+      "ar": 2024,
+      "totalt": 83.7,
+      "man": 82.1,
+      "kvinnor": 85.4
+    },
+    {
+      "riksomrade": "Norra Mellansverige",
+      "nuts_kod": "SE31",
+      "ar": 2024,
+      "totalt": 83.3,
+      "man": 81.8,
+      "kvinnor": 84.8
+    },
+    {
+      "riksomrade": "Mellersta Norrland",
+      "nuts_kod": "SE32",
+      "ar": 2024,
+      "totalt": 82.8,
+      "man": 80.9,
+      "kvinnor": 84.7
+    },
+    {
+      "riksomrade": "Övre Norrland",
+      "nuts_kod": "SE33",
+      "ar": 2024,
+      "totalt": 82.7,
+      "man": 81.1,
+      "kvinnor": 84.4
+    }
+  ],
+  "meta": {
+    "title": "Medellivslängd vid födelsen per riksområde (2019–2024) - Free Download",
+    "description": "Förväntad medellivslängd vid födelsen (år) i Sveriges riksområden, totalt, män och kvinnor, Eurostat. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Medellivslängd vid födelsen per riksområde (2019–2024) | ListBase",
+    "seo_description": "Download Medellivslängd vid födelsen per riksområde (2019–2024) — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table"
+    ]
+  }
+}

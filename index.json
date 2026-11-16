@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-16T02:25:39.565Z",
-  "total_datasets": 561,
-  "total_records": 2274600,
+  "generated": "2026-11-16T02:25:52.336Z",
+  "total_datasets": 562,
+  "total_records": 2274648,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -4897,6 +4897,33 @@
         "xlsx": {
           "name": "sv-coronalexikon_SV.xlsx",
           "size": 17083
+        }
+      }
+    },
+    {
+      "id": "sv-medellivslangd-vid-fodelsen-per-riksomrade",
+      "name": "Medellivslängd vid födelsen per riksområde (2019–2024)",
+      "category": "health",
+      "record_count": 48,
+      "columns": [
+        "riksomrade",
+        "nuts_kod",
+        "ar",
+        "totalt",
+        "man",
+        "kvinnor"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+      "updated": "2026-11",
+      "size": 9522,
+      "files": {
+        "csv": {
+          "name": "sv-medellivslangd-vid-fodelsen-per-riksomrade_SV.csv",
+          "size": 2582
+        },
+        "xlsx": {
+          "name": "sv-medellivslangd-vid-fodelsen-per-riksomrade_SV.xlsx",
+          "size": 8209
         }
       }
     },
