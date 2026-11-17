@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-17T02:38:16.590Z",
-  "total_datasets": 563,
-  "total_records": 2274787,
+  "generated": "2026-11-17T02:38:26.195Z",
+  "total_datasets": 564,
+  "total_records": 2275293,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "entertainment",
@@ -992,6 +992,30 @@
         "xlsx": {
           "name": "sv-rektorer-lunds-universitet_SV.xlsx",
           "size": 21433
+        }
+      }
+    },
+    {
+      "id": "sv-rektorer-uppsala-universitet",
+      "name": "Rektorer för Uppsala universitet",
+      "category": "education",
+      "record_count": 506,
+      "columns": [
+        "term",
+        "rector",
+        "description"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_rektorer_för_Uppsala_universitet",
+      "updated": "2026-11",
+      "size": 61642,
+      "files": {
+        "csv": {
+          "name": "sv-rektorer-uppsala-universitet_SV.csv",
+          "size": 26675
+        },
+        "xlsx": {
+          "name": "sv-rektorer-uppsala-universitet_SV.xlsx",
+          "size": 21390
         }
       }
     },
