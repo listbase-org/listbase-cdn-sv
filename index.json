@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-17T02:38:36.890Z",
-  "total_datasets": 565,
-  "total_records": 2275322,
+  "generated": "2026-11-17T02:38:46.625Z",
+  "total_datasets": 566,
+  "total_records": 2275472,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -5261,6 +5261,33 @@
         "xlsx": {
           "name": "sv-svenska-krig_SV.xlsx",
           "size": 10850
+        }
+      }
+    },
+    {
+      "id": "sv-svenska-riksdagar-1280-1866",
+      "name": "Svenska herredagar och riksdagar 1280–1866",
+      "category": "history",
+      "record_count": 150,
+      "columns": [
+        "name",
+        "place",
+        "start_date",
+        "end_date",
+        "key_decisions",
+        "remarks"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_riksdagar",
+      "updated": "2026-11",
+      "size": 48030,
+      "files": {
+        "csv": {
+          "name": "sv-svenska-riksdagar-1280-1866_SV.csv",
+          "size": 27428
+        },
+        "xlsx": {
+          "name": "sv-svenska-riksdagar-1280-1866_SV.xlsx",
+          "size": 19765
         }
       }
     },
