@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-16T02:25:52.336Z",
-  "total_datasets": 562,
-  "total_records": 2274648,
+  "generated": "2026-11-17T02:38:16.590Z",
+  "total_datasets": 563,
+  "total_records": 2274787,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "music",
@@ -5577,6 +5577,31 @@
         "xlsx": {
           "name": "sv-justitieombudsman_SV.xlsx",
           "size": 8588
+        }
+      }
+    },
+    {
+      "id": "sv-ledamoter-hogsta-forvaltningsdomstolen",
+      "name": "Ledamöter av Högsta förvaltningsdomstolen",
+      "category": "law",
+      "record_count": 139,
+      "columns": [
+        "name",
+        "service_period",
+        "first_year",
+        "note"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_ledamöter_av_Högsta_förvaltningsdomstolen_(Sverige)",
+      "updated": "2026-11",
+      "size": 20693,
+      "files": {
+        "csv": {
+          "name": "sv-ledamoter-hogsta-forvaltningsdomstolen_SV.csv",
+          "size": 6770
+        },
+        "xlsx": {
+          "name": "sv-ledamoter-hogsta-forvaltningsdomstolen_SV.xlsx",
+          "size": 11750
         }
       }
     },
