@@ -1,0 +1,322 @@
+{
+  "id": "sv-skyddade-beteckningar-livsmedel-och-sprit",
+  "name": "Svenska skyddade ursprungs- och geografiska beteckningar",
+  "title": "Svenska skyddade ursprungs- och geografiska beteckningar",
+  "description": "Svenska livsmedel och spritdrycker registrerade med skyddad ursprungsbeteckning (SUB) eller skyddad geografisk beteckning (SGB) i EU:s register eAmbrosia, t.ex. Kalix Löjrom, Svensk Punsch och Äkta Gränna Polkagrisar, med ärendenummer och registreringsdatum.",
+  "category": "food",
+  "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "source_url": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    },
+    {
+      "key": "protection_type",
+      "label": "Protection Type",
+      "type": "string"
+    },
+    {
+      "key": "product_category",
+      "label": "Product Category",
+      "type": "string"
+    },
+    {
+      "key": "product_group",
+      "label": "Product Group",
+      "type": "string"
+    },
+    {
+      "key": "file_number",
+      "label": "File Number",
+      "type": "string"
+    },
+    {
+      "key": "registration_date",
+      "label": "Registration Date",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Svensk Punsch",
+      "other_names": "Swedish Punch",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Spritdryck",
+      "product_group": "Spritdryck",
+      "file_number": "PGI-SE-01928",
+      "registration_date": "1994-08-29"
+    },
+    {
+      "name": "Svensk Aquavit",
+      "other_names": "Svensk Akvavit, Swedish Aquavit",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Spritdryck",
+      "product_group": "Spritdryck",
+      "file_number": "PGI-SE-01927",
+      "registration_date": "1994-08-29"
+    },
+    {
+      "name": "Svensk Vodka",
+      "other_names": "Swedish Vodka",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Spritdryck",
+      "product_group": "Spritdryck",
+      "file_number": "PGI-SE-01926",
+      "registration_date": "1994-08-29"
+    },
+    {
+      "name": "Svecia",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Ost",
+      "file_number": "PGI-SE-1561",
+      "registration_date": "1997-11-25"
+    },
+    {
+      "name": "Skånsk spettkaka",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Bröd och bakverk",
+      "file_number": "PGI-SE-0071",
+      "registration_date": "2000-07-20"
+    },
+    {
+      "name": "Bruna bönor från Öland",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Baljväxter",
+      "file_number": "PGI-SE-0692",
+      "registration_date": "2010-11-04"
+    },
+    {
+      "name": "Kalix Löjrom",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Rom",
+      "file_number": "PDO-SE-0650",
+      "registration_date": "2010-11-13"
+    },
+    {
+      "name": "Upplandskubb",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Bröd och bakverk",
+      "file_number": "PDO-SE-1084",
+      "registration_date": "2014-08-05"
+    },
+    {
+      "name": "Hånnlamb",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Kött (lamm)",
+      "file_number": "PDO-SE-01327",
+      "registration_date": "2016-11-04"
+    },
+    {
+      "name": "Värmländskt skrädmjöl",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Spannmålsprodukt",
+      "file_number": "PGI-SE-02414",
+      "registration_date": "2021-08-09"
+    },
+    {
+      "name": "Vänerlöjrom",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Rom",
+      "file_number": "PDO-SE-02412",
+      "registration_date": "2021-11-17"
+    },
+    {
+      "name": "Wrångebäcksost",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Ost",
+      "file_number": "PDO-SE-02413",
+      "registration_date": "2022-05-13"
+    },
+    {
+      "name": "Äkta Gränna Polkagrisar",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Konfektyr",
+      "file_number": "PGI-SE-02603",
+      "registration_date": "2022-06-21"
+    },
+    {
+      "name": "Sörmlands Ädel",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Ost",
+      "file_number": "PGI-SE-02629",
+      "registration_date": "2023-03-15"
+    },
+    {
+      "name": "Rökt Vättersik",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Fisk",
+      "file_number": "PDO-SE-02591",
+      "registration_date": "2023-04-24"
+    },
+    {
+      "name": "Grebbestadostron",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Blötdjur",
+      "file_number": "PDO-SE-02819",
+      "registration_date": "2023-05-22"
+    },
+    {
+      "name": "Bohusläns blåmusslor",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Blötdjur",
+      "file_number": "PDO-SE-02616",
+      "registration_date": "2023-06-19"
+    },
+    {
+      "name": "Kullings kalvdans",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Mejeriprodukt",
+      "file_number": "PGI-SE-02511",
+      "registration_date": "2023-06-20"
+    },
+    {
+      "name": "Allåkerbär från Norrland",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Bär",
+      "file_number": "PDO-SE-02494",
+      "registration_date": "2023-09-27"
+    },
+    {
+      "name": "Gotlandslins",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Baljväxter",
+      "file_number": "PDO-SE-02613",
+      "registration_date": "2023-11-08"
+    },
+    {
+      "name": "Skedvi Bröd",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Bröd och bakverk",
+      "file_number": "PGI-SE-02614",
+      "registration_date": "2023-11-21"
+    },
+    {
+      "name": "Vit färsksaltad Östgötagurka",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Grönsaksprodukt",
+      "file_number": "PGI-SE-02824",
+      "registration_date": "2023-11-28"
+    },
+    {
+      "name": "Vindelnrökt skinka",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Köttprodukt",
+      "file_number": "PGI-SE-02654",
+      "registration_date": "2024-06-27"
+    },
+    {
+      "name": "Lappländsk Fjällröding",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Fisk",
+      "file_number": "PGI-SE-02630",
+      "registration_date": "2024-07-12"
+    },
+    {
+      "name": "Hjälmargös",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Fisk",
+      "file_number": "PDO-SE-02888",
+      "registration_date": "2024-07-26"
+    },
+    {
+      "name": "Kaffeost",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Ost",
+      "file_number": "PDO-SE-03014",
+      "registration_date": "2025-06-25"
+    },
+    {
+      "name": "Norrlandsströmming",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Fisk",
+      "file_number": "PDO-SE-03051",
+      "registration_date": "2026-02-09"
+    },
+    {
+      "name": "Ostkustströmming",
+      "other_names": "",
+      "protection_type": "Skyddad ursprungsbeteckning (SUB)",
+      "product_category": "Livsmedel",
+      "product_group": "Fisk",
+      "file_number": "PDO-SE-03050",
+      "registration_date": "2026-04-15"
+    },
+    {
+      "name": "Äpplen från Äppledalen",
+      "other_names": "",
+      "protection_type": "Skyddad geografisk beteckning (SGB)",
+      "product_category": "Livsmedel",
+      "product_group": "Frukt",
+      "file_number": "PGI-SE-02969",
+      "registration_date": "2026-06-11"
+    }
+  ],
+  "meta": {
+    "title": "Svenska skyddade ursprungs- och geografiska beteckningar - Free Download",
+    "description": "Svenska livsmedel och spritdrycker registrerade med skyddad ursprungsbeteckning (SUB) eller skyddad geografisk beteckning (SGB) i EU:s register eAmbrosia, t.ex. Kalix Löjrom, Svensk Punsch och Äkta Gränna Polkagrisar, med ärendenummer och registreringsdatum. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Svenska skyddade ursprungs- och geografiska beteckningar | ListBase",
+    "seo_description": "Download Svenska skyddade ursprungs- och geografiska beteckningar — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/"
+    ]
+  }
+}

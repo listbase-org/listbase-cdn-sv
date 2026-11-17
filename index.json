@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-17T02:38:26.195Z",
-  "total_datasets": 564,
-  "total_records": 2275293,
+  "generated": "2026-11-17T02:38:36.890Z",
+  "total_datasets": 565,
+  "total_records": 2275322,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "geography",
@@ -2505,6 +2505,34 @@
         "xlsx": {
           "name": "sv-restauranger_SV.xlsx",
           "size": 331532
+        }
+      }
+    },
+    {
+      "id": "sv-skyddade-beteckningar-livsmedel-och-sprit",
+      "name": "Svenska skyddade ursprungs- och geografiska beteckningar",
+      "category": "food",
+      "record_count": 29,
+      "columns": [
+        "name",
+        "other_names",
+        "protection_type",
+        "product_category",
+        "product_group",
+        "file_number",
+        "registration_date"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 10771,
+      "files": {
+        "csv": {
+          "name": "sv-skyddade-beteckningar-livsmedel-och-sprit_SV.csv",
+          "size": 3401
+        },
+        "xlsx": {
+          "name": "sv-skyddade-beteckningar-livsmedel-och-sprit_SV.xlsx",
+          "size": 8567
         }
       }
     },
