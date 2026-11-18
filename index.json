@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-17T02:38:46.625Z",
-  "total_datasets": 566,
-  "total_records": 2275472,
+  "generated": "2026-11-18T02:33:00.777Z",
+  "total_datasets": 567,
+  "total_records": 2276131,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -5804,6 +5804,33 @@
         "xlsx": {
           "name": "sv-tingsratter-orter-per-lan_SV.xlsx",
           "size": 7666
+        }
+      }
+    },
+    {
+      "id": "sv-ettor-pa-tio-i-topp",
+      "name": "Ettor på Tio i topp (1961–1974)",
+      "category": "music",
+      "record_count": 659,
+      "columns": [
+        "year",
+        "date",
+        "number",
+        "song",
+        "artist",
+        "jury_cities"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_ettor_på_Tio_i_topp",
+      "updated": "2026-11",
+      "size": 125775,
+      "files": {
+        "csv": {
+          "name": "sv-ettor-pa-tio-i-topp_SV.csv",
+          "size": 50839
+        },
+        "xlsx": {
+          "name": "sv-ettor-pa-tio-i-topp_SV.xlsx",
+          "size": 31975
         }
       }
     },
