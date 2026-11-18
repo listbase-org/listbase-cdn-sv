@@ -1,0 +1,2613 @@
+{
+  "id": "sv-namnsdagar",
+  "name": "Namnsdagar i Sverige",
+  "title": "Namnsdagar i Sverige",
+  "description": "Svenska namnsdagar för årets alla dagar i datumordning enligt den svenska namnlängden, med kommentar för dagar utan namnsdag eller med särskild helgdag.",
+  "category": "time",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_namnsdagar_i_Sverige_i_datumordning",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_namnsdagar_i_Sverige_i_datumordning",
+  "updated": "2026-11",
+  "record_count": 366,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "string"
+    },
+    {
+      "key": "names",
+      "label": "Names",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "1 januari",
+      "day": 1,
+      "month": "januari",
+      "names": "(ingen namnsdag)",
+      "note": "Nyårsdagen"
+    },
+    {
+      "date": "2 januari",
+      "day": 2,
+      "month": "januari",
+      "names": "Svea",
+      "note": ""
+    },
+    {
+      "date": "3 januari",
+      "day": 3,
+      "month": "januari",
+      "names": "Alfred, Alfrida",
+      "note": ""
+    },
+    {
+      "date": "4 januari",
+      "day": 4,
+      "month": "januari",
+      "names": "Rut",
+      "note": ""
+    },
+    {
+      "date": "5 januari",
+      "day": 5,
+      "month": "januari",
+      "names": "Hanna, Hannele",
+      "note": ""
+    },
+    {
+      "date": "6 januari",
+      "day": 6,
+      "month": "januari",
+      "names": "Kasper, Melker, Baltsar",
+      "note": ""
+    },
+    {
+      "date": "7 januari",
+      "day": 7,
+      "month": "januari",
+      "names": "August, Augusta",
+      "note": ""
+    },
+    {
+      "date": "8 januari",
+      "day": 8,
+      "month": "januari",
+      "names": "Erland",
+      "note": ""
+    },
+    {
+      "date": "9 januari",
+      "day": 9,
+      "month": "januari",
+      "names": "Gunnar, Gunder",
+      "note": ""
+    },
+    {
+      "date": "10 januari",
+      "day": 10,
+      "month": "januari",
+      "names": "Sigurd, Sigbritt",
+      "note": ""
+    },
+    {
+      "date": "11 januari",
+      "day": 11,
+      "month": "januari",
+      "names": "Jan, Jannike",
+      "note": ""
+    },
+    {
+      "date": "12 januari",
+      "day": 12,
+      "month": "januari",
+      "names": "Frideborg, Fridolf",
+      "note": ""
+    },
+    {
+      "date": "13 januari",
+      "day": 13,
+      "month": "januari",
+      "names": "Knut",
+      "note": ""
+    },
+    {
+      "date": "14 januari",
+      "day": 14,
+      "month": "januari",
+      "names": "Felix, Felicia",
+      "note": ""
+    },
+    {
+      "date": "15 januari",
+      "day": 15,
+      "month": "januari",
+      "names": "Laura, Lorentz",
+      "note": ""
+    },
+    {
+      "date": "16 januari",
+      "day": 16,
+      "month": "januari",
+      "names": "Hjalmar, Helmer",
+      "note": ""
+    },
+    {
+      "date": "17 januari",
+      "day": 17,
+      "month": "januari",
+      "names": "Anton, Tony",
+      "note": ""
+    },
+    {
+      "date": "18 januari",
+      "day": 18,
+      "month": "januari",
+      "names": "Hilda, Hildur",
+      "note": ""
+    },
+    {
+      "date": "19 januari",
+      "day": 19,
+      "month": "januari",
+      "names": "Henrik, Henry",
+      "note": ""
+    },
+    {
+      "date": "20 januari",
+      "day": 20,
+      "month": "januari",
+      "names": "Fabian, Sebastian",
+      "note": ""
+    },
+    {
+      "date": "21 januari",
+      "day": 21,
+      "month": "januari",
+      "names": "Agnes, Agneta",
+      "note": ""
+    },
+    {
+      "date": "22 januari",
+      "day": 22,
+      "month": "januari",
+      "names": "Vincent, Viktor",
+      "note": ""
+    },
+    {
+      "date": "23 januari",
+      "day": 23,
+      "month": "januari",
+      "names": "Frej, Freja",
+      "note": ""
+    },
+    {
+      "date": "24 januari",
+      "day": 24,
+      "month": "januari",
+      "names": "Erika",
+      "note": ""
+    },
+    {
+      "date": "25 januari",
+      "day": 25,
+      "month": "januari",
+      "names": "Paul, Pål",
+      "note": ""
+    },
+    {
+      "date": "26 januari",
+      "day": 26,
+      "month": "januari",
+      "names": "Bodil, Boel",
+      "note": ""
+    },
+    {
+      "date": "27 januari",
+      "day": 27,
+      "month": "januari",
+      "names": "Göte, Göta",
+      "note": ""
+    },
+    {
+      "date": "28 januari",
+      "day": 28,
+      "month": "januari",
+      "names": "Karl, Karla",
+      "note": ""
+    },
+    {
+      "date": "29 januari",
+      "day": 29,
+      "month": "januari",
+      "names": "Diana",
+      "note": ""
+    },
+    {
+      "date": "30 januari",
+      "day": 30,
+      "month": "januari",
+      "names": "Gunilla, Gunhild",
+      "note": ""
+    },
+    {
+      "date": "31 januari",
+      "day": 31,
+      "month": "januari",
+      "names": "Ivar, Joar",
+      "note": ""
+    },
+    {
+      "date": "1 februari",
+      "day": 1,
+      "month": "februari",
+      "names": "Max, Maximilian",
+      "note": ""
+    },
+    {
+      "date": "2 februari",
+      "day": 2,
+      "month": "februari",
+      "names": "(ingen namnsdag)",
+      "note": "Kyndelsmässodagen"
+    },
+    {
+      "date": "3 februari",
+      "day": 3,
+      "month": "februari",
+      "names": "Disa, Hjördis",
+      "note": ""
+    },
+    {
+      "date": "4 februari",
+      "day": 4,
+      "month": "februari",
+      "names": "Ansgar, Anselm",
+      "note": ""
+    },
+    {
+      "date": "5 februari",
+      "day": 5,
+      "month": "februari",
+      "names": "Agata, Agda",
+      "note": ""
+    },
+    {
+      "date": "6 februari",
+      "day": 6,
+      "month": "februari",
+      "names": "Dorotea, Doris",
+      "note": ""
+    },
+    {
+      "date": "7 februari",
+      "day": 7,
+      "month": "februari",
+      "names": "Rikard, Dick",
+      "note": ""
+    },
+    {
+      "date": "8 februari",
+      "day": 8,
+      "month": "februari",
+      "names": "Berta, Bert",
+      "note": ""
+    },
+    {
+      "date": "9 februari",
+      "day": 9,
+      "month": "februari",
+      "names": "Fanny, Franciska",
+      "note": ""
+    },
+    {
+      "date": "10 februari",
+      "day": 10,
+      "month": "februari",
+      "names": "Iris",
+      "note": ""
+    },
+    {
+      "date": "11 februari",
+      "day": 11,
+      "month": "februari",
+      "names": "Yngve, Inge",
+      "note": ""
+    },
+    {
+      "date": "12 februari",
+      "day": 12,
+      "month": "februari",
+      "names": "Evelina, Evy",
+      "note": ""
+    },
+    {
+      "date": "13 februari",
+      "day": 13,
+      "month": "februari",
+      "names": "Agne, Ove",
+      "note": ""
+    },
+    {
+      "date": "14 februari",
+      "day": 14,
+      "month": "februari",
+      "names": "Valentin",
+      "note": ""
+    },
+    {
+      "date": "15 februari",
+      "day": 15,
+      "month": "februari",
+      "names": "Sigfrid",
+      "note": ""
+    },
+    {
+      "date": "16 februari",
+      "day": 16,
+      "month": "februari",
+      "names": "Julia, Julius",
+      "note": ""
+    },
+    {
+      "date": "17 februari",
+      "day": 17,
+      "month": "februari",
+      "names": "Alexandra, Sandra",
+      "note": ""
+    },
+    {
+      "date": "18 februari",
+      "day": 18,
+      "month": "februari",
+      "names": "Frida, Fritiof",
+      "note": ""
+    },
+    {
+      "date": "19 februari",
+      "day": 19,
+      "month": "februari",
+      "names": "Gabriella, Ella",
+      "note": ""
+    },
+    {
+      "date": "20 februari",
+      "day": 20,
+      "month": "februari",
+      "names": "Vivianne",
+      "note": ""
+    },
+    {
+      "date": "21 februari",
+      "day": 21,
+      "month": "februari",
+      "names": "Hilding",
+      "note": ""
+    },
+    {
+      "date": "22 februari",
+      "day": 22,
+      "month": "februari",
+      "names": "Pia",
+      "note": ""
+    },
+    {
+      "date": "23 februari",
+      "day": 23,
+      "month": "februari",
+      "names": "Torsten, Torun",
+      "note": ""
+    },
+    {
+      "date": "24 februari",
+      "day": 24,
+      "month": "februari",
+      "names": "Mattias, Mats",
+      "note": ""
+    },
+    {
+      "date": "25 februari",
+      "day": 25,
+      "month": "februari",
+      "names": "Sigvard, Sivert",
+      "note": ""
+    },
+    {
+      "date": "26 februari",
+      "day": 26,
+      "month": "februari",
+      "names": "Torgny, Torkel",
+      "note": ""
+    },
+    {
+      "date": "27 februari",
+      "day": 27,
+      "month": "februari",
+      "names": "Lage",
+      "note": ""
+    },
+    {
+      "date": "28 februari",
+      "day": 28,
+      "month": "februari",
+      "names": "Maria, Maja",
+      "note": ""
+    },
+    {
+      "date": "29 februari",
+      "day": 29,
+      "month": "februari",
+      "names": "(ingen namnsdag)",
+      "note": "Skottdagen"
+    },
+    {
+      "date": "1 mars",
+      "day": 1,
+      "month": "mars",
+      "names": "Albin, Elvira",
+      "note": ""
+    },
+    {
+      "date": "2 mars",
+      "day": 2,
+      "month": "mars",
+      "names": "Ernst, Erna",
+      "note": ""
+    },
+    {
+      "date": "3 mars",
+      "day": 3,
+      "month": "mars",
+      "names": "Gunborg, Gunvor",
+      "note": ""
+    },
+    {
+      "date": "4 mars",
+      "day": 4,
+      "month": "mars",
+      "names": "Adrian, Adriana",
+      "note": ""
+    },
+    {
+      "date": "5 mars",
+      "day": 5,
+      "month": "mars",
+      "names": "Tora, Tove",
+      "note": ""
+    },
+    {
+      "date": "6 mars",
+      "day": 6,
+      "month": "mars",
+      "names": "Ebba, Ebbe",
+      "note": ""
+    },
+    {
+      "date": "7 mars",
+      "day": 7,
+      "month": "mars",
+      "names": "Camilla",
+      "note": ""
+    },
+    {
+      "date": "8 mars",
+      "day": 8,
+      "month": "mars",
+      "names": "Siv, Saga",
+      "note": ""
+    },
+    {
+      "date": "9 mars",
+      "day": 9,
+      "month": "mars",
+      "names": "Torbjörn, Torleif",
+      "note": ""
+    },
+    {
+      "date": "10 mars",
+      "day": 10,
+      "month": "mars",
+      "names": "Edla, Ada",
+      "note": ""
+    },
+    {
+      "date": "11 mars",
+      "day": 11,
+      "month": "mars",
+      "names": "Edvin, Egon",
+      "note": ""
+    },
+    {
+      "date": "12 mars",
+      "day": 12,
+      "month": "mars",
+      "names": "Viktoria, Regina",
+      "note": ""
+    },
+    {
+      "date": "13 mars",
+      "day": 13,
+      "month": "mars",
+      "names": "Greger",
+      "note": ""
+    },
+    {
+      "date": "14 mars",
+      "day": 14,
+      "month": "mars",
+      "names": "Matilda, Maud",
+      "note": ""
+    },
+    {
+      "date": "15 mars",
+      "day": 15,
+      "month": "mars",
+      "names": "Kristoffer, Christel",
+      "note": ""
+    },
+    {
+      "date": "16 mars",
+      "day": 16,
+      "month": "mars",
+      "names": "Herbert, Gilbert",
+      "note": ""
+    },
+    {
+      "date": "17 mars",
+      "day": 17,
+      "month": "mars",
+      "names": "Gertrud",
+      "note": ""
+    },
+    {
+      "date": "18 mars",
+      "day": 18,
+      "month": "mars",
+      "names": "Edvard, Edmund",
+      "note": ""
+    },
+    {
+      "date": "19 mars",
+      "day": 19,
+      "month": "mars",
+      "names": "Josef, Josefina",
+      "note": ""
+    },
+    {
+      "date": "20 mars",
+      "day": 20,
+      "month": "mars",
+      "names": "Joakim, Kim",
+      "note": ""
+    },
+    {
+      "date": "21 mars",
+      "day": 21,
+      "month": "mars",
+      "names": "Bengt",
+      "note": ""
+    },
+    {
+      "date": "22 mars",
+      "day": 22,
+      "month": "mars",
+      "names": "Kennet, Kent",
+      "note": ""
+    },
+    {
+      "date": "23 mars",
+      "day": 23,
+      "month": "mars",
+      "names": "Gerda, Gerd",
+      "note": ""
+    },
+    {
+      "date": "24 mars",
+      "day": 24,
+      "month": "mars",
+      "names": "Gabriel, Rafael",
+      "note": ""
+    },
+    {
+      "date": "25 mars",
+      "day": 25,
+      "month": "mars",
+      "names": "(ingen namnsdag)",
+      "note": "Marie bebådelsedag"
+    },
+    {
+      "date": "26 mars",
+      "day": 26,
+      "month": "mars",
+      "names": "Emanuel",
+      "note": ""
+    },
+    {
+      "date": "27 mars",
+      "day": 27,
+      "month": "mars",
+      "names": "Rudolf, Ralf",
+      "note": ""
+    },
+    {
+      "date": "28 mars",
+      "day": 28,
+      "month": "mars",
+      "names": "Malkolm, Morgan",
+      "note": ""
+    },
+    {
+      "date": "29 mars",
+      "day": 29,
+      "month": "mars",
+      "names": "Jonas, Jens",
+      "note": ""
+    },
+    {
+      "date": "30 mars",
+      "day": 30,
+      "month": "mars",
+      "names": "Holger, Holmfrid",
+      "note": ""
+    },
+    {
+      "date": "31 mars",
+      "day": 31,
+      "month": "mars",
+      "names": "Ester, Noa",
+      "note": ""
+    },
+    {
+      "date": "1 april",
+      "day": 1,
+      "month": "april",
+      "names": "Harald, Hervor",
+      "note": ""
+    },
+    {
+      "date": "2 april",
+      "day": 2,
+      "month": "april",
+      "names": "Gudmund, Ingemund",
+      "note": ""
+    },
+    {
+      "date": "3 april",
+      "day": 3,
+      "month": "april",
+      "names": "Ferdinand, Nanna",
+      "note": ""
+    },
+    {
+      "date": "4 april",
+      "day": 4,
+      "month": "april",
+      "names": "Marianne, Marlene",
+      "note": ""
+    },
+    {
+      "date": "5 april",
+      "day": 5,
+      "month": "april",
+      "names": "Irene, Irja",
+      "note": ""
+    },
+    {
+      "date": "6 april",
+      "day": 6,
+      "month": "april",
+      "names": "Vilhelm, William",
+      "note": ""
+    },
+    {
+      "date": "7 april",
+      "day": 7,
+      "month": "april",
+      "names": "Irma, Irmelin",
+      "note": ""
+    },
+    {
+      "date": "8 april",
+      "day": 8,
+      "month": "april",
+      "names": "Nadja, Tanja",
+      "note": ""
+    },
+    {
+      "date": "9 april",
+      "day": 9,
+      "month": "april",
+      "names": "Otto, Ottilia",
+      "note": ""
+    },
+    {
+      "date": "10 april",
+      "day": 10,
+      "month": "april",
+      "names": "Ingvar, Ingvor",
+      "note": ""
+    },
+    {
+      "date": "11 april",
+      "day": 11,
+      "month": "april",
+      "names": "Ulf, Ylva",
+      "note": ""
+    },
+    {
+      "date": "12 april",
+      "day": 12,
+      "month": "april",
+      "names": "Liv",
+      "note": ""
+    },
+    {
+      "date": "13 april",
+      "day": 13,
+      "month": "april",
+      "names": "Artur, Douglas",
+      "note": ""
+    },
+    {
+      "date": "14 april",
+      "day": 14,
+      "month": "april",
+      "names": "Tiburtius",
+      "note": ""
+    },
+    {
+      "date": "15 april",
+      "day": 15,
+      "month": "april",
+      "names": "Olivia, Oliver",
+      "note": ""
+    },
+    {
+      "date": "16 april",
+      "day": 16,
+      "month": "april",
+      "names": "Patrik, Patricia",
+      "note": ""
+    },
+    {
+      "date": "17 april",
+      "day": 17,
+      "month": "april",
+      "names": "Elias, Elis",
+      "note": ""
+    },
+    {
+      "date": "18 april",
+      "day": 18,
+      "month": "april",
+      "names": "Valdemar, Volmar",
+      "note": ""
+    },
+    {
+      "date": "19 april",
+      "day": 19,
+      "month": "april",
+      "names": "Olaus, Ola",
+      "note": ""
+    },
+    {
+      "date": "20 april",
+      "day": 20,
+      "month": "april",
+      "names": "Amalia, Amelie",
+      "note": ""
+    },
+    {
+      "date": "21 april",
+      "day": 21,
+      "month": "april",
+      "names": "Anneli, Annika",
+      "note": ""
+    },
+    {
+      "date": "22 april",
+      "day": 22,
+      "month": "april",
+      "names": "Allan, Glenn",
+      "note": ""
+    },
+    {
+      "date": "23 april",
+      "day": 23,
+      "month": "april",
+      "names": "Georg, Göran",
+      "note": ""
+    },
+    {
+      "date": "24 april",
+      "day": 24,
+      "month": "april",
+      "names": "Vega",
+      "note": ""
+    },
+    {
+      "date": "25 april",
+      "day": 25,
+      "month": "april",
+      "names": "Markus",
+      "note": ""
+    },
+    {
+      "date": "26 april",
+      "day": 26,
+      "month": "april",
+      "names": "Teresia, Terese",
+      "note": ""
+    },
+    {
+      "date": "27 april",
+      "day": 27,
+      "month": "april",
+      "names": "Engelbrekt",
+      "note": ""
+    },
+    {
+      "date": "28 april",
+      "day": 28,
+      "month": "april",
+      "names": "Ture, Tyra",
+      "note": ""
+    },
+    {
+      "date": "29 april",
+      "day": 29,
+      "month": "april",
+      "names": "Tyko",
+      "note": ""
+    },
+    {
+      "date": "30 april",
+      "day": 30,
+      "month": "april",
+      "names": "Mariana",
+      "note": "Valborgsmässoafton"
+    },
+    {
+      "date": "1 maj",
+      "day": 1,
+      "month": "maj",
+      "names": "Valborg",
+      "note": "Första maj"
+    },
+    {
+      "date": "2 maj",
+      "day": 2,
+      "month": "maj",
+      "names": "Filip, Filippa",
+      "note": ""
+    },
+    {
+      "date": "3 maj",
+      "day": 3,
+      "month": "maj",
+      "names": "John, Jane",
+      "note": ""
+    },
+    {
+      "date": "4 maj",
+      "day": 4,
+      "month": "maj",
+      "names": "Monika, Mona",
+      "note": ""
+    },
+    {
+      "date": "5 maj",
+      "day": 5,
+      "month": "maj",
+      "names": "Gotthard, Erhard",
+      "note": ""
+    },
+    {
+      "date": "6 maj",
+      "day": 6,
+      "month": "maj",
+      "names": "Marit, Rita",
+      "note": ""
+    },
+    {
+      "date": "7 maj",
+      "day": 7,
+      "month": "maj",
+      "names": "Carina, Carita",
+      "note": ""
+    },
+    {
+      "date": "8 maj",
+      "day": 8,
+      "month": "maj",
+      "names": "Åke",
+      "note": ""
+    },
+    {
+      "date": "9 maj",
+      "day": 9,
+      "month": "maj",
+      "names": "Reidar, Reidun",
+      "note": ""
+    },
+    {
+      "date": "10 maj",
+      "day": 10,
+      "month": "maj",
+      "names": "Esbjörn, Styrbjörn",
+      "note": ""
+    },
+    {
+      "date": "11 maj",
+      "day": 11,
+      "month": "maj",
+      "names": "Märta, Märit",
+      "note": ""
+    },
+    {
+      "date": "12 maj",
+      "day": 12,
+      "month": "maj",
+      "names": "Charlotta, Lotta",
+      "note": ""
+    },
+    {
+      "date": "13 maj",
+      "day": 13,
+      "month": "maj",
+      "names": "Linnea, Linn",
+      "note": ""
+    },
+    {
+      "date": "14 maj",
+      "day": 14,
+      "month": "maj",
+      "names": "Halvard, Halvar",
+      "note": ""
+    },
+    {
+      "date": "15 maj",
+      "day": 15,
+      "month": "maj",
+      "names": "Sofia, Sonja",
+      "note": ""
+    },
+    {
+      "date": "16 maj",
+      "day": 16,
+      "month": "maj",
+      "names": "Ronald, Ronny",
+      "note": ""
+    },
+    {
+      "date": "17 maj",
+      "day": 17,
+      "month": "maj",
+      "names": "Rebecka, Ruben",
+      "note": ""
+    },
+    {
+      "date": "18 maj",
+      "day": 18,
+      "month": "maj",
+      "names": "Erik",
+      "note": ""
+    },
+    {
+      "date": "19 maj",
+      "day": 19,
+      "month": "maj",
+      "names": "Maj, Majken",
+      "note": ""
+    },
+    {
+      "date": "20 maj",
+      "day": 20,
+      "month": "maj",
+      "names": "Karolina, Carola",
+      "note": ""
+    },
+    {
+      "date": "21 maj",
+      "day": 21,
+      "month": "maj",
+      "names": "Konstantin, Conny",
+      "note": ""
+    },
+    {
+      "date": "22 maj",
+      "day": 22,
+      "month": "maj",
+      "names": "Hemming, Henning",
+      "note": ""
+    },
+    {
+      "date": "23 maj",
+      "day": 23,
+      "month": "maj",
+      "names": "Desideria, Desirée",
+      "note": ""
+    },
+    {
+      "date": "24 maj",
+      "day": 24,
+      "month": "maj",
+      "names": "Ivan, Vanja",
+      "note": ""
+    },
+    {
+      "date": "25 maj",
+      "day": 25,
+      "month": "maj",
+      "names": "Urban",
+      "note": ""
+    },
+    {
+      "date": "26 maj",
+      "day": 26,
+      "month": "maj",
+      "names": "Vilhelmina, Vilma",
+      "note": ""
+    },
+    {
+      "date": "27 maj",
+      "day": 27,
+      "month": "maj",
+      "names": "Beda, Blenda",
+      "note": ""
+    },
+    {
+      "date": "28 maj",
+      "day": 28,
+      "month": "maj",
+      "names": "Ingeborg, Borghild",
+      "note": ""
+    },
+    {
+      "date": "29 maj",
+      "day": 29,
+      "month": "maj",
+      "names": "Yvonne, Jeanette",
+      "note": ""
+    },
+    {
+      "date": "30 maj",
+      "day": 30,
+      "month": "maj",
+      "names": "Vera, Veronika",
+      "note": ""
+    },
+    {
+      "date": "31 maj",
+      "day": 31,
+      "month": "maj",
+      "names": "Petronella, Pernilla",
+      "note": ""
+    },
+    {
+      "date": "1 juni",
+      "day": 1,
+      "month": "juni",
+      "names": "Gun, Gunnel",
+      "note": ""
+    },
+    {
+      "date": "2 juni",
+      "day": 2,
+      "month": "juni",
+      "names": "Rutger, Roger",
+      "note": ""
+    },
+    {
+      "date": "3 juni",
+      "day": 3,
+      "month": "juni",
+      "names": "Ingemar, Gudmar",
+      "note": ""
+    },
+    {
+      "date": "4 juni",
+      "day": 4,
+      "month": "juni",
+      "names": "Solbritt, Solveig",
+      "note": ""
+    },
+    {
+      "date": "5 juni",
+      "day": 5,
+      "month": "juni",
+      "names": "Bo",
+      "note": ""
+    },
+    {
+      "date": "6 juni",
+      "day": 6,
+      "month": "juni",
+      "names": "Gustav, Gösta",
+      "note": ""
+    },
+    {
+      "date": "7 juni",
+      "day": 7,
+      "month": "juni",
+      "names": "Robert, Robin",
+      "note": ""
+    },
+    {
+      "date": "8 juni",
+      "day": 8,
+      "month": "juni",
+      "names": "Eivor, Majvor",
+      "note": ""
+    },
+    {
+      "date": "9 juni",
+      "day": 9,
+      "month": "juni",
+      "names": "Börje, Birger",
+      "note": ""
+    },
+    {
+      "date": "10 juni",
+      "day": 10,
+      "month": "juni",
+      "names": "Svante, Boris",
+      "note": ""
+    },
+    {
+      "date": "11 juni",
+      "day": 11,
+      "month": "juni",
+      "names": "Bertil, Berthold",
+      "note": ""
+    },
+    {
+      "date": "12 juni",
+      "day": 12,
+      "month": "juni",
+      "names": "Eskil",
+      "note": ""
+    },
+    {
+      "date": "13 juni",
+      "day": 13,
+      "month": "juni",
+      "names": "Aina, Aino",
+      "note": ""
+    },
+    {
+      "date": "14 juni",
+      "day": 14,
+      "month": "juni",
+      "names": "Håkan, Hakon",
+      "note": ""
+    },
+    {
+      "date": "15 juni",
+      "day": 15,
+      "month": "juni",
+      "names": "Margit, Margot",
+      "note": ""
+    },
+    {
+      "date": "16 juni",
+      "day": 16,
+      "month": "juni",
+      "names": "Axel, Axelina",
+      "note": ""
+    },
+    {
+      "date": "17 juni",
+      "day": 17,
+      "month": "juni",
+      "names": "Torborg, Torvald",
+      "note": ""
+    },
+    {
+      "date": "18 juni",
+      "day": 18,
+      "month": "juni",
+      "names": "Björn, Bjarne",
+      "note": ""
+    },
+    {
+      "date": "19 juni",
+      "day": 19,
+      "month": "juni",
+      "names": "Germund, Görel",
+      "note": ""
+    },
+    {
+      "date": "20 juni",
+      "day": 20,
+      "month": "juni",
+      "names": "Linda",
+      "note": ""
+    },
+    {
+      "date": "21 juni",
+      "day": 21,
+      "month": "juni",
+      "names": "Alf, Alvar",
+      "note": ""
+    },
+    {
+      "date": "22 juni",
+      "day": 22,
+      "month": "juni",
+      "names": "Paulina, Paula",
+      "note": ""
+    },
+    {
+      "date": "23 juni",
+      "day": 23,
+      "month": "juni",
+      "names": "Adolf, Alice",
+      "note": ""
+    },
+    {
+      "date": "24 juni",
+      "day": 24,
+      "month": "juni",
+      "names": "(ingen namnsdag)",
+      "note": "Johannes Döparens dag"
+    },
+    {
+      "date": "25 juni",
+      "day": 25,
+      "month": "juni",
+      "names": "David, Salomon",
+      "note": ""
+    },
+    {
+      "date": "26 juni",
+      "day": 26,
+      "month": "juni",
+      "names": "Rakel, Lea",
+      "note": ""
+    },
+    {
+      "date": "27 juni",
+      "day": 27,
+      "month": "juni",
+      "names": "Selma, Fingal",
+      "note": ""
+    },
+    {
+      "date": "28 juni",
+      "day": 28,
+      "month": "juni",
+      "names": "Leo",
+      "note": ""
+    },
+    {
+      "date": "29 juni",
+      "day": 29,
+      "month": "juni",
+      "names": "Peter, Petra",
+      "note": ""
+    },
+    {
+      "date": "30 juni",
+      "day": 30,
+      "month": "juni",
+      "names": "Elof, Leif",
+      "note": ""
+    },
+    {
+      "date": "1 juli",
+      "day": 1,
+      "month": "juli",
+      "names": "Aron, Mirjam",
+      "note": ""
+    },
+    {
+      "date": "2 juli",
+      "day": 2,
+      "month": "juli",
+      "names": "Rosa, Rosita",
+      "note": ""
+    },
+    {
+      "date": "3 juli",
+      "day": 3,
+      "month": "juli",
+      "names": "Aurora",
+      "note": ""
+    },
+    {
+      "date": "4 juli",
+      "day": 4,
+      "month": "juli",
+      "names": "Ulrika, Ulla",
+      "note": ""
+    },
+    {
+      "date": "5 juli",
+      "day": 5,
+      "month": "juli",
+      "names": "Laila, Ritva",
+      "note": ""
+    },
+    {
+      "date": "6 juli",
+      "day": 6,
+      "month": "juli",
+      "names": "Esaias, Jessika",
+      "note": ""
+    },
+    {
+      "date": "7 juli",
+      "day": 7,
+      "month": "juli",
+      "names": "Klas",
+      "note": ""
+    },
+    {
+      "date": "8 juli",
+      "day": 8,
+      "month": "juli",
+      "names": "Kjell",
+      "note": ""
+    },
+    {
+      "date": "9 juli",
+      "day": 9,
+      "month": "juli",
+      "names": "Jörgen, Örjan",
+      "note": ""
+    },
+    {
+      "date": "10 juli",
+      "day": 10,
+      "month": "juli",
+      "names": "André, Andrea",
+      "note": ""
+    },
+    {
+      "date": "11 juli",
+      "day": 11,
+      "month": "juli",
+      "names": "Eleonora, Ellinor",
+      "note": ""
+    },
+    {
+      "date": "12 juli",
+      "day": 12,
+      "month": "juli",
+      "names": "Herman, Hermine",
+      "note": ""
+    },
+    {
+      "date": "13 juli",
+      "day": 13,
+      "month": "juli",
+      "names": "Joel, Judit",
+      "note": ""
+    },
+    {
+      "date": "14 juli",
+      "day": 14,
+      "month": "juli",
+      "names": "Folke",
+      "note": ""
+    },
+    {
+      "date": "15 juli",
+      "day": 15,
+      "month": "juli",
+      "names": "Ragnhild, Ragnvald",
+      "note": ""
+    },
+    {
+      "date": "16 juli",
+      "day": 16,
+      "month": "juli",
+      "names": "Reinhold, Reine",
+      "note": ""
+    },
+    {
+      "date": "17 juli",
+      "day": 17,
+      "month": "juli",
+      "names": "Bruno",
+      "note": ""
+    },
+    {
+      "date": "18 juli",
+      "day": 18,
+      "month": "juli",
+      "names": "Fredrik, Fritz",
+      "note": ""
+    },
+    {
+      "date": "19 juli",
+      "day": 19,
+      "month": "juli",
+      "names": "Sara",
+      "note": ""
+    },
+    {
+      "date": "20 juli",
+      "day": 20,
+      "month": "juli",
+      "names": "Margareta, Greta",
+      "note": ""
+    },
+    {
+      "date": "21 juli",
+      "day": 21,
+      "month": "juli",
+      "names": "Johanna",
+      "note": ""
+    },
+    {
+      "date": "22 juli",
+      "day": 22,
+      "month": "juli",
+      "names": "Magdalena, Madeleine",
+      "note": ""
+    },
+    {
+      "date": "23 juli",
+      "day": 23,
+      "month": "juli",
+      "names": "Emma, Emmy",
+      "note": ""
+    },
+    {
+      "date": "24 juli",
+      "day": 24,
+      "month": "juli",
+      "names": "Kristina, Kerstin",
+      "note": ""
+    },
+    {
+      "date": "25 juli",
+      "day": 25,
+      "month": "juli",
+      "names": "Jakob",
+      "note": ""
+    },
+    {
+      "date": "26 juli",
+      "day": 26,
+      "month": "juli",
+      "names": "Jesper, Jasmine",
+      "note": ""
+    },
+    {
+      "date": "27 juli",
+      "day": 27,
+      "month": "juli",
+      "names": "Marta",
+      "note": ""
+    },
+    {
+      "date": "28 juli",
+      "day": 28,
+      "month": "juli",
+      "names": "Botvid, Seved",
+      "note": ""
+    },
+    {
+      "date": "29 juli",
+      "day": 29,
+      "month": "juli",
+      "names": "Olof, Olle",
+      "note": ""
+    },
+    {
+      "date": "30 juli",
+      "day": 30,
+      "month": "juli",
+      "names": "Algot",
+      "note": ""
+    },
+    {
+      "date": "31 juli",
+      "day": 31,
+      "month": "juli",
+      "names": "Helena, Elin",
+      "note": ""
+    },
+    {
+      "date": "1 augusti",
+      "day": 1,
+      "month": "augusti",
+      "names": "Per",
+      "note": ""
+    },
+    {
+      "date": "2 augusti",
+      "day": 2,
+      "month": "augusti",
+      "names": "Karin, Kajsa",
+      "note": ""
+    },
+    {
+      "date": "3 augusti",
+      "day": 3,
+      "month": "augusti",
+      "names": "Tage",
+      "note": ""
+    },
+    {
+      "date": "4 augusti",
+      "day": 4,
+      "month": "augusti",
+      "names": "Arne, Arnold",
+      "note": ""
+    },
+    {
+      "date": "5 augusti",
+      "day": 5,
+      "month": "augusti",
+      "names": "Ulrik, Alrik",
+      "note": ""
+    },
+    {
+      "date": "6 augusti",
+      "day": 6,
+      "month": "augusti",
+      "names": "Alfons, Inez",
+      "note": ""
+    },
+    {
+      "date": "7 augusti",
+      "day": 7,
+      "month": "augusti",
+      "names": "Dennis, Denise",
+      "note": ""
+    },
+    {
+      "date": "8 augusti",
+      "day": 8,
+      "month": "augusti",
+      "names": "Silvia, Sylvia",
+      "note": ""
+    },
+    {
+      "date": "9 augusti",
+      "day": 9,
+      "month": "augusti",
+      "names": "Roland",
+      "note": ""
+    },
+    {
+      "date": "10 augusti",
+      "day": 10,
+      "month": "augusti",
+      "names": "Lars",
+      "note": ""
+    },
+    {
+      "date": "11 augusti",
+      "day": 11,
+      "month": "augusti",
+      "names": "Susanna",
+      "note": ""
+    },
+    {
+      "date": "12 augusti",
+      "day": 12,
+      "month": "augusti",
+      "names": "Klara",
+      "note": ""
+    },
+    {
+      "date": "13 augusti",
+      "day": 13,
+      "month": "augusti",
+      "names": "Kaj",
+      "note": ""
+    },
+    {
+      "date": "14 augusti",
+      "day": 14,
+      "month": "augusti",
+      "names": "Uno",
+      "note": ""
+    },
+    {
+      "date": "15 augusti",
+      "day": 15,
+      "month": "augusti",
+      "names": "Stella, Estelle",
+      "note": ""
+    },
+    {
+      "date": "16 augusti",
+      "day": 16,
+      "month": "augusti",
+      "names": "Brynolf",
+      "note": ""
+    },
+    {
+      "date": "17 augusti",
+      "day": 17,
+      "month": "augusti",
+      "names": "Verner, Valter",
+      "note": ""
+    },
+    {
+      "date": "18 augusti",
+      "day": 18,
+      "month": "augusti",
+      "names": "Ellen, Lena",
+      "note": ""
+    },
+    {
+      "date": "19 augusti",
+      "day": 19,
+      "month": "augusti",
+      "names": "Magnus, Måns",
+      "note": ""
+    },
+    {
+      "date": "20 augusti",
+      "day": 20,
+      "month": "augusti",
+      "names": "Bernhard, Bernt",
+      "note": ""
+    },
+    {
+      "date": "21 augusti",
+      "day": 21,
+      "month": "augusti",
+      "names": "Jon, Jonna",
+      "note": ""
+    },
+    {
+      "date": "22 augusti",
+      "day": 22,
+      "month": "augusti",
+      "names": "Henrietta, Henrika",
+      "note": ""
+    },
+    {
+      "date": "23 augusti",
+      "day": 23,
+      "month": "augusti",
+      "names": "Signe, Signhild",
+      "note": ""
+    },
+    {
+      "date": "24 augusti",
+      "day": 24,
+      "month": "augusti",
+      "names": "Bartolomeus",
+      "note": ""
+    },
+    {
+      "date": "25 augusti",
+      "day": 25,
+      "month": "augusti",
+      "names": "Lovisa, Louise",
+      "note": ""
+    },
+    {
+      "date": "26 augusti",
+      "day": 26,
+      "month": "augusti",
+      "names": "Östen",
+      "note": ""
+    },
+    {
+      "date": "27 augusti",
+      "day": 27,
+      "month": "augusti",
+      "names": "Rolf, Raoul",
+      "note": ""
+    },
+    {
+      "date": "28 augusti",
+      "day": 28,
+      "month": "augusti",
+      "names": "Fatima, Leila",
+      "note": ""
+    },
+    {
+      "date": "29 augusti",
+      "day": 29,
+      "month": "augusti",
+      "names": "Hans, Hampus",
+      "note": ""
+    },
+    {
+      "date": "30 augusti",
+      "day": 30,
+      "month": "augusti",
+      "names": "Albert, Albertina",
+      "note": ""
+    },
+    {
+      "date": "31 augusti",
+      "day": 31,
+      "month": "augusti",
+      "names": "Arvid, Vidar",
+      "note": ""
+    },
+    {
+      "date": "1 september",
+      "day": 1,
+      "month": "september",
+      "names": "Samuel, Sam",
+      "note": ""
+    },
+    {
+      "date": "2 september",
+      "day": 2,
+      "month": "september",
+      "names": "Justus, Justina",
+      "note": ""
+    },
+    {
+      "date": "3 september",
+      "day": 3,
+      "month": "september",
+      "names": "Alfhild, Alva",
+      "note": ""
+    },
+    {
+      "date": "4 september",
+      "day": 4,
+      "month": "september",
+      "names": "Gisela",
+      "note": ""
+    },
+    {
+      "date": "5 september",
+      "day": 5,
+      "month": "september",
+      "names": "Adela, Heidi",
+      "note": ""
+    },
+    {
+      "date": "6 september",
+      "day": 6,
+      "month": "september",
+      "names": "Lilian, Lilly",
+      "note": ""
+    },
+    {
+      "date": "7 september",
+      "day": 7,
+      "month": "september",
+      "names": "Kevin, Roy",
+      "note": ""
+    },
+    {
+      "date": "8 september",
+      "day": 8,
+      "month": "september",
+      "names": "Alma, Hulda",
+      "note": ""
+    },
+    {
+      "date": "9 september",
+      "day": 9,
+      "month": "september",
+      "names": "Anita, Annette",
+      "note": ""
+    },
+    {
+      "date": "10 september",
+      "day": 10,
+      "month": "september",
+      "names": "Tord, Turid",
+      "note": ""
+    },
+    {
+      "date": "11 september",
+      "day": 11,
+      "month": "september",
+      "names": "Dagny, Helny",
+      "note": ""
+    },
+    {
+      "date": "12 september",
+      "day": 12,
+      "month": "september",
+      "names": "Åsa, Åslög",
+      "note": ""
+    },
+    {
+      "date": "13 september",
+      "day": 13,
+      "month": "september",
+      "names": "Sture",
+      "note": ""
+    },
+    {
+      "date": "14 september",
+      "day": 14,
+      "month": "september",
+      "names": "Ida, Ronja",
+      "note": ""
+    },
+    {
+      "date": "15 september",
+      "day": 15,
+      "month": "september",
+      "names": "Sigrid, Siri",
+      "note": ""
+    },
+    {
+      "date": "16 september",
+      "day": 16,
+      "month": "september",
+      "names": "Dag, Daga",
+      "note": ""
+    },
+    {
+      "date": "17 september",
+      "day": 17,
+      "month": "september",
+      "names": "Hildegard, Magnhild",
+      "note": ""
+    },
+    {
+      "date": "18 september",
+      "day": 18,
+      "month": "september",
+      "names": "Orvar",
+      "note": ""
+    },
+    {
+      "date": "19 september",
+      "day": 19,
+      "month": "september",
+      "names": "Fredrika",
+      "note": ""
+    },
+    {
+      "date": "20 september",
+      "day": 20,
+      "month": "september",
+      "names": "Elise, Lisa",
+      "note": ""
+    },
+    {
+      "date": "21 september",
+      "day": 21,
+      "month": "september",
+      "names": "Matteus",
+      "note": ""
+    },
+    {
+      "date": "22 september",
+      "day": 22,
+      "month": "september",
+      "names": "Maurits, Moritz",
+      "note": ""
+    },
+    {
+      "date": "23 september",
+      "day": 23,
+      "month": "september",
+      "names": "Tekla, Tea",
+      "note": ""
+    },
+    {
+      "date": "24 september",
+      "day": 24,
+      "month": "september",
+      "names": "Gerhard, Gert",
+      "note": ""
+    },
+    {
+      "date": "25 september",
+      "day": 25,
+      "month": "september",
+      "names": "Tryggve",
+      "note": ""
+    },
+    {
+      "date": "26 september",
+      "day": 26,
+      "month": "september",
+      "names": "Enar, Einar",
+      "note": ""
+    },
+    {
+      "date": "27 september",
+      "day": 27,
+      "month": "september",
+      "names": "Dagmar, Rigmor",
+      "note": ""
+    },
+    {
+      "date": "28 september",
+      "day": 28,
+      "month": "september",
+      "names": "Lennart, Leonard",
+      "note": ""
+    },
+    {
+      "date": "29 september",
+      "day": 29,
+      "month": "september",
+      "names": "Mikael, Mikaela",
+      "note": ""
+    },
+    {
+      "date": "30 september",
+      "day": 30,
+      "month": "september",
+      "names": "Helge",
+      "note": ""
+    },
+    {
+      "date": "1 oktober",
+      "day": 1,
+      "month": "oktober",
+      "names": "Ragnar, Ragna",
+      "note": ""
+    },
+    {
+      "date": "2 oktober",
+      "day": 2,
+      "month": "oktober",
+      "names": "Ludvig, Love",
+      "note": ""
+    },
+    {
+      "date": "3 oktober",
+      "day": 3,
+      "month": "oktober",
+      "names": "Evald, Osvald",
+      "note": ""
+    },
+    {
+      "date": "4 oktober",
+      "day": 4,
+      "month": "oktober",
+      "names": "Frans, Frank",
+      "note": ""
+    },
+    {
+      "date": "5 oktober",
+      "day": 5,
+      "month": "oktober",
+      "names": "Bror",
+      "note": ""
+    },
+    {
+      "date": "6 oktober",
+      "day": 6,
+      "month": "oktober",
+      "names": "Jenny, Jennifer",
+      "note": ""
+    },
+    {
+      "date": "7 oktober",
+      "day": 7,
+      "month": "oktober",
+      "names": "Birgitta, Britta",
+      "note": ""
+    },
+    {
+      "date": "8 oktober",
+      "day": 8,
+      "month": "oktober",
+      "names": "Nils",
+      "note": ""
+    },
+    {
+      "date": "9 oktober",
+      "day": 9,
+      "month": "oktober",
+      "names": "Ingrid, Inger",
+      "note": ""
+    },
+    {
+      "date": "10 oktober",
+      "day": 10,
+      "month": "oktober",
+      "names": "Harry, Harriet",
+      "note": ""
+    },
+    {
+      "date": "11 oktober",
+      "day": 11,
+      "month": "oktober",
+      "names": "Erling, Jarl",
+      "note": ""
+    },
+    {
+      "date": "12 oktober",
+      "day": 12,
+      "month": "oktober",
+      "names": "Valfrid, Manfred",
+      "note": ""
+    },
+    {
+      "date": "13 oktober",
+      "day": 13,
+      "month": "oktober",
+      "names": "Berit, Birgit",
+      "note": ""
+    },
+    {
+      "date": "14 oktober",
+      "day": 14,
+      "month": "oktober",
+      "names": "Stellan",
+      "note": ""
+    },
+    {
+      "date": "15 oktober",
+      "day": 15,
+      "month": "oktober",
+      "names": "Hedvig, Hillevi",
+      "note": ""
+    },
+    {
+      "date": "16 oktober",
+      "day": 16,
+      "month": "oktober",
+      "names": "Finn",
+      "note": ""
+    },
+    {
+      "date": "17 oktober",
+      "day": 17,
+      "month": "oktober",
+      "names": "Antonia, Toini",
+      "note": ""
+    },
+    {
+      "date": "18 oktober",
+      "day": 18,
+      "month": "oktober",
+      "names": "Lukas",
+      "note": ""
+    },
+    {
+      "date": "19 oktober",
+      "day": 19,
+      "month": "oktober",
+      "names": "Tore, Tor",
+      "note": ""
+    },
+    {
+      "date": "20 oktober",
+      "day": 20,
+      "month": "oktober",
+      "names": "Sibylla",
+      "note": ""
+    },
+    {
+      "date": "21 oktober",
+      "day": 21,
+      "month": "oktober",
+      "names": "Ursula, Yrsa",
+      "note": ""
+    },
+    {
+      "date": "22 oktober",
+      "day": 22,
+      "month": "oktober",
+      "names": "Marika, Marita",
+      "note": ""
+    },
+    {
+      "date": "23 oktober",
+      "day": 23,
+      "month": "oktober",
+      "names": "Severin, Sören",
+      "note": ""
+    },
+    {
+      "date": "24 oktober",
+      "day": 24,
+      "month": "oktober",
+      "names": "Evert, Eilert",
+      "note": ""
+    },
+    {
+      "date": "25 oktober",
+      "day": 25,
+      "month": "oktober",
+      "names": "Inga, Ingalill",
+      "note": ""
+    },
+    {
+      "date": "26 oktober",
+      "day": 26,
+      "month": "oktober",
+      "names": "Amanda, Rasmus",
+      "note": ""
+    },
+    {
+      "date": "27 oktober",
+      "day": 27,
+      "month": "oktober",
+      "names": "Sabina",
+      "note": ""
+    },
+    {
+      "date": "28 oktober",
+      "day": 28,
+      "month": "oktober",
+      "names": "Simon, Simone",
+      "note": ""
+    },
+    {
+      "date": "29 oktober",
+      "day": 29,
+      "month": "oktober",
+      "names": "Viola",
+      "note": ""
+    },
+    {
+      "date": "30 oktober",
+      "day": 30,
+      "month": "oktober",
+      "names": "Elsa, Isabella",
+      "note": ""
+    },
+    {
+      "date": "31 oktober",
+      "day": 31,
+      "month": "oktober",
+      "names": "Edit, Edgar",
+      "note": ""
+    },
+    {
+      "date": "1 november",
+      "day": 1,
+      "month": "november",
+      "names": "(ingen namnsdag)",
+      "note": "Allhelgonadagen"
+    },
+    {
+      "date": "2 november",
+      "day": 2,
+      "month": "november",
+      "names": "Tobias, Tim",
+      "note": ""
+    },
+    {
+      "date": "3 november",
+      "day": 3,
+      "month": "november",
+      "names": "Hubert, Hugo",
+      "note": ""
+    },
+    {
+      "date": "4 november",
+      "day": 4,
+      "month": "november",
+      "names": "Sverker",
+      "note": ""
+    },
+    {
+      "date": "5 november",
+      "day": 5,
+      "month": "november",
+      "names": "Eugen, Eugenia",
+      "note": ""
+    },
+    {
+      "date": "6 november",
+      "day": 6,
+      "month": "november",
+      "names": "Gustav Adolf",
+      "note": ""
+    },
+    {
+      "date": "7 november",
+      "day": 7,
+      "month": "november",
+      "names": "Ingegerd, Ingela",
+      "note": ""
+    },
+    {
+      "date": "8 november",
+      "day": 8,
+      "month": "november",
+      "names": "Vendela",
+      "note": ""
+    },
+    {
+      "date": "9 november",
+      "day": 9,
+      "month": "november",
+      "names": "Teodor, Teodora",
+      "note": ""
+    },
+    {
+      "date": "10 november",
+      "day": 10,
+      "month": "november",
+      "names": "Martin, Martina",
+      "note": ""
+    },
+    {
+      "date": "11 november",
+      "day": 11,
+      "month": "november",
+      "names": "Mårten",
+      "note": ""
+    },
+    {
+      "date": "12 november",
+      "day": 12,
+      "month": "november",
+      "names": "Konrad, Kurt",
+      "note": ""
+    },
+    {
+      "date": "13 november",
+      "day": 13,
+      "month": "november",
+      "names": "Kristian, Krister",
+      "note": ""
+    },
+    {
+      "date": "14 november",
+      "day": 14,
+      "month": "november",
+      "names": "Emil, Emilia",
+      "note": ""
+    },
+    {
+      "date": "15 november",
+      "day": 15,
+      "month": "november",
+      "names": "Leopold",
+      "note": ""
+    },
+    {
+      "date": "16 november",
+      "day": 16,
+      "month": "november",
+      "names": "Vibeke, Viveka",
+      "note": ""
+    },
+    {
+      "date": "17 november",
+      "day": 17,
+      "month": "november",
+      "names": "Naemi, Naima",
+      "note": ""
+    },
+    {
+      "date": "18 november",
+      "day": 18,
+      "month": "november",
+      "names": "Lillemor, Moa",
+      "note": ""
+    },
+    {
+      "date": "19 november",
+      "day": 19,
+      "month": "november",
+      "names": "Elisabet, Lisbet",
+      "note": ""
+    },
+    {
+      "date": "20 november",
+      "day": 20,
+      "month": "november",
+      "names": "Pontus, Marina",
+      "note": ""
+    },
+    {
+      "date": "21 november",
+      "day": 21,
+      "month": "november",
+      "names": "Helga, Olga",
+      "note": ""
+    },
+    {
+      "date": "22 november",
+      "day": 22,
+      "month": "november",
+      "names": "Cecilia, Sissela",
+      "note": ""
+    },
+    {
+      "date": "23 november",
+      "day": 23,
+      "month": "november",
+      "names": "Klemens",
+      "note": ""
+    },
+    {
+      "date": "24 november",
+      "day": 24,
+      "month": "november",
+      "names": "Gudrun, Rune",
+      "note": ""
+    },
+    {
+      "date": "25 november",
+      "day": 25,
+      "month": "november",
+      "names": "Katarina, Katja",
+      "note": ""
+    },
+    {
+      "date": "26 november",
+      "day": 26,
+      "month": "november",
+      "names": "Linus",
+      "note": ""
+    },
+    {
+      "date": "27 november",
+      "day": 27,
+      "month": "november",
+      "names": "Astrid, Asta",
+      "note": ""
+    },
+    {
+      "date": "28 november",
+      "day": 28,
+      "month": "november",
+      "names": "Malte",
+      "note": ""
+    },
+    {
+      "date": "29 november",
+      "day": 29,
+      "month": "november",
+      "names": "Sune",
+      "note": ""
+    },
+    {
+      "date": "30 november",
+      "day": 30,
+      "month": "november",
+      "names": "Andreas, Anders",
+      "note": ""
+    },
+    {
+      "date": "1 december",
+      "day": 1,
+      "month": "december",
+      "names": "Oskar, Ossian",
+      "note": ""
+    },
+    {
+      "date": "2 december",
+      "day": 2,
+      "month": "december",
+      "names": "Beata, Beatrice",
+      "note": ""
+    },
+    {
+      "date": "3 december",
+      "day": 3,
+      "month": "december",
+      "names": "Lydia, Cornelia",
+      "note": ""
+    },
+    {
+      "date": "4 december",
+      "day": 4,
+      "month": "december",
+      "names": "Barbara, Barbro",
+      "note": ""
+    },
+    {
+      "date": "5 december",
+      "day": 5,
+      "month": "december",
+      "names": "Sven",
+      "note": ""
+    },
+    {
+      "date": "6 december",
+      "day": 6,
+      "month": "december",
+      "names": "Nikolaus, Niklas",
+      "note": ""
+    },
+    {
+      "date": "7 december",
+      "day": 7,
+      "month": "december",
+      "names": "Angela, Angelika",
+      "note": ""
+    },
+    {
+      "date": "8 december",
+      "day": 8,
+      "month": "december",
+      "names": "Virginia",
+      "note": ""
+    },
+    {
+      "date": "9 december",
+      "day": 9,
+      "month": "december",
+      "names": "Anna",
+      "note": ""
+    },
+    {
+      "date": "10 december",
+      "day": 10,
+      "month": "december",
+      "names": "Malin, Malena",
+      "note": ""
+    },
+    {
+      "date": "11 december",
+      "day": 11,
+      "month": "december",
+      "names": "Daniel, Daniela",
+      "note": ""
+    },
+    {
+      "date": "12 december",
+      "day": 12,
+      "month": "december",
+      "names": "Alexander, Alexis",
+      "note": ""
+    },
+    {
+      "date": "13 december",
+      "day": 13,
+      "month": "december",
+      "names": "Lucia",
+      "note": ""
+    },
+    {
+      "date": "14 december",
+      "day": 14,
+      "month": "december",
+      "names": "Sten, Sixten",
+      "note": ""
+    },
+    {
+      "date": "15 december",
+      "day": 15,
+      "month": "december",
+      "names": "Gottfrid",
+      "note": ""
+    },
+    {
+      "date": "16 december",
+      "day": 16,
+      "month": "december",
+      "names": "Assar",
+      "note": ""
+    },
+    {
+      "date": "17 december",
+      "day": 17,
+      "month": "december",
+      "names": "Stig",
+      "note": ""
+    },
+    {
+      "date": "18 december",
+      "day": 18,
+      "month": "december",
+      "names": "Abraham",
+      "note": ""
+    },
+    {
+      "date": "19 december",
+      "day": 19,
+      "month": "december",
+      "names": "Isak",
+      "note": ""
+    },
+    {
+      "date": "20 december",
+      "day": 20,
+      "month": "december",
+      "names": "Israel, Moses",
+      "note": ""
+    },
+    {
+      "date": "21 december",
+      "day": 21,
+      "month": "december",
+      "names": "Tomas",
+      "note": ""
+    },
+    {
+      "date": "22 december",
+      "day": 22,
+      "month": "december",
+      "names": "Natanael, Jonatan",
+      "note": ""
+    },
+    {
+      "date": "23 december",
+      "day": 23,
+      "month": "december",
+      "names": "Adam",
+      "note": ""
+    },
+    {
+      "date": "24 december",
+      "day": 24,
+      "month": "december",
+      "names": "Eva",
+      "note": "Julafton"
+    },
+    {
+      "date": "25 december",
+      "day": 25,
+      "month": "december",
+      "names": "(ingen namnsdag)",
+      "note": "Juldagen"
+    },
+    {
+      "date": "26 december",
+      "day": 26,
+      "month": "december",
+      "names": "Stefan, Staffan",
+      "note": "Annandag jul"
+    },
+    {
+      "date": "27 december",
+      "day": 27,
+      "month": "december",
+      "names": "Johannes, Johan",
+      "note": ""
+    },
+    {
+      "date": "28 december",
+      "day": 28,
+      "month": "december",
+      "names": "Benjamin",
+      "note": "Värnlösa barns dag"
+    },
+    {
+      "date": "29 december",
+      "day": 29,
+      "month": "december",
+      "names": "Natalia, Natalie",
+      "note": ""
+    },
+    {
+      "date": "30 december",
+      "day": 30,
+      "month": "december",
+      "names": "Abel, Set",
+      "note": ""
+    },
+    {
+      "date": "31 december",
+      "day": 31,
+      "month": "december",
+      "names": "Sylvester",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Namnsdagar i Sverige - Free Download",
+    "description": "Svenska namnsdagar för årets alla dagar i datumordning enligt den svenska namnlängden, med kommentar för dagar utan namnsdag eller med särskild helgdag. Contains 366 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Namnsdagar i Sverige | ListBase",
+    "seo_description": "Download Namnsdagar i Sverige — 366 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 366 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_namnsdagar_i_Sverige_i_datumordning"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-18T02:33:00.777Z",
-  "total_datasets": 567,
-  "total_records": 2276131,
+  "generated": "2026-11-18T02:33:09.829Z",
+  "total_datasets": 568,
+  "total_records": 2276497,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tourism",
@@ -13722,6 +13722,32 @@
         "xlsx": {
           "name": "sv-manader_SV.xlsx",
           "size": 6894
+        }
+      }
+    },
+    {
+      "id": "sv-namnsdagar",
+      "name": "Namnsdagar i Sverige",
+      "category": "time",
+      "record_count": 366,
+      "columns": [
+        "date",
+        "day",
+        "month",
+        "names",
+        "note"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_namnsdagar_i_Sverige_i_datumordning",
+      "updated": "2026-11",
+      "size": 49190,
+      "files": {
+        "csv": {
+          "name": "sv-namnsdagar_SV.csv",
+          "size": 16067
+        },
+        "xlsx": {
+          "name": "sv-namnsdagar_SV.xlsx",
+          "size": 19753
         }
       }
     },
