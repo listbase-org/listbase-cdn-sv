@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-18T02:33:09.829Z",
-  "total_datasets": 568,
-  "total_records": 2276497,
+  "generated": "2026-11-18T02:33:36.344Z",
+  "total_datasets": 569,
+  "total_records": 2277223,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "economy",
@@ -458,6 +458,31 @@
         "xlsx": {
           "name": "sv-kulturministrar_SV.xlsx",
           "size": 7779
+        }
+      }
+    },
+    {
+      "id": "sv-litteris-et-artibus-mottagare",
+      "name": "Mottagare av Litteris et Artibus",
+      "category": "culture",
+      "record_count": 726,
+      "columns": [
+        "year",
+        "recipient",
+        "profession",
+        "monarch"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Litteris_et_Artibus",
+      "updated": "2026-11",
+      "size": 103478,
+      "files": {
+        "csv": {
+          "name": "sv-litteris-et-artibus-mottagare_SV.csv",
+          "size": 40897
+        },
+        "xlsx": {
+          "name": "sv-litteris-et-artibus-mottagare_SV.xlsx",
+          "size": 28878
         }
       }
     },
