@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-18T02:33:36.344Z",
-  "total_datasets": 569,
-  "total_records": 2277223,
+  "generated": "2026-11-19T02:32:19.197Z",
+  "total_datasets": 570,
+  "total_records": 2277535,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 44
+      "dataset_count": 45
     },
     {
       "id": "units",
@@ -14250,6 +14250,42 @@
         "xlsx": {
           "name": "sv-flygplatser_SV.xlsx",
           "size": 13761
+        }
+      }
+    },
+    {
+      "id": "sv-fordon-i-trafik-per-kommun-2025",
+      "name": "Fordon i trafik per län och kommun (2025)",
+      "category": "transport",
+      "record_count": 312,
+      "columns": [
+        "region",
+        "region_code",
+        "level",
+        "cars",
+        "light_trucks",
+        "heavy_trucks",
+        "tractor_units",
+        "buses",
+        "motorcycles",
+        "mopeds_class1",
+        "tractors",
+        "snowmobiles",
+        "atvs",
+        "terrain_scooters",
+        "trailers"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__TK__TK1001__TK1001A/FordonTrafik/",
+      "updated": "2026-11",
+      "size": 124908,
+      "files": {
+        "csv": {
+          "name": "sv-fordon-i-trafik-per-kommun-2025_SV.csv",
+          "size": 31092
+        },
+        "xlsx": {
+          "name": "sv-fordon-i-trafik-per-kommun-2025_SV.xlsx",
+          "size": 32609
         }
       }
     },
