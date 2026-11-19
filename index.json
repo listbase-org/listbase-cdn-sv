@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-19T02:32:19.197Z",
-  "total_datasets": 570,
-  "total_records": 2277535,
+  "generated": "2026-11-19T02:32:28.432Z",
+  "total_datasets": 571,
+  "total_records": 2277549,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "finance",
@@ -2157,6 +2157,63 @@
         "xlsx": {
           "name": "sv-vattenkraftverk_SV.xlsx",
           "size": 25580
+        }
+      }
+    },
+    {
+      "id": "sv-vaxthusgasutslapp-per-sektor",
+      "name": "Utsläpp av växthusgaser i Sverige efter sektor (1990–2024)",
+      "category": "environment",
+      "record_count": 14,
+      "columns": [
+        "sector",
+        "y1990",
+        "y1991",
+        "y1992",
+        "y1993",
+        "y1994",
+        "y1995",
+        "y1996",
+        "y1997",
+        "y1998",
+        "y1999",
+        "y2000",
+        "y2001",
+        "y2002",
+        "y2003",
+        "y2004",
+        "y2005",
+        "y2006",
+        "y2007",
+        "y2008",
+        "y2009",
+        "y2010",
+        "y2011",
+        "y2012",
+        "y2013",
+        "y2014",
+        "y2015",
+        "y2016",
+        "y2017",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0107/TotaltUtslappN/",
+      "updated": "2026-11",
+      "size": 16955,
+      "files": {
+        "csv": {
+          "name": "sv-vaxthusgasutslapp-per-sektor_SV.csv",
+          "size": 5476
+        },
+        "xlsx": {
+          "name": "sv-vaxthusgasutslapp-per-sektor_SV.xlsx",
+          "size": 10465
         }
       }
     },
