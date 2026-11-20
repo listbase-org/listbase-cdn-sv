@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-19T02:32:28.432Z",
-  "total_datasets": 571,
-  "total_records": 2277549,
+  "generated": "2026-11-20T02:20:04.088Z",
+  "total_datasets": 572,
+  "total_records": 2277861,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "education",
@@ -763,6 +763,37 @@
         "xlsx": {
           "name": "sv-finansministrar_SV.xlsx",
           "size": 12745
+        }
+      }
+    },
+    {
+      "id": "sv-forvarvsinkomst-per-kommun-2024",
+      "name": "Median- och medelinkomst per län och kommun (2024)",
+      "category": "economy",
+      "record_count": 312,
+      "columns": [
+        "region",
+        "region_code",
+        "level",
+        "persons",
+        "median_income_tkr",
+        "mean_income_tkr",
+        "median_income_tkr_men",
+        "median_income_tkr_women",
+        "mean_income_tkr_men",
+        "mean_income_tkr_women"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__HE__HE0110__HE0110A/SamForvInk1/",
+      "updated": "2026-11",
+      "size": 107046,
+      "files": {
+        "csv": {
+          "name": "sv-forvarvsinkomst-per-kommun-2024_SV.csv",
+          "size": 25645
+        },
+        "xlsx": {
+          "name": "sv-forvarvsinkomst-per-kommun-2024_SV.xlsx",
+          "size": 26387
         }
       }
     },
