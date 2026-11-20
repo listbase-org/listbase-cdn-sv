@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-20T02:20:04.088Z",
-  "total_datasets": 572,
-  "total_records": 2277861,
+  "generated": "2026-11-20T02:20:13.995Z",
+  "total_datasets": 573,
+  "total_records": 2278173,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "entertainment",
@@ -1177,6 +1177,40 @@
         "xlsx": {
           "name": "sv-universitet_SV.xlsx",
           "size": 8690
+        }
+      }
+    },
+    {
+      "id": "sv-utbildningsniva-per-kommun-2025",
+      "name": "Befolkningens utbildningsnivå per län och kommun (2025)",
+      "category": "education",
+      "record_count": 312,
+      "columns": [
+        "region",
+        "region_code",
+        "level",
+        "pre_upper_secondary_under_9y",
+        "pre_upper_secondary_9_10y",
+        "upper_secondary_max_2y",
+        "upper_secondary_3y",
+        "post_secondary_under_3y",
+        "post_secondary_3y_plus",
+        "doctoral",
+        "unknown",
+        "population_16_74",
+        "post_secondary_share_pct"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__UF__UF0506__UF0506B/Utbildning/",
+      "updated": "2026-11",
+      "size": 141594,
+      "files": {
+        "csv": {
+          "name": "sv-utbildningsniva-per-kommun-2025_SV.csv",
+          "size": 29647
+        },
+        "xlsx": {
+          "name": "sv-utbildningsniva-per-kommun-2025_SV.xlsx",
+          "size": 30693
         }
       }
     },
