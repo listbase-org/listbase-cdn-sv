@@ -1,0 +1,3278 @@
+{
+  "id": "sv-generativ-ai-anvandning",
+  "name": "Användning av generativa AI-verktyg i Sverige (2024–2026)",
+  "title": "Användning av generativa AI-verktyg i Sverige (2024–2026)",
+  "description": "Andel av befolkningen (procent) som använt generativa AI-verktyg, totalt och för olika ändamål (sökmotor, text och språk, bild/musik/video, kod, hälsa, nöje), per åldersgrupp, utbildningsnivå, sysselsättning och hushållstyp, år 2024–2026 enligt SCB:s undersökning om befolkningens it-användning.",
+  "category": "tech",
+  "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0108__LE0108Q/LE0108T82/",
+  "source_url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0108__LE0108Q/LE0108T82/",
+  "updated": "2026-11",
+  "record_count": 461,
+  "columns": [
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "usage",
+      "label": "Usage",
+      "type": "string"
+    },
+    {
+      "key": "share_pct_2024",
+      "label": "Share Pct 2024",
+      "type": "number"
+    },
+    {
+      "key": "share_pct_2025",
+      "label": "Share Pct 2025",
+      "type": "number"
+    },
+    {
+      "key": "share_pct_2026",
+      "label": "Share Pct 2026",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "group": "16–24 år",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 55,
+      "share_pct_2025": 67,
+      "share_pct_2026": 71
+    },
+    {
+      "group": "25–34 år",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 40,
+      "share_pct_2025": 58,
+      "share_pct_2026": 62
+    },
+    {
+      "group": "35–44 år",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 33,
+      "share_pct_2025": 49,
+      "share_pct_2026": 62
+    },
+    {
+      "group": "45–54 år",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 23,
+      "share_pct_2025": 43,
+      "share_pct_2026": 57
+    },
+    {
+      "group": "55–64 år",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 11,
+      "share_pct_2025": 23,
+      "share_pct_2026": 42
+    },
+    {
+      "group": "65–74 år",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 4,
+      "share_pct_2025": 7,
+      "share_pct_2026": 20
+    },
+    {
+      "group": "75–84 år",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": 5,
+      "share_pct_2026": 12
+    },
+    {
+      "group": "75–85 år",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": 5,
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Förgymnasial utbildning",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 25,
+      "share_pct_2025": 32,
+      "share_pct_2026": 40
+    },
+    {
+      "group": "Gymnasial utbildning",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 18,
+      "share_pct_2025": 28,
+      "share_pct_2026": 40
+    },
+    {
+      "group": "Eftergymnasial utbildning",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 33,
+      "share_pct_2025": 51,
+      "share_pct_2026": 62
+    },
+    {
+      "group": "Studerande",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 61,
+      "share_pct_2025": 75,
+      "share_pct_2026": 84
+    },
+    {
+      "group": "Anställda/Egna företagare",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 28,
+      "share_pct_2025": 45,
+      "share_pct_2026": 61
+    },
+    {
+      "group": "Arbetssökande",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 23,
+      "share_pct_2025": 46,
+      "share_pct_2026": 51
+    },
+    {
+      "group": "Pensionärer och andra",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 6,
+      "share_pct_2025": 10,
+      "share_pct_2026": 20
+    },
+    {
+      "group": "Hushåll utan barn",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 21,
+      "share_pct_2025": 31,
+      "share_pct_2026": 41
+    },
+    {
+      "group": "Hushåll med barn",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 33,
+      "share_pct_2025": 52,
+      "share_pct_2026": 64
+    },
+    {
+      "group": "Hushåll med en vuxen",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 18,
+      "share_pct_2025": 27,
+      "share_pct_2026": 36
+    },
+    {
+      "group": "Hushåll med minst två vuxna",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 26,
+      "share_pct_2025": 40,
+      "share_pct_2026": 51
+    },
+    {
+      "group": "Inrikes födda",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 23,
+      "share_pct_2025": 36,
+      "share_pct_2026": 47
+    },
+    {
+      "group": "Utrikes födda",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 29,
+      "share_pct_2025": 41,
+      "share_pct_2026": 47
+    },
+    {
+      "group": "Stockholm",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 31,
+      "share_pct_2025": 44,
+      "share_pct_2026": 54
+    },
+    {
+      "group": "Östra Mellansverige",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 22,
+      "share_pct_2025": 36,
+      "share_pct_2026": 45
+    },
+    {
+      "group": "Småland med öarna",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 21,
+      "share_pct_2025": 32,
+      "share_pct_2026": 38
+    },
+    {
+      "group": "Sydsverige",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 26,
+      "share_pct_2025": 37,
+      "share_pct_2026": 47
+    },
+    {
+      "group": "Västsverige",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 25,
+      "share_pct_2025": 36,
+      "share_pct_2026": 50
+    },
+    {
+      "group": "Norra Mellansverige",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 18,
+      "share_pct_2025": 33,
+      "share_pct_2026": 43
+    },
+    {
+      "group": "Mellersta Norrland",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 18,
+      "share_pct_2025": 32,
+      "share_pct_2026": 42
+    },
+    {
+      "group": "Övre Norrland",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 18,
+      "share_pct_2025": 34,
+      "share_pct_2026": 41
+    },
+    {
+      "group": "Samtliga 16–74 år",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 28,
+      "share_pct_2025": 42,
+      "share_pct_2026": 53
+    },
+    {
+      "group": "Samtliga 16–85 år",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 25,
+      "share_pct_2025": 38,
+      "share_pct_2026": 49
+    },
+    {
+      "group": "Samtliga 16+ år",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 25,
+      "share_pct_2025": 37,
+      "share_pct_2026": 47
+    },
+    {
+      "group": "Kvintil 1 (lägsta inkomsterna)",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 23,
+      "share_pct_2025": 37,
+      "share_pct_2026": 47
+    },
+    {
+      "group": "Kvintil 2 (näst lägsta inkomsterna)",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 21,
+      "share_pct_2025": 29,
+      "share_pct_2026": 34
+    },
+    {
+      "group": "Kvintil 3 (mellersta inkomsterna)",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 22,
+      "share_pct_2025": 33,
+      "share_pct_2026": 43
+    },
+    {
+      "group": "Kvintil 4 (näst högsta inkomsterna)",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 25,
+      "share_pct_2025": 38,
+      "share_pct_2026": 50
+    },
+    {
+      "group": "Kvintil 5 (högsta inkomsterna)",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 31,
+      "share_pct_2025": 45,
+      "share_pct_2026": 59
+    },
+    {
+      "group": "Storstad",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 31,
+      "share_pct_2025": 44,
+      "share_pct_2026": 53
+    },
+    {
+      "group": "Mindre stad eller förort",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 23,
+      "share_pct_2025": 34,
+      "share_pct_2026": 46
+    },
+    {
+      "group": "Glesbefolkade områden",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 13,
+      "share_pct_2025": 27,
+      "share_pct_2026": 37
+    },
+    {
+      "group": "Mycket svårt klara sysslor/aktiviteter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": 21,
+      "share_pct_2026": 24
+    },
+    {
+      "group": "Ganska svårt",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 17,
+      "share_pct_2025": 29,
+      "share_pct_2026": 34
+    },
+    {
+      "group": "Inte alls svårt",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 28,
+      "share_pct_2025": 40,
+      "share_pct_2026": 55
+    },
+    {
+      "group": "Haft svårt klara sysslor/aktiviteter under senaste 6 månaderna",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": 14,
+      "share_pct_2025": 27,
+      "share_pct_2026": 31
+    },
+    {
+      "group": "Se - inga svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 52
+    },
+    {
+      "group": "Se - vissa svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 41
+    },
+    {
+      "group": "Se - stora svårigheter/kan inte alls",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 19
+    },
+    {
+      "group": "Höra - inga svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 53
+    },
+    {
+      "group": "Höra - vissa svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 28
+    },
+    {
+      "group": "Gå eller gå i trappor - inga svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 55
+    },
+    {
+      "group": "Gå eller gå i trappor - vissa svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 23
+    },
+    {
+      "group": "Gå eller gå i trappor - stora svårigheter/kan inte alls",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - inga svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 49
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - vissa svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 49
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - stora svårigheter/kan inte alls",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 43
+    },
+    {
+      "group": "Ta hand om sig själv - inga svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 50
+    },
+    {
+      "group": "Ta hand om sig själv - vissa svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 30
+    },
+    {
+      "group": "Kommunicera - inga svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 50
+    },
+    {
+      "group": "Kommunicera - vissa svårigheter",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 39
+    },
+    {
+      "group": "Personer med funktionsnedsättning - definition 1 (WG)",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 29
+    },
+    {
+      "group": "Övriga i befolkningen - defnition 1 (WG)",
+      "usage": "använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 49
+    },
+    {
+      "group": "16–24 år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 44,
+      "share_pct_2025": 31,
+      "share_pct_2026": 19
+    },
+    {
+      "group": "25–34 år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 59,
+      "share_pct_2025": 41,
+      "share_pct_2026": 29
+    },
+    {
+      "group": "35–44 år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 67,
+      "share_pct_2025": 50,
+      "share_pct_2026": 32
+    },
+    {
+      "group": "45–54 år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 75,
+      "share_pct_2025": 55,
+      "share_pct_2026": 40
+    },
+    {
+      "group": "55–64 år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 87,
+      "share_pct_2025": 74,
+      "share_pct_2026": 54
+    },
+    {
+      "group": "65–74 år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 89,
+      "share_pct_2025": 88,
+      "share_pct_2026": 75
+    },
+    {
+      "group": "75–84 år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 80,
+      "share_pct_2025": 80,
+      "share_pct_2026": 74
+    },
+    {
+      "group": "75–85 år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 79,
+      "share_pct_2025": 79,
+      "share_pct_2026": 73
+    },
+    {
+      "group": "85+ år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 58,
+      "share_pct_2025": 54,
+      "share_pct_2026": 62
+    },
+    {
+      "group": "Förgymnasial utbildning",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 62,
+      "share_pct_2025": 55,
+      "share_pct_2026": 45
+    },
+    {
+      "group": "Gymnasial utbildning",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 77,
+      "share_pct_2025": 67,
+      "share_pct_2026": 52
+    },
+    {
+      "group": "Eftergymnasial utbildning",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 65,
+      "share_pct_2025": 47,
+      "share_pct_2026": 34
+    },
+    {
+      "group": "Studerande",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 39,
+      "share_pct_2025": 25,
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Anställda/Egna företagare",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 71,
+      "share_pct_2025": 54,
+      "share_pct_2026": 39
+    },
+    {
+      "group": "Arbetssökande",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 74,
+      "share_pct_2025": 52,
+      "share_pct_2026": 43
+    },
+    {
+      "group": "Pensionärer och andra",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 81,
+      "share_pct_2025": 77,
+      "share_pct_2026": 60
+    },
+    {
+      "group": "Hushåll utan barn",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 73,
+      "share_pct_2025": 63,
+      "share_pct_2026": 51
+    },
+    {
+      "group": "Hushåll med barn",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 65,
+      "share_pct_2025": 46,
+      "share_pct_2026": 29
+    },
+    {
+      "group": "Hushåll med en vuxen",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 71,
+      "share_pct_2025": 62,
+      "share_pct_2026": 54
+    },
+    {
+      "group": "Hushåll med minst två vuxna",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 70,
+      "share_pct_2025": 57,
+      "share_pct_2026": 42
+    },
+    {
+      "group": "Inrikes födda",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 73,
+      "share_pct_2025": 60,
+      "share_pct_2026": 45
+    },
+    {
+      "group": "Utrikes födda",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 64,
+      "share_pct_2025": 52,
+      "share_pct_2026": 42
+    },
+    {
+      "group": "Stockholm",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 65,
+      "share_pct_2025": 51,
+      "share_pct_2026": 39
+    },
+    {
+      "group": "Östra Mellansverige",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 74,
+      "share_pct_2025": 59,
+      "share_pct_2026": 45
+    },
+    {
+      "group": "Småland med öarna",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 71,
+      "share_pct_2025": 63,
+      "share_pct_2026": 52
+    },
+    {
+      "group": "Sydsverige",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 70,
+      "share_pct_2025": 57,
+      "share_pct_2026": 46
+    },
+    {
+      "group": "Västsverige",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 70,
+      "share_pct_2025": 60,
+      "share_pct_2026": 43
+    },
+    {
+      "group": "Norra Mellansverige",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 74,
+      "share_pct_2025": 62,
+      "share_pct_2026": 48
+    },
+    {
+      "group": "Mellersta Norrland",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 75,
+      "share_pct_2025": 62,
+      "share_pct_2026": 53
+    },
+    {
+      "group": "Övre Norrland",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 78,
+      "share_pct_2025": 62,
+      "share_pct_2026": 51
+    },
+    {
+      "group": "Samtliga 16–74 år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 70,
+      "share_pct_2025": 56,
+      "share_pct_2026": 41
+    },
+    {
+      "group": "Samtliga 16–85 år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 71,
+      "share_pct_2025": 58,
+      "share_pct_2026": 44
+    },
+    {
+      "group": "Samtliga 16+ år",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 71,
+      "share_pct_2025": 58,
+      "share_pct_2026": 45
+    },
+    {
+      "group": "Kvintil 1 (lägsta inkomsterna)",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 65,
+      "share_pct_2025": 54,
+      "share_pct_2026": 41
+    },
+    {
+      "group": "Kvintil 2 (näst lägsta inkomsterna)",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 69,
+      "share_pct_2025": 62,
+      "share_pct_2026": 53
+    },
+    {
+      "group": "Kvintil 3 (mellersta inkomsterna)",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 75,
+      "share_pct_2025": 62,
+      "share_pct_2026": 49
+    },
+    {
+      "group": "Kvintil 4 (näst högsta inkomsterna)",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 74,
+      "share_pct_2025": 60,
+      "share_pct_2026": 45
+    },
+    {
+      "group": "Kvintil 5 (högsta inkomsterna)",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 68,
+      "share_pct_2025": 53,
+      "share_pct_2026": 37
+    },
+    {
+      "group": "Storstad",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 65,
+      "share_pct_2025": 52,
+      "share_pct_2026": 40
+    },
+    {
+      "group": "Mindre stad eller förort",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 72,
+      "share_pct_2025": 61,
+      "share_pct_2026": 46
+    },
+    {
+      "group": "Glesbefolkade områden",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 79,
+      "share_pct_2025": 68,
+      "share_pct_2026": 54
+    },
+    {
+      "group": "Mycket svårt klara sysslor/aktiviteter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 70,
+      "share_pct_2025": 60,
+      "share_pct_2026": 57
+    },
+    {
+      "group": "Ganska svårt",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 76,
+      "share_pct_2025": 64,
+      "share_pct_2026": 59
+    },
+    {
+      "group": "Inte alls svårt",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 70,
+      "share_pct_2025": 57,
+      "share_pct_2026": 44
+    },
+    {
+      "group": "Haft svårt klara sysslor/aktiviteter under senaste 6 månaderna",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": 75,
+      "share_pct_2025": 64,
+      "share_pct_2026": 60
+    },
+    {
+      "group": "Se - inga svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 46
+    },
+    {
+      "group": "Se - vissa svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 51
+    },
+    {
+      "group": "Se - stora svårigheter/kan inte alls",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 60
+    },
+    {
+      "group": "Höra - inga svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 45
+    },
+    {
+      "group": "Höra - vissa svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 62
+    },
+    {
+      "group": "Höra - stora svårigheter/kan inte alls",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 61
+    },
+    {
+      "group": "Gå eller gå i trappor - inga svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 43
+    },
+    {
+      "group": "Gå eller gå i trappor - vissa svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 67
+    },
+    {
+      "group": "Gå eller gå i trappor - stora svårigheter/kan inte alls",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 65
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - inga svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 48
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - vissa svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 45
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - stora svårigheter/kan inte alls",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 44
+    },
+    {
+      "group": "Ta hand om sig själv - inga svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 47
+    },
+    {
+      "group": "Ta hand om sig själv - vissa svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 52
+    },
+    {
+      "group": "Ta hand om sig själv - stora svårigheter/kan inte alls",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 59
+    },
+    {
+      "group": "Kommunicera - inga svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 47
+    },
+    {
+      "group": "Kommunicera - vissa svårigheter",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 50
+    },
+    {
+      "group": "Kommunicera - stora svårigheter/kan inte alls",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 56
+    },
+    {
+      "group": "Personer med funktionsnedsättning - definition 1 (WG)",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 55
+    },
+    {
+      "group": "Övriga i befolkningen - defnition 1 (WG)",
+      "usage": "har inte använt generativa AI-verktyg",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 44
+    },
+    {
+      "group": "16–24 år",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 54
+    },
+    {
+      "group": "25–34 år",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 47
+    },
+    {
+      "group": "35–44 år",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 44
+    },
+    {
+      "group": "45–54 år",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 42
+    },
+    {
+      "group": "55–64 år",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 31
+    },
+    {
+      "group": "65–74 år",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "75–84 år",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 9
+    },
+    {
+      "group": "75–85 år",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 8
+    },
+    {
+      "group": "Förgymnasial utbildning",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 29
+    },
+    {
+      "group": "Gymnasial utbildning",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 28
+    },
+    {
+      "group": "Eftergymnasial utbildning",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 49
+    },
+    {
+      "group": "Studerande",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 64
+    },
+    {
+      "group": "Anställda/Egna företagare",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 45
+    },
+    {
+      "group": "Arbetssökande",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 25
+    },
+    {
+      "group": "Pensionärer och andra",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Hushåll utan barn",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 30
+    },
+    {
+      "group": "Hushåll med barn",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 49
+    },
+    {
+      "group": "Hushåll med en vuxen",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 25
+    },
+    {
+      "group": "Hushåll med minst två vuxna",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 38
+    },
+    {
+      "group": "Inrikes födda",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 36
+    },
+    {
+      "group": "Utrikes födda",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 33
+    },
+    {
+      "group": "Stockholm",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 43
+    },
+    {
+      "group": "Östra Mellansverige",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 33
+    },
+    {
+      "group": "Småland med öarna",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 30
+    },
+    {
+      "group": "Sydsverige",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 33
+    },
+    {
+      "group": "Västsverige",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 38
+    },
+    {
+      "group": "Norra Mellansverige",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 29
+    },
+    {
+      "group": "Mellersta Norrland",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 28
+    },
+    {
+      "group": "Övre Norrland",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 27
+    },
+    {
+      "group": "Samtliga 16–74 år",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 40
+    },
+    {
+      "group": "Samtliga 16–85 år",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 36
+    },
+    {
+      "group": "Samtliga 16+ år",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 35
+    },
+    {
+      "group": "Kvintil 1 (lägsta inkomsterna)",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 32
+    },
+    {
+      "group": "Kvintil 2 (näst lägsta inkomsterna)",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 23
+    },
+    {
+      "group": "Kvintil 3 (mellersta inkomsterna)",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 30
+    },
+    {
+      "group": "Kvintil 4 (näst högsta inkomsterna)",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 38
+    },
+    {
+      "group": "Kvintil 5 (högsta inkomsterna)",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 48
+    },
+    {
+      "group": "Storstad",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 40
+    },
+    {
+      "group": "Mindre stad eller förort",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 33
+    },
+    {
+      "group": "Glesbefolkade områden",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 27
+    },
+    {
+      "group": "Mycket svårt klara sysslor/aktiviteter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Ganska svårt",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 22
+    },
+    {
+      "group": "Inte alls svårt",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 41
+    },
+    {
+      "group": "Haft svårt klara sysslor/aktiviteter under senaste 6 månaderna",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 21
+    },
+    {
+      "group": "Se - inga svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 39
+    },
+    {
+      "group": "Se - vissa svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 27
+    },
+    {
+      "group": "Höra - inga svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 39
+    },
+    {
+      "group": "Höra - vissa svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 20
+    },
+    {
+      "group": "Gå eller gå i trappor - inga svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 41
+    },
+    {
+      "group": "Gå eller gå i trappor - vissa svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - inga svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 37
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - vissa svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 35
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - stora svårigheter/kan inte alls",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 31
+    },
+    {
+      "group": "Ta hand om sig själv - inga svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 37
+    },
+    {
+      "group": "Ta hand om sig själv - vissa svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Kommunicera - inga svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 37
+    },
+    {
+      "group": "Kommunicera - vissa svårigheter",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 27
+    },
+    {
+      "group": "Personer med funktionsnedsättning - definition 1 (WG)",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 20
+    },
+    {
+      "group": "Övriga i befolkningen - defnition 1 (WG)",
+      "usage": "använt AI som sökmotor",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 37
+    },
+    {
+      "group": "16–24 år",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 50
+    },
+    {
+      "group": "25–34 år",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 45
+    },
+    {
+      "group": "35–44 år",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 49
+    },
+    {
+      "group": "45–54 år",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 43
+    },
+    {
+      "group": "55–64 år",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 29
+    },
+    {
+      "group": "65–74 år",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 9
+    },
+    {
+      "group": "75–84 år",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 5
+    },
+    {
+      "group": "75–85 år",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 5
+    },
+    {
+      "group": "Förgymnasial utbildning",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 26
+    },
+    {
+      "group": "Gymnasial utbildning",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 26
+    },
+    {
+      "group": "Eftergymnasial utbildning",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 49
+    },
+    {
+      "group": "Studerande",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 62
+    },
+    {
+      "group": "Anställda/Egna företagare",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 45
+    },
+    {
+      "group": "Arbetssökande",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 35
+    },
+    {
+      "group": "Pensionärer och andra",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Hushåll utan barn",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 28
+    },
+    {
+      "group": "Hushåll med barn",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 49
+    },
+    {
+      "group": "Hushåll med en vuxen",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 25
+    },
+    {
+      "group": "Hushåll med minst två vuxna",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 36
+    },
+    {
+      "group": "Inrikes födda",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 33
+    },
+    {
+      "group": "Utrikes födda",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 36
+    },
+    {
+      "group": "Stockholm",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 41
+    },
+    {
+      "group": "Östra Mellansverige",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 32
+    },
+    {
+      "group": "Småland med öarna",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 24
+    },
+    {
+      "group": "Sydsverige",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 33
+    },
+    {
+      "group": "Västsverige",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 36
+    },
+    {
+      "group": "Norra Mellansverige",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 28
+    },
+    {
+      "group": "Mellersta Norrland",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 28
+    },
+    {
+      "group": "Övre Norrland",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 27
+    },
+    {
+      "group": "Samtliga 16–74 år",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 38
+    },
+    {
+      "group": "Samtliga 16–85 år",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 35
+    },
+    {
+      "group": "Samtliga 16+ år",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 34
+    },
+    {
+      "group": "Kvintil 1 (lägsta inkomsterna)",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 32
+    },
+    {
+      "group": "Kvintil 2 (näst lägsta inkomsterna)",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 22
+    },
+    {
+      "group": "Kvintil 3 (mellersta inkomsterna)",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 30
+    },
+    {
+      "group": "Kvintil 4 (näst högsta inkomsterna)",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 35
+    },
+    {
+      "group": "Kvintil 5 (högsta inkomsterna)",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 46
+    },
+    {
+      "group": "Storstad",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 41
+    },
+    {
+      "group": "Mindre stad eller förort",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 31
+    },
+    {
+      "group": "Glesbefolkade områden",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 23
+    },
+    {
+      "group": "Mycket svårt klara sysslor/aktiviteter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Ganska svårt",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 20
+    },
+    {
+      "group": "Inte alls svårt",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 40
+    },
+    {
+      "group": "Haft svårt klara sysslor/aktiviteter under senaste 6 månaderna",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Se - inga svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 37
+    },
+    {
+      "group": "Se - vissa svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 28
+    },
+    {
+      "group": "Höra - inga svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 38
+    },
+    {
+      "group": "Höra - vissa svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Gå eller gå i trappor - inga svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 40
+    },
+    {
+      "group": "Gå eller gå i trappor - vissa svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - inga svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 35
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - vissa svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 34
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - stora svårigheter/kan inte alls",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 26
+    },
+    {
+      "group": "Ta hand om sig själv - inga svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 36
+    },
+    {
+      "group": "Ta hand om sig själv - vissa svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 19
+    },
+    {
+      "group": "Kommunicera - inga svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 36
+    },
+    {
+      "group": "Kommunicera - vissa svårigheter",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 22
+    },
+    {
+      "group": "Personer med funktionsnedsättning - definition 1 (WG)",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Övriga i befolkningen - defnition 1 (WG)",
+      "usage": "använt AI för text och språk: samanfatta, översätta, editera, skapa",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 35
+    },
+    {
+      "group": "16–24 år",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 22
+    },
+    {
+      "group": "25–34 år",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 25
+    },
+    {
+      "group": "35–44 år",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 28
+    },
+    {
+      "group": "45–54 år",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 20
+    },
+    {
+      "group": "55–64 år",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 14
+    },
+    {
+      "group": "65–74 år",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 4
+    },
+    {
+      "group": "Förgymnasial utbildning",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "Gymnasial utbildning",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Eftergymnasial utbildning",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 22
+    },
+    {
+      "group": "Studerande",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 23
+    },
+    {
+      "group": "Anställda/Egna företagare",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 22
+    },
+    {
+      "group": "Pensionärer och andra",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 9
+    },
+    {
+      "group": "Hushåll utan barn",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 14
+    },
+    {
+      "group": "Hushåll med barn",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 26
+    },
+    {
+      "group": "Hushåll med en vuxen",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Hushåll med minst två vuxna",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Inrikes födda",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Utrikes födda",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Stockholm",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Östra Mellansverige",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Småland med öarna",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Sydsverige",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Västsverige",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Norra Mellansverige",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Mellersta Norrland",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 14
+    },
+    {
+      "group": "Övre Norrland",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Samtliga 16–74 år",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 20
+    },
+    {
+      "group": "Samtliga 16–85 år",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Samtliga 16+ år",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Kvintil 1 (lägsta inkomsterna)",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Kvintil 2 (näst lägsta inkomsterna)",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 9
+    },
+    {
+      "group": "Kvintil 3 (mellersta inkomsterna)",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Kvintil 4 (näst högsta inkomsterna)",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 20
+    },
+    {
+      "group": "Kvintil 5 (högsta inkomsterna)",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 21
+    },
+    {
+      "group": "Storstad",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 19
+    },
+    {
+      "group": "Mindre stad eller förort",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Glesbefolkade områden",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "Ganska svårt",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 11
+    },
+    {
+      "group": "Inte alls svårt",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Haft svårt klara sysslor/aktiviteter under senaste 6 månaderna",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 11
+    },
+    {
+      "group": "Se - inga svårigheter",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Se - vissa svårigheter",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "Höra - inga svårigheter",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Höra - vissa svårigheter",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 10
+    },
+    {
+      "group": "Gå eller gå i trappor - inga svårigheter",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 19
+    },
+    {
+      "group": "Gå eller gå i trappor - vissa svårigheter",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 7
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - inga svårigheter",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - vissa svårigheter",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - stora svårigheter/kan inte alls",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 11
+    },
+    {
+      "group": "Ta hand om sig själv - inga svårigheter",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Kommunicera - inga svårigheter",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Kommunicera - vissa svårigheter",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 8
+    },
+    {
+      "group": "Personer med funktionsnedsättning - definition 1 (WG)",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 8
+    },
+    {
+      "group": "Övriga i befolkningen - defnition 1 (WG)",
+      "usage": "använt AI för att skapa musik, video, bilder, grafik, design",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "16–24 år",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 19
+    },
+    {
+      "group": "25–34 år",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 23
+    },
+    {
+      "group": "35–44 år",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "45–54 år",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "55–64 år",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 7
+    },
+    {
+      "group": "65–74 år",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 2
+    },
+    {
+      "group": "Förgymnasial utbildning",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 7
+    },
+    {
+      "group": "Gymnasial utbildning",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 10
+    },
+    {
+      "group": "Eftergymnasial utbildning",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Studerande",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Anställda/Egna företagare",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 14
+    },
+    {
+      "group": "Pensionärer och andra",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 7
+    },
+    {
+      "group": "Hushåll utan barn",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 10
+    },
+    {
+      "group": "Hushåll med barn",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Hushåll med en vuxen",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 10
+    },
+    {
+      "group": "Hushåll med minst två vuxna",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Inrikes födda",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 11
+    },
+    {
+      "group": "Utrikes födda",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Stockholm",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Östra Mellansverige",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "Småland med öarna",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 10
+    },
+    {
+      "group": "Sydsverige",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 10
+    },
+    {
+      "group": "Västsverige",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Norra Mellansverige",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 9
+    },
+    {
+      "group": "Samtliga 16–74 år",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "Samtliga 16–85 år",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Samtliga 16+ år",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Kvintil 1 (lägsta inkomsterna)",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Kvintil 2 (näst lägsta inkomsterna)",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 6
+    },
+    {
+      "group": "Kvintil 3 (mellersta inkomsterna)",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 10
+    },
+    {
+      "group": "Kvintil 4 (näst högsta inkomsterna)",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "Kvintil 5 (högsta inkomsterna)",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Storstad",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Mindre stad eller förort",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 10
+    },
+    {
+      "group": "Glesbefolkade områden",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 8
+    },
+    {
+      "group": "Ganska svårt",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 7
+    },
+    {
+      "group": "Inte alls svårt",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Haft svårt klara sysslor/aktiviteter under senaste 6 månaderna",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 6
+    },
+    {
+      "group": "Se - inga svårigheter",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 11
+    },
+    {
+      "group": "Se - vissa svårigheter",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 8
+    },
+    {
+      "group": "Höra - inga svårigheter",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Höra - vissa svårigheter",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 4
+    },
+    {
+      "group": "Gå eller gå i trappor - inga svårigheter",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - inga svårigheter",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 11
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - vissa svårigheter",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 9
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - stora svårigheter/kan inte alls",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Ta hand om sig själv - inga svårigheter",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 11
+    },
+    {
+      "group": "Kommunicera - inga svårigheter",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 11
+    },
+    {
+      "group": "Personer med funktionsnedsättning - definition 1 (WG)",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 7
+    },
+    {
+      "group": "Övriga i befolkningen - defnition 1 (WG)",
+      "usage": "använt AI för teknik, kod och algoritmer",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "16–24 år",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 35
+    },
+    {
+      "group": "25–34 år",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 34
+    },
+    {
+      "group": "35–44 år",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 31
+    },
+    {
+      "group": "45–54 år",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 24
+    },
+    {
+      "group": "55–64 år",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "65–74 år",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 9
+    },
+    {
+      "group": "75–84 år",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 6
+    },
+    {
+      "group": "75–85 år",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 5
+    },
+    {
+      "group": "Förgymnasial utbildning",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 19
+    },
+    {
+      "group": "Gymnasial utbildning",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Eftergymnasial utbildning",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 31
+    },
+    {
+      "group": "Studerande",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 42
+    },
+    {
+      "group": "Anställda/Egna företagare",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 27
+    },
+    {
+      "group": "Arbetssökande",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 26
+    },
+    {
+      "group": "Pensionärer och andra",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 11
+    },
+    {
+      "group": "Hushåll utan barn",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Hushåll med barn",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 34
+    },
+    {
+      "group": "Hushåll med en vuxen",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Hushåll med minst två vuxna",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 24
+    },
+    {
+      "group": "Inrikes födda",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 21
+    },
+    {
+      "group": "Utrikes födda",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 27
+    },
+    {
+      "group": "Stockholm",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 29
+    },
+    {
+      "group": "Östra Mellansverige",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 21
+    },
+    {
+      "group": "Småland med öarna",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Sydsverige",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 20
+    },
+    {
+      "group": "Västsverige",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 26
+    },
+    {
+      "group": "Norra Mellansverige",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Mellersta Norrland",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Övre Norrland",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 14
+    },
+    {
+      "group": "Samtliga 16–74 år",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 25
+    },
+    {
+      "group": "Samtliga 16–85 år",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 23
+    },
+    {
+      "group": "Samtliga 16+ år",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 23
+    },
+    {
+      "group": "Kvintil 1 (lägsta inkomsterna)",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 22
+    },
+    {
+      "group": "Kvintil 2 (näst lägsta inkomsterna)",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Kvintil 3 (mellersta inkomsterna)",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 21
+    },
+    {
+      "group": "Kvintil 4 (näst högsta inkomsterna)",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 24
+    },
+    {
+      "group": "Kvintil 5 (högsta inkomsterna)",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 28
+    },
+    {
+      "group": "Storstad",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 26
+    },
+    {
+      "group": "Mindre stad eller förort",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 22
+    },
+    {
+      "group": "Glesbefolkade områden",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Ganska svårt",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Inte alls svårt",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 25
+    },
+    {
+      "group": "Haft svårt klara sysslor/aktiviteter under senaste 6 månaderna",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 14
+    },
+    {
+      "group": "Se - inga svårigheter",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 24
+    },
+    {
+      "group": "Se - vissa svårigheter",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Höra - inga svårigheter",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 24
+    },
+    {
+      "group": "Höra - vissa svårigheter",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Gå eller gå i trappor - inga svårigheter",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 25
+    },
+    {
+      "group": "Gå eller gå i trappor - vissa svårigheter",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 11
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - inga svårigheter",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 22
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - vissa svårigheter",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 25
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - stora svårigheter/kan inte alls",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 20
+    },
+    {
+      "group": "Ta hand om sig själv - inga svårigheter",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 23
+    },
+    {
+      "group": "Kommunicera - inga svårigheter",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 23
+    },
+    {
+      "group": "Kommunicera - vissa svårigheter",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Personer med funktionsnedsättning - definition 1 (WG)",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "Övriga i befolkningen - defnition 1 (WG)",
+      "usage": "använt AI för att söka information om hälsa och välmående",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 24
+    },
+    {
+      "group": "16–24 år",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 25
+    },
+    {
+      "group": "25–34 år",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 22
+    },
+    {
+      "group": "35–44 år",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 23
+    },
+    {
+      "group": "45–54 år",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "55–64 år",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "65–74 år",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 5
+    },
+    {
+      "group": "75–84 år",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 3
+    },
+    {
+      "group": "75–85 år",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 3
+    },
+    {
+      "group": "Förgymnasial utbildning",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "Gymnasial utbildning",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 14
+    },
+    {
+      "group": "Eftergymnasial utbildning",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 20
+    },
+    {
+      "group": "Studerande",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 23
+    },
+    {
+      "group": "Anställda/Egna företagare",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 20
+    },
+    {
+      "group": "Arbetssökande",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Pensionärer och andra",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 9
+    },
+    {
+      "group": "Hushåll utan barn",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 14
+    },
+    {
+      "group": "Hushåll med barn",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 22
+    },
+    {
+      "group": "Hushåll med en vuxen",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Hushåll med minst två vuxna",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Inrikes födda",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Utrikes födda",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Stockholm",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 20
+    },
+    {
+      "group": "Östra Mellansverige",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Småland med öarna",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 14
+    },
+    {
+      "group": "Sydsverige",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Västsverige",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Norra Mellansverige",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Övre Norrland",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 13
+    },
+    {
+      "group": "Samtliga 16–74 år",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Samtliga 16–85 år",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Samtliga 16+ år",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Kvintil 1 (lägsta inkomsterna)",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Kvintil 2 (näst lägsta inkomsterna)",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 11
+    },
+    {
+      "group": "Kvintil 3 (mellersta inkomsterna)",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 14
+    },
+    {
+      "group": "Kvintil 4 (näst högsta inkomsterna)",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Kvintil 5 (högsta inkomsterna)",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 21
+    },
+    {
+      "group": "Storstad",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 18
+    },
+    {
+      "group": "Mindre stad eller förort",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Glesbefolkade områden",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Ganska svårt",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 10
+    },
+    {
+      "group": "Inte alls svårt",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Haft svårt klara sysslor/aktiviteter under senaste 6 månaderna",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 10
+    },
+    {
+      "group": "Se - inga svårigheter",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Se - vissa svårigheter",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 14
+    },
+    {
+      "group": "Höra - inga svårigheter",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Höra - vissa svårigheter",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 9
+    },
+    {
+      "group": "Gå eller gå i trappor - inga svårigheter",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    },
+    {
+      "group": "Gå eller gå i trappor - vissa svårigheter",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 8
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - inga svårigheter",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - vissa svårigheter",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Komma ihåg eller koncentrera sig - stora svårigheter/kan inte alls",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 15
+    },
+    {
+      "group": "Ta hand om sig själv - inga svårigheter",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Kommunicera - inga svårigheter",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 16
+    },
+    {
+      "group": "Kommunicera - vissa svårigheter",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 12
+    },
+    {
+      "group": "Personer med funktionsnedsättning - definition 1 (WG)",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 10
+    },
+    {
+      "group": "Övriga i befolkningen - defnition 1 (WG)",
+      "usage": "använt AI för nöje/personligt t.ex. chatta med AI",
+      "share_pct_2024": "",
+      "share_pct_2025": "",
+      "share_pct_2026": 17
+    }
+  ],
+  "meta": {
+    "title": "Användning av generativa AI-verktyg i Sverige (2024–2026) - Free Download",
+    "description": "Andel av befolkningen (procent) som använt generativa AI-verktyg, totalt och för olika ändamål (sökmotor, text och språk, bild/musik/video, kod, hälsa, nöje), per åldersgrupp, utbildningsnivå, sysselsättning och hushållstyp, år 2024–2026 enligt SCB:s undersökning om befolkningens it-användning. Contains 461 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Användning av generativa AI-verktyg i Sverige (2024–2026) | ListBase",
+    "seo_description": "Download Användning av generativa AI-verktyg i Sverige (2024–2026) — 461 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 461 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0108__LE0108Q/LE0108T82/"
+    ]
+  }
+}

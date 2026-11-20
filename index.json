@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-20T02:20:13.995Z",
-  "total_datasets": 573,
-  "total_records": 2278173,
+  "generated": "2026-11-20T02:20:59.166Z",
+  "total_datasets": 574,
+  "total_records": 2278634,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "time",
@@ -13448,6 +13448,32 @@
         "xlsx": {
           "name": "sv-emoji-namn_SV.xlsx",
           "size": 90314
+        }
+      }
+    },
+    {
+      "id": "sv-generativ-ai-anvandning",
+      "name": "Användning av generativa AI-verktyg i Sverige (2024–2026)",
+      "category": "tech",
+      "record_count": 461,
+      "columns": [
+        "group",
+        "usage",
+        "share_pct_2024",
+        "share_pct_2025",
+        "share_pct_2026"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0108__LE0108Q/LE0108T82/",
+      "updated": "2026-11",
+      "size": 97510,
+      "files": {
+        "csv": {
+          "name": "sv-generativ-ai-anvandning_SV.csv",
+          "size": 41689
+        },
+        "xlsx": {
+          "name": "sv-generativ-ai-anvandning_SV.xlsx",
+          "size": 17801
         }
       }
     },
