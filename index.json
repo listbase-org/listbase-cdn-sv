@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-20T02:20:59.166Z",
-  "total_datasets": 574,
-  "total_records": 2278634,
+  "generated": "2026-11-23T02:22:03.676Z",
+  "total_datasets": 575,
+  "total_records": 2278759,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "language",
@@ -5382,6 +5382,32 @@
         "xlsx": {
           "name": "sv-regentgemaler_SV.xlsx",
           "size": 11648
+        }
+      }
+    },
+    {
+      "id": "sv-slag-finska-kriget",
+      "name": "Slag och belägringar under finska kriget 1808–1809",
+      "category": "history",
+      "record_count": 125,
+      "columns": [
+        "name",
+        "date",
+        "place",
+        "result",
+        "note"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_slag_och_belägringar_under_finska_kriget",
+      "updated": "2026-11",
+      "size": 31358,
+      "files": {
+        "csv": {
+          "name": "sv-slag-finska-kriget_SV.csv",
+          "size": 18295
+        },
+        "xlsx": {
+          "name": "sv-slag-finska-kriget_SV.xlsx",
+          "size": 13841
         }
       }
     },

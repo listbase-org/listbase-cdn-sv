@@ -1,0 +1,926 @@
+{
+  "id": "sv-slag-finska-kriget",
+  "name": "Slag och belägringar under finska kriget 1808–1809",
+  "title": "Slag och belägringar under finska kriget 1808–1809",
+  "description": "Lista över slag, strider och belägringar under finska kriget 1808–1809 mellan Sverige och Ryssland med datum, plats, utfall och kommentar.",
+  "category": "history",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_slag_och_belägringar_under_finska_kriget",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_slag_och_belägringar_under_finska_kriget",
+  "updated": "2026-11",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Striden vid Elimä",
+      "date": "21 februari 1808",
+      "place": "Elimä, Finland",
+      "result": "Rysk seger",
+      "note": "En mindre svensk avdelning tvingas till reträtt."
+    },
+    {
+      "name": "Belägringen av Svartholm",
+      "date": "23 februari – 18 mars 1808",
+      "place": "Svartholm, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor erövrar Svartholms fästning efter en kort belägring."
+    },
+    {
+      "name": "Striden vid Muttom",
+      "date": "23 februari – 24 februari 1808",
+      "place": "Muttom, Finland",
+      "result": "Rysk seger",
+      "note": "Ett svenskt förpostkompani retirerar efter flera anfall."
+    },
+    {
+      "name": "Slaget vid Artsjö",
+      "date": "24 februari 1808",
+      "place": "Artsjö, Finland",
+      "result": "Svensk seger",
+      "note": "Åbo läns infanteriregemente under befäl av Herman Fleming besegrar en större rysk styrka."
+    },
+    {
+      "name": "Slaget vid Forsby",
+      "date": "24 februari 1808",
+      "place": "Forsby, Finland",
+      "result": "Rysk seger",
+      "note": "En svensk styrka i Forsby drivs tillbaka."
+    },
+    {
+      "name": "Slaget vid Kuuskoski",
+      "date": "24 februari 1808",
+      "place": "Kuuskoski, Finland",
+      "result": "Rysk seger",
+      "note": "En framskjuten svensk bataljon drivs tillbaka."
+    },
+    {
+      "name": "Slaget vid Käkelä",
+      "date": "26 februari – 27 februari 1808",
+      "place": "Käkelä, Orimattila, Finland",
+      "result": "Svensk seger",
+      "note": "Ryska styrkor genomför ett nattligt anfall mot Käkelä."
+    },
+    {
+      "name": "Slaget vid Okerois",
+      "date": "28 februari 1808",
+      "place": "Okerois, Finland",
+      "result": "Rysk seger",
+      "note": "Tavastehus läns infanteriregemente blir anfallet vid Okerois under svenska reträtten."
+    },
+    {
+      "name": "Belägringen av Sveaborg",
+      "date": "2 mars – 3 maj 1808",
+      "place": "Sveaborg, Finland",
+      "result": "Rysk seger",
+      "note": "Sveaborgs fästning, under befäl av Carl Olof Cronstedt, blir under en kort tid belägrad, men faller utan något större stridande då Cronstedt, efter att ha förhandlat, passivt kapitulerar."
+    },
+    {
+      "name": "Striden vid Pyhäjärvi is",
+      "date": "11 mars 1808",
+      "place": "Pyhäjärvi, Finland",
+      "result": "Svensk seger",
+      "note": "Svenska soldater avslår flera anfall av kosacker."
+    },
+    {
+      "name": "Striden vid Hatanpää",
+      "date": "11 mars 1808",
+      "place": "Tammerfors, Finland",
+      "result": "Svensk seger",
+      "note": "Kosacker anfaller Tammerfors."
+    },
+    {
+      "name": "Striden vid Leppävirta",
+      "date": "11 mars 1808",
+      "place": "Leppävirta, Finland",
+      "result": "Oavgjort",
+      "note": "En kanonad samt mindre strid utbryter mellan svenska och ryska styrkor."
+    },
+    {
+      "name": "Striden vid Jynkkä",
+      "date": "15 mars 1808",
+      "place": "Jynkkä, Finland",
+      "result": "Rysk seger",
+      "note": "En avdelning ur savolaxbrigaden under befäl av Joachim Zachris Duncker skyddar reträtten från ryska anfall."
+    },
+    {
+      "name": "Striden vid Haistila",
+      "date": "17 mars 1808",
+      "place": "Haistila, Finland",
+      "result": "Rysk seger",
+      "note": "Taktisk svensk förlust med strategisk framgång."
+    },
+    {
+      "name": "Slaget vid Pyhäjoki",
+      "date": "16 april 1808",
+      "place": "Pyhäjoki, Finland",
+      "result": "Rysk seger",
+      "note": "Svenska styrkor försvarar sig mot ryska anfall av Jakov Kulnev för att föra förråden i säkerhet."
+    },
+    {
+      "name": "Slaget vid Siikajoki",
+      "date": "18 april 1808",
+      "place": "Siikajoki, Finland",
+      "result": "Svensk seger",
+      "note": "Carl Johan Adlercreutz vinner en överlägsen svensk seger och avslutar därmed de ryska styrkornas offensiv."
+    },
+    {
+      "name": "Slaget vid Revolax",
+      "date": "27 april 1808",
+      "place": "Revolax, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk brigad besegrar en rysk styrka vid Revolax."
+    },
+    {
+      "name": "Slaget vid Pulkkila",
+      "date": "2 maj 1808",
+      "place": "Pulkkila, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk avdelning ur savolaxbrigaden under befäl av Johan August Sandels omringar och tillfångatar en rysk styrka."
+    },
+    {
+      "name": "Slaget vid Valkiamäki",
+      "date": "6 maj 1808",
+      "place": "Valkiamäki, Finland",
+      "result": "Svensk seger",
+      "note": "En bondehär under Erik Ollikainen anfaller en rysk styrka och tar dess förråd."
+    },
+    {
+      "name": "Kumlingeslaget",
+      "date": "9 maj 1808",
+      "place": "Kumlinge, Åland",
+      "result": "Svensk seger",
+      "note": "En bondehär ledd av Johan Henrik Gummerus besegrar och tillfångatar den ryska styrkan som invaderat Åland."
+    },
+    {
+      "name": "Slaget vid Pakkas",
+      "date": "9 maj 1808",
+      "place": "Pakkas, Finland",
+      "result": "Svensk seger",
+      "note": "En rysk styrka omringas och tillfångatas av Gustaf Vasili Clementeoff."
+    },
+    {
+      "name": "Slaget vid Toipala",
+      "date": "10 maj 1808",
+      "place": "Toipala, Finland",
+      "result": "Svensk seger",
+      "note": "Strid mellan svenska och ryska styrkor."
+    },
+    {
+      "name": "Första slaget vid Kuopio",
+      "date": "12 maj 1808",
+      "place": "Kuopio, Finland",
+      "result": "Svensk seger",
+      "note": "Carl Wilhelm Malm anfaller och överrumplar Kuopio."
+    },
+    {
+      "name": "Träffningen vid Peltokorpi",
+      "date": "13 maj 1808",
+      "place": "Peltokorpi, Finland",
+      "result": "Svensk seger",
+      "note": "Arvid Adolf Spåre överrumplar en fyrdubbel rysk styrka."
+    },
+    {
+      "name": "Slaget vid Koivisto",
+      "date": "30 maj 1808",
+      "place": "Koivisto, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk styrka anfaller en rysk styrka och erövrar dess förråd."
+    },
+    {
+      "name": "Slaget vid Perho",
+      "date": "8 juni 1808",
+      "place": "Perho, Finland",
+      "result": "Svensk seger",
+      "note": "Otto von Fieandt anfaller en rysk styrka vid Perho och tar dess förråd."
+    },
+    {
+      "name": "Slaget vid Jorois",
+      "date": "12 juni – 14 juni 1808",
+      "place": "Jorois, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor erövrar en stark svensk försvarsställning efter två dagars strid."
+    },
+    {
+      "name": "Slaget vid Surnumäki",
+      "date": "13 juni 1808",
+      "place": "Surnumäki, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk styrka slår en rysk styrka."
+    },
+    {
+      "name": "Slaget vid Kutumäki",
+      "date": "14 juni 1808",
+      "place": "Kutumäki, Finland",
+      "result": "Rysk seger",
+      "note": "Mindre försvarsstrid under svensk reträtt."
+    },
+    {
+      "name": "Slaget vid Suonenjoki",
+      "date": "15 juni 1808",
+      "place": "Suonenjoki, Finland",
+      "result": "Rysk seger",
+      "note": "Mindre försvarsstrid under svensk reträtt."
+    },
+    {
+      "name": "Slaget vid Henriksnäs",
+      "date": "17 juni 1808",
+      "place": "Henriksnäs, Finland",
+      "result": "Rysk seger",
+      "note": "Mindre försvarsstrid under svensk reträtt."
+    },
+    {
+      "name": "Andra slaget vid Kuopio",
+      "date": "18 juni 1808",
+      "place": "Henriksnäs, Finland",
+      "result": "Rysk seger",
+      "note": "Mindre försvarsstrid under svensk reträtt."
+    },
+    {
+      "name": "Slaget vid Lemo",
+      "date": "19 juni 1808",
+      "place": "Lemo, Finland",
+      "result": "Rysk seger",
+      "note": "En svensk landstigning under befäl av Eberhard von Vegesack besegras."
+    },
+    {
+      "name": "Slaget vid Sundby",
+      "date": "20 juni 1808",
+      "place": "Sundby, Finland",
+      "result": "Svensk seger",
+      "note": "En rysk styrka blir överfallen."
+    },
+    {
+      "name": "Slaget vid Nykarleby",
+      "date": "24 juni 1808",
+      "place": "Nykarleby, Finland",
+      "result": "Svensk seger",
+      "note": "Ett svenskt anfall mot Nykarleby driver de färre ryska styrkorna till reträtt."
+    },
+    {
+      "name": "Överfallet vid Sundom",
+      "date": "24 juni 1808",
+      "place": "Sundom, Finland",
+      "result": "Svensk seger",
+      "note": "En bondehär överfaller kosacker."
+    },
+    {
+      "name": "Överfallet vid Solf",
+      "date": "24 juni 1808",
+      "place": "Solf, Finland",
+      "result": "Svensk seger",
+      "note": "En bondehär överfaller kosacker."
+    },
+    {
+      "name": "Striden vid Toby",
+      "date": "25 juni 1808",
+      "place": "Toby, Finland",
+      "result": "Svensk seger",
+      "note": "En bondehär blir anfallen av ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Vasa",
+      "date": "25 juni 1808",
+      "place": "Vasa, Finland",
+      "result": "Rysk seger",
+      "note": "En svensk landstigning under befäl av Johan Bergenstråhle besegras."
+    },
+    {
+      "name": "Slaget vid Paukarlaks",
+      "date": "25 juni – 26 juni 1808",
+      "place": "Paukarlaks, Finland",
+      "result": "Svensk seger",
+      "note": "Joachim Zachris Duncker överfaller en rysk styrka och erövrar dess förråd."
+    },
+    {
+      "name": "Första landstigningen vid Kuopio",
+      "date": "25 juni – 26 juni 1808",
+      "place": "Kuopio, Finland",
+      "result": "Rysk seger",
+      "note": "Savolaxbrigaden genomför en landstigning utan taktisk framgång, vilken dock visar sig vara av stor strategiskt vikt."
+    },
+    {
+      "name": "Skärgårdsslaget vid Rimito Kramp",
+      "date": "30 juni 1808",
+      "place": "Krampen, Finland",
+      "result": "Svensk seger",
+      "note": "Mindre skärgårdsslag utan strategiskt resultat."
+    },
+    {
+      "name": "Andra landstigningen vid Kuopio",
+      "date": "30 juni – 1 juli 1808",
+      "place": "Kuopio, Finland",
+      "result": "Rysk seger",
+      "note": "Savolaxbrigaden genomför en landstigning utan taktisk framgång, vilken dock visar sig vara av stor strategiskt vikt."
+    },
+    {
+      "name": "Slaget vid Långbro",
+      "date": "1 juli 1808",
+      "place": "Långbro, Finland",
+      "result": "Svensk seger",
+      "note": "En bondehär slår anfallande kosacker."
+    },
+    {
+      "name": "Sjöstriden vid Bockholmssund",
+      "date": "3 juli 1808",
+      "place": "Bockholmssund, Finland",
+      "result": "Oavgjort",
+      "note": "Mindre slag i Skärgårdshavet."
+    },
+    {
+      "name": "Slaget vid Lintulaks",
+      "date": "3 juli 1808",
+      "place": "Lintulaks, Kyyjärvi, Finland",
+      "result": "Rysk seger",
+      "note": "Otto von Fieandts avdelning besegras av en större rysk styrka."
+    },
+    {
+      "name": "Striden vid Lappo",
+      "date": "8 juli 1808",
+      "place": "Lappo, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor under Nikolaj Rajevskij intar Lappo."
+    },
+    {
+      "name": "Slaget vid Kokonsaari",
+      "date": "11 juli 1808",
+      "place": "Kokonsaari, Perho, Finland",
+      "result": "Rysk seger",
+      "note": "Otto von Fieandts avdelning besegras av en större rysk styrka."
+    },
+    {
+      "name": "Slaget vid Karsböle",
+      "date": "13 juli 1808",
+      "place": "Karsböle, Finland",
+      "result": "Rysk seger",
+      "note": "En bondehär blir överfallen."
+    },
+    {
+      "name": "Slaget vid Lappo",
+      "date": "14 juli 1808",
+      "place": "Lappo, Finland",
+      "result": "Svensk seger",
+      "note": "Den svenska huvudhären under befäl av Carl Johan Adlercreutz anfaller och slår en rysk styrka under Nikolaj Rajevskij i ett av krigets större slag."
+    },
+    {
+      "name": "Landstigningen vid Pielaks vik",
+      "date": "15 juli 1808",
+      "place": "Pielaks, Finland",
+      "result": "Rysk seger",
+      "note": "En svensk landstigning hindras av ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Visuvesi",
+      "date": "19 juli 1808",
+      "place": "Visuvesi, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk strövkår under Johan Jacob Roth slår en rysk styrka."
+    },
+    {
+      "name": "Slaget vid Orivesi",
+      "date": "19 juli 1808",
+      "place": "Orivesi, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk strövkår under Johan Jacob Roth slår en rysk styrka."
+    },
+    {
+      "name": "Sjöstriden vid Kimitosundet",
+      "date": "21 juli 1808",
+      "place": "Kimitosundet, Finland",
+      "result": "Rysk seger",
+      "note": "Mindre slag i Skärgårdshavet."
+    },
+    {
+      "name": "Slaget vid Konnuskoski",
+      "date": "17 juli 1808",
+      "place": "Konnuskoski, Kallavesi, Finland",
+      "result": "Rysk seger",
+      "note": "Sjöstrid i sjön Kallavesi."
+    },
+    {
+      "name": "Slaget vid Närpes",
+      "date": "20 juli 1808",
+      "place": "Närpes, Finland",
+      "result": "Svensk seger",
+      "note": "Ett ryskt anfall hindras av svenska styrkor."
+    },
+    {
+      "name": "Sjöstriden vid Toivala",
+      "date": "23 juli 1808",
+      "place": "Toivala, Finland",
+      "result": "Svensk seger",
+      "note": "Ryska styrkor i båtar skottväxlar med de svenska batterierna vid Toivala."
+    },
+    {
+      "name": "Slaget vid Maaninga",
+      "date": "24 juli 1808",
+      "place": "Maaninga, Finland",
+      "result": "Svensk seger",
+      "note": "Svenska styrkor avslår ett ryskt anfall."
+    },
+    {
+      "name": "Slaget vid Samelinlakso",
+      "date": "27 juli 1808",
+      "place": "Samelinlakso, Finland",
+      "result": "Svensk seger",
+      "note": "Carl von Otter slår en rysk styrka."
+    },
+    {
+      "name": "Slaget vid Aron",
+      "date": "28 juli 1808",
+      "place": "Aronkylä, Finland",
+      "result": "Svensk seger",
+      "note": "Strid mellan svenska och ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Parjakanneva",
+      "date": "28 juli – 29 juli 1808",
+      "place": "Parjakanneva, Finland",
+      "result": "Rysk seger",
+      "note": "En svensk avdelning besegras och retirerar."
+    },
+    {
+      "name": "Slaget vid Kausto",
+      "date": "31 juli 1808",
+      "place": "Kausto, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk strövkår under Johan Jacob Roth slår en rysk styrka."
+    },
+    {
+      "name": "Slaget vid Mönninvaara",
+      "date": "31 juli 1808",
+      "place": "Mönninvaara, Finland",
+      "result": "Svensk seger",
+      "note": "En karelsk bondehär under Olli Tiainen slår en rysk styrka."
+    },
+    {
+      "name": "Skärgårdsslaget vid Sandöström",
+      "date": "2 augusti 1808",
+      "place": "Sandöström, Finland",
+      "result": "Rysk seger",
+      "note": "Svenska skärgårdsflottan besegras av ryska styrkor"
+    },
+    {
+      "name": "Slaget vid Ritoniemi",
+      "date": "3 augusti 1808",
+      "place": "Ritoniemi, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk strövkår under Johan Jacob Roth slår en rysk styrka."
+    },
+    {
+      "name": "Slaget vid Julkulanniemi",
+      "date": "9 augusti 1808",
+      "place": "Julkulanniemi, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk avdelning landstiger och slår en rysk styrka."
+    },
+    {
+      "name": "Slaget vid Pälkjärvi",
+      "date": "9 augusti 1808",
+      "place": "Pälkjärvi, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk avdelning ur savolaxbrigaden under Carl Wilhelm Malm överraskar och slår en dubbelt så stor rysk styrka."
+    },
+    {
+      "name": "Slaget vid Kauhajoki",
+      "date": "10 augusti 1808",
+      "place": "Kauhajoki, Finland",
+      "result": "Svensk seger",
+      "note": "Georg Carl von Döbeln besegrar en anfallande rysk styrka."
+    },
+    {
+      "name": "Slaget vid Långåsmossen",
+      "date": "10 augusti – 11 augusti 1808",
+      "place": "Långåsmossen, Finland",
+      "result": "Svensk seger",
+      "note": "Styrkor under Anders Gyllenbögel segrar över ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Tjöck",
+      "date": "11 augusti 1808",
+      "place": "Tjöck, Finland",
+      "result": "Svensk seger",
+      "note": "Styrkor under Anders Gyllenbögel segrar över ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Kalmari",
+      "date": "15 augusti 1808",
+      "place": "Kalmari, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk bataljon slår en framskjuten rysk styrka."
+    },
+    {
+      "name": "Slaget vid Alavo",
+      "date": "17 augusti 1808",
+      "place": "Alavo, Finland",
+      "result": "Svensk seger",
+      "note": "Carl Johan Adlercreutz svenska huvudstyrkor slår en mindre rysk styrka."
+    },
+    {
+      "name": "Anfallet i Jungfrusund",
+      "date": "17 augusti 1808",
+      "place": "Jungfrusund, Finland",
+      "result": "Oavgjort",
+      "note": "Svenskt anfall mot ryska styrkor i syfte att återerövra förlorade farkoster."
+    },
+    {
+      "name": "Skärgårdsslaget vid Sudsalo",
+      "date": "18 augusti 1808",
+      "place": "Sudsalo, Finland",
+      "result": "Svensk seger",
+      "note": "Svenska skärgårdsflottan besegrar en anfallande rysk styrka."
+    },
+    {
+      "name": "Slaget vid Etseri",
+      "date": "20 augusti 1808",
+      "place": "Etseri, Finland",
+      "result": "Svensk seger",
+      "note": "Gustaf Adolf Ehrnrooth slår en rysk styrka och erövrar dess förråd."
+    },
+    {
+      "name": "Slaget vid Herranen",
+      "date": "21 augusti 1808",
+      "place": "Herranen, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk brigad under August Fredrik Palmfelt slår en rysk styrka."
+    },
+    {
+      "name": "Slaget vid Karstula",
+      "date": "21 augusti 1808",
+      "place": "Karstula, Finland",
+      "result": "Rysk seger",
+      "note": "Otto von Fieandt lider en stor förlust mot ryska styrkor under Jegor Vlastov vilket avslutar den svenska sommaroffensiven."
+    },
+    {
+      "name": "Landstigningen vid Vaajasalo",
+      "date": "25 augusti 1808",
+      "place": "Vaajasalo, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk avdelning landstiger och fördriver ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Nummijärvi",
+      "date": "28 augusti 1808",
+      "place": "Nummijärvi, Finland",
+      "result": "Svensk seger",
+      "note": "Carl von Otter slår en rysk styrka."
+    },
+    {
+      "name": "Slaget vid Lappfjärd",
+      "date": "29 augusti 1808",
+      "place": "Lappfjärd, Finland",
+      "result": "Svensk seger",
+      "note": "Eberhard von Vegesack besegrar en anfallande rysk styrka."
+    },
+    {
+      "name": "Skärgårdsslaget vid Grönvikssund",
+      "date": "30 augusti 1808",
+      "place": "Grönvikssund, Finland",
+      "result": "Svensk seger",
+      "note": "En avdelning ur skärgårdsflottan anfaller och slår en rysk styrka."
+    },
+    {
+      "name": "Slaget vid Kuortane",
+      "date": "31 augusti 1808",
+      "place": "Kuortane, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor under Jakov Kulnev anfaller en svensk fältvakt."
+    },
+    {
+      "name": "Striden vid Kauhajoki",
+      "date": "1 september 1808",
+      "place": "Kauhajoki, Finland",
+      "result": "Rysk seger",
+      "note": "August Fredrik Palmfelts brigad besegras av ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Ruona",
+      "date": "1 september 1808",
+      "place": "Ruona, Finland",
+      "result": "Svensk seger",
+      "note": "Carl Johan Adlercreutz slår tillbaka anfall av ryska styrkor under Nikolaj Kamenskij."
+    },
+    {
+      "name": "Slaget vid Salmis",
+      "date": "2 september 1808",
+      "place": "Salmis, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor under Nikolaj Kamenskij slår Carl Johan Adlercreutz svenska avdelning och tvingar den till reträtt."
+    },
+    {
+      "name": "Slaget vid Kaltemoniska strand",
+      "date": "2 september 1808",
+      "place": "Kaltemoniska, Finland",
+      "result": "Rysk seger",
+      "note": "Olli Tiainens bondehär tvingas iväg efter en kanonad."
+    },
+    {
+      "name": "Slaget vid Paljakka mosse",
+      "date": "4 september 1808",
+      "place": "Paljakka mosse, Finland",
+      "result": "Svensk seger",
+      "note": "Ett rysk anfall mot en svensk styrka slås tillbaka."
+    },
+    {
+      "name": "Slaget vid Ömossa",
+      "date": "6 september 1808",
+      "place": "Ömossa, Finland",
+      "result": "Rysk seger",
+      "note": "En svensk avdelning besegras av en tredubbel rysk styrka."
+    },
+    {
+      "name": "Slaget vid Ahvenus",
+      "date": "8 september 1808",
+      "place": "Ahvenus, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor nödsakar Isak Stenius karelska bondehär att retirera."
+    },
+    {
+      "name": "Slaget vid Vorna bro",
+      "date": "9 september 1808",
+      "place": "Kelvä, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor nödsakar Isak Stenius karelska bondehär att retirera."
+    },
+    {
+      "name": "Slaget vid Jouhia sund",
+      "date": "10 september – 11 september 1808",
+      "place": "Jauhiainen, Finland",
+      "result": "Svensk seger",
+      "note": "Olli Tiainens bondehär slår tillbaka anfall av ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Nederhärmä",
+      "date": "10 september 1808",
+      "place": "Nederhärmä, Finland",
+      "result": "Rysk seger",
+      "note": "En rysk styrka slår en svensk styrka."
+    },
+    {
+      "name": "Slaget vid Ylistaro",
+      "date": "10 september 1808",
+      "place": "Ylistaro, Finland",
+      "result": "Rysk seger",
+      "note": "En rysk styrka slår en svensk styrka."
+    },
+    {
+      "name": "Slaget vid Melttunen",
+      "date": "11 september 1808",
+      "place": "Melttunen, Finland",
+      "result": "Svensk seger",
+      "note": "Svenska styrkor slår tillbaka ryska anfall."
+    },
+    {
+      "name": "Slaget vid Kaustby",
+      "date": "13 september 1808",
+      "place": "Kaustby, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor slår en svensk rekognoseringsavdelning."
+    },
+    {
+      "name": "Slaget vid Jutas",
+      "date": "13 september 1808",
+      "place": "Juthas, Finland",
+      "result": "Svensk seger",
+      "note": "Georg Carl von Döbeln besegrar vid Jutas en rysk styrka och skyddar därmed den svenska reträtten."
+    },
+    {
+      "name": "Slaget vid Oravais",
+      "date": "14 september 1808",
+      "place": "Oravais, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor under Nikolaj Kamenskij vinner en överlägsen seger över den svenska huvudhären under Carl Johan Adlercreutz."
+    },
+    {
+      "name": "Slaget vid Nedervetil",
+      "date": "14 september 1808",
+      "place": "Nedervetil, Finland",
+      "result": "Rysk seger",
+      "note": "En svensk avdelning besegras av ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Karttula",
+      "date": "14 september 1808",
+      "place": "Karttula, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk avdelning genomför ett överraskande anfall mot en rysk styrka."
+    },
+    {
+      "name": "Slaget vid Kronoby",
+      "date": "15 september 1808",
+      "place": "Kronoby, Finland",
+      "result": "Svensk seger",
+      "note": "En svensk brigad besegrar en rysk styrka."
+    },
+    {
+      "name": "Striden vid Kauko bro",
+      "date": "15 september 1808",
+      "place": "Kauko, Finland",
+      "result": "Svensk seger",
+      "note": "Otto von Fieandt slår tillbaka anfall av ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Lokalax",
+      "date": "17 september – 18 september 1808",
+      "place": "Lokalax, Finland",
+      "result": "Rysk seger",
+      "note": "En svensk landstigning blir besegrad av ryska styrkor."
+    },
+    {
+      "name": "Skärgårdsslaget vid Palva sund",
+      "date": "18 september 1808",
+      "place": "Palva Sund, Finland",
+      "result": "Rysk seger",
+      "note": "Den svenska skärgårdsflottan besegras av en större rysk styrka."
+    },
+    {
+      "name": "Striderna vid Kahiluoto",
+      "date": "26 september – 2 oktober 1808",
+      "place": "Kahiluoto, Finland",
+      "result": "Svensk seger",
+      "note": "En avdelning ur skärgårdsflottan slår en fyrdubbel rysk flottstyrka."
+    },
+    {
+      "name": "Landstigningen vid Helsinge",
+      "date": "26 september – 28 september 1808",
+      "place": "Helsinge, Finland",
+      "result": "Rysk seger",
+      "note": "Svenska styrkor verkställer en misslyckad landstigning."
+    },
+    {
+      "name": "Landstigningen vid Toivala",
+      "date": "29 september 1808",
+      "place": "Toivala, Finland",
+      "result": "Svensk seger",
+      "note": "Savolaxbrigaden hindrar en landstigning av ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Virta bro",
+      "date": "27 oktober 1808",
+      "place": "Idensalmi, Finland",
+      "result": "Svensk seger",
+      "note": "Savolaxbrigaden under Johan August Sandels besegrar en mångdubbelt större rysk styrka under Nikolaj Tutjkov."
+    },
+    {
+      "name": "Slaget vid Sippoja",
+      "date": "5 november 1808",
+      "place": "Sippoja, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor under Jakov Kulnev besegrar en svensk avdelning."
+    },
+    {
+      "name": "Första slaget vid Kalajoki",
+      "date": "6 november 1808",
+      "place": "Kalajoki, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor under Jakov Kulnev besegrar en svensk avdelning."
+    },
+    {
+      "name": "Andra slaget vid Kalajoki",
+      "date": "8 – 9 november 1808",
+      "place": "Kalajoki, Finland",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor under Nikolaj Kamenskij besegrar en svensk avdelning."
+    },
+    {
+      "name": "Slaget vid Iisalmi",
+      "date": "9 november – 10 november 1808",
+      "place": "Iisalmi, Finland",
+      "result": "Rysk seger",
+      "note": "Ett svenskt överraskningsanfall besegras av ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Ypperi",
+      "date": "11 november 1808",
+      "place": "Ypperi, Finland",
+      "result": "Rysk seger",
+      "note": "Det svenska arriärgardet tvingas till reträtt efter anfall av ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Viiret",
+      "date": "11 november 1808",
+      "place": "Viiret, Finland",
+      "result": "Svensk seger",
+      "note": "Nikolaj Kamenskijs ryska styrkor anfaller ett starkt svenskt försvar under befäl av Carl Johan Adlercreutz."
+    },
+    {
+      "name": "Striden vid Lövö",
+      "date": "14 mars 1809",
+      "place": "Lövö, Åland",
+      "result": "Svensk seger",
+      "note": "Kosackanfall mot Vårdö slås tillbaka."
+    },
+    {
+      "name": "Slaget vid Grisslehamn",
+      "date": "19 mars 1809",
+      "place": "Grisslehamn, Sverige",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor under Jakov Kulnev anfaller Grisslehamn. Striden avslutas under fredliga omständigheter."
+    },
+    {
+      "name": "Slaget vid Sangis",
+      "date": "24 mars 1809",
+      "place": "Sangis, Sverige",
+      "result": "Oavgjort",
+      "note": "Otto von Fieandts arriärgarde tvingar tillbaka anfall av ryska styrkor. Striden avslutas fredligt i ett tillfälligt stillestånd, efter vilket konventionen i Kalix sluts."
+    },
+    {
+      "name": "Slaget vid Lejonströmsbron",
+      "date": "15 maj 1809",
+      "place": "Lejonströmsbron, Sverige",
+      "result": "Rysk seger",
+      "note": "En rysk styrka omringar och tillfångatar en mycket mindre svensk styrka."
+    },
+    {
+      "name": "Första slaget vid Sörmjöle",
+      "date": "2 juli 1809",
+      "place": "Sörmjöle, Sverige",
+      "result": "Oavgjort",
+      "note": "En taktisk svensk seger med strategisk framgång för ryska styrkor."
+    },
+    {
+      "name": "Andra slaget vid Sörmjöle",
+      "date": "3 juli 1809",
+      "place": "Sörmjöle, Sverige",
+      "result": "Svensk seger",
+      "note": "Ett anfall av ryska styrkor slås tillbaka."
+    },
+    {
+      "name": "Slaget vid Hörnefors",
+      "date": "5 juli 1809",
+      "place": "Hörnefors, Sverige",
+      "result": "Rysk seger",
+      "note": "Rysk styrkor anfaller och slår en svensk avdelning under Johan August Sandels."
+    },
+    {
+      "name": "Skärgårdsslaget vid Porkkala",
+      "date": "8 juli – 9 juli 1809",
+      "place": "Porkala",
+      "result": "Svensk seger",
+      "note": "Mindre skärgårdsslag mellan svenska och ryska styrkor."
+    },
+    {
+      "name": "Slaget vid Sävar",
+      "date": "19 augusti 1809",
+      "place": "Sävar, Sverige",
+      "result": "Rysk seger",
+      "note": "Ryska styrkor under Nikolaj Kamenskij anfaller och slår den svenska hären."
+    },
+    {
+      "name": "Slaget vid Ratan",
+      "date": "20 augusti 1809",
+      "place": "Ratan, Sverige",
+      "result": "Svensk seger",
+      "note": "Svenska styrkor slår tillbaka ryska anfall."
+    },
+    {
+      "name": "Slaget vid Röbäck",
+      "date": "21 augusti 1809",
+      "place": "Röbäck, Sverige",
+      "result": "svensk seger",
+      "note": "En rysk förpostställning tvingas tillbaka ett svenskt anfall."
+    },
+    {
+      "name": "Slaget vid Piteå",
+      "date": "25 augusti 1809",
+      "place": "Piteå, Sverige",
+      "result": "Rysk seger",
+      "note": "Mindre strid vid Piteå."
+    }
+  ],
+  "meta": {
+    "title": "Slag och belägringar under finska kriget 1808–1809 - Free Download",
+    "description": "Lista över slag, strider och belägringar under finska kriget 1808–1809 mellan Sverige och Ryssland med datum, plats, utfall och kommentar. Contains 125 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Slag och belägringar under finska kriget 1808–1809 | ListBase",
+    "seo_description": "Download Slag och belägringar under finska kriget 1808–1809 — 125 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 125 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_slag_och_belägringar_under_finska_kriget"
+    ]
+  }
+}
