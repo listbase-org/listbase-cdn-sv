@@ -1,0 +1,721 @@
+{
+  "id": "sv-temadagar",
+  "name": "Temadagar i Sverige",
+  "title": "Temadagar i Sverige",
+  "description": "Temadagar som uppmärksammas i Sverige under året – nationella och internationella dagar – med datum eller regel för datum, ordnade per månad.",
+  "category": "time",
+  "source": "https://sv.wikipedia.org/wiki/Temadag",
+  "source_url": "https://sv.wikipedia.org/wiki/Temadag",
+  "updated": "2026-11",
+  "record_count": 136,
+  "columns": [
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "month": "januari",
+      "date": "3 januari",
+      "day": "Världsreligionsdagen"
+    },
+    {
+      "month": "januari",
+      "date": "Tredje måndagen i januari",
+      "day": "Martin Luther King-dagen"
+    },
+    {
+      "month": "januari",
+      "date": "14 januari",
+      "day": "Fullkornets dag"
+    },
+    {
+      "month": "januari",
+      "date": "21 januari",
+      "day": "Kramens dag"
+    },
+    {
+      "month": "januari",
+      "date": "27 januari",
+      "day": "Förintelsens minnesdag"
+    },
+    {
+      "month": "februari",
+      "date": "2 februari",
+      "day": "Världsvåtmarksdagen"
+    },
+    {
+      "month": "februari",
+      "date": "5 februari",
+      "day": "Runebergsdagen"
+    },
+    {
+      "month": "februari",
+      "date": "12 februari",
+      "day": "Darwindagen"
+    },
+    {
+      "month": "februari",
+      "date": "14 februari",
+      "day": "Alla hjärtans dag"
+    },
+    {
+      "month": "februari",
+      "date": "21 februari",
+      "day": "Internationella modersmålsdagen"
+    },
+    {
+      "month": "februari",
+      "date": "24 februari",
+      "day": "Sverigefinnarnas dag"
+    },
+    {
+      "month": "februari",
+      "date": "28 februari",
+      "day": "Myggholkens dag"
+    },
+    {
+      "month": "mars",
+      "date": "Första torsdagen i mars",
+      "day": "Fössta tossdan i mass"
+    },
+    {
+      "month": "mars",
+      "date": "4 mars",
+      "day": "Bananens dag"
+    },
+    {
+      "month": "mars",
+      "date": "8 mars",
+      "day": "Internationella kvinnodagen"
+    },
+    {
+      "month": "mars",
+      "date": "14 mars",
+      "day": "Pi-dagen"
+    },
+    {
+      "month": "mars",
+      "date": "21 mars",
+      "day": "Rocka sockorna"
+    },
+    {
+      "month": "mars",
+      "date": "21 mars",
+      "day": "Internationella skogsdagen"
+    },
+    {
+      "month": "mars",
+      "date": "21 mars",
+      "day": "Internationella Downs syndrom-dagen"
+    },
+    {
+      "month": "mars",
+      "date": "21 mars",
+      "day": "Världspoesidagen (Unesco)"
+    },
+    {
+      "month": "mars",
+      "date": "22 mars",
+      "day": "Internationella vattendagen (Unesco)"
+    },
+    {
+      "month": "mars",
+      "date": "25 mars",
+      "day": "Våffeldagen"
+    },
+    {
+      "month": "mars",
+      "date": "30 mars",
+      "day": "Bipolärdagen"
+    },
+    {
+      "month": "mars",
+      "date": "31 mars",
+      "day": "International Transgender Day of Visibility"
+    },
+    {
+      "month": "april",
+      "date": "2 april",
+      "day": "Internationella barnboksdagen"
+    },
+    {
+      "month": "april",
+      "date": "7 april",
+      "day": "Världshälsodagen (WHO)"
+    },
+    {
+      "month": "april",
+      "date": "8 april",
+      "day": "Internationella Romadagen"
+    },
+    {
+      "month": "april",
+      "date": "15 april",
+      "day": "Världens Konstdag"
+    },
+    {
+      "month": "april",
+      "date": "22 april",
+      "day": "Jordens dag"
+    },
+    {
+      "month": "april",
+      "date": "23 april",
+      "day": "Världsbokdagen"
+    },
+    {
+      "month": "april",
+      "date": "24 april",
+      "day": "Försöksdjurens dag"
+    },
+    {
+      "month": "april",
+      "date": "27 april",
+      "day": "Engelbrektsdagen"
+    },
+    {
+      "month": "april",
+      "date": "28 april",
+      "day": "Arbetsmiljödagen"
+    },
+    {
+      "month": "april",
+      "date": "29 april",
+      "day": "Svenska friluftsdagen"
+    },
+    {
+      "month": "april",
+      "date": "29 april",
+      "day": "Dansens dag"
+    },
+    {
+      "month": "april",
+      "date": "30 april",
+      "day": "Valborgsmässoafton"
+    },
+    {
+      "month": "maj",
+      "date": "1 maj",
+      "day": "Första maj"
+    },
+    {
+      "month": "maj",
+      "date": "1 maj",
+      "day": "Världsskrattdagen"
+    },
+    {
+      "month": "maj",
+      "date": "Första lördagen i maj",
+      "day": "World Naked Gardening Day"
+    },
+    {
+      "month": "maj",
+      "date": "3 maj",
+      "day": "Världsdagen för pressfrihet (Unesco)"
+    },
+    {
+      "month": "maj",
+      "date": "4 maj",
+      "day": "Star Wars-dagen (inofficiell)"
+    },
+    {
+      "month": "maj",
+      "date": "9 maj",
+      "day": "Europadagen (EU)"
+    },
+    {
+      "month": "maj",
+      "date": "Andra onsdagen i maj",
+      "day": "Syltkakans dag"
+    },
+    {
+      "month": "maj",
+      "date": "12 maj",
+      "day": "Internationella sjuksköterskedagen"
+    },
+    {
+      "month": "maj",
+      "date": "13 maj",
+      "day": "Barnens dag"
+    },
+    {
+      "month": "maj",
+      "date": "15 maj",
+      "day": "Internationella familjedagen"
+    },
+    {
+      "month": "maj",
+      "date": "17 maj",
+      "day": "Internationella dagen mot homofobi och transfobi"
+    },
+    {
+      "month": "maj",
+      "date": "18 maj",
+      "day": "Internationella museidagen"
+    },
+    {
+      "month": "maj",
+      "date": "20 maj",
+      "day": "Världsbidagen"
+    },
+    {
+      "month": "maj",
+      "date": "Tredje torsdagen i maj",
+      "day": "Internationella tillgänglighetsmedvetenhetsdagen"
+    },
+    {
+      "month": "maj",
+      "date": "24 maj",
+      "day": "Nationalparkernas dag"
+    },
+    {
+      "month": "maj",
+      "date": "25 maj",
+      "day": "Handduksdagen (bland annat till minne av Douglas Adams)"
+    },
+    {
+      "month": "maj",
+      "date": "27 maj",
+      "day": "Ostens dag"
+    },
+    {
+      "month": "maj",
+      "date": "28 maj",
+      "day": "Internationella mensdagen"
+    },
+    {
+      "month": "maj",
+      "date": "29 maj",
+      "day": "Veterandagen och Internationella fredssoldatdagen"
+    },
+    {
+      "month": "maj",
+      "date": "31 maj",
+      "day": "Tobaksfria dagen"
+    },
+    {
+      "month": "maj",
+      "date": "Sista söndagen i maj",
+      "day": "Mors dag (i bland annat Sverige, andra datum, ofta tidigare i maj, förekommer i andra länder)"
+    },
+    {
+      "month": "juni",
+      "date": "1 juni",
+      "day": "Mjölkens dag"
+    },
+    {
+      "month": "juni",
+      "date": "5 juni",
+      "day": "Världsmiljödagen (UNEP)"
+    },
+    {
+      "month": "juni",
+      "date": "8 juni",
+      "day": "Världshavsdagen"
+    },
+    {
+      "month": "juni",
+      "date": "8 juni",
+      "day": "Världsstickningsdagen [ källa behövs ]"
+    },
+    {
+      "month": "juni",
+      "date": "9 juni",
+      "day": "Internationella arkivdagen"
+    },
+    {
+      "month": "juni",
+      "date": "10 juni",
+      "day": "Internationella heraldikdagen"
+    },
+    {
+      "month": "juni",
+      "date": "12 juni",
+      "day": "Helsingforsdagen"
+    },
+    {
+      "month": "juni",
+      "date": "13 juni",
+      "day": "De vilda blommornas dag"
+    },
+    {
+      "month": "juni",
+      "date": "20 juni",
+      "day": "Världsflyktingdagen"
+    },
+    {
+      "month": "juni",
+      "date": "21 juni",
+      "day": "Nude Hiking Day"
+    },
+    {
+      "month": "juli",
+      "date": "Tredje onsdagen i juli",
+      "day": "Ölets dag (instiftat av Sveriges Bryggerier)"
+    },
+    {
+      "month": "juli",
+      "date": "17 juli",
+      "day": "Internationella emojidagen (instiftat av Emojipedia)"
+    },
+    {
+      "month": "juli",
+      "date": "18 juli",
+      "day": "Mandeladagen"
+    },
+    {
+      "month": "juli",
+      "date": "26 juli",
+      "day": "Bellmansdagen"
+    },
+    {
+      "month": "augusti",
+      "date": "2 augusti",
+      "day": "Minnesdagen för folkmordet på romer"
+    },
+    {
+      "month": "augusti",
+      "date": "6 augusti",
+      "day": "Hiroshimadagen"
+    },
+    {
+      "month": "augusti",
+      "date": "13 augusti",
+      "day": "Vänsterhäntas dag"
+    },
+    {
+      "month": "augusti",
+      "date": "20 augusti",
+      "day": "Arkeologidagen (RAÄ)"
+    },
+    {
+      "month": "augusti",
+      "date": "23 augusti",
+      "day": "Köttbullens dag"
+    },
+    {
+      "month": "augusti",
+      "date": "23 augusti",
+      "day": "Europeisk minnesdag för stalinismens och nazismens offer"
+    },
+    {
+      "month": "augusti",
+      "date": "27 augusti",
+      "day": "Raoul Wallenbergs dag"
+    },
+    {
+      "month": "september",
+      "date": "Andra helgen i september",
+      "day": "Kulturarvsdagen"
+    },
+    {
+      "month": "september",
+      "date": "12 september",
+      "day": "Geologins dag"
+    },
+    {
+      "month": "september",
+      "date": "20 september",
+      "day": "Allemansrättens dag"
+    },
+    {
+      "month": "september",
+      "date": "21 september",
+      "day": "Internationella fredsdagen"
+    },
+    {
+      "month": "september",
+      "date": "22 september",
+      "day": "Internationella bilfria dagen"
+    },
+    {
+      "month": "september",
+      "date": "23 september",
+      "day": "Astronomins dag och natt"
+    },
+    {
+      "month": "september",
+      "date": "25 september",
+      "day": "Skolmjölkens dag"
+    },
+    {
+      "month": "september",
+      "date": "26 september",
+      "day": "Europeiska språkdagen"
+    },
+    {
+      "month": "september",
+      "date": "28 september",
+      "day": "Internationella aborträttsdagen"
+    },
+    {
+      "month": "september",
+      "date": "30 september",
+      "day": "Internationella översättardagen"
+    },
+    {
+      "month": "oktober",
+      "date": "Första måndagen i oktober",
+      "day": "Internationella barndagen (Firas på olika datum internationellt)"
+    },
+    {
+      "month": "oktober",
+      "date": "1 oktober",
+      "day": "Vegetariska världsdagen"
+    },
+    {
+      "month": "oktober",
+      "date": "2 oktober",
+      "day": "Lantbruksdjurens dag"
+    },
+    {
+      "month": "oktober",
+      "date": "2 oktober",
+      "day": "Internationella ickevåldsdagen"
+    },
+    {
+      "month": "oktober",
+      "date": "4 oktober",
+      "day": "Kanelbullens dag"
+    },
+    {
+      "month": "oktober",
+      "date": "4 oktober",
+      "day": "Djurens dag"
+    },
+    {
+      "month": "oktober",
+      "date": "5 oktober",
+      "day": "Internationella lärardagen"
+    },
+    {
+      "month": "oktober",
+      "date": "10 oktober",
+      "day": "Världsdagen för mental hälsa"
+    },
+    {
+      "month": "oktober",
+      "date": "11 oktober",
+      "day": "Internationella flickdagen"
+    },
+    {
+      "month": "oktober",
+      "date": "13 oktober",
+      "day": "No Bra Day"
+    },
+    {
+      "month": "oktober",
+      "date": "16 oktober",
+      "day": "Världshungerdagen (FAO)"
+    },
+    {
+      "month": "oktober",
+      "date": "17 oktober",
+      "day": "Internationella dagen för utrotande av fattigdom"
+    },
+    {
+      "month": "oktober",
+      "date": "Tredje torsdagen i oktober",
+      "day": "Offentliga måltidens dag"
+    },
+    {
+      "month": "oktober",
+      "date": "22 oktober",
+      "day": "Internationella stamningsdagen"
+    },
+    {
+      "month": "oktober",
+      "date": "24 oktober",
+      "day": "FN-dagen"
+    },
+    {
+      "month": "oktober",
+      "date": "24 oktober",
+      "day": "Världsdagen för information om utvecklingsfrågor"
+    },
+    {
+      "month": "oktober",
+      "date": "27 oktober",
+      "day": "Internationella skolbiblioteksdagen"
+    },
+    {
+      "month": "oktober",
+      "date": "27 oktober",
+      "day": "Internationella nalledagen"
+    },
+    {
+      "month": "oktober",
+      "date": "28 oktober",
+      "day": "Bilens dag"
+    },
+    {
+      "month": "oktober",
+      "date": "29 oktober",
+      "day": "Internationella Internet -dagen"
+    },
+    {
+      "month": "november",
+      "date": "1 november",
+      "day": "Internationella vegandagen"
+    },
+    {
+      "month": "november",
+      "date": "Andra söndagen i november",
+      "day": "Fars dag (i Finland, Norge och Sverige. Andra länder firar på andra dagar)"
+    },
+    {
+      "month": "november",
+      "date": "Tredje torsdagen i november",
+      "day": "Internationella filosofidagen"
+    },
+    {
+      "month": "november",
+      "date": "6 november",
+      "day": "Gustav Adolfsdagen"
+    },
+    {
+      "month": "november",
+      "date": "6 november",
+      "day": "Svenska dagen (Finlandssvenskarnas nationaldag)"
+    },
+    {
+      "month": "november",
+      "date": "7 november",
+      "day": "Kladdkakans dag"
+    },
+    {
+      "month": "november",
+      "date": "9 november",
+      "day": "Arkivdagen (RAÄ)"
+    },
+    {
+      "month": "november",
+      "date": "11 november",
+      "day": "Chokladens dag"
+    },
+    {
+      "month": "november",
+      "date": "13 november",
+      "day": "Smörgåstårtans dag"
+    },
+    {
+      "month": "november",
+      "date": "14 november",
+      "day": "Världsdiabetesdagen (WHO, International Diabetes Federation IDF"
+    },
+    {
+      "month": "november",
+      "date": "14 november",
+      "day": "Ostkakans dag"
+    },
+    {
+      "month": "november",
+      "date": "17 november",
+      "day": "De studerandes dag"
+    },
+    {
+      "month": "november",
+      "date": "19 november",
+      "day": "World Day for Prevention of Child Abuse"
+    },
+    {
+      "month": "november",
+      "date": "19 november",
+      "day": "Internationella mansdagen"
+    },
+    {
+      "month": "november",
+      "date": "20 november",
+      "day": "Internationella barndagen (FN)"
+    },
+    {
+      "month": "november",
+      "date": "23 november",
+      "day": "Fibonacci-dagen"
+    },
+    {
+      "month": "november",
+      "date": "24 november",
+      "day": "Julmustens dag (instiftat av Sveriges Bryggerier)"
+    },
+    {
+      "month": "november",
+      "date": "25 november",
+      "day": "Internationella dagen mot våld mot kvinnor"
+    },
+    {
+      "month": "november",
+      "date": "Sista lördagen i november",
+      "day": "En köpfri dag"
+    },
+    {
+      "month": "november",
+      "date": "Dagen efter fjärde torsdagen i november (dagen efter Thanksgiving)",
+      "day": "Black Friday"
+    },
+    {
+      "month": "december",
+      "date": "1 december",
+      "day": "Världsaidsdagen"
+    },
+    {
+      "month": "december",
+      "date": "1 december",
+      "day": "Brandvarnardagen"
+    },
+    {
+      "month": "december",
+      "date": "1 december",
+      "day": "Glöggens dag"
+    },
+    {
+      "month": "december",
+      "date": "3 december",
+      "day": "Internationella funktionshinderdagen (FN)"
+    },
+    {
+      "month": "december",
+      "date": "5 december",
+      "day": "Internationella volontärdagen (FN)"
+    },
+    {
+      "month": "december",
+      "date": "10 december",
+      "day": "Internationella dagen för mänskliga rättigheter (FN)"
+    },
+    {
+      "month": "december",
+      "date": "10 december",
+      "day": "Nobeldagen"
+    },
+    {
+      "month": "december",
+      "date": "10 december",
+      "day": "Internationella djurrättsdagen"
+    }
+  ],
+  "meta": {
+    "title": "Temadagar i Sverige - Free Download",
+    "description": "Temadagar som uppmärksammas i Sverige under året – nationella och internationella dagar – med datum eller regel för datum, ordnade per månad. Contains 136 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Temadagar i Sverige | ListBase",
+    "seo_description": "Download Temadagar i Sverige — 136 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 136 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Temadag"
+    ]
+  }
+}

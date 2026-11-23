@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-23T02:22:12.009Z",
-  "total_datasets": 576,
-  "total_records": 2278878,
+  "generated": "2026-11-23T02:22:21.267Z",
+  "total_datasets": 577,
+  "total_records": 2279014,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tourism",
@@ -13975,6 +13975,30 @@
         "xlsx": {
           "name": "sv-namnsdagar_SV.xlsx",
           "size": 19753
+        }
+      }
+    },
+    {
+      "id": "sv-temadagar",
+      "name": "Temadagar i Sverige",
+      "category": "time",
+      "record_count": 136,
+      "columns": [
+        "month",
+        "date",
+        "day"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Temadag",
+      "updated": "2026-11",
+      "size": 16100,
+      "files": {
+        "csv": {
+          "name": "sv-temadagar_SV.csv",
+          "size": 6990
+        },
+        "xlsx": {
+          "name": "sv-temadagar_SV.xlsx",
+          "size": 10786
         }
       }
     },
