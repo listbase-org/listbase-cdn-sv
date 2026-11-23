@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-23T02:22:03.676Z",
-  "total_datasets": 575,
-  "total_records": 2278759,
+  "generated": "2026-11-23T02:22:12.009Z",
+  "total_datasets": 576,
+  "total_records": 2278878,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tech",
@@ -13256,6 +13256,34 @@
         "xlsx": {
           "name": "sv-allsvenskan-medaljtabell_SV.xlsx",
           "size": 7893
+        }
+      }
+    },
+    {
+      "id": "sv-allsvenskan-skyttekungar",
+      "name": "Skyttekungar i fotbollsallsvenskan",
+      "category": "sports",
+      "record_count": 119,
+      "columns": [
+        "season",
+        "player",
+        "nationality",
+        "club",
+        "goals",
+        "rounds",
+        "goals_per_game"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_skyttekungar_i_fotbollsallsvenskan",
+      "updated": "2026-11",
+      "size": 25992,
+      "files": {
+        "csv": {
+          "name": "sv-allsvenskan-skyttekungar_SV.csv",
+          "size": 8076
+        },
+        "xlsx": {
+          "name": "sv-allsvenskan-skyttekungar_SV.xlsx",
+          "size": 12109
         }
       }
     },
