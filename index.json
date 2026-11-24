@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-24T02:10:36.422Z",
-  "total_datasets": 578,
-  "total_records": 2279137,
+  "generated": "2026-11-24T02:10:44.260Z",
+  "total_datasets": 579,
+  "total_records": 2279534,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "geography",
@@ -2655,6 +2655,30 @@
         "xlsx": {
           "name": "sv-livsmedelsforsaljning-efter-varugrupp_SV.xlsx",
           "size": 9972
+        }
+      }
+    },
+    {
+      "id": "sv-nobelbanketten-menyer",
+      "name": "Menyer på Nobelbanketten",
+      "category": "food",
+      "record_count": 397,
+      "columns": [
+        "year",
+        "order",
+        "item"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_menyer_på_Nobelbanketten",
+      "updated": "2026-11",
+      "size": 48532,
+      "files": {
+        "csv": {
+          "name": "sv-nobelbanketten-menyer_SV.csv",
+          "size": 25685
+        },
+        "xlsx": {
+          "name": "sv-nobelbanketten-menyer_SV.xlsx",
+          "size": 20084
         }
       }
     },
