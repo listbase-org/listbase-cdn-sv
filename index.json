@@ -1,12 +1,12 @@
 {
   "lang": "sv",
-  "generated": "2026-11-23T02:22:21.267Z",
-  "total_datasets": 577,
-  "total_records": 2279014,
+  "generated": "2026-11-24T02:10:36.422Z",
+  "total_datasets": 578,
+  "total_records": 2279137,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "culture",
@@ -102,6 +102,33 @@
     }
   ],
   "datasets": [
+    {
+      "id": "sv-fritidsfiske-fangster",
+      "name": "Fritidsfiskets fångster efter art och område",
+      "category": "agriculture",
+      "record_count": 123,
+      "columns": [
+        "year",
+        "area",
+        "species",
+        "kept_tonnes",
+        "released_tonnes",
+        "total_tonnes"
+      ],
+      "source": "https://api.scb.se/OV0104/v1/doris/sv/ssd/JO/JO1104/JO1104A/F3ny1",
+      "updated": "2026-11",
+      "size": 24054,
+      "files": {
+        "csv": {
+          "name": "sv-fritidsfiske-fangster_SV.csv",
+          "size": 6797
+        },
+        "xlsx": {
+          "name": "sv-fritidsfiske-fangster_SV.xlsx",
+          "size": 10460
+        }
+      }
+    },
     {
       "id": "sv-husdjur-i-sverige-1866-2007",
       "name": "Antal husdjur i Sverige 1866–2007",

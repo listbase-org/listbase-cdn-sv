@@ -1,0 +1,1040 @@
+{
+  "id": "sv-fritidsfiske-fangster",
+  "name": "Fritidsfiskets fångster efter art och område",
+  "title": "Fritidsfiskets fångster efter art och område",
+  "description": "Fritidsfiskets fångster i Sverige 2021–2025 i ton efter fiskart och område (inlandsfiske respektive havs- och kustfiske), uppdelat på behållen, återutsatt och total fångst. Källa: SCB/Havs- och vattenmyndigheten.",
+  "category": "agriculture",
+  "source": "https://api.scb.se/OV0104/v1/doris/sv/ssd/JO/JO1104/JO1104A/F3ny1",
+  "source_url": "https://api.scb.se/OV0104/v1/doris/sv/ssd/JO/JO1104/JO1104A/F3ny1",
+  "updated": "2026-11",
+  "record_count": 123,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "species",
+      "label": "Species",
+      "type": "string"
+    },
+    {
+      "key": "kept_tonnes",
+      "label": "Kept Tonnes",
+      "type": "number"
+    },
+    {
+      "key": "released_tonnes",
+      "label": "Released Tonnes",
+      "type": "number"
+    },
+    {
+      "key": "total_tonnes",
+      "label": "Total Tonnes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2021,
+      "area": "Havs- och kustfiske",
+      "species": "Abborre",
+      "kept_tonnes": 901,
+      "released_tonnes": 662,
+      "total_tonnes": 1563
+    },
+    {
+      "year": 2021,
+      "area": "Havs- och kustfiske",
+      "species": "Gädda",
+      "kept_tonnes": 205,
+      "released_tonnes": 1180,
+      "total_tonnes": 1385
+    },
+    {
+      "year": 2021,
+      "area": "Havs- och kustfiske",
+      "species": "Karpfiskar (t.ex. mört, braxen)",
+      "kept_tonnes": "",
+      "released_tonnes": "",
+      "total_tonnes": 152
+    },
+    {
+      "year": 2021,
+      "area": "Havs- och kustfiske",
+      "species": "Krabbtaska",
+      "kept_tonnes": 174,
+      "released_tonnes": 73,
+      "total_tonnes": 246
+    },
+    {
+      "year": 2021,
+      "area": "Havs- och kustfiske",
+      "species": "Lax",
+      "kept_tonnes": 72,
+      "released_tonnes": "",
+      "total_tonnes": 111
+    },
+    {
+      "year": 2021,
+      "area": "Havs- och kustfiske",
+      "species": "Makrill",
+      "kept_tonnes": 1244,
+      "released_tonnes": 96,
+      "total_tonnes": 1340
+    },
+    {
+      "year": 2021,
+      "area": "Havs- och kustfiske",
+      "species": "Plattfisk/andra plattfiskar",
+      "kept_tonnes": "",
+      "released_tonnes": 62,
+      "total_tonnes": ""
+    },
+    {
+      "year": 2021,
+      "area": "Havs- och kustfiske",
+      "species": "Torsk",
+      "kept_tonnes": "",
+      "released_tonnes": 225,
+      "total_tonnes": ""
+    },
+    {
+      "year": 2021,
+      "area": "Havs- och kustfiske",
+      "species": "Totalt",
+      "kept_tonnes": 5862,
+      "released_tonnes": 2958,
+      "total_tonnes": 8820
+    },
+    {
+      "year": 2021,
+      "area": "Havs- och kustfiske",
+      "species": "Öring",
+      "kept_tonnes": 173,
+      "released_tonnes": 162,
+      "total_tonnes": 335
+    },
+    {
+      "year": 2021,
+      "area": "Havs- och kustfiske",
+      "species": "Övriga arter",
+      "kept_tonnes": "",
+      "released_tonnes": "",
+      "total_tonnes": 286
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Abborre",
+      "kept_tonnes": 1533,
+      "released_tonnes": 1682,
+      "total_tonnes": 3214
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Braxen",
+      "kept_tonnes": 295,
+      "released_tonnes": 185,
+      "total_tonnes": 480
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Gädda",
+      "kept_tonnes": 1115,
+      "released_tonnes": 4250,
+      "total_tonnes": 5365
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Gös",
+      "kept_tonnes": 1082,
+      "released_tonnes": 663,
+      "total_tonnes": 1745
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Lax",
+      "kept_tonnes": 133,
+      "released_tonnes": "",
+      "total_tonnes": 192
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Regnbåge",
+      "kept_tonnes": 585,
+      "released_tonnes": 170,
+      "total_tonnes": 755
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Röding",
+      "kept_tonnes": 135,
+      "released_tonnes": "",
+      "total_tonnes": 140
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Signal- eller flodkräfta",
+      "kept_tonnes": 917,
+      "released_tonnes": "",
+      "total_tonnes": 1586
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Sik",
+      "kept_tonnes": 53,
+      "released_tonnes": "",
+      "total_tonnes": 69
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Totalt",
+      "kept_tonnes": 6487,
+      "released_tonnes": 8518,
+      "total_tonnes": 15005
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Öring",
+      "kept_tonnes": 329,
+      "released_tonnes": "",
+      "total_tonnes": 537
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Övriga arter",
+      "kept_tonnes": 80,
+      "released_tonnes": "",
+      "total_tonnes": 169
+    },
+    {
+      "year": 2021,
+      "area": "Inlandsfiske",
+      "species": "Övriga karpfiskar, t.ex. mört och asp",
+      "kept_tonnes": 132,
+      "released_tonnes": 160,
+      "total_tonnes": 292
+    },
+    {
+      "year": 2022,
+      "area": "Havs- och kustfiske",
+      "species": "Abborre",
+      "kept_tonnes": 467,
+      "released_tonnes": 962,
+      "total_tonnes": 1429
+    },
+    {
+      "year": 2022,
+      "area": "Havs- och kustfiske",
+      "species": "Gädda",
+      "kept_tonnes": 71,
+      "released_tonnes": 2035,
+      "total_tonnes": 2106
+    },
+    {
+      "year": 2022,
+      "area": "Havs- och kustfiske",
+      "species": "Hummer",
+      "kept_tonnes": 40,
+      "released_tonnes": 34,
+      "total_tonnes": 73
+    },
+    {
+      "year": 2022,
+      "area": "Havs- och kustfiske",
+      "species": "Krabbtaska",
+      "kept_tonnes": 137,
+      "released_tonnes": 103,
+      "total_tonnes": 240
+    },
+    {
+      "year": 2022,
+      "area": "Havs- och kustfiske",
+      "species": "Makrill",
+      "kept_tonnes": 599,
+      "released_tonnes": 108,
+      "total_tonnes": 706
+    },
+    {
+      "year": 2022,
+      "area": "Havs- och kustfiske",
+      "species": "Plattfisk/andra plattfiskar",
+      "kept_tonnes": 109,
+      "released_tonnes": "",
+      "total_tonnes": 156
+    },
+    {
+      "year": 2022,
+      "area": "Havs- och kustfiske",
+      "species": "Sill/Strömming",
+      "kept_tonnes": 208,
+      "released_tonnes": "",
+      "total_tonnes": 227
+    },
+    {
+      "year": 2022,
+      "area": "Havs- och kustfiske",
+      "species": "Torsk",
+      "kept_tonnes": 92,
+      "released_tonnes": 168,
+      "total_tonnes": 261
+    },
+    {
+      "year": 2022,
+      "area": "Havs- och kustfiske",
+      "species": "Totalt",
+      "kept_tonnes": 2838,
+      "released_tonnes": 3990,
+      "total_tonnes": 6828
+    },
+    {
+      "year": 2022,
+      "area": "Havs- och kustfiske",
+      "species": "Öring",
+      "kept_tonnes": 100,
+      "released_tonnes": 189,
+      "total_tonnes": 290
+    },
+    {
+      "year": 2022,
+      "area": "Havs- och kustfiske",
+      "species": "Övriga arter",
+      "kept_tonnes": "",
+      "released_tonnes": 41,
+      "total_tonnes": ""
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Abborre",
+      "kept_tonnes": 2066,
+      "released_tonnes": 2999,
+      "total_tonnes": 5066
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Braxen",
+      "kept_tonnes": 151,
+      "released_tonnes": "",
+      "total_tonnes": 339
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Gädda",
+      "kept_tonnes": 1571,
+      "released_tonnes": 5800,
+      "total_tonnes": 7371
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Gös",
+      "kept_tonnes": 684,
+      "released_tonnes": 992,
+      "total_tonnes": 1676
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Harr",
+      "kept_tonnes": 188,
+      "released_tonnes": 330,
+      "total_tonnes": 518
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Regnbåge",
+      "kept_tonnes": 574,
+      "released_tonnes": "",
+      "total_tonnes": 849
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Röding",
+      "kept_tonnes": 847,
+      "released_tonnes": "",
+      "total_tonnes": 1380
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Signal- eller flodkräfta",
+      "kept_tonnes": 1485,
+      "released_tonnes": 684,
+      "total_tonnes": 2169
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Sik",
+      "kept_tonnes": 172,
+      "released_tonnes": "",
+      "total_tonnes": 201
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Totalt",
+      "kept_tonnes": 8495,
+      "released_tonnes": 12506,
+      "total_tonnes": 21002
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Öring",
+      "kept_tonnes": 489,
+      "released_tonnes": 347,
+      "total_tonnes": 835
+    },
+    {
+      "year": 2022,
+      "area": "Inlandsfiske",
+      "species": "Övriga karpfiskar, t.ex. mört och asp",
+      "kept_tonnes": 145,
+      "released_tonnes": "",
+      "total_tonnes": 297
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Abborre",
+      "kept_tonnes": 536,
+      "released_tonnes": 433,
+      "total_tonnes": 969
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Gädda",
+      "kept_tonnes": 317,
+      "released_tonnes": 1526,
+      "total_tonnes": 1842
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Gös",
+      "kept_tonnes": "",
+      "released_tonnes": "",
+      "total_tonnes": 42
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Harr",
+      "kept_tonnes": "",
+      "released_tonnes": "",
+      "total_tonnes": 16
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Hummer",
+      "kept_tonnes": "",
+      "released_tonnes": 48,
+      "total_tonnes": ""
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Krabbtaska",
+      "kept_tonnes": "",
+      "released_tonnes": 83,
+      "total_tonnes": 203
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Lax",
+      "kept_tonnes": 79,
+      "released_tonnes": "",
+      "total_tonnes": ""
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Makrill",
+      "kept_tonnes": 679,
+      "released_tonnes": "",
+      "total_tonnes": 787
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Piggvar",
+      "kept_tonnes": 13,
+      "released_tonnes": "",
+      "total_tonnes": 13
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Plattfisk/andra plattfiskar",
+      "kept_tonnes": 265,
+      "released_tonnes": 154,
+      "total_tonnes": 419
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Sik",
+      "kept_tonnes": 144,
+      "released_tonnes": "",
+      "total_tonnes": 152
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Sill/Strömming",
+      "kept_tonnes": 200,
+      "released_tonnes": "",
+      "total_tonnes": 213
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Torsk",
+      "kept_tonnes": "",
+      "released_tonnes": "",
+      "total_tonnes": 311
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Totalt",
+      "kept_tonnes": 3013,
+      "released_tonnes": 2885,
+      "total_tonnes": 5897
+    },
+    {
+      "year": 2023,
+      "area": "Havs- och kustfiske",
+      "species": "Öring",
+      "kept_tonnes": 221,
+      "released_tonnes": "",
+      "total_tonnes": 346
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Abborre",
+      "kept_tonnes": 1547,
+      "released_tonnes": 2199,
+      "total_tonnes": 3746
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Braxen",
+      "kept_tonnes": 256,
+      "released_tonnes": "",
+      "total_tonnes": 477
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Gädda",
+      "kept_tonnes": 2030,
+      "released_tonnes": 3826,
+      "total_tonnes": 5855
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Gös",
+      "kept_tonnes": 838,
+      "released_tonnes": 1384,
+      "total_tonnes": 2222
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Harr",
+      "kept_tonnes": 166,
+      "released_tonnes": 575,
+      "total_tonnes": 741
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Lax",
+      "kept_tonnes": 260,
+      "released_tonnes": 89,
+      "total_tonnes": 350
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Regnbåge",
+      "kept_tonnes": 643,
+      "released_tonnes": 49,
+      "total_tonnes": 692
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Röding",
+      "kept_tonnes": 279,
+      "released_tonnes": 158,
+      "total_tonnes": 437
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Signal- eller flodkräfta",
+      "kept_tonnes": 1015,
+      "released_tonnes": "",
+      "total_tonnes": 2020
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Sik",
+      "kept_tonnes": 209,
+      "released_tonnes": 8,
+      "total_tonnes": 217
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Totalt",
+      "kept_tonnes": 7962,
+      "released_tonnes": 10157,
+      "total_tonnes": 18119
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Öring",
+      "kept_tonnes": 446,
+      "released_tonnes": 233,
+      "total_tonnes": 679
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Övriga arter",
+      "kept_tonnes": 70,
+      "released_tonnes": "",
+      "total_tonnes": 164
+    },
+    {
+      "year": 2023,
+      "area": "Inlandsfiske",
+      "species": "Övriga karpfiskar, t.ex. mört och asp",
+      "kept_tonnes": 204,
+      "released_tonnes": 315,
+      "total_tonnes": 519
+    },
+    {
+      "year": 2024,
+      "area": "Havs- och kustfiske",
+      "species": "Abborre",
+      "kept_tonnes": 397,
+      "released_tonnes": 855,
+      "total_tonnes": 1252
+    },
+    {
+      "year": 2024,
+      "area": "Havs- och kustfiske",
+      "species": "Gädda",
+      "kept_tonnes": "",
+      "released_tonnes": 1640,
+      "total_tonnes": 1952
+    },
+    {
+      "year": 2024,
+      "area": "Havs- och kustfiske",
+      "species": "Hummer",
+      "kept_tonnes": 160,
+      "released_tonnes": 64,
+      "total_tonnes": 224
+    },
+    {
+      "year": 2024,
+      "area": "Havs- och kustfiske",
+      "species": "Karpfiskar (t.ex. mört, braxen)",
+      "kept_tonnes": "",
+      "released_tonnes": 96,
+      "total_tonnes": 162
+    },
+    {
+      "year": 2024,
+      "area": "Havs- och kustfiske",
+      "species": "Makrill",
+      "kept_tonnes": 1116,
+      "released_tonnes": 51,
+      "total_tonnes": 1167
+    },
+    {
+      "year": 2024,
+      "area": "Havs- och kustfiske",
+      "species": "Plattfisk/andra plattfiskar",
+      "kept_tonnes": "",
+      "released_tonnes": "",
+      "total_tonnes": 88
+    },
+    {
+      "year": 2024,
+      "area": "Havs- och kustfiske",
+      "species": "Sik",
+      "kept_tonnes": 61,
+      "released_tonnes": "",
+      "total_tonnes": 76
+    },
+    {
+      "year": 2024,
+      "area": "Havs- och kustfiske",
+      "species": "Sill/Strömming",
+      "kept_tonnes": 253,
+      "released_tonnes": "",
+      "total_tonnes": 299
+    },
+    {
+      "year": 2024,
+      "area": "Havs- och kustfiske",
+      "species": "Torsk",
+      "kept_tonnes": "",
+      "released_tonnes": "",
+      "total_tonnes": 142
+    },
+    {
+      "year": 2024,
+      "area": "Havs- och kustfiske",
+      "species": "Totalt",
+      "kept_tonnes": 3068,
+      "released_tonnes": 4044,
+      "total_tonnes": 7112
+    },
+    {
+      "year": 2024,
+      "area": "Havs- och kustfiske",
+      "species": "Öring",
+      "kept_tonnes": "",
+      "released_tonnes": "",
+      "total_tonnes": 406
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Abborre",
+      "kept_tonnes": 1966,
+      "released_tonnes": 2980,
+      "total_tonnes": 4946
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Braxen",
+      "kept_tonnes": 161,
+      "released_tonnes": 97,
+      "total_tonnes": 259
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Gädda",
+      "kept_tonnes": 1489,
+      "released_tonnes": 6314,
+      "total_tonnes": 7803
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Gös",
+      "kept_tonnes": 1005,
+      "released_tonnes": 1939,
+      "total_tonnes": 2944
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Harr",
+      "kept_tonnes": 112,
+      "released_tonnes": 263,
+      "total_tonnes": 374
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Lax",
+      "kept_tonnes": 80,
+      "released_tonnes": 60,
+      "total_tonnes": 139
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Regnbåge",
+      "kept_tonnes": 760,
+      "released_tonnes": 259,
+      "total_tonnes": 1020
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Röding",
+      "kept_tonnes": 456,
+      "released_tonnes": "",
+      "total_tonnes": 789
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Signal- eller flodkräfta",
+      "kept_tonnes": 465,
+      "released_tonnes": 327,
+      "total_tonnes": 792
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Sik",
+      "kept_tonnes": 53,
+      "released_tonnes": "",
+      "total_tonnes": 55
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Totalt",
+      "kept_tonnes": 7100,
+      "released_tonnes": 13052,
+      "total_tonnes": 20151
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Öring",
+      "kept_tonnes": 278,
+      "released_tonnes": 246,
+      "total_tonnes": 524
+    },
+    {
+      "year": 2024,
+      "area": "Inlandsfiske",
+      "species": "Övriga arter",
+      "kept_tonnes": 23,
+      "released_tonnes": "",
+      "total_tonnes": 50
+    },
+    {
+      "year": 2025,
+      "area": "Havs- och kustfiske",
+      "species": "Abborre",
+      "kept_tonnes": 392,
+      "released_tonnes": 330,
+      "total_tonnes": 722
+    },
+    {
+      "year": 2025,
+      "area": "Havs- och kustfiske",
+      "species": "Gädda",
+      "kept_tonnes": 170,
+      "released_tonnes": 793,
+      "total_tonnes": 963
+    },
+    {
+      "year": 2025,
+      "area": "Havs- och kustfiske",
+      "species": "Krabbtaska",
+      "kept_tonnes": 81,
+      "released_tonnes": "",
+      "total_tonnes": 290
+    },
+    {
+      "year": 2025,
+      "area": "Havs- och kustfiske",
+      "species": "Makrill",
+      "kept_tonnes": 1286,
+      "released_tonnes": 109,
+      "total_tonnes": 1396
+    },
+    {
+      "year": 2025,
+      "area": "Havs- och kustfiske",
+      "species": "Plattfisk/andra plattfiskar",
+      "kept_tonnes": 112,
+      "released_tonnes": "",
+      "total_tonnes": ""
+    },
+    {
+      "year": 2025,
+      "area": "Havs- och kustfiske",
+      "species": "Sik",
+      "kept_tonnes": 65,
+      "released_tonnes": "",
+      "total_tonnes": 73
+    },
+    {
+      "year": 2025,
+      "area": "Havs- och kustfiske",
+      "species": "Sill/Strömming",
+      "kept_tonnes": 166,
+      "released_tonnes": "",
+      "total_tonnes": 168
+    },
+    {
+      "year": 2025,
+      "area": "Havs- och kustfiske",
+      "species": "Totalt",
+      "kept_tonnes": 2813,
+      "released_tonnes": 2432,
+      "total_tonnes": 5245
+    },
+    {
+      "year": 2025,
+      "area": "Havs- och kustfiske",
+      "species": "Öring",
+      "kept_tonnes": 57,
+      "released_tonnes": 131,
+      "total_tonnes": 188
+    },
+    {
+      "year": 2025,
+      "area": "Havs- och kustfiske",
+      "species": "Övriga arter",
+      "kept_tonnes": "",
+      "released_tonnes": 13,
+      "total_tonnes": ""
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Abborre",
+      "kept_tonnes": 1223,
+      "released_tonnes": 1968,
+      "total_tonnes": 3191
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Braxen",
+      "kept_tonnes": 68,
+      "released_tonnes": "",
+      "total_tonnes": ""
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Gädda",
+      "kept_tonnes": 1057,
+      "released_tonnes": 5631,
+      "total_tonnes": 6688
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Gös",
+      "kept_tonnes": 675,
+      "released_tonnes": 539,
+      "total_tonnes": 1214
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Harr",
+      "kept_tonnes": 123,
+      "released_tonnes": 194,
+      "total_tonnes": 318
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Lax",
+      "kept_tonnes": 90,
+      "released_tonnes": "",
+      "total_tonnes": ""
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Regnbåge",
+      "kept_tonnes": 373,
+      "released_tonnes": 415,
+      "total_tonnes": 789
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Röding",
+      "kept_tonnes": 248,
+      "released_tonnes": 219,
+      "total_tonnes": 467
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Signal- eller flodkräfta",
+      "kept_tonnes": 485,
+      "released_tonnes": 257,
+      "total_tonnes": 742
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Sik",
+      "kept_tonnes": 38,
+      "released_tonnes": "",
+      "total_tonnes": 53
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Totalt",
+      "kept_tonnes": 5163,
+      "released_tonnes": 10254,
+      "total_tonnes": 15418
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Öring",
+      "kept_tonnes": 473,
+      "released_tonnes": 305,
+      "total_tonnes": 778
+    },
+    {
+      "year": 2025,
+      "area": "Inlandsfiske",
+      "species": "Övriga karpfiskar, t.ex. mört och asp",
+      "kept_tonnes": "",
+      "released_tonnes": "",
+      "total_tonnes": 399
+    }
+  ],
+  "meta": {
+    "title": "Fritidsfiskets fångster efter art och område - Free Download",
+    "description": "Fritidsfiskets fångster i Sverige 2021–2025 i ton efter fiskart och område (inlandsfiske respektive havs- och kustfiske), uppdelat på behållen, återutsatt och total fångst. Källa: SCB/Havs- och vattenmyndigheten. Contains 123 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fritidsfiskets fångster efter art och område | ListBase",
+    "seo_description": "Download Fritidsfiskets fångster efter art och område — 123 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 123 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://api.scb.se/OV0104/v1/doris/sv/ssd/JO/JO1104/JO1104A/F3ny1"
+    ]
+  }
+}
