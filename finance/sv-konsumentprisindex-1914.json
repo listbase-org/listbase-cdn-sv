@@ -1,0 +1,484 @@
+{
+  "id": "sv-konsumentprisindex-1914",
+  "name": "Konsumentprisindex (KPI) per år sedan 1914",
+  "title": "Konsumentprisindex (KPI) per år sedan 1914",
+  "description": "Årlig konsumentprisindex/levnadskostnadsindex för Sverige 1914–2025 med juli 1914 = 100, enligt SCB. Visar hur prisnivån utvecklats under drygt hundra år.",
+  "category": "finance",
+  "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__PR__PR0101__PR0101A/KPILevindexAr/",
+  "source_url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__PR__PR0101__PR0101A/KPILevindexAr/",
+  "updated": "2026-11",
+  "record_count": 112,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "cpi_1914_100",
+      "label": "Cpi 1914 100",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1914,
+      "cpi_1914_100": 100
+    },
+    {
+      "year": 1915,
+      "cpi_1914_100": 115
+    },
+    {
+      "year": 1916,
+      "cpi_1914_100": 130
+    },
+    {
+      "year": 1917,
+      "cpi_1914_100": 164
+    },
+    {
+      "year": 1918,
+      "cpi_1914_100": 241
+    },
+    {
+      "year": 1919,
+      "cpi_1914_100": 266
+    },
+    {
+      "year": 1920,
+      "cpi_1914_100": 271
+    },
+    {
+      "year": 1921,
+      "cpi_1914_100": 221
+    },
+    {
+      "year": 1922,
+      "cpi_1914_100": 184
+    },
+    {
+      "year": 1923,
+      "cpi_1914_100": 174
+    },
+    {
+      "year": 1924,
+      "cpi_1914_100": 174
+    },
+    {
+      "year": 1925,
+      "cpi_1914_100": 177
+    },
+    {
+      "year": 1926,
+      "cpi_1914_100": 171
+    },
+    {
+      "year": 1927,
+      "cpi_1914_100": 169
+    },
+    {
+      "year": 1928,
+      "cpi_1914_100": 171
+    },
+    {
+      "year": 1929,
+      "cpi_1914_100": 168
+    },
+    {
+      "year": 1930,
+      "cpi_1914_100": 162
+    },
+    {
+      "year": 1931,
+      "cpi_1914_100": 157
+    },
+    {
+      "year": 1932,
+      "cpi_1914_100": 155
+    },
+    {
+      "year": 1933,
+      "cpi_1914_100": 151
+    },
+    {
+      "year": 1934,
+      "cpi_1914_100": 152
+    },
+    {
+      "year": 1935,
+      "cpi_1914_100": 155
+    },
+    {
+      "year": 1936,
+      "cpi_1914_100": 157
+    },
+    {
+      "year": 1937,
+      "cpi_1914_100": 162
+    },
+    {
+      "year": 1938,
+      "cpi_1914_100": 165
+    },
+    {
+      "year": 1939,
+      "cpi_1914_100": 170
+    },
+    {
+      "year": 1940,
+      "cpi_1914_100": 193
+    },
+    {
+      "year": 1941,
+      "cpi_1914_100": 219
+    },
+    {
+      "year": 1942,
+      "cpi_1914_100": 234
+    },
+    {
+      "year": 1943,
+      "cpi_1914_100": 235
+    },
+    {
+      "year": 1944,
+      "cpi_1914_100": 234
+    },
+    {
+      "year": 1945,
+      "cpi_1914_100": 233
+    },
+    {
+      "year": 1946,
+      "cpi_1914_100": 234
+    },
+    {
+      "year": 1947,
+      "cpi_1914_100": 241
+    },
+    {
+      "year": 1948,
+      "cpi_1914_100": 255
+    },
+    {
+      "year": 1949,
+      "cpi_1914_100": 256
+    },
+    {
+      "year": 1950,
+      "cpi_1914_100": 260
+    },
+    {
+      "year": 1951,
+      "cpi_1914_100": 304
+    },
+    {
+      "year": 1952,
+      "cpi_1914_100": 326
+    },
+    {
+      "year": 1953,
+      "cpi_1914_100": 328
+    },
+    {
+      "year": 1954,
+      "cpi_1914_100": 330
+    },
+    {
+      "year": 1955,
+      "cpi_1914_100": 339
+    },
+    {
+      "year": 1956,
+      "cpi_1914_100": 356
+    },
+    {
+      "year": 1957,
+      "cpi_1914_100": 372
+    },
+    {
+      "year": 1958,
+      "cpi_1914_100": 388
+    },
+    {
+      "year": 1959,
+      "cpi_1914_100": 391
+    },
+    {
+      "year": 1960,
+      "cpi_1914_100": 407
+    },
+    {
+      "year": 1961,
+      "cpi_1914_100": 416
+    },
+    {
+      "year": 1962,
+      "cpi_1914_100": 436
+    },
+    {
+      "year": 1963,
+      "cpi_1914_100": 449
+    },
+    {
+      "year": 1964,
+      "cpi_1914_100": 463
+    },
+    {
+      "year": 1965,
+      "cpi_1914_100": 487
+    },
+    {
+      "year": 1966,
+      "cpi_1914_100": 519
+    },
+    {
+      "year": 1967,
+      "cpi_1914_100": 540
+    },
+    {
+      "year": 1968,
+      "cpi_1914_100": 551
+    },
+    {
+      "year": 1969,
+      "cpi_1914_100": 566
+    },
+    {
+      "year": 1970,
+      "cpi_1914_100": 605
+    },
+    {
+      "year": 1971,
+      "cpi_1914_100": 650
+    },
+    {
+      "year": 1972,
+      "cpi_1914_100": 689
+    },
+    {
+      "year": 1973,
+      "cpi_1914_100": 735
+    },
+    {
+      "year": 1974,
+      "cpi_1914_100": 808
+    },
+    {
+      "year": 1975,
+      "cpi_1914_100": 887
+    },
+    {
+      "year": 1976,
+      "cpi_1914_100": 979
+    },
+    {
+      "year": 1977,
+      "cpi_1914_100": 1090
+    },
+    {
+      "year": 1978,
+      "cpi_1914_100": 1200
+    },
+    {
+      "year": 1979,
+      "cpi_1914_100": 1286
+    },
+    {
+      "year": 1980,
+      "cpi_1914_100": 1461
+    },
+    {
+      "year": 1981,
+      "cpi_1914_100": 1638
+    },
+    {
+      "year": 1982,
+      "cpi_1914_100": 1778
+    },
+    {
+      "year": 1983,
+      "cpi_1914_100": 1937
+    },
+    {
+      "year": 1984,
+      "cpi_1914_100": 2092
+    },
+    {
+      "year": 1985,
+      "cpi_1914_100": 2246
+    },
+    {
+      "year": 1986,
+      "cpi_1914_100": 2341
+    },
+    {
+      "year": 1987,
+      "cpi_1914_100": 2440
+    },
+    {
+      "year": 1988,
+      "cpi_1914_100": 2582
+    },
+    {
+      "year": 1989,
+      "cpi_1914_100": 2748
+    },
+    {
+      "year": 1990,
+      "cpi_1914_100": 3036
+    },
+    {
+      "year": 1991,
+      "cpi_1914_100": 3319
+    },
+    {
+      "year": 1992,
+      "cpi_1914_100": 3395
+    },
+    {
+      "year": 1993,
+      "cpi_1914_100": 3553
+    },
+    {
+      "year": 1994,
+      "cpi_1914_100": 3631
+    },
+    {
+      "year": 1995,
+      "cpi_1914_100": 3723
+    },
+    {
+      "year": 1996,
+      "cpi_1914_100": 3740
+    },
+    {
+      "year": 1997,
+      "cpi_1914_100": 3760
+    },
+    {
+      "year": 1998,
+      "cpi_1914_100": 3754
+    },
+    {
+      "year": 1999,
+      "cpi_1914_100": 3772
+    },
+    {
+      "year": 2000,
+      "cpi_1914_100": 3809
+    },
+    {
+      "year": 2001,
+      "cpi_1914_100": 3902
+    },
+    {
+      "year": 2002,
+      "cpi_1914_100": 3986
+    },
+    {
+      "year": 2003,
+      "cpi_1914_100": 4063
+    },
+    {
+      "year": 2004,
+      "cpi_1914_100": 4078
+    },
+    {
+      "year": 2005,
+      "cpi_1914_100": 4097
+    },
+    {
+      "year": 2006,
+      "cpi_1914_100": 4152
+    },
+    {
+      "year": 2007,
+      "cpi_1914_100": 4244
+    },
+    {
+      "year": 2008,
+      "cpi_1914_100": 4390
+    },
+    {
+      "year": 2009,
+      "cpi_1914_100": 4378
+    },
+    {
+      "year": 2010,
+      "cpi_1914_100": 4434
+    },
+    {
+      "year": 2011,
+      "cpi_1914_100": 4550
+    },
+    {
+      "year": 2012,
+      "cpi_1914_100": 4590
+    },
+    {
+      "year": 2013,
+      "cpi_1914_100": 4588
+    },
+    {
+      "year": 2014,
+      "cpi_1914_100": 4580
+    },
+    {
+      "year": 2015,
+      "cpi_1914_100": 4578
+    },
+    {
+      "year": 2016,
+      "cpi_1914_100": 4623
+    },
+    {
+      "year": 2017,
+      "cpi_1914_100": 4706
+    },
+    {
+      "year": 2018,
+      "cpi_1914_100": 4798
+    },
+    {
+      "year": 2019,
+      "cpi_1914_100": 4884
+    },
+    {
+      "year": 2020,
+      "cpi_1914_100": 4908
+    },
+    {
+      "year": 2021,
+      "cpi_1914_100": 5014
+    },
+    {
+      "year": 2022,
+      "cpi_1914_100": 5434
+    },
+    {
+      "year": 2023,
+      "cpi_1914_100": 5898
+    },
+    {
+      "year": 2024,
+      "cpi_1914_100": 6065
+    },
+    {
+      "year": 2025,
+      "cpi_1914_100": 6107
+    }
+  ],
+  "meta": {
+    "title": "Konsumentprisindex (KPI) per år sedan 1914 - Free Download",
+    "description": "Årlig konsumentprisindex/levnadskostnadsindex för Sverige 1914–2025 med juli 1914 = 100, enligt SCB. Visar hur prisnivån utvecklats under drygt hundra år. Contains 112 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Konsumentprisindex (KPI) per år sedan 1914 | ListBase",
+    "seo_description": "Download Konsumentprisindex (KPI) per år sedan 1914 — 112 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 112 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__PR__PR0101__PR0101A/KPILevindexAr/"
+    ]
+  }
+}

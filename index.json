@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-24T02:10:44.260Z",
-  "total_datasets": 579,
-  "total_records": 2279534,
+  "generated": "2026-11-25T02:15:48.945Z",
+  "total_datasets": 580,
+  "total_records": 2279646,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "food",
@@ -2420,6 +2420,29 @@
         "xlsx": {
           "name": "sv-kafeer_SV.xlsx",
           "size": 119222
+        }
+      }
+    },
+    {
+      "id": "sv-konsumentprisindex-1914",
+      "name": "Konsumentprisindex (KPI) per år sedan 1914",
+      "category": "finance",
+      "record_count": 112,
+      "columns": [
+        "year",
+        "cpi_1914_100"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__PR__PR0101__PR0101A/KPILevindexAr/",
+      "updated": "2026-11",
+      "size": 8298,
+      "files": {
+        "csv": {
+          "name": "sv-konsumentprisindex-1914_SV.csv",
+          "size": 1529
+        },
+        "xlsx": {
+          "name": "sv-konsumentprisindex-1914_SV.xlsx",
+          "size": 8194
         }
       }
     },
