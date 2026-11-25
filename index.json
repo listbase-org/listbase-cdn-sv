@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-25T02:15:48.945Z",
-  "total_datasets": 580,
-  "total_records": 2279646,
+  "generated": "2026-11-25T02:15:57.823Z",
+  "total_datasets": 581,
+  "total_records": 2279682,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "history",
@@ -5197,6 +5197,32 @@
         "xlsx": {
           "name": "sv-medellivslangd-vid-fodelsen-per-riksomrade_SV.xlsx",
           "size": 8209
+        }
+      }
+    },
+    {
+      "id": "sv-rokning-och-snusning",
+      "name": "Daglig rökning och snusning i Sverige",
+      "category": "health",
+      "record_count": 36,
+      "columns": [
+        "period",
+        "sex",
+        "daily_smokers_pct",
+        "daily_snus_users_pct",
+        "daily_smoke_or_snus_pct"
+      ],
+      "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0101__LE0101H/LE01012021H06/",
+      "updated": "2026-11",
+      "size": 8201,
+      "files": {
+        "csv": {
+          "name": "sv-rokning-och-snusning_SV.csv",
+          "size": 1567
+        },
+        "xlsx": {
+          "name": "sv-rokning-och-snusning_SV.xlsx",
+          "size": 7757
         }
       }
     },

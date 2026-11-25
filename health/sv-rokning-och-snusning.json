@@ -1,0 +1,303 @@
+{
+  "id": "sv-rokning-och-snusning",
+  "name": "Daglig rökning och snusning i Sverige",
+  "title": "Daglig rökning och snusning i Sverige",
+  "description": "Andel personer 16 år och äldre som röker dagligen, snusar dagligen respektive röker och/eller snusar dagligen, efter kön och period 2008–2025, enligt SCB:s undersökningar av levnadsförhållanden (ULF/SILC).",
+  "category": "health",
+  "source": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0101__LE0101H/LE01012021H06/",
+  "source_url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0101__LE0101H/LE01012021H06/",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "sex",
+      "label": "Sex",
+      "type": "string"
+    },
+    {
+      "key": "daily_smokers_pct",
+      "label": "Daily Smokers Pct",
+      "type": "number"
+    },
+    {
+      "key": "daily_snus_users_pct",
+      "label": "Daily Snus Users Pct",
+      "type": "number"
+    },
+    {
+      "key": "daily_smoke_or_snus_pct",
+      "label": "Daily Smoke Or Snus Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "period": "2008-2009",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 14.1,
+      "daily_snus_users_pct": 11.6,
+      "daily_smoke_or_snus_pct": 24.4
+    },
+    {
+      "period": "2008-2009",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 15.3,
+      "daily_snus_users_pct": 3.2,
+      "daily_smoke_or_snus_pct": 18.1
+    },
+    {
+      "period": "2008-2009",
+      "sex": "Män",
+      "daily_smokers_pct": 12.9,
+      "daily_snus_users_pct": 20.1,
+      "daily_smoke_or_snus_pct": 30.9
+    },
+    {
+      "period": "2010-2011",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 13.3,
+      "daily_snus_users_pct": 11.2,
+      "daily_smoke_or_snus_pct": 23.3
+    },
+    {
+      "period": "2010-2011",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 14.2,
+      "daily_snus_users_pct": 3,
+      "daily_smoke_or_snus_pct": 16.9
+    },
+    {
+      "period": "2010-2011",
+      "sex": "Män",
+      "daily_smokers_pct": 12.4,
+      "daily_snus_users_pct": 19.5,
+      "daily_smoke_or_snus_pct": 29.9
+    },
+    {
+      "period": "2012-2013",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 11.8,
+      "daily_snus_users_pct": 12.1,
+      "daily_smoke_or_snus_pct": 22.7
+    },
+    {
+      "period": "2012-2013",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 12.4,
+      "daily_snus_users_pct": 3.6,
+      "daily_smoke_or_snus_pct": 15.6
+    },
+    {
+      "period": "2012-2013",
+      "sex": "Män",
+      "daily_smokers_pct": 11.2,
+      "daily_snus_users_pct": 20.7,
+      "daily_smoke_or_snus_pct": 30
+    },
+    {
+      "period": "2014-2015",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 11.3,
+      "daily_snus_users_pct": 12.2,
+      "daily_smoke_or_snus_pct": 22.2
+    },
+    {
+      "period": "2014-2015",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 11,
+      "daily_snus_users_pct": 3.9,
+      "daily_smoke_or_snus_pct": 14.5
+    },
+    {
+      "period": "2014-2015",
+      "sex": "Män",
+      "daily_smokers_pct": 11.6,
+      "daily_snus_users_pct": 20.7,
+      "daily_smoke_or_snus_pct": 30.1
+    },
+    {
+      "period": "2016-2017",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 10.7,
+      "daily_snus_users_pct": 12.9,
+      "daily_smoke_or_snus_pct": 22.5
+    },
+    {
+      "period": "2016-2017",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 10.8,
+      "daily_snus_users_pct": 4.3,
+      "daily_smoke_or_snus_pct": 14.7
+    },
+    {
+      "period": "2016-2017",
+      "sex": "Män",
+      "daily_smokers_pct": 10.6,
+      "daily_snus_users_pct": 21.6,
+      "daily_smoke_or_snus_pct": 30.3
+    },
+    {
+      "period": "2018-2019",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 10.2,
+      "daily_snus_users_pct": 13.2,
+      "daily_smoke_or_snus_pct": 22
+    },
+    {
+      "period": "2018-2019",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 9.9,
+      "daily_snus_users_pct": 4.6,
+      "daily_smoke_or_snus_pct": 14
+    },
+    {
+      "period": "2018-2019",
+      "sex": "Män",
+      "daily_smokers_pct": 10.6,
+      "daily_snus_users_pct": 21.7,
+      "daily_smoke_or_snus_pct": 30.1
+    },
+    {
+      "period": "2020",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 9.5,
+      "daily_snus_users_pct": 13.9,
+      "daily_smoke_or_snus_pct": 22.1
+    },
+    {
+      "period": "2020",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 8.7,
+      "daily_snus_users_pct": 5.6,
+      "daily_smoke_or_snus_pct": 13.9
+    },
+    {
+      "period": "2020",
+      "sex": "Män",
+      "daily_smokers_pct": 10.2,
+      "daily_snus_users_pct": 22.2,
+      "daily_smoke_or_snus_pct": 30.3
+    },
+    {
+      "period": "2021",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 9.7,
+      "daily_snus_users_pct": 14.3,
+      "daily_smoke_or_snus_pct": 22.6
+    },
+    {
+      "period": "2021",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 9.1,
+      "daily_snus_users_pct": 5.5,
+      "daily_smoke_or_snus_pct": 13.8
+    },
+    {
+      "period": "2021",
+      "sex": "Män",
+      "daily_smokers_pct": 10.2,
+      "daily_snus_users_pct": 23.1,
+      "daily_smoke_or_snus_pct": 31.4
+    },
+    {
+      "period": "2022",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 8.7,
+      "daily_snus_users_pct": 15,
+      "daily_smoke_or_snus_pct": 22.5
+    },
+    {
+      "period": "2022",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 8.5,
+      "daily_snus_users_pct": 7.1,
+      "daily_smoke_or_snus_pct": 15
+    },
+    {
+      "period": "2022",
+      "sex": "Män",
+      "daily_smokers_pct": 8.8,
+      "daily_snus_users_pct": 22.9,
+      "daily_smoke_or_snus_pct": 30.1
+    },
+    {
+      "period": "2023",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 8.5,
+      "daily_snus_users_pct": 15.1,
+      "daily_smoke_or_snus_pct": 22.6
+    },
+    {
+      "period": "2023",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 7.8,
+      "daily_snus_users_pct": 7.8,
+      "daily_smoke_or_snus_pct": 15
+    },
+    {
+      "period": "2023",
+      "sex": "Män",
+      "daily_smokers_pct": 9.2,
+      "daily_snus_users_pct": 22.4,
+      "daily_smoke_or_snus_pct": 30.2
+    },
+    {
+      "period": "2024",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 8.5,
+      "daily_snus_users_pct": 16.1,
+      "daily_smoke_or_snus_pct": 23.3
+    },
+    {
+      "period": "2024",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 8,
+      "daily_snus_users_pct": 8.6,
+      "daily_smoke_or_snus_pct": 15.9
+    },
+    {
+      "period": "2024",
+      "sex": "Män",
+      "daily_smokers_pct": 9.1,
+      "daily_snus_users_pct": 23.6,
+      "daily_smoke_or_snus_pct": 30.7
+    },
+    {
+      "period": "2025",
+      "sex": "Kvinnor och män",
+      "daily_smokers_pct": 8.4,
+      "daily_snus_users_pct": 16.2,
+      "daily_smoke_or_snus_pct": 23.6
+    },
+    {
+      "period": "2025",
+      "sex": "Kvinnor",
+      "daily_smokers_pct": 7.9,
+      "daily_snus_users_pct": 8.6,
+      "daily_smoke_or_snus_pct": 16
+    },
+    {
+      "period": "2025",
+      "sex": "Män",
+      "daily_smokers_pct": 8.9,
+      "daily_snus_users_pct": 23.7,
+      "daily_smoke_or_snus_pct": 31.2
+    }
+  ],
+  "meta": {
+    "title": "Daglig rökning och snusning i Sverige - Free Download",
+    "description": "Andel personer 16 år och äldre som röker dagligen, snusar dagligen respektive röker och/eller snusar dagligen, efter kön och period 2008–2025, enligt SCB:s undersökningar av levnadsförhållanden (ULF/SILC). Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Daglig rökning och snusning i Sverige | ListBase",
+    "seo_description": "Download Daglig rökning och snusning i Sverige — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0101__LE0101H/LE01012021H06/"
+    ]
+  }
+}
