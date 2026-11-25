@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-25T02:15:57.823Z",
-  "total_datasets": 581,
-  "total_records": 2279682,
+  "generated": "2026-11-25T02:16:27.110Z",
+  "total_datasets": 582,
+  "total_records": 2279777,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "politics",
@@ -6077,6 +6077,31 @@
         "xlsx": {
           "name": "sv-tingsratter-orter-per-lan_SV.xlsx",
           "size": 7666
+        }
+      }
+    },
+    {
+      "id": "sv-akademiska-korer",
+      "name": "Akademiska körer i Sverige",
+      "category": "music",
+      "record_count": 95,
+      "columns": [
+        "name",
+        "city",
+        "affiliation",
+        "choir_type"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_akademiska_körer_i_Sverige",
+      "updated": "2026-11",
+      "size": 14196,
+      "files": {
+        "csv": {
+          "name": "sv-akademiska-korer_SV.csv",
+          "size": 4449
+        },
+        "xlsx": {
+          "name": "sv-akademiska-korer_SV.xlsx",
+          "size": 9582
         }
       }
     },

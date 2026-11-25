@@ -1,0 +1,616 @@
+{
+  "id": "sv-akademiska-korer",
+  "name": "Akademiska körer i Sverige",
+  "title": "Akademiska körer i Sverige",
+  "description": "Studentkörer och akademiska körer vid svenska universitet, högskolor och studentnationer, med stad, anknytning (nation, högskola eller sektion) och kortyp (manskör/damkör) där det anges.",
+  "category": "music",
+  "source": "https://sv.wikipedia.org/wiki/Lista_över_akademiska_körer_i_Sverige",
+  "source_url": "https://sv.wikipedia.org/wiki/Lista_över_akademiska_körer_i_Sverige",
+  "updated": "2026-11",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "affiliation",
+      "label": "Affiliation",
+      "type": "string"
+    },
+    {
+      "key": "choir_type",
+      "label": "Choir Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Borås Studentkör",
+      "city": "Borås",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Akademiska Kören",
+      "city": "Göteborg",
+      "affiliation": "",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Bolagsstämmorna",
+      "city": "Göteborg",
+      "affiliation": "Handelshögskolan",
+      "choir_type": ""
+    },
+    {
+      "name": "Chalmers damkör",
+      "city": "Göteborg",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Chalmers kammarkör",
+      "city": "Göteborg",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Chalmers manskör",
+      "city": "Göteborg",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Chalmers sångkör",
+      "city": "Göteborg",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Chalmers vokalensemble",
+      "city": "Göteborg",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Corus Acusticus",
+      "city": "Göteborg",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Gosskören",
+      "city": "Göteborg",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Göteborgs akademiska kammarkör",
+      "city": "Göteborg",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Stella Academica",
+      "city": "Göteborg",
+      "affiliation": "",
+      "choir_type": "damkör"
+    },
+    {
+      "name": "Köörmit",
+      "city": "Halmstad",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Helsingborgs studentkör",
+      "city": "Helsingborg",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Jönköping University Vocal Ensemble - JUVE",
+      "city": "Jönköping",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Sällskapet CMB - Carlstads Manskörsbröder",
+      "city": "Karlstad",
+      "affiliation": "",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Söt Likör",
+      "city": "Karlstad",
+      "affiliation": "",
+      "choir_type": "damkör"
+    },
+    {
+      "name": "Akademiska Kören",
+      "city": "Linköping",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Chorus Lin",
+      "city": "Linköping",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "LiHtösen",
+      "city": "Linköping",
+      "affiliation": "",
+      "choir_type": "damkör"
+    },
+    {
+      "name": "Linköpings Studentsångare",
+      "city": "Linköping",
+      "affiliation": "",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Den akademiska damkören Linnea",
+      "city": "Linköping",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Röda Arméns Gosskör",
+      "city": "Linköping",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Östgöta Kammarkör",
+      "city": "Linköping",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Linköpings Indiekör",
+      "city": "Linköping",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Kvinnokören Embla",
+      "city": "Luleå",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Manskören Snapsakademien",
+      "city": "Luleå",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Studentkören Aurora",
+      "city": "Luleå",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Bella Voce",
+      "city": "Lund",
+      "affiliation": "Lunds studentsångerskor",
+      "choir_type": "damkör"
+    },
+    {
+      "name": "Carolinae Damkör",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Culpakören",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Gudrunkören",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Korallerna",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Förenade nationsmanskören",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "LTH-kören",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Lunds akademiska kör",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Lund International Students Choir",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Lunds Kammarkör",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Lunds Studentsångförening",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Lunds Vokalensemble",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Ostrochorus",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Palaestra vokalensemble",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Tornakören",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Ultraljud",
+      "city": "Lund",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Diastämma - Malmö Odontologiska Fakultetskör",
+      "city": "Malmö",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Malmö akademiska kör",
+      "city": "Malmö",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Malmö studentkör",
+      "city": "Malmö",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "SKÖN",
+      "city": "Norrköping",
+      "affiliation": "Studentkören i Norrköping",
+      "choir_type": ""
+    },
+    {
+      "name": "Akademiska Kören",
+      "city": "Stockholm",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "A Scalpella",
+      "city": "Stockholm",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Friedmans Apostlar",
+      "city": "Stockholm",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Kongl. Teknologkören",
+      "city": "Stockholm",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Osqstämman",
+      "city": "Stockholm",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Stockholms Akademiska Damkör",
+      "city": "Stockholm",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Stockholms Studentsångarförbund",
+      "city": "Stockholm",
+      "affiliation": "",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Stockholms universitetskör",
+      "city": "Stockholm",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "HumHum",
+      "city": "Stockholm",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Quackapella",
+      "city": "Stockholm",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Gungner",
+      "city": "Sundsvall",
+      "affiliation": "studentkören vid Mittuniversitetet i Sundsvall",
+      "choir_type": ""
+    },
+    {
+      "name": "Tors Bockar",
+      "city": "Sundsvall",
+      "affiliation": "Sundsvalls akademiska manskör",
+      "choir_type": ""
+    },
+    {
+      "name": "Nationskören",
+      "city": "Umeå",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Umeå Akademiska Kör",
+      "city": "Umeå",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Umeå Studentkör",
+      "city": "Umeå",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Allmänna Sången",
+      "city": "Uppsala",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Chorus Virorum",
+      "city": "Uppsala",
+      "affiliation": "Norrlands nation",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Cantus Feminis",
+      "city": "Uppsala",
+      "affiliation": "Norrlands nation",
+      "choir_type": "damkör"
+    },
+    {
+      "name": "UDK Discordia",
+      "city": "Uppsala",
+      "affiliation": "Uplands nation",
+      "choir_type": "damkör"
+    },
+    {
+      "name": "Gotlands nations kör",
+      "city": "Uppsala",
+      "affiliation": "Gotlands nation",
+      "choir_type": ""
+    },
+    {
+      "name": "Gôssegôbbera",
+      "city": "Uppsala",
+      "affiliation": "Värmlands nation",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Guldkören",
+      "city": "Uppsala",
+      "affiliation": "Göteborgs nation",
+      "choir_type": "damkör"
+    },
+    {
+      "name": "GH-kören",
+      "city": "Uppsala",
+      "affiliation": "Gästrike-Hälsinge nation",
+      "choir_type": ""
+    },
+    {
+      "name": "Kalmar nations kör",
+      "city": "Uppsala",
+      "affiliation": "Kalmar nation",
+      "choir_type": ""
+    },
+    {
+      "name": "La Cappella",
+      "city": "Uppsala",
+      "affiliation": "",
+      "choir_type": "damkör"
+    },
+    {
+      "name": "Lex Legato",
+      "city": "Uppsala",
+      "affiliation": "Juridiska Föreningens vokalensemble",
+      "choir_type": ""
+    },
+    {
+      "name": "Norrlands Nations Kammarkör",
+      "city": "Uppsala",
+      "affiliation": "Norrlands nation",
+      "choir_type": ""
+    },
+    {
+      "name": "Orphei Drängar",
+      "city": "Uppsala",
+      "affiliation": "",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Linnéakören",
+      "city": "Uppsala",
+      "affiliation": "Smålands nation",
+      "choir_type": "damkör"
+    },
+    {
+      "name": "Smålands nations herrensemble",
+      "city": "Uppsala",
+      "affiliation": "Smålands nation",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Sångarbröderna",
+      "city": "Uppsala",
+      "affiliation": "Västmanlands-Dala nation",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Sånggripen",
+      "city": "Uppsala",
+      "affiliation": "Östgöta nation",
+      "choir_type": ""
+    },
+    {
+      "name": "Södermanlands-Nerikes nationskör",
+      "city": "Uppsala",
+      "affiliation": "Södermanlands-Nerikes nation",
+      "choir_type": ""
+    },
+    {
+      "name": "Sönerna - Södermanlands-Nerikes nation",
+      "city": "Uppsala",
+      "affiliation": "",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Ulla",
+      "city": "Uppsala",
+      "affiliation": "Sveriges lantbruksuniversitet",
+      "choir_type": "damkör"
+    },
+    {
+      "name": "Ultunae Drängar",
+      "city": "Uppsala",
+      "affiliation": "Sveriges lantbruksuniversitet",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Uppsala akademiska kammarkör",
+      "city": "Uppsala",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Uppsala studentmanskörer",
+      "city": "Uppsala",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Värmlands Nations Kör",
+      "city": "Uppsala",
+      "affiliation": "Värmlands nation",
+      "choir_type": ""
+    },
+    {
+      "name": "Västgöta nations manskör",
+      "city": "Uppsala",
+      "affiliation": "Västgöta nation",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Västgöta nations damkör",
+      "city": "Uppsala",
+      "affiliation": "Västgöta nation",
+      "choir_type": "damkör"
+    },
+    {
+      "name": "Västgöta nations kör",
+      "city": "Uppsala",
+      "affiliation": "Västgöta nation",
+      "choir_type": ""
+    },
+    {
+      "name": "V-Dalakören",
+      "city": "Uppsala",
+      "affiliation": "Västmanlands-Dala nation",
+      "choir_type": ""
+    },
+    {
+      "name": "X-men",
+      "city": "Uppsala",
+      "affiliation": "X-sektionen, UTN",
+      "choir_type": "manskör"
+    },
+    {
+      "name": "Akademiska Kören",
+      "city": "Växjö",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Linnékören",
+      "city": "Växjö",
+      "affiliation": "",
+      "choir_type": ""
+    },
+    {
+      "name": "Örebro studentsångare (Örebro University Choir)",
+      "city": "Örebro",
+      "affiliation": "",
+      "choir_type": ""
+    }
+  ],
+  "meta": {
+    "title": "Akademiska körer i Sverige - Free Download",
+    "description": "Studentkörer och akademiska körer vid svenska universitet, högskolor och studentnationer, med stad, anknytning (nation, högskola eller sektion) och kortyp (manskör/damkör) där det anges. Contains 95 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Akademiska körer i Sverige | ListBase",
+    "seo_description": "Download Akademiska körer i Sverige — 95 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 95 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Lista_över_akademiska_körer_i_Sverige"
+    ]
+  }
+}
