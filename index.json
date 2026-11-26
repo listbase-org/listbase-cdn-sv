@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-26T02:22:25.905Z",
-  "total_datasets": 584,
-  "total_records": 2279874,
+  "generated": "2026-11-26T02:24:37.070Z",
+  "total_datasets": 585,
+  "total_records": 2281027,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "language",
@@ -5376,6 +5376,34 @@
         "xlsx": {
           "name": "sv-arkebiskopar-uppsala_SV.xlsx",
           "size": 13324
+        }
+      }
+    },
+    {
+      "id": "sv-fornborgar",
+      "name": "Fornborgar i Sverige",
+      "category": "history",
+      "record_count": 1153,
+      "columns": [
+        "raa_nummer",
+        "namn",
+        "landskap",
+        "socken",
+        "lat",
+        "lon",
+        "kommentar"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Lista_över_svenska_fornborgar",
+      "updated": "2026-11",
+      "size": 263149,
+      "files": {
+        "csv": {
+          "name": "sv-fornborgar_SV.csv",
+          "size": 113786
+        },
+        "xlsx": {
+          "name": "sv-fornborgar_SV.xlsx",
+          "size": 71529
         }
       }
     },
