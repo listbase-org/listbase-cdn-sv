@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-25T02:16:27.110Z",
-  "total_datasets": 582,
-  "total_records": 2279777,
+  "generated": "2026-11-26T02:22:16.994Z",
+  "total_datasets": 583,
+  "total_records": 2279844,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "music",
@@ -5929,6 +5929,33 @@
         "xlsx": {
           "name": "sv-justitieombudsman_SV.xlsx",
           "size": 8588
+        }
+      }
+    },
+    {
+      "id": "sv-kriminalvardsanstalter",
+      "name": "Kriminalvårdsanstalter i Sverige",
+      "category": "law",
+      "record_count": 67,
+      "columns": [
+        "namn",
+        "status",
+        "kommun",
+        "lan",
+        "lat",
+        "lon"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Anstalt_(kriminalvård)",
+      "updated": "2026-11",
+      "size": 13241,
+      "files": {
+        "csv": {
+          "name": "sv-kriminalvardsanstalter_SV.csv",
+          "size": 4802
+        },
+        "xlsx": {
+          "name": "sv-kriminalvardsanstalter_SV.xlsx",
+          "size": 9505
         }
       }
     },

@@ -1,0 +1,592 @@
+{
+  "id": "sv-kriminalvardsanstalter",
+  "name": "Kriminalvårdsanstalter i Sverige",
+  "title": "Kriminalvårdsanstalter i Sverige",
+  "description": "Svenska fängelser (kriminalvårdsanstalter) i drift samt tidigare/nedlagda anstalter, med kommun, län och koordinater där uppgift finns i Wikidata.",
+  "category": "law",
+  "source": "https://sv.wikipedia.org/wiki/Anstalt_(kriminalvård)",
+  "source_url": "https://sv.wikipedia.org/wiki/Anstalt_(kriminalvård)",
+  "updated": "2026-11",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "namn",
+      "label": "Namn",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "kommun",
+      "label": "Kommun",
+      "type": "string"
+    },
+    {
+      "key": "lan",
+      "label": "Lan",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "namn": "Anstalten Asptuna",
+      "status": "i drift",
+      "kommun": "Botkyrka kommun",
+      "lan": "Stockholms län",
+      "lat": 59.23389,
+      "lon": 17.79889
+    },
+    {
+      "namn": "Anstalten Beateberg",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 59.22111,
+      "lon": 18.13722
+    },
+    {
+      "namn": "Anstalten Borås",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 57.715,
+      "lon": 12.89472
+    },
+    {
+      "namn": "Anstalten Brinkeberg",
+      "status": "i drift",
+      "kommun": "Vänersborgs kommun",
+      "lan": "Västra Götalands län",
+      "lat": 58.345,
+      "lon": 12.36806
+    },
+    {
+      "namn": "Anstalten Fosie",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Färingsö",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 59.36778,
+      "lon": 17.73444
+    },
+    {
+      "namn": "Anstalten Gruvberget",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Gävle",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Hall",
+      "status": "i drift",
+      "kommun": "Södertälje kommun",
+      "lan": "Stockholms län",
+      "lat": 59.16417,
+      "lon": 17.67917
+    },
+    {
+      "namn": "Anstalten Halmstad",
+      "status": "i drift",
+      "kommun": "Halmstads kommun",
+      "lan": "Hallands län",
+      "lat": 56.67417,
+      "lon": 12.80361
+    },
+    {
+      "namn": "Anstalten Haparanda",
+      "status": "i drift",
+      "kommun": "Haparanda kommun",
+      "lan": "Norrbottens län",
+      "lat": 65.83111,
+      "lon": 24.12722
+    },
+    {
+      "namn": "Anstalten Helsingborg",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Hinseberg",
+      "status": "i drift",
+      "kommun": "Lindesbergs kommun",
+      "lan": "Örebro län",
+      "lat": 59.45806,
+      "lon": 15.35806
+    },
+    {
+      "namn": "Anstalten Hällby",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 59.41333,
+      "lon": 16.35222
+    },
+    {
+      "namn": "Anstalten Härnösand",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Högsbo",
+      "status": "i drift",
+      "kommun": "Göteborgs kommun",
+      "lan": "Västra Götalands län",
+      "lat": 57.65389,
+      "lon": 11.95389
+    },
+    {
+      "namn": "Anstalten Johannesberg",
+      "status": "i drift",
+      "kommun": "Mariestads kommun",
+      "lan": "Västra Götalands län",
+      "lat": 58.70722,
+      "lon": 13.84306
+    },
+    {
+      "namn": "Anstalten Kalmar",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 56.66333,
+      "lon": 16.35806
+    },
+    {
+      "namn": "Anstalten Karlskoga",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 59.3247,
+      "lon": 14.4664
+    },
+    {
+      "namn": "Anstalten Kristianstad",
+      "status": "i drift",
+      "kommun": "Kristianstads kommun",
+      "lan": "Skåne län",
+      "lat": 55.9825,
+      "lon": 14.08028
+    },
+    {
+      "namn": "Anstalten Kolmården",
+      "status": "i drift",
+      "kommun": "Norrköpings kommun",
+      "lan": "Östergötlands län",
+      "lat": 58.67383,
+      "lon": 16.33889
+    },
+    {
+      "namn": "Anstalten Kumla",
+      "status": "i drift",
+      "kommun": "Kumla kommun",
+      "lan": "Örebro län",
+      "lat": 59.11906,
+      "lon": 15.12742
+    },
+    {
+      "namn": "Anstalten Ljustadalen",
+      "status": "i drift",
+      "kommun": "Sundsvalls kommun",
+      "lan": "Västernorrlands län",
+      "lat": 62.43583,
+      "lon": 17.3575
+    },
+    {
+      "namn": "Anstalten Luleå",
+      "status": "i drift",
+      "kommun": "Luleå kommun",
+      "lan": "Norrbottens län",
+      "lat": 65.62139,
+      "lon": 22.1325
+    },
+    {
+      "namn": "Anstalten Mariefred",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 59.27444,
+      "lon": 17.24861
+    },
+    {
+      "namn": "Anstalten Norrtälje",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 59.76917,
+      "lon": 18.70861
+    },
+    {
+      "namn": "Anstalten Nyköping",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Ringsjön",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Rödjan",
+      "status": "i drift",
+      "kommun": "Mariestads kommun",
+      "lan": "Västra Götalands län",
+      "lat": 58.7004,
+      "lon": 13.78005
+    },
+    {
+      "namn": "Anstalten Sagsjön",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 57.58389,
+      "lon": 12.07611
+    },
+    {
+      "namn": "Anstalten Salberga",
+      "status": "i drift",
+      "kommun": "Sala kommun",
+      "lan": "Västmanlands län",
+      "lat": 59.92611,
+      "lon": 16.57972
+    },
+    {
+      "namn": "Anstalten Saltvik",
+      "status": "i drift",
+      "kommun": "Härnösands kommun",
+      "lan": "Västernorrlands län",
+      "lat": 62.65361,
+      "lon": 17.895
+    },
+    {
+      "namn": "Anstalten Skenäs",
+      "status": "i drift",
+      "kommun": "Norrköpings kommun",
+      "lan": "Östergötlands län",
+      "lat": 58.62361,
+      "lon": 16.57917
+    },
+    {
+      "namn": "Anstalten Skogome",
+      "status": "i drift",
+      "kommun": "Göteborgs kommun",
+      "lan": "Västra Götalands län",
+      "lat": 57.76556,
+      "lon": 11.95222
+    },
+    {
+      "namn": "Anstalten Skänninge",
+      "status": "i drift",
+      "kommun": "Mjölby kommun",
+      "lan": "Östergötlands län",
+      "lat": 58.39883,
+      "lon": 15.09341
+    },
+    {
+      "namn": "Anstalten Storboda",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Svartsjö",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 59.36472,
+      "lon": 17.73083
+    },
+    {
+      "namn": "Anstalten Sörbyn",
+      "status": "i drift",
+      "kommun": "Umeå kommun",
+      "lan": "Västerbottens län",
+      "lat": 63.55,
+      "lon": 19.748
+    },
+    {
+      "namn": "Anstalten Tidaholm",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 58.17917,
+      "lon": 13.93556
+    },
+    {
+      "namn": "Anstalten Tillberga",
+      "status": "i drift",
+      "kommun": "Västerås kommun",
+      "lan": "Västmanlands län",
+      "lat": 59.68778,
+      "lon": 16.63083
+    },
+    {
+      "namn": "Anstalten Tygelsjö",
+      "status": "i drift",
+      "kommun": "Malmö kommun",
+      "lan": "Skåne län",
+      "lat": 55.50889,
+      "lon": 12.94861
+    },
+    {
+      "namn": "Anstalten Täby",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Umeå",
+      "status": "i drift",
+      "kommun": "Umeå kommun",
+      "lan": "Västerbottens län",
+      "lat": 63.85222,
+      "lon": 20.34528
+    },
+    {
+      "namn": "Anstalten Västervik Norra",
+      "status": "i drift",
+      "kommun": "Västerviks kommun",
+      "lan": "Kalmar län",
+      "lat": 57.78361,
+      "lon": 16.58944
+    },
+    {
+      "namn": "Anstalten Ystad",
+      "status": "i drift",
+      "kommun": "Ystads kommun",
+      "lan": "Skåne län",
+      "lat": 55.44972,
+      "lon": 13.84972
+    },
+    {
+      "namn": "Anstalten Åby",
+      "status": "i drift",
+      "kommun": "",
+      "lan": "",
+      "lat": 59.85778,
+      "lon": 17.83083
+    },
+    {
+      "namn": "Anstalten Österåker",
+      "status": "i drift",
+      "kommun": "Österåkers kommun",
+      "lan": "Stockholms län",
+      "lat": 59.5222,
+      "lon": 18.2889
+    },
+    {
+      "namn": "Anstalten Östragård",
+      "status": "i drift",
+      "kommun": "Vänersborgs kommun",
+      "lan": "Västra Götalands län",
+      "lat": 58.34306,
+      "lon": 12.36444
+    },
+    {
+      "namn": "Kronohäktet i Ystad",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Håga",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Karlskrona",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Kristianstad Centrum",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Malmö Kirseberg",
+      "status": "nedlagd/tidigare",
+      "kommun": "Kirseberg",
+      "lan": "Skåne län",
+      "lat": 55.61167,
+      "lon": 13.04
+    },
+    {
+      "namn": "Anstalten Mariestad",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Norrköping",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Rostorp",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Roxtuna",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Smälteryd",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Ulriksfors",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Visby",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Viskan",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Anstalten Västervik Centrum",
+      "status": "nedlagd/tidigare",
+      "kommun": "Västerviks kommun",
+      "lan": "Kalmar län",
+      "lat": 57.75516,
+      "lon": 16.64247
+    },
+    {
+      "namn": "Falu fängelse",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Gävleborgs fd länscellfängelse",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Härlandafängelset",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Långholmens fängelse",
+      "status": "nedlagd/tidigare",
+      "kommun": "",
+      "lan": "",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "namn": "Umeå gamla fängelse",
+      "status": "nedlagd/tidigare",
+      "kommun": "Umeå kommun",
+      "lan": "Västerbottens län",
+      "lat": 63.82233,
+      "lon": 20.27539
+    }
+  ],
+  "meta": {
+    "title": "Kriminalvårdsanstalter i Sverige - Free Download",
+    "description": "Svenska fängelser (kriminalvårdsanstalter) i drift samt tidigare/nedlagda anstalter, med kommun, län och koordinater där uppgift finns i Wikidata. Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kriminalvårdsanstalter i Sverige | ListBase",
+    "seo_description": "Download Kriminalvårdsanstalter i Sverige — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Anstalt_(kriminalvård)"
+    ]
+  }
+}
