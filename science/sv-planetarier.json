@@ -1,0 +1,156 @@
+{
+  "id": "sv-planetarier",
+  "name": "Planetarier i Sverige",
+  "title": "Planetarier i Sverige",
+  "description": "Planetarier i Sverige med ort/anläggning och typ (fast eller mobilt planetarium).",
+  "category": "science",
+  "source": "https://sv.wikipedia.org/wiki/Planetarium",
+  "source_url": "https://sv.wikipedia.org/wiki/Planetarium",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "planetarium",
+      "label": "Planetarium",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "planetarium": "Borlänge Planetarium, 2047 Science Center",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Borås Planetarium, Navet",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Falun, Broman Planetarium",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Gäddede, Frostvikens observatorium",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Gävle, Högskolan",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Göteborg, Observatoriet i Slottsskogen (litet: 3 meter i diameter, 17 åskådarplatser)",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Härnösandplanetariet, Technichus",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Härnösand, Mittuniversitetet",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Jönköping, Upptech",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Karlshamn, Kreativum Science Center",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Karlstad, Universitetet",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Kristianstad, Högskolan",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Luleåplanetariet, Teknikens Hus",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Lund, Planetariet i Lund",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Norrköping, Visualiseringscenter C",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Munkforsplanetariet, Ransäters hembygdsgård",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Ronnebyplanetariet",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Skellefteåplanetariet, Teknobalder",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Spånga Naturvetenskapscentrum",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Stockholm, Cosmonova, Naturhistoriska Riksmuseet",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Stenstorp, Dalénium - Science Center",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Sundsvall, Sundsvalls gymnasium",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Södertälje Planetarium, Tom Tits Experiment",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Sölvesborg, Yndegården",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Tranås, Starlab AB",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Trollhättan, Innovatum",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Uddevalla, Gymnasiet",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Umeå, Umevatoriet",
+      "typ": "fast"
+    },
+    {
+      "planetarium": "Visby, Gotlands Fornsal",
+      "typ": "mobilt"
+    },
+    {
+      "planetarium": "Växjö Planetarium, Xperimenthuset",
+      "typ": "mobilt"
+    }
+  ],
+  "meta": {
+    "title": "Planetarier i Sverige - Free Download",
+    "description": "Planetarier i Sverige med ort/anläggning och typ (fast eller mobilt planetarium). Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Planetarier i Sverige | ListBase",
+    "seo_description": "Download Planetarier i Sverige — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Planetarium"
+    ]
+  }
+}

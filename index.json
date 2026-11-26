@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-26T02:22:16.994Z",
-  "total_datasets": 583,
-  "total_records": 2279844,
+  "generated": "2026-11-26T02:22:25.905Z",
+  "total_datasets": 584,
+  "total_records": 2279874,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "society",
@@ -12971,6 +12971,29 @@
         "xlsx": {
           "name": "sv-ledamoter-kungliga-vetenskapsakademien_SV.xlsx",
           "size": 91725
+        }
+      }
+    },
+    {
+      "id": "sv-planetarier",
+      "name": "Planetarier i Sverige",
+      "category": "science",
+      "record_count": 30,
+      "columns": [
+        "planetarium",
+        "typ"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Planetarium",
+      "updated": "2026-11",
+      "size": 3913,
+      "files": {
+        "csv": {
+          "name": "sv-planetarier_SV.csv",
+          "size": 1293
+        },
+        "xlsx": {
+          "name": "sv-planetarier_SV.xlsx",
+          "size": 7605
         }
       }
     },
