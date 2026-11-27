@@ -1,0 +1,178 @@
+{
+  "id": "sv-kungsleden-etapper",
+  "name": "Kungsledens etapper",
+  "title": "Kungsledens etapper",
+  "description": "Etapper längs vandringsleden Kungsleden i den svenska fjällvärlden från Abisko till Hemavan, inklusive anslutningen Nikkaluokta–Singi, med start, mål och längd i kilometer.",
+  "category": "tourism",
+  "source": "https://sv.wikipedia.org/wiki/Kungsleden",
+  "source_url": "https://sv.wikipedia.org/wiki/Kungsleden",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "delstracka",
+      "label": "Delstracka",
+      "type": "string"
+    },
+    {
+      "key": "fran",
+      "label": "Fran",
+      "type": "string"
+    },
+    {
+      "key": "till",
+      "label": "Till",
+      "type": "string"
+    },
+    {
+      "key": "langd_km",
+      "label": "Langd Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "delstracka": "Abisko–Singi",
+      "fran": "Abisko",
+      "till": "Abiskojaure",
+      "langd_km": 15
+    },
+    {
+      "delstracka": "Abisko–Singi",
+      "fran": "Abiskojaure",
+      "till": "Alesjaure",
+      "langd_km": 20
+    },
+    {
+      "delstracka": "Abisko–Singi",
+      "fran": "Alesjaure",
+      "till": "Tjäktjapasset",
+      "langd_km": 13
+    },
+    {
+      "delstracka": "Abisko–Singi",
+      "fran": "Tjäktjapasset",
+      "till": "Sälka",
+      "langd_km": 12
+    },
+    {
+      "delstracka": "Abisko–Singi",
+      "fran": "Sälka",
+      "till": "Singi",
+      "langd_km": 12
+    },
+    {
+      "delstracka": "Singi–Vakkotavare",
+      "fran": "Singi",
+      "till": "Kaitumjaure",
+      "langd_km": 13
+    },
+    {
+      "delstracka": "Singi–Vakkotavare",
+      "fran": "Kaitumjaure",
+      "till": "Teusajaure",
+      "langd_km": 9
+    },
+    {
+      "delstracka": "Singi–Vakkotavare",
+      "fran": "Teusajaure",
+      "till": "Vakkotavare",
+      "langd_km": 15
+    },
+    {
+      "delstracka": "Saltoluokta–Kvikkjokk",
+      "fran": "Saltoluokta",
+      "till": "Sitojaure",
+      "langd_km": 19
+    },
+    {
+      "delstracka": "Saltoluokta–Kvikkjokk",
+      "fran": "Sitojaure",
+      "till": "Aktse",
+      "langd_km": 10
+    },
+    {
+      "delstracka": "Saltoluokta–Kvikkjokk",
+      "fran": "Aktse",
+      "till": "Pårte",
+      "langd_km": 22
+    },
+    {
+      "delstracka": "Saltoluokta–Kvikkjokk",
+      "fran": "Pårte",
+      "till": "Kvikkjokk",
+      "langd_km": 17
+    },
+    {
+      "delstracka": "Kvikkjokk–Jäkkvik",
+      "fran": "Kvikkjokk",
+      "till": "Jäkkvik",
+      "langd_km": 96
+    },
+    {
+      "delstracka": "Jäkkvik–Ammarnäs",
+      "fran": "Jäkkvik",
+      "till": "Ammarnäs",
+      "langd_km": 83
+    },
+    {
+      "delstracka": "Ammarnäs–Hemavan",
+      "fran": "Ammarnäs",
+      "till": "Aigert",
+      "langd_km": 8
+    },
+    {
+      "delstracka": "Ammarnäs–Hemavan",
+      "fran": "Aigert",
+      "till": "Serve",
+      "langd_km": 19
+    },
+    {
+      "delstracka": "Ammarnäs–Hemavan",
+      "fran": "Serve",
+      "till": "Tärnasjö",
+      "langd_km": 14
+    },
+    {
+      "delstracka": "Ammarnäs–Hemavan",
+      "fran": "Tärnasjö",
+      "till": "Syter",
+      "langd_km": 14
+    },
+    {
+      "delstracka": "Ammarnäs–Hemavan",
+      "fran": "Syter",
+      "till": "Viterskalet",
+      "langd_km": 12
+    },
+    {
+      "delstracka": "Ammarnäs–Hemavan",
+      "fran": "Viterskalet",
+      "till": "Hemavan",
+      "langd_km": 11
+    },
+    {
+      "delstracka": "Nikkaluokta–Singi (anslutning till Kungsleden)",
+      "fran": "Nikkaluokta",
+      "till": "Kebnekaise fjällstation",
+      "langd_km": 19
+    },
+    {
+      "delstracka": "Nikkaluokta–Singi (anslutning till Kungsleden)",
+      "fran": "Kebnekaise fjällstation",
+      "till": "Singi",
+      "langd_km": 14
+    }
+  ],
+  "meta": {
+    "title": "Kungsledens etapper - Free Download",
+    "description": "Etapper längs vandringsleden Kungsleden i den svenska fjällvärlden från Abisko till Hemavan, inklusive anslutningen Nikkaluokta–Singi, med start, mål och längd i kilometer. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kungsledens etapper | ListBase",
+    "seo_description": "Download Kungsledens etapper — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sv.wikipedia.org/wiki/Kungsleden"
+    ]
+  }
+}

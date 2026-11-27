@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-26T02:24:37.070Z",
-  "total_datasets": 585,
-  "total_records": 2281027,
+  "generated": "2026-11-27T02:21:27.917Z",
+  "total_datasets": 586,
+  "total_records": 2281049,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "transport",
@@ -14374,6 +14374,31 @@
         "xlsx": {
           "name": "sv-hotell_SV.xlsx",
           "size": 61077
+        }
+      }
+    },
+    {
+      "id": "sv-kungsleden-etapper",
+      "name": "Kungsledens etapper",
+      "category": "tourism",
+      "record_count": 22,
+      "columns": [
+        "delstracka",
+        "fran",
+        "till",
+        "langd_km"
+      ],
+      "source": "https://sv.wikipedia.org/wiki/Kungsleden",
+      "updated": "2026-11",
+      "size": 4492,
+      "files": {
+        "csv": {
+          "name": "sv-kungsleden-etapper_SV.csv",
+          "size": 1212
+        },
+        "xlsx": {
+          "name": "sv-kungsleden-etapper_SV.xlsx",
+          "size": 7381
         }
       }
     },
