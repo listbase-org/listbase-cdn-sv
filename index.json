@@ -1,8 +1,8 @@
 {
   "lang": "sv",
-  "generated": "2026-11-27T02:21:27.917Z",
-  "total_datasets": 586,
-  "total_records": 2281049,
+  "generated": "2026-11-27T02:21:37.036Z",
+  "total_datasets": 587,
+  "total_records": 2282411,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "transport",
@@ -14519,6 +14519,31 @@
         "xlsx": {
           "name": "sv-utsiktspunkter_SV.xlsx",
           "size": 24027
+        }
+      }
+    },
+    {
+      "id": "sv-vandringsleder",
+      "name": "Vandringsleder i Sverige",
+      "category": "tourism",
+      "record_count": 1362,
+      "columns": [
+        "namn",
+        "langd_km",
+        "kommun_omrade",
+        "wikidata"
+      ],
+      "source": "https://www.wikidata.org/wiki/Q2143825",
+      "updated": "2026-11",
+      "size": 216676,
+      "files": {
+        "csv": {
+          "name": "sv-vandringsleder_SV.csv",
+          "size": 96774
+        },
+        "xlsx": {
+          "name": "sv-vandringsleder_SV.xlsx",
+          "size": 59512
         }
       }
     },
